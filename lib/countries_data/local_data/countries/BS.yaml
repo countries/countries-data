@@ -1,0 +1,47 @@
+---
+BS:
+  continent: North America
+  alpha2: BS
+  alpha3: BHS
+  country_code: '1'
+  international_prefix: '011'
+  ioc: BAH
+  gec: BF
+  name: Bahamas
+  national_destination_code_lengths:
+  - 3
+  national_number_lengths:
+  - 10
+  national_prefix: '1'
+  number: '044'
+  region: Americas
+  subregion: Caribbean
+  world_region: AMER
+  un_locode: BS
+  nationality: Bahamian
+  postal_code: false
+  unofficial_names:
+  - Bahamas
+  - "バハマ"
+  - Bahama’s
+  languages_official:
+  - en
+  languages_spoken:
+  - en
+  geo:
+    latitude: 25.03428
+    latitude_dec: '25.035648345947266'
+    longitude: -77.39627999999999
+    longitude_dec: "-77.39512634277344"
+    max_latitude: 27.2633621
+    max_longitude: -72.7120686
+    min_latitude: 20.9101345
+    min_longitude: -80.4749465
+    bounds:
+      northeast:
+        lat: 27.2633621
+        lng: -72.7120686
+      southwest:
+        lat: 20.9101345
+        lng: -80.4749465
+  currency_code: BSD

@@ -1,0 +1,46 @@
+---
+AW:
+  continent: North America
+  alpha2: AW
+  alpha3: ABW
+  country_code: '297'
+  international_prefix: '00'
+  ioc: ARU
+  gec: AA
+  name: Aruba
+  national_destination_code_lengths:
+  - 2
+  national_number_lengths:
+  - 7
+  national_prefix: None
+  number: '533'
+  region: Americas
+  subregion: Caribbean
+  world_region: AMER
+  un_locode: AW
+  nationality: Aruban
+  postal_code: false
+  unofficial_names:
+  - Aruba
+  - "アルバ"
+  languages_official:
+  - nl
+  languages_spoken:
+  - nl
+  geo:
+    latitude: 12.52111
+    latitude_dec: '12.506523132324219'
+    longitude: -69.968338
+    longitude_dec: "-69.96931457519531"
+    max_latitude: 12.623363
+    max_longitude: -69.8656548
+    min_latitude: 12.4117656
+    min_longitude: -70.0660257
+    bounds:
+      northeast:
+        lat: 12.623363
+        lng: -69.8656548
+      southwest:
+        lat: 12.4117656
+        lng: -70.0660257
+  currency_code: AWG

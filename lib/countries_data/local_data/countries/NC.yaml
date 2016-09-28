@@ -1,0 +1,50 @@
+---
+NC:
+  continent: Australia
+  alpha2: NC
+  alpha3: NCL
+  country_code: '687'
+  international_prefix: '00'
+  ioc: 
+  gec: NC
+  name: New Caledonia
+  national_destination_code_lengths:
+  - 2
+  national_number_lengths:
+  - 6
+  national_prefix: None
+  number: '540'
+  region: Oceania
+  subregion: Melanesia
+  world_region: APAC
+  un_locode: NC
+  nationality: New Caledonian
+  postal_code: true
+  unofficial_names:
+  - New Caledonia
+  - Neukaledonien
+  - Nouvelle Calédonie
+  - Nueva Caledonia
+  - "ニューカレドニア"
+  - Nieuw-Caledonië
+  languages_official:
+  - fr
+  languages_spoken:
+  - fr
+  geo:
+    latitude: -20.904305
+    latitude_dec: "-21.31782341003418"
+    longitude: 165.618042
+    longitude_dec: '165.298583984375'
+    max_latitude: -19.5395087
+    max_longitude: 168.1336819
+    min_latitude: -22.8819479
+    min_longitude: 163.5697048
+    bounds:
+      northeast:
+        lat: -19.5395087
+        lng: 168.1336819
+      southwest:
+        lat: -22.8819479
+        lng: 163.5697048
+  currency_code: XPF

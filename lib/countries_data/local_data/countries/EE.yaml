@@ -1,0 +1,57 @@
+---
+EE:
+  continent: Europe
+  alpha2: EE
+  alpha3: EST
+  country_code: '372'
+  international_prefix: '00'
+  ioc: EST
+  gec: EN
+  name: Estonia
+  national_destination_code_lengths:
+  - 2
+  national_number_lengths:
+  - 7
+  - 8
+  national_prefix: None
+  number: '233'
+  region: Europe
+  subregion: Northern Europe
+  world_region: EMEA
+  un_locode: EE
+  nationality: Estonian
+  eu_member: true
+  eea_member: true
+  vat_rates:
+    standard: 20
+    reduced:
+    - 9
+    super_reduced: 
+    parking: 
+  postal_code: true
+  unofficial_names:
+  - Estonia
+  - Estland
+  - Estonie
+  - "エストニア"
+  languages_official:
+  - et
+  languages_spoken:
+  - et
+  geo:
+    latitude: 58.595272
+    latitude_dec: '58.69374465942383'
+    longitude: 25.013607
+    longitude_dec: '25.24162483215332'
+    max_latitude: 59.7003049
+    max_longitude: 28.2089249
+    min_latitude: 57.50931589999999
+    min_longitude: 21.7643132
+    bounds:
+      northeast:
+        lat: 59.7003049
+        lng: 28.2089249
+      southwest:
+        lat: 57.50931589999999
+        lng: 21.7643132
+  currency_code: EUR

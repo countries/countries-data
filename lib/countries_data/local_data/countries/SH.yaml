@@ -1,0 +1,51 @@
+---
+SH:
+  continent: Africa
+  alpha2: SH
+  alpha3: SHN
+  country_code: '290'
+  international_prefix: '00'
+  ioc: 
+  gec: SH
+  name: Saint Helena
+  national_destination_code_lengths:
+  - 2
+  national_number_lengths:
+  - 4
+  national_prefix: None
+  number: '654'
+  region: Africa
+  subregion: Western Africa
+  world_region: APAC
+  un_locode: SH
+  nationality: Saint Helenian
+  postal_code: true
+  unofficial_names:
+  - Saint Helena
+  - Sankt Helena
+  - Sainte Hélène
+  - Santa Helena
+  - "セントヘレナ・アセンションおよびトリスタンダクーニャ"
+  - Sint-Helena
+  - Saint Helena, Ascension and Tristan da Cunha
+  languages_official:
+  - en
+  languages_spoken:
+  - en
+  geo:
+    latitude: 38.5052429
+    latitude_dec: "-15.957334518432617"
+    longitude: -122.4703868
+    longitude_dec: "-5.716914176940918"
+    max_latitude: 38.523055
+    max_longitude: -122.4363226
+    min_latitude: 38.4864741
+    min_longitude: -122.495042
+    bounds:
+      northeast:
+        lat: 38.523055
+        lng: -122.4363226
+      southwest:
+        lat: 38.4864741
+        lng: -122.495042
+  currency_code: SHP

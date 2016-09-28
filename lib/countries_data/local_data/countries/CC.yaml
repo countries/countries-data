@@ -1,0 +1,48 @@
+---
+CC:
+  continent: Asia
+  alpha2: CC
+  alpha3: CCK
+  country_code: '61'
+  international_prefix: '0011'
+  ioc: 
+  gec: CK
+  name: Cocos (Keeling) Islands
+  national_destination_code_lengths:
+  - 2
+  national_number_lengths:
+  - 9
+  national_prefix: '0'
+  number: '166'
+  region: Oceania
+  subregion: Australia and New Zealand
+  world_region: APAC
+  un_locode: CC
+  nationality: Cocos Islander
+  postal_code: true
+  unofficial_names:
+  - Cocos (Keeling) Islands
+  - Kokosinseln
+  - "ココス（キーリング）諸島"
+  - Cocoseilanden
+  languages_official:
+  - en
+  languages_spoken:
+  - en
+  geo:
+    latitude: -12.170692
+    latitude_dec: "-12.200602531433105"
+    longitude: 96.841748
+    longitude_dec: '96.85894012451172'
+    max_latitude: -11.8221888
+    max_longitude: 96.9294919
+    min_latitude: -12.2088703
+    min_longitude: 96.8166785
+    bounds:
+      northeast:
+        lat: -11.8221888
+        lng: 96.9294919
+      southwest:
+        lat: -12.2088703
+        lng: 96.8166785
+  currency_code: AUD

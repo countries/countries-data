@@ -1,0 +1,49 @@
+---
+GE:
+  continent: Asia
+  alpha2: GE
+  alpha3: GEO
+  country_code: '995'
+  international_prefix: '810'
+  ioc: GEO
+  gec: GG
+  name: Georgia
+  national_destination_code_lengths:
+  - 2
+  national_number_lengths:
+  - 9
+  national_prefix: 8*
+  number: '268'
+  region: Asia
+  subregion: Western Asia
+  world_region: EMEA
+  un_locode: GE
+  nationality: Georgian
+  postal_code: true
+  unofficial_names:
+  - Georgia
+  - Georgien
+  - Géorgie
+  - "グルジア"
+  - Georgië
+  languages_official:
+  - ka
+  languages_spoken:
+  - ka
+  geo:
+    latitude: 32.1656221
+    latitude_dec: '42.3207845'
+    longitude: -82.9000751
+    longitude_dec: '43.3713615'
+    max_latitude: 35.00065900000001
+    max_longitude: -80.8407866
+    min_latitude: 30.3555908
+    min_longitude: -85.605165
+    bounds:
+      northeast:
+        lat: 35.00065900000001
+        lng: -80.8407866
+      southwest:
+        lat: 30.3555908
+        lng: -85.605165
+  currency_code: GEL

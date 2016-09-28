@@ -1,0 +1,50 @@
+---
+WF:
+  continent: Australia
+  alpha2: WF
+  alpha3: WLF
+  country_code: '681'
+  international_prefix: '19'
+  ioc: 
+  gec: WF
+  name: Wallis and Futuna
+  national_destination_code_lengths:
+  - 2
+  national_number_lengths:
+  - 6
+  national_prefix: None
+  number: '876'
+  region: Oceania
+  subregion: Polynesia
+  world_region: APAC
+  un_locode: WF
+  nationality: Wallis and Futuna Islander
+  postal_code: true
+  unofficial_names:
+  - Wallis and Futuna
+  - Wallis und Futuna
+  - Wallis et Futuna
+  - Wallis y Futuna
+  - "ウォリス・フツナ"
+  - Wallis en Futuna
+  languages_official:
+  - fr
+  languages_spoken:
+  - fr
+  geo:
+    latitude: -14.2938
+    latitude_dec: "-13.299612045288086"
+    longitude: -178.1165
+    longitude_dec: "-176.1701202392578"
+    max_latitude: -13.18332
+    max_longitude: -176.1248411
+    min_latitude: -14.3621243
+    min_longitude: -178.181752
+    bounds:
+      northeast:
+        lat: -13.18332
+        lng: -176.1248411
+      southwest:
+        lat: -14.3621243
+        lng: -178.181752
+  currency_code: XPF

@@ -1,0 +1,46 @@
+---
+KP:
+  continent: Asia
+  alpha2: KP
+  alpha3: PRK
+  country_code: '850'
+  international_prefix: '00'
+  ioc: PRK
+  gec: KN
+  name: Korea, Democratic People's Republic Of
+  national_destination_code_lengths:
+  - 2
+  national_number_lengths:
+  - 8
+  - 9
+  national_prefix: '0'
+  number: '408'
+  region: Asia
+  subregion: Eastern Asia
+  world_region: APAC
+  un_locode: KP
+  nationality: North Korean
+  postal_code: false
+  unofficial_names:
+  - Korea (North)
+  - Nordkorea
+  - Corée du Nord
+  - Corea del Norte
+  - "朝鮮民主主義人民共和国"
+  - Noord-Korea
+  - Korea Democratic People's Republic
+  - Korea (Democratic People s Republic of)
+  languages_official:
+  - ko
+  languages_spoken:
+  - ko
+  geo:
+    latitude: 40.339852
+    latitude_dec: '40.077640533447266'
+    longitude: 127.510093
+    longitude_dec: '127.13385009765625'
+    max_latitude: 43.0115804
+    max_longitude: 130.6988006
+    min_latitude: 37.6733322
+    min_longitude: 124.2166283
+  currency_code: KPW

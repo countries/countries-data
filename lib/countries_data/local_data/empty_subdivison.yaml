@@ -1,0 +1,19 @@
+---
+CODE:
+  unofficial_names:
+  translations:
+    en:
+  geo:
+    latitude: 39.931944
+    longitude: 48.920278
+    min_latitude: 39.8688393
+    min_longitude: 48.867445
+    max_latitude: 39.983434
+    max_longitude: 48.9807415
+    bounds:
+      northeast:
+        lat:
+        lng:
+      southwest:
+        lat:
+        lng:

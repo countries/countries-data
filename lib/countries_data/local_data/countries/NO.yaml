@@ -1,0 +1,58 @@
+---
+'NO':
+  continent: Europe
+  address_format: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: 'NO'
+  alpha3: NOR
+  country_code: '47'
+  international_prefix: '00'
+  ioc: NOR
+  gec: 'NO'
+  name: Norway
+  national_destination_code_lengths:
+  - 2
+  national_number_lengths:
+  - 8
+  national_prefix: None
+  number: '578'
+  region: Europe
+  subregion: Northern Europe
+  world_region: EMEA
+  un_locode: false
+  nationality: Norwegian
+  eea_member: true
+  postal_code: true
+  unofficial_names:
+  - Norway
+  - Norwegen
+  - Norvège
+  - Noruega
+  - "ノルウェー"
+  - Noorwegen
+  languages_official:
+  - nb
+  - nn
+  languages_spoken:
+  - nb
+  - nn
+  geo:
+    latitude: 60.47202399999999
+    latitude_dec: '66.76667022705078'
+    longitude: 8.468945999999999
+    longitude_dec: '14.899925231933594'
+    max_latitude: 71.1854262
+    max_longitude: 31.1682683
+    min_latitude: 57.959595
+    min_longitude: 4.5000962
+    bounds:
+      northeast:
+        lat: 71.1854262
+        lng: 31.1682683
+      southwest:
+        lat: 57.959595
+        lng: 4.5000962
+  currency_code: NOK
