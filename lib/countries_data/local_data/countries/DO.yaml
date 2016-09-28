@@ -25,7 +25,7 @@ DO:
   - Dominikanische Republik
   - République Dominicaine
   - República Dominicana
-  - "ドミニカ共和国"
+  - ドミニカ共和国
   - Dominicaanse Republiek
   languages_official:
   - es
@@ -48,3 +48,11 @@ DO:
         lat: 17.4700909
         lng: -72.00751
   currency_code: DOP
+  postal_address_data:
+    key: DO
+    zipex: '11903,10101'
+    name: DOMINICAN REP.
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    posturl: http://inposdom.gob.do/servicios/codigo-postal.html#buscar_codigo
+    id: data/DO

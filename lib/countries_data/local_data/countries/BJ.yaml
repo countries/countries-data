@@ -23,7 +23,7 @@ BJ:
   unofficial_names:
   - Benin
   - Bénin
-  - "ベナン"
+  - ベナン
   languages_official:
   - fr
   languages_spoken:
@@ -45,3 +45,8 @@ BJ:
         lat: 6.2345966
         lng: 0.7765054
   currency_code: XOF
+  postal_address_data:
+    upper: AC
+    id: data/BJ
+    key: BJ
+    name: BENIN

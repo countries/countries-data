@@ -24,7 +24,7 @@ MV:
   - Maldives
   - Malediven
   - Maldivas
-  - "モルディブ"
+  - モルディブ
   - Maldiven
   languages_official:
   - dv
@@ -47,3 +47,11 @@ MV:
         lat: -0.7035847
         lng: 72.63858139999999
   currency_code: MVR
+  postal_address_data:
+    key: MV
+    zipex: '20026'
+    name: MALDIVES
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%C %Z"
+    posturl: http://www.maldivespost.com/?lid=10
+    id: data/MV

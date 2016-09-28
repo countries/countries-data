@@ -23,7 +23,7 @@ BZ:
   unofficial_names:
   - Belize
   - Belice
-  - "ベリーズ"
+  - ベリーズ
   languages_official:
   - en
   - es
@@ -47,3 +47,7 @@ BZ:
         lat: 15.885619
         lng: -89.227588
   currency_code: BZD
+  postal_address_data:
+    id: data/BZ
+    key: BZ
+    name: BELIZE

@@ -22,7 +22,7 @@ GS:
   - South Georgia
   - South Georgia and the South Sandwich Islands
   - Südgeorgien und die Südlichen Sandwichinseln
-  - "サウスジョージア・サウスサンドウィッチ諸島"
+  - サウスジョージア・サウスサンドウィッチ諸島
   - Zuid-Georgia en Zuidelijke Sandwicheilanden
   languages_official:
   - en
@@ -45,3 +45,12 @@ GS:
         lat: -59.48429480000001
         lng: -38.2436014
   currency_code: GBP
+  postal_address_data:
+    upper: CZ
+    zipex: SIQQ 1ZZ
+    name: SOUTH GEORGIA
+    zip: SIQQ 1ZZ
+    require: ACZ
+    id: data/GS
+    key: GS
+    fmt: "%N%n%O%n%A%n%n%C%n%Z"

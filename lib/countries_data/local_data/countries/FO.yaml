@@ -23,9 +23,9 @@ FO:
   unofficial_names:
   - Faroe Islands
   - Färöer-Inseln
-  - "Îles Féroé"
+  - Îles Féroé
   - Islas Faroe
-  - "フェロー諸島"
+  - フェロー諸島
   - Faeröer
   languages_official:
   - fo
@@ -48,3 +48,12 @@ FO:
         lat: 61.39093200000001
         lng: -7.6919049
   currency_code: DKK
+  postal_address_data:
+    postprefix: FO
+    zipex: '100'
+    name: FAROE ISLANDS
+    zip: "\\d{3}"
+    fmt: "%N%n%O%n%A%nFO%Z %C"
+    key: FO
+    posturl: http://www.postur.fo/
+    id: data/FO

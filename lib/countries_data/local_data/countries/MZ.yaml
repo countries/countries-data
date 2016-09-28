@@ -24,7 +24,7 @@ MZ:
   unofficial_names:
   - Mozambique
   - Mosambik
-  - "モザンビーク"
+  - モザンビーク
   languages_official:
   - pt
   languages_spoken:
@@ -46,3 +46,10 @@ MZ:
         lat: -26.8681621
         lng: 30.21555
   currency_code: MZN
+  postal_address_data:
+    zipex: '1102,1119,3212'
+    name: MOZAMBIQUE
+    zip: "\\d{4}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: MZ
+    id: data/MZ

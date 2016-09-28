@@ -23,7 +23,7 @@ BB:
   unofficial_names:
   - Barbade
   - Barbados
-  - "バルバドス"
+  - バルバドス
   languages_official:
   - en
   languages_spoken:
@@ -45,3 +45,11 @@ BB:
         lat: 13.0449995
         lng: -59.6510304
   currency_code: BBD
+  postal_address_data:
+    zipex: BB23026,BB22025
+    name: BARBADOS
+    zip: BB\d{5}
+    fmt: "%N%n%O%n%A%n%C, %S %Z"
+    state_name_type: parish
+    key: BB
+    id: data/BB

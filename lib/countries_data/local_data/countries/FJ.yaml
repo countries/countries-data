@@ -24,7 +24,7 @@ FJ:
   - Fiji
   - Fidschi
   - Fidji
-  - "フィジー"
+  - フィジー
   languages_official:
   - en
   - fj
@@ -52,3 +52,7 @@ FJ:
         lat: -20.6694302
         lng: 176.9094943
   currency_code: USD
+  postal_address_data:
+    id: data/FJ
+    key: FJ
+    name: FIJI

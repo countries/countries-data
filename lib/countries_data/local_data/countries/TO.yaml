@@ -24,7 +24,7 @@ TO:
   postal_code: false
   unofficial_names:
   - Tonga
-  - "トンガ"
+  - トンガ
   languages_official:
   - en
   - to
@@ -48,3 +48,7 @@ TO:
         lat: -21.4733919
         lng: -175.6796157
   currency_code: TOP
+  postal_address_data:
+    id: data/TO
+    key: TO
+    name: TONGA

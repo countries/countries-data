@@ -24,7 +24,7 @@ CD:
   - Congo (Dem. Rep.)
   - Kongo (Dem. Rep.)
   - Congo (Rep. Dem.)
-  - "コンゴ民主共和国"
+  - コンゴ民主共和国
   - Congo [DRC]
   - Congo (The Democratic Republic Of The)
   - Democratic Republic of the Congo
@@ -51,3 +51,7 @@ CD:
     min_latitude: -13.4590349
     min_longitude: 12.185509
   currency_code: CDF
+  postal_address_data:
+    id: data/CD
+    key: CD
+    name: CONGO (DEM. REP.)

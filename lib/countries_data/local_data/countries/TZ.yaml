@@ -24,7 +24,7 @@ TZ:
   - Tanzania
   - Tansania
   - Tanzanie
-  - "タンザニア"
+  - タンザニア
   - Tanzania United Republic
   languages_official:
   - sw
@@ -42,3 +42,10 @@ TZ:
     min_latitude: -11.761254
     min_longitude: 29.3399999
   currency_code: TZS
+  postal_address_data:
+    zipex: '6090,34413'
+    name: TANZANIA (UNITED REP.)
+    zip: "\\d{4,5}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: TZ
+    id: data/TZ

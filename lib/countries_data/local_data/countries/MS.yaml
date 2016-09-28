@@ -22,7 +22,7 @@ MS:
   postal_code: false
   unofficial_names:
   - Montserrat
-  - "モントセラト"
+  - モントセラト
   languages_official:
   - en
   languages_spoken:
@@ -44,3 +44,7 @@ MS:
         lat: 16.6746959
         lng: -62.2415171
   currency_code: XCD
+  postal_address_data:
+    id: data/MS
+    key: MS
+    name: MONTSERRAT

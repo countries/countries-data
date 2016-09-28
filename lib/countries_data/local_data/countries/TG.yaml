@@ -22,7 +22,7 @@ TG:
   postal_code: true
   unofficial_names:
   - Togo
-  - "トーゴ"
+  - トーゴ
   languages_official:
   - fr
   languages_spoken:
@@ -44,3 +44,7 @@ TG:
         lat: 6.112394999999999
         lng: -0.144042
   currency_code: XOF
+  postal_address_data:
+    id: data/TG
+    key: TG
+    name: TOGO

@@ -43,9 +43,9 @@ AT:
   postal_code: true
   unofficial_names:
   - Austria
-  - "Österreich"
+  - Österreich
   - Autriche
-  - "オーストリア"
+  - オーストリア
   - Oostenrijk
   languages_official:
   - de
@@ -68,3 +68,12 @@ AT:
         lat: 46.3723357
         lng: 9.530783399999999
   currency_code: EUR
+  postal_address_data:
+    key: AT
+    zipex: '1010,3741'
+    name: AUSTRIA
+    zip: "\\d{4}"
+    require: ACZ
+    id: data/AT
+    posturl: http://www.post.at/post_subsite_postleitzahlfinder.php
+    fmt: "%O%n%N%n%A%n%Z %C"

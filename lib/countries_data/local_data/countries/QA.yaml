@@ -27,9 +27,9 @@ QA:
   postal_code: false
   unofficial_names:
   - Qatar
-  - "قطر"
+  - قطر
   - Katar
-  - "カタール"
+  - カタール
   languages_official:
   - ar
   languages_spoken:
@@ -51,3 +51,8 @@ QA:
         lat: 24.471118
         lng: 50.7327986
   currency_code: QAR
+  postal_address_data:
+    upper: AC
+    id: data/QA
+    key: QA
+    name: QATAR

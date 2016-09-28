@@ -25,7 +25,7 @@ VA:
   - Vatikan
   - Cité du Vatican
   - Ciudad del Vaticano
-  - "バチカン市国"
+  - バチカン市国
   - Vaticaanstad
   - Vatican City State (Holy See)
   languages_official:
@@ -44,3 +44,10 @@ VA:
     min_latitude: 36.540759
     min_longitude: -83.6754151
   currency_code: EUR
+  postal_address_data:
+    zipex: '00120'
+    name: VATICAN
+    zip: '00120'
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: VA
+    id: data/VA

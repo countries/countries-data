@@ -23,7 +23,7 @@ GY:
   postal_code: false
   unofficial_names:
   - Guyana
-  - "ガイアナ"
+  - ガイアナ
   languages_official:
   - en
   languages_spoken:
@@ -45,3 +45,7 @@ GY:
         lat: 1.164724
         lng: -61.4149051
   currency_code: GYD
+  postal_address_data:
+    id: data/GY
+    key: GY
+    name: GUYANA

@@ -23,7 +23,7 @@ GW:
   unofficial_names:
   - Guinea-Bissau
   - Guinée-Bissau
-  - "ギニアビサウ"
+  - ギニアビサウ
   - Guinee-Bissau
   - Guinea Bissau
   languages_official:
@@ -47,3 +47,10 @@ GW:
         lat: 10.8599701
         lng: -16.7151341
   currency_code: XOF
+  postal_address_data:
+    zipex: '1000,1011'
+    name: GUINEA-BISSAU
+    zip: "\\d{4}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: GW
+    id: data/GW

@@ -22,7 +22,7 @@ BN:
   postal_code: true
   unofficial_names:
   - Brunei
-  - "ブルネイ・ダルサラーム"
+  - ブルネイ・ダルサラーム
   languages_official:
   - ms
   languages_spoken:
@@ -44,3 +44,11 @@ BN:
         lat: 4.002460999999999
         lng: 114.0752979
   currency_code: BND
+  postal_address_data:
+    key: BN
+    zipex: BT2328,KA1131,BA1511
+    name: BRUNEI DARUSSALAM
+    zip: "[A-Z]{2} ?\\d{4}"
+    fmt: "%N%n%O%n%A%n%C %Z"
+    posturl: http://www.post.gov.bn/index.php/extensions/postcode-guide
+    id: data/BN

@@ -22,7 +22,7 @@ VE:
   postal_code: true
   unofficial_names:
   - Venezuela
-  - "ベネズエラ・ボリバル共和国"
+  - ベネズエラ・ボリバル共和国
   languages_official:
   - es
   languages_spoken:
@@ -44,3 +44,20 @@ VE:
         lat: 15.5800907
         lng: 32.5486694
   currency_code: VEF
+  postal_address_data:
+    lang: es
+    upper: CS
+    zipex: '1010,3001,8011,1020'
+    name: VENEZUELA
+    zip: "\\d{4}"
+    key: VE
+    require: ACS
+    state_name_type: state
+    id: data/VE
+    languages: es
+    sub_keys: Amazonas~Anzoátegui~Apure~Aragua~Barinas~Bolívar~Carabobo~Cojedes~Delta
+      Amacuro~Dependencias Federales~Distrito Federal~Falcón~Guárico~Lara~Mérida~Miranda~Monagas~Nueva
+      Esparta~Portuguesa~Sucre~Táchira~Trujillo~Vargas~Yaracuy~Zulia
+    posturl: http://www.ipostel.gob.ve/nlinea/codigo_postal.php
+    sub_isoids: Z~B~C~D~E~F~G~H~Y~W~A~I~J~K~L~M~N~O~P~R~S~T~X~U~V
+    fmt: "%N%n%O%n%A%n%C %Z, %S"

@@ -38,7 +38,7 @@ SI:
   - Slowenien
   - Slovénie
   - Eslovenia
-  - "スロベニア"
+  - スロベニア
   - Slovenië
   languages_official:
   - sl
@@ -61,3 +61,11 @@ SI:
         lat: 45.4217082
         lng: 13.3753355
   currency_code: EUR
+  postal_address_data:
+    postprefix: SI-
+    zipex: '4000,1001,2500'
+    name: SLOVENIA
+    zip: "\\d{4}"
+    fmt: "%N%n%O%n%A%nSI- %Z %C"
+    key: SI
+    id: data/SI

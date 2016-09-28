@@ -23,7 +23,7 @@ LI:
   postal_code: true
   unofficial_names:
   - Liechtenstein
-  - "リヒテンシュタイン"
+  - リヒテンシュタイン
   languages_official:
   - de
   languages_spoken:
@@ -45,3 +45,13 @@ LI:
         lat: 47.0482899
         lng: 9.47162
   currency_code: CHF
+  postal_address_data:
+    postprefix: FL-
+    zipex: '9496,9491,9490,9485'
+    name: LIECHTENSTEIN
+    zip: 948[5-9]|949[0-7]
+    require: ACZ
+    id: data/LI
+    key: LI
+    posturl: http://www.post.ch/db/owa/pv_plz_pack/pr_main
+    fmt: "%O%n%N%n%A%nFL-%Z %C"

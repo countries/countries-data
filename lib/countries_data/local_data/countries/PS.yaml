@@ -23,11 +23,11 @@ PS:
   postal_code: true
   unofficial_names:
   - Palestine
-  - "فلسطين"
+  - فلسطين
   - Palästina
   - Palestina
   - the Occupied Palestinian Territory
-  - "パレスチナ"
+  - パレスチナ
   - Palestijnse gebieden
   - Palestinian Territory Occupied
   - Palestinian Authority
@@ -56,3 +56,7 @@ PS:
         lat: 37.9140716
         lng: -89.8208762
   currency_code: ILS
+  postal_address_data:
+    id: data/PS
+    key: PS
+    name: PALESTINIAN TERRITORY

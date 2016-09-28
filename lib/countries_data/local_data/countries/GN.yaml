@@ -23,7 +23,7 @@ GN:
   unofficial_names:
   - Guinea
   - Guinée
-  - "ギニア"
+  - ギニア
   - Guinee
   languages_official:
   - fr
@@ -48,3 +48,10 @@ GN:
         lat: 7.190909
         lng: -15.0782061
   currency_code: GNF
+  postal_address_data:
+    zipex: '001,200,100'
+    name: GUINEA
+    zip: "\\d{3}"
+    fmt: "%N%n%O%n%Z %A %C"
+    key: GN
+    id: data/GN

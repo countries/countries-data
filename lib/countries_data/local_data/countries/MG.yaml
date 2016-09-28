@@ -24,7 +24,7 @@ MG:
   - Madagascar
   - Madagaskar
   - the Republic of Madagascar
-  - "マダガスカル"
+  - マダガスカル
   languages_official:
   - fr
   - mg
@@ -48,3 +48,10 @@ MG:
         lat: -25.6065157
         lng: 43.1851395
   currency_code: MGA
+  postal_address_data:
+    zipex: '501,101'
+    name: MADAGASCAR
+    zip: "\\d{3}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: MG
+    id: data/MG

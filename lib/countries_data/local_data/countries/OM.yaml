@@ -28,9 +28,9 @@ OM:
   postal_code: true
   unofficial_names:
   - Oman
-  - "عمان"
+  - عمان
   - Omán
-  - "オマーン"
+  - オマーン
   languages_official:
   - ar
   languages_spoken:
@@ -52,3 +52,10 @@ OM:
         lat: 16.650336
         lng: 52.0000017
   currency_code: OMR
+  postal_address_data:
+    zipex: '133,112,111'
+    name: OMAN
+    zip: "(?:PC )?\\d{3}"
+    fmt: "%N%n%O%n%A%n%Z%n%C"
+    key: OM
+    id: data/OM

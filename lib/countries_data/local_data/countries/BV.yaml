@@ -21,7 +21,7 @@ BV:
   unofficial_names:
   - Bouvet Island
   - Bouvetinsel
-  - "ブーベ島"
+  - ブーベ島
   - Bouveteiland
   languages_official: []
   languages_spoken: []
@@ -42,3 +42,7 @@ BV:
         lat: -54.4541005
         lng: 3.2858825
   currency_code: NOK
+  postal_address_data:
+    id: data/BV
+    key: BV
+    name: BOUVET ISLAND

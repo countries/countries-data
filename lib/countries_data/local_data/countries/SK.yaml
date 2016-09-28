@@ -38,7 +38,7 @@ SK:
   - Slowakei
   - Slovaquie
   - República Eslovaca
-  - "スロバキア"
+  - スロバキア
   - Slowakije
   languages_official:
   - sk
@@ -61,3 +61,11 @@ SK:
         lat: 47.731159
         lng: 16.8331821
   currency_code: EUR
+  postal_address_data:
+    key: SK
+    zipex: 010 01,023 14,972 48,921 01,975 99
+    name: SLOVAKIA
+    zip: "\\d{3} ?\\d{2}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    posturl: http://psc.posta.sk
+    id: data/SK

@@ -26,7 +26,7 @@ KP:
   - Nordkorea
   - Corée du Nord
   - Corea del Norte
-  - "朝鮮民主主義人民共和国"
+  - 朝鮮民主主義人民共和国
   - Noord-Korea
   - Korea Democratic People's Republic
   - Korea (Democratic People s Republic of)
@@ -44,3 +44,4 @@ KP:
     min_latitude: 37.6733322
     min_longitude: 124.2166283
   currency_code: KPW
+  postal_address_data: {}

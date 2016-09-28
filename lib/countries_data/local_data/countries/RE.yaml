@@ -24,7 +24,7 @@ RE:
   - Réunion
   - Reunión
   - Reunion
-  - "レユニオン"
+  - レユニオン
   languages_official:
   - fr
   languages_spoken:
@@ -46,3 +46,13 @@ RE:
         lat: -21.389622
         lng: 55.2164053
   currency_code: EUR
+  postal_address_data:
+    key: RE
+    upper: ACX
+    zipex: '97400'
+    name: REUNION
+    zip: 9[78]4\d{2}
+    require: ACZ
+    id: data/RE
+    posturl: http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal
+    fmt: "%O%n%N%n%A%n%Z %C %X"

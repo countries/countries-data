@@ -22,11 +22,11 @@ MA:
   postal_code: true
   unofficial_names:
   - Morocco
-  - "المغرب"
+  - المغرب
   - Marokko
   - Maroc
   - Marruecos
-  - "モロッコ"
+  - モロッコ
   languages_official:
   - ar
   languages_spoken:
@@ -48,3 +48,10 @@ MA:
         lat: 27.6672694
         lng: -13.1724702
   currency_code: MAD
+  postal_address_data:
+    zipex: '53000,10000,20050,16052'
+    name: MOROCCO
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: MA
+    id: data/MA

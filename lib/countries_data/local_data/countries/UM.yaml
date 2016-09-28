@@ -23,7 +23,7 @@ UM:
   - US-Amerikanische Hoheitsgebiete
   - Dépendances américaines
   - Islas menores de Estados Unidos
-  - "合衆国領有小離島"
+  - 合衆国領有小離島
   - Kleine afgelegen eilanden van de Verenigde Staten
   languages_official:
   - en
@@ -46,3 +46,15 @@ UM:
         lat: -0.3824678
         lng: 166.5997422
   currency_code: USD
+  postal_address_data:
+    key: UM
+    upper: ACNOS
+    zipex: '96898'
+    name: UNITED STATES MINOR OUTLYING ISLANDS
+    zip: '96898'
+    zip_name_type: zip
+    require: ACS
+    state_name_type: state
+    id: data/UM
+    posturl: http://zip4.usps.com/zip4/welcome.jsp
+    fmt: "%N%n%O%n%A%n%C %S %Z"

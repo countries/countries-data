@@ -39,7 +39,7 @@ IE:
   - Irland
   - Irlande
   - Irlanda
-  - "アイルランド"
+  - アイルランド
   - Ierland
   languages_official:
   - en
@@ -64,3 +64,20 @@ IE:
         lat: 51.41993129999999
         lng: -10.6695799
   currency_code: EUR
+  postal_address_data:
+    lang: en
+    sublocality_name_type: townland
+    zipex: A65 F4E2
+    name: IRELAND
+    zip: "[\\dA-Z]{3} ?[\\dA-Z]{4}"
+    key: IE
+    fmt: "%N%n%O%n%A%n%D%n%C%n%S %Z"
+    state_name_type: county
+    languages: en
+    sub_keys: Co. Carlow~Co. Cavan~Co. Clare~Co. Cork~Co. Donegal~Co. Dublin~Co. Galway~Co.
+      Kerry~Co. Kildare~Co. Kilkenny~Co. Laois~Co. Leitrim~Co. Limerick~Co. Longford~Co.
+      Louth~Co. Mayo~Co. Meath~Co. Monaghan~Co. Offaly~Co. Roscommon~Co. Sligo~Co.
+      Tipperary~Co. Waterford~Co. Westmeath~Co. Wexford~Co. Wicklow
+    posturl: https://finder.eircode.ie
+    sub_isoids: CW~CN~CE~C~DL~D~G~KY~KE~KK~LS~LM~LK~LD~LH~MO~MH~MN~OY~RN~SO~TA~WD~WH~WX~WW
+    id: data/IE

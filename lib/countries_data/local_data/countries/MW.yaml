@@ -22,7 +22,7 @@ MW:
   postal_code: false
   unofficial_names:
   - Malawi
-  - "マラウイ"
+  - マラウイ
   languages_official:
   - en
   - ny
@@ -46,3 +46,8 @@ MW:
         lat: -17.1295217
         lng: 32.6725205
   currency_code: MWK
+  postal_address_data:
+    fmt: "%N%n%O%n%A%n%C %X"
+    id: data/MW
+    key: MW
+    name: MALAWI

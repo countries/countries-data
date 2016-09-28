@@ -21,7 +21,7 @@ BL:
   unofficial_names:
   - Saint Barthélemy
   - Saint-Barthélemy
-  - "サン・バルテルミー"
+  - サン・バルテルミー
   languages_official:
   - fr
   languages_spoken:
@@ -43,3 +43,13 @@ BL:
         lat: 17.8708288
         lng: -62.9116459
   currency_code: EUR
+  postal_address_data:
+    key: BL
+    upper: ACX
+    zipex: '97100'
+    name: SAINT BARTHELEMY
+    zip: 9[78][01]\d{2}
+    require: ACZ
+    id: data/BL
+    posturl: http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal
+    fmt: "%O%n%N%n%A%n%Z %C %X"

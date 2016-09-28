@@ -39,7 +39,7 @@ FI:
   - Finnland
   - Finlande
   - Finlandia
-  - "フィンランド"
+  - フィンランド
   languages_official:
   - fi
   - sv
@@ -63,3 +63,13 @@ FI:
         lat: 59.7054404
         lng: 20.5474107
   currency_code: EUR
+  postal_address_data:
+    postprefix: FI-
+    zipex: '00550,00011'
+    name: FINLAND
+    zip: "\\d{5}"
+    require: ACZ
+    id: data/FI
+    key: FI
+    posturl: http://www.verkkoposti.com/e3/postinumeroluettelo
+    fmt: "%O%n%N%n%A%nFI-%Z %C"

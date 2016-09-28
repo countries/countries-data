@@ -41,7 +41,7 @@ HU:
   - Ungarn
   - Hongrie
   - Hungría
-  - "ハンガリー"
+  - ハンガリー
   - Hongarije
   languages_official:
   - hu
@@ -64,3 +64,13 @@ HU:
         lat: 45.7370889
         lng: 16.1133866
   currency_code: HUF
+  postal_address_data:
+    key: HU
+    upper: ACNO
+    zipex: '1037,2380,1540'
+    name: HUNGARY (Rep.)
+    zip: "\\d{4}"
+    require: ACZ
+    id: data/HU
+    posturl: http://posta.hu/ugyfelszolgalat/iranyitoszam_kereso
+    fmt: "%N%n%O%n%C%n%A%n%Z"

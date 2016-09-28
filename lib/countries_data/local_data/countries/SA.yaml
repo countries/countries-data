@@ -28,11 +28,11 @@ SA:
   postal_code: false
   unofficial_names:
   - Saudi Arabia
-  - "السعودية"
+  - السعودية
   - Saudi-Arabien
   - Arabie Saoudite
   - Arabia Saudí
-  - "サウジアラビア"
+  - サウジアラビア
   - Saoedi-Arabië
   languages_official:
   - ar
@@ -55,3 +55,10 @@ SA:
         lat: 16.0957737
         lng: 34.5489978
   currency_code: SAR
+  postal_address_data:
+    zipex: '11564,11187,11142'
+    name: SAUDI ARABIA
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%C %Z"
+    key: SA
+    id: data/SA

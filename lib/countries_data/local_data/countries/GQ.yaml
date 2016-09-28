@@ -22,10 +22,10 @@ GQ:
   postal_code: false
   unofficial_names:
   - Equatorial Guinea
-  - "Äquatorial-Guinea"
+  - Äquatorial-Guinea
   - Guinée Équatoriale
   - Guinea Ecuatorial
-  - "赤道ギニア"
+  - 赤道ギニア
   - Equatoriaal-Guinea
   languages_official:
   - es
@@ -50,3 +50,7 @@ GQ:
         lat: -1.4679305
         lng: 5.6119728
   currency_code: XAF
+  postal_address_data:
+    id: data/GQ
+    key: GQ
+    name: EQUATORIAL GUINEA

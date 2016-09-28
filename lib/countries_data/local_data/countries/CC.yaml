@@ -23,7 +23,7 @@ CC:
   unofficial_names:
   - Cocos (Keeling) Islands
   - Kokosinseln
-  - "ココス（キーリング）諸島"
+  - ココス（キーリング）諸島
   - Cocoseilanden
   languages_official:
   - en
@@ -46,3 +46,11 @@ CC:
         lat: -12.2088703
         lng: 96.8166785
   currency_code: AUD
+  postal_address_data:
+    upper: CS
+    zipex: '6799'
+    name: COCOS (KEELING) ISLANDS
+    zip: '6799'
+    fmt: "%O%n%N%n%A%n%C %S %Z"
+    key: CC
+    id: data/CC

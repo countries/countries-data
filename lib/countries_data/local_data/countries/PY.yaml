@@ -22,7 +22,7 @@ PY:
   postal_code: true
   unofficial_names:
   - Paraguay
-  - "パラグアイ"
+  - パラグアイ
   languages_official:
   - es
   - gn
@@ -46,3 +46,10 @@ PY:
         lat: -27.4933208
         lng: -62.63813879999999
   currency_code: PYG
+  postal_address_data:
+    zipex: '1536,1538,1209'
+    name: PARAGUAY
+    zip: "\\d{4}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: PY
+    id: data/PY

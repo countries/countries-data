@@ -23,7 +23,7 @@ UY:
   postal_code: true
   unofficial_names:
   - Uruguay
-  - "ウルグアイ"
+  - ウルグアイ
   languages_official:
   - es
   languages_spoken:
@@ -45,3 +45,18 @@ UY:
         lat: -35.0314638
         lng: -58.43922269999999
   currency_code: UYU
+  postal_address_data:
+    lang: es
+    upper: CS
+    zipex: '11600'
+    name: URUGUAY
+    zip: "\\d{5}"
+    key: UY
+    fmt: "%N%n%O%n%A%n%Z %C %S"
+    languages: es
+    sub_keys: Artigas~Canelones~Cerro Largo~Colonia~Durazno~Flores~Florida~Lavalleja~Maldonado~Montevideo~Paysandú~Río
+      Negro~Rivera~Rocha~Salto~San José~Soriano~Tacuarembó~Treinta y Tres
+    posturl: http://www.correo.com.uy/index.asp?codPag=codPost&switchMapa=codPost
+    sub_isoids: AR~CA~CL~CO~DU~FS~FD~LA~MA~MO~PA~RN~RV~RO~SA~SJ~SO~TA~TT
+    id: data/UY
+    sub_zips: 55~9[01]|1[456]~37~70|75204~97~85~94|9060|97005~30~20~1|91600~60~65|60002~40~27~50~80~75|70003~45~33|30203|30204|30302|37007

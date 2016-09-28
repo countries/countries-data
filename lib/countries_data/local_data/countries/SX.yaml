@@ -22,7 +22,7 @@ SX:
   postal_code: true
   unofficial_names:
   - Sint Maarten
-  - "セント・マーチン島"
+  - セント・マーチン島
   languages_official:
   - nl
   - en
@@ -46,3 +46,7 @@ SX:
         lat: 18.0050986
         lng: -63.13795810000001
   currency_code: ANG
+  postal_address_data:
+    id: data/SX
+    key: SX
+    name: SINT MAARTEN

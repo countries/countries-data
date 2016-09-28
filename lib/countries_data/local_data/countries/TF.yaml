@@ -23,7 +23,7 @@ TF:
   - Französische Süd- und Antarktisgebiete
   - Terres Australes Françaises
   - Territorios Franceses del Sur
-  - "フランス領南方・南極地域"
+  - フランス領南方・南極地域
   - Franse Gebieden in de zuidelijke Indische Oceaan
   - French Southern and Antarctic Lands
   languages_official:
@@ -47,3 +47,7 @@ TF:
         lat: -49.8116117
         lng: 68.6020661
   currency_code: EUR
+  postal_address_data:
+    id: data/TF
+    key: TF
+    name: FRENCH SOUTHERN TERRITORIES

@@ -30,7 +30,7 @@ GL:
   - Grönland
   - Groenland
   - Groenlandia
-  - "グリーンランド"
+  - グリーンランド
   languages_official:
   - kl
   languages_spoken:
@@ -52,3 +52,11 @@ GL:
         lat: 59.7774011
         lng: -73.0350637
   currency_code: DKK
+  postal_address_data:
+    zipex: '3900,3950,3911'
+    name: GREENLAND
+    zip: 39\d{2}
+    require: ACZ
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: GL
+    id: data/GL

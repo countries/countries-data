@@ -23,7 +23,7 @@ LS:
   postal_code: true
   unofficial_names:
   - Lesotho
-  - "レソト"
+  - レソト
   languages_official:
   - en
   - st
@@ -47,3 +47,10 @@ LS:
         lat: -30.6755788
         lng: 27.011231
   currency_code: LSL
+  postal_address_data:
+    zipex: '100'
+    name: LESOTHO
+    zip: "\\d{3}"
+    fmt: "%N%n%O%n%A%n%C %Z"
+    key: LS
+    id: data/LS

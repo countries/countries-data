@@ -27,10 +27,10 @@ BH:
   postal_code: true
   unofficial_names:
   - Bahrain
-  - "البحرين"
+  - البحرين
   - Bahreïn
   - Bahrein
-  - "バーレーン"
+  - バーレーン
   languages_official:
   - ar
   languages_spoken:
@@ -52,3 +52,10 @@ BH:
         lat: 25.5564577
         lng: 50.37815089999999
   currency_code: BHD
+  postal_address_data:
+    zipex: '317'
+    name: BAHRAIN
+    zip: "(?:\\d|1[0-2])\\d{2}"
+    fmt: "%N%n%O%n%A%n%C %Z"
+    key: BH
+    id: data/BH

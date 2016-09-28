@@ -39,7 +39,7 @@ FR:
   - France
   - Frankreich
   - the French Republic
-  - "フランス"
+  - フランス
   - Frankrijk
   - Francia
   languages_official:
@@ -63,3 +63,13 @@ FR:
         lat: 41.3423275
         lng: -5.142307499999999
   currency_code: EUR
+  postal_address_data:
+    key: FR
+    upper: CX
+    zipex: '33380,34092,33506'
+    name: FRANCE
+    zip: "\\d{2} ?\\d{3}"
+    require: ACZ
+    id: data/FR
+    posturl: http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal
+    fmt: "%O%n%N%n%A%n%Z %C %X"

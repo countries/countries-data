@@ -22,7 +22,7 @@ SL:
   postal_code: false
   unofficial_names:
   - Sierra Leone
-  - "シエラレオネ"
+  - シエラレオネ
   languages_official:
   - en
   languages_spoken:
@@ -44,3 +44,7 @@ SL:
         lat: 6.8993331
         lng: -13.3024326
   currency_code: SLL
+  postal_address_data:
+    id: data/SL
+    key: SL
+    name: SIERRA LEONE

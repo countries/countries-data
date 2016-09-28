@@ -25,7 +25,7 @@ KH:
   - Kambodscha
   - Cambodge
   - Camboya
-  - "カンボジア"
+  - カンボジア
   - Cambodja
   languages_official:
   - km
@@ -48,3 +48,10 @@ KH:
         lat: 9.9100275
         lng: 102.3335419
   currency_code: KHR
+  postal_address_data:
+    zipex: '12203,14206,12000'
+    name: CAMBODIA
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%C %Z"
+    key: KH
+    id: data/KH

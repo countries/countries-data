@@ -25,7 +25,7 @@ NP:
   - Nepal
   - Népal
   - the Federal Democratic Republic of Nepal
-  - "ネパール"
+  - ネパール
   languages_official:
   - ne
   languages_spoken:
@@ -47,3 +47,11 @@ NP:
         lat: 26.3479661
         lng: 80.05846980000001
   currency_code: NPR
+  postal_address_data:
+    key: NP
+    zipex: '44601'
+    name: NEPAL
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%C %Z"
+    posturl: http://www.gpo.gov.np/postalcode.aspx
+    id: data/NP

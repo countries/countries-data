@@ -25,7 +25,7 @@ SH:
   - Sankt Helena
   - Sainte Hélène
   - Santa Helena
-  - "セントヘレナ・アセンションおよびトリスタンダクーニャ"
+  - セントヘレナ・アセンションおよびトリスタンダクーニャ
   - Sint-Helena
   - Saint Helena, Ascension and Tristan da Cunha
   languages_official:
@@ -49,3 +49,12 @@ SH:
         lat: 38.4864741
         lng: -122.495042
   currency_code: SHP
+  postal_address_data:
+    upper: CZ
+    zipex: STHL 1ZZ
+    name: SAINT HELENA
+    zip: "(?:ASCN|STHL) 1ZZ"
+    require: ACZ
+    id: data/SH
+    key: SH
+    fmt: "%N%n%O%n%A%n%C%n%Z"

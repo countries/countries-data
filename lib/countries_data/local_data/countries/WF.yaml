@@ -25,7 +25,7 @@ WF:
   - Wallis und Futuna
   - Wallis et Futuna
   - Wallis y Futuna
-  - "ウォリス・フツナ"
+  - ウォリス・フツナ
   - Wallis en Futuna
   languages_official:
   - fr
@@ -48,3 +48,12 @@ WF:
         lat: -14.3621243
         lng: -178.181752
   currency_code: XPF
+  postal_address_data:
+    upper: ACX
+    zipex: '98600'
+    name: WALLIS AND FUTUNA ISLANDS
+    zip: 986\d{2}
+    require: ACZ
+    id: data/WF
+    key: WF
+    fmt: "%O%n%N%n%A%n%Z %C %X"

@@ -25,7 +25,7 @@ CF:
   - Zentralafrikanische Republik
   - République Centrafricaine
   - República Centroafricana
-  - "中央アフリカ共和国"
+  - 中央アフリカ共和国
   - Centraal-Afrikaanse Republiek
   languages_official:
   - fr
@@ -50,3 +50,7 @@ CF:
         lat: 2.2208492
         lng: 14.415098
   currency_code: XAF
+  postal_address_data:
+    id: data/CF
+    key: CF
+    name: CENTRAL AFRICAN REPUBLIC

@@ -33,7 +33,7 @@ EE:
   - Estonia
   - Estland
   - Estonie
-  - "エストニア"
+  - エストニア
   languages_official:
   - et
   languages_spoken:
@@ -55,3 +55,11 @@ EE:
         lat: 57.50931589999999
         lng: 21.7643132
   currency_code: EUR
+  postal_address_data:
+    key: EE
+    zipex: '69501,11212'
+    name: ESTONIA
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    posturl: http://www.post.ee/?op=sihtnumbriotsing
+    id: data/EE

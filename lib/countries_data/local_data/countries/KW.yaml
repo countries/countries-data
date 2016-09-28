@@ -28,9 +28,9 @@ KW:
   postal_code: true
   unofficial_names:
   - Kuwait
-  - "الكويت"
+  - الكويت
   - Koweït
-  - "クウェート"
+  - クウェート
   - Koeweit
   languages_official:
   - ar
@@ -53,3 +53,10 @@ KW:
         lat: 28.5244463
         lng: 46.55303989999999
   currency_code: KWD
+  postal_address_data:
+    zipex: '54541,54551,54404,13009'
+    name: KUWAIT
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: KW
+    id: data/KW

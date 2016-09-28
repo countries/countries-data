@@ -22,7 +22,7 @@ BQ:
   - Bonaire, Sint Eustatius and Saba
   - Caribbean Netherlands
   - Caribisch Nederland
-  - "ボネール、シント・ユースタティウスおよびサバ"
+  - ボネール、シント・ユースタティウスおよびサバ
   languages_official:
   - nl
   - en
@@ -46,3 +46,7 @@ BQ:
         lat: 12.0245042
         lng: -68.4209633
   currency_code: USD
+  postal_address_data:
+    id: data/BQ
+    key: BQ
+    name: BONAIRE, SINT EUSTATIUS, AND SABA

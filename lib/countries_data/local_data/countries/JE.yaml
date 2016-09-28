@@ -20,7 +20,7 @@ JE:
   postal_code: true
   unofficial_names:
   - Jersey
-  - "ジャージー"
+  - ジャージー
   languages_official:
   - en
   - fr
@@ -44,3 +44,13 @@ JE:
         lat: 49.1601216
         lng: -2.2548011
   currency_code: JEP
+  postal_address_data:
+    key: JE
+    upper: CZ
+    zipex: JE1 1AA,JE2 2BT
+    name: CHANNEL ISLANDS
+    zip: JE\d[\dA-Z]? ?\d[ABD-HJLN-UW-Z]{2}
+    require: ACZ
+    id: data/JE
+    posturl: http://www.jerseypost.com/tools/postcode-address-finder/
+    fmt: "%N%n%O%n%A%n%C%nJERSEY%n%Z"

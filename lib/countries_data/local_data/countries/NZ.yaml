@@ -32,7 +32,7 @@ NZ:
   - Neuseeland
   - Nouvelle ZÃ©lande
   - Nueva Zelanda
-  - "ニュージーランド"
+  - ニュージーランド
   - Nieuw-Zeeland
   languages_official:
   - en
@@ -55,3 +55,12 @@ NZ:
         lat: -52.61941849999999
         lng: 165.8694371
   currency_code: NZD
+  postal_address_data:
+    key: NZ
+    zipex: '6001,6015,6332,8252,1030'
+    name: NEW ZEALAND
+    zip: "\\d{4}"
+    require: ACZ
+    id: data/NZ
+    posturl: http://www.nzpost.co.nz/Cultures/en-NZ/OnlineTools/PostCodeFinder/
+    fmt: "%N%n%O%n%A%n%D%n%C %Z"

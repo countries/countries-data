@@ -23,7 +23,7 @@ MQ:
   unofficial_names:
   - Martinique
   - Martinica
-  - "マルティニーク"
+  - マルティニーク
   languages_official:
   - fr
   languages_spoken:
@@ -45,3 +45,13 @@ MQ:
         lat: 14.3886471
         lng: -61.2291178
   currency_code: EUR
+  postal_address_data:
+    key: MQ
+    upper: ACX
+    zipex: '97220'
+    name: MARTINIQUE
+    zip: 9[78]2\d{2}
+    require: ACZ
+    id: data/MQ
+    posturl: http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal
+    fmt: "%O%n%N%n%A%n%Z %C %X"

@@ -25,7 +25,7 @@ NC:
   - Neukaledonien
   - Nouvelle Calédonie
   - Nueva Caledonia
-  - "ニューカレドニア"
+  - ニューカレドニア
   - Nieuw-Caledonië
   languages_official:
   - fr
@@ -48,3 +48,13 @@ NC:
         lat: -22.8819479
         lng: 163.5697048
   currency_code: XPF
+  postal_address_data:
+    key: NC
+    upper: ACX
+    zipex: '98814,98800,98810'
+    name: NEW CALEDONIA
+    zip: 988\d{2}
+    require: ACZ
+    id: data/NC
+    posturl: http://poste.opt.nc/index.php?option=com_content&view=article&id=80&Itemid=131
+    fmt: "%O%n%N%n%A%n%Z %C %X"

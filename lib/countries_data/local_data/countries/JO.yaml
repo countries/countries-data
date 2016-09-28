@@ -28,11 +28,11 @@ JO:
   postal_code: true
   unofficial_names:
   - Jordan
-  - "الأردن"
+  - الأردن
   - Jordanien
   - Jordanie
   - Jordania
-  - "ヨルダン"
+  - ヨルダン
   - Jordanië
   languages_official:
   - ar
@@ -55,3 +55,10 @@ JO:
         lat: 29.1850361
         lng: 34.9583399
   currency_code: JOD
+  postal_address_data:
+    zipex: '11937,11190'
+    name: JORDAN
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%C %Z"
+    key: JO
+    id: data/JO

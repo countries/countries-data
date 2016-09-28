@@ -24,7 +24,7 @@ VU:
   postal_code: false
   unofficial_names:
   - Vanuatu
-  - "バヌアツ"
+  - バヌアツ
   languages_official:
   - bi
   - en
@@ -50,3 +50,7 @@ VU:
         lat: -20.2522929
         lng: 166.5417588
   currency_code: VUV
+  postal_address_data:
+    id: data/VU
+    key: VU
+    name: VANUATU

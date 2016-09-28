@@ -22,7 +22,7 @@ CW:
   postal_code: true
   unofficial_names:
   - Curaçao
-  - "キュラソー島"
+  - キュラソー島
   languages_official:
   - nl
   languages_spoken:
@@ -44,3 +44,7 @@ CW:
         lat: 11.9780354
         lng: -69.1624547
   currency_code: ANG
+  postal_address_data:
+    id: data/CW
+    key: CW
+    name: CURACAO

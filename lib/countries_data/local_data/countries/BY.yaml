@@ -25,9 +25,9 @@ BY:
   - Weißrussland
   - Biélorussie
   - Bielorrusia
-  - "ベラルーシ"
+  - ベラルーシ
   - Wit-Rusland
-  - "Беларусь"
+  - Беларусь
   languages_official:
   - be
   - ru
@@ -51,3 +51,11 @@ BY:
         lat: 51.2620109
         lng: 23.1783378
   currency_code: BYR
+  postal_address_data:
+    key: BY
+    zipex: '223016,225860,220050'
+    name: BELARUS
+    zip: "\\d{6}"
+    fmt: "%S%n%Z %C%n%A%n%O%n%N"
+    posturl: http://zip.belpost.by
+    id: data/BY

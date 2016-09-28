@@ -24,7 +24,7 @@ LR:
   postal_code: true
   unofficial_names:
   - Liberia
-  - "リベリア"
+  - リベリア
   languages_official:
   - en
   languages_spoken:
@@ -46,3 +46,10 @@ LR:
         lat: 4.3154139
         lng: -11.4755999
   currency_code: LRD
+  postal_address_data:
+    zipex: '1000'
+    name: LIBERIA
+    zip: "\\d{4}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: LR
+    id: data/LR

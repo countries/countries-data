@@ -24,7 +24,7 @@ LC:
   - Saint Lucia
   - Saint-Lucie
   - Santa Lucía
-  - "セントルシア"
+  - セントルシア
   - St. Lucia
   - St Lucia
   languages_official:
@@ -48,3 +48,7 @@ LC:
         lat: 13.7081175
         lng: -61.0796636
   currency_code: XCD
+  postal_address_data:
+    id: data/LC
+    key: LC
+    name: SAINT LUCIA

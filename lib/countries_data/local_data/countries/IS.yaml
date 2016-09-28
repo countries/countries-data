@@ -33,7 +33,7 @@ IS:
   - Island
   - Islande
   - Islandia
-  - "アイスランド"
+  - アイスランド
   - IJsland
   languages_official:
   - is
@@ -56,3 +56,11 @@ IS:
         lat: 63.2962341
         lng: -24.5333969
   currency_code: ISK
+  postal_address_data:
+    key: IS
+    zipex: '320,121,220,110'
+    name: ICELAND
+    zip: "\\d{3}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    posturl: http://www.postur.is/cgi-bin/hsrun.exe/Distributed/vefur/vefur.htx;start=HS_landakort_postnumer
+    id: data/IS

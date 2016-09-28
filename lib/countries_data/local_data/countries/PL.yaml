@@ -40,7 +40,7 @@ PL:
   - Polen
   - Pologne
   - Polonia
-  - "ポーランド"
+  - ポーランド
   languages_official:
   - pl
   languages_spoken:
@@ -62,3 +62,12 @@ PL:
         lat: 49.0020251
         lng: 14.1228641
   currency_code: PLN
+  postal_address_data:
+    key: PL
+    zipex: 00-950,05-470,48-300,32-015,00-940
+    name: POLAND
+    zip: "\\d{2}-\\d{3}"
+    require: ACZ
+    id: data/PL
+    posturl: http://www.poczta-polska.pl/kody.php
+    fmt: "%N%n%O%n%A%n%Z %C"

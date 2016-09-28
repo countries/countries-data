@@ -21,7 +21,7 @@ PN:
   postal_code: true
   unofficial_names:
   - Pitcairn
-  - "ピトケアン"
+  - ピトケアン
   - Pitcairneilanden
   - Pitcairn Islands
   languages_official:
@@ -45,3 +45,12 @@ PN:
         lat: -25.0798074
         lng: -130.7525907
   currency_code: NZD
+  postal_address_data:
+    upper: CZ
+    zipex: PCRN 1ZZ
+    name: PITCAIRN
+    zip: PCRN 1ZZ
+    require: ACZ
+    id: data/PN
+    key: PN
+    fmt: "%N%n%O%n%A%n%C%n%Z"

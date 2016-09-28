@@ -22,7 +22,7 @@ GM:
   postal_code: false
   unofficial_names:
   - Gambia
-  - "ガンビア"
+  - ガンビア
   languages_official:
   - en
   languages_spoken:
@@ -44,3 +44,7 @@ GM:
         lat: 13.0379673
         lng: -16.8136312
   currency_code: GMD
+  postal_address_data:
+    id: data/GM
+    key: GM
+    name: GAMBIA

@@ -22,9 +22,9 @@ TK:
   postal_code: false
   unofficial_names:
   - Tokelau
-  - "Îles Tokelau"
+  - Îles Tokelau
   - Islas Tokelau
-  - "トケラウ"
+  - トケラウ
   languages_official:
   - en
   languages_spoken:
@@ -46,3 +46,7 @@ TK:
         lat: -9.4448708
         lng: -172.5207405
   currency_code: NZD
+  postal_address_data:
+    id: data/TK
+    key: TK
+    name: TOKELAU

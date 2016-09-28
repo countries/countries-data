@@ -26,7 +26,7 @@ GA:
   - Gabon
   - Gabun
   - Gabón
-  - "ガボン"
+  - ガボン
   languages_official:
   - fr
   languages_spoken:
@@ -48,3 +48,7 @@ GA:
         lat: -3.9608058
         lng: 8.6990528
   currency_code: XAF
+  postal_address_data:
+    id: data/GA
+    key: GA
+    name: GABON

@@ -24,7 +24,7 @@ MC:
   unofficial_names:
   - Monaco
   - Mónaco
-  - "モナコ"
+  - モナコ
   languages_official:
   - fr
   languages_spoken:
@@ -46,3 +46,11 @@ MC:
         lat: 43.7247428
         lng: 7.4091049
   currency_code: EUR
+  postal_address_data:
+    postprefix: MC-
+    zipex: '98000,98020,98011,98001'
+    name: MONACO
+    zip: 980\d{2}
+    fmt: "%N%n%O%n%A%nMC-%Z %C %X"
+    key: MC
+    id: data/MC

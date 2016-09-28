@@ -34,7 +34,7 @@ CY:
   - Zypern
   - Chypre
   - Chipre
-  - "キプロス"
+  - キプロス
   languages_official:
   - el
   - tr
@@ -60,3 +60,10 @@ CY:
         lat: 34.632303
         lng: 32.2694816
   currency_code: EUR
+  postal_address_data:
+    zipex: '2008,3304,1900'
+    name: CYPRUS
+    zip: "\\d{4}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: CY
+    id: data/CY

@@ -36,7 +36,7 @@ PT:
   postal_code: true
   unofficial_names:
   - Portugal
-  - "ポルトガル"
+  - ポルトガル
   languages_official:
   - pt
   languages_spoken:
@@ -58,3 +58,12 @@ PT:
         lat: 32.40374
         lng: -31.2753297
   currency_code: EUR
+  postal_address_data:
+    key: PT
+    zipex: 2725-079,1250-096,1201-950,2860-571,1208-148
+    name: PORTUGAL
+    zip: "\\d{4}-\\d{3}"
+    require: ACZ
+    id: data/PT
+    posturl: http://www.ctt.pt/feapl_2/app/open/tools.jspx?tool=1
+    fmt: "%N%n%O%n%A%n%Z %C"

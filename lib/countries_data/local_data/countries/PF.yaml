@@ -25,7 +25,7 @@ PF:
   - Französisch-Polynesien
   - Polynésie Française
   - Polinesia Francesa
-  - "フランス領ポリネシア"
+  - フランス領ポリネシア
   - Frans-Polynesië
   languages_official:
   - fr
@@ -48,3 +48,13 @@ PF:
         lat: -23.9062408
         lng: -153.9919066
   currency_code: XPF
+  postal_address_data:
+    upper: CS
+    zipex: '98709'
+    name: FRENCH POLYNESIA
+    zip: 987\d{2}
+    require: ACSZ
+    state_name_type: island
+    id: data/PF
+    key: PF
+    fmt: "%N%n%O%n%A%n%Z %C %S"

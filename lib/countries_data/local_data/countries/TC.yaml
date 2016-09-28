@@ -23,9 +23,9 @@ TC:
   unofficial_names:
   - Turks and Caicos Islands
   - Turks- und Caicosinseln
-  - "Îles Turks et Caïcos"
+  - Îles Turks et Caïcos
   - Islas Turks y Caicos
-  - "タークス・カイコス諸島"
+  - タークス・カイコス諸島
   - Turks- en Caicoseilanden
   - Turks and Caicos
   languages_official:
@@ -49,3 +49,12 @@ TC:
         lat: 21.1921745
         lng: -72.4824716
   currency_code: USD
+  postal_address_data:
+    upper: CZ
+    zipex: TKCA 1ZZ
+    name: TURKS AND CAICOS ISLANDS
+    zip: TKCA 1ZZ
+    require: ACZ
+    id: data/TC
+    key: TC
+    fmt: "%N%n%O%n%A%n%C%n%Z"

@@ -23,9 +23,9 @@ NF:
   unofficial_names:
   - Norfolk Island
   - Norfolkinsel
-  - "Île de Norfolk"
+  - Île de Norfolk
   - Isla de Norfolk
-  - "ノーフォーク島"
+  - ノーフォーク島
   - Norfolkeiland
   languages_official:
   - en
@@ -48,3 +48,11 @@ NF:
         lat: -29.1365875
         lng: 167.9162191
   currency_code: AUD
+  postal_address_data:
+    upper: CS
+    zipex: '2899'
+    name: NORFOLK ISLAND
+    zip: '2899'
+    fmt: "%O%n%N%n%A%n%C %S %Z"
+    key: NF
+    id: data/NF

@@ -24,7 +24,7 @@ TM:
   - Turkmenistan
   - Turkménistan
   - Turkmenistán
-  - "トルクメニスタン"
+  - トルクメニスタン
   languages_official:
   - tk
   - ru
@@ -48,3 +48,10 @@ TM:
         lat: 35.1287599
         lng: 52.4478448
   currency_code: TMT
+  postal_address_data:
+    zipex: '744000'
+    name: TURKMENISTAN
+    zip: "\\d{6}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: TM
+    id: data/TM

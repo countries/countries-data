@@ -22,7 +22,7 @@ BF:
   postal_code: false
   unofficial_names:
   - Burkina Faso
-  - "ブルキナファソ"
+  - ブルキナファソ
   languages_official:
   - fr
   - ff
@@ -46,3 +46,8 @@ BF:
         lat: 9.4104718
         lng: -5.5157197
   currency_code: XOF
+  postal_address_data:
+    fmt: "%N%n%O%n%A%n%C %X"
+    id: data/BF
+    key: BF
+    name: BURKINA FASO

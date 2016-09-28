@@ -22,7 +22,7 @@ HT:
   postal_code: true
   unofficial_names:
   - Haiti
-  - "ハイチ"
+  - ハイチ
   - Haïti
   languages_official:
   - fr
@@ -47,3 +47,11 @@ HT:
         lat: 18.0218876
         lng: -74.48072739999999
   currency_code: USD
+  postal_address_data:
+    postprefix: HT
+    zipex: '6120,5310,6110,8510'
+    name: HAITI
+    zip: "\\d{4}"
+    fmt: "%N%n%O%n%A%nHT%Z %C"
+    key: HT
+    id: data/HT

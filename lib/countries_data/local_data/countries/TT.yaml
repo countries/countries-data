@@ -25,7 +25,7 @@ TT:
   - Trinidad und Tobago
   - Trinité et Tobago
   - Trinidad y Tobago
-  - "トリニダード・トバゴ"
+  - トリニダード・トバゴ
   - Trinidad en Tobago
   languages_official:
   - en
@@ -48,3 +48,7 @@ TT:
         lat: 10.0424809
         lng: -61.93141749999999
   currency_code: TTD
+  postal_address_data:
+    id: data/TT
+    key: TT
+    name: TRINIDAD AND TOBAGO

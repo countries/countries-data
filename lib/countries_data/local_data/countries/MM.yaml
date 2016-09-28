@@ -23,7 +23,7 @@ MM:
   postal_code: true
   unofficial_names:
   - Myanmar
-  - "ミャンマー"
+  - ミャンマー
   languages_official:
   - my
   languages_spoken:
@@ -45,3 +45,10 @@ MM:
         lat: 9.5990941
         lng: 92.17180789999999
   currency_code: MMK
+  postal_address_data:
+    zipex: '11181'
+    name: MYANMAR
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%C, %Z"
+    key: MM
+    id: data/MM

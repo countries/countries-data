@@ -23,9 +23,9 @@ MH:
   unofficial_names:
   - Marshall Islands
   - Marshallinseln
-  - "Îles Marshall"
+  - Îles Marshall
   - Islas Marshall
-  - "マーシャル諸島"
+  - マーシャル諸島
   - Marshalleilanden
   languages_official:
   - en
@@ -50,3 +50,15 @@ MH:
         lat: 4.5729557
         lng: 160.7979584
   currency_code: USD
+  postal_address_data:
+    key: MH
+    upper: ACNOS
+    zipex: '96960,96970'
+    name: MARSHALL ISLANDS
+    zip: "(969[67]\\d)(?:[ \\-](\\d{4}))?"
+    zip_name_type: zip
+    require: ACSZ
+    state_name_type: state
+    id: data/MH
+    posturl: http://zip4.usps.com/zip4/welcome.jsp
+    fmt: "%N%n%O%n%A%n%C %S %Z"

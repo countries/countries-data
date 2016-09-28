@@ -24,7 +24,7 @@ RS:
   - Serbia
   - Serbien
   - Serbie
-  - "セルビア"
+  - セルビア
   - Servië
   languages_official:
   - sr
@@ -47,3 +47,11 @@ RS:
         lat: 42.2315029
         lng: 18.8385221
   currency_code: RSD
+  postal_address_data:
+    key: RS
+    zipex: '106314'
+    name: REPUBLIC OF SERBIA
+    zip: "\\d{5,6}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    posturl: http://www.posta.rs/struktura/lat/aplikacije/pronadji/nadji-postu.asp
+    id: data/RS

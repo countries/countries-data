@@ -22,7 +22,7 @@ LA:
   postal_code: true
   unofficial_names:
   - Laos
-  - "ラオス人民民主共和国"
+  - ラオス人民民主共和国
   - Lao People s Democratic Republic
   languages_official:
   - lo
@@ -45,3 +45,10 @@ LA:
         lat: 13.90972
         lng: 100.0862789
   currency_code: LAK
+  postal_address_data:
+    zipex: '01160,01000'
+    name: LAO (PEOPLE'S DEM. REP.)
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: LA
+    id: data/LA

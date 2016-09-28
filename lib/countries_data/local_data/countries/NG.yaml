@@ -25,7 +25,7 @@ NG:
   - Nigeria
   - Nigéria
   - the Federal Republic of Nigeria
-  - "ナイジェリア"
+  - ナイジェリア
   languages_official:
   - en
   languages_spoken:
@@ -47,3 +47,19 @@ NG:
         lat: 4.269857099999999
         lng: 2.676932
   currency_code: NGN
+  postal_address_data:
+    lang: en
+    upper: CS
+    zipex: '930283,300001,931104'
+    name: NIGERIA
+    zip: "\\d{6}"
+    key: NG
+    fmt: "%N%n%O%n%A%n%C %Z%n%S"
+    state_name_type: state
+    languages: en
+    sub_keys: Abia~Adamawa~Akwa Ibom~Anambra~Bauchi~Bayelsa~Benue~Borno~Cross River~Delta~Ebonyi~Edo~Ekiti~Enugu~Federal
+      Capital Territory~Gombe~Imo~Jigawa~Kaduna~Kano~Katsina~Kebbi~Kogi~Kwara~Lagos~Nasarawa~Niger~Ogun
+      State~Ondo~Osun~Oyo~Plateau~Rivers~Sokoto~Taraba~Yobe~Zamfara
+    posturl: http://www.nigeriapostcodes.com/views/
+    sub_isoids: AB~AD~AK~AN~BA~BY~BE~BO~CR~DE~EB~ED~EK~EN~FC~GO~IM~JI~KD~KN~KT~KE~KO~KW~LA~NA~NI~OG~ON~OS~OY~PL~RI~SO~TA~YO~ZA
+    id: data/NG

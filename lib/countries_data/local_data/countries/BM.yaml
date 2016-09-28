@@ -24,7 +24,7 @@ BM:
   - Bermuda
   - Bermudes
   - Bermudas
-  - "バミューダ"
+  - バミューダ
   languages_official:
   - en
   languages_spoken:
@@ -46,3 +46,11 @@ BM:
         lat: 32.2470501
         lng: -64.8874768
   currency_code: BMD
+  postal_address_data:
+    key: BM
+    zipex: FL 07,HM GX,HM 12
+    name: BERMUDA
+    zip: "[A-Z]{2} ?[A-Z0-9]{2}"
+    fmt: "%N%n%O%n%A%n%C %Z"
+    posturl: http://www.landvaluation.bm/
+    id: data/BM

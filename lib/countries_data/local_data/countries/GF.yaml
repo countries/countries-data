@@ -23,7 +23,7 @@ GF:
   - French Guiana
   - Französisch Guyana
   - Guayana Francesa
-  - "フランス領ギアナ"
+  - フランス領ギアナ
   - Frans-Guyana
   languages_official:
   - fr
@@ -46,3 +46,13 @@ GF:
         lat: 2.109287
         lng: -54.554438
   currency_code: EUR
+  postal_address_data:
+    key: GF
+    upper: ACX
+    zipex: '97300'
+    name: FRENCH GUIANA
+    zip: 9[78]3\d{2}
+    require: ACZ
+    id: data/GF
+    posturl: http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal
+    fmt: "%O%n%N%n%A%n%Z %C %X"

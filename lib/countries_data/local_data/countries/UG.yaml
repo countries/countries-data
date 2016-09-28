@@ -22,7 +22,7 @@ UG:
   postal_code: false
   unofficial_names:
   - Uganda
-  - "ウガンダ"
+  - ウガンダ
   - Oeganda
   languages_official:
   - en
@@ -47,3 +47,7 @@ UG:
         lat: -1.482318
         lng: 29.5734329
   currency_code: UGX
+  postal_address_data:
+    id: data/UG
+    key: UG
+    name: UGANDA

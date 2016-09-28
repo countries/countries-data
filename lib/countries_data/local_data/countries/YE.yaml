@@ -29,10 +29,10 @@ YE:
   postal_code: false
   unofficial_names:
   - Yemen
-  - "اليمن"
+  - اليمن
   - Jemen
   - Yémen
-  - "イエメン"
+  - イエメン
   languages_official:
   - ar
   languages_spoken:
@@ -54,3 +54,7 @@ YE:
         lat: 12.1081762
         lng: 41.8160552
   currency_code: YER
+  postal_address_data:
+    id: data/YE
+    key: YE
+    name: YEMEN

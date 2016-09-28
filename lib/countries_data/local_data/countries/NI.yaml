@@ -22,7 +22,7 @@ NI:
   postal_code: true
   unofficial_names:
   - Nicaragua
-  - "ニカラグア"
+  - ニカラグア
   languages_official:
   - es
   languages_spoken:
@@ -44,3 +44,19 @@ NI:
         lat: 10.708055
         lng: -87.69030769999999
   currency_code: NIO
+  postal_address_data:
+    lang: es
+    upper: CS
+    zipex: '52000'
+    name: NICARAGUA
+    zip: "\\d{5}"
+    key: NI
+    fmt: "%N%n%O%n%A%n%Z%n%C, %S"
+    state_name_type: department
+    languages: es
+    sub_keys: Boaco~Carazo~Chinandega~Chontales~Esteli~Granada~Jinotega~Leon~Madriz~Managua~Masaya~Matagalpa~Nueva
+      Segovia~Raan~Raas~Rio San Juan~Rivas
+    posturl: http://www.correos.gob.ni/index.php/codigo-postal-2
+    sub_isoids: BO~CA~CI~CO~ES~GR~JI~LE~MD~MN~MS~MT~NS~AN~AS~SJ~RI
+    id: data/NI
+    sub_zips: 5[12]~4[56]~2[5-7]~5[56]~3[12]~4[34]~6[56]~2[12]~3[45]~1[0-6]~4[12]~6[1-3]~3[7-9]~7[12]~8[1-3]~9[12]~4[78]

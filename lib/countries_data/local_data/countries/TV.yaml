@@ -22,7 +22,7 @@ TV:
   postal_code: false
   unofficial_names:
   - Tuvalu
-  - "ツバル"
+  - ツバル
   languages_official:
   - en
   languages_spoken:
@@ -44,3 +44,14 @@ TV:
         lat: -10.7916584
         lng: 176.0588907
   currency_code: TVD
+  postal_address_data:
+    lang: tyv
+    upper: ACS
+    name: TUVALU
+    fmt: "%N%n%O%n%A%n%C%n%S"
+    state_name_type: island
+    languages: tyv
+    sub_keys: Funafuti~Nanumanga~Nanumea~Niulakita~Niutao~Nui~Nukufetau~Nukulaelae~Vaitupu
+    key: TV
+    sub_isoids: FUN~NMG~NMA~~NIT~NUI~NKF~NKL~VAI
+    id: data/TV

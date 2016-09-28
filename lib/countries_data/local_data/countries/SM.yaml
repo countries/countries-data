@@ -26,7 +26,7 @@ SM:
   unofficial_names:
   - San Marino
   - Saint-Marin
-  - "サンマリノ"
+  - サンマリノ
   languages_official:
   - it
   languages_spoken:
@@ -48,3 +48,12 @@ SM:
         lat: 43.8936809
         lng: 12.4034823
   currency_code: EUR
+  postal_address_data:
+    key: SM
+    zipex: '47890,47891,47895,47899'
+    name: SAN MARINO
+    zip: 4789\d
+    require: AZ
+    id: data/SM
+    posturl: http://www.poste.it/online/cercacap/
+    fmt: "%N%n%O%n%A%n%Z %C"

@@ -26,7 +26,7 @@ ST:
   - São Tomé und Príncipe
   - São Tomé et Príncipe
   - Santo Tomé y Príncipe
-  - "サントメ・プリンシペ"
+  - サントメ・プリンシペ
   - Sao Tomé en Principe
   languages_official:
   - pt
@@ -49,3 +49,7 @@ ST:
         lat: -0.0140044
         lng: 6.460475799999999
   currency_code: STD
+  postal_address_data:
+    id: data/ST
+    key: ST
+    name: SAO TOME AND PRINCIPE

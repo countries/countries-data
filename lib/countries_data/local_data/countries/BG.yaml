@@ -39,7 +39,7 @@ BG:
   - Bulgaria
   - Bulgarien
   - Bulgarie
-  - "ブルガリア"
+  - ブルガリア
   - Bulgarije
   languages_official:
   - bg
@@ -62,3 +62,11 @@ BG:
         lat: 41.2354469
         lng: 22.3573447
   currency_code: BGN
+  postal_address_data:
+    key: BG
+    zipex: '1000,1700'
+    name: BULGARIA (REP.)
+    zip: "\\d{4}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    posturl: http://www.bgpost.bg/?cid=5
+    id: data/BG

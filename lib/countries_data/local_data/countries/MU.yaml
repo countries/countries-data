@@ -22,9 +22,9 @@ MU:
   postal_code: false
   unofficial_names:
   - Mauritius
-  - "Île Maurice"
+  - Île Maurice
   - Mauricio
-  - "モーリシャス"
+  - モーリシャス
   languages_official:
   - en
   languages_spoken:
@@ -46,3 +46,11 @@ MU:
         lat: -20.5255121
         lng: 56.5143667
   currency_code: MUR
+  postal_address_data:
+    upper: CZ
+    zipex: '42602'
+    name: MAURITIUS
+    zip: "\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})"
+    fmt: "%N%n%O%n%A%n%Z%n%C"
+    key: MU
+    id: data/MU

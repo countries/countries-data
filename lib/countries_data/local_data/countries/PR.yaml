@@ -22,7 +22,7 @@ PR:
   postal_code: true
   unofficial_names:
   - Puerto Rico
-  - "プエルトリコ"
+  - プエルトリコ
   languages_official:
   - es
   - en
@@ -46,3 +46,15 @@ PR:
         lat: 17.8814287
         lng: -67.9515777
   currency_code: USD
+  postal_address_data:
+    postprefix: PR
+    upper: ACNO
+    zipex: 00930
+    name: PUERTO RICO
+    zip: "(00[679]\\d{2})(?:[ \\-](\\d{4}))?"
+    zip_name_type: zip
+    require: ACZ
+    id: data/PR
+    key: PR
+    posturl: http://zip4.usps.com/zip4/welcome.jsp
+    fmt: "%N%n%O%n%A%n%C PR %Z"

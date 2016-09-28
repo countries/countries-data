@@ -27,11 +27,11 @@ LB:
   postal_code: true
   unofficial_names:
   - Lebanon
-  - "لبنان"
+  - لبنان
   - Libanon
   - Liban
   - Líbano
-  - "レバノン"
+  - レバノン
   languages_official:
   - ar
   - fr
@@ -55,3 +55,10 @@ LB:
         lat: 33.0550256
         lng: 35.103778
   currency_code: LBP
+  postal_address_data:
+    zipex: 2038 3054,1107 2810,1000
+    name: LEBANON
+    zip: "(?:\\d{4})(?: ?(?:\\d{4}))?"
+    fmt: "%N%n%O%n%A%n%C %Z"
+    key: LB
+    id: data/LB

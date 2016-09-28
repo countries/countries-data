@@ -24,7 +24,7 @@ BO:
   - Bolivia
   - Bolivien
   - Bolivie
-  - "ボリビア多民族国"
+  - ボリビア多民族国
   languages_official:
   - es
   - ay
@@ -50,3 +50,8 @@ BO:
         lat: -22.8980899
         lng: -69.64498999999999
   currency_code: BOB
+  postal_address_data:
+    upper: AC
+    id: data/BO
+    key: BO
+    name: BOLIVIA

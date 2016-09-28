@@ -22,10 +22,10 @@ ET:
   postal_code: true
   unofficial_names:
   - Ethiopia
-  - "Äthiopien"
-  - "Éthiopie"
+  - Äthiopien
+  - Éthiopie
   - Etiopía
-  - "エチオピア"
+  - エチオピア
   - Ethiopië
   languages_official:
   - am
@@ -48,3 +48,10 @@ ET:
         lat: 3.4041369
         lng: 32.9977339
   currency_code: ETB
+  postal_address_data:
+    zipex: '1000'
+    name: ETHIOPIA
+    zip: "\\d{4}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: ET
+    id: data/ET

@@ -23,7 +23,7 @@ BD:
   unofficial_names:
   - Bangladesh
   - Bangladesch
-  - "バングラデシュ"
+  - バングラデシュ
   languages_official:
   - bn
   languages_spoken:
@@ -45,3 +45,11 @@ BD:
         lat: 20.7464106
         lng: 88.00858869999999
   currency_code: BDT
+  postal_address_data:
+    key: BD
+    zipex: '1340,1000'
+    name: BANGLADESH
+    zip: "\\d{4}"
+    fmt: "%N%n%O%n%A%n%C - %Z"
+    posturl: http://www.bangladeshpost.gov.bd/PostCode.asp
+    id: data/BD

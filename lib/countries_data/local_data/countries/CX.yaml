@@ -21,7 +21,7 @@ CX:
   unofficial_names:
   - Christmas Island
   - Weihnachtsinsel
-  - "クリスマス島"
+  - クリスマス島
   - Christmaseiland
   languages_official:
   - en
@@ -48,3 +48,11 @@ CX:
         lat: -10.570362
         lng: 105.5333161
   currency_code: AUD
+  postal_address_data:
+    upper: CS
+    zipex: '6798'
+    name: CHRISTMAS ISLAND
+    zip: '6798'
+    fmt: "%O%n%N%n%A%n%C %S %Z"
+    key: CX
+    id: data/CX

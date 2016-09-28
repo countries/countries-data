@@ -25,7 +25,7 @@ UZ:
   - Usbekistan
   - Ouzbékistan
   - Uzbekistán
-  - "ウズベキスタン"
+  - ウズベキスタン
   - Oezbekistan
   languages_official:
   - uz
@@ -50,3 +50,12 @@ UZ:
         lat: 37.17225699999999
         lng: 55.99821780000001
   currency_code: UZS
+  postal_address_data:
+    key: UZ
+    upper: CS
+    zipex: '702100,700000'
+    name: UZBEKISTAN
+    zip: "\\d{6}"
+    fmt: "%N%n%O%n%A%n%Z %C%n%S"
+    posturl: http://www.pochta.uz/index.php/uz/pochta-indekslari/9
+    id: data/UZ

@@ -25,7 +25,7 @@ PM:
   - Saint-Pierre und Miquelon
   - Saint-Pierre-et-Miquelon
   - San Pedro y Miquelón
-  - "サンピエール島・ミクロン島"
+  - サンピエール島・ミクロン島
   - Saint Pierre en Miquelon
   languages_official:
   - fr
@@ -48,3 +48,12 @@ PM:
         lat: 46.7491058
         lng: -56.405632
   currency_code: EUR
+  postal_address_data:
+    upper: ACX
+    zipex: '97500'
+    name: ST. PIERRE AND MIQUELON
+    zip: 9[78]5\d{2}
+    require: ACZ
+    id: data/PM
+    key: PM
+    fmt: "%O%n%N%n%A%n%Z %C %X"

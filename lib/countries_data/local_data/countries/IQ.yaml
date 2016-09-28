@@ -24,9 +24,9 @@ IQ:
   postal_code: true
   unofficial_names:
   - Iraq
-  - "العراق"
+  - العراق
   - Irak
-  - "イラク"
+  - イラク
   languages_official:
   - ar
   languages_spoken:
@@ -48,3 +48,12 @@ IQ:
         lat: 29.0612079
         lng: 38.7936028
   currency_code: IQD
+  postal_address_data:
+    upper: CS
+    zipex: '31001'
+    name: IRAQ
+    zip: "\\d{5}"
+    require: ACS
+    id: data/IQ
+    key: IQ
+    fmt: "%O%n%N%n%A%n%C, %S%n%Z"

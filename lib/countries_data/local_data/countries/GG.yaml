@@ -23,7 +23,7 @@ GG:
   - Guernsey und Alderney
   - Guernsey et Alderney
   - Guernsey y Alderney
-  - "ガーンジー"
+  - ガーンジー
   - Guernsey
   languages_official:
   - en
@@ -48,3 +48,13 @@ GG:
         lat: 49.4002032
         lng: -2.6745361
   currency_code: GBP
+  postal_address_data:
+    key: GG
+    upper: CZ
+    zipex: GY1 1AA,GY2 2BT
+    name: CHANNEL ISLANDS
+    zip: GY\d[\dA-Z]? ?\d[ABD-HJLN-UW-Z]{2}
+    require: ACZ
+    id: data/GG
+    posturl: http://www.guernseypost.com/postcode_finder/
+    fmt: "%N%n%O%n%A%n%C%nGUERNSEY%n%Z"

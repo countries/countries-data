@@ -38,7 +38,7 @@ LU:
   - Luxembourg
   - Luxemburg
   - Luxemburgo
-  - "ルクセンブルク"
+  - ルクセンブルク
   languages_official:
   - fr
   - de
@@ -64,3 +64,13 @@ LU:
         lat: 49.447779
         lng: 5.73567
   currency_code: EUR
+  postal_address_data:
+    postprefix: L-
+    zipex: '4750,2998'
+    name: LUXEMBOURG
+    zip: "\\d{4}"
+    require: ACZ
+    id: data/LU
+    key: LU
+    posturl: http://www.pt.lu/portal/services_en_ligne/recherche_codes_postaux
+    fmt: "%O%n%N%n%A%nL-%Z %C"

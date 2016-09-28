@@ -21,7 +21,7 @@ namespace :postal do
       # Load unmutated yaml file.
       data = load_country_yaml(country.alpha2)
 
-      data['postal_address_data'] = fetch_postal_data_for_alpha2(code.upcase)
+      data[code]['postal_address_data'] = fetch_postal_data_for_alpha2(code.upcase)
       # Persist
       save_country_yaml(code, data)
     end

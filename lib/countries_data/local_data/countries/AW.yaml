@@ -22,7 +22,7 @@ AW:
   postal_code: false
   unofficial_names:
   - Aruba
-  - "アルバ"
+  - アルバ
   languages_official:
   - nl
   languages_spoken:
@@ -44,3 +44,7 @@ AW:
         lat: 12.4117656
         lng: -70.0660257
   currency_code: AWG
+  postal_address_data:
+    id: data/AW
+    key: AW
+    name: ARUBA

@@ -22,7 +22,7 @@ KI:
   postal_code: false
   unofficial_names:
   - Kiribati
-  - "キリバス"
+  - キリバス
   languages_official:
   - en
   languages_spoken:
@@ -44,3 +44,10 @@ KI:
         lat: -11.4465192
         lng: 169.5215321
   currency_code: AUD
+  postal_address_data:
+    upper: ACNOS
+    name: KIRIBATI
+    fmt: "%N%n%O%n%A%n%S%n%C"
+    state_name_type: island
+    key: KI
+    id: data/KI

@@ -23,7 +23,7 @@ CG:
   unofficial_names:
   - Congo
   - Kongo
-  - "コンゴ共和国"
+  - コンゴ共和国
   - Congo [Republiek]
   - Congo, Republic of
   languages_official:
@@ -49,3 +49,7 @@ CG:
         lat: -5.0289719
         lng: 11.1530037
   currency_code: XAF
+  postal_address_data:
+    id: data/CG
+    key: CG
+    name: CONGO (REP.)

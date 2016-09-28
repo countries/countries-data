@@ -24,7 +24,7 @@ PA:
   unofficial_names:
   - Panama
   - Panamá
-  - "パナマ"
+  - パナマ
   languages_official:
   - es
   languages_spoken:
@@ -46,3 +46,9 @@ PA:
         lat: 7.2035565
         lng: -83.05224109999999
   currency_code: PAB
+  postal_address_data:
+    upper: CS
+    fmt: "%N%n%O%n%A%n%C%n%S"
+    id: data/PA
+    key: PA
+    name: PANAMA (REP.)

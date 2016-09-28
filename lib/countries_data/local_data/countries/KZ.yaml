@@ -24,7 +24,7 @@ KZ:
   - Kazakhstan
   - Kasachstan
   - Kazajistán
-  - "カザフスタン"
+  - カザフスタン
   - Kazachstan
   languages_official:
   - kk
@@ -49,3 +49,10 @@ KZ:
         lat: 40.568584
         lng: 46.493672
   currency_code: KZT
+  postal_address_data:
+    zipex: 040900,050012
+    name: KAZAKHSTAN
+    zip: "\\d{6}"
+    fmt: "%Z%n%S%n%C%n%A%n%O%n%N"
+    key: KZ
+    id: data/KZ

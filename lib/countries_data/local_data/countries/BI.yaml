@@ -22,7 +22,7 @@ BI:
   postal_code: false
   unofficial_names:
   - Burundi
-  - "ブルンジ"
+  - ブルンジ
   languages_official:
   - fr
   - rn
@@ -46,3 +46,7 @@ BI:
         lat: -4.4693288
         lng: 29.000993
   currency_code: BIF
+  postal_address_data:
+    id: data/BI
+    key: BI
+    name: BURUNDI

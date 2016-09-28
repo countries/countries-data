@@ -23,7 +23,7 @@ GP:
   unofficial_names:
   - Guadeloupe
   - Guadalupe
-  - "グアドループ"
+  - グアドループ
   languages_official:
   - fr
   languages_spoken:
@@ -45,3 +45,13 @@ GP:
         lat: 15.8319387
         lng: -61.8098537
   currency_code: EUR
+  postal_address_data:
+    key: GP
+    upper: ACX
+    zipex: '97100'
+    name: GUADELOUPE
+    zip: 9[78][01]\d{2}
+    require: ACZ
+    id: data/GP
+    posturl: http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal
+    fmt: "%O%n%N%n%A%n%Z %C %X"

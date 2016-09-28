@@ -25,7 +25,7 @@ PE:
   - Peru
   - Pérou
   - Perú
-  - "ペルー"
+  - ペルー
   languages_official:
   - es
   languages_spoken:
@@ -47,3 +47,11 @@ PE:
         lat: -18.3515994
         lng: -81.3285042
   currency_code: PEN
+  postal_address_data:
+    key: PE
+    zipex: LIMA 23,LIMA 42,CALLAO 2,02001
+    name: PERU
+    zip: "(?:LIMA \\d{1,2}|CALLAO 0?\\d)|[0-2]\\d{4}"
+    fmt: "%N%n%O%n%A%n%C %Z%n%S"
+    posturl: http://www.serpost.com.pe/cpostal/codigo
+    id: data/PE

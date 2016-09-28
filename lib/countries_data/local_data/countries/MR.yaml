@@ -22,10 +22,10 @@ MR:
   postal_code: false
   unofficial_names:
   - Mauritania
-  - "موريتانيا"
+  - موريتانيا
   - Mauretanien
   - Mauritanie
-  - "モーリタニア"
+  - モーリタニア
   - Mauritanië
   languages_official:
   - ar
@@ -50,3 +50,8 @@ MR:
         lat: 14.721273
         lng: -17.0687276
   currency_code: MRO
+  postal_address_data:
+    upper: AC
+    id: data/MR
+    key: MR
+    name: MAURITANIA

@@ -25,7 +25,7 @@ KN:
   - Föderation St. Kitts und Nevis
   - Saint Kitts et Nevis
   - Saint Kitts y Nevis
-  - "セントクリストファー・ネイビス"
+  - セントクリストファー・ネイビス
   - Saint Kitts en Nevis
   - St. Kitts and Nevis
   - St Kitts and Nevis
@@ -50,3 +50,14 @@ KN:
         lat: 17.0941117
         lng: -62.8642646
   currency_code: XCD
+  postal_address_data:
+    lang: en
+    name: SAINT KITTS AND NEVIS
+    require: ACS
+    state_name_type: island
+    id: data/KN
+    languages: en
+    sub_keys: Nevis~St. Kitts
+    key: KN
+    sub_isoids: N~K
+    fmt: "%N%n%O%n%A%n%C, %S"

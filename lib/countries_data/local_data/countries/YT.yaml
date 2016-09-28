@@ -22,7 +22,7 @@ YT:
   postal_code: true
   unofficial_names:
   - Mayotte
-  - "マヨット"
+  - マヨット
   languages_official:
   - fr
   languages_spoken:
@@ -44,3 +44,12 @@ YT:
         lat: -13.0055279
         lng: 45.0181707
   currency_code: EUR
+  postal_address_data:
+    upper: ACX
+    zipex: '97600'
+    name: MAYOTTE
+    zip: 976\d{2}
+    require: ACZ
+    id: data/YT
+    key: YT
+    fmt: "%O%n%N%n%A%n%Z %C %X"

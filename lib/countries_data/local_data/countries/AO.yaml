@@ -22,7 +22,7 @@ AO:
   postal_code: false
   unofficial_names:
   - Angola
-  - "アンゴラ"
+  - アンゴラ
   languages_official:
   - pt
   languages_spoken:
@@ -44,3 +44,7 @@ AO:
         lat: -18.039104
         lng: 11.6695619
   currency_code: AOA
+  postal_address_data:
+    id: data/AO
+    key: AO
+    name: ANGOLA

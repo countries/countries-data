@@ -21,7 +21,7 @@ HM:
   unofficial_names:
   - Heard and McDonald Islands
   - Heard und die McDonaldinseln
-  - "ハード島とマクドナルド諸島"
+  - ハード島とマクドナルド諸島
   - Heard- en McDonaldeilanden
   - Heard Island and McDonald Islands
   languages_official:
@@ -38,3 +38,11 @@ HM:
     min_latitude: -53.1915469
     min_longitude: 73.2512402
   currency_code: AUD
+  postal_address_data:
+    upper: CS
+    zipex: '7050'
+    name: HEARD AND MCDONALD ISLANDS
+    zip: "\\d{4}"
+    fmt: "%O%n%N%n%A%n%C %S %Z"
+    key: HM
+    id: data/HM

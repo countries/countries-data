@@ -24,7 +24,7 @@ IR:
   - Iran
   - Irán
   - Iran (Islamic Republic Of)
-  - "イラン・イスラム共和国"
+  - イラン・イスラム共和国
   - Islamic Republic of Iran
   languages_official:
   - fa
@@ -47,3 +47,11 @@ IR:
         lat: 38.46699479999999
         lng: 47.0525068
   currency_code: IRR
+  postal_address_data:
+    sublocality_name_type: neighborhood
+    zipex: 11936-12345
+    name: IRAN
+    zip: "\\d{5}-?\\d{5}"
+    fmt: "%O%n%N%n%S%n%C, %D%n%A%n%Z"
+    key: IR
+    id: data/IR

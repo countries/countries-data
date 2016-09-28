@@ -23,9 +23,9 @@ SB:
   unofficial_names:
   - Solomon Islands
   - Salomonen
-  - "Îles Salomon"
+  - Îles Salomon
   - Islas Salomón
-  - "ソロモン諸島"
+  - ソロモン諸島
   - Salomonseilanden
   languages_official:
   - en
@@ -48,3 +48,7 @@ SB:
         lat: -11.881386
         lng: 155.4862404
   currency_code: SBD
+  postal_address_data:
+    id: data/SB
+    key: SB
+    name: SOLOMON ISLANDS

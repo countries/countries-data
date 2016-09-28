@@ -21,7 +21,7 @@ IO:
   unofficial_names:
   - British Indian Ocean Territory
   - Britisches Territorium im Indischen Ozean
-  - "イギリス領インド洋地域"
+  - イギリス領インド洋地域
   - Britse Gebieden in de Indische Oceaan
   languages_official:
   - en
@@ -44,3 +44,12 @@ IO:
         lat: -7.4437978
         lng: 71.2365532
   currency_code: USD
+  postal_address_data:
+    upper: CZ
+    zipex: BBND 1ZZ
+    name: BRITISH INDIAN OCEAN TERRITORY
+    zip: BBND 1ZZ
+    require: ACZ
+    id: data/IO
+    key: IO
+    fmt: "%N%n%O%n%A%n%C%n%Z"

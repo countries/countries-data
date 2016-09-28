@@ -38,7 +38,7 @@ DK:
   - Dänemark
   - Danemark
   - Dinamarca
-  - "デンマーク"
+  - デンマーク
   - Denemarken
   languages_official:
   - da
@@ -61,3 +61,12 @@ DK:
         lat: 54.5591689
         lng: 8.072240899999999
   currency_code: DKK
+  postal_address_data:
+    key: DK
+    zipex: '8660,1566'
+    name: DENMARK
+    zip: "\\d{4}"
+    require: ACZ
+    id: data/DK
+    posturl: http://www.postdanmark.dk/da/Privat/Kundeservice/postnummerkort/Sider/Find-postnummer.aspx
+    fmt: "%N%n%O%n%A%n%Z %C"

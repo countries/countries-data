@@ -27,7 +27,7 @@ ZW:
   - Zimbabwe
   - Simbabwe
   - Zimbabue
-  - "ジンバブエ"
+  - ジンバブエ
   languages_official:
   - en
   - sn
@@ -53,3 +53,7 @@ ZW:
         lat: -22.4223538
         lng: 25.237368
   currency_code: USD
+  postal_address_data:
+    id: data/ZW
+    key: ZW
+    name: ZIMBABWE

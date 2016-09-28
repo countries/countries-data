@@ -22,7 +22,7 @@ GT:
   postal_code: true
   unofficial_names:
   - Guatemala
-  - "グアテマラ"
+  - グアテマラ
   languages_official:
   - es
   languages_spoken:
@@ -44,3 +44,10 @@ GT:
         lat: 13.7400215
         lng: -92.2318359
   currency_code: GTQ
+  postal_address_data:
+    zipex: 09001,01501
+    name: GUATEMALA
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%Z- %C"
+    key: GT
+    id: data/GT

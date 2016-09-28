@@ -46,7 +46,7 @@ DE:
   - Deutschland
   - Allemagne
   - Alemania
-  - "ドイツ"
+  - ドイツ
   - Duitsland
   languages_official:
   - de
@@ -69,3 +69,12 @@ DE:
         lat: 47.2701114
         lng: 5.8663425
   currency_code: EUR
+  postal_address_data:
+    key: DE
+    zipex: '26133,53225'
+    name: GERMANY
+    zip: "\\d{5}"
+    require: ACZ
+    id: data/DE
+    posturl: http://www.postdirekt.de/plzserver/
+    fmt: "%N%n%O%n%A%n%Z %C"

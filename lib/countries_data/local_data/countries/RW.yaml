@@ -24,7 +24,7 @@ RW:
   unofficial_names:
   - Rwanda
   - Ruanda
-  - "ルワンダ"
+  - ルワンダ
   languages_official:
   - rw
   - en
@@ -50,3 +50,8 @@ RW:
         lat: -2.8399383
         lng: 28.8617539
   currency_code: RWF
+  postal_address_data:
+    upper: AC
+    id: data/RW
+    key: RW
+    name: RWANDA

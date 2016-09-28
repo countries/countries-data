@@ -27,7 +27,7 @@ MN:
   - Mongolia
   - Mongolei
   - Mongolie
-  - "モンゴル"
+  - モンゴル
   - Mongolië
   languages_official:
   - mn
@@ -50,3 +50,11 @@ MN:
         lat: 41.58152
         lng: 87.73761999999999
   currency_code: MNT
+  postal_address_data:
+    key: MN
+    zipex: '65030,65270'
+    name: MONGOLIA
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%C%n%S %Z"
+    posturl: http://www.zipcode.mn/
+    id: data/MN

@@ -22,7 +22,7 @@ ML:
   postal_code: false
   unofficial_names:
   - Mali
-  - "マリ"
+  - マリ
   languages_official:
   - fr
   languages_spoken:
@@ -44,3 +44,7 @@ ML:
         lat: 10.1478109
         lng: -12.238885
   currency_code: XOF
+  postal_address_data:
+    id: data/ML
+    key: ML
+    name: MALI

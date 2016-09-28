@@ -23,9 +23,9 @@ KY:
   unofficial_names:
   - Cayman Islands
   - Kaimaninseln
-  - "Îles Caïmans"
+  - Îles Caïmans
   - Islas Caimán
-  - "ケイマン諸島"
+  - ケイマン諸島
   - Caymaneilanden
   languages_official:
   - en
@@ -48,3 +48,16 @@ KY:
         lat: 19.2629371
         lng: -81.420203
   currency_code: KYD
+  postal_address_data:
+    lang: en
+    key: KY
+    zipex: KY1-1100,KY1-1702,KY2-2101
+    name: CAYMAN ISLANDS
+    zip: KY\d-\d{4}
+    require: AS
+    state_name_type: island
+    id: data/KY
+    languages: en
+    sub_keys: Cayman Brac~Grand Cayman~Little Cayman
+    posturl: http://www.caymanpost.gov.ky/portal/page?_pageid=3561,1&_dad=portal&_schema=PORTAL
+    fmt: "%N%n%O%n%A%n%S %Z"

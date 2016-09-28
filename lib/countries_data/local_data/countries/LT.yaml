@@ -34,9 +34,9 @@ LT:
   - Litauen
   - Lituanie
   - Lituania
-  - "リトアニア"
+  - リトアニア
   - Litouwen
-  - "Літва"
+  - Літва
   languages_official:
   - lt
   languages_spoken:
@@ -58,3 +58,12 @@ LT:
         lat: 53.89687869999999
         lng: 20.9540118
   currency_code: EUR
+  postal_address_data:
+    postprefix: LT-
+    zipex: '04340,03500'
+    name: LITHUANIA
+    zip: "\\d{5}"
+    fmt: "%O%n%N%n%A%nLT-%Z %C"
+    key: LT
+    posturl: http://www.post.lt/lt/?id=316
+    id: data/LT

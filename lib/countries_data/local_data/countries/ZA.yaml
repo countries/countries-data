@@ -32,7 +32,7 @@ ZA:
   - Republik Südafrika
   - Afrique du Sud
   - República de Sudáfrica
-  - "南アフリカ"
+  - 南アフリカ
   - Zuid-Afrika
   languages_official:
   - af
@@ -73,3 +73,12 @@ ZA:
         lat: -46.9767945
         lng: 16.4535919
   currency_code: ZAR
+  postal_address_data:
+    key: ZA
+    zipex: 0083,1451,0001
+    name: SOUTH AFRICA
+    zip: "\\d{4}"
+    require: ACZ
+    id: data/ZA
+    posturl: http://www.postoffice.co.za/tools/postalcode.html
+    fmt: "%N%n%O%n%A%n%D%n%C%n%Z"

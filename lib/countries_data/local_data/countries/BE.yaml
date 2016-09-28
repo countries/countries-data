@@ -40,7 +40,7 @@ BE:
   - Belgien
   - Belgique
   - Bélgica
-  - "ベルギー"
+  - ベルギー
   - België
   languages_official:
   - nl
@@ -67,3 +67,12 @@ BE:
         lat: 49.497013
         lng: 2.5453705
   currency_code: EUR
+  postal_address_data:
+    key: BE
+    zipex: '4000,1000'
+    name: BELGIUM
+    zip: "\\d{4}"
+    require: ACZ
+    id: data/BE
+    posturl: http://www.post.be/site/nl/residential/customerservice/search/postal_codes.html
+    fmt: "%O%n%N%n%A%n%Z %C"

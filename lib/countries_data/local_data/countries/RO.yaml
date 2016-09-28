@@ -39,7 +39,7 @@ RO:
   - Rumänien
   - Roumanie
   - Rumania
-  - "ルーマニア"
+  - ルーマニア
   - Roemenië
   languages_official:
   - ro
@@ -62,3 +62,12 @@ RO:
         lat: 43.6232976
         lng: 20.2617593
   currency_code: RON
+  postal_address_data:
+    key: RO
+    upper: AC
+    zipex: '060274,061357,200716'
+    name: ROMANIA
+    zip: "\\d{6}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    posturl: http://www.posta-romana.ro/zip_codes
+    id: data/RO

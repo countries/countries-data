@@ -24,7 +24,7 @@ PK:
   unofficial_names:
   - Pakistan
   - Paquistán
-  - "パキスタン"
+  - パキスタン
   languages_official:
   - en
   - ur
@@ -48,3 +48,11 @@ PK:
         lat: 23.7016243
         lng: 60.872972
   currency_code: PKR
+  postal_address_data:
+    key: PK
+    zipex: '44000'
+    name: PAKISTAN
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%C-%Z"
+    posturl: http://www.pakpost.gov.pk/postcode/postcode.html
+    id: data/PK

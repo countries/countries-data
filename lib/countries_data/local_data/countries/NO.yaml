@@ -31,7 +31,7 @@
   - Norwegen
   - Norvège
   - Noruega
-  - "ノルウェー"
+  - ノルウェー
   - Noorwegen
   languages_official:
   - nb
@@ -56,3 +56,13 @@
         lat: 57.959595
         lng: 4.5000962
   currency_code: NOK
+  postal_address_data:
+    key: 'NO'
+    zipex: '0025,0107,6631'
+    name: NORWAY
+    zip: "\\d{4}"
+    require: ACZ
+    id: data/NO
+    posturl: http://adressesok.posten.no/nb/postal_codes/search
+    locality_name_type: post_town
+    fmt: "%N%n%O%n%A%n%Z %C"

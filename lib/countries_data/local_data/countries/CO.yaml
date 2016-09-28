@@ -25,7 +25,7 @@ CO:
   - Colombia
   - Kolumbien
   - Colombie
-  - "コロンビア"
+  - コロンビア
   languages_official:
   - es
   languages_spoken:
@@ -47,3 +47,13 @@ CO:
         lat: -4.2256672
         lng: -81.735749
   currency_code: COP
+  postal_address_data:
+    key: CO
+    zipex: '111221,130001,760011'
+    name: COLOMBIA
+    zip: "\\d{6}"
+    require: AS
+    state_name_type: department
+    id: data/CO
+    posturl: http://www.codigopostal.gov.co/
+    fmt: "%N%n%O%n%A%n%C, %S, %Z"

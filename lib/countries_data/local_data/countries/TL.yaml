@@ -25,7 +25,7 @@ TL:
   - Timor-Leste
   - Timor oriental
   - Timor Oriental
-  - "東ティモール"
+  - 東ティモール
   - Oost-Timor
   languages_official:
   - pt
@@ -48,3 +48,7 @@ TL:
         lat: -9.504195
         lng: 124.0417379
   currency_code: IDR
+  postal_address_data:
+    id: data/TL
+    key: TL
+    name: TIMOR-LESTE

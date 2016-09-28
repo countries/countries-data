@@ -22,11 +22,11 @@ TN:
   postal_code: true
   unofficial_names:
   - Tunisia
-  - "تونس"
+  - تونس
   - Tunesien
   - Tunisie
   - Túnez
-  - "チュニジア"
+  - チュニジア
   - Tunesië
   languages_official:
   - ar
@@ -51,3 +51,11 @@ TN:
         lat: 30.2280339
         lng: 7.5223109
   currency_code: TND
+  postal_address_data:
+    key: TN
+    zipex: '1002,8129,3100,1030'
+    name: TUNISIA
+    zip: "\\d{4}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    posturl: http://www.poste.tn/codes.php
+    id: data/TN

@@ -22,10 +22,10 @@ SD:
   postal_code: true
   unofficial_names:
   - Sudan
-  - "السودان"
+  - السودان
   - Soudan
   - Sudán
-  - "スーダン"
+  - スーダン
   - Soedan
   languages_official:
   - ar
@@ -50,3 +50,4 @@ SD:
         lat: 9.3472209
         lng: 21.814939
   currency_code: SDG
+  postal_address_data: {}

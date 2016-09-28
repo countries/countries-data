@@ -22,7 +22,7 @@ GI:
   postal_code: true
   unofficial_names:
   - Gibraltar
-  - "ジブラルタル"
+  - ジブラルタル
   languages_official:
   - en
   languages_spoken:
@@ -44,3 +44,11 @@ GI:
         lat: 36.1088348
         lng: -5.3674154
   currency_code: GIP
+  postal_address_data:
+    zipex: GX11 1AA
+    name: GIBRALTAR
+    zip: GX11 1AA
+    require: A
+    fmt: "%N%n%O%n%A%nGIBRALTAR%n%Z"
+    key: GI
+    id: data/GI

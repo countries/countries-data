@@ -29,11 +29,11 @@ AE:
   postal_code: false
   unofficial_names:
   - United Arab Emirates
-  - "الإمارات العربية المتحدة"
+  - الإمارات العربية المتحدة
   - Vereinigte Arabische Emirate
-  - "Émirats Arabes Unis"
+  - Émirats Arabes Unis
   - Emiratos Árabes Unidos
-  - "アラブ首長国連邦"
+  - アラブ首長国連邦
   - Verenigde Arabische Emiraten
   languages_official:
   - ar
@@ -56,3 +56,17 @@ AE:
         lat: 22.6315137
         lng: 51.497705
   currency_code: AED
+  postal_address_data:
+    lang: ar
+    sub_lnames: Abu Dhabi~Fujairah~Umm Al Quwain~Sharjah~Ras al Khaimah~Dubai~Ajman
+    name: UNITED ARAB EMIRATES
+    require: AS
+    state_name_type: emirate
+    id: data/AE
+    languages: ar
+    lfmt: "%N%n%O%n%A%n%S"
+    sub_keys: أبو ظبي~الفجيرة~ام القيوين~إمارة الشارقةّ~إمارة رأس الخيمة~إمارة دبيّ~عجمان
+    key: AE
+    sub_isoids: AZ~FU~UQ~SH~RK~DU~AJ
+    fmt: "%N%n%O%n%A%n%S"
+    sub_names: أبو ظبي~الفجيرة~ام القيوين~إمارة الشارقةّ~إمارة رأس الخيمة~دبي~عجمان

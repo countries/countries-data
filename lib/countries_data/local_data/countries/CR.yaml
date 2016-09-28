@@ -22,7 +22,7 @@ CR:
   postal_code: true
   unofficial_names:
   - Costa Rica
-  - "コスタリカ"
+  - コスタリカ
   languages_official:
   - es
   languages_spoken:
@@ -44,3 +44,12 @@ CR:
         lat: 5.4991622
         lng: -87.0944591
   currency_code: CRC
+  postal_address_data:
+    key: CR
+    zipex: '1000,2010,1001'
+    name: COSTA RICA
+    zip: "\\d{4,5}|\\d{3}-\\d{4}"
+    require: ACS
+    id: data/CR
+    posturl: https://www.correos.go.cr/nosotros/codigopostal/busqueda.html
+    fmt: "%N%n%O%n%A%n%S, %C%n%Z"

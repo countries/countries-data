@@ -25,7 +25,7 @@ CM:
   - Kamerun
   - Cameroun
   - Camerún
-  - "カメルーン"
+  - カメルーン
   - Kameroen
   languages_official:
   - en
@@ -50,3 +50,7 @@ CM:
         lat: 1.6559
         lng: 8.4947634
   currency_code: XAF
+  postal_address_data:
+    id: data/CM
+    key: CM
+    name: CAMEROON

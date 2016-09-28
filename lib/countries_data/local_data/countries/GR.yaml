@@ -39,7 +39,7 @@ GR:
   - Griechenland
   - Grèce
   - Grecia
-  - "ギリシャ"
+  - ギリシャ
   - Griekenland
   languages_official:
   - el
@@ -62,3 +62,12 @@ GR:
         lat: 34.8009169
         lng: 19.3724226
   currency_code: EUR
+  postal_address_data:
+    key: GR
+    zipex: 151 24,151 10,101 88
+    name: GREECE
+    zip: "\\d{3} ?\\d{2}"
+    require: ACZ
+    id: data/GR
+    posturl: http://www.elta.gr/findapostcode.aspx
+    fmt: "%N%n%O%n%A%n%Z %C"

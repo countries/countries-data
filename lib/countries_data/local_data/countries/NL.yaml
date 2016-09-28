@@ -38,7 +38,7 @@ NL:
   - Niederlande
   - Pays-Bas
   - Países Bajos
-  - "オランダ"
+  - オランダ
   - Nederland
   languages_official:
   - nl
@@ -61,3 +61,12 @@ NL:
         lat: 50.7503837
         lng: 3.357962
   currency_code: EUR
+  postal_address_data:
+    key: NL
+    zipex: 1234 AB,2490 AA
+    name: NETHERLANDS
+    zip: "\\d{4} ?[A-Z]{2}"
+    require: ACZ
+    id: data/NL
+    posturl: http://www.postnl.nl/voorthuis/
+    fmt: "%O%n%N%n%A%n%Z %C"

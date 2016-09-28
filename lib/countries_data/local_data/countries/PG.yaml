@@ -25,7 +25,7 @@ PG:
   - Papua-Neuguinea
   - Papouasie Nouvelle-Guinée
   - Papúa Nueva Guinea
-  - "パプアニューギニア"
+  - パプアニューギニア
   - Papoea-Nieuw-Guinea
   languages_official:
   - en
@@ -48,3 +48,11 @@ PG:
         lat: -11.6578607
         lng: 140.8419695
   currency_code: PGK
+  postal_address_data:
+    zipex: '111'
+    name: PAPUA NEW GUINEA
+    zip: "\\d{3}"
+    require: ACS
+    fmt: "%N%n%O%n%A%n%C %Z %S"
+    key: PG
+    id: data/PG

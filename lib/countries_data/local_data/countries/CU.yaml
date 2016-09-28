@@ -23,7 +23,7 @@ CU:
   unofficial_names:
   - Cuba
   - Kuba
-  - "キューバ"
+  - キューバ
   languages_official:
   - es
   languages_spoken:
@@ -45,3 +45,4 @@ CU:
         lat: 19.8258995
         lng: -84.95188879999999
   currency_code: CUP
+  postal_address_data: {}

@@ -22,7 +22,7 @@ DM:
   postal_code: false
   unofficial_names:
   - Dominica
-  - "ドミニカ国"
+  - ドミニカ国
   languages_official:
   - en
   languages_spoken:
@@ -44,3 +44,7 @@ DM:
         lat: 15.2074514
         lng: -61.47992129999999
   currency_code: XCD
+  postal_address_data:
+    id: data/DM
+    key: DM
+    name: DOMINICA

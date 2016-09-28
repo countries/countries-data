@@ -23,9 +23,9 @@ VI:
   unofficial_names:
   - Virgin Islands of the United States
   - Amerikanische Jungferninseln
-  - "Îles Vierges américaines"
+  - Îles Vierges américaines
   - Islas Vírgenes de los Estados Unidos
-  - "アメリカ領ヴァージン諸島"
+  - アメリカ領ヴァージン諸島
   - Amerikaanse Maagdeneilanden
   - Virgin Islands (U.S.)
   - United States Virgin Islands
@@ -50,3 +50,15 @@ VI:
         lat: 17.6738839
         lng: -65.0854569
   currency_code: USD
+  postal_address_data:
+    key: VI
+    upper: ACNOS
+    zipex: 00802-1222,00850-9802
+    name: VIRGIN ISLANDS (U.S.)
+    zip: "(008(?:(?:[0-4]\\d)|(?:5[01])))(?:[ \\-](\\d{4}))?"
+    zip_name_type: zip
+    require: ACSZ
+    state_name_type: state
+    id: data/VI
+    posturl: http://zip4.usps.com/zip4/welcome.jsp
+    fmt: "%N%n%O%n%A%n%C %S %Z"

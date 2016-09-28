@@ -33,7 +33,7 @@ LV:
   - Lettland
   - Lettonie
   - Letonia
-  - "ラトビア"
+  - ラトビア
   - Letland
   languages_official:
   - lv
@@ -56,3 +56,11 @@ LV:
         lat: 55.6747769
         lng: 20.9700939
   currency_code: EUR
+  postal_address_data:
+    key: LV
+    zipex: LV-1073,LV-1000
+    name: LATVIA
+    zip: LV-\d{4}
+    fmt: "%N%n%O%n%A%n%C, %Z"
+    posturl: http://www.pasts.lv/lv/uzzinas/nodalas/
+    id: data/LV

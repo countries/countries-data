@@ -25,7 +25,7 @@ BT:
   - Bhutan
   - Bhoutan
   - Bután
-  - "ブータン"
+  - ブータン
   languages_official:
   - dz
   languages_spoken:
@@ -47,3 +47,11 @@ BT:
         lat: 26.702016
         lng: 88.74647350000001
   currency_code: BTN
+  postal_address_data:
+    key: BT
+    zipex: '11001,31101,35003'
+    name: BHUTAN
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%C %Z"
+    posturl: http://www.bhutanpost.com.bt/postcode/postcode.php
+    id: data/BT

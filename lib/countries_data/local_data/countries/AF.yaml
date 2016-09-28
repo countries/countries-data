@@ -24,7 +24,7 @@ AF:
   unofficial_names:
   - Afghanistan
   - Afganistán
-  - "アフガニスタン"
+  - アフガニスタン
   languages_official:
   - ps
   - uz
@@ -50,3 +50,11 @@ AF:
         lat: 29.3772
         lng: 60.5170004
   currency_code: AFN
+  postal_address_data:
+    key: AF
+    zipex: '1001,2601,3801'
+    name: AFGHANISTAN
+    zip: "\\d{4}"
+    fmt: "%N%n%O%n%A%n%C%n%Z"
+    posturl: http://afghanpost.gov.af/Postal%20Code/
+    id: data/AF

@@ -25,7 +25,7 @@ TJ:
   - Tajikistan
   - Tadschikistan
   - Tayikistán
-  - "タジキスタン"
+  - タジキスタン
   - Tadzjikistan
   - Tajikstan
   languages_official:
@@ -51,3 +51,10 @@ TJ:
         lat: 36.6719897
         lng: 67.342012
   currency_code: TJS
+  postal_address_data:
+    zipex: '735450,734025'
+    name: TAJIKISTAN
+    zip: "\\d{6}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: TJ
+    id: data/TJ

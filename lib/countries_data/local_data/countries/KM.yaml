@@ -24,7 +24,7 @@ KM:
   - Comoros
   - Union der Komoren
   - Comores
-  - "コモロ"
+  - コモロ
   - Comoren
   languages_official:
   - ar
@@ -49,3 +49,8 @@ KM:
         lat: -12.4223356
         lng: 43.2286278
   currency_code: KMF
+  postal_address_data:
+    upper: AC
+    id: data/KM
+    key: KM
+    name: COMOROS

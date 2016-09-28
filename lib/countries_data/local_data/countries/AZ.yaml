@@ -26,7 +26,7 @@ AZ:
   - Aserbaidschan
   - Azerbaïdjan
   - Azerbaiyán
-  - "アゼルバイジャン"
+  - アゼルバイジャン
   - Azerbeidzjan
   languages_official:
   - az
@@ -51,3 +51,11 @@ AZ:
         lat: 38.392217
         lng: 44.7632599
   currency_code: AZN
+  postal_address_data:
+    postprefix: 'AZ '
+    zipex: '1000'
+    name: AZERBAIJAN
+    zip: "\\d{4}"
+    fmt: "%N%n%O%n%A%nAZ %Z %C"
+    key: AZ
+    id: data/AZ

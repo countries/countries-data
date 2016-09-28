@@ -25,7 +25,7 @@ GH:
   postal_code: false
   unofficial_names:
   - Ghana
-  - "ガーナ"
+  - ガーナ
   languages_official:
   - en
   languages_spoken:
@@ -47,3 +47,7 @@ GH:
         lat: 4.7388737
         lng: -3.2607861
   currency_code: GHS
+  postal_address_data:
+    id: data/GH
+    key: GH
+    name: GHANA

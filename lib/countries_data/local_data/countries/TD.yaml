@@ -22,10 +22,10 @@ TD:
   postal_code: true
   unofficial_names:
   - Chad
-  - "تشاد"
+  - تشاد
   - Tschad
   - Tchad
-  - "チャド"
+  - チャド
   - Tsjaad
   languages_official:
   - ar
@@ -50,3 +50,7 @@ TD:
         lat: 7.442974899999999
         lng: 13.4699999
   currency_code: XAF
+  postal_address_data:
+    id: data/TD
+    key: TD
+    name: CHAD

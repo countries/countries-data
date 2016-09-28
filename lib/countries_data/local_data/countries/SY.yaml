@@ -28,12 +28,12 @@ SY:
   postal_code: false
   unofficial_names:
   - Syria
-  - "سوريا"
-  - "سورية"
+  - سوريا
+  - سورية
   - Syrien
   - Syrie
   - Siria
-  - "シリア・アラブ共和国"
+  - シリア・アラブ共和国
   - Syrië
   languages_official:
   - ar
@@ -56,3 +56,4 @@ SY:
         lat: 32.311136
         lng: 35.7165955
   currency_code: SYP
+  postal_address_data: {}

@@ -23,7 +23,7 @@ CL:
   postal_code: true
   unofficial_names:
   - Chile
-  - "チリ"
+  - チリ
   - Chili
   languages_official:
   - es
@@ -46,3 +46,20 @@ CL:
         lat: -55.9805353
         lng: -109.4548805
   currency_code: CLP
+  postal_address_data:
+    lang: es
+    key: CL
+    zipex: '8340457,8720019,1230000,8329100,8720019'
+    name: CHILE
+    zip: "\\d{7}"
+    sub_mores: true~true~true~true~true~true~true~true~true~true~true~true~true~true~true
+    fmt: "%N%n%O%n%A%n%Z %C%n%S"
+    languages: es
+    sub_keys: Antofagasta~Araucanía~Arica y Parinacota~Atacama~Aysén~Biobío~Coquimbo~O'Higgins~Los
+      Lagos~Los Ríos~Magallanes~Maule~Región Metropolitana~Tarapacá~Valparaíso
+    posturl: http://www.correos.cl/SitePages/home.aspx
+    sub_isoids: AN~AR~AP~AT~AI~BI~CO~LI~LL~LR~MA~ML~RM~TA~VS
+    id: data/CL
+    sub_names: Antofagasta~Araucanía~Arica y Parinacota~Atacama~Aysén del General
+      Carlos Ibáñez del Campo~Biobío~Coquimbo~Libertador General Bernardo O'Higgins~Los
+      Lagos~Los Ríos~Magallanes y de la Antártica Chilena~Maule~Metropolitana de Santiago~Tarapacá~Valparaíso

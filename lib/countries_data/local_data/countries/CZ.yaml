@@ -38,7 +38,7 @@ CZ:
   - Tschechische Republik
   - République Tchèque
   - República Checa
-  - "チェコ"
+  - チェコ
   - Tsjechië
   languages_official:
   - cs
@@ -63,3 +63,11 @@ CZ:
         lat: 48.5518081
         lng: 12.0905891
   currency_code: CZK
+  postal_address_data:
+    key: CZ
+    zipex: 100 00,251 66,530 87,110 00,225 99
+    name: CZECH REP.
+    zip: "\\d{3} ?\\d{2}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    posturl: http://psc.ceskaposta.cz/CleanForm.action
+    id: data/CZ

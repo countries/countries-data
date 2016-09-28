@@ -23,9 +23,9 @@ CK:
   unofficial_names:
   - Cook Islands
   - Cookinseln
-  - "Îles Cook"
+  - Îles Cook
   - Islas Cook
-  - "クック諸島"
+  - クック諸島
   - Cookeilanden
   languages_official:
   - en
@@ -48,3 +48,7 @@ CK:
         lat: -21.9591364
         lng: -165.8783468
   currency_code: NZD
+  postal_address_data:
+    id: data/CK
+    key: CK
+    name: COOK ISLANDS

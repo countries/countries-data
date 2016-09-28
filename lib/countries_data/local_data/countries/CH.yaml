@@ -39,7 +39,7 @@ CH:
   - Schweiz
   - Suisse
   - Suiza
-  - "スイス"
+  - スイス
   - Zwitserland
   languages_official:
   - de
@@ -66,3 +66,19 @@ CH:
         lat: 45.8179199
         lng: 5.956080099999999
   currency_code: CHF
+  postal_address_data:
+    lang: de
+    upper: ''
+    zipex: '2544,1211,1556,3030'
+    name: SWITZERLAND
+    zip: "\\d{4}"
+    key: CH
+    require: ACZ
+    postprefix: CH-
+    id: data/CH
+    languages: de~fr~it
+    sub_keys: AG~AR~AI~BL~BS~BE~FR~GE~GL~GR~JU~LU~NE~NW~OW~SH~SZ~SO~SG~TI~TG~UR~VD~VS~ZG~ZH
+    posturl: http://www.post.ch/db/owa/pv_plz_pack/pr_main
+    fmt: "%O%n%N%n%A%nCH-%Z %C"
+    sub_names: Aargau~Appenzell Ausserrhoden~Appenzell Innerrhoden~Basel-Landschaft~Basel-Stadt~Bern~Freiburg~Genf~Glarus~Graubünden~Jura~Luzern~Neuenburg~Nidwalden~Obwalden~Schaffhausen~Schwyz~Solothurn~St.
+      Gallen~Tessin~Thurgau~Uri~Waadt~Wallis~Zug~Zürich

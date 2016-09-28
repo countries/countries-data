@@ -25,7 +25,7 @@ AG:
   - Antigua und Barbuda
   - Antigua et Barbuda
   - Antigua y Barbuda
-  - "アンティグア・バーブーダ"
+  - アンティグア・バーブーダ
   - Antigua en Barbuda
   languages_official:
   - en
@@ -48,3 +48,8 @@ AG:
         lat: 16.932532
         lng: -62.3476571
   currency_code: XCD
+  postal_address_data:
+    require: A
+    id: data/AG
+    key: AG
+    name: ANTIGUA AND BARBUDA

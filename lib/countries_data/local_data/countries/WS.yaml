@@ -23,7 +23,7 @@ WS:
   postal_code: true
   unofficial_names:
   - Samoa
-  - "サモア"
+  - サモア
   languages_official:
   - sm
   - en
@@ -47,3 +47,7 @@ WS:
         lat: -14.0765884
         lng: -172.8036765
   currency_code: USD
+  postal_address_data:
+    id: data/WS
+    key: WS
+    name: SAMOA

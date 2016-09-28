@@ -39,7 +39,7 @@ SE:
   - Schweden
   - Suède
   - Suecia
-  - "スウェーデン"
+  - スウェーデン
   - Zweden
   languages_official:
   - sv
@@ -62,3 +62,14 @@ SE:
         lat: 55.0059799
         lng: 10.5798
   currency_code: SEK
+  postal_address_data:
+    postprefix: SE-
+    zipex: '11455,12345,10500'
+    name: SWEDEN
+    zip: "\\d{3} ?\\d{2}"
+    require: ACZ
+    id: data/SE
+    key: SE
+    posturl: http://www.posten.se/sv/Kundservice/Sidor/Sok-postnummer-resultat.aspx
+    locality_name_type: post_town
+    fmt: "%O%n%N%n%A%nSE-%Z %C"

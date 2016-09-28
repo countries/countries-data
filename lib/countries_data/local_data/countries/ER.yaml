@@ -22,9 +22,9 @@ ER:
   postal_code: false
   unofficial_names:
   - Eritrea
-  - "إريتريا"
-  - "Érythrée"
-  - "エリトリア"
+  - إريتريا
+  - Érythrée
+  - エリトリア
   languages_official:
   - en
   - ar
@@ -50,3 +50,7 @@ ER:
         lat: 12.3547229
         lng: 36.433348
   currency_code: ETB
+  postal_address_data:
+    id: data/ER
+    key: ER
+    name: ERITREA

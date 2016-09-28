@@ -22,9 +22,9 @@ DJ:
   postal_code: false
   unofficial_names:
   - Djibouti
-  - "جيبوتي"
+  - جيبوتي
   - Dschibuti
-  - "ジブチ"
+  - ジブチ
   languages_official:
   - ar
   - fr
@@ -48,3 +48,7 @@ DJ:
         lat: 10.9319439
         lng: 41.7597219
   currency_code: DJF
+  postal_address_data:
+    id: data/DJ
+    key: DJ
+    name: DJIBOUTI

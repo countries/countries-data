@@ -23,7 +23,7 @@ KE:
   unofficial_names:
   - Kenya
   - Kenia
-  - "ケニア"
+  - ケニア
   languages_official:
   - en
   - sw
@@ -47,3 +47,10 @@ KE:
         lat: -4.679658499999999
         lng: 33.90982109999999
   currency_code: KES
+  postal_address_data:
+    zipex: '20100,00100'
+    name: KENYA
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%C%n%Z"
+    key: KE
+    id: data/KE

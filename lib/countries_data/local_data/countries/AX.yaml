@@ -7,7 +7,7 @@ AX:
   international_prefix: ''
   ioc: 
   gec: 
-  name: "Åland Islands"
+  name: Åland Islands
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -19,10 +19,10 @@ AX:
   nationality: Swedish
   postal_code: true
   unofficial_names:
-  - "Åland Islands"
-  - "Åland"
-  - "オーランド諸島"
-  - "Ålandeilanden"
+  - Åland Islands
+  - Åland
+  - オーランド諸島
+  - Ålandeilanden
   languages_official:
   - sv
   languages_spoken:
@@ -44,3 +44,13 @@ AX:
         lat: 59.72722270000001
         lng: 19.2633195
   currency_code: EUR
+  postal_address_data:
+    postprefix: AX-
+    zipex: '22150,22550,22240,22710,22270,22730,22430'
+    name: FINLAND
+    zip: 22\d{3}
+    require: ACZ
+    id: data/AX
+    key: AX
+    posturl: http://www.posten.ax/department.con?iPage=123
+    fmt: "%O%n%N%n%A%nAX-%Z %C%nÅLAND"

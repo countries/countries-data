@@ -22,7 +22,7 @@ AI:
   postal_code: true
   unofficial_names:
   - Anguilla
-  - "アンギラ"
+  - アンギラ
   languages_official:
   - en
   languages_spoken:
@@ -44,3 +44,10 @@ AI:
         lat: 18.1499464
         lng: -63.42898210000001
   currency_code: XCD
+  postal_address_data:
+    zipex: '2640'
+    name: ANGUILLA
+    zip: "(?:AI-)?2640"
+    fmt: "%N%n%O%n%A%n%C%n%Z"
+    key: AI
+    id: data/AI

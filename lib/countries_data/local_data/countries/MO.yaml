@@ -23,7 +23,7 @@ MO:
   unofficial_names:
   - Macao
   - Macau
-  - "マカオ"
+  - マカオ
   languages_official:
   - zh
   - pt
@@ -47,3 +47,10 @@ MO:
         lat: 22.1097693
         lng: 113.5287411
   currency_code: MOP
+  postal_address_data:
+    name: MACAO
+    require: A
+    fmt: "%A%n%O%n%N"
+    lfmt: "%N%n%O%n%A"
+    key: MO
+    id: data/MO

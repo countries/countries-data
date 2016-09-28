@@ -30,7 +30,7 @@ BA:
   - Bosnien und Herzegowina
   - Bosnie et Herzégovine
   - Bosnia y Herzegovina
-  - "ボスニア・ヘルツェゴビナ"
+  - ボスニア・ヘルツェゴビナ
   - Bosnië en Herzegovina
   - Bosnia Herzegovina
   languages_official:
@@ -58,3 +58,11 @@ BA:
         lat: 42.5564516
         lng: 15.7223666
   currency_code: BAM
+  postal_address_data:
+    key: BA
+    zipex: '71000'
+    name: BOSNIA AND HERZEGOVINA
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    posturl: http://www.post.ba/postanski_brojevi.php
+    id: data/BA

@@ -20,7 +20,7 @@ MF:
   postal_code: true
   unofficial_names:
   - Saint Martin
-  - "サン・マルタン（フランス領）"
+  - サン・マルタン（フランス領）
   - Saint-Martin
   languages_official:
   - en
@@ -47,3 +47,13 @@ MF:
         lat: 18.0465858
         lng: -63.15359
   currency_code: EUR
+  postal_address_data:
+    key: MF
+    upper: ACX
+    zipex: '97100'
+    name: SAINT MARTIN
+    zip: 9[78][01]\d{2}
+    require: ACZ
+    id: data/MF
+    posturl: http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal
+    fmt: "%O%n%N%n%A%n%Z %C %X"

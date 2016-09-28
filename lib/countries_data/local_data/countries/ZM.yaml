@@ -24,7 +24,7 @@ ZM:
   - Zambia
   - Sambia
   - Zambie
-  - "ザンビア"
+  - ザンビア
   languages_official:
   - en
   languages_spoken:
@@ -46,3 +46,10 @@ ZM:
         lat: -18.0767539
         lng: 21.9993509
   currency_code: ZMW
+  postal_address_data:
+    zipex: '50100,50101'
+    name: ZAMBIA
+    zip: "\\d{5}"
+    fmt: "%N%n%O%n%A%n%Z %C"
+    key: ZM
+    id: data/ZM

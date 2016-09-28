@@ -24,7 +24,7 @@ SZ:
   - Swaziland
   - Swasiland
   - Suazilandia
-  - "スワジランド"
+  - スワジランド
   languages_official:
   - en
   - ss
@@ -48,3 +48,12 @@ SZ:
         lat: -27.317402
         lng: 30.79064
   currency_code: SZL
+  postal_address_data:
+    key: SZ
+    upper: ACZ
+    zipex: H100
+    name: SWAZILAND
+    zip: "[HLMS]\\d{3}"
+    fmt: "%N%n%O%n%A%n%C%n%Z"
+    posturl: http://www.sptc.co.sz/swazipost/codes.php
+    id: data/SZ

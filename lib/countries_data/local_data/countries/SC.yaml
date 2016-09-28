@@ -23,7 +23,7 @@ SC:
   unofficial_names:
   - Seychelles
   - Seychellen
-  - "セーシェル"
+  - セーシェル
   languages_official:
   - fr
   - en
@@ -47,3 +47,10 @@ SC:
         lat: -10.2270014
         lng: 46.20329659999999
   currency_code: SCR
+  postal_address_data:
+    upper: S
+    name: SEYCHELLES
+    fmt: "%N%n%O%n%A%n%C%n%S"
+    state_name_type: island
+    key: SC
+    id: data/SC

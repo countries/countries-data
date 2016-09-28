@@ -22,7 +22,7 @@ GD:
   postal_code: false
   unofficial_names:
   - Grenada
-  - "グレナダ"
+  - グレナダ
   languages_official:
   - en
   languages_spoken:
@@ -44,3 +44,7 @@ GD:
         lat: 11.9848781
         lng: -61.80238019999999
   currency_code: XCD
+  postal_address_data:
+    id: data/GD
+    key: GD
+    name: GRENADA (WEST INDIES)
