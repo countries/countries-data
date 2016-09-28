@@ -1,0 +1,449 @@
+{
+  "continent": "Europe",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}}\n{{country}}",
+  "alpha2": "SI",
+  "alpha3": "SVN",
+  "country_code": "386",
+  "international_prefix": "00",
+  "ioc": "SLO",
+  "gec": "SI",
+  "name": "Slovenia",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "0",
+  "number": "705",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "world_region": "EMEA",
+  "un_locode": "SI",
+  "nationality": "Slovene",
+  "eu_member": true,
+  "eea_member": true,
+  "vat_rates": {
+    "standard": 22,
+    "reduced": [
+      9.5
+    ],
+    "super_reduced": null,
+    "parking": null
+  },
+  "postal_code": true,
+  "unofficial_names": [
+    "Slovenia",
+    "Slowenien",
+    "Slovénie",
+    "Eslovenia",
+    "スロベニア",
+    "Slovenië"
+  ],
+  "languages_official": [
+    "sl"
+  ],
+  "languages_spoken": [
+    "sl"
+  ],
+  "geo": {
+    "latitude": 46.151241,
+    "latitude_dec": "46.1202392578125",
+    "longitude": 14.995463,
+    "longitude_dec": "14.820664405822754",
+    "max_latitude": 46.8766589,
+    "max_longitude": 16.5966858,
+    "min_latitude": 45.4217082,
+    "min_longitude": 13.3753355,
+    "bounds": {
+      "northeast": {
+        "lat": 46.8766589,
+        "lng": 16.5966858
+      },
+      "southwest": {
+        "lat": 45.4217082,
+        "lng": 13.3753355
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "postprefix": "SI-",
+    "zipex": "4000,1001,2500",
+    "name": "SLOVENIA",
+    "zip": "\\d{4}",
+    "fmt": "%N%n%O%n%A%nSI- %Z %C",
+    "key": "SI",
+    "id": "data/SI"
+  },
+  "translations": {
+    "af": {
+      "official": "Slowenië",
+      "common": "Slowenië"
+    },
+    "sq": {
+      "official": "Sllovenia",
+      "common": "Sllovenia"
+    },
+    "am": {
+      "official": "ስሕታኒ።",
+      "common": "ስሕታኒ።"
+    },
+    "ar": {
+      "official": "سلوفينيا",
+      "common": "سلوفينيا"
+    },
+    "hy": {
+      "official": "Սլովենիա",
+      "common": "Սլովենիա"
+    },
+    "as": {
+      "official": "স্লোভেনিয়া",
+      "common": "স্লোভেনিয়া"
+    },
+    "az": {
+      "official": "Sloveniya",
+      "common": "Sloveniya"
+    },
+    "eu": {
+      "official": "Eslovenia",
+      "common": "Eslovenia"
+    },
+    "be": {
+      "official": "Славенія",
+      "common": "Славенія"
+    },
+    "bn": {
+      "official": "স্লোভেনিয়া",
+      "common": "স্লোভেনিয়া"
+    },
+    "bs": {
+      "official": "Slovenija",
+      "common": "Slovenija"
+    },
+    "br": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "bg": {
+      "official": "Словения",
+      "common": "Словения"
+    },
+    "ca": {
+      "official": "Eslovènia",
+      "common": "Eslovènia"
+    },
+    "zh": {
+      "official": "斯洛文尼亚",
+      "common": "斯洛文尼亚"
+    },
+    "cs": {
+      "official": "Slovinsko",
+      "common": "Slovinsko"
+    },
+    "da": {
+      "official": "Slovenien",
+      "common": "Slovenien"
+    },
+    "nl": {
+      "official": "Slovenië",
+      "common": "Slovenië"
+    },
+    "dz": {
+      "official": "སོལོ་བི་ནི་ཡ།",
+      "common": "སོལོ་བི་ནི་ཡ།"
+    },
+    "en": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "eo": {
+      "official": "Slovenio",
+      "common": "Slovenio"
+    },
+    "et": {
+      "official": "Sloveenia",
+      "common": "Sloveenia"
+    },
+    "fo": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "fi": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "fr": {
+      "official": "Slovénie",
+      "common": "Slovénie"
+    },
+    "ka": {
+      "official": "სლოვენია",
+      "common": "სლოვენია"
+    },
+    "de": {
+      "official": "Slowenien",
+      "common": "Slowenien"
+    },
+    "ga": {
+      "official": "An tSlóivéin",
+      "common": "An tSlóivéin"
+    },
+    "gl": {
+      "official": "Eslovenia",
+      "common": "Eslovenia"
+    },
+    "el": {
+      "official": "Σλοβενία",
+      "common": "Σλοβενία"
+    },
+    "gu": {
+      "official": "સ્લોવેનિયા",
+      "common": "સ્લોવેનિયા"
+    },
+    "he": {
+      "official": "סלובניה",
+      "common": "סלובניה"
+    },
+    "hi": {
+      "official": "स्लोवेनिया",
+      "common": "स्लोवेनिया"
+    },
+    "hr": {
+      "official": "Slovenija",
+      "common": "Slovenija"
+    },
+    "hu": {
+      "official": "Szlovénia",
+      "common": "Szlovénia"
+    },
+    "is": {
+      "official": "Slóvenía",
+      "common": "Slóvenía"
+    },
+    "ia": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "id": {
+      "official": "Slovania",
+      "common": "Slovania"
+    },
+    "it": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "ja": {
+      "official": "スロベニア",
+      "common": "スロベニア"
+    },
+    "kn": {
+      "official": "ಸ್ಲೋವೇನಿಯಾ",
+      "common": "ಸ್ಲೋವೇನಿಯಾ"
+    },
+    "kk": {
+      "official": "Словения",
+      "common": "Словения"
+    },
+    "km": {
+      "official": "ស្លូវ៉ានី",
+      "common": "ស្លូវ៉ានី"
+    },
+    "rw": {
+      "official": "Siloveniya",
+      "common": "Siloveniya"
+    },
+    "ko": {
+      "official": "슬로베니아",
+      "common": "슬로베니아"
+    },
+    "ku": {
+      "official": "Slovenya",
+      "common": "Slovenya"
+    },
+    "lv": {
+      "official": "Slovēnija",
+      "common": "Slovēnija"
+    },
+    "lt": {
+      "official": "Slovėnija",
+      "common": "Slovėnija"
+    },
+    "mk": {
+      "official": "Словенија",
+      "common": "Словенија"
+    },
+    "ml": {
+      "official": "സ്ലോവേനിയ",
+      "common": "സ്ലോവേനിയ"
+    },
+    "mi": {
+      "official": "Horowinia",
+      "common": "Horowinia"
+    },
+    "mr": {
+      "official": "स्लोव्हेनिया",
+      "common": "स्लोव्हेनिया"
+    },
+    "ms": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "mt": {
+      "official": "Slovenja",
+      "common": "Slovenja"
+    },
+    "mn": {
+      "official": "Словени",
+      "common": "Словени"
+    },
+    "ne": {
+      "official": "स्लोभेनिया",
+      "common": "स्लोभेनिया"
+    },
+    "nn": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "nb": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "oc": {
+      "official": "Eslovenia",
+      "common": "Eslovenia"
+    },
+    "or": {
+      "official": "ସ୍ଲୋଭାନିୟା",
+      "common": "ସ୍ଲୋଭାନିୟା"
+    },
+    "pa": {
+      "official": "ਸਲੋਵੀਨੀਆ",
+      "common": "ਸਲੋਵੀਨੀਆ"
+    },
+    "fa": {
+      "official": "اسلوونی",
+      "common": "اسلوونی"
+    },
+    "pl": {
+      "official": "Słowenia",
+      "common": "Słowenia"
+    },
+    "pt": {
+      "official": "Eslovénia",
+      "common": "Eslovénia"
+    },
+    "ps": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "ro": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "ru": {
+      "official": "Словения",
+      "common": "Словения"
+    },
+    "si": {
+      "official": "ස්ලෝවීනියාව",
+      "common": "ස්ලෝවීනියාව"
+    },
+    "sk": {
+      "official": "Slovinsko",
+      "common": "Slovinsko"
+    },
+    "sl": {
+      "official": "Slovenija",
+      "common": "Slovenija"
+    },
+    "so": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "es": {
+      "official": "Eslovenia",
+      "common": "Eslovenia"
+    },
+    "sr": {
+      "official": "Словенија",
+      "common": "Словенија"
+    },
+    "sw": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "sv": {
+      "official": "Slovenien",
+      "common": "Slovenien"
+    },
+    "ta": {
+      "official": "ஸ்லோவேனியா",
+      "common": "ஸ்லோவேனியா"
+    },
+    "tt": {
+      "official": "Словениа",
+      "common": "Словениа"
+    },
+    "te": {
+      "official": "స్లోవేనియా",
+      "common": "స్లోవేనియా"
+    },
+    "tl": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "th": {
+      "official": "สโลวีเนีย",
+      "common": "สโลวีเนีย"
+    },
+    "ti": {
+      "official": "ስሎቬኒያ",
+      "common": "ስሎቬኒያ"
+    },
+    "tk": {
+      "official": "Sloweniýa",
+      "common": "Sloweniýa"
+    },
+    "tr": {
+      "official": "Slovenya",
+      "common": "Slovenya"
+    },
+    "ug": {
+      "official": "سىلوۋېنىيە",
+      "common": "سىلوۋېنىيە"
+    },
+    "uk": {
+      "official": "Словенія",
+      "common": "Словенія"
+    },
+    "ve": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "vi": {
+      "official": "Xlô-ven",
+      "common": "Xlô-ven"
+    },
+    "cy": {
+      "official": "Slofenia",
+      "common": "Slofenia"
+    },
+    "wa": {
+      "official": "Esloveneye",
+      "common": "Esloveneye"
+    },
+    "wo": {
+      "official": "Esloweeni",
+      "common": "Esloweeni"
+    },
+    "xh": {
+      "official": "Slovenia",
+      "common": "Slovenia"
+    },
+    "zu": {
+      "official": "Isi-Sloveniya",
+      "common": "Isi-Sloveniya"
+    }
+  }
+}

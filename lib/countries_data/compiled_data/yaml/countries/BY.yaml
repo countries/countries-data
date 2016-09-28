@@ -1,0 +1,337 @@
+---
+continent: Europe
+alpha2: BY
+alpha3: BLR
+country_code: '375'
+international_prefix: '810'
+ioc: BLR
+gec: BO
+name: Belarus
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: '8'
+number: '112'
+region: Europe
+subregion: Eastern Europe
+world_region: EMEA
+un_locode: BY
+nationality: Belarusian
+postal_code: true
+unofficial_names:
+- Belarus
+- Weißrussland
+- Biélorussie
+- Bielorrusia
+- ベラルーシ
+- Wit-Rusland
+- Беларусь
+languages_official:
+- be
+- ru
+languages_spoken:
+- be
+- ru
+geo:
+  latitude: 53.709807
+  latitude_dec: '53.54347229003906'
+  longitude: 27.953389
+  longitude_dec: '28.054094314575195'
+  max_latitude: 56.1718719
+  max_longitude: 32.7768202
+  min_latitude: 51.2620109
+  min_longitude: 23.1783378
+  bounds:
+    northeast:
+      lat: 56.1718719
+      lng: 32.7768202
+    southwest:
+      lat: 51.2620109
+      lng: 23.1783378
+currency_code: BYR
+postal_address_data:
+  key: BY
+  zipex: '223016,225860,220050'
+  name: BELARUS
+  zip: "\\d{6}"
+  fmt: "%S%n%Z %C%n%A%n%O%n%N"
+  posturl: http://zip.belpost.by
+  id: data/BY
+translations:
+  af:
+    official: Wit-Rusland
+    common: Wit-Rusland
+  sq:
+    official: Bjellorusia
+    common: Bjellorusia
+  am:
+    official: ቤሒሩስ
+    common: ቤሒሩስ
+  ar:
+    official: روسيا البيضاء
+    common: روسيا البيضاء
+  hy:
+    official: Բելոռուս
+    common: Բելոռուս
+  as:
+    official: বেলাৰছ
+    common: বেলাৰছ
+  az:
+    official: Belarusiya
+    common: Belarusiya
+  eu:
+    official: Bielorrusia
+    common: Bielorrusia
+  be:
+    official: Беларусь
+    common: Беларусь
+  bn:
+    official: বেলারুস
+    common: বেলারুস
+  bs:
+    official: Bjelorusija
+    common: Bjelorusija
+  br:
+    official: Belarus
+    common: Belarus
+  bg:
+    official: Беларус
+    common: Беларус
+  ca:
+    official: Bielorússia
+    common: Bielorússia
+  zh:
+    official: 白俄罗斯
+    common: 白俄罗斯
+  cs:
+    official: Bělorusko
+    common: Bělorusko
+  da:
+    official: Hviderusland
+    common: Hviderusland
+  nl:
+    official: Wit-Rusland
+    common: Wit-Rusland
+  dz:
+    official: བེ་ལ་རཱསི།
+    common: བེ་ལ་རཱསི།
+  en:
+    official: Belarus
+    common: Belarus
+  eo:
+    official: Belorusio
+    common: Belorusio
+  et:
+    official: Valgevene
+    common: Valgevene
+  fo:
+    official: Hvítarussland
+    common: Hvítarussland
+  fi:
+    official: Valko-Venäjä
+    common: Valko-Venäjä
+  fr:
+    official: Bélarus
+    common: Bélarus
+  ka:
+    official: ბელორუსია
+    common: ბელორუსია
+  de:
+    official: Weißrussland
+    common: Weißrussland
+  ga:
+    official: An Bhílearúis
+    common: An Bhílearúis
+  gl:
+    official: Bielorrusia
+    common: Bielorrusia
+  el:
+    official: Λευκορωσία
+    common: Λευκορωσία
+  gu:
+    official: બેલારુસ
+    common: બેલારુસ
+  he:
+    official: בלרוס
+    common: בלרוס
+  hi:
+    official: बेलारूस
+    common: बेलारूस
+  hr:
+    official: Bjelorusija
+    common: Bjelorusija
+  hu:
+    official: Fehéroroszország
+    common: Fehéroroszország
+  is:
+    official: Hvítarússland
+    common: Hvítarússland
+  ia:
+    official: Bielorussia
+    common: Bielorussia
+  id:
+    official: Belarusia
+    common: Belarusia
+  it:
+    official: Bielorussia
+    common: Bielorussia
+  ja:
+    official: ベラルーシ
+    common: ベラルーシ
+  kn:
+    official: ಬೇಲಾರುಸ್
+    common: ಬೇಲಾರುಸ್
+  kk:
+    official: Беларусь
+    common: Беларусь
+  km:
+    official: បេឡារុស្ស
+    common: បេឡារុស្ស
+  rw:
+    official: Belarusi
+    common: Belarusi
+  ko:
+    official: 벨라루스
+    common: 벨라루스
+  ku:
+    official: Belarus
+    common: Belarus
+  lv:
+    official: Baltkrievija
+    common: Baltkrievija
+  lt:
+    official: Baltarusija
+    common: Baltarusija
+  mk:
+    official: Белорусија
+    common: Белорусија
+  ml:
+    official: ബെലാറസ്
+    common: ബെലാറസ്
+  mi:
+    official: Pērara
+    common: Pērara
+  mr:
+    official: बेलारुस
+    common: बेलारुस
+  ms:
+    official: Belarus
+    common: Belarus
+  mt:
+    official: Peru
+    common: Peru
+  mn:
+    official: Белорусс
+    common: Белорусс
+  ne:
+    official: बेलारूस
+    common: बेलारूस
+  nn:
+    official: Kviterussland
+    common: Kviterussland
+  nb:
+    official: Hviterussland
+    common: Hviterussland
+  oc:
+    official: Bielorusia
+    common: Bielorusia
+  or:
+    official: ବେଲାରୁଷ
+    common: ବେଲାରୁଷ
+  pa:
+    official: ਬੇਲਾਰੂਸ
+    common: ਬੇਲਾਰੂਸ
+  fa:
+    official: بلاروس
+    common: بلاروس
+  pl:
+    official: Białoruś
+    common: Białoruś
+  pt:
+    official: Bielorússia
+    common: Bielorússia
+  ps:
+    official: Belarus
+    common: Belarus
+  ro:
+    official: Bielorusia
+    common: Bielorusia
+  ru:
+    official: Беларусь
+    common: Беларусь
+  si:
+    official: බෙලාරුස්
+    common: බෙලාරුස්
+  sk:
+    official: Bielorusko
+    common: Bielorusko
+  sl:
+    official: Belorusija
+    common: Belorusija
+  so:
+    official: Belarus
+    common: Belarus
+  es:
+    official: Bielorrusia
+    common: Bielorrusia
+  sr:
+    official: Белорусија
+    common: Белорусија
+  sw:
+    official: Belarus
+    common: Belarus
+  sv:
+    official: Vitryssland
+    common: Vitryssland
+  ta:
+    official: பெலாருஸ்
+    common: பெலாருஸ்
+  tt:
+    official: Беларус
+    common: Беларус
+  te:
+    official: బేలారుస్
+    common: బేలారుస్
+  tl:
+    official: Belarus
+    common: Belarus
+  th:
+    official: เบลารุส
+    common: เบลารุส
+  ti:
+    official: ቤላሩስ
+    common: ቤላሩስ
+  tk:
+    official: Belarus
+    common: Belarus
+  tr:
+    official: Beyaz Rusya
+    common: Beyaz Rusya
+  ug:
+    official: بېلارۇسىيە
+    common: بېلارۇسىيە
+  uk:
+    official: Білорусь
+    common: Білорусь
+  ve:
+    official: Belarus
+    common: Belarus
+  vi:
+    official: Be-la-ruxợ
+    common: Be-la-ruxợ
+  cy:
+    official: Belarws
+    common: Belarws
+  wa:
+    official: Belaruss
+    common: Belaruss
+  wo:
+    official: Belaarus
+    common: Belaarus
+  xh:
+    official: Belarus
+    common: Belarus
+  zu:
+    official: I Bhelarusi
+    common: I Bhelarusi

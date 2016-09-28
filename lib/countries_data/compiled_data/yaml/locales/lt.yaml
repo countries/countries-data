@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: Afganistanas
+    common: Afganistanas
+  AX:
+    official: Alandai
+    common: Alandai
+  AL:
+    official: Albanija
+    common: Albanija
+  DZ:
+    official: Alžyras
+    common: Alžyras
+  AS:
+    official: Amerikos Samoa
+    common: Amerikos Samoa
+  AD:
+    official: Andora
+    common: Andora
+  AO:
+    official: Angola
+    common: Angola
+  AI:
+    official: Angilija
+    common: Angilija
+  AQ:
+    official: Antarktida
+    common: Antarktida
+  AG:
+    official: Antigva ir Barbuda
+    common: Antigva ir Barbuda
+  AR:
+    official: Argentina
+    common: Argentina
+  AM:
+    official: Armėnija
+    common: Armėnija
+  AW:
+    official: Aruba
+    common: Aruba
+  AU:
+    official: Australija
+    common: Australija
+  AT:
+    official: Austrija
+    common: Austrija
+  AZ:
+    official: Azerbaidžanas
+    common: Azerbaidžanas
+  BS:
+    official: Bahamos
+    common: Bahamos
+  BH:
+    official: Bahreinas
+    common: Bahreinas
+  BD:
+    official: Bangladešas
+    common: Bangladešas
+  BB:
+    official: Barbadosas
+    common: Barbadosas
+  BY:
+    official: Baltarusija
+    common: Baltarusija
+  BE:
+    official: Belgija
+    common: Belgija
+  BZ:
+    official: Belizas
+    common: Belizas
+  BJ:
+    official: Beninas
+    common: Beninas
+  BM:
+    official: Bermuda
+    common: Bermuda
+  BT:
+    official: Butanas
+    common: Butanas
+  BO:
+    official: Bolivijos Daugiatautė Valstybė
+    common: Bolivijos Daugiatautė Valstybė
+  BQ:
+    official: Bonairė, Sint Eustatijus ir Saba
+    common: Bonairė, Sint Eustatijus ir Saba
+  BA:
+    official: Bosnija ir Hercegovina
+    common: Bosnija ir Hercegovina
+  BW:
+    official: Botsvana
+    common: Botsvana
+  BV:
+    official: Buvė sala
+    common: Buvė sala
+  BR:
+    official: Brazilija
+    common: Brazilija
+  IO:
+    official: Indijos Vandenyno Britų sritis
+    common: Indijos Vandenyno Britų sritis
+  BN:
+    official: Brunėjaus Darusalamas
+    common: Brunėjaus Darusalamas
+  BG:
+    official: Bulgarija
+    common: Bulgarija
+  BF:
+    official: Burkina Fasas
+    common: Burkina Fasas
+  BI:
+    official: Burundis
+    common: Burundis
+  KH:
+    official: Kambodža
+    common: Kambodža
+  CM:
+    official: Kamerūnas
+    common: Kamerūnas
+  CA:
+    official: Kanada
+    common: Kanada
+  CV:
+    official: Žaliasis Kyšulys
+    common: Žaliasis Kyšulys
+  KY:
+    official: Kaimanų salos
+    common: Kaimanų salos
+  CF:
+    official: Centrinės Afrikos Respublika
+    common: Centrinės Afrikos Respublika
+  TD:
+    official: Čadas
+    common: Čadas
+  CL:
+    official: Čilė
+    common: Čilė
+  CN:
+    official: Kinija
+    common: Kinija
+  CX:
+    official: Kalėdų sala
+    common: Kalėdų sala
+  CC:
+    official: Kokosų (Kilingo) salos
+    common: Kokosų (Kilingo) salos
+  CO:
+    official: Kolumbija
+    common: Kolumbija
+  KM:
+    official: Komorai
+    common: Komorai
+  CG:
+    official: Kongas
+    common: Kongas
+  CD:
+    official: Kongo Demokratinė Respublika
+    common: Kongo Demokratinė Respublika
+  CK:
+    official: Kuko salos
+    common: Kuko salos
+  CR:
+    official: Kosta Rika
+    common: Kosta Rika
+  CI:
+    official: Dramblio Kaulo Krantas
+    common: Dramblio Kaulo Krantas
+  HR:
+    official: Kroatija
+    common: Kroatija
+  CU:
+    official: Kuba
+    common: Kuba
+  CW:
+    official: Kiurasao
+    common: Kiurasao
+  CY:
+    official: Kipras
+    common: Kipras
+  CZ:
+    official: Čekijos Respublika
+    common: Čekijos Respublika
+  DK:
+    official: Danija
+    common: Danija
+  DJ:
+    official: Džibutis
+    common: Džibutis
+  DM:
+    official: Dominika
+    common: Dominika
+  DO:
+    official: Dominikos Respublika
+    common: Dominikos Respublika
+  EC:
+    official: Ekvadoras
+    common: Ekvadoras
+  EG:
+    official: Egiptas
+    common: Egiptas
+  SV:
+    official: Salvadoras
+    common: Salvadoras
+  GQ:
+    official: Pusiaujo Gvinėja
+    common: Pusiaujo Gvinėja
+  ER:
+    official: Eritrėja
+    common: Eritrėja
+  EE:
+    official: Estija
+    common: Estija
+  ET:
+    official: Etiopija
+    common: Etiopija
+  FK:
+    official: Folklando (Malvinų) salos
+    common: Folklando (Malvinų) salos
+  FO:
+    official: Farerų salos
+    common: Farerų salos
+  FJ:
+    official: Fidžis
+    common: Fidžis
+  FI:
+    official: Suomija
+    common: Suomija
+  FR:
+    official: Prancūzija
+    common: Prancūzija
+  GF:
+    official: Prancūzijos Gviana
+    common: Prancūzijos Gviana
+  PF:
+    official: Prancūzijos Polinezija
+    common: Prancūzijos Polinezija
+  TF:
+    official: Prancūzijos Pietų Sritys
+    common: Prancūzijos Pietų Sritys
+  GA:
+    official: Gabonas
+    common: Gabonas
+  GM:
+    official: Gambija
+    common: Gambija
+  GE:
+    official: Gruzija
+    common: Gruzija
+  DE:
+    official: Vokietija
+    common: Vokietija
+  GH:
+    official: Gana
+    common: Gana
+  GI:
+    official: Gibraltaras
+    common: Gibraltaras
+  GR:
+    official: Graikija
+    common: Graikija
+  GL:
+    official: Grenlandija
+    common: Grenlandija
+  GD:
+    official: Grenada
+    common: Grenada
+  GP:
+    official: Gvadelupa
+    common: Gvadelupa
+  GU:
+    official: Guamas
+    common: Guamas
+  GT:
+    official: Gvatemala
+    common: Gvatemala
+  GG:
+    official: Gernsis
+    common: Gernsis
+  GN:
+    official: Gvinėja
+    common: Gvinėja
+  GW:
+    official: Bisau Gvinėja
+    common: Bisau Gvinėja
+  GY:
+    official: Gajana
+    common: Gajana
+  HT:
+    official: Haitis
+    common: Haitis
+  HM:
+    official: Herdo ir Makdonaldo salos
+    common: Herdo ir Makdonaldo salos
+  VA:
+    official: Šventasis Sostas (Vatikano Miesto Valstybė)
+    common: Šventasis Sostas (Vatikano Miesto Valstybė)
+  HN:
+    official: Hondūras
+    common: Hondūras
+  HK:
+    official: Honkongas
+    common: Honkongas
+  HU:
+    official: Vengrija
+    common: Vengrija
+  IS:
+    official: Islandija
+    common: Islandija
+  IN:
+    official: Indija
+    common: Indija
+  ID:
+    official: Indonezija
+    common: Indonezija
+  IR:
+    official: Irano Islamo Respublika
+    common: Irano Islamo Respublika
+  IQ:
+    official: Irakas
+    common: Irakas
+  IE:
+    official: Airija
+    common: Airija
+  IM:
+    official: Meno sala
+    common: Meno sala
+  IL:
+    official: Izraelis
+    common: Izraelis
+  IT:
+    official: Italija
+    common: Italija
+  JM:
+    official: Jamaika
+    common: Jamaika
+  JP:
+    official: Japonija
+    common: Japonija
+  JE:
+    official: Džersis
+    common: Džersis
+  JO:
+    official: Jordanija
+    common: Jordanija
+  KZ:
+    official: Kazachstanas
+    common: Kazachstanas
+  KE:
+    official: Kenija
+    common: Kenija
+  KI:
+    official: Kiribatis
+    common: Kiribatis
+  KP:
+    official: Korėjos Liaudies Demokratinė Respublika
+    common: Korėjos Liaudies Demokratinė Respublika
+  KR:
+    official: Korėjos Respublika
+    common: Korėjos Respublika
+  KW:
+    official: Kuveitas
+    common: Kuveitas
+  KG:
+    official: Kirgizija
+    common: Kirgizija
+  LA:
+    official: Laoso Liaudies Demokratinė Respublika
+    common: Laoso Liaudies Demokratinė Respublika
+  LV:
+    official: Latvija
+    common: Latvija
+  LB:
+    official: Libanas
+    common: Libanas
+  LS:
+    official: Lesotas
+    common: Lesotas
+  LR:
+    official: Liberija
+    common: Liberija
+  LY:
+    official: Libija
+    common: Libija
+  LI:
+    official: Lichtenšteinas
+    common: Lichtenšteinas
+  LT:
+    official: Lietuva
+    common: Lietuva
+  LU:
+    official: Liuksemburgas
+    common: Liuksemburgas
+  MO:
+    official: Makao
+    common: Makao
+  MK:
+    official: Makedonijos Respublika
+    common: Makedonijos Respublika
+  MG:
+    official: Madagaskaras
+    common: Madagaskaras
+  MW:
+    official: Malavis
+    common: Malavis
+  MY:
+    official: Malaizija
+    common: Malaizija
+  MV:
+    official: Maldyvai
+    common: Maldyvai
+  ML:
+    official: Malis
+    common: Malis
+  MT:
+    official: Malta
+    common: Malta
+  MH:
+    official: Maršalo salos
+    common: Maršalo salos
+  MQ:
+    official: Martinika
+    common: Martinika
+  MR:
+    official: Mauritanija
+    common: Mauritanija
+  MU:
+    official: Mauricijus
+    common: Mauricijus
+  YT:
+    official: Majotas
+    common: Majotas
+  MX:
+    official: Meksika
+    common: Meksika
+  FM:
+    official: Mikronezijos Federacinės Valstijos
+    common: Mikronezijos Federacinės Valstijos
+  MD:
+    official: Moldovos Respublika
+    common: Moldovos Respublika
+  MC:
+    official: Monakas
+    common: Monakas
+  MN:
+    official: Mongolija
+    common: Mongolija
+  ME:
+    official: Juodkalnija
+    common: Juodkalnija
+  MS:
+    official: Montseratas
+    common: Montseratas
+  MA:
+    official: Marokas
+    common: Marokas
+  MZ:
+    official: Mozambikas
+    common: Mozambikas
+  MM:
+    official: Mianmaras
+    common: Mianmaras
+  NA:
+    official: Namibija
+    common: Namibija
+  NR:
+    official: Nauru
+    common: Nauru
+  NP:
+    official: Nepalas
+    common: Nepalas
+  NL:
+    official: Nyderlandai
+    common: Nyderlandai
+  NC:
+    official: Naujoji Kaledonija
+    common: Naujoji Kaledonija
+  NZ:
+    official: Naujoji Zelandija
+    common: Naujoji Zelandija
+  NI:
+    official: Nikaragva
+    common: Nikaragva
+  NE:
+    official: Nigeris
+    common: Nigeris
+  NG:
+    official: Nigerija
+    common: Nigerija
+  NU:
+    official: Niujė
+    common: Niujė
+  NF:
+    official: Norfolko sala
+    common: Norfolko sala
+  MP:
+    official: Marianos šiaurinės salos
+    common: Marianos šiaurinės salos
+  'NO':
+    official: Norvegija
+    common: Norvegija
+  OM:
+    official: Omanas
+    common: Omanas
+  PK:
+    official: Pakistanas
+    common: Pakistanas
+  PW:
+    official: Palau
+    common: Palau
+  PS:
+    official: Palestinos valstybė
+    common: Palestinos valstybė
+  PA:
+    official: Panama
+    common: Panama
+  PG:
+    official: Papua Naujoji Gvinėja
+    common: Papua Naujoji Gvinėja
+  PY:
+    official: Paragvajus
+    common: Paragvajus
+  PE:
+    official: Peru
+    common: Peru
+  PH:
+    official: Filipinai
+    common: Filipinai
+  PN:
+    official: Pitkernas
+    common: Pitkernas
+  PL:
+    official: Lenkija
+    common: Lenkija
+  PT:
+    official: Portugalija
+    common: Portugalija
+  PR:
+    official: Puerto Rikas
+    common: Puerto Rikas
+  QA:
+    official: Kataras
+    common: Kataras
+  RE:
+    official: Reunjonas
+    common: Reunjonas
+  RO:
+    official: Rumunija
+    common: Rumunija
+  RU:
+    official: Rusijos Federacija
+    common: Rusijos Federacija
+  RW:
+    official: Ruanda
+    common: Ruanda
+  BL:
+    official: San Bartelemis
+    common: San Bartelemis
+  SH:
+    official: Šv. Elenos, Dangun Žengimo ir Tristano da Kunjos salos
+    common: Šv. Elenos, Dangun Žengimo ir Tristano da Kunjos salos
+  KN:
+    official: Sent Kitsas ir Nevis
+    common: Sent Kitsas ir Nevis
+  LC:
+    official: Sent Lusija
+    common: Sent Lusija
+  MF:
+    official: San Martenas (Prancūzijos dalis)
+    common: San Martenas (Prancūzijos dalis)
+  PM:
+    official: Sen Pjeras ir Mikelonas
+    common: Sen Pjeras ir Mikelonas
+  VC:
+    official: Sent Vinsentas ir Grenadinai
+    common: Sent Vinsentas ir Grenadinai
+  WS:
+    official: Samoa
+    common: Samoa
+  SM:
+    official: San Marinas
+    common: San Marinas
+  ST:
+    official: San Tomė ir Prinsipė
+    common: San Tomė ir Prinsipė
+  SA:
+    official: Saudo Arabija
+    common: Saudo Arabija
+  SN:
+    official: Senegalas
+    common: Senegalas
+  RS:
+    official: Serbija
+    common: Serbija
+  SC:
+    official: Seišeliai
+    common: Seišeliai
+  SL:
+    official: Siera Leonė
+    common: Siera Leonė
+  SG:
+    official: Singapūras
+    common: Singapūras
+  SX:
+    official: Sin Martenas (Nyderalandų dalis)
+    common: Sin Martenas (Nyderalandų dalis)
+  SK:
+    official: Slovakija
+    common: Slovakija
+  SI:
+    official: Slovėnija
+    common: Slovėnija
+  SB:
+    official: Saliamono salos
+    common: Saliamono salos
+  SO:
+    official: Somalis
+    common: Somalis
+  ZA:
+    official: Pietų Afrika
+    common: Pietų Afrika
+  GS:
+    official: Pietų Džordžijos ir Pietų Sandvičo salos
+    common: Pietų Džordžijos ir Pietų Sandvičo salos
+  ES:
+    official: Ispanija
+    common: Ispanija
+  LK:
+    official: Šri Lanka
+    common: Šri Lanka
+  SD:
+    official: Sudanas
+    common: Sudanas
+  SR:
+    official: Surinamas
+    common: Surinamas
+  SS:
+    official: Pietų Sudanas
+    common: Pietų Sudanas
+  SJ:
+    official: Svalbardas ir Jan Majenas
+    common: Svalbardas ir Jan Majenas
+  SZ:
+    official: Svazilandas
+    common: Svazilandas
+  SE:
+    official: Švedija
+    common: Švedija
+  CH:
+    official: Šveicarija
+    common: Šveicarija
+  SY:
+    official: Sirijos Arabų Respublika
+    common: Sirijos Arabų Respublika
+  TW:
+    official: Taivanas
+    common: Taivanas
+  TJ:
+    official: Tadžikistanas
+    common: Tadžikistanas
+  TZ:
+    official: Tanzanijos Jungtinė Respublika
+    common: Tanzanijos Jungtinė Respublika
+  TH:
+    official: Tailandas
+    common: Tailandas
+  TL:
+    official: Rytų Timoras
+    common: Rytų Timoras
+  TG:
+    official: Togas
+    common: Togas
+  TK:
+    official: Tokelau
+    common: Tokelau
+  TO:
+    official: Tonga
+    common: Tonga
+  TT:
+    official: Trinidadas ir Tobagas
+    common: Trinidadas ir Tobagas
+  TN:
+    official: Tunisas
+    common: Tunisas
+  TR:
+    official: Turkija
+    common: Turkija
+  TM:
+    official: Turkmėnistanas
+    common: Turkmėnistanas
+  TC:
+    official: Terkso ir Kaikoso salos
+    common: Terkso ir Kaikoso salos
+  TV:
+    official: Tuvalu
+    common: Tuvalu
+  UG:
+    official: Uganda
+    common: Uganda
+  UA:
+    official: Ukraina
+    common: Ukraina
+  AE:
+    official: Jungtiniai Arabų Emyratai
+    common: Jungtiniai Arabų Emyratai
+  GB:
+    official: Jungtinė Karalystė
+    common: Jungtinė Karalystė
+  US:
+    official: Jungtinės Amerikos Valstijos
+    common: Jungtinės Amerikos Valstijos
+  UM:
+    official: Jungtinių Amerikos Valstijų mažosios aplinkinės salos
+    common: Jungtinių Amerikos Valstijų mažosios aplinkinės salos
+  UY:
+    official: Urugvajus
+    common: Urugvajus
+  UZ:
+    official: Uzbekija
+    common: Uzbekija
+  VU:
+    official: Vanuatu
+    common: Vanuatu
+  VE:
+    official: Venesuelos Bolivaro Respublika
+    common: Venesuelos Bolivaro Respublika
+  VN:
+    official: Vietnamas
+    common: Vietnamas
+  VG:
+    official: Mergelių salos (Britų)
+    common: Mergelių salos (Britų)
+  VI:
+    official: Mergelių salos (JAV)
+    common: Mergelių salos (JAV)
+  WF:
+    official: Volisas ir Futūna
+    common: Volisas ir Futūna
+  EH:
+    official: Vakarų Sachara
+    common: Vakarų Sachara
+  YE:
+    official: Jemenas
+    common: Jemenas
+  ZM:
+    official: Zambija
+    common: Zambija
+  ZW:
+    official: Zimbabvė
+    common: Zimbabvė

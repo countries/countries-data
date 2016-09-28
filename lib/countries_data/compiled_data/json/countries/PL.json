@@ -1,0 +1,450 @@
+{
+  "continent": "Europe",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}}\n{{region}}\n{{country}}",
+  "alpha2": "PL",
+  "alpha3": "POL",
+  "country_code": "48",
+  "international_prefix": "00",
+  "ioc": "POL",
+  "gec": "PL",
+  "name": "Poland",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    9
+  ],
+  "national_prefix": "0",
+  "number": "616",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "world_region": "EMEA",
+  "un_locode": "PL",
+  "nationality": "Polish",
+  "eu_member": true,
+  "eea_member": true,
+  "vat_rates": {
+    "standard": 23,
+    "reduced": [
+      5,
+      8
+    ],
+    "super_reduced": null,
+    "parking": null
+  },
+  "postal_code": true,
+  "unofficial_names": [
+    "Poland",
+    "Polen",
+    "Pologne",
+    "Polonia",
+    "ポーランド"
+  ],
+  "languages_official": [
+    "pl"
+  ],
+  "languages_spoken": [
+    "pl"
+  ],
+  "geo": {
+    "latitude": 51.919438,
+    "latitude_dec": "52.147850036621094",
+    "longitude": 19.145136,
+    "longitude_dec": "19.37775993347168",
+    "max_latitude": 54.835784,
+    "max_longitude": 24.1458933,
+    "min_latitude": 49.0020251,
+    "min_longitude": 14.1228641,
+    "bounds": {
+      "northeast": {
+        "lat": 54.835784,
+        "lng": 24.1458933
+      },
+      "southwest": {
+        "lat": 49.0020251,
+        "lng": 14.1228641
+      }
+    }
+  },
+  "currency_code": "PLN",
+  "postal_address_data": {
+    "key": "PL",
+    "zipex": "00-950,05-470,48-300,32-015,00-940",
+    "name": "POLAND",
+    "zip": "\\d{2}-\\d{3}",
+    "require": "ACZ",
+    "id": "data/PL",
+    "posturl": "http://www.poczta-polska.pl/kody.php",
+    "fmt": "%N%n%O%n%A%n%Z %C"
+  },
+  "translations": {
+    "af": {
+      "official": "Pole",
+      "common": "Pole"
+    },
+    "sq": {
+      "official": "Polonia",
+      "common": "Polonia"
+    },
+    "am": {
+      "official": "ፖሒን፥",
+      "common": "ፖሒን፥"
+    },
+    "ar": {
+      "official": "بولندا",
+      "common": "بولندا"
+    },
+    "hy": {
+      "official": "Լեհաստան",
+      "common": "Լեհաստան"
+    },
+    "as": {
+      "official": "পলেণ্ড",
+      "common": "পলেণ্ড"
+    },
+    "az": {
+      "official": "Polşa",
+      "common": "Polşa"
+    },
+    "eu": {
+      "official": "Polonia",
+      "common": "Polonia"
+    },
+    "be": {
+      "official": "Польшча",
+      "common": "Польшча"
+    },
+    "bn": {
+      "official": "পোল্যান্ড",
+      "common": "পোল্যান্ড"
+    },
+    "bs": {
+      "official": "Poljska",
+      "common": "Poljska"
+    },
+    "br": {
+      "official": "Polonia",
+      "common": "Polonia"
+    },
+    "bg": {
+      "official": "Полша",
+      "common": "Полша"
+    },
+    "ca": {
+      "official": "Polònia",
+      "common": "Polònia"
+    },
+    "zh": {
+      "official": "波兰",
+      "common": "波兰"
+    },
+    "cs": {
+      "official": "Polsko",
+      "common": "Polsko"
+    },
+    "da": {
+      "official": "Polen",
+      "common": "Polen"
+    },
+    "nl": {
+      "official": "Polen",
+      "common": "Polen"
+    },
+    "dz": {
+      "official": "པོ་ལེནཌི།",
+      "common": "པོ་ལེནཌི།"
+    },
+    "en": {
+      "official": "Poland",
+      "common": "Poland"
+    },
+    "eo": {
+      "official": "Pollando",
+      "common": "Pollando"
+    },
+    "et": {
+      "official": "Poola",
+      "common": "Poola"
+    },
+    "fo": {
+      "official": "Pólland",
+      "common": "Pólland"
+    },
+    "fi": {
+      "official": "Puola",
+      "common": "Puola"
+    },
+    "fr": {
+      "official": "Pologne",
+      "common": "Pologne"
+    },
+    "ka": {
+      "official": "პოლონეთი",
+      "common": "პოლონეთი"
+    },
+    "de": {
+      "official": "Polen",
+      "common": "Polen"
+    },
+    "ga": {
+      "official": "An Pholainn",
+      "common": "An Pholainn"
+    },
+    "gl": {
+      "official": "Polonia",
+      "common": "Polonia"
+    },
+    "el": {
+      "official": "Πολωνία",
+      "common": "Πολωνία"
+    },
+    "gu": {
+      "official": "પોલેન્ડ",
+      "common": "પોલેન્ડ"
+    },
+    "he": {
+      "official": "פולין",
+      "common": "פולין"
+    },
+    "hi": {
+      "official": "पोलैंड",
+      "common": "पोलैंड"
+    },
+    "hr": {
+      "official": "Poljska",
+      "common": "Poljska"
+    },
+    "hu": {
+      "official": "Lengyelország",
+      "common": "Lengyelország"
+    },
+    "is": {
+      "official": "Pólland",
+      "common": "Pólland"
+    },
+    "ia": {
+      "official": "Polonia",
+      "common": "Polonia"
+    },
+    "id": {
+      "official": "Polandia",
+      "common": "Polandia"
+    },
+    "it": {
+      "official": "Polonia",
+      "common": "Polonia"
+    },
+    "ja": {
+      "official": "ポーランド",
+      "common": "ポーランド"
+    },
+    "kn": {
+      "official": "ಪೋಲಂಡ್",
+      "common": "ಪೋಲಂಡ್"
+    },
+    "kk": {
+      "official": "Польша",
+      "common": "Польша"
+    },
+    "km": {
+      "official": "ប៉ូឡូញ",
+      "common": "ប៉ូឡូញ"
+    },
+    "rw": {
+      "official": "Polonye",
+      "common": "Polonye"
+    },
+    "ko": {
+      "official": "폴란드",
+      "common": "폴란드"
+    },
+    "ku": {
+      "official": "Polonya",
+      "common": "Polonya"
+    },
+    "lv": {
+      "official": "Polija",
+      "common": "Polija"
+    },
+    "lt": {
+      "official": "Lenkija",
+      "common": "Lenkija"
+    },
+    "mk": {
+      "official": "Полска",
+      "common": "Полска"
+    },
+    "ml": {
+      "official": "പോളണ്ട്",
+      "common": "പോളണ്ട്"
+    },
+    "mi": {
+      "official": "Pōrana",
+      "common": "Pōrana"
+    },
+    "mr": {
+      "official": "पोलंड",
+      "common": "पोलंड"
+    },
+    "ms": {
+      "official": "Poland",
+      "common": "Poland"
+    },
+    "mt": {
+      "official": "Polonja",
+      "common": "Polonja"
+    },
+    "mn": {
+      "official": "Польш",
+      "common": "Польш"
+    },
+    "ne": {
+      "official": "पोल्याण्ड",
+      "common": "पोल्याण्ड"
+    },
+    "nn": {
+      "official": "Polen",
+      "common": "Polen"
+    },
+    "nb": {
+      "official": "Polen",
+      "common": "Polen"
+    },
+    "oc": {
+      "official": "Polonha",
+      "common": "Polonha"
+    },
+    "or": {
+      "official": "ପୋଲାଣ୍ଡ",
+      "common": "ପୋଲାଣ୍ଡ"
+    },
+    "pa": {
+      "official": "ਪੋਲੈਂਡ",
+      "common": "ਪੋਲੈਂਡ"
+    },
+    "fa": {
+      "official": "لهستان",
+      "common": "لهستان"
+    },
+    "pl": {
+      "official": "Polska",
+      "common": "Polska"
+    },
+    "pt": {
+      "official": "Polónia",
+      "common": "Polónia"
+    },
+    "ps": {
+      "official": "پولنډ",
+      "common": "پولنډ"
+    },
+    "ro": {
+      "official": "Polonia",
+      "common": "Polonia"
+    },
+    "ru": {
+      "official": "Польша",
+      "common": "Польша"
+    },
+    "si": {
+      "official": "පෝලන්තය",
+      "common": "පෝලන්තය"
+    },
+    "sk": {
+      "official": "Poľsko",
+      "common": "Poľsko"
+    },
+    "sl": {
+      "official": "Poljska",
+      "common": "Poljska"
+    },
+    "so": {
+      "official": "Booland",
+      "common": "Booland"
+    },
+    "es": {
+      "official": "Polonia",
+      "common": "Polonia"
+    },
+    "sr": {
+      "official": "Пољска",
+      "common": "Пољска"
+    },
+    "sw": {
+      "official": "Poland",
+      "common": "Poland"
+    },
+    "sv": {
+      "official": "Polen",
+      "common": "Polen"
+    },
+    "ta": {
+      "official": "போலந்து",
+      "common": "போலந்து"
+    },
+    "tt": {
+      "official": "Полониа, Полша",
+      "common": "Полониа, Полша"
+    },
+    "te": {
+      "official": "పోలాండ్",
+      "common": "పోలాండ్"
+    },
+    "tl": {
+      "official": "Poland",
+      "common": "Poland"
+    },
+    "th": {
+      "official": "โปแลนด์",
+      "common": "โปแลนด์"
+    },
+    "ti": {
+      "official": "ፖላንድ",
+      "common": "ፖላንድ"
+    },
+    "tk": {
+      "official": "Poland",
+      "common": "Poland"
+    },
+    "tr": {
+      "official": "Polonya",
+      "common": "Polonya"
+    },
+    "ug": {
+      "official": "پولشا",
+      "common": "پولشا"
+    },
+    "uk": {
+      "official": "Польща",
+      "common": "Польща"
+    },
+    "ve": {
+      "official": "Poland",
+      "common": "Poland"
+    },
+    "vi": {
+      "official": "Ba Lan",
+      "common": "Ba Lan"
+    },
+    "cy": {
+      "official": "Gwlad Pwyl",
+      "common": "Gwlad Pwyl"
+    },
+    "wa": {
+      "official": "Pologne",
+      "common": "Pologne"
+    },
+    "wo": {
+      "official": "Poloñ",
+      "common": "Poloñ"
+    },
+    "xh": {
+      "official": "Poland",
+      "common": "Poland"
+    },
+    "zu": {
+      "official": "I-Polandi",
+      "common": "I-Polandi"
+    }
+  }
+}

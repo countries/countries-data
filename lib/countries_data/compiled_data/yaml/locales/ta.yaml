@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: ஆப்கானிஸ்தான்
+    common: ஆப்கானிஸ்தான்
+  AX:
+    official: அலண்ட் தீவுகள்
+    common: அலண்ட் தீவுகள்
+  AL:
+    official: அல்பேனியா
+    common: அல்பேனியா
+  DZ:
+    official: அல்ஜீரியா
+    common: அல்ஜீரியா
+  AS:
+    official: அமெரிக்க சமோவா
+    common: அமெரிக்க சமோவா
+  AD:
+    official: அன்டோரா
+    common: அன்டோரா
+  AO:
+    official: அங்கோலா
+    common: அங்கோலா
+  AI:
+    official: அங்குல்லா
+    common: அங்குல்லா
+  AQ:
+    official: அண்டார்ட்டிக்கா
+    common: அண்டார்ட்டிக்கா
+  AG:
+    official: ஆன்டிகுவா மற்றும் பார்புடா
+    common: ஆன்டிகுவா மற்றும் பார்புடா
+  AR:
+    official: அர்ஜென்டினா
+    common: அர்ஜென்டினா
+  AM:
+    official: அர்மெனியா
+    common: அர்மெனியா
+  AW:
+    official: அரூபா
+    common: அரூபா
+  AU:
+    official: ஆஸ்திரேலியா
+    common: ஆஸ்திரேலியா
+  AT:
+    official: ஆஸ்திரியா
+    common: ஆஸ்திரியா
+  AZ:
+    official: அசர்பைசான்
+    common: அசர்பைசான்
+  BS:
+    official: பஹாமாஸ்
+    common: பஹாமாஸ்
+  BH:
+    official: பஹ்ரெயின்
+    common: பஹ்ரெயின்
+  BD:
+    official: வங்காளதேசம்
+    common: வங்காளதேசம்
+  BB:
+    official: பார்படாஸ்
+    common: பார்படாஸ்
+  BY:
+    official: பெலாருஸ்
+    common: பெலாருஸ்
+  BE:
+    official: பெல்ஜியம்
+    common: பெல்ஜியம்
+  BZ:
+    official: பெலிஸ்
+    common: பெலிஸ்
+  BJ:
+    official: பெனின்
+    common: பெனின்
+  BM:
+    official: பெர்முடா
+    common: பெர்முடா
+  BT:
+    official: பூட்டான்
+    common: பூட்டான்
+  BO:
+    official: Bolivia, Plurinational State of
+    common: Bolivia, Plurinational State of
+  BQ:
+    official: Bonaire, Sint Eustatius and Saba
+    common: Bonaire, Sint Eustatius and Saba
+  BA:
+    official: போஸ்னியா ஹெர்ஸிகோவினா
+    common: போஸ்னியா ஹெர்ஸிகோவினா
+  BW:
+    official: போட்ஸ்வானா
+    common: போட்ஸ்வானா
+  BV:
+    official: போவெட் தீவு
+    common: போவெட் தீவு
+  BR:
+    official: பிரேசில்
+    common: பிரேசில்
+  IO:
+    official: ப்ரிட்டிஷ் இந்திய பெருங்கடல் பிரதேசம்
+    common: ப்ரிட்டிஷ் இந்திய பெருங்கடல் பிரதேசம்
+  BN:
+    official: ப்ரூனே தருசலம்
+    common: ப்ரூனே தருசலம்
+  BG:
+    official: பல்கேரியா
+    common: பல்கேரியா
+  BF:
+    official: பர்கினோ பாஸோ
+    common: பர்கினோ பாஸோ
+  BI:
+    official: புருண்டி
+    common: புருண்டி
+  KH:
+    official: கம்போடியா
+    common: கம்போடியா
+  CM:
+    official: கேமரூன்
+    common: கேமரூன்
+  CA:
+    official: கனடா
+    common: கனடா
+  CV:
+    official: கேப் வெர்டி
+    common: கேப் வெர்டி
+  KY:
+    official: கேமான் தீவுகள்
+    common: கேமான் தீவுகள்
+  CF:
+    official: மத்திய ஆப்ரிக்க குடியரசு
+    common: மத்திய ஆப்ரிக்க குடியரசு
+  TD:
+    official: சாட்
+    common: சாட்
+  CL:
+    official: சிலி
+    common: சிலி
+  CN:
+    official: சீனா
+    common: சீனா
+  CX:
+    official: கிறிஸ்துமஸ் தீவு
+    common: கிறிஸ்துமஸ் தீவு
+  CC:
+    official: கோகோஸ்(கீலிங்) தீவு
+    common: கோகோஸ்(கீலிங்) தீவு
+  CO:
+    official: கொலம்பியா
+    common: கொலம்பியா
+  KM:
+    official: கோமரோஸ்
+    common: கோமரோஸ்
+  CG:
+    official: காங்கோ
+    common: காங்கோ
+  CD:
+    official: காங்கோ குடியரசு
+    common: காங்கோ குடியரசு
+  CK:
+    official: குக் தீவு
+    common: குக் தீவு
+  CR:
+    official: கோஸ்டாரிகா
+    common: கோஸ்டாரிகா
+  CI:
+    official: கோத் ட்லவோர்
+    common: கோத் ட்லவோர்
+  HR:
+    official: குரோவேசியா
+    common: குரோவேசியா
+  CU:
+    official: க்யூபா
+    common: க்யூபா
+  CW:
+    official: Curaçao
+    common: Curaçao
+  CY:
+    official: சைப்ரஸ்
+    common: சைப்ரஸ்
+  CZ:
+    official: செக் குடியரசு
+    common: செக் குடியரசு
+  DK:
+    official: டென்மார்க்
+    common: டென்மார்க்
+  DJ:
+    official: சிபூட்டி
+    common: சிபூட்டி
+  DM:
+    official: டொமினிக்கா
+    common: டொமினிக்கா
+  DO:
+    official: டொமினிக்கன் குடியரசு
+    common: டொமினிக்கன் குடியரசு
+  EC:
+    official: ஈக்வடார்
+    common: ஈக்வடார்
+  EG:
+    official: எகிப்து
+    common: எகிப்து
+  SV:
+    official: எல் சால்வடார்
+    common: எல் சால்வடார்
+  GQ:
+    official: ஈக்குவிடோரியல் கினி
+    common: ஈக்குவிடோரியல் கினி
+  ER:
+    official: எரிட்ரேயா
+    common: எரிட்ரேயா
+  EE:
+    official: எசுதோனியா
+    common: எசுதோனியா
+  ET:
+    official: எதியோப்பியா
+    common: எதியோப்பியா
+  FK:
+    official: பாக்லான்ட் தீவுகள் (மால்வினாஸ்)
+    common: பாக்லான்ட் தீவுகள் (மால்வினாஸ்)
+  FO:
+    official: பேரோ தீவுகள்
+    common: பேரோ தீவுகள்
+  FJ:
+    official: பிஜி
+    common: பிஜி
+  FI:
+    official: பின்லாந்து
+    common: பின்லாந்து
+  FR:
+    official: ஃப்ரான்ஸ்
+    common: ஃப்ரான்ஸ்
+  GF:
+    official: ஃப்ரெஞ்ச் கையானா
+    common: ஃப்ரெஞ்ச் கையானா
+  PF:
+    official: ஃப்ரெஞ்ச் பாலினேசியா
+    common: ஃப்ரெஞ்ச் பாலினேசியா
+  TF:
+    official: ஃப்ரெஞ்ச் தெற்கு பிரதேசம்
+    common: ஃப்ரெஞ்ச் தெற்கு பிரதேசம்
+  GA:
+    official: கபோன்
+    common: கபோன்
+  GM:
+    official: கம்பியா
+    common: கம்பியா
+  GE:
+    official: ஜார்ஜியா
+    common: ஜார்ஜியா
+  DE:
+    official: ஜெர்மனி
+    common: ஜெர்மனி
+  GH:
+    official: கானா
+    common: கானா
+  GI:
+    official: கிப்ரால்டர்
+    common: கிப்ரால்டர்
+  GR:
+    official: கிரீஸ்
+    common: கிரீஸ்
+  GL:
+    official: கிரீன்லாந்து
+    common: கிரீன்லாந்து
+  GD:
+    official: கிரனாடா
+    common: கிரனாடா
+  GP:
+    official: காஉடிலொபி
+    common: காஉடிலொபி
+  GU:
+    official: குவாம்
+    common: குவாம்
+  GT:
+    official: குவாதமாலா
+    common: குவாதமாலா
+  GG:
+    official: க்ரென்சி
+    common: க்ரென்சி
+  GN:
+    official: கினி
+    common: கினி
+  GW:
+    official: கினி-பீசோ
+    common: கினி-பீசோ
+  GY:
+    official: கயானா
+    common: கயானா
+  HT:
+    official: கையிட்டி
+    common: கையிட்டி
+  HM:
+    official: ஹெர்ட் தீவு மற்றும் மெக் டொனால்ட் தீவுகள்
+    common: ஹெர்ட் தீவு மற்றும் மெக் டொனால்ட் தீவுகள்
+  VA:
+    official: ஹொலி சி (வாடிகன் நகர நாடு)
+    common: ஹொலி சி (வாடிகன் நகர நாடு)
+  HN:
+    official: ஹோன்டுராஸ்
+    common: ஹோன்டுராஸ்
+  HK:
+    official: ஹாங்காங்
+    common: ஹாங்காங்
+  HU:
+    official: ஹங்கேரி
+    common: ஹங்கேரி
+  IS:
+    official: ஐஸ்லாந்து
+    common: ஐஸ்லாந்து
+  IN:
+    official: இந்தியா
+    common: இந்தியா
+  ID:
+    official: இந்தோனேசியா
+    common: இந்தோனேசியா
+  IR:
+    official: ஈரான், இஸ்லாமிக் குடியரசு
+    common: ஈரான், இஸ்லாமிக் குடியரசு
+  IQ:
+    official: ஈராக்
+    common: ஈராக்
+  IE:
+    official: அயர்லாந்து
+    common: அயர்லாந்து
+  IM:
+    official: ஐல் ஆஃப் மேன்
+    common: ஐல் ஆஃப் மேன்
+  IL:
+    official: இஸ்ரேல்
+    common: இஸ்ரேல்
+  IT:
+    official: இத்தாலி
+    common: இத்தாலி
+  JM:
+    official: ஜமைக்கா
+    common: ஜமைக்கா
+  JP:
+    official: ஜப்பான்
+    common: ஜப்பான்
+  JE:
+    official: ஜெர்சி
+    common: ஜெர்சி
+  JO:
+    official: ஜோர்டான்
+    common: ஜோர்டான்
+  KZ:
+    official: கசகிஸ்தான்
+    common: கசகிஸ்தான்
+  KE:
+    official: கென்யா
+    common: கென்யா
+  KI:
+    official: கிரிபாடி
+    common: கிரிபாடி
+  KP:
+    official: கொரிய ஜனநாயக மக்கள் குடியரசு
+    common: கொரிய ஜனநாயக மக்கள் குடியரசு
+  KR:
+    official: கொரிய குடியரசு
+    common: கொரிய குடியரசு
+  KW:
+    official: குவைத்
+    common: குவைத்
+  KG:
+    official: கிரைகிசுத்தான்
+    common: கிரைகிசுத்தான்
+  LA:
+    official: லவொ மக்கள் சுதந்திர குடியரசு
+    common: லவொ மக்கள் சுதந்திர குடியரசு
+  LV:
+    official: லட்வியா
+    common: லட்வியா
+  LB:
+    official: லெபனான்
+    common: லெபனான்
+  LS:
+    official: லெசோதோ
+    common: லெசோதோ
+  LR:
+    official: லைபீரியா
+    common: லைபீரியா
+  LY:
+    official: லைபீரியா
+    common: லைபீரியா
+  LI:
+    official: லீச்சென்சுதீன்
+    common: லீச்சென்சுதீன்
+  LT:
+    official: லிதுவேனியா
+    common: லிதுவேனியா
+  LU:
+    official: லக்ஸம்பர்க்
+    common: லக்ஸம்பர்க்
+  MO:
+    official: மகாவோ
+    common: மகாவோ
+  MK:
+    official: மெசிடோனியா குடியரசு
+    common: மெசிடோனியா குடியரசு
+  MG:
+    official: மடகாஸ்கர்
+    common: மடகாஸ்கர்
+  MW:
+    official: மலாவி
+    common: மலாவி
+  MY:
+    official: மலேசியா
+    common: மலேசியா
+  MV:
+    official: மாலதீவுகள்
+    common: மாலதீவுகள்
+  ML:
+    official: மாலி
+    common: மாலி
+  MT:
+    official: மால்டா
+    common: மால்டா
+  MH:
+    official: மார்சல் தீவுகள்
+    common: மார்சல் தீவுகள்
+  MQ:
+    official: மார்டினீக்கு
+    common: மார்டினீக்கு
+  MR:
+    official: மொரிசியேனியா
+    common: மொரிசியேனியா
+  MU:
+    official: மொரீஷியஸ்
+    common: மொரீஷியஸ்
+  YT:
+    official: மயோதி
+    common: மயோதி
+  MX:
+    official: மெக்ஸிகோ
+    common: மெக்ஸிகோ
+  FM:
+    official: மைக்ரோனிஸியா கூட்டு நாடுகள்
+    common: மைக்ரோனிஸியா கூட்டு நாடுகள்
+  MD:
+    official: மெசிடோனியா குடியரசு
+    common: மெசிடோனியா குடியரசு
+  MC:
+    official: மொனாக்கோ
+    common: மொனாக்கோ
+  MN:
+    official: மங்கோலியா
+    common: மங்கோலியா
+  ME:
+    official: மோன்டே நெக்ரோ
+    common: மோன்டே நெக்ரோ
+  MS:
+    official: மொன்சாராட்
+    common: மொன்சாராட்
+  MA:
+    official: மொரோக்கோ
+    common: மொரோக்கோ
+  MZ:
+    official: மொசாம்பிக்
+    common: மொசாம்பிக்
+  MM:
+    official: மியான்மர்
+    common: மியான்மர்
+  NA:
+    official: நமீபியா
+    common: நமீபியா
+  NR:
+    official: நௌரு
+    common: நௌரு
+  NP:
+    official: நேபாளம்
+    common: நேபாளம்
+  NL:
+    official: நெதர்லாந்து
+    common: நெதர்லாந்து
+  NC:
+    official: புதிய கலிடோனியா
+    common: புதிய கலிடோனியா
+  NZ:
+    official: நியூசிலாந்து
+    common: நியூசிலாந்து
+  NI:
+    official: நிகராகுவா
+    common: நிகராகுவா
+  NE:
+    official: நைகர்
+    common: நைகர்
+  NG:
+    official: நைஜீரியா
+    common: நைஜீரியா
+  NU:
+    official: நியூ
+    common: நியூ
+  NF:
+    official: நொர்ஃபோக் தீவு
+    common: நொர்ஃபோக் தீவு
+  MP:
+    official: வட மரியானா தீவுகள்
+    common: வட மரியானா தீவுகள்
+  'NO':
+    official: நார்வே
+    common: நார்வே
+  OM:
+    official: ஓமான்
+    common: ஓமான்
+  PK:
+    official: பாகிஸ்தான்
+    common: பாகிஸ்தான்
+  PW:
+    official: பலாவு
+    common: பலாவு
+  PS:
+    official: Palestine, State of
+    common: Palestine, State of
+  PA:
+    official: பனாமா
+    common: பனாமா
+  PG:
+    official: பாப்புவா-நியூகினி
+    common: பாப்புவா-நியூகினி
+  PY:
+    official: பராகுவே
+    common: பராகுவே
+  PE:
+    official: பெரு
+    common: பெரு
+  PH:
+    official: பிலிப்பைன்ஸ்
+    common: பிலிப்பைன்ஸ்
+  PN:
+    official: பிட்கேரின்
+    common: பிட்கேரின்
+  PL:
+    official: போலந்து
+    common: போலந்து
+  PT:
+    official: போர்ச்சுகல்
+    common: போர்ச்சுகல்
+  PR:
+    official: போர்ட்டோ ரீக்கோ
+    common: போர்ட்டோ ரீக்கோ
+  QA:
+    official: கதார்
+    common: கதார்
+  RE:
+    official: ரீயூனியன்
+    common: ரீயூனியன்
+  RO:
+    official: ரோமானியா
+    common: ரோமானியா
+  RU:
+    official: ரஷ்யன் கூட்டமைப்பு
+    common: ரஷ்யன் கூட்டமைப்பு
+  RW:
+    official: ருவாண்டா
+    common: ருவாண்டா
+  BL:
+    official: செயின்ட் பார்த்லெமி
+    common: செயின்ட் பார்த்லெமி
+  SH:
+    official: Saint Helena, Ascension and Tristan da Cunha
+    common: Saint Helena, Ascension and Tristan da Cunha
+  KN:
+    official: செயின்ட் கிட்ஸ் மற்றும் நிவிஸ்
+    common: செயின்ட் கிட்ஸ் மற்றும் நிவிஸ்
+  LC:
+    official: செயின்ட் லூசியா
+    common: செயின்ட் லூசியா
+  MF:
+    official: செயின் மார்டின் (பிரெஞ்சு பகுதி)
+    common: செயின் மார்டின் (பிரெஞ்சு பகுதி)
+  PM:
+    official: செயின்ட் பியார் மற்றும் மிக்யுலன்
+    common: செயின்ட் பியார் மற்றும் மிக்யுலன்
+  VC:
+    official: செயின்ட் வின்சென்ட் மற்றும் க்ரினடின்ஸ்
+    common: செயின்ட் வின்சென்ட் மற்றும் க்ரினடின்ஸ்
+  WS:
+    official: சமோவா
+    common: சமோவா
+  SM:
+    official: சான் மரீனோ
+    common: சான் மரீனோ
+  ST:
+    official: சோ டோமி மற்றும் பிரின்சிபி
+    common: சோ டோமி மற்றும் பிரின்சிபி
+  SA:
+    official: சவூதி அரேபியா
+    common: சவூதி அரேபியா
+  SN:
+    official: செனகல்
+    common: செனகல்
+  RS:
+    official: செர்பியா
+    common: செர்பியா
+  SC:
+    official: சீசெல்சு
+    common: சீசெல்சு
+  SL:
+    official: சியராலியோன்
+    common: சியராலியோன்
+  SG:
+    official: சிங்கப்பூர்
+    common: சிங்கப்பூர்
+  SX:
+    official: செயின் மார்டின் (பிரெஞ்சு பகுதி)
+    common: செயின் மார்டின் (பிரெஞ்சு பகுதி)
+  SK:
+    official: சுலோவேக்கியா
+    common: சுலோவேக்கியா
+  SI:
+    official: ஸ்லோவேனியா
+    common: ஸ்லோவேனியா
+  SB:
+    official: சாலமன் தீவுகள்
+    common: சாலமன் தீவுகள்
+  SO:
+    official: சோமாலியா
+    common: சோமாலியா
+  ZA:
+    official: தென் ஆப்ரிக்கா
+    common: தென் ஆப்ரிக்கா
+  GS:
+    official: தெற்கு ஜார்ஜியா மற்றும் தெற்கு சான்ட்விட்ச்
+    common: தெற்கு ஜார்ஜியா மற்றும் தெற்கு சான்ட்விட்ச்
+  ES:
+    official: ஸ்பெயின்
+    common: ஸ்பெயின்
+  LK:
+    official: இலங்கை
+    common: இலங்கை
+  SD:
+    official: சூடான்
+    common: சூடான்
+  SR:
+    official: சூரினாம்
+    common: சூரினாம்
+  SS:
+    official: சூடான் குடியரசு
+    common: சூடான் குடியரசு
+  SJ:
+    official: சவால்பார்ட் மற்றும் ஜன் மேயன்
+    common: சவால்பார்ட் மற்றும் ஜன் மேயன்
+  SZ:
+    official: சுவாசிலாந்து
+    common: சுவாசிலாந்து
+  SE:
+    official: சுவீடன்
+    common: சுவீடன்
+  CH:
+    official: சுவிட்சர்லாந்து
+    common: சுவிட்சர்லாந்து
+  SY:
+    official: சிரியன் அரபு குடியரசு
+    common: சிரியன் அரபு குடியரசு
+  TW:
+    official: தாய்வான்
+    common: தாய்வான்
+  TJ:
+    official: தசிக்கிசுதான்
+    common: தசிக்கிசுதான்
+  TZ:
+    official: டான்ஸானியா ஐக்கிய குடியரசு
+    common: டான்ஸானியா ஐக்கிய குடியரசு
+  TH:
+    official: தாய்லாந்து
+    common: தாய்லாந்து
+  TL:
+    official: திமோர்-லெஸ்டி
+    common: திமோர்-லெஸ்டி
+  TG:
+    official: டோகோ
+    common: டோகோ
+  TK:
+    official: டோகெலௌ
+    common: டோகெலௌ
+  TO:
+    official: டொங்கா
+    common: டொங்கா
+  TT:
+    official: ட்ரைனிடேட் மற்றும் டோபேகோ
+    common: ட்ரைனிடேட் மற்றும் டோபேகோ
+  TN:
+    official: துனீசியா
+    common: துனீசியா
+  TR:
+    official: துருக்கி
+    common: துருக்கி
+  TM:
+    official: துர்க்மெனிஸ்தான்
+    common: துர்க்மெனிஸ்தான்
+  TC:
+    official: துருக்கஸ் மற்றும் கைசோஸ் தீவுகள்
+    common: துருக்கஸ் மற்றும் கைசோஸ் தீவுகள்
+  TV:
+    official: துவாலு
+    common: துவாலு
+  UG:
+    official: உகாண்டா
+    common: உகாண்டா
+  UA:
+    official: உக்ரெயின்
+    common: உக்ரெயின்
+  AE:
+    official: ஐக்கிய அராபிய எமிரேட்சு
+    common: ஐக்கிய அராபிய எமிரேட்சு
+  GB:
+    official: ஐக்கிய இராஜ்ஜியம்
+    common: ஐக்கிய இராஜ்ஜியம்
+  US:
+    official: ஐக்கிய அமெரிக்கா
+    common: ஐக்கிய அமெரிக்கா
+  UM:
+    official: ஐக்கிய நாடுகள் சிறு சுற்றியுள்ள தீவுகள்
+    common: ஐக்கிய நாடுகள் சிறு சுற்றியுள்ள தீவுகள்
+  UY:
+    official: உருகுவே
+    common: உருகுவே
+  UZ:
+    official: உஸ்பெகிஸ்தான்
+    common: உஸ்பெகிஸ்தான்
+  VU:
+    official: வனாட்டு
+    common: வனாட்டு
+  VE:
+    official: வெனிசூலா பொலிவேரியன் குடியரசு
+    common: வெனிசூலா பொலிவேரியன் குடியரசு
+  VN:
+    official: வியட்னாம்
+    common: வியட்னாம்
+  VG:
+    official: வெர்ஜின் தீவுகள், ப்ரிட்டீஷ்
+    common: வெர்ஜின் தீவுகள், ப்ரிட்டீஷ்
+  VI:
+    official: வெர்ஜின் தீவுகள் , யு.எஸ்
+    common: வெர்ஜின் தீவுகள் , யு.எஸ்
+  WF:
+    official: வாலிஸ் மற்றும் ப்யூடுனா
+    common: வாலிஸ் மற்றும் ப்யூடுனா
+  EH:
+    official: மேற்கு சஹாரா
+    common: மேற்கு சஹாரா
+  YE:
+    official: யேமன்
+    common: யேமன்
+  ZM:
+    official: சாம்பியா
+    common: சாம்பியா
+  ZW:
+    official: ஜிம்பாப்வே
+    common: ஜிம்பாப்வே

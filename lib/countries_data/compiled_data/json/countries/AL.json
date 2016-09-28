@@ -1,0 +1,438 @@
+{
+  "continent": "Europe",
+  "alpha2": "AL",
+  "alpha3": "ALB",
+  "country_code": "355",
+  "international_prefix": "00",
+  "ioc": "ALB",
+  "gec": "AL",
+  "name": "Albania",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7,
+    8,
+    9
+  ],
+  "national_prefix": "0",
+  "number": "008",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "world_region": "EMEA",
+  "un_locode": "AL",
+  "nationality": "Albanian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Albania",
+    "Albanien",
+    "Albanie",
+    "アルバニア",
+    "Albanië"
+  ],
+  "languages_official": [
+    "sq"
+  ],
+  "languages_spoken": [
+    "sq"
+  ],
+  "geo": {
+    "latitude": 41.153332,
+    "latitude_dec": "41.11113357543945",
+    "longitude": 20.168331,
+    "longitude_dec": "20.02745246887207",
+    "max_latitude": 42.6610819,
+    "max_longitude": 21.0572394,
+    "min_latitude": 39.6447296,
+    "min_longitude": 19.2639363,
+    "bounds": {
+      "northeast": {
+        "lat": 42.6610819,
+        "lng": 21.0572394
+      },
+      "southwest": {
+        "lat": 39.6447296,
+        "lng": 19.2639363
+      }
+    }
+  },
+  "currency_code": "ALL",
+  "postal_address_data": {
+    "zipex": "1001,1017,3501",
+    "name": "ALBANIA",
+    "zip": "\\d{4}",
+    "fmt": "%N%n%O%n%A%n%Z%n%C",
+    "key": "AL",
+    "id": "data/AL"
+  },
+  "translations": {
+    "af": {
+      "official": "Albanië",
+      "common": "Albanië"
+    },
+    "sq": {
+      "official": "Shqipëria",
+      "common": "Shqipëria"
+    },
+    "am": {
+      "official": "ጐሔባኒ።",
+      "common": "ጐሔባኒ።"
+    },
+    "ar": {
+      "official": "ألبانيا",
+      "common": "ألبانيا"
+    },
+    "hy": {
+      "official": "Ալբանիա",
+      "common": "Ալբանիա"
+    },
+    "as": {
+      "official": "আলবেনিয়া",
+      "common": "আলবেনিয়া"
+    },
+    "az": {
+      "official": "Albaniya",
+      "common": "Albaniya"
+    },
+    "eu": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "be": {
+      "official": "Албанія",
+      "common": "Албанія"
+    },
+    "bn": {
+      "official": "আলবেনিয়া",
+      "common": "আলবেনিয়া"
+    },
+    "bs": {
+      "official": "Albanija",
+      "common": "Albanija"
+    },
+    "br": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "bg": {
+      "official": "Албания",
+      "common": "Албания"
+    },
+    "ca": {
+      "official": "Albània",
+      "common": "Albània"
+    },
+    "zh": {
+      "official": "阿尔巴尼亚",
+      "common": "阿尔巴尼亚"
+    },
+    "cs": {
+      "official": "Albánie",
+      "common": "Albánie"
+    },
+    "da": {
+      "official": "Albanien",
+      "common": "Albanien"
+    },
+    "nl": {
+      "official": "Albanië",
+      "common": "Albanië"
+    },
+    "dz": {
+      "official": "ཨཱལ་བ་ནི་ཡ།",
+      "common": "ཨཱལ་བ་ནི་ཡ།"
+    },
+    "en": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "eo": {
+      "official": "Albanio",
+      "common": "Albanio"
+    },
+    "et": {
+      "official": "Albaania",
+      "common": "Albaania"
+    },
+    "fo": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "fi": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "fr": {
+      "official": "Albanie",
+      "common": "Albanie"
+    },
+    "ka": {
+      "official": "ალბანეთი",
+      "common": "ალბანეთი"
+    },
+    "de": {
+      "official": "Albanien",
+      "common": "Albanien"
+    },
+    "ga": {
+      "official": "An Albáin",
+      "common": "An Albáin"
+    },
+    "gl": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "el": {
+      "official": "Αλβανία",
+      "common": "Αλβανία"
+    },
+    "gu": {
+      "official": "અલ્બેનિયા",
+      "common": "અલ્બેનિયા"
+    },
+    "he": {
+      "official": "אלבניה",
+      "common": "אלבניה"
+    },
+    "hi": {
+      "official": "अल्बानिया",
+      "common": "अल्बानिया"
+    },
+    "hr": {
+      "official": "Albanija",
+      "common": "Albanija"
+    },
+    "hu": {
+      "official": "Albánia",
+      "common": "Albánia"
+    },
+    "is": {
+      "official": "Albanía",
+      "common": "Albanía"
+    },
+    "ia": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "id": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "it": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "ja": {
+      "official": "アルバニア",
+      "common": "アルバニア"
+    },
+    "kn": {
+      "official": "ಅಲ್ಬೇನಿಯಾ",
+      "common": "ಅಲ್ಬೇನಿಯಾ"
+    },
+    "kk": {
+      "official": "Албания",
+      "common": "Албания"
+    },
+    "km": {
+      "official": "អាល់បានី",
+      "common": "អាល់បានី"
+    },
+    "rw": {
+      "official": "Alubaniya",
+      "common": "Alubaniya"
+    },
+    "ko": {
+      "official": "알바니아",
+      "common": "알바니아"
+    },
+    "ku": {
+      "official": "Arnavût",
+      "common": "Arnavût"
+    },
+    "lv": {
+      "official": "Albānija",
+      "common": "Albānija"
+    },
+    "lt": {
+      "official": "Albanija",
+      "common": "Albanija"
+    },
+    "mk": {
+      "official": "Албанија",
+      "common": "Албанија"
+    },
+    "ml": {
+      "official": "അല്‍ബേനിയ",
+      "common": "അല്‍ബേനിയ"
+    },
+    "mi": {
+      "official": "Arapeinia",
+      "common": "Arapeinia"
+    },
+    "mr": {
+      "official": "अल्बेनिया",
+      "common": "अल्बेनिया"
+    },
+    "ms": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "mt": {
+      "official": "Albanija",
+      "common": "Albanija"
+    },
+    "mn": {
+      "official": "Албани",
+      "common": "Албани"
+    },
+    "ne": {
+      "official": "अल्बानिया",
+      "common": "अल्बानिया"
+    },
+    "nn": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "nb": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "oc": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "or": {
+      "official": "ଅଲ୍ବାନୀୟା",
+      "common": "ଅଲ୍ବାନୀୟା"
+    },
+    "pa": {
+      "official": "ਅਲਬੀਨਾ",
+      "common": "ਅਲਬੀਨਾ"
+    },
+    "fa": {
+      "official": "آلبانی",
+      "common": "آلبانی"
+    },
+    "pl": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "pt": {
+      "official": "Albânia",
+      "common": "Albânia"
+    },
+    "ps": {
+      "official": "البانیه",
+      "common": "البانیه"
+    },
+    "ro": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "ru": {
+      "official": "Албания",
+      "common": "Албания"
+    },
+    "si": {
+      "official": "ඇල්බේනියාව",
+      "common": "ඇල්බේනියාව"
+    },
+    "sk": {
+      "official": "Albánsko",
+      "common": "Albánsko"
+    },
+    "sl": {
+      "official": "Albanija",
+      "common": "Albanija"
+    },
+    "so": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "es": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "sr": {
+      "official": "Албанија",
+      "common": "Албанија"
+    },
+    "sw": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "sv": {
+      "official": "Albanien",
+      "common": "Albanien"
+    },
+    "ta": {
+      "official": "அல்பேனியா",
+      "common": "அல்பேனியா"
+    },
+    "tt": {
+      "official": "Албаниа",
+      "common": "Албаниа"
+    },
+    "te": {
+      "official": "అల్బేనియా",
+      "common": "అల్బేనియా"
+    },
+    "tl": {
+      "official": "Albanya",
+      "common": "Albanya"
+    },
+    "th": {
+      "official": "แอลเบเนีย",
+      "common": "แอลเบเนีย"
+    },
+    "ti": {
+      "official": "አልባኒያ",
+      "common": "አልባኒያ"
+    },
+    "tk": {
+      "official": "Albaniýa",
+      "common": "Albaniýa"
+    },
+    "tr": {
+      "official": "Arnavutluk",
+      "common": "Arnavutluk"
+    },
+    "ug": {
+      "official": "ئالبانىيە",
+      "common": "ئالبانىيە"
+    },
+    "uk": {
+      "official": "Албанія",
+      "common": "Албанія"
+    },
+    "ve": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "vi": {
+      "official": "An-ba-ni",
+      "common": "An-ba-ni"
+    },
+    "cy": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "wa": {
+      "official": "Albaneye",
+      "common": "Albaneye"
+    },
+    "wo": {
+      "official": "Albaani",
+      "common": "Albaani"
+    },
+    "xh": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "zu": {
+      "official": "Albania",
+      "common": "Albania"
+    }
+  }
+}

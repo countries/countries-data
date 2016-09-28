@@ -1,0 +1,324 @@
+---
+continent: Antarctica
+alpha2: BV
+alpha3: BVT
+country_code: '47'
+international_prefix: ''
+ioc: 
+gec: BV
+name: Bouvet Island
+national_destination_code_lengths: []
+national_number_lengths: []
+national_prefix: ''
+number: '074'
+region: ''
+subregion: ''
+un_locode: 
+nationality: ''
+postal_code: true
+world_region: APAC
+unofficial_names:
+- Bouvet Island
+- Bouvetinsel
+- ブーベ島
+- Bouveteiland
+languages_official: []
+languages_spoken: []
+geo:
+  latitude: -54.423199
+  latitude_dec: "-54.4342041015625"
+  longitude: 3.413194
+  longitude_dec: '3.4102511405944824'
+  max_latitude: -54.3873566
+  max_longitude: 3.4382056
+  min_latitude: -54.4541005
+  min_longitude: 3.2858825
+  bounds:
+    northeast:
+      lat: -54.3873566
+      lng: 3.4382056
+    southwest:
+      lat: -54.4541005
+      lng: 3.2858825
+currency_code: NOK
+postal_address_data:
+  id: data/BV
+  key: BV
+  name: BOUVET ISLAND
+translations:
+  af:
+    official: Bouvet Island
+    common: Bouvet Island
+  sq:
+    official: Ishulli Bouvet
+    common: Ishulli Bouvet
+  am:
+    official: Bouvet Island
+    common: Bouvet Island
+  ar:
+    official: جزيرة بوفي
+    common: جزيرة بوفي
+  hy:
+    official: Բուվետ Կղզի
+    common: Բուվետ Կղզի
+  as:
+    official: বোভেট দ্বীপ
+    common: বোভেট দ্বীপ
+  az:
+    official: Buvet Adası
+    common: Buvet Adası
+  eu:
+    official: Bouvet uhartea
+    common: Bouvet uhartea
+  be:
+    official: Востраў Буве
+    common: Востраў Буве
+  bn:
+    official: বুভে দ্বীপ
+    common: বুভে দ্বীপ
+  bs:
+    official: Ostrvo Bouvet
+    common: Ostrvo Bouvet
+  br:
+    official: Bouvet Island
+    common: Bouvet Island
+  bg:
+    official: Остров Буве
+    common: Остров Буве
+  ca:
+    official: Illa Bouvet
+    common: Illa Bouvet
+  zh:
+    official: 布维群岛
+    common: 布维群岛
+  cs:
+    official: Bouvetův ostrov
+    common: Bouvetův ostrov
+  da:
+    official: Bouvet-øen
+    common: Bouvet-øen
+  nl:
+    official: Bouvet eiland
+    common: Bouvet eiland
+  dz:
+    official: བའུ་བེཊི་ ཨའི་ལེནཌི།
+    common: བའུ་བེཊི་ ཨའི་ལེནཌི།
+  en:
+    official: Bouvet Island
+    common: Bouvet Island
+  eo:
+    official: Buvetinsulo
+    common: Buvetinsulo
+  et:
+    official: Bouvet’ saar
+    common: Bouvet’ saar
+  fo:
+    official: Bouvet Island
+    common: Bouvet Island
+  fi:
+    official: Bouvet'nsaari
+    common: Bouvet'nsaari
+  fr:
+    official: Bouvet, Île
+    common: Bouvet, Île
+  ka:
+    official: ბუვეტის კუნძული
+    common: ბუვეტის კუნძული
+  de:
+    official: Bouvet-Insel
+    common: Bouvet-Insel
+  ga:
+    official: Oileán Bouvet
+    common: Oileán Bouvet
+  gl:
+    official: Illa Bouvet
+    common: Illa Bouvet
+  el:
+    official: Νήσος Μπουβέ
+    common: Νήσος Μπουβέ
+  gu:
+    official: બોઉવેટ ટાપુઓ
+    common: બોઉવેટ ટાપુઓ
+  he:
+    official: האי באווט
+    common: האי באווט
+  hi:
+    official: बोउवेट आइलैंड
+    common: बोउवेट आइलैंड
+  hr:
+    official: Otok Bouvet
+    common: Otok Bouvet
+  hu:
+    official: Bouvet-sziget
+    common: Bouvet-sziget
+  is:
+    official: Bouvet eyja
+    common: Bouvet eyja
+  ia:
+    official: Insula Bouvet
+    common: Insula Bouvet
+  id:
+    official: Kepulauan Bouvet
+    common: Kepulauan Bouvet
+  it:
+    official: Isola di Bouvet
+    common: Isola di Bouvet
+  ja:
+    official: ブーベ島
+    common: ブーベ島
+  kn:
+    official: ಬವೇಟ್ ದ್ವೀಪ
+    common: ಬವೇಟ್ ದ್ವೀಪ
+  kk:
+    official: Буве аралдары
+    common: Буве аралдары
+  km:
+    official: កោះ​ប៊ូវ៉ែ
+    common: កោះ​ប៊ូវ៉ែ
+  rw:
+    official: Ikirwa cya Bouve
+    common: Ikirwa cya Bouve
+  ko:
+    official: 보우벳 섬
+    common: 보우벳 섬
+  ku:
+    official: Girava Boyuvet
+    common: Girava Boyuvet
+  lv:
+    official: Buvē Sala
+    common: Buvē Sala
+  lt:
+    official: Buvė sala
+    common: Buvė sala
+  mk:
+    official: Бувет острови
+    common: Бувет острови
+  ml:
+    official: ബൌവെ ദ്വീപുകള്‍
+    common: ബൌവെ ദ്വീപുകള്‍
+  mi:
+    official: Bouvet Island
+    common: Bouvet Island
+  mr:
+    official: बोव्हे आयलॅंड
+    common: बोव्हे आयलॅंड
+  ms:
+    official: Kepulauan Bouvet
+    common: Kepulauan Bouvet
+  mt:
+    official: Bouvet Island
+    common: Bouvet Island
+  mn:
+    official: Bouvet Island
+    common: Bouvet Island
+  ne:
+    official: बोउवेट टापु
+    common: बोउवेट टापु
+  nn:
+    official: Bouvetøya
+    common: Bouvetøya
+  nb:
+    official: Bouvetøya
+    common: Bouvetøya
+  oc:
+    official: Illa Bouvet
+    common: Illa Bouvet
+  or:
+    official: ବୁଭେଟ୍ ଦ୍ବୀପ
+    common: ବୁଭେଟ୍ ଦ୍ବୀପ
+  pa:
+    official: ਬੂਟਵਟ ਟਾਪੂ
+    common: ਬੂਟਵਟ ਟਾਪੂ
+  fa:
+    official: جزیرهٔ بووت
+    common: جزیرهٔ بووت
+  pl:
+    official: Wyspa Bouvet
+    common: Wyspa Bouvet
+  pt:
+    official: Ilha Bouvet
+    common: Ilha Bouvet
+  ps:
+    official: Bouvet Island
+    common: Bouvet Island
+  ro:
+    official: Insula Bouvet
+    common: Insula Bouvet
+  ru:
+    official: Остров Буве
+    common: Остров Буве
+  si:
+    official: බෝවෙට් දූපත
+    common: බෝවෙට් දූපත
+  sk:
+    official: Bouvetov ostrov
+    common: Bouvetov ostrov
+  sl:
+    official: Bouvetov otok
+    common: Bouvetov otok
+  so:
+    official: Bouvet Island
+    common: Bouvet Island
+  es:
+    official: Isla Bouvet
+    common: Isla Bouvet
+  sr:
+    official: Острво Бов
+    common: Острво Бов
+  sw:
+    official: Kisiwa cha Bouvet
+    common: Kisiwa cha Bouvet
+  sv:
+    official: Bouvetön
+    common: Bouvetön
+  ta:
+    official: போவெட் தீவு
+    common: போவெட் தீவு
+  tt:
+    official: Боувет Утравы
+    common: Боувет Утравы
+  te:
+    official: బోవ్హే ఐలాండ్
+    common: బోవ్హే ఐలాండ్
+  tl:
+    official: Islang Bouvet
+    common: Islang Bouvet
+  th:
+    official: เกาะบูเวต์
+    common: เกาะบูเวต์
+  ti:
+    official: Bouvet Island
+    common: Bouvet Island
+  tk:
+    official: Bouvet Island
+    common: Bouvet Island
+  tr:
+    official: Bouvet Adası
+    common: Bouvet Adası
+  ug:
+    official: بۇۋېت ئارىلى
+    common: بۇۋېت ئارىلى
+  uk:
+    official: Острів Буве
+    common: Острів Буве
+  ve:
+    official: Faroe Islands
+    common: Faroe Islands
+  vi:
+    official: Quần đảo Bu-vê
+    common: Quần đảo Bu-vê
+  cy:
+    official: Ynys Bouvet
+    common: Ynys Bouvet
+  wa:
+    official: Iye Bouvet
+    common: Iye Bouvet
+  wo:
+    official: Bouvet Island
+    common: Bouvet Island
+  xh:
+    official: Bouvet Island
+    common: Bouvet Island
+  zu:
+    official: Bouvet Island
+    common: Bouvet Island

@@ -1,0 +1,435 @@
+{
+  "continent": "Africa",
+  "alpha2": "ST",
+  "alpha3": "STP",
+  "country_code": "239",
+  "international_prefix": "00",
+  "ioc": "STP",
+  "gec": "TP",
+  "name": "Sao Tome and Principe",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    6,
+    7
+  ],
+  "national_prefix": "0",
+  "number": "678",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "world_region": "EMEA",
+  "un_locode": "ST",
+  "nationality": "Sao Tomean",
+  "postal_code": false,
+  "unofficial_names": [
+    "São Tomé and Príncipe",
+    "São Tomé und Príncipe",
+    "São Tomé et Príncipe",
+    "Santo Tomé y Príncipe",
+    "サントメ・プリンシペ",
+    "Sao Tomé en Principe"
+  ],
+  "languages_official": [
+    "pt"
+  ],
+  "languages_spoken": [
+    "pt"
+  ],
+  "geo": {
+    "latitude": 0.18636,
+    "latitude_dec": "0.275555282831192",
+    "longitude": 6.613080999999999,
+    "longitude_dec": "6.631628036499023",
+    "max_latitude": 1.7009792,
+    "max_longitude": 7.462466600000001,
+    "min_latitude": -0.0140044,
+    "min_longitude": 6.460475799999999,
+    "bounds": {
+      "northeast": {
+        "lat": 1.7009792,
+        "lng": 7.462466600000001
+      },
+      "southwest": {
+        "lat": -0.0140044,
+        "lng": 6.460475799999999
+      }
+    }
+  },
+  "currency_code": "STD",
+  "postal_address_data": {
+    "id": "data/ST",
+    "key": "ST",
+    "name": "SAO TOME AND PRINCIPE"
+  },
+  "translations": {
+    "af": {
+      "official": "Sao Tomé en Principe",
+      "common": "Sao Tomé en Principe"
+    },
+    "sq": {
+      "official": "Sao Tome dhe Principe",
+      "common": "Sao Tome dhe Principe"
+    },
+    "am": {
+      "official": "Sao Tome and Principe",
+      "common": "Sao Tome and Principe"
+    },
+    "ar": {
+      "official": "ساو تومي و برنسبي",
+      "common": "ساو تومي و برنسبي"
+    },
+    "hy": {
+      "official": "Սան-Թոմե-Փրինսիպի",
+      "common": "Սան-Թոմե-Փրինսիպի"
+    },
+    "as": {
+      "official": "চাও টোমে আৰু প্ৰিন্সিপে",
+      "common": "চাও টোমে আৰু প্ৰিন্সিপে"
+    },
+    "az": {
+      "official": "Sao Tome və Prinsip",
+      "common": "Sao Tome və Prinsip"
+    },
+    "eu": {
+      "official": "Sao Tome eta Principe",
+      "common": "Sao Tome eta Principe"
+    },
+    "be": {
+      "official": "Сан-Тамэ і Прынсіпі",
+      "common": "Сан-Тамэ і Прынсіпі"
+    },
+    "bn": {
+      "official": "সাও টোমে ও প্রিন্সিপে",
+      "common": "সাও টোমে ও প্রিন্সিপে"
+    },
+    "bs": {
+      "official": "Sao Tome i Principe",
+      "common": "Sao Tome i Principe"
+    },
+    "br": {
+      "official": "Sao Tome and Principe",
+      "common": "Sao Tome and Principe"
+    },
+    "bg": {
+      "official": "Сао Томе и Принсипи",
+      "common": "Сао Томе и Принсипи"
+    },
+    "ca": {
+      "official": "Sao Tome i Príncipe",
+      "common": "Sao Tome i Príncipe"
+    },
+    "zh": {
+      "official": "圣多美和普林西比",
+      "common": "圣多美和普林西比"
+    },
+    "cs": {
+      "official": "Svatý Tomáš a Princův ostrov",
+      "common": "Svatý Tomáš a Princův ostrov"
+    },
+    "da": {
+      "official": "São Tomé og Príncipe",
+      "common": "São Tomé og Príncipe"
+    },
+    "nl": {
+      "official": "Sao Tomé en Principe",
+      "common": "Sao Tomé en Principe"
+    },
+    "dz": {
+      "official": "སེའོ་ ཊོམ་དང་ པི་རིན་སི་པཱི།",
+      "common": "སེའོ་ ཊོམ་དང་ པི་རིན་སི་པཱི།"
+    },
+    "en": {
+      "official": "Sao Tome and Principe",
+      "common": "Sao Tome and Principe"
+    },
+    "eo": {
+      "official": "Sao-Tomeo kaj Principeo",
+      "common": "Sao-Tomeo kaj Principeo"
+    },
+    "et": {
+      "official": "São Tomé ja Príncipe",
+      "common": "São Tomé ja Príncipe"
+    },
+    "fo": {
+      "official": "Sao Tome og Prinsipi",
+      "common": "Sao Tome og Prinsipi"
+    },
+    "fi": {
+      "official": "São Tomé ja Príncipe",
+      "common": "São Tomé ja Príncipe"
+    },
+    "fr": {
+      "official": "Sao Tomé-et-Principe",
+      "common": "Sao Tomé-et-Principe"
+    },
+    "ka": {
+      "official": "საო-ტომე და პრინსიპი",
+      "common": "საო-ტომე და პრინსიპი"
+    },
+    "de": {
+      "official": "São Tomé und Príncipe",
+      "common": "São Tomé und Príncipe"
+    },
+    "ga": {
+      "official": "Sao Tome agus Principe",
+      "common": "Sao Tome agus Principe"
+    },
+    "gl": {
+      "official": "San Tomé e Príncipe",
+      "common": "San Tomé e Príncipe"
+    },
+    "el": {
+      "official": "Σάο Τομέ και Πρίνσιπε",
+      "common": "Σάο Τομέ και Πρίνσιπε"
+    },
+    "gu": {
+      "official": "સાઓ ટોમે અને પ્રિન્સિપે",
+      "common": "સાઓ ટોમે અને પ્રિન્સિપે"
+    },
+    "he": {
+      "official": "סאו תומה ופרינסיפה",
+      "common": "סאו תומה ופרינסיפה"
+    },
+    "hi": {
+      "official": "साओ टोम एन्ड प्रिन्सिप",
+      "common": "साओ टोम एन्ड प्रिन्सिप"
+    },
+    "hr": {
+      "official": "Sveti Toma i Princip",
+      "common": "Sveti Toma i Princip"
+    },
+    "hu": {
+      "official": "São Tomé és Príncipe",
+      "common": "São Tomé és Príncipe"
+    },
+    "is": {
+      "official": "Saó Tóme og Prinsípe",
+      "common": "Saó Tóme og Prinsípe"
+    },
+    "ia": {
+      "official": "Sao Tome e Principe",
+      "common": "Sao Tome e Principe"
+    },
+    "id": {
+      "official": "Sao Tome dan Principe",
+      "common": "Sao Tome dan Principe"
+    },
+    "it": {
+      "official": "São Tomé e Príncipe",
+      "common": "São Tomé e Príncipe"
+    },
+    "ja": {
+      "official": "サントメ・プリンシペ",
+      "common": "サントメ・プリンシペ"
+    },
+    "kn": {
+      "official": "Sao Tome and Principe",
+      "common": "Sao Tome and Principe"
+    },
+    "kk": {
+      "official": "Сан-Томе және Принсипи",
+      "common": "Сан-Томе және Принсипи"
+    },
+    "km": {
+      "official": "សៅតូម និង ព្រីនស៊ីព",
+      "common": "សៅតូម និង ព្រីនស៊ីព"
+    },
+    "rw": {
+      "official": "Sawo Tome na Purensipe",
+      "common": "Sawo Tome na Purensipe"
+    },
+    "ko": {
+      "official": "상투메 프린시페",
+      "common": "상투메 프린시페"
+    },
+    "ku": {
+      "official": "Sao Tome û Prinsipe",
+      "common": "Sao Tome û Prinsipe"
+    },
+    "lv": {
+      "official": "Santome un Prinsipi",
+      "common": "Santome un Prinsipi"
+    },
+    "lt": {
+      "official": "San Tomė ir Prinsipė",
+      "common": "San Tomė ir Prinsipė"
+    },
+    "mk": {
+      "official": "Сао Томе и Принципе",
+      "common": "Сао Томе и Принципе"
+    },
+    "ml": {
+      "official": "സാവോ ടോമും പ്രിന്‍സിപ്പിയും",
+      "common": "സാവോ ടോമും പ്രിന്‍സിപ്പിയും"
+    },
+    "mi": {
+      "official": "Ao Tomi me Pirinihipi",
+      "common": "Ao Tomi me Pirinihipi"
+    },
+    "mr": {
+      "official": "साओ तोम आणी प्रिंसिप",
+      "common": "साओ तोम आणी प्रिंसिप"
+    },
+    "ms": {
+      "official": "Sao Tome dan Principe",
+      "common": "Sao Tome dan Principe"
+    },
+    "mt": {
+      "official": "Sao Tome and Principe",
+      "common": "Sao Tome and Principe"
+    },
+    "mn": {
+      "official": "Sao Tome and Principe",
+      "common": "Sao Tome and Principe"
+    },
+    "ne": {
+      "official": "साओ टोम र प्रिन्सिपे",
+      "common": "साओ टोम र प्रिन्सिपे"
+    },
+    "nn": {
+      "official": "São Tomé og Príncipe",
+      "common": "São Tomé og Príncipe"
+    },
+    "nb": {
+      "official": "São Tomé og Príncipe",
+      "common": "São Tomé og Príncipe"
+    },
+    "oc": {
+      "official": "Sao Tomé e Principe",
+      "common": "Sao Tomé e Principe"
+    },
+    "or": {
+      "official": "ସାଓ ଟୋମ ଏବଂ ପ୍ରିନସୀପ",
+      "common": "ସାଓ ଟୋମ ଏବଂ ପ୍ରିନସୀପ"
+    },
+    "pa": {
+      "official": "ਸਾਓ ਟੋਮ ਅਤੇ ਪ੍ਰਿਨਸਾਈਪ",
+      "common": "ਸਾਓ ਟੋਮ ਅਤੇ ਪ੍ਰਿਨਸਾਈਪ"
+    },
+    "fa": {
+      "official": "سائو تومه و پرینسیپه",
+      "common": "سائو تومه و پرینسیپه"
+    },
+    "pl": {
+      "official": "Wyspy Świętego Tomasza i Książęca",
+      "common": "Wyspy Świętego Tomasza i Książęca"
+    },
+    "pt": {
+      "official": "São Tomé e Príncipe",
+      "common": "São Tomé e Príncipe"
+    },
+    "ps": {
+      "official": "Sao Tome and Principe",
+      "common": "Sao Tome and Principe"
+    },
+    "ro": {
+      "official": "Sao Tome și Principe",
+      "common": "Sao Tome și Principe"
+    },
+    "ru": {
+      "official": "Сан-Томе и Принсипи",
+      "common": "Сан-Томе и Принсипи"
+    },
+    "si": {
+      "official": "සාවෝ තෝමේ හා ප්‍රින්සිපි",
+      "common": "සාවෝ තෝමේ හා ප්‍රින්සිපි"
+    },
+    "sk": {
+      "official": "Svätý Tomáš a Princov ostrov",
+      "common": "Svätý Tomáš a Princov ostrov"
+    },
+    "sl": {
+      "official": "Sao Tome in Principe",
+      "common": "Sao Tome in Principe"
+    },
+    "so": {
+      "official": "Sao Tome and Principe",
+      "common": "Sao Tome and Principe"
+    },
+    "es": {
+      "official": "Santo Tomé y Príncipe",
+      "common": "Santo Tomé y Príncipe"
+    },
+    "sr": {
+      "official": "Сао Томе и Принципе",
+      "common": "Сао Томе и Принципе"
+    },
+    "sw": {
+      "official": "Sao Tome and Principe",
+      "common": "Sao Tome and Principe"
+    },
+    "sv": {
+      "official": "São Tomé och Príncipe",
+      "common": "São Tomé och Príncipe"
+    },
+    "ta": {
+      "official": "சோ டோமி மற்றும் பிரின்சிபி",
+      "common": "சோ டோமி மற்றும் பிரின்சிபி"
+    },
+    "tt": {
+      "official": "Сао Томе белән Принҗипе",
+      "common": "Сао Томе белән Принҗипе"
+    },
+    "te": {
+      "official": "సాఓ తోమ మరియు ప్రింసిప్",
+      "common": "సాఓ తోమ మరియు ప్రింసిప్"
+    },
+    "tl": {
+      "official": "Sao Tome at Principe",
+      "common": "Sao Tome at Principe"
+    },
+    "th": {
+      "official": "เซาตูเมและปรินซิปี",
+      "common": "เซาตูเมและปรินซิปี"
+    },
+    "ti": {
+      "official": "Sao Tome and Principe",
+      "common": "Sao Tome and Principe"
+    },
+    "tk": {
+      "official": "San-Tome we Prisipi",
+      "common": "San-Tome we Prisipi"
+    },
+    "tr": {
+      "official": "Sao Tome ve Principe",
+      "common": "Sao Tome ve Principe"
+    },
+    "ug": {
+      "official": "سان-تومې ۋە پىرىنسىپى",
+      "common": "سان-تومې ۋە پىرىنسىپى"
+    },
+    "uk": {
+      "official": "Сан-Томе і Принсипі",
+      "common": "Сан-Томе і Принсипі"
+    },
+    "ve": {
+      "official": "Sao Tome na Principe",
+      "common": "Sao Tome na Principe"
+    },
+    "vi": {
+      "official": "Xao Tô-mê và Pợ-rin-xi-pê",
+      "common": "Xao Tô-mê và Pợ-rin-xi-pê"
+    },
+    "cy": {
+      "official": "Sao Tome a Principe",
+      "common": "Sao Tome a Principe"
+    },
+    "wa": {
+      "official": "São Tomé et Prince",
+      "common": "São Tomé et Prince"
+    },
+    "wo": {
+      "official": "Sao Tome ak Principe",
+      "common": "Sao Tome ak Principe"
+    },
+    "xh": {
+      "official": "Sao Tome and Principe",
+      "common": "Sao Tome and Principe"
+    },
+    "zu": {
+      "official": "Sao Tome and Principe",
+      "common": "Sao Tome and Principe"
+    }
+  }
+}

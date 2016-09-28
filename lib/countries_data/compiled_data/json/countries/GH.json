@@ -1,0 +1,433 @@
+{
+  "continent": "Africa",
+  "alpha2": "GH",
+  "alpha3": "GHA",
+  "country_code": "233",
+  "international_prefix": "00",
+  "ioc": "GHA",
+  "gec": "GH",
+  "name": "Ghana",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "national_prefix": "None",
+  "number": "288",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "world_region": "EMEA",
+  "un_locode": "GH",
+  "nationality": "Ghanaian",
+  "postal_code": false,
+  "unofficial_names": [
+    "Ghana",
+    "ガーナ"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 7.946527,
+    "latitude_dec": "7.921330451965332",
+    "longitude": -1.023194,
+    "longitude_dec": "-1.2043862342834473",
+    "max_latitude": 11.1750309,
+    "max_longitude": 1.1994742,
+    "min_latitude": 4.7388737,
+    "min_longitude": -3.2607861,
+    "bounds": {
+      "northeast": {
+        "lat": 11.1750309,
+        "lng": 1.1994742
+      },
+      "southwest": {
+        "lat": 4.7388737,
+        "lng": -3.2607861
+      }
+    }
+  },
+  "currency_code": "GHS",
+  "postal_address_data": {
+    "id": "data/GH",
+    "key": "GH",
+    "name": "GHANA"
+  },
+  "translations": {
+    "af": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "sq": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "am": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "ar": {
+      "official": "غانا",
+      "common": "غانا"
+    },
+    "hy": {
+      "official": "Գանա",
+      "common": "Գանա"
+    },
+    "as": {
+      "official": "ঘানা",
+      "common": "ঘানা"
+    },
+    "az": {
+      "official": "Qana",
+      "common": "Qana"
+    },
+    "eu": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "be": {
+      "official": "Гана",
+      "common": "Гана"
+    },
+    "bn": {
+      "official": "ঘানা",
+      "common": "ঘানা"
+    },
+    "bs": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "br": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "bg": {
+      "official": "Гана",
+      "common": "Гана"
+    },
+    "ca": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "zh": {
+      "official": "加纳",
+      "common": "加纳"
+    },
+    "cs": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "da": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "nl": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "dz": {
+      "official": "གྷ་ན།",
+      "common": "གྷ་ན།"
+    },
+    "en": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "eo": {
+      "official": "Ganao",
+      "common": "Ganao"
+    },
+    "et": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "fo": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "fi": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "fr": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "ka": {
+      "official": "განა",
+      "common": "განა"
+    },
+    "de": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "ga": {
+      "official": "Gána",
+      "common": "Gána"
+    },
+    "gl": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "el": {
+      "official": "Γκάνα",
+      "common": "Γκάνα"
+    },
+    "gu": {
+      "official": "ઘાના",
+      "common": "ઘાના"
+    },
+    "he": {
+      "official": "גאנה",
+      "common": "גאנה"
+    },
+    "hi": {
+      "official": "घाना",
+      "common": "घाना"
+    },
+    "hr": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "hu": {
+      "official": "Ghána",
+      "common": "Ghána"
+    },
+    "is": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "ia": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "id": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "it": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "ja": {
+      "official": "ガーナ",
+      "common": "ガーナ"
+    },
+    "kn": {
+      "official": "ಘಾನಾ",
+      "common": "ಘಾನಾ"
+    },
+    "kk": {
+      "official": "Гана",
+      "common": "Гана"
+    },
+    "km": {
+      "official": "ហ្គាណា",
+      "common": "ហ្គាណា"
+    },
+    "rw": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "ko": {
+      "official": "가나",
+      "common": "가나"
+    },
+    "ku": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "lv": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "lt": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "mk": {
+      "official": "Гана",
+      "common": "Гана"
+    },
+    "ml": {
+      "official": "ഘാന",
+      "common": "ഘാന"
+    },
+    "mi": {
+      "official": "Kāna",
+      "common": "Kāna"
+    },
+    "mr": {
+      "official": "घाना",
+      "common": "घाना"
+    },
+    "ms": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "mt": {
+      "official": "Ċina",
+      "common": "Ċina"
+    },
+    "mn": {
+      "official": "Гана",
+      "common": "Гана"
+    },
+    "ne": {
+      "official": "घाना",
+      "common": "घाना"
+    },
+    "nn": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "nb": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "oc": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "or": {
+      "official": "ଘାନା",
+      "common": "ଘାନା"
+    },
+    "pa": {
+      "official": "ਘਾਨਾ",
+      "common": "ਘਾਨਾ"
+    },
+    "fa": {
+      "official": "غنا",
+      "common": "غنا"
+    },
+    "pl": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "pt": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "ps": {
+      "official": "ګانا",
+      "common": "ګانا"
+    },
+    "ro": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "ru": {
+      "official": "Гана",
+      "common": "Гана"
+    },
+    "si": {
+      "official": "ඝානාව",
+      "common": "ඝානාව"
+    },
+    "sk": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "sl": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "so": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "es": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "sr": {
+      "official": "Гана",
+      "common": "Гана"
+    },
+    "sw": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "sv": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "ta": {
+      "official": "கானா",
+      "common": "கானா"
+    },
+    "tt": {
+      "official": "Gһана",
+      "common": "Gһана"
+    },
+    "te": {
+      "official": "ఘనా",
+      "common": "ఘనా"
+    },
+    "tl": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "th": {
+      "official": "กานา",
+      "common": "กานา"
+    },
+    "ti": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "tk": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "tr": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "ug": {
+      "official": "گانا",
+      "common": "گانا"
+    },
+    "uk": {
+      "official": "Гана",
+      "common": "Гана"
+    },
+    "ve": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "vi": {
+      "official": "Ga-na",
+      "common": "Ga-na"
+    },
+    "cy": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "wa": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "wo": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "xh": {
+      "official": "Tshayina",
+      "common": "Tshayina"
+    },
+    "zu": {
+      "official": "Isi-Shayina",
+      "common": "Isi-Shayina"
+    }
+  }
+}

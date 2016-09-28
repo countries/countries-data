@@ -1,0 +1,450 @@
+{
+  "continent": "Asia",
+  "alpha2": "MY",
+  "alpha3": "MYS",
+  "country_code": "60",
+  "international_prefix": "00",
+  "ioc": "MAS",
+  "gec": "MY",
+  "name": "Malaysia",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    9,
+    10
+  ],
+  "national_prefix": "0",
+  "number": "458",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "world_region": "APAC",
+  "un_locode": "MY",
+  "nationality": "Malaysian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Malaysia",
+    "Malaisie",
+    "Malasia",
+    "マレーシア",
+    "Maleisië"
+  ],
+  "languages_official": [
+    "ms",
+    "en"
+  ],
+  "languages_spoken": [
+    "ms",
+    "en"
+  ],
+  "geo": {
+    "latitude": 4.210484,
+    "latitude_dec": "2.5490005016326904",
+    "longitude": 101.975766,
+    "longitude_dec": "102.96261596679688",
+    "max_latitude": 7.379631100000001,
+    "max_longitude": 119.2693619,
+    "min_latitude": 0.8538209,
+    "min_longitude": 98.9362527,
+    "bounds": {
+      "northeast": {
+        "lat": 7.379631100000001,
+        "lng": 119.2693619
+      },
+      "southwest": {
+        "lat": 0.8538209,
+        "lng": 98.9362527
+      }
+    }
+  },
+  "currency_code": "MYR",
+  "postal_address_data": {
+    "lang": "ms",
+    "upper": "CS",
+    "sub_zipexs": "79000:86999~05000,09999:34950~15000,18599~50000,60000~87000,87999~75000,78399~70000,73599~25000,28999:39000,39999:49000:69000~30000,36899:39000~01000,02799~10000,14999~62000,62999~88000,91999~93000,98999~40000,48999:63000,68199~20000,24999",
+    "zipex": "43000,50754,88990,50670",
+    "name": "MALAYSIA",
+    "zip": "\\d{5}",
+    "sublocality_name_type": "village_township",
+    "require": "ACZ",
+    "state_name_type": "state",
+    "id": "data/MY",
+    "languages": "ms",
+    "sub_keys": "Johor~Kedah~Kelantan~Kuala Lumpur~Labuan~Melaka~Negeri Sembilan~Pahang~Perak~Perlis~Pulau Pinang~Putrajaya~Sabah~Sarawak~Selangor~Terengganu",
+    "posturl": "http://www.pos.com.my",
+    "sub_isoids": "01~02~03~14~15~04~05~06~08~09~07~16~12~13~10~11",
+    "key": "MY",
+    "fmt": "%N%n%O%n%A%n%D%n%Z %C%n%S",
+    "sub_zips": "79|8[0-6]~0[5-9]|34950~1[5-9]~5|60~87~7[5-8]~7[0-4]~2[5-8]|[346]9~3[0-6]|39000~0[12]~1[0-4]~62~8[89]|9[01]~9[3-8]~4[0-8]|6[3-8]~2[0-4]"
+  },
+  "translations": {
+    "af": {
+      "official": "Maleisië",
+      "common": "Maleisië"
+    },
+    "sq": {
+      "official": "Malajzia",
+      "common": "Malajzia"
+    },
+    "am": {
+      "official": "ሢሓፒ።",
+      "common": "ሢሓፒ።"
+    },
+    "ar": {
+      "official": "ماليزيا",
+      "common": "ماليزيا"
+    },
+    "hy": {
+      "official": "Մալայզիա",
+      "common": "Մալայզիա"
+    },
+    "as": {
+      "official": "মালেছিয়া",
+      "common": "মালেছিয়া"
+    },
+    "az": {
+      "official": "Malayziya",
+      "common": "Malayziya"
+    },
+    "eu": {
+      "official": "Malasia",
+      "common": "Malasia"
+    },
+    "be": {
+      "official": "Малайзія",
+      "common": "Малайзія"
+    },
+    "bn": {
+      "official": "মালেশিয়া",
+      "common": "মালেশিয়া"
+    },
+    "bs": {
+      "official": "Malezija",
+      "common": "Malezija"
+    },
+    "br": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "bg": {
+      "official": "Малайзия",
+      "common": "Малайзия"
+    },
+    "ca": {
+      "official": "Malàisia",
+      "common": "Malàisia"
+    },
+    "zh": {
+      "official": "马来西亚",
+      "common": "马来西亚"
+    },
+    "cs": {
+      "official": "Malajsie",
+      "common": "Malajsie"
+    },
+    "da": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "nl": {
+      "official": "Maleisië",
+      "common": "Maleisië"
+    },
+    "dz": {
+      "official": "མ་ལེ་ཤི་ཡ།",
+      "common": "མ་ལེ་ཤི་ཡ།"
+    },
+    "en": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "eo": {
+      "official": "Malajzio",
+      "common": "Malajzio"
+    },
+    "et": {
+      "official": "Malaisia",
+      "common": "Malaisia"
+    },
+    "fo": {
+      "official": "Maleisia",
+      "common": "Maleisia"
+    },
+    "fi": {
+      "official": "Malesia",
+      "common": "Malesia"
+    },
+    "fr": {
+      "official": "Malaisie",
+      "common": "Malaisie"
+    },
+    "ka": {
+      "official": "მალაიზია",
+      "common": "მალაიზია"
+    },
+    "de": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "ga": {
+      "official": "An Mhalaeisia",
+      "common": "An Mhalaeisia"
+    },
+    "gl": {
+      "official": "Malasia",
+      "common": "Malasia"
+    },
+    "el": {
+      "official": "Μαλαισία",
+      "common": "Μαλαισία"
+    },
+    "gu": {
+      "official": "મલેશિયા",
+      "common": "મલેશિયા"
+    },
+    "he": {
+      "official": "מלזיה",
+      "common": "מלזיה"
+    },
+    "hi": {
+      "official": "मलेशिया",
+      "common": "मलेशिया"
+    },
+    "hr": {
+      "official": "Malezija",
+      "common": "Malezija"
+    },
+    "hu": {
+      "official": "Malajzia",
+      "common": "Malajzia"
+    },
+    "is": {
+      "official": "Malasía",
+      "common": "Malasía"
+    },
+    "ia": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "id": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "it": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "ja": {
+      "official": "マレーシア",
+      "common": "マレーシア"
+    },
+    "kn": {
+      "official": "ಮಲೇಸಿಯಾ",
+      "common": "ಮಲೇಸಿಯಾ"
+    },
+    "kk": {
+      "official": "Малайзия",
+      "common": "Малайзия"
+    },
+    "km": {
+      "official": "ម៉ាឡេស៊ី",
+      "common": "ម៉ាឡេស៊ី"
+    },
+    "rw": {
+      "official": "Malesiya",
+      "common": "Malesiya"
+    },
+    "ko": {
+      "official": "말레이시아",
+      "common": "말레이시아"
+    },
+    "ku": {
+      "official": "Malezya",
+      "common": "Malezya"
+    },
+    "lv": {
+      "official": "Malaizija",
+      "common": "Malaizija"
+    },
+    "lt": {
+      "official": "Malaizija",
+      "common": "Malaizija"
+    },
+    "mk": {
+      "official": "Малезија",
+      "common": "Малезија"
+    },
+    "ml": {
+      "official": "മലേഷ്യ",
+      "common": "മലേഷ്യ"
+    },
+    "mi": {
+      "official": "Marēhia",
+      "common": "Marēhia"
+    },
+    "mr": {
+      "official": "मलेशिया",
+      "common": "मलेशिया"
+    },
+    "ms": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "mt": {
+      "official": "Malta",
+      "common": "Malta"
+    },
+    "mn": {
+      "official": "Малайз",
+      "common": "Малайз"
+    },
+    "ne": {
+      "official": "मलेशिया",
+      "common": "मलेशिया"
+    },
+    "nn": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "nb": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "oc": {
+      "official": "Kanu",
+      "common": "Kanu"
+    },
+    "or": {
+      "official": "ମାଲେଶିୟା",
+      "common": "ମାଲେଶିୟା"
+    },
+    "pa": {
+      "official": "ਮਲੇਸ਼ੀਆ",
+      "common": "ਮਲੇਸ਼ੀਆ"
+    },
+    "fa": {
+      "official": "مالزی",
+      "common": "مالزی"
+    },
+    "pl": {
+      "official": "Malezja",
+      "common": "Malezja"
+    },
+    "pt": {
+      "official": "Malásia",
+      "common": "Malásia"
+    },
+    "ps": {
+      "official": "مالیزیا",
+      "common": "مالیزیا"
+    },
+    "ro": {
+      "official": "Malaezia",
+      "common": "Malaezia"
+    },
+    "ru": {
+      "official": "Малайзия",
+      "common": "Малайзия"
+    },
+    "si": {
+      "official": "මලයාසියා",
+      "common": "මලයාසියා"
+    },
+    "sk": {
+      "official": "Malajzia",
+      "common": "Malajzia"
+    },
+    "sl": {
+      "official": "Malezija",
+      "common": "Malezija"
+    },
+    "so": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "es": {
+      "official": "Malasia",
+      "common": "Malasia"
+    },
+    "sr": {
+      "official": "Малезија",
+      "common": "Малезија"
+    },
+    "sw": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "sv": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "ta": {
+      "official": "மலேசியா",
+      "common": "மலேசியா"
+    },
+    "tt": {
+      "official": "Малайсиа",
+      "common": "Малайсиа"
+    },
+    "te": {
+      "official": "మలేషియా",
+      "common": "మలేషియా"
+    },
+    "tl": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "th": {
+      "official": "มาเลเซีย",
+      "common": "มาเลเซีย"
+    },
+    "ti": {
+      "official": "ማሌዢያ",
+      "common": "ማሌዢያ"
+    },
+    "tk": {
+      "official": "Malaýziýa",
+      "common": "Malaýziýa"
+    },
+    "tr": {
+      "official": "Malezya",
+      "common": "Malezya"
+    },
+    "ug": {
+      "official": "مالايشىيا",
+      "common": "مالايشىيا"
+    },
+    "uk": {
+      "official": "Малайзія",
+      "common": "Малайзія"
+    },
+    "ve": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "vi": {
+      "official": "Ma-lai-xi-a",
+      "common": "Ma-lai-xi-a"
+    },
+    "cy": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "wa": {
+      "official": "Malaizeye",
+      "common": "Malaizeye"
+    },
+    "wo": {
+      "official": "Maleesi",
+      "common": "Maleesi"
+    },
+    "xh": {
+      "official": "Malta",
+      "common": "Malta"
+    },
+    "zu": {
+      "official": "I-Malta",
+      "common": "I-Malta"
+    }
+  }
+}

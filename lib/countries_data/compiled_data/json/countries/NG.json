@@ -1,0 +1,443 @@
+{
+  "continent": "Africa",
+  "alpha2": "NG",
+  "alpha3": "NGA",
+  "country_code": "234",
+  "international_prefix": "009",
+  "ioc": "NGR",
+  "gec": "NI",
+  "name": "Nigeria",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7,
+    8
+  ],
+  "national_prefix": "0",
+  "number": "566",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "world_region": "EMEA",
+  "un_locode": "NG",
+  "nationality": "Nigerian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Nigeria",
+    "Nigéria",
+    "the Federal Republic of Nigeria",
+    "ナイジェリア"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 9.081999,
+    "latitude_dec": "9.559505462646484",
+    "longitude": 8.675277,
+    "longitude_dec": "8.077880859375",
+    "max_latitude": 13.8856449,
+    "max_longitude": 14.6779819,
+    "min_latitude": 4.269857099999999,
+    "min_longitude": 2.676932,
+    "bounds": {
+      "northeast": {
+        "lat": 13.8856449,
+        "lng": 14.6779819
+      },
+      "southwest": {
+        "lat": 4.269857099999999,
+        "lng": 2.676932
+      }
+    }
+  },
+  "currency_code": "NGN",
+  "postal_address_data": {
+    "lang": "en",
+    "upper": "CS",
+    "zipex": "930283,300001,931104",
+    "name": "NIGERIA",
+    "zip": "\\d{6}",
+    "key": "NG",
+    "fmt": "%N%n%O%n%A%n%C %Z%n%S",
+    "state_name_type": "state",
+    "languages": "en",
+    "sub_keys": "Abia~Adamawa~Akwa Ibom~Anambra~Bauchi~Bayelsa~Benue~Borno~Cross River~Delta~Ebonyi~Edo~Ekiti~Enugu~Federal Capital Territory~Gombe~Imo~Jigawa~Kaduna~Kano~Katsina~Kebbi~Kogi~Kwara~Lagos~Nasarawa~Niger~Ogun State~Ondo~Osun~Oyo~Plateau~Rivers~Sokoto~Taraba~Yobe~Zamfara",
+    "posturl": "http://www.nigeriapostcodes.com/views/",
+    "sub_isoids": "AB~AD~AK~AN~BA~BY~BE~BO~CR~DE~EB~ED~EK~EN~FC~GO~IM~JI~KD~KN~KT~KE~KO~KW~LA~NA~NI~OG~ON~OS~OY~PL~RI~SO~TA~YO~ZA",
+    "id": "data/NG"
+  },
+  "translations": {
+    "af": {
+      "official": "Nigerië",
+      "common": "Nigerië"
+    },
+    "sq": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "am": {
+      "official": "ና፤ጄሱ።",
+      "common": "ና፤ጄሱ።"
+    },
+    "ar": {
+      "official": "نيجيريا",
+      "common": "نيجيريا"
+    },
+    "hy": {
+      "official": "Նիգերիա",
+      "common": "Նիգերիա"
+    },
+    "as": {
+      "official": "নাইজেৰিয়া",
+      "common": "নাইজেৰিয়া"
+    },
+    "az": {
+      "official": "Nigeriya",
+      "common": "Nigeriya"
+    },
+    "eu": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "be": {
+      "official": "Нігерыя",
+      "common": "Нігерыя"
+    },
+    "bn": {
+      "official": "নাইজেরিয়া",
+      "common": "নাইজেরিয়া"
+    },
+    "bs": {
+      "official": "Nigerija",
+      "common": "Nigerija"
+    },
+    "br": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "bg": {
+      "official": "Нигерия",
+      "common": "Нигерия"
+    },
+    "ca": {
+      "official": "Nigèria",
+      "common": "Nigèria"
+    },
+    "zh": {
+      "official": "尼日利亚",
+      "common": "尼日利亚"
+    },
+    "cs": {
+      "official": "Nigérie",
+      "common": "Nigérie"
+    },
+    "da": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "nl": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "dz": {
+      "official": "ནའི་ཇི་རི་ཡ།",
+      "common": "ནའི་ཇི་རི་ཡ།"
+    },
+    "en": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "eo": {
+      "official": "Niĝerio",
+      "common": "Niĝerio"
+    },
+    "et": {
+      "official": "Nigeeria",
+      "common": "Nigeeria"
+    },
+    "fo": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "fi": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "fr": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "ka": {
+      "official": "ნიგერია",
+      "common": "ნიგერია"
+    },
+    "de": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "ga": {
+      "official": "An Nigéir",
+      "common": "An Nigéir"
+    },
+    "gl": {
+      "official": "Nixeria",
+      "common": "Nixeria"
+    },
+    "el": {
+      "official": "Νιγηρία",
+      "common": "Νιγηρία"
+    },
+    "gu": {
+      "official": "નાઇજેરિયા",
+      "common": "નાઇજેરિયા"
+    },
+    "he": {
+      "official": "ניגריה",
+      "common": "ניגריה"
+    },
+    "hi": {
+      "official": "नाइजीरिया",
+      "common": "नाइजीरिया"
+    },
+    "hr": {
+      "official": "Nigerija",
+      "common": "Nigerija"
+    },
+    "hu": {
+      "official": "Nigéria",
+      "common": "Nigéria"
+    },
+    "is": {
+      "official": "Nígería",
+      "common": "Nígería"
+    },
+    "ia": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "id": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "it": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "ja": {
+      "official": "ナイジェリア",
+      "common": "ナイジェリア"
+    },
+    "kn": {
+      "official": "ನೈಜೀರಿಯಾ",
+      "common": "ನೈಜೀರಿಯಾ"
+    },
+    "kk": {
+      "official": "Нигерия",
+      "common": "Нигерия"
+    },
+    "km": {
+      "official": "នីហ្សេរីយ៉ា",
+      "common": "នីហ្សេរីយ៉ា"
+    },
+    "rw": {
+      "official": "Nigeriya",
+      "common": "Nigeriya"
+    },
+    "ko": {
+      "official": "나이지리아",
+      "common": "나이지리아"
+    },
+    "ku": {
+      "official": "Nîjerya",
+      "common": "Nîjerya"
+    },
+    "lv": {
+      "official": "Nigērija",
+      "common": "Nigērija"
+    },
+    "lt": {
+      "official": "Nigerija",
+      "common": "Nigerija"
+    },
+    "mk": {
+      "official": "Нигерија",
+      "common": "Нигерија"
+    },
+    "ml": {
+      "official": "നൈജീരിയ",
+      "common": "നൈജീരിയ"
+    },
+    "mi": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "mr": {
+      "official": "नायजेरिया",
+      "common": "नायजेरिया"
+    },
+    "ms": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "mt": {
+      "official": "Serbja",
+      "common": "Serbja"
+    },
+    "mn": {
+      "official": "Нигерь",
+      "common": "Нигерь"
+    },
+    "ne": {
+      "official": "नाइजेरिया",
+      "common": "नाइजेरिया"
+    },
+    "nn": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "nb": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "oc": {
+      "official": "Nigèria",
+      "common": "Nigèria"
+    },
+    "or": {
+      "official": "ନିଈଜୀରିୟା",
+      "common": "ନିଈଜୀରିୟା"
+    },
+    "pa": {
+      "official": "ਨੀਜ਼ੀਰਆ",
+      "common": "ਨੀਜ਼ੀਰਆ"
+    },
+    "fa": {
+      "official": "نیجریه",
+      "common": "نیجریه"
+    },
+    "pl": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "pt": {
+      "official": "Nigéria",
+      "common": "Nigéria"
+    },
+    "ps": {
+      "official": "نایجیریا",
+      "common": "نایجیریا"
+    },
+    "ro": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "ru": {
+      "official": "Нигерия",
+      "common": "Нигерия"
+    },
+    "si": {
+      "official": "නයිජීරියා",
+      "common": "නයිජීරියා"
+    },
+    "sk": {
+      "official": "Nigéria",
+      "common": "Nigéria"
+    },
+    "sl": {
+      "official": "Nigerija",
+      "common": "Nigerija"
+    },
+    "so": {
+      "official": "Nayjeeriya",
+      "common": "Nayjeeriya"
+    },
+    "es": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "sr": {
+      "official": "Нигерија",
+      "common": "Нигерија"
+    },
+    "sw": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "sv": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "ta": {
+      "official": "நைஜீரியா",
+      "common": "நைஜீரியா"
+    },
+    "tt": {
+      "official": "Ниgериа",
+      "common": "Ниgериа"
+    },
+    "te": {
+      "official": "నైజీరియా",
+      "common": "నైజీరియా"
+    },
+    "tl": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "th": {
+      "official": "ไนจีเรีย",
+      "common": "ไนจีเรีย"
+    },
+    "ti": {
+      "official": "ናይጄሪያ",
+      "common": "ናይጄሪያ"
+    },
+    "tk": {
+      "official": "Nigeriýa",
+      "common": "Nigeriýa"
+    },
+    "tr": {
+      "official": "Nijerya",
+      "common": "Nijerya"
+    },
+    "ug": {
+      "official": "نىگېرىيە",
+      "common": "نىگېرىيە"
+    },
+    "uk": {
+      "official": "Нігерія",
+      "common": "Нігерія"
+    },
+    "ve": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "vi": {
+      "official": "Ni-giê-ri-a",
+      "common": "Ni-giê-ri-a"
+    },
+    "cy": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "wa": {
+      "official": "Nidjeria",
+      "common": "Nidjeria"
+    },
+    "wo": {
+      "official": "Nijeeria",
+      "common": "Nijeeria"
+    },
+    "xh": {
+      "official": "Serbia",
+      "common": "Serbia"
+    },
+    "zu": {
+      "official": "I-Serbiya",
+      "common": "I-Serbiya"
+    }
+  }
+}

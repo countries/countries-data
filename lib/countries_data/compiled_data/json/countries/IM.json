@@ -1,0 +1,441 @@
+{
+  "continent": "Europe",
+  "alpha2": "IM",
+  "alpha3": "IMN",
+  "country_code": "44",
+  "international_prefix": "",
+  "ioc": null,
+  "gec": "IM",
+  "name": "Isle of Man",
+  "national_destination_code_lengths": [
+
+  ],
+  "national_number_lengths": [
+
+  ],
+  "national_prefix": "",
+  "number": "833",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "world_region": "EMEA",
+  "un_locode": null,
+  "nationality": "Manx",
+  "postal_code": true,
+  "unofficial_names": [
+    "Isle of Man",
+    "Insel Man",
+    "Île de Man",
+    "Isla de Man",
+    "マン島"
+  ],
+  "languages_official": [
+    "en",
+    "gv"
+  ],
+  "languages_spoken": [
+    "en",
+    "gv"
+  ],
+  "geo": {
+    "latitude": 54.236107,
+    "latitude_dec": "54.22451400756836",
+    "longitude": -4.548056,
+    "longitude_dec": "-4.562133312225342",
+    "max_latitude": 54.4179033,
+    "max_longitude": -4.3088272,
+    "min_latitude": 54.0446399,
+    "min_longitude": -4.8301808,
+    "bounds": {
+      "northeast": {
+        "lat": 54.4179033,
+        "lng": -4.3088272
+      },
+      "southwest": {
+        "lat": 54.0446399,
+        "lng": -4.8301808
+      }
+    }
+  },
+  "currency_code": "IMP",
+  "postal_address_data": {
+    "key": "IM",
+    "upper": "CZ",
+    "zipex": "IM2 1AA,IM99 1PS",
+    "name": "ISLE OF MAN",
+    "zip": "IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}",
+    "require": "ACZ",
+    "id": "data/IM",
+    "posturl": "http://www.gov.im/post/postal/fr_main.asp",
+    "fmt": "%N%n%O%n%A%n%C%n%Z"
+  },
+  "translations": {
+    "af": {
+      "official": "Eiland Man",
+      "common": "Eiland Man"
+    },
+    "sq": {
+      "official": "Ishulli Man",
+      "common": "Ishulli Man"
+    },
+    "am": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "ar": {
+      "official": "آيزل أف مان",
+      "common": "آيزل أف مان"
+    },
+    "hy": {
+      "official": "Մեն Կղզի",
+      "common": "Մեն Կղզի"
+    },
+    "as": {
+      "official": "আইল অফ মেন",
+      "common": "আইল অফ মেন"
+    },
+    "az": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "eu": {
+      "official": "Man uhartea",
+      "common": "Man uhartea"
+    },
+    "be": {
+      "official": "Востраў Мэн",
+      "common": "Востраў Мэн"
+    },
+    "bn": {
+      "official": "আইল অফ ম্যান",
+      "common": "আইল অফ ম্যান"
+    },
+    "bs": {
+      "official": "Ostrvo Man",
+      "common": "Ostrvo Man"
+    },
+    "br": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "bg": {
+      "official": "Айл ъф мен",
+      "common": "Айл ъф мен"
+    },
+    "ca": {
+      "official": "Illa de Man",
+      "common": "Illa de Man"
+    },
+    "zh": {
+      "official": "曼岛",
+      "common": "曼岛"
+    },
+    "cs": {
+      "official": "Ostrov Man",
+      "common": "Ostrov Man"
+    },
+    "da": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "nl": {
+      "official": "Eiland Man",
+      "common": "Eiland Man"
+    },
+    "dz": {
+      "official": "ཨ་ཡིལ་ཨོཕ་མེན།",
+      "common": "ཨ་ཡིལ་ཨོཕ་མེན།"
+    },
+    "en": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "eo": {
+      "official": "Manksinsulo",
+      "common": "Manksinsulo"
+    },
+    "et": {
+      "official": "Mani saar",
+      "common": "Mani saar"
+    },
+    "fo": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "fi": {
+      "official": "Mansaari",
+      "common": "Mansaari"
+    },
+    "fr": {
+      "official": "Île de Man",
+      "common": "Île de Man"
+    },
+    "ka": {
+      "official": "მენის კუნძული",
+      "common": "მენის კუნძული"
+    },
+    "de": {
+      "official": "Insel Man",
+      "common": "Insel Man"
+    },
+    "ga": {
+      "official": "Oileán Mhanann",
+      "common": "Oileán Mhanann"
+    },
+    "gl": {
+      "official": "Illa de Man",
+      "common": "Illa de Man"
+    },
+    "el": {
+      "official": "Νήσος του Μαν",
+      "common": "Νήσος του Μαν"
+    },
+    "gu": {
+      "official": "આઇસ્લે ઓફ મેન",
+      "common": "આઇસ્લે ઓફ મેન"
+    },
+    "he": {
+      "official": "האי מאן",
+      "common": "האי מאן"
+    },
+    "hi": {
+      "official": "आइस्ल ऑफ मैन",
+      "common": "आइस्ल ऑफ मैन"
+    },
+    "hr": {
+      "official": "Otok Man",
+      "common": "Otok Man"
+    },
+    "hu": {
+      "official": "Man",
+      "common": "Man"
+    },
+    "is": {
+      "official": "Eyjan Mön",
+      "common": "Eyjan Mön"
+    },
+    "ia": {
+      "official": "Insula de Man",
+      "common": "Insula de Man"
+    },
+    "id": {
+      "official": "Isle Man",
+      "common": "Isle Man"
+    },
+    "it": {
+      "official": "Isola di Man",
+      "common": "Isola di Man"
+    },
+    "ja": {
+      "official": "マン島",
+      "common": "マン島"
+    },
+    "kn": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "kk": {
+      "official": "Мэн аралы",
+      "common": "Мэн аралы"
+    },
+    "km": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "rw": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "ko": {
+      "official": "맨섬",
+      "common": "맨섬"
+    },
+    "ku": {
+      "official": "Girava Man",
+      "common": "Girava Man"
+    },
+    "lv": {
+      "official": "Menas sala",
+      "common": "Menas sala"
+    },
+    "lt": {
+      "official": "Meno sala",
+      "common": "Meno sala"
+    },
+    "mk": {
+      "official": "Ман остров",
+      "common": "Ман остров"
+    },
+    "ml": {
+      "official": "ഐല്‍ ഓഫ് മാന്‍",
+      "common": "ഐല്‍ ഓഫ് മാന്‍"
+    },
+    "mi": {
+      "official": "Motu o Man",
+      "common": "Motu o Man"
+    },
+    "mr": {
+      "official": "आइल ऑफ मॅन",
+      "common": "आइल ऑफ मॅन"
+    },
+    "ms": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "mt": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "mn": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "ne": {
+      "official": "मानव द्वीप",
+      "common": "मानव द्वीप"
+    },
+    "nn": {
+      "official": "Øya Man",
+      "common": "Øya Man"
+    },
+    "nb": {
+      "official": "Man",
+      "common": "Man"
+    },
+    "oc": {
+      "official": "Illa de Man",
+      "common": "Illa de Man"
+    },
+    "or": {
+      "official": "ଇସ୍ଲେ ଅଫ ମେନ",
+      "common": "ଇସ୍ଲେ ଅଫ ମେନ"
+    },
+    "pa": {
+      "official": "ਇਸਲੇ ਆਫ ਮੈਨ",
+      "common": "ਇਸਲੇ ਆਫ ਮੈਨ"
+    },
+    "fa": {
+      "official": "جزیره من",
+      "common": "جزیره من"
+    },
+    "pl": {
+      "official": "Wyspa Man",
+      "common": "Wyspa Man"
+    },
+    "pt": {
+      "official": "Ilha de Man",
+      "common": "Ilha de Man"
+    },
+    "ps": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "ro": {
+      "official": "Insula Man",
+      "common": "Insula Man"
+    },
+    "ru": {
+      "official": "Остров Мэн",
+      "common": "Остров Мэн"
+    },
+    "si": {
+      "official": "මාන් දිවයින",
+      "common": "මාන් දිවයින"
+    },
+    "sk": {
+      "official": "Man",
+      "common": "Man"
+    },
+    "sl": {
+      "official": "Otok Man",
+      "common": "Otok Man"
+    },
+    "so": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "es": {
+      "official": "Isla de Man",
+      "common": "Isla de Man"
+    },
+    "sr": {
+      "official": "Острво Ман",
+      "common": "Острво Ман"
+    },
+    "sw": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "sv": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "ta": {
+      "official": "ஐல் ஆஃப் மேன்",
+      "common": "ஐல் ஆஃப் மேன்"
+    },
+    "tt": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "te": {
+      "official": "ఐలె ఆఫ్ మాన్",
+      "common": "ఐలె ఆఫ్ మాన్"
+    },
+    "tl": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "th": {
+      "official": "เกาะแมน",
+      "common": "เกาะแมน"
+    },
+    "ti": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "tk": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "tr": {
+      "official": "Man Adası",
+      "common": "Man Adası"
+    },
+    "ug": {
+      "official": "مەن ئارىلى",
+      "common": "مەن ئارىلى"
+    },
+    "uk": {
+      "official": "Острів Мен",
+      "common": "Острів Мен"
+    },
+    "ve": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "vi": {
+      "official": "Đảo Man",
+      "common": "Đảo Man"
+    },
+    "cy": {
+      "official": "Ynys Manaw",
+      "common": "Ynys Manaw"
+    },
+    "wa": {
+      "official": "Iye di Man",
+      "common": "Iye di Man"
+    },
+    "wo": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "xh": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "zu": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    }
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "continent": "Africa",
+  "alpha2": "SD",
+  "alpha3": "SDN",
+  "country_code": "249",
+  "international_prefix": "00",
+  "ioc": "SUD",
+  "gec": "SU",
+  "name": "Sudan",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    9
+  ],
+  "national_prefix": "0",
+  "number": "729",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "world_region": "EMEA",
+  "un_locode": "SD",
+  "nationality": "Sudanese",
+  "postal_code": true,
+  "unofficial_names": [
+    "Sudan",
+    "السودان",
+    "Soudan",
+    "Sudán",
+    "スーダン",
+    "Soedan"
+  ],
+  "languages_official": [
+    "ar",
+    "en"
+  ],
+  "languages_spoken": [
+    "ar",
+    "en"
+  ],
+  "geo": {
+    "latitude": 12.862807,
+    "latitude_dec": "16.085784912109375",
+    "longitude": 30.217636,
+    "longitude_dec": "30.087390899658203",
+    "max_latitude": 22.2249179,
+    "max_longitude": 38.58367459999999,
+    "min_latitude": 9.3472209,
+    "min_longitude": 21.814939,
+    "bounds": {
+      "northeast": {
+        "lat": 22.2249179,
+        "lng": 38.58367459999999
+      },
+      "southwest": {
+        "lat": 9.3472209,
+        "lng": 21.814939
+      }
+    }
+  },
+  "currency_code": "SDG",
+  "postal_address_data": {
+  },
+  "translations": {
+    "af": {
+      "official": "Soedan",
+      "common": "Soedan"
+    },
+    "sq": {
+      "official": "Sudani",
+      "common": "Sudani"
+    },
+    "am": {
+      "official": "ሱ፣ን",
+      "common": "ሱ፣ን"
+    },
+    "ar": {
+      "official": "السّودان",
+      "common": "السّودان"
+    },
+    "hy": {
+      "official": "Սուդան",
+      "common": "Սուդան"
+    },
+    "as": {
+      "official": "ছুদান",
+      "common": "ছুদান"
+    },
+    "az": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "eu": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "be": {
+      "official": "Судан",
+      "common": "Судан"
+    },
+    "bn": {
+      "official": "সুদান",
+      "common": "সুদান"
+    },
+    "bs": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "br": {
+      "official": "Soudan",
+      "common": "Soudan"
+    },
+    "bg": {
+      "official": "Судан",
+      "common": "Судан"
+    },
+    "ca": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "zh": {
+      "official": "苏丹",
+      "common": "苏丹"
+    },
+    "cs": {
+      "official": "Súdán",
+      "common": "Súdán"
+    },
+    "da": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "nl": {
+      "official": "Soedan",
+      "common": "Soedan"
+    },
+    "dz": {
+      "official": "སུ་དཱན།",
+      "common": "སུ་དཱན།"
+    },
+    "en": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "eo": {
+      "official": "Sudano",
+      "common": "Sudano"
+    },
+    "et": {
+      "official": "Sudaan",
+      "common": "Sudaan"
+    },
+    "fo": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "fi": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "fr": {
+      "official": "Soudan",
+      "common": "Soudan"
+    },
+    "ka": {
+      "official": "სუდანი",
+      "common": "სუდანი"
+    },
+    "de": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "ga": {
+      "official": "An tSúdáin",
+      "common": "An tSúdáin"
+    },
+    "gl": {
+      "official": "Sudán",
+      "common": "Sudán"
+    },
+    "el": {
+      "official": "Σουδάν",
+      "common": "Σουδάν"
+    },
+    "gu": {
+      "official": "સુદાન",
+      "common": "સુદાન"
+    },
+    "he": {
+      "official": "סודן",
+      "common": "סודן"
+    },
+    "hi": {
+      "official": "सूडान",
+      "common": "सूडान"
+    },
+    "hr": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "hu": {
+      "official": "Szudán",
+      "common": "Szudán"
+    },
+    "is": {
+      "official": "Súdan",
+      "common": "Súdan"
+    },
+    "ia": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "id": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "it": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "ja": {
+      "official": "スーダン",
+      "common": "スーダン"
+    },
+    "kn": {
+      "official": "ಸೂಡಾನ್",
+      "common": "ಸೂಡಾನ್"
+    },
+    "kk": {
+      "official": "Судан",
+      "common": "Судан"
+    },
+    "km": {
+      "official": "ស៊ូដង់",
+      "common": "ស៊ូដង់"
+    },
+    "rw": {
+      "official": "Sudani",
+      "common": "Sudani"
+    },
+    "ko": {
+      "official": "수단",
+      "common": "수단"
+    },
+    "ku": {
+      "official": "Sûdan",
+      "common": "Sûdan"
+    },
+    "lv": {
+      "official": "Sudāna",
+      "common": "Sudāna"
+    },
+    "lt": {
+      "official": "Sudanas",
+      "common": "Sudanas"
+    },
+    "mk": {
+      "official": "Судан",
+      "common": "Судан"
+    },
+    "ml": {
+      "official": "സുഡാന്‍",
+      "common": "സുഡാന്‍"
+    },
+    "mi": {
+      "official": "Hūtāne",
+      "common": "Hūtāne"
+    },
+    "mr": {
+      "official": "सुदान",
+      "common": "सुदान"
+    },
+    "ms": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "mt": {
+      "official": "Ħoss",
+      "common": "Ħoss"
+    },
+    "mn": {
+      "official": "Судан",
+      "common": "Судан"
+    },
+    "ne": {
+      "official": "सुडान",
+      "common": "सुडान"
+    },
+    "nn": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "nb": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "oc": {
+      "official": "Sodan",
+      "common": "Sodan"
+    },
+    "or": {
+      "official": "ସୂଡାନ",
+      "common": "ସୂଡାନ"
+    },
+    "pa": {
+      "official": "ਸੂਡਾਨ",
+      "common": "ਸੂਡਾਨ"
+    },
+    "fa": {
+      "official": "سودان",
+      "common": "سودان"
+    },
+    "pl": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "pt": {
+      "official": "Sudão",
+      "common": "Sudão"
+    },
+    "ps": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "ro": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "ru": {
+      "official": "Судан",
+      "common": "Судан"
+    },
+    "si": {
+      "official": "සුඩානය",
+      "common": "සුඩානය"
+    },
+    "sk": {
+      "official": "Sudán",
+      "common": "Sudán"
+    },
+    "sl": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "so": {
+      "official": "Sudaan",
+      "common": "Sudaan"
+    },
+    "es": {
+      "official": "Sudán",
+      "common": "Sudán"
+    },
+    "sr": {
+      "official": "Судан",
+      "common": "Судан"
+    },
+    "sw": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "sv": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "ta": {
+      "official": "சூடான்",
+      "common": "சூடான்"
+    },
+    "tt": {
+      "official": "Судан",
+      "common": "Судан"
+    },
+    "te": {
+      "official": "సుడాన్",
+      "common": "సుడాన్"
+    },
+    "tl": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "th": {
+      "official": "ซูดาน",
+      "common": "ซูดาน"
+    },
+    "ti": {
+      "official": "ሱዳን",
+      "common": "ሱዳን"
+    },
+    "tk": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "tr": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "ug": {
+      "official": "سۇدان",
+      "common": "سۇدان"
+    },
+    "uk": {
+      "official": "Судан",
+      "common": "Судан"
+    },
+    "ve": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "vi": {
+      "official": "Xu-đanh",
+      "common": "Xu-đanh"
+    },
+    "cy": {
+      "official": "Y Swdan",
+      "common": "Y Swdan"
+    },
+    "wa": {
+      "official": "Soudan",
+      "common": "Soudan"
+    },
+    "wo": {
+      "official": "Suudaan",
+      "common": "Suudaan"
+    },
+    "xh": {
+      "official": "Isandi",
+      "common": "Isandi"
+    },
+    "zu": {
+      "official": "Umsindo",
+      "common": "Umsindo"
+    }
+  }
+}

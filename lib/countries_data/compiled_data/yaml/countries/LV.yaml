@@ -1,0 +1,342 @@
+---
+continent: Europe
+alpha2: LV
+alpha3: LVA
+country_code: '371'
+international_prefix: '00'
+ioc: LAT
+gec: LG
+name: Latvia
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: '8'
+number: '428'
+region: Europe
+subregion: Northern Europe
+world_region: EMEA
+un_locode: LV
+nationality: Latvian
+eu_member: true
+eea_member: true
+vat_rates:
+  standard: 21
+  reduced:
+  - 12
+  super_reduced: 
+  parking: 
+postal_code: true
+unofficial_names:
+- Latvia
+- Lettland
+- Lettonie
+- Letonia
+- ラトビア
+- Letland
+languages_official:
+- lv
+languages_spoken:
+- lv
+geo:
+  latitude: 56.879635
+  latitude_dec: '56.86873245239258'
+  longitude: 24.603189
+  longitude_dec: '24.84024429321289'
+  max_latitude: 58.0855688
+  max_longitude: 28.2414029
+  min_latitude: 55.6747769
+  min_longitude: 20.9700939
+  bounds:
+    northeast:
+      lat: 58.0855688
+      lng: 28.2414029
+    southwest:
+      lat: 55.6747769
+      lng: 20.9700939
+currency_code: EUR
+postal_address_data:
+  key: LV
+  zipex: LV-1073,LV-1000
+  name: LATVIA
+  zip: LV-\d{4}
+  fmt: "%N%n%O%n%A%n%C, %Z"
+  posturl: http://www.pasts.lv/lv/uzzinas/nodalas/
+  id: data/LV
+translations:
+  af:
+    official: Letland
+    common: Letland
+  sq:
+    official: Letonia
+    common: Letonia
+  am:
+    official: ሒትቱ።
+    common: ሒትቱ።
+  ar:
+    official: لاتفيا
+    common: لاتفيا
+  hy:
+    official: Լատվիա
+    common: Լատվիա
+  as:
+    official: লাটভিয়া
+    common: লাটভিয়া
+  az:
+    official: Latviya
+    common: Latviya
+  eu:
+    official: Letonia
+    common: Letonia
+  be:
+    official: Латвія
+    common: Латвія
+  bn:
+    official: লাটভিয়া
+    common: লাটভিয়া
+  bs:
+    official: Latvija
+    common: Latvija
+  br:
+    official: Latvia
+    common: Latvia
+  bg:
+    official: Латвия
+    common: Латвия
+  ca:
+    official: Letònia
+    common: Letònia
+  zh:
+    official: 拉脱维亚
+    common: 拉脱维亚
+  cs:
+    official: Lotyšsko
+    common: Lotyšsko
+  da:
+    official: Letland
+    common: Letland
+  nl:
+    official: Letland
+    common: Letland
+  dz:
+    official: ལེཊི་བི་ཡ།
+    common: ལེཊི་བི་ཡ།
+  en:
+    official: Latvia
+    common: Latvia
+  eo:
+    official: Latvio
+    common: Latvio
+  et:
+    official: Läti
+    common: Läti
+  fo:
+    official: Lettland
+    common: Lettland
+  fi:
+    official: Latvia
+    common: Latvia
+  fr:
+    official: Lettonie
+    common: Lettonie
+  ka:
+    official: ლატვია
+    common: ლატვია
+  de:
+    official: Lettland
+    common: Lettland
+  ga:
+    official: An Laitvia
+    common: An Laitvia
+  gl:
+    official: Letonia
+    common: Letonia
+  el:
+    official: Λεττονία
+    common: Λεττονία
+  gu:
+    official: લેટવિયા
+    common: લેટવિયા
+  he:
+    official: לטביה
+    common: לטביה
+  hi:
+    official: लात्विया
+    common: लात्विया
+  hr:
+    official: Latvija
+    common: Latvija
+  hu:
+    official: Lettország
+    common: Lettország
+  is:
+    official: Lettland
+    common: Lettland
+  ia:
+    official: Lettonia
+    common: Lettonia
+  id:
+    official: Latvia
+    common: Latvia
+  it:
+    official: Lettonia
+    common: Lettonia
+  ja:
+    official: ラトビア
+    common: ラトビア
+  kn:
+    official: ಲಾತ್ವಿಯಾ
+    common: ಲಾತ್ವಿಯಾ
+  kk:
+    official: Латвия
+    common: Латвия
+  km:
+    official: ឡាតវីយ៉ា
+    common: ឡាតវីយ៉ា
+  rw:
+    official: Lativiya
+    common: Lativiya
+  ko:
+    official: 라트비아
+    common: 라트비아
+  ku:
+    official: Latviya
+    common: Latviya
+  lv:
+    official: Latvija
+    common: Latvija
+  lt:
+    official: Latvija
+    common: Latvija
+  mk:
+    official: Летонија
+    common: Летонија
+  ml:
+    official: ലാത്വിയ
+    common: ലാത്വിയ
+  mi:
+    official: Rāwhia
+    common: Rāwhia
+  mr:
+    official: लाटव्हिया
+    common: लाटव्हिया
+  ms:
+    official: Latvia
+    common: Latvia
+  mt:
+    official: Latvja
+    common: Latvja
+  mn:
+    official: Латви
+    common: Латви
+  ne:
+    official: लात्भिया
+    common: लात्भिया
+  nn:
+    official: Latvia
+    common: Latvia
+  nb:
+    official: Latvia
+    common: Latvia
+  oc:
+    official: Letònia
+    common: Letònia
+  or:
+    official: ଲାଟଭିୟା
+    common: ଲାଟଭିୟା
+  pa:
+    official: ਲਾਟੀਵਾਆ
+    common: ਲਾਟੀਵਾਆ
+  fa:
+    official: لتونی
+    common: لتونی
+  pl:
+    official: Łotwa
+    common: Łotwa
+  pt:
+    official: Letónia
+    common: Letónia
+  ps:
+    official: Latvia
+    common: Latvia
+  ro:
+    official: Letonia
+    common: Letonia
+  ru:
+    official: Латвия
+    common: Латвия
+  si:
+    official: ලැත්වියාව
+    common: ලැත්වියාව
+  sk:
+    official: Lotyšsko
+    common: Lotyšsko
+  sl:
+    official: Latvija
+    common: Latvija
+  so:
+    official: Laatfiya
+    common: Laatfiya
+  es:
+    official: Letonia
+    common: Letonia
+  sr:
+    official: Летонија
+    common: Летонија
+  sw:
+    official: Latvia
+    common: Latvia
+  sv:
+    official: Lettland
+    common: Lettland
+  ta:
+    official: லட்வியா
+    common: லட்வியா
+  tt:
+    official: Латвиа
+    common: Латвиа
+  te:
+    official: లాటవ్హియా
+    common: లాటవ్హియా
+  tl:
+    official: Latvia
+    common: Latvia
+  th:
+    official: ลัตเวีย
+    common: ลัตเวีย
+  ti:
+    official: ላትቪያ
+    common: ላትቪያ
+  tk:
+    official: Litwiýa
+    common: Litwiýa
+  tr:
+    official: Latviya
+    common: Latviya
+  ug:
+    official: لاتۋىيە
+    common: لاتۋىيە
+  uk:
+    official: Латвія
+    common: Латвія
+  ve:
+    official: Latvia
+    common: Latvia
+  vi:
+    official: Lát-vi-a
+    common: Lát-vi-a
+  cy:
+    official: Latfia
+    common: Latfia
+  wa:
+    official: Letoneye
+    common: Letoneye
+  wo:
+    official: Letóoni
+    common: Letóoni
+  xh:
+    official: Latvia
+    common: Latvia
+  zu:
+    official: I-Latviya
+    common: I-Latviya

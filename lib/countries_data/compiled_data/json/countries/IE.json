@@ -1,0 +1,458 @@
+{
+  "continent": "Europe",
+  "address_format": "{{recipient}}\n{{street}}\n{{city}} {{region_short}} {{postalcode}}\n{{country}}",
+  "alpha2": "IE",
+  "alpha3": "IRL",
+  "country_code": "353",
+  "international_prefix": "00",
+  "ioc": "IRL",
+  "gec": "EI",
+  "name": "Ireland",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    9
+  ],
+  "national_prefix": "0",
+  "number": "372",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "world_region": "EMEA",
+  "un_locode": "IE",
+  "nationality": "Irish",
+  "eu_member": true,
+  "eea_member": true,
+  "vat_rates": {
+    "standard": 23,
+    "reduced": [
+      9,
+      13.5
+    ],
+    "super_reduced": 4.8,
+    "parking": 13.5
+  },
+  "postal_code": false,
+  "unofficial_names": [
+    "Ireland",
+    "Irland",
+    "Irlande",
+    "Irlanda",
+    "アイルランド",
+    "Ierland"
+  ],
+  "languages_official": [
+    "en",
+    "ga"
+  ],
+  "languages_spoken": [
+    "en",
+    "ga"
+  ],
+  "geo": {
+    "latitude": 53.41291,
+    "latitude_dec": "53.1827278137207",
+    "longitude": -8.24389,
+    "longitude_dec": "-8.196102142333984",
+    "max_latitude": 55.4351344,
+    "max_longitude": -5.9947,
+    "min_latitude": 51.41993129999999,
+    "min_longitude": -10.6695799,
+    "bounds": {
+      "northeast": {
+        "lat": 55.4351344,
+        "lng": -5.9947
+      },
+      "southwest": {
+        "lat": 51.41993129999999,
+        "lng": -10.6695799
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "lang": "en",
+    "sublocality_name_type": "townland",
+    "zipex": "A65 F4E2",
+    "name": "IRELAND",
+    "zip": "[\\dA-Z]{3} ?[\\dA-Z]{4}",
+    "key": "IE",
+    "fmt": "%N%n%O%n%A%n%D%n%C%n%S %Z",
+    "state_name_type": "county",
+    "languages": "en",
+    "sub_keys": "Co. Carlow~Co. Cavan~Co. Clare~Co. Cork~Co. Donegal~Co. Dublin~Co. Galway~Co. Kerry~Co. Kildare~Co. Kilkenny~Co. Laois~Co. Leitrim~Co. Limerick~Co. Longford~Co. Louth~Co. Mayo~Co. Meath~Co. Monaghan~Co. Offaly~Co. Roscommon~Co. Sligo~Co. Tipperary~Co. Waterford~Co. Westmeath~Co. Wexford~Co. Wicklow",
+    "posturl": "https://finder.eircode.ie",
+    "sub_isoids": "CW~CN~CE~C~DL~D~G~KY~KE~KK~LS~LM~LK~LD~LH~MO~MH~MN~OY~RN~SO~TA~WD~WH~WX~WW",
+    "id": "data/IE"
+  },
+  "translations": {
+    "af": {
+      "official": "Ierland",
+      "common": "Ierland"
+    },
+    "sq": {
+      "official": "Irlanda",
+      "common": "Irlanda"
+    },
+    "am": {
+      "official": "ጐፘሴሒን፥",
+      "common": "ጐፘሴሒን፥"
+    },
+    "ar": {
+      "official": "أيرلندا",
+      "common": "أيرلندا"
+    },
+    "hy": {
+      "official": "Իռլանդիա",
+      "common": "Իռլանդիա"
+    },
+    "as": {
+      "official": "আয়াৰ্লেণ্ড",
+      "common": "আয়াৰ্লেণ্ড"
+    },
+    "az": {
+      "official": "İrlandiya",
+      "common": "İrlandiya"
+    },
+    "eu": {
+      "official": "Irlanda",
+      "common": "Irlanda"
+    },
+    "be": {
+      "official": "Ірландыя",
+      "common": "Ірландыя"
+    },
+    "bn": {
+      "official": "আয়ারল্যান্ড",
+      "common": "আয়ারল্যান্ড"
+    },
+    "bs": {
+      "official": "Irska",
+      "common": "Irska"
+    },
+    "br": {
+      "official": "Iwerzhon",
+      "common": "Iwerzhon"
+    },
+    "bg": {
+      "official": "Ирландия",
+      "common": "Ирландия"
+    },
+    "ca": {
+      "official": "Irlanda",
+      "common": "Irlanda"
+    },
+    "zh": {
+      "official": "爱尔兰",
+      "common": "爱尔兰"
+    },
+    "cs": {
+      "official": "Irsko",
+      "common": "Irsko"
+    },
+    "da": {
+      "official": "Irland",
+      "common": "Irland"
+    },
+    "nl": {
+      "official": "Ierland",
+      "common": "Ierland"
+    },
+    "dz": {
+      "official": "ཨའི་རི་ལེནཌི།",
+      "common": "ཨའི་རི་ལེནཌི།"
+    },
+    "en": {
+      "official": "Ireland",
+      "common": "Ireland"
+    },
+    "eo": {
+      "official": "Irlando",
+      "common": "Irlando"
+    },
+    "et": {
+      "official": "Iirimaa",
+      "common": "Iirimaa"
+    },
+    "fo": {
+      "official": "Írland",
+      "common": "Írland"
+    },
+    "fi": {
+      "official": "Irlanti",
+      "common": "Irlanti"
+    },
+    "fr": {
+      "official": "Irlande",
+      "common": "Irlande"
+    },
+    "ka": {
+      "official": "ირლანდია",
+      "common": "ირლანდია"
+    },
+    "de": {
+      "official": "Irland",
+      "common": "Irland"
+    },
+    "ga": {
+      "official": "Éire",
+      "common": "Éire"
+    },
+    "gl": {
+      "official": "Irlanda",
+      "common": "Irlanda"
+    },
+    "el": {
+      "official": "Ιρλανδία",
+      "common": "Ιρλανδία"
+    },
+    "gu": {
+      "official": "આયરલેન્ડ",
+      "common": "આયરલેન્ડ"
+    },
+    "he": {
+      "official": "אירלנד",
+      "common": "אירלנד"
+    },
+    "hi": {
+      "official": "आयरलैंड",
+      "common": "आयरलैंड"
+    },
+    "hr": {
+      "official": "Irska",
+      "common": "Irska"
+    },
+    "hu": {
+      "official": "Írország",
+      "common": "Írország"
+    },
+    "is": {
+      "official": "Írland",
+      "common": "Írland"
+    },
+    "ia": {
+      "official": "Irlanda",
+      "common": "Irlanda"
+    },
+    "id": {
+      "official": "Irlandia",
+      "common": "Irlandia"
+    },
+    "it": {
+      "official": "Irlanda",
+      "common": "Irlanda"
+    },
+    "ja": {
+      "official": "アイルランド",
+      "common": "アイルランド"
+    },
+    "kn": {
+      "official": "ಐರ್ಲ್ಯಂಡ್",
+      "common": "ಐರ್ಲ್ಯಂಡ್"
+    },
+    "kk": {
+      "official": "Ирландия",
+      "common": "Ирландия"
+    },
+    "km": {
+      "official": "អៀរឡង់",
+      "common": "អៀរឡង់"
+    },
+    "rw": {
+      "official": "Irilande",
+      "common": "Irilande"
+    },
+    "ko": {
+      "official": "아일랜드",
+      "common": "아일랜드"
+    },
+    "ku": {
+      "official": "Îrlanda",
+      "common": "Îrlanda"
+    },
+    "lv": {
+      "official": "Īrija",
+      "common": "Īrija"
+    },
+    "lt": {
+      "official": "Airija",
+      "common": "Airija"
+    },
+    "mk": {
+      "official": "Ирска",
+      "common": "Ирска"
+    },
+    "ml": {
+      "official": "അയര്‍ലണ്ട്",
+      "common": "അയര്‍ലണ്ട്"
+    },
+    "mi": {
+      "official": "Airangi",
+      "common": "Airangi"
+    },
+    "mr": {
+      "official": "आयर्लंड",
+      "common": "आयर्लंड"
+    },
+    "ms": {
+      "official": "Ireland",
+      "common": "Ireland"
+    },
+    "mt": {
+      "official": "Irlanda",
+      "common": "Irlanda"
+    },
+    "mn": {
+      "official": "Ирланд",
+      "common": "Ирланд"
+    },
+    "ne": {
+      "official": "आयरल्याण्ड",
+      "common": "आयरल्याण्ड"
+    },
+    "nn": {
+      "official": "Irland",
+      "common": "Irland"
+    },
+    "nb": {
+      "official": "Irland",
+      "common": "Irland"
+    },
+    "oc": {
+      "official": "Irlanda",
+      "common": "Irlanda"
+    },
+    "or": {
+      "official": "ଆୟରଲ୍ଯାଣ୍ଡ",
+      "common": "ଆୟରଲ୍ଯାଣ୍ଡ"
+    },
+    "pa": {
+      "official": "ਆਈਰਲੈਂਡ",
+      "common": "ਆਈਰਲੈਂਡ"
+    },
+    "fa": {
+      "official": "ایرلند",
+      "common": "ایرلند"
+    },
+    "pl": {
+      "official": "Irlandia",
+      "common": "Irlandia"
+    },
+    "pt": {
+      "official": "Irlanda",
+      "common": "Irlanda"
+    },
+    "ps": {
+      "official": "Ireland",
+      "common": "Ireland"
+    },
+    "ro": {
+      "official": "Irlanda",
+      "common": "Irlanda"
+    },
+    "ru": {
+      "official": "Ирландия",
+      "common": "Ирландия"
+    },
+    "si": {
+      "official": "අයර්ලන්තය",
+      "common": "අයර්ලන්තය"
+    },
+    "sk": {
+      "official": "Írsko",
+      "common": "Írsko"
+    },
+    "sl": {
+      "official": "Irska",
+      "common": "Irska"
+    },
+    "so": {
+      "official": "Ayrlaanda",
+      "common": "Ayrlaanda"
+    },
+    "es": {
+      "official": "Irlanda",
+      "common": "Irlanda"
+    },
+    "sr": {
+      "official": "Ирска",
+      "common": "Ирска"
+    },
+    "sw": {
+      "official": "Ireland",
+      "common": "Ireland"
+    },
+    "sv": {
+      "official": "Irland",
+      "common": "Irland"
+    },
+    "ta": {
+      "official": "அயர்லாந்து",
+      "common": "அயர்லாந்து"
+    },
+    "tt": {
+      "official": "İреланд, İрландиа",
+      "common": "İреланд, İрландиа"
+    },
+    "te": {
+      "official": "ఐర్లాండ్",
+      "common": "ఐర్లాండ్"
+    },
+    "tl": {
+      "official": "Ireland",
+      "common": "Ireland"
+    },
+    "th": {
+      "official": "ไอร์แลนด์",
+      "common": "ไอร์แลนด์"
+    },
+    "ti": {
+      "official": "አየርላንድ",
+      "common": "አየርላንድ"
+    },
+    "tk": {
+      "official": "Irlandiýa",
+      "common": "Irlandiýa"
+    },
+    "tr": {
+      "official": "İrlanda",
+      "common": "İrlanda"
+    },
+    "ug": {
+      "official": "ئىرېلاندىيە",
+      "common": "ئىرېلاندىيە"
+    },
+    "uk": {
+      "official": "Ірландія",
+      "common": "Ірландія"
+    },
+    "ve": {
+      "official": "Ireland",
+      "common": "Ireland"
+    },
+    "vi": {
+      "official": "Ái Nhĩ Lan",
+      "common": "Ái Nhĩ Lan"
+    },
+    "cy": {
+      "official": "Iwerddon",
+      "common": "Iwerddon"
+    },
+    "wa": {
+      "official": "Irlande",
+      "common": "Irlande"
+    },
+    "wo": {
+      "official": "Irlaand",
+      "common": "Irlaand"
+    },
+    "xh": {
+      "official": "Ireland",
+      "common": "Ireland"
+    },
+    "zu": {
+      "official": "I-Irelandi",
+      "common": "I-Irelandi"
+    }
+  }
+}

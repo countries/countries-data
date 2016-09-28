@@ -1,0 +1,335 @@
+---
+continent: North America
+alpha2: PM
+alpha3: SPM
+country_code: '508'
+international_prefix: '00'
+ioc: 
+gec: SB
+name: Saint Pierre And Miquelon
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 6
+national_prefix: '0'
+number: '666'
+region: Americas
+subregion: Northern America
+world_region: AMER
+un_locode: PM
+nationality: French
+postal_code: true
+unofficial_names:
+- Saint Pierre and Miquelon
+- Saint-Pierre und Miquelon
+- Saint-Pierre-et-Miquelon
+- San Pedro y Miquelón
+- サンピエール島・ミクロン島
+- Saint Pierre en Miquelon
+languages_official:
+- fr
+languages_spoken:
+- fr
+geo:
+  latitude: 46.8852
+  latitude_dec: '46.90594482421875'
+  longitude: -56.3159
+  longitude_dec: "-56.336585998535156"
+  max_latitude: 47.1442704
+  max_longitude: -56.1189376
+  min_latitude: 46.7491058
+  min_longitude: -56.405632
+  bounds:
+    northeast:
+      lat: 47.1442704
+      lng: -56.1189376
+    southwest:
+      lat: 46.7491058
+      lng: -56.405632
+currency_code: EUR
+postal_address_data:
+  upper: ACX
+  zipex: '97500'
+  name: ST. PIERRE AND MIQUELON
+  zip: 9[78]5\d{2}
+  require: ACZ
+  id: data/PM
+  key: PM
+  fmt: "%O%n%N%n%A%n%Z %C %X"
+translations:
+  af:
+    official: St. Pierre en Miquelon
+    common: St. Pierre en Miquelon
+  sq:
+    official: Saint Pierre dhe Miquelon
+    common: Saint Pierre dhe Miquelon
+  am:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  ar:
+    official: سانت بيير و ميكيلون
+    common: سانت بيير و ميكيلون
+  hy:
+    official: Սեն Պիեռ և Միքելոն
+    common: Սեն Պիեռ և Միքելոն
+  as:
+    official: চেন্ট পিয়েৰ আৰু মিকেলন
+    common: চেন্ট পিয়েৰ আৰু মিকেলন
+  az:
+    official: Müqəddəs Pyer və Migelion
+    common: Müqəddəs Pyer və Migelion
+  eu:
+    official: Saint Pierre eta Miquelon
+    common: Saint Pierre eta Miquelon
+  be:
+    official: Сен-П'ер і Мікелон
+    common: Сен-П'ер і Мікелон
+  bn:
+    official: সেন্ট পিয়ের ও মিকেলন
+    common: সেন্ট পিয়ের ও মিকেলন
+  bs:
+    official: Saint Pierre i Miquelon
+    common: Saint Pierre i Miquelon
+  br:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  bg:
+    official: Свети Пиер и Микелон
+    common: Свети Пиер и Микелон
+  ca:
+    official: Saint Pierre i Miquelon
+    common: Saint Pierre i Miquelon
+  zh:
+    official: 圣皮埃尔和密克隆
+    common: 圣皮埃尔和密克隆
+  cs:
+    official: Svatý Pierre a Miquelon
+    common: Svatý Pierre a Miquelon
+  da:
+    official: Sankt Pierre og Miquelon
+    common: Sankt Pierre og Miquelon
+  nl:
+    official: Saint-Pierre en Miquelon
+    common: Saint-Pierre en Miquelon
+  dz:
+    official: སེནཊི་ པཱི་རི་དང་ མིཀིའུ་ལོན།
+    common: སེནཊི་ པཱི་རི་དང་ མིཀིའུ་ལོན།
+  en:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  eo:
+    official: Sankta-Piero kaj Mikelono
+    common: Sankta-Piero kaj Mikelono
+  et:
+    official: Saint-Pierre ja Miquelon
+    common: Saint-Pierre ja Miquelon
+  fo:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  fi:
+    official: Saint-Pierre ja Miquelon
+    common: Saint-Pierre ja Miquelon
+  fr:
+    official: Saint-Pierre-et-Miquelon
+    common: Saint-Pierre-et-Miquelon
+  ka:
+    official: სენ-პიერი და მიქელონი
+    common: სენ-პიერი და მიქელონი
+  de:
+    official: St. Pierre und Miquelon
+    common: St. Pierre und Miquelon
+  ga:
+    official: St. Pierre agus Miquelon
+    common: St. Pierre agus Miquelon
+  gl:
+    official: San Pedro e Miquelon
+    common: San Pedro e Miquelon
+  el:
+    official: Άγιος Πέτρος και Μικελόν
+    common: Άγιος Πέτρος και Μικελόν
+  gu:
+    official: સેન્ટ પીએરી અને મિક્યુલોન
+    common: સેન્ટ પીએરી અને મિક્યુલોન
+  he:
+    official: סנט פייר ומיקלון
+    common: סנט פייר ומיקלון
+  hi:
+    official: सेंट पियरे एन्ड मिक़ेलन
+    common: सेंट पियरे एन्ड मिक़ेलन
+  hr:
+    official: Sveti Petar i Mikelon
+    common: Sveti Petar i Mikelon
+  hu:
+    official: Saint-Pierre és Miquelon
+    common: Saint-Pierre és Miquelon
+  is:
+    official: Sankti Pierre og Miquelon
+    common: Sankti Pierre og Miquelon
+  ia:
+    official: Saint-Pierre e Miquelon
+    common: Saint-Pierre e Miquelon
+  id:
+    official: St. Pierre and Miquelon
+    common: St. Pierre and Miquelon
+  it:
+    official: Saint-Pierre e Miquelon
+    common: Saint-Pierre e Miquelon
+  ja:
+    official: サンピエール及びミクロン
+    common: サンピエール及びミクロン
+  kn:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  kk:
+    official: Сен-Пьер және Микелон
+    common: Сен-Пьер және Микелон
+  km:
+    official: សង់ព្យែរ និង មីគុយអេឡុង
+    common: សង់ព្យែរ និង មីគុយអេឡុង
+  rw:
+    official: Mutagatifu Petero na Mikeloni
+    common: Mutagatifu Petero na Mikeloni
+  ko:
+    official: 쌩 피에르 미켈론
+    common: 쌩 피에르 미켈론
+  ku:
+    official: Saint Pierre û Miquelon
+    common: Saint Pierre û Miquelon
+  lv:
+    official: Senpjēra un Mikelona
+    common: Senpjēra un Mikelona
+  lt:
+    official: Sen Pjeras ir Mikelonas
+    common: Sen Pjeras ir Mikelonas
+  mk:
+    official: Св. Пјер и Микелон
+    common: Св. Пјер и Микелон
+  ml:
+    official: സെയിന്റ് പിയറിയും മിക്വലെനും
+    common: സെയിന്റ് പിയറിയും മിക്വലെനും
+  mi:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  mr:
+    official: सेंट पिअर आणी मिक्विलॉन
+    common: सेंट पिअर आणी मिक्विलॉन
+  ms:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  mt:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  mn:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  ne:
+    official: सेन्ट पिइर्रे र मिक्युलोन
+    common: सेन्ट पिइर्रे र मिक्युलोन
+  nn:
+    official: Saint-Pierre-et-Miquelon
+    common: Saint-Pierre-et-Miquelon
+  nb:
+    official: Saint-Pierre-et-Miquelon
+    common: Saint-Pierre-et-Miquelon
+  oc:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  or:
+    official: ସେଣ୍ଟ ପିୟେରୀ ଏବଂ ମିକ୍ବୀଲୋନ
+    common: ସେଣ୍ଟ ପିୟେରୀ ଏବଂ ମିକ୍ବୀଲୋନ
+  pa:
+    official: ਸੇਂਟ ਪਿੱਰੇ ਅਤੇ ਮੀਕੇਲੋਨ
+    common: ਸੇਂਟ ਪਿੱਰੇ ਅਤੇ ਮੀਕੇਲੋਨ
+  fa:
+    official: سنت پیر و میکلون
+    common: سنت پیر و میکلون
+  pl:
+    official: Saint Pierre i Miquelon
+    common: Saint Pierre i Miquelon
+  pt:
+    official: Saint Pierre e Miquelon
+    common: Saint Pierre e Miquelon
+  ps:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  ro:
+    official: Sfinții Pierre și Miquelon
+    common: Sfinții Pierre și Miquelon
+  ru:
+    official: Сен-Пьер и Микелон
+    common: Сен-Пьер и Микелон
+  si:
+    official: ශාන්ත පියරේ හා මිකුලෝන්
+    common: ශාන්ත පියරේ හා මිකුලෝන්
+  sk:
+    official: Saint Pierre a Miquelon
+    common: Saint Pierre a Miquelon
+  sl:
+    official: Saint Pierre in Miquelon
+    common: Saint Pierre in Miquelon
+  so:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  es:
+    official: San Pedro y Miquelon
+    common: San Pedro y Miquelon
+  sr:
+    official: Свети Пјер и Микелон
+    common: Свети Пјер и Микелон
+  sw:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  sv:
+    official: Sankt Pierre och Miquelon
+    common: Sankt Pierre och Miquelon
+  ta:
+    official: செயின்ட் பியார் மற்றும் மிக்யுலன்
+    common: செயின்ட் பியார் மற்றும் மிக்யுலன்
+  tt:
+    official: Саинт Пиерре белән Микуелон
+    common: Саинт Пиерре белән Микуелон
+  te:
+    official: సైంట్ పిర్రే మరియు మిక్విలాన్
+    common: సైంట్ పిర్రే మరియు మిక్విలాన్
+  tl:
+    official: Saint Pierre at Miquelon
+    common: Saint Pierre at Miquelon
+  th:
+    official: แซงปีแยร์และมีเกอลง
+    common: แซงปีแยร์และมีเกอลง
+  ti:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  tk:
+    official: Sen Pýer we Mikelon
+    common: Sen Pýer we Mikelon
+  tr:
+    official: Sen Piyer ve Miquelon
+    common: Sen Piyer ve Miquelon
+  ug:
+    official: ساينىت-پىئېر ئارىلى ۋە مىكېلون تاقىم ئاراللىرى
+    common: ساينىت-پىئېر ئارىلى ۋە مىكېلون تاقىم ئاراللىرى
+  uk:
+    official: Сен-П'єр і Мікелон
+    common: Сен-П'єр і Мікелон
+  ve:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  vi:
+    official: Xan Pi-e và Mi-quê-lon
+    common: Xan Pi-e và Mi-quê-lon
+  cy:
+    official: Saint Pierre a Miquelon
+    common: Saint Pierre a Miquelon
+  wa:
+    official: Sint Pierre et Miquelon
+    common: Sint Pierre et Miquelon
+  wo:
+    official: Saint Pierre ak Miquelon
+    common: Saint Pierre ak Miquelon
+  xh:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  zu:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon

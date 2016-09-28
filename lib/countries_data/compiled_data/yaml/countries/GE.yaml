@@ -1,0 +1,333 @@
+---
+continent: Asia
+alpha2: GE
+alpha3: GEO
+country_code: '995'
+international_prefix: '810'
+ioc: GEO
+gec: GG
+name: Georgia
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: 8*
+number: '268'
+region: Asia
+subregion: Western Asia
+world_region: EMEA
+un_locode: GE
+nationality: Georgian
+postal_code: true
+unofficial_names:
+- Georgia
+- Georgien
+- Géorgie
+- グルジア
+- Georgië
+languages_official:
+- ka
+languages_spoken:
+- ka
+geo:
+  latitude: 32.1656221
+  latitude_dec: '42.3207845'
+  longitude: -82.9000751
+  longitude_dec: '43.3713615'
+  max_latitude: 35.00065900000001
+  max_longitude: -80.8407866
+  min_latitude: 30.3555908
+  min_longitude: -85.605165
+  bounds:
+    northeast:
+      lat: 35.00065900000001
+      lng: -80.8407866
+    southwest:
+      lat: 30.3555908
+      lng: -85.605165
+currency_code: GEL
+postal_address_data:
+  key: GE
+  zipex: '0101'
+  name: GEORGIA
+  zip: "\\d{4}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  posturl: http://www.georgianpost.ge/index.php?page=10
+  id: data/GE
+translations:
+  af:
+    official: Georgië
+    common: Georgië
+  sq:
+    official: Gjeorgjia
+    common: Gjeorgjia
+  am:
+    official: ጆሴጂ።
+    common: ጆሴጂ።
+  ar:
+    official: جورجيا
+    common: جورجيا
+  hy:
+    official: Վրաստան
+    common: Վրաստան
+  as:
+    official: জৰ্জিয়া
+    common: জৰ্জিয়া
+  az:
+    official: Gürcüstan
+    common: Gürcüstan
+  eu:
+    official: Georgia
+    common: Georgia
+  be:
+    official: Грузія
+    common: Грузія
+  bn:
+    official: জর্জিয়া
+    common: জর্জিয়া
+  bs:
+    official: Gruzija
+    common: Gruzija
+  br:
+    official: Georgia
+    common: Georgia
+  bg:
+    official: Грузия
+    common: Грузия
+  ca:
+    official: Geòrgia
+    common: Geòrgia
+  zh:
+    official: 格鲁吉亚
+    common: 格鲁吉亚
+  cs:
+    official: Gruzie
+    common: Gruzie
+  da:
+    official: Georgien
+    common: Georgien
+  nl:
+    official: Georgië
+    common: Georgië
+  dz:
+    official: ཇིའོར་ཇི་ཡ།
+    common: ཇིའོར་ཇི་ཡ།
+  en:
+    official: Georgia
+    common: Georgia
+  eo:
+    official: Kartvelio
+    common: Kartvelio
+  et:
+    official: Gruusia
+    common: Gruusia
+  fo:
+    official: Georgia
+    common: Georgia
+  fi:
+    official: Georgia
+    common: Georgia
+  fr:
+    official: Géorgie
+    common: Géorgie
+  ka:
+    official: საქართველო
+    common: საქართველო
+  de:
+    official: Georgien
+    common: Georgien
+  ga:
+    official: An tSeoirsia
+    common: An tSeoirsia
+  gl:
+    official: Xeorxia
+    common: Xeorxia
+  el:
+    official: Γεωργία
+    common: Γεωργία
+  gu:
+    official: જર્યોજિયા
+    common: જર્યોજિયા
+  he:
+    official: גיאורגיה
+    common: גיאורגיה
+  hi:
+    official: जॉर्जिया
+    common: जॉर्जिया
+  hr:
+    official: Gruzija
+    common: Gruzija
+  hu:
+    official: Grúzia
+    common: Grúzia
+  is:
+    official: Georgía
+    common: Georgía
+  ia:
+    official: Georgia
+    common: Georgia
+  id:
+    official: Georgia
+    common: Georgia
+  it:
+    official: Georgia
+    common: Georgia
+  ja:
+    official: グルジア
+    common: グルジア
+  kn:
+    official: ಜಾರ್ಜಿಯಾ
+    common: ಜಾರ್ಜಿಯಾ
+  kk:
+    official: Грузия
+    common: Грузия
+  km:
+    official: ហ្សកហ្ស៊ី
+    common: ហ្សកហ្ស៊ី
+  rw:
+    official: Geworigiya
+    common: Geworigiya
+  ko:
+    official: 조지아
+    common: 조지아
+  ku:
+    official: Gurcistan
+    common: Gurcistan
+  lv:
+    official: Gruzija
+    common: Gruzija
+  lt:
+    official: Gruzija
+    common: Gruzija
+  mk:
+    official: Грузија
+    common: Грузија
+  ml:
+    official: ജോര്‍ജിയ
+    common: ജോര്‍ജിയ
+  mi:
+    official: Hōria
+    common: Hōria
+  mr:
+    official: जॉर्जिया
+    common: जॉर्जिया
+  ms:
+    official: Georgia
+    common: Georgia
+  mt:
+    official: Serbja
+    common: Serbja
+  mn:
+    official: Георги
+    common: Георги
+  ne:
+    official: जर्जिया
+    common: जर्जिया
+  nn:
+    official: Georgia
+    common: Georgia
+  nb:
+    official: Georgia
+    common: Georgia
+  oc:
+    official: Georgia
+    common: Georgia
+  or:
+    official: ଜାର୍ଜିୟା
+    common: ଜାର୍ଜିୟା
+  pa:
+    official: ਜਾਰਜੀਆ
+    common: ਜਾਰਜੀਆ
+  fa:
+    official: گرجستان
+    common: گرجستان
+  pl:
+    official: Gruzja
+    common: Gruzja
+  pt:
+    official: Geórgia
+    common: Geórgia
+  ps:
+    official: Georgia
+    common: Georgia
+  ro:
+    official: Georgia
+    common: Georgia
+  ru:
+    official: Грузия
+    common: Грузия
+  si:
+    official: ජෝජියාව
+    common: ජෝජියාව
+  sk:
+    official: Gruzínsko
+    common: Gruzínsko
+  sl:
+    official: Gruzija
+    common: Gruzija
+  so:
+    official: Georgia
+    common: Georgia
+  es:
+    official: Georgia
+    common: Georgia
+  sr:
+    official: Грузија
+    common: Грузија
+  sw:
+    official: Georgia
+    common: Georgia
+  sv:
+    official: Georgien
+    common: Georgien
+  ta:
+    official: ஜார்ஜியா
+    common: ஜார்ஜியா
+  tt:
+    official: Gөрҗестан
+    common: Gөрҗестан
+  te:
+    official: జార్జియా
+    common: జార్జియా
+  tl:
+    official: Georgia
+    common: Georgia
+  th:
+    official: จอร์เจีย
+    common: จอร์เจีย
+  ti:
+    official: ጆርጂያ
+    common: ጆርጂያ
+  tk:
+    official: Georgia
+    common: Georgia
+  tr:
+    official: Gürcistan
+    common: Gürcistan
+  ug:
+    official: گىرۇزىيە
+    common: گىرۇزىيە
+  uk:
+    official: Грузія
+    common: Грузія
+  ve:
+    official: Georgia
+    common: Georgia
+  vi:
+    official: Gi-oa-gi-a
+    common: Gi-oa-gi-a
+  cy:
+    official: Georgia
+    common: Georgia
+  wa:
+    official: Djeyordjeye
+    common: Djeyordjeye
+  wo:
+    official: Jeoorji
+    common: Jeoorji
+  xh:
+    official: Serbia
+    common: Serbia
+  zu:
+    official: I-Serbiya
+    common: I-Serbiya

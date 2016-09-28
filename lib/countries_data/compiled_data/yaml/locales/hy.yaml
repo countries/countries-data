@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: Աֆղանստան
+    common: Աֆղանստան
+  AX:
+    official: Ալանդյան կղզիներ
+    common: Ալանդյան կղզիներ
+  AL:
+    official: Ալբանիա
+    common: Ալբանիա
+  DZ:
+    official: Ալժիր
+    common: Ալժիր
+  AS:
+    official: Ամերիկյան Սամոա
+    common: Ամերիկյան Սամոա
+  AD:
+    official: Անդորա
+    common: Անդորա
+  AO:
+    official: Անգոլա
+    common: Անգոլա
+  AI:
+    official: Անգիլիա
+    common: Անգիլիա
+  AQ:
+    official: Անտարկտիդա
+    common: Անտարկտիդա
+  AG:
+    official: Անտիգուա-Բարբուդա
+    common: Անտիգուա-Բարբուդա
+  AR:
+    official: Արգենտինա
+    common: Արգենտինա
+  AM:
+    official: Հայաստանի Հանրապետութիւն
+    common: Հայաստանի Հանրապետութիւն
+  AW:
+    official: Արուբա
+    common: Արուբա
+  AU:
+    official: Ավստրալիա
+    common: Ավստրալիա
+  AT:
+    official: Ավստրիա
+    common: Ավստրիա
+  AZ:
+    official: Ադրբեջան
+    common: Ադրբեջան
+  BS:
+    official: Բահամներ
+    common: Բահամներ
+  BH:
+    official: Բահրեյն
+    common: Բահրեյն
+  BD:
+    official: Բանգլադեշ
+    common: Բանգլադեշ
+  BB:
+    official: Բարբադոս
+    common: Բարբադոս
+  BY:
+    official: Բելոռուս
+    common: Բելոռուս
+  BE:
+    official: Բելգիա
+    common: Բելգիա
+  BZ:
+    official: Բելիզ
+    common: Բելիզ
+  BJ:
+    official: Բենին
+    common: Բենին
+  BM:
+    official: Բերմուդյան Կղզիներ
+    common: Բերմուդյան Կղզիներ
+  BT:
+    official: Բութան
+    common: Բութան
+  BO:
+    official: Բոլիվիա, Պառլամենտական Պետություն
+    common: Բոլիվիա, Պառլամենտական Պետություն
+  BQ:
+    official: Բոնեյրե, Սինտ Էվստատիուս և Սաբա
+    common: Բոնեյրե, Սինտ Էվստատիուս և Սաբա
+  BA:
+    official: Բոսնիա-Հերցեգովինա
+    common: Բոսնիա-Հերցեգովինա
+  BW:
+    official: Բոտսվանա
+    common: Բոտսվանա
+  BV:
+    official: Բուվետ Կղզի
+    common: Բուվետ Կղզի
+  BR:
+    official: Բրազիլիա
+    common: Բրազիլիա
+  IO:
+    official: Հնդկական օվկիանոսի բրիտանական տարածքներ
+    common: Հնդկական օվկիանոսի բրիտանական տարածքներ
+  BN:
+    official: Բրունեյ
+    common: Բրունեյ
+  BG:
+    official: Բուլղարիա
+    common: Բուլղարիա
+  BF:
+    official: Բուրկինա Ֆասո
+    common: Բուրկինա Ֆասո
+  BI:
+    official: Բուրունդի
+    common: Բուրունդի
+  KH:
+    official: Կամբոջա
+    common: Կամբոջա
+  CM:
+    official: Կամերուն
+    common: Կամերուն
+  CA:
+    official: Կանադա
+    common: Կանադա
+  CV:
+    official: Կաբո-Վերդե
+    common: Կաբո-Վերդե
+  KY:
+    official: Կայմանյան Կղզիներ
+    common: Կայմանյան Կղզիներ
+  CF:
+    official: Կենտրոնական Աֆրիկյան Հանրապետություն
+    common: Կենտրոնական Աֆրիկյան Հանրապետություն
+  TD:
+    official: Չադ
+    common: Չադ
+  CL:
+    official: Չիլի
+    common: Չիլի
+  CN:
+    official: Չինաստան
+    common: Չինաստան
+  CX:
+    official: Ծննդյան Կղզի
+    common: Ծննդյան Կղզի
+  CC:
+    official: Կոկոսյան (Քիլինգ) կղզիներ
+    common: Կոկոսյան (Քիլինգ) կղզիներ
+  CO:
+    official: Կոլումբիա
+    common: Կոլումբիա
+  KM:
+    official: Կոմորոս
+    common: Կոմորոս
+  CG:
+    official: Կոնգո
+    common: Կոնգո
+  CD:
+    official: Կոնգո, -ի Դեմոկրատական Հանրապետություն
+    common: Կոնգո, -ի Դեմոկրատական Հանրապետություն
+  CK:
+    official: Կուկի Կղզիներ
+    common: Կուկի Կղզիներ
+  CR:
+    official: Կոստա-Ռիկա
+    common: Կոստա-Ռիկա
+  CI:
+    official: Կոտ դ'Իվուար
+    common: Կոտ դ'Իվուար
+  HR:
+    official: Խորվաթիա
+    common: Խորվաթիա
+  CU:
+    official: Կուբա
+    common: Կուբա
+  CW:
+    official: Կուրակաո
+    common: Կուրակաո
+  CY:
+    official: Կիպրոս
+    common: Կիպրոս
+  CZ:
+    official: Չեխիայի Հանրապետություն
+    common: Չեխիայի Հանրապետություն
+  DK:
+    official: Դանիա
+    common: Դանիա
+  DJ:
+    official: Ջիբուտի
+    common: Ջիբուտի
+  DM:
+    official: Դոմինիկա
+    common: Դոմինիկա
+  DO:
+    official: Դոմինիկյան Հանրապետություն
+    common: Դոմինիկյան Հանրապետություն
+  EC:
+    official: Էկվադոր
+    common: Էկվադոր
+  EG:
+    official: Եգիպտոս
+    common: Եգիպտոս
+  SV:
+    official: Սալվադոր
+    common: Սալվադոր
+  GQ:
+    official: Հասարակածային Գվինեա
+    common: Հասարակածային Գվինեա
+  ER:
+    official: Էրիտրեա
+    common: Էրիտրեա
+  EE:
+    official: Էստոնիա
+    common: Էստոնիա
+  ET:
+    official: Եթովպիա
+    common: Եթովպիա
+  FK:
+    official: Ֆոլկլոնդյան Կղզիներ
+    common: Ֆոլկլոնդյան Կղզիներ
+  FO:
+    official: Ֆարերյան կղզիներ
+    common: Ֆարերյան կղզիներ
+  FJ:
+    official: Ֆիջի
+    common: Ֆիջի
+  FI:
+    official: Ֆինլանդիա
+    common: Ֆինլանդիա
+  FR:
+    official: Ֆրանսիա
+    common: Ֆրանսիա
+  GF:
+    official: Ֆրանսիական Գվիանա
+    common: Ֆրանսիական Գվիանա
+  PF:
+    official: Ֆրանսիական Պոլինեզիա
+    common: Ֆրանսիական Պոլինեզիա
+  TF:
+    official: Ֆրանսիական Հարավային Տարածքներ
+    common: Ֆրանսիական Հարավային Տարածքներ
+  GA:
+    official: Գաբոն
+    common: Գաբոն
+  GM:
+    official: Գամբիա
+    common: Գամբիա
+  GE:
+    official: Վրաստան
+    common: Վրաստան
+  DE:
+    official: Գերմանիա
+    common: Գերմանիա
+  GH:
+    official: Գանա
+    common: Գանա
+  GI:
+    official: Ջիբրալթար
+    common: Ջիբրալթար
+  GR:
+    official: Հունաստան
+    common: Հունաստան
+  GL:
+    official: Գրենլանդիա
+    common: Գրենլանդիա
+  GD:
+    official: Գրենադա
+    common: Գրենադա
+  GP:
+    official: Գվադելուպա
+    common: Գվադելուպա
+  GU:
+    official: Գուամ
+    common: Գուամ
+  GT:
+    official: Գվատեմալա
+    common: Գվատեմալա
+  GG:
+    official: Գերնսի
+    common: Գերնսի
+  GN:
+    official: Գվինեա
+    common: Գվինեա
+  GW:
+    official: Գվինեա-Բիսաու
+    common: Գվինեա-Բիսաու
+  GY:
+    official: Գայանա
+    common: Գայանա
+  HT:
+    official: Հաիթի
+    common: Հաիթի
+  HM:
+    official: Հերդ և Մակդոնալդ Կղզիներ
+    common: Հերդ և Մակդոնալդ Կղզիներ
+  VA:
+    official: Սուրբ Քաղաք (Վատիկան)
+    common: Սուրբ Քաղաք (Վատիկան)
+  HN:
+    official: Հոնդուրաս
+    common: Հոնդուրաս
+  HK:
+    official: Հոնգ Կոնգ
+    common: Հոնգ Կոնգ
+  HU:
+    official: Հունգարիա
+    common: Հունգարիա
+  IS:
+    official: Իսլանդիա
+    common: Իսլանդիա
+  IN:
+    official: Հնդկաստան
+    common: Հնդկաստան
+  ID:
+    official: Ինդոնեզիա
+    common: Ինդոնեզիա
+  IR:
+    official: Իրան, -ի Իսլամական Հանրապետություն
+    common: Իրան, -ի Իսլամական Հանրապետություն
+  IQ:
+    official: Իրաք
+    common: Իրաք
+  IE:
+    official: Իռլանդիա
+    common: Իռլանդիա
+  IM:
+    official: Մեն Կղզի
+    common: Մեն Կղզի
+  IL:
+    official: Իսրայել
+    common: Իսրայել
+  IT:
+    official: Իտալիա
+    common: Իտալիա
+  JM:
+    official: Ջամայկա
+    common: Ջամայկա
+  JP:
+    official: Ճապոնիա
+    common: Ճապոնիա
+  JE:
+    official: Ջերսի
+    common: Ջերսի
+  JO:
+    official: Հորդանան
+    common: Հորդանան
+  KZ:
+    official: Ղազախստան
+    common: Ղազախստան
+  KE:
+    official: Քենիա
+    common: Քենիա
+  KI:
+    official: Կիրիբատի
+    common: Կիրիբատի
+  KP:
+    official: Կորեա, Ժողովրդադեմոկրատական Հանրապետություն
+    common: Կորեա, Ժողովրդադեմոկրատական Հանրապետություն
+  KR:
+    official: Կորեա Հանարպետություն
+    common: Կորեա Հանարպետություն
+  KW:
+    official: Քուվեյթ
+    common: Քուվեյթ
+  KG:
+    official: Կիրգիզստան
+    common: Կիրգիզստան
+  LA:
+    official: Լաոսի Ժողովրդադեմոկրատական հանրապետություն
+    common: Լաոսի Ժողովրդադեմոկրատական հանրապետություն
+  LV:
+    official: Լատվիա
+    common: Լատվիա
+  LB:
+    official: Լիբանան
+    common: Լիբանան
+  LS:
+    official: Լեսոտո
+    common: Լեսոտո
+  LR:
+    official: Լիբերիա
+    common: Լիբերիա
+  LY:
+    official: Լիբիա
+    common: Լիբիա
+  LI:
+    official: Լիխտենշտեյն
+    common: Լիխտենշտեյն
+  LT:
+    official: Լիտվա
+    common: Լիտվա
+  LU:
+    official: Լյուքսեմբուրգ
+    common: Լյուքսեմբուրգ
+  MO:
+    official: Աոմին
+    common: Աոմին
+  MK:
+    official: Մակեդոնիա, Հանրապետություն
+    common: Մակեդոնիա, Հանրապետություն
+  MG:
+    official: Մադագասկար
+    common: Մադագասկար
+  MW:
+    official: Մալավի
+    common: Մալավի
+  MY:
+    official: Մալայզիա
+    common: Մալայզիա
+  MV:
+    official: Մալդիվներ
+    common: Մալդիվներ
+  ML:
+    official: Մալի
+    common: Մալի
+  MT:
+    official: Մալթա
+    common: Մալթա
+  MH:
+    official: Մարշալյան կղզիներ
+    common: Մարշալյան կղզիներ
+  MQ:
+    official: Մարտինիկա
+    common: Մարտինիկա
+  MR:
+    official: Մավրիտանիա
+    common: Մավրիտանիա
+  MU:
+    official: Մավրիտոս
+    common: Մավրիտոս
+  YT:
+    official: Մայոտ
+    common: Մայոտ
+  MX:
+    official: Մեքսիկա
+    common: Մեքսիկա
+  FM:
+    official: Միկրոնեզիայի Ֆեդերային Պետություն
+    common: Միկրոնեզիայի Ֆեդերային Պետություն
+  MD:
+    official: Մոլդովա, Հանրապետություն
+    common: Մոլդովա, Հանրապետություն
+  MC:
+    official: Մոնակո
+    common: Մոնակո
+  MN:
+    official: Մոնղոլիա
+    common: Մոնղոլիա
+  ME:
+    official: Մոնտենեգրո
+    common: Մոնտենեգրո
+  MS:
+    official: Մոնտսերատ
+    common: Մոնտսերատ
+  MA:
+    official: Մարոկո
+    common: Մարոկո
+  MZ:
+    official: Մոզամբիկ
+    common: Մոզամբիկ
+  MM:
+    official: Մյանմա
+    common: Մյանմա
+  NA:
+    official: Նամիբիա
+    common: Նամիբիա
+  NR:
+    official: Նաուրու
+    common: Նաուրու
+  NP:
+    official: Նեպալ
+    common: Նեպալ
+  NL:
+    official: Նիդերլանդեր
+    common: Նիդերլանդեր
+  NC:
+    official: Նոր Կալեդոնիա
+    common: Նոր Կալեդոնիա
+  NZ:
+    official: Նոր Զելանդիա
+    common: Նոր Զելանդիա
+  NI:
+    official: Նիկարագուա
+    common: Նիկարագուա
+  NE:
+    official: Նիգեր
+    common: Նիգեր
+  NG:
+    official: Նիգերիա
+    common: Նիգերիա
+  NU:
+    official: Նիուե
+    common: Նիուե
+  NF:
+    official: Նոր­ֆոլկ Կղզի
+    common: Նոր­ֆոլկ Կղզի
+  MP:
+    official: Հյուսիսային Մարիանայի կղզիներ
+    common: Հյուսիսային Մարիանայի կղզիներ
+  'NO':
+    official: Նորվեգիա
+    common: Նորվեգիա
+  OM:
+    official: Օման
+    common: Օման
+  PK:
+    official: Պակիստան
+    common: Պակիստան
+  PW:
+    official: Պալաու
+    common: Պալաու
+  PS:
+    official: Պաղեստին, Պետություն
+    common: Պաղեստին, Պետություն
+  PA:
+    official: Պանամա
+    common: Պանամա
+  PG:
+    official: Պապուա Նոր Գվինեա
+    common: Պապուա Նոր Գվինեա
+  PY:
+    official: Պարագվայ
+    common: Պարագվայ
+  PE:
+    official: Պերու
+    common: Պերու
+  PH:
+    official: Ֆիլիպիններ
+    common: Ֆիլիպիններ
+  PN:
+    official: Պիտքերնյան կղզիներ
+    common: Պիտքերնյան կղզիներ
+  PL:
+    official: Լեհաստան
+    common: Լեհաստան
+  PT:
+    official: Պորտուգալիա
+    common: Պորտուգալիա
+  PR:
+    official: Պուերտո Ռիկո
+    common: Պուերտո Ռիկո
+  QA:
+    official: Կատար
+    common: Կատար
+  RE:
+    official: Ռեյունյոն
+    common: Ռեյունյոն
+  RO:
+    official: Ռումինիա
+    common: Ռումինիա
+  RU:
+    official: Ռուսաստանի Դաշնություն
+    common: Ռուսաստանի Դաշնություն
+  RW:
+    official: Ռուանդա
+    common: Ռուանդա
+  BL:
+    official: Սուրբ Բարդուղիմեոսի կղզի
+    common: Սուրբ Բարդուղիմեոսի կղզի
+  SH:
+    official: Սուրբ Հեղինեի Կղզի, Համբարձման և Տրիստան դա Կունյա
+    common: Սուրբ Հեղինեի Կղզի, Համբարձման և Տրիստան դա Կունյա
+  KN:
+    official: Սենտ Կիտս-Նեվիս
+    common: Սենտ Կիտս-Նեվիս
+  LC:
+    official: Սանտա Լուչիա
+    common: Սանտա Լուչիա
+  MF:
+    official: Սուրբ Մարտին (Ֆրանսիական Մաս)
+    common: Սուրբ Մարտին (Ֆրանսիական Մաս)
+  PM:
+    official: Սեն Պիեռ և Միքելոն
+    common: Սեն Պիեռ և Միքելոն
+  VC:
+    official: Սենտ Վիսենտ-Գրենադիններ
+    common: Սենտ Վիսենտ-Գրենադիններ
+  WS:
+    official: Սամոա
+    common: Սամոա
+  SM:
+    official: Սան Մարինո
+    common: Սան Մարինո
+  ST:
+    official: Սան-Թոմե-Փրինսիպի
+    common: Սան-Թոմե-Փրինսիպի
+  SA:
+    official: Սաուդիան Արաբիա
+    common: Սաուդիան Արաբիա
+  SN:
+    official: Սենեգալ
+    common: Սենեգալ
+  RS:
+    official: Սերբիա
+    common: Սերբիա
+  SC:
+    official: Սեյշելներ
+    common: Սեյշելներ
+  SL:
+    official: Սյերա-Լեոնե
+    common: Սյերա-Լեոնե
+  SG:
+    official: Սինգապուր
+    common: Սինգապուր
+  SX:
+    official: Սինթ Մարտեն (Հոլանդական մաս)
+    common: Սինթ Մարտեն (Հոլանդական մաս)
+  SK:
+    official: Սլովակիա
+    common: Սլովակիա
+  SI:
+    official: Սլովենիա
+    common: Սլովենիա
+  SB:
+    official: Սոլոմոնյան կղզիներ
+    common: Սոլոմոնյան կղզիներ
+  SO:
+    official: Սոմալի
+    common: Սոմալի
+  ZA:
+    official: Հարավային Աֆրիկա
+    common: Հարավային Աֆրիկա
+  GS:
+    official: Հարավային Ջորջիա և Հարավային Սանդվիչյան կղզիներ
+    common: Հարավային Ջորջիա և Հարավային Սանդվիչյան կղզիներ
+  ES:
+    official: Իսպանիա
+    common: Իսպանիա
+  LK:
+    official: Շրի Լանկա
+    common: Շրի Լանկա
+  SD:
+    official: Սուդան
+    common: Սուդան
+  SR:
+    official: Սուրինամ
+    common: Սուրինամ
+  SS:
+    official: Հարավային Սուդան
+    common: Հարավային Սուդան
+  SJ:
+    official: Սվալբարդ և Յան Մայեն
+    common: Սվալբարդ և Յան Մայեն
+  SZ:
+    official: Սվազիլենդ
+    common: Սվազիլենդ
+  SE:
+    official: Շվեդիա
+    common: Շվեդիա
+  CH:
+    official: Շվեյցարիա
+    common: Շվեյցարիա
+  SY:
+    official: Սիրիայի Արաբական Հանրապետություն
+    common: Սիրիայի Արաբական Հանրապետություն
+  TW:
+    official: Թայվան
+    common: Թայվան
+  TJ:
+    official: Տաճիկստան
+    common: Տաճիկստան
+  TZ:
+    official: Տանզանիա, Միացյալ Հանրապետություն
+    common: Տանզանիա, Միացյալ Հանրապետություն
+  TH:
+    official: Թաիլանդ
+    common: Թաիլանդ
+  TL:
+    official: Թիմոր - Լեստե
+    common: Թիմոր - Լեստե
+  TG:
+    official: Տոգո
+    common: Տոգո
+  TK:
+    official: Տոկելաու
+    common: Տոկելաու
+  TO:
+    official: Տոնգա
+    common: Տոնգա
+  TT:
+    official: Տրինիդադ-Տոբագո
+    common: Տրինիդադ-Տոբագո
+  TN:
+    official: Թունիս
+    common: Թունիս
+  TR:
+    official: Թուրքիա
+    common: Թուրքիա
+  TM:
+    official: Թուրքմենստան
+    common: Թուրքմենստան
+  TC:
+    official: Թյորքս և Կայկոս կղզիներ
+    common: Թյորքս և Կայկոս կղզիներ
+  TV:
+    official: Տուվալու
+    common: Տուվալու
+  UG:
+    official: Ուգանդա
+    common: Ուգանդա
+  UA:
+    official: Ուկրաինա
+    common: Ուկրաինա
+  AE:
+    official: Միացյալ Արաբական Էմիրաթներ
+    common: Միացյալ Արաբական Էմիրաթներ
+  GB:
+    official: Մեծ Բրիտանիա
+    common: Մեծ Բրիտանիա
+  US:
+    official: Ամէրիկայի Միացյալ Նահանգնէր
+    common: Ամէրիկայի Միացյալ Նահանգնէր
+  UM:
+    official: Միացյալ Նահանգների Հեռավոր Փոքր Կղզիներ
+    common: Միացյալ Նահանգների Հեռավոր Փոքր Կղզիներ
+  UY:
+    official: Ուրուգվայ
+    common: Ուրուգվայ
+  UZ:
+    official: Ուզբեկստան
+    common: Ուզբեկստան
+  VU:
+    official: Վանուատու
+    common: Վանուատու
+  VE:
+    official: Վենեսուելա, Բոլիվարական Հանրապետություն
+    common: Վենեսուելա, Բոլիվարական Հանրապետություն
+  VN:
+    official: Վիետնամ
+    common: Վիետնամ
+  VG:
+    official: Վիրջինյան կղզիներ, Բրիտանական
+    common: Վիրջինյան կղզիներ, Բրիտանական
+  VI:
+    official: Վիրջինյան կղզիներ, ՄՆ
+    common: Վիրջինյան կղզիներ, ՄՆ
+  WF:
+    official: Վոլիս և Ֆուտունա
+    common: Վոլիս և Ֆուտունա
+  EH:
+    official: Արեվմտյան Սահարա
+    common: Արեվմտյան Սահարա
+  YE:
+    official: Եմեն
+    common: Եմեն
+  ZM:
+    official: Զամբիա
+    common: Զամբիա
+  ZW:
+    official: Զիմբաբվե
+    common: Զիմբաբվե

@@ -1,0 +1,333 @@
+---
+continent: Africa
+alpha2: MG
+alpha3: MDG
+country_code: '261'
+international_prefix: '00'
+ioc: MAD
+gec: MA
+name: Madagascar
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: None
+number: '450'
+region: Africa
+subregion: Eastern Africa
+world_region: EMEA
+un_locode: MG
+nationality: Malagasy
+postal_code: true
+unofficial_names:
+- Madagascar
+- Madagaskar
+- the Republic of Madagascar
+- マダガスカル
+languages_official:
+- fr
+- mg
+languages_spoken:
+- fr
+- mg
+geo:
+  latitude: -18.766947
+  latitude_dec: "-19.27239418029785"
+  longitude: 46.869107
+  longitude_dec: '46.69843292236328'
+  max_latitude: -11.951964
+  max_longitude: 50.48377989999999
+  min_latitude: -25.6065157
+  min_longitude: 43.1851395
+  bounds:
+    northeast:
+      lat: -11.951964
+      lng: 50.48377989999999
+    southwest:
+      lat: -25.6065157
+      lng: 43.1851395
+currency_code: MGA
+postal_address_data:
+  zipex: '501,101'
+  name: MADAGASCAR
+  zip: "\\d{3}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  key: MG
+  id: data/MG
+translations:
+  af:
+    official: Madagaskar
+    common: Madagaskar
+  sq:
+    official: Madagaskar
+    common: Madagaskar
+  am:
+    official: Madagascar
+    common: Madagascar
+  ar:
+    official: مدغشقر
+    common: مدغشقر
+  hy:
+    official: Մադագասկար
+    common: Մադագասկար
+  as:
+    official: মাডাগাস্কাৰ
+    common: মাডাগাস্কাৰ
+  az:
+    official: Madaqaskar
+    common: Madaqaskar
+  eu:
+    official: Madagaskar
+    common: Madagaskar
+  be:
+    official: Мадагаскар
+    common: Мадагаскар
+  bn:
+    official: মাদাগাস্কার
+    common: মাদাগাস্কার
+  bs:
+    official: Madagaskar
+    common: Madagaskar
+  br:
+    official: Madagascar
+    common: Madagascar
+  bg:
+    official: Мадагаскар
+    common: Мадагаскар
+  ca:
+    official: Madagascar
+    common: Madagascar
+  zh:
+    official: 马达加斯加
+    common: 马达加斯加
+  cs:
+    official: Madagaskar
+    common: Madagaskar
+  da:
+    official: Madagaskar
+    common: Madagaskar
+  nl:
+    official: Madagaskar
+    common: Madagaskar
+  dz:
+    official: མ་ད་གཱསི་ཀར།
+    common: མ་ད་གཱསི་ཀར།
+  en:
+    official: Madagascar
+    common: Madagascar
+  eo:
+    official: Madagaskaro
+    common: Madagaskaro
+  et:
+    official: Madagaskar
+    common: Madagaskar
+  fo:
+    official: Madagaskar
+    common: Madagaskar
+  fi:
+    official: Madagaskar
+    common: Madagaskar
+  fr:
+    official: Madagascar
+    common: Madagascar
+  ka:
+    official: მადაგასკარი
+    common: მადაგასკარი
+  de:
+    official: Madagaskar
+    common: Madagaskar
+  ga:
+    official: Madagascar
+    common: Madagascar
+  gl:
+    official: Madagascar
+    common: Madagascar
+  el:
+    official: Μαδαγασκάρη
+    common: Μαδαγασκάρη
+  gu:
+    official: માડાગાસ્કર
+    common: માડાગાસ્કર
+  he:
+    official: מדגסקר
+    common: מדגסקר
+  hi:
+    official: मेडागास्कर
+    common: मेडागास्कर
+  hr:
+    official: Madagaskar
+    common: Madagaskar
+  hu:
+    official: Madagaszkár
+    common: Madagaszkár
+  is:
+    official: Madagaskar
+    common: Madagaskar
+  ia:
+    official: Madagascar
+    common: Madagascar
+  id:
+    official: Madagaskar
+    common: Madagaskar
+  it:
+    official: Madagascar
+    common: Madagascar
+  ja:
+    official: マダガスカル
+    common: マダガスカル
+  kn:
+    official: ಮಡಗಾಸ್ಕರ್
+    common: ಮಡಗಾಸ್ಕರ್
+  kk:
+    official: Мадагаскар
+    common: Мадагаскар
+  km:
+    official: ម៉ាដាហ្គាស្ការ
+    common: ម៉ាដាហ្គាស្ការ
+  rw:
+    official: Madagasikari
+    common: Madagasikari
+  ko:
+    official: 마다가스카르
+    common: 마다가스카르
+  ku:
+    official: Madagaskar
+    common: Madagaskar
+  lv:
+    official: Madagaskara
+    common: Madagaskara
+  lt:
+    official: Madagaskaras
+    common: Madagaskaras
+  mk:
+    official: Мадагаскар
+    common: Мадагаскар
+  ml:
+    official: മഡഗാസ്കര്‍
+    common: മഡഗാസ്കര്‍
+  mi:
+    official: Marakāhia
+    common: Marakāhia
+  mr:
+    official: मादागास्कर
+    common: मादागास्कर
+  ms:
+    official: Madagaskar
+    common: Madagaskar
+  mt:
+    official: Madagaskar
+    common: Madagaskar
+  mn:
+    official: Мадагаскар
+    common: Мадагаскар
+  ne:
+    official: मदगास्कार
+    common: मदगास्कार
+  nn:
+    official: Madagaskar
+    common: Madagaskar
+  nb:
+    official: Madagaskar
+    common: Madagaskar
+  oc:
+    official: Madagascar
+    common: Madagascar
+  or:
+    official: ମାଡାଗାସ୍କାର
+    common: ମାଡାଗାସ୍କାର
+  pa:
+    official: ਮੈਡਾਗਾਸਕਰ
+    common: ਮੈਡਾਗਾਸਕਰ
+  fa:
+    official: ماداگاسکار
+    common: ماداگاسکار
+  pl:
+    official: Madagaskar
+    common: Madagaskar
+  pt:
+    official: Madagáscar
+    common: Madagáscar
+  ps:
+    official: Madagascar
+    common: Madagascar
+  ro:
+    official: Madagascar
+    common: Madagascar
+  ru:
+    official: Мадагаскар
+    common: Мадагаскар
+  si:
+    official: මැඩගස්කරය
+    common: මැඩගස්කරය
+  sk:
+    official: Madagaskar
+    common: Madagaskar
+  sl:
+    official: Madagaskar
+    common: Madagaskar
+  so:
+    official: Madagascar
+    common: Madagascar
+  es:
+    official: Madagascar
+    common: Madagascar
+  sr:
+    official: Мадагаскар
+    common: Мадагаскар
+  sw:
+    official: Madagascar
+    common: Madagascar
+  sv:
+    official: Madagaskar
+    common: Madagaskar
+  ta:
+    official: மடகாஸ்கர்
+    common: மடகாஸ்கர்
+  tt:
+    official: Мадаgаскар
+    common: Мадаgаскар
+  te:
+    official: మడగాస్కర్
+    common: మడగాస్కర్
+  tl:
+    official: Madagascar
+    common: Madagascar
+  th:
+    official: มาดากัสการ์
+    common: มาดากัสการ์
+  ti:
+    official: Madagascar
+    common: Madagascar
+  tk:
+    official: Madagaskar
+    common: Madagaskar
+  tr:
+    official: Madagaskar
+    common: Madagaskar
+  ug:
+    official: ماداغاسقار
+    common: ماداغاسقار
+  uk:
+    official: Мадагаскар
+    common: Мадагаскар
+  ve:
+    official: Madagascar
+    common: Madagascar
+  vi:
+    official: Ma-đa-ga-xợ-ca
+    common: Ma-đa-ga-xợ-ca
+  cy:
+    official: Madagascar
+    common: Madagascar
+  wa:
+    official: Madagascar
+    common: Madagascar
+  wo:
+    official: Madagaskar
+    common: Madagaskar
+  xh:
+    official: Madagascar
+    common: Madagascar
+  zu:
+    official: Madagascar
+    common: Madagascar

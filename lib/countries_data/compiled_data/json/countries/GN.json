@@ -1,0 +1,437 @@
+{
+  "continent": "Africa",
+  "alpha2": "GN",
+  "alpha3": "GIN",
+  "country_code": "224",
+  "international_prefix": "00",
+  "ioc": "GUI",
+  "gec": "GV",
+  "name": "Guinea",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "None",
+  "number": "324",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "world_region": "EMEA",
+  "un_locode": "GN",
+  "nationality": "Guinean",
+  "postal_code": false,
+  "unofficial_names": [
+    "Guinea",
+    "Guinée",
+    "ギニア",
+    "Guinee"
+  ],
+  "languages_official": [
+    "fr",
+    "ff"
+  ],
+  "languages_spoken": [
+    "fr",
+    "ff"
+  ],
+  "geo": {
+    "latitude": 9.945587,
+    "latitude_dec": "10.429302215576172",
+    "longitude": -9.696645,
+    "longitude_dec": "-10.98954963684082",
+    "max_latitude": 12.6746159,
+    "max_longitude": -7.637853,
+    "min_latitude": 7.190909,
+    "min_longitude": -15.0782061,
+    "bounds": {
+      "northeast": {
+        "lat": 12.6746159,
+        "lng": -7.637853
+      },
+      "southwest": {
+        "lat": 7.190909,
+        "lng": -15.0782061
+      }
+    }
+  },
+  "currency_code": "GNF",
+  "postal_address_data": {
+    "zipex": "001,200,100",
+    "name": "GUINEA",
+    "zip": "\\d{3}",
+    "fmt": "%N%n%O%n%Z %A %C",
+    "key": "GN",
+    "id": "data/GN"
+  },
+  "translations": {
+    "af": {
+      "official": "Guinee",
+      "common": "Guinee"
+    },
+    "sq": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "am": {
+      "official": "጑ኒ",
+      "common": "጑ኒ"
+    },
+    "ar": {
+      "official": "غينيا",
+      "common": "غينيا"
+    },
+    "hy": {
+      "official": "Գվինեա",
+      "common": "Գվինեա"
+    },
+    "as": {
+      "official": "গিনি",
+      "common": "গিনি"
+    },
+    "az": {
+      "official": "Qvineya",
+      "common": "Qvineya"
+    },
+    "eu": {
+      "official": "Ginea",
+      "common": "Ginea"
+    },
+    "be": {
+      "official": "Гвінея",
+      "common": "Гвінея"
+    },
+    "bn": {
+      "official": "গিনি",
+      "common": "গিনি"
+    },
+    "bs": {
+      "official": "Gvineja",
+      "common": "Gvineja"
+    },
+    "br": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "bg": {
+      "official": "Гвинея",
+      "common": "Гвинея"
+    },
+    "ca": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "zh": {
+      "official": "几内亚",
+      "common": "几内亚"
+    },
+    "cs": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "da": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "nl": {
+      "official": "Guinee",
+      "common": "Guinee"
+    },
+    "dz": {
+      "official": "གི་ནི།",
+      "common": "གི་ནི།"
+    },
+    "en": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "eo": {
+      "official": "Gvineo",
+      "common": "Gvineo"
+    },
+    "et": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "fo": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "fi": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "fr": {
+      "official": "Guinée",
+      "common": "Guinée"
+    },
+    "ka": {
+      "official": "გვინეა",
+      "common": "გვინეა"
+    },
+    "de": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "ga": {
+      "official": "An Ghuine",
+      "common": "An Ghuine"
+    },
+    "gl": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "el": {
+      "official": "Γουϊνέα",
+      "common": "Γουϊνέα"
+    },
+    "gu": {
+      "official": "ગિએના",
+      "common": "ગિએના"
+    },
+    "he": {
+      "official": "גינאה",
+      "common": "גינאה"
+    },
+    "hi": {
+      "official": "गिनी",
+      "common": "गिनी"
+    },
+    "hr": {
+      "official": "Gvineja",
+      "common": "Gvineja"
+    },
+    "hu": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "is": {
+      "official": "Gínea",
+      "common": "Gínea"
+    },
+    "ia": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "id": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "it": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "ja": {
+      "official": "ギニア",
+      "common": "ギニア"
+    },
+    "kn": {
+      "official": "ಗಿನೀ",
+      "common": "ಗಿನೀ"
+    },
+    "kk": {
+      "official": "Гвинея",
+      "common": "Гвинея"
+    },
+    "km": {
+      "official": "ហ្គីណេ",
+      "common": "ហ្គីណេ"
+    },
+    "rw": {
+      "official": "Gineya",
+      "common": "Gineya"
+    },
+    "ko": {
+      "official": "기니",
+      "common": "기니"
+    },
+    "ku": {
+      "official": "Gîne",
+      "common": "Gîne"
+    },
+    "lv": {
+      "official": "Gvineja",
+      "common": "Gvineja"
+    },
+    "lt": {
+      "official": "Gvinėja",
+      "common": "Gvinėja"
+    },
+    "mk": {
+      "official": "Гвинеја",
+      "common": "Гвинеја"
+    },
+    "ml": {
+      "official": "ഗിനിയ",
+      "common": "ഗിനിയ"
+    },
+    "mi": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "mr": {
+      "official": "गिनी",
+      "common": "गिनी"
+    },
+    "ms": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "mt": {
+      "official": "Gineja",
+      "common": "Gineja"
+    },
+    "mn": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "ne": {
+      "official": "जिनिया",
+      "common": "जिनिया"
+    },
+    "nn": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "nb": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "oc": {
+      "official": "Guinèa",
+      "common": "Guinèa"
+    },
+    "or": {
+      "official": "ଗିନୀ",
+      "common": "ଗିନୀ"
+    },
+    "pa": {
+      "official": "ਗੂਈਨੀਆ",
+      "common": "ਗੂਈਨੀਆ"
+    },
+    "fa": {
+      "official": "گینه",
+      "common": "گینه"
+    },
+    "pl": {
+      "official": "Gwinea",
+      "common": "Gwinea"
+    },
+    "pt": {
+      "official": "Guiné",
+      "common": "Guiné"
+    },
+    "ps": {
+      "official": "ګیانا",
+      "common": "ګیانا"
+    },
+    "ro": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "ru": {
+      "official": "Гвинея",
+      "common": "Гвинея"
+    },
+    "si": {
+      "official": "ගිනියාව",
+      "common": "ගිනියාව"
+    },
+    "sk": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "sl": {
+      "official": "Gvineja",
+      "common": "Gvineja"
+    },
+    "so": {
+      "official": "Gini",
+      "common": "Gini"
+    },
+    "es": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "sr": {
+      "official": "Гвинеја",
+      "common": "Гвинеја"
+    },
+    "sw": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "sv": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "ta": {
+      "official": "கினி",
+      "common": "கினி"
+    },
+    "tt": {
+      "official": "Gуинеа",
+      "common": "Gуинеа"
+    },
+    "te": {
+      "official": "గినీ",
+      "common": "గినీ"
+    },
+    "tl": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "th": {
+      "official": "กินี",
+      "common": "กินี"
+    },
+    "ti": {
+      "official": "ጊኒ",
+      "common": "ጊኒ"
+    },
+    "tk": {
+      "official": "Gwineýa",
+      "common": "Gwineýa"
+    },
+    "tr": {
+      "official": "Gine",
+      "common": "Gine"
+    },
+    "ug": {
+      "official": "گىۋىنېيە",
+      "common": "گىۋىنېيە"
+    },
+    "uk": {
+      "official": "Гвінея",
+      "common": "Гвінея"
+    },
+    "ve": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "vi": {
+      "official": "Ghi-nê",
+      "common": "Ghi-nê"
+    },
+    "cy": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "wa": {
+      "official": "Guinêye",
+      "common": "Guinêye"
+    },
+    "wo": {
+      "official": "Ginne",
+      "common": "Ginne"
+    },
+    "xh": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "zu": {
+      "official": "Guinea",
+      "common": "Guinea"
+    }
+  }
+}

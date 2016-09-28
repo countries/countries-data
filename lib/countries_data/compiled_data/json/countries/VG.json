@@ -1,0 +1,429 @@
+{
+  "continent": "North America",
+  "alpha2": "VG",
+  "alpha3": "VGB",
+  "country_code": "1",
+  "international_prefix": "011",
+  "ioc": "IVB",
+  "gec": "VI",
+  "name": "Virgin Islands, British",
+  "national_destination_code_lengths": [
+    3
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "1",
+  "number": "092",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "AMER",
+  "un_locode": "VG",
+  "nationality": "Virgin Islander",
+  "postal_code": true,
+  "unofficial_names": [
+    "British Virgin Islands",
+    "Britische Jungferninseln",
+    "Îles Vierges britanniques",
+    "Islas Vírgenes del Reino Unido",
+    "イギリス領ヴァージン諸島",
+    "Britse Maagdeneilanden",
+    "Virgin Islands (British)"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 18.420695,
+    "latitude_dec": "18.443071365356445",
+    "longitude": -64.639968,
+    "longitude_dec": "-64.57130432128906",
+    "max_latitude": 18.7495909,
+    "max_longitude": -64.2703595,
+    "min_latitude": 18.3062889,
+    "min_longitude": -64.8504602
+  },
+  "currency_code": "USD",
+  "postal_address_data": {
+    "zipex": "VG1110,VG1150,VG1160",
+    "name": "VIRGIN ISLANDS (BRITISH)",
+    "zip": "VG\\d{4}",
+    "require": "A",
+    "fmt": "%N%n%O%n%A%n%C%n%Z",
+    "key": "VG",
+    "id": "data/VG"
+  },
+  "translations": {
+    "af": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "sq": {
+      "official": "Ishujt Virgin, Britanikë",
+      "common": "Ishujt Virgin, Britanikë"
+    },
+    "am": {
+      "official": "ፘጕንጔሑፔ ፥ንጔሔ ፠ሴቶኄ",
+      "common": "ፘጕንጔሑፔ ፥ንጔሔ ፠ሴቶኄ"
+    },
+    "ar": {
+      "official": "فيرجن، جزر فيرجن البريطانيّة",
+      "common": "فيرجن، جزر فيرجن البريطانيّة"
+    },
+    "hy": {
+      "official": "Վիրջինյան կղզիներ, Բրիտանական",
+      "common": "Վիրջինյան կղզիներ, Բրիտանական"
+    },
+    "as": {
+      "official": "ব্ৰিটিশ্ব ভাৰ্জিন দ্বীপ",
+      "common": "ব্ৰিটিশ্ব ভাৰ্জিন দ্বীপ"
+    },
+    "az": {
+      "official": "Virgin Adaları, Britaniya",
+      "common": "Virgin Adaları, Britaniya"
+    },
+    "eu": {
+      "official": "Birjina uharteak, Britainiarrak",
+      "common": "Birjina uharteak, Britainiarrak"
+    },
+    "be": {
+      "official": "Віргінскія астравы Вялікабрытаніі",
+      "common": "Віргінскія астравы Вялікабрытаніі"
+    },
+    "bn": {
+      "official": "ব্রিটিশ ভার্জিন দ্বীপ",
+      "common": "ব্রিটিশ ভার্জিন দ্বীপ"
+    },
+    "bs": {
+      "official": "Djevičanska Ostrva (Britanska)",
+      "common": "Djevičanska Ostrva (Britanska)"
+    },
+    "br": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "bg": {
+      "official": "Вирджински острови, Британски",
+      "common": "Вирджински острови, Британски"
+    },
+    "ca": {
+      "official": "Illes Verges, Britàniques",
+      "common": "Illes Verges, Britàniques"
+    },
+    "zh": {
+      "official": "英属维京群岛",
+      "common": "英属维京群岛"
+    },
+    "cs": {
+      "official": "Panenské ostrovy, britské",
+      "common": "Panenské ostrovy, britské"
+    },
+    "da": {
+      "official": "Britiske Jomfruøer, De",
+      "common": "Britiske Jomfruøer, De"
+    },
+    "nl": {
+      "official": "Maagdeneilanden, Britse",
+      "common": "Maagdeneilanden, Britse"
+    },
+    "dz": {
+      "official": "ཝར་ཇིན་ ཨའི་ལེནཌིསི་ བིརི་ཊིཤི།",
+      "common": "ཝར་ཇིན་ ཨའི་ལེནཌིསི་ བིརི་ཊིཤི།"
+    },
+    "en": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "eo": {
+      "official": "Virgulininsuloj, Britaj",
+      "common": "Virgulininsuloj, Britaj"
+    },
+    "et": {
+      "official": "Briti Neitsisaared",
+      "common": "Briti Neitsisaared"
+    },
+    "fo": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "fi": {
+      "official": "Neitsytsaaret, Brittiläiset",
+      "common": "Neitsytsaaret, Brittiläiset"
+    },
+    "fr": {
+      "official": "Îles Vierges britanniques",
+      "common": "Îles Vierges britanniques"
+    },
+    "ka": {
+      "official": "ვირჯინის კუნძულები, ბრიტანეთის",
+      "common": "ვირჯინის კუნძულები, ბრიტანეთის"
+    },
+    "de": {
+      "official": "Britische Jungferninseln",
+      "common": "Britische Jungferninseln"
+    },
+    "ga": {
+      "official": "Oileáin Bhriotanacha na Maighdean",
+      "common": "Oileáin Bhriotanacha na Maighdean"
+    },
+    "gl": {
+      "official": "Illas Virxes Británicas",
+      "common": "Illas Virxes Británicas"
+    },
+    "el": {
+      "official": "Παρθένοι Νήσοι, Βρετανικές",
+      "common": "Παρθένοι Νήσοι, Βρετανικές"
+    },
+    "gu": {
+      "official": "બ્રિટિશ વર્જીન ટાપુઓ",
+      "common": "બ્રિટિશ વર્જીન ટાપુઓ"
+    },
+    "he": {
+      "official": "איי הבתולה (בריטיים)",
+      "common": "איי הבתולה (בריטיים)"
+    },
+    "hi": {
+      "official": "वर्जिन आइलैंड्स, ब्रिटिश",
+      "common": "वर्जिन आइलैंड्स, ब्रिटिश"
+    },
+    "hr": {
+      "official": "Djevičanski otoci",
+      "common": "Djevičanski otoci"
+    },
+    "hu": {
+      "official": "Virgin-szigetek (brit)",
+      "common": "Virgin-szigetek (brit)"
+    },
+    "is": {
+      "official": "Jómfrúareyjar, bresku",
+      "common": "Jómfrúareyjar, bresku"
+    },
+    "ia": {
+      "official": "Insulas Virgine, Britannic",
+      "common": "Insulas Virgine, Britannic"
+    },
+    "id": {
+      "official": "Kepulauan Virgin Inggris",
+      "common": "Kepulauan Virgin Inggris"
+    },
+    "it": {
+      "official": "Isole Vergini britanniche",
+      "common": "Isole Vergini britanniche"
+    },
+    "ja": {
+      "official": "英領ヴァージン諸島",
+      "common": "英領ヴァージン諸島"
+    },
+    "kn": {
+      "official": "ವರ್ಜಿನ್ ಐಲಂಡ್ಸ್, ಬ್ರಿಟಿಷ್",
+      "common": "ವರ್ಜಿನ್ ಐಲಂಡ್ಸ್, ಬ್ರಿಟಿಷ್"
+    },
+    "kk": {
+      "official": "Виргин аралдары (Ұлыбритания)",
+      "common": "Виргин аралдары (Ұлыбритания)"
+    },
+    "km": {
+      "official": "កោះ​វីជីន ចក្រភពអង់គ្លេស",
+      "common": "កោះ​វីជីន ចក្រភពអង់គ្លេស"
+    },
+    "rw": {
+      "official": "Ibirwa bya Virigini, Nyongereza",
+      "common": "Ibirwa bya Virigini, Nyongereza"
+    },
+    "ko": {
+      "official": "버진 제도, 영국령",
+      "common": "버진 제도, 영국령"
+    },
+    "ku": {
+      "official": "Giravên Virjin, Brîtanî",
+      "common": "Giravên Virjin, Brîtanî"
+    },
+    "lv": {
+      "official": "Virdžīnas Salas, Britu",
+      "common": "Virdžīnas Salas, Britu"
+    },
+    "lt": {
+      "official": "Mergelių salos (Britų)",
+      "common": "Mergelių salos (Britų)"
+    },
+    "mk": {
+      "official": "Девствени острови, Британски",
+      "common": "Девствени острови, Британски"
+    },
+    "ml": {
+      "official": "വിര്‍ജിന്‍ ദ്വീപുകള്‍, ബ്രിട്ടീഷ്",
+      "common": "വിര്‍ജിന്‍ ദ്വീപുകള്‍, ബ്രിട്ടീഷ്"
+    },
+    "mi": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "mr": {
+      "official": "व्हर्जिन आयलॅंडस्, ब्रिटिश",
+      "common": "व्हर्जिन आयलॅंडस्, ब्रिटिश"
+    },
+    "ms": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "mt": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "mn": {
+      "official": "Виржиний британи арлууд",
+      "common": "Виржиний британи арлууд"
+    },
+    "ne": {
+      "official": "भर्जिन टापु, बेलायत",
+      "common": "भर्जिन टापु, बेलायत"
+    },
+    "nn": {
+      "official": "Jomfruøyane (Storbritannia)",
+      "common": "Jomfruøyane (Storbritannia)"
+    },
+    "nb": {
+      "official": "Jomfruøyene (Storbritannia)",
+      "common": "Jomfruøyene (Storbritannia)"
+    },
+    "oc": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "or": {
+      "official": "ଭର୍ଜିନ ଦ୍ବୀପପୁଞ୍ଜ, ବ୍ରିଟୀଶ",
+      "common": "ଭର୍ଜିନ ଦ୍ବୀପପୁଞ୍ଜ, ବ୍ରିଟୀଶ"
+    },
+    "pa": {
+      "official": "ਵਿਰਗਿਨ ਟਾਪੂ ਬਰਤਾਨੀਆ",
+      "common": "ਵਿਰਗਿਨ ਟਾਪੂ ਬਰਤਾਨੀਆ"
+    },
+    "fa": {
+      "official": "جزایر ویرجین ، بریتانیا",
+      "common": "جزایر ویرجین ، بریتانیا"
+    },
+    "pl": {
+      "official": "Brytyjskie Wyspy Dziewicze",
+      "common": "Brytyjskie Wyspy Dziewicze"
+    },
+    "pt": {
+      "official": "Ilhas Virgens, Britânicas",
+      "common": "Ilhas Virgens, Britânicas"
+    },
+    "ps": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "ro": {
+      "official": "Insulele virgine (britanice)",
+      "common": "Insulele virgine (britanice)"
+    },
+    "ru": {
+      "official": "Виргинские острова (Британия)",
+      "common": "Виргинские острова (Британия)"
+    },
+    "si": {
+      "official": "බ්‍රිතාන්‍ය වර්ජින් දූපත්",
+      "common": "බ්‍රිතාන්‍ය වර්ජින් දූපත්"
+    },
+    "sk": {
+      "official": "Panenské ostrovy, Britské",
+      "common": "Panenské ostrovy, Britské"
+    },
+    "sl": {
+      "official": "Britanski Deviški otoki",
+      "common": "Britanski Deviški otoki"
+    },
+    "so": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "es": {
+      "official": "Islas Vírgenes, Británicas",
+      "common": "Islas Vírgenes, Británicas"
+    },
+    "sr": {
+      "official": "Девичанска острва, Британска",
+      "common": "Девичанска острва, Британска"
+    },
+    "sw": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "sv": {
+      "official": "Jungfruöarna, brittiska",
+      "common": "Jungfruöarna, brittiska"
+    },
+    "ta": {
+      "official": "வெர்ஜின் தீவுகள், ப்ரிட்டீஷ்",
+      "common": "வெர்ஜின் தீவுகள், ப்ரிட்டீஷ்"
+    },
+    "tt": {
+      "official": "Вирgин Утравлары, Британ",
+      "common": "Вирgин Утравлары, Британ"
+    },
+    "te": {
+      "official": "వర్జిన్ ఐలాండ్స్, బ్రిటిష్",
+      "common": "వర్జిన్ ఐలాండ్స్, బ్రిటిష్"
+    },
+    "tl": {
+      "official": "Pulong Birhen, British",
+      "common": "Pulong Birhen, British"
+    },
+    "th": {
+      "official": "หมู่เกาะบริติชเวอร์จิน",
+      "common": "หมู่เกาะบริติชเวอร์จิน"
+    },
+    "ti": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "tk": {
+      "official": "Wirgin adalary, Britan",
+      "common": "Wirgin adalary, Britan"
+    },
+    "tr": {
+      "official": "İngiliz Virgin Adaları",
+      "common": "İngiliz Virgin Adaları"
+    },
+    "ug": {
+      "official": "ئەنگلىيەگە قاراشلىق ۋىرجىن تاقىم ئاراللىرى",
+      "common": "ئەنگلىيەگە قاراشلىق ۋىرجىن تاقىم ئاراللىرى"
+    },
+    "uk": {
+      "official": "Віргінські острови (Британія)",
+      "common": "Віргінські острови (Британія)"
+    },
+    "ve": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "vi": {
+      "official": "Quần Đảo Vơ-chin Anh",
+      "common": "Quần Đảo Vơ-chin Anh"
+    },
+    "cy": {
+      "official": "Ynysoedd Virgin, Prydeinig",
+      "common": "Ynysoedd Virgin, Prydeinig"
+    },
+    "wa": {
+      "official": "Iyes Viedjes britanikes",
+      "common": "Iyes Viedjes britanikes"
+    },
+    "wo": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "xh": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    },
+    "zu": {
+      "official": "Virgin Islands, British",
+      "common": "Virgin Islands, British"
+    }
+  }
+}

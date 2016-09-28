@@ -1,0 +1,348 @@
+---
+continent: Asia
+alpha2: TH
+alpha3: THA
+country_code: '66'
+international_prefix: '001'
+ioc: THA
+gec: TH
+name: Thailand
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+- 10
+national_prefix: '0'
+number: '764'
+region: Asia
+subregion: South-Eastern Asia
+world_region: APAC
+un_locode: TH
+nationality: Thai
+postal_code: true
+unofficial_names:
+- Thailand
+- Thaïlande
+- Tailandia
+- タイ
+languages_official:
+- th
+languages_spoken:
+- th
+geo:
+  latitude: 15.870032
+  latitude_dec: '14.48458194732666'
+  longitude: 100.992541
+  longitude_dec: '100.85191345214844'
+  max_latitude: 20.4651429
+  max_longitude: 105.6355571
+  min_latitude: 5.612597
+  min_longitude: 97.3443049
+  bounds:
+    northeast:
+      lat: 20.4651429
+      lng: 105.6355571
+    southwest:
+      lat: 5.612597
+      lng: 97.3443049
+currency_code: THB
+postal_address_data:
+  lang: th
+  upper: S
+  sub_lnames: Krabi~Bangkok~Kanchanaburi~Kalasin~Kamphaeng Phet~Khon Kaen~Bueng Kan~Chanthaburi~Chachoengsao~Chon
+    Buri~Chai Nat~Chaiyaphum~Chumpon~Chiang Rai~Chiang Mai~Trang~Trat~Tak~Nakhon Nayok~Nakhon
+    Pathom~Nakhon Phanom~Nakhon Ratchasima~Nakhon Si Thammarat~Nakhon Sawan~Nonthaburi~Narathiwat~Nan~Buri
+    Ram~Pathum Thani~Prachuap Khiri Khan~Prachin Buri~Pattani~Phra Nakhon Si Ayutthaya~Phayao~Phang
+    Nga~Phattalung~Phichit~Phitsanulok~Phetchaburi~Phetchabun~Phrae~Phuket~Maha Sarakham~Mukdahan~Mae
+    Hong Son~Yasothon~Yala~Roi Et~Ranong~Rayong~Ratchaburi~Lop Buri~Lampang~Lamphun~Loei~Si
+    Sa Ket~Sakon Nakhon~Songkhla~Satun~Samut Prakan~Samut Songkhram~Samut Sakhon~Sa
+    Kaeo~Saraburi~Sing Buri~Sukhothai~Suphanburi~Surat Thani~Surin~Nong Khai~Nong
+    Bua Lam Phu~Ang Thong~Amnat Charoen~Udon Thani~Uttaradit~Uthai Thani~Ubon Ratchathani
+  name: THAILAND
+  zip: "\\d{5}"
+  fmt: "%N%n%O%n%A%n%D %C%n%S %Z"
+  languages: th
+  lfmt: "%N%n%O%n%A%n%D, %C%n%S %Z"
+  zipex: '10150,10210'
+  sub_keys: กระบี่~กรุงเทพมหานคร~กาญจนบุรี~กาฬสินธุ์~กำแพงเพชร~ขอนแก่น~จังหวัด บึงกาฬ~จันทบุรี~ฉะเชิงเทรา~ชลบุรี~ชัยนาท~ชัยภูมิ~ชุมพร~เชียงราย~เชียงใหม่~ตรัง~ตราด~ตาก~นครนายก~นครปฐม~นครพนม~นครราชสีมา~นครศรีธรรมราช~นครสวรรค์~นนทบุรี~นราธิวาส~น่าน~บุรีรัมย์~ปทุมธานี~ประจวบคีรีขันธ์~ปราจีนบุรี~ปัตตานี~พระนครศรีอยุธยา~พะเยา~พังงา~พัทลุง~พิจิตร~พิษณุโลก~เพชรบุรี~เพชรบูรณ์~แพร่~ภูเก็ต~มหาสารคาม~มุกดาหาร~แม่ฮ่องสอน~ยโสธร~ยะลา~ร้อยเอ็ด~ระนอง~ระยอง~ราชบุรี~ลพบุรี~ลำปาง~ลำพูน~เลย~ศรีสะเกษ~สกลนคร~สงขลา~สตูล~สมุทรปราการ~สมุทรสงคราม~สมุทรสาคร~สระแก้ว~สระบุรี~สิงห์บุรี~สุโขทัย~สุพรรณบุรี~สุราษฎร์ธานี~สุรินทร์~หนองคาย~หนองบัวลำภู~อ่างทอง~อำนาจเจริญ~อุดรธานี~อุตรดิตถ์~อุทัยธานี~อุบลราชธานี
+  key: TH
+  sub_isoids: 81~10~71~46~62~40~38~22~24~20~18~36~86~57~50~92~23~63~26~73~48~30~80~60~12~96~55~31~13~77~25~94~14~56~82~93~66~65~76~67~54~83~44~49~58~35~95~45~85~21~70~16~52~51~42~33~47~90~91~11~75~74~27~19~17~64~72~84~32~43~39~15~37~41~53~61~34
+  id: data/TH
+  sub_zips: 81~10~71~46~62~40~~22~24~20~17~36~86~57~50~92~23~63~26~73~48~30~80~60~11~96~55~31~12~77~25~94~13~56~82~93~66~65~76~67~54~83~44~49~58~35~95~45~85~21~70~15~52~51~42~33~47~90~91~10~75~74~27~18~16~64~72~84~32~43~39~14~37~41~53~61~34
+translations:
+  af:
+    official: Thailand
+    common: Thailand
+  sq:
+    official: Tajlanda
+    common: Tajlanda
+  am:
+    official: ታ፤ሒን፥
+    common: ታ፤ሒን፥
+  ar:
+    official: تايلاند
+    common: تايلاند
+  hy:
+    official: Թաիլանդ
+    common: Թաիլանդ
+  as:
+    official: থাইলেণ্ড
+    common: থাইলেণ্ড
+  az:
+    official: Tayland
+    common: Tayland
+  eu:
+    official: Tailandia
+    common: Tailandia
+  be:
+    official: Тайланд
+    common: Тайланд
+  bn:
+    official: থাইল্যান্ড
+    common: থাইল্যান্ড
+  bs:
+    official: Tajland
+    common: Tajland
+  br:
+    official: Thailand
+    common: Thailand
+  bg:
+    official: Тайланд
+    common: Тайланд
+  ca:
+    official: Tailàndia
+    common: Tailàndia
+  zh:
+    official: 泰国
+    common: 泰国
+  cs:
+    official: Thajsko
+    common: Thajsko
+  da:
+    official: Thailand
+    common: Thailand
+  nl:
+    official: Thailand
+    common: Thailand
+  dz:
+    official: ཐཱའི་ལེནཌི།
+    common: ཐཱའི་ལེནཌི།
+  en:
+    official: Thailand
+    common: Thailand
+  eo:
+    official: Tajlando
+    common: Tajlando
+  et:
+    official: Tai
+    common: Tai
+  fo:
+    official: Thailand
+    common: Thailand
+  fi:
+    official: Thaimaa
+    common: Thaimaa
+  fr:
+    official: Thaïlande
+    common: Thaïlande
+  ka:
+    official: ტაილანდი
+    common: ტაილანდი
+  de:
+    official: Thailand
+    common: Thailand
+  ga:
+    official: An Téalainn
+    common: An Téalainn
+  gl:
+    official: Tailandia
+    common: Tailandia
+  el:
+    official: Ταϊλάνδη
+    common: Ταϊλάνδη
+  gu:
+    official: થાઇલેન્ડ
+    common: થાઇલેન્ડ
+  he:
+    official: תאילנד
+    common: תאילנד
+  hi:
+    official: थाईलैंड
+    common: थाईलैंड
+  hr:
+    official: Tajland
+    common: Tajland
+  hu:
+    official: Thaiföld
+    common: Thaiföld
+  is:
+    official: Tæland
+    common: Tæland
+  ia:
+    official: Thailandia
+    common: Thailandia
+  id:
+    official: Thailand
+    common: Thailand
+  it:
+    official: Thailandia
+    common: Thailandia
+  ja:
+    official: タイ
+    common: タイ
+  kn:
+    official: ಥಾಯ್‍ಲ್ಯಾಂಡ್
+    common: ಥಾಯ್‍ಲ್ಯಾಂಡ್
+  kk:
+    official: Тайланд
+    common: Тайланд
+  km:
+    official: ថៃ
+    common: ថៃ
+  rw:
+    official: Tayilande
+    common: Tayilande
+  ko:
+    official: 태국
+    common: 태국
+  ku:
+    official: Tayland
+    common: Tayland
+  lv:
+    official: Taizeme
+    common: Taizeme
+  lt:
+    official: Tailandas
+    common: Tailandas
+  mk:
+    official: Тајланд
+    common: Тајланд
+  ml:
+    official: തായ്‌ലന്‍ഡ്
+    common: തായ്‌ലന്‍ഡ്
+  mi:
+    official: Thailand
+    common: Thailand
+  mr:
+    official: थायलंड
+    common: थायलंड
+  ms:
+    official: Thailand
+    common: Thailand
+  mt:
+    official: Tajlandja
+    common: Tajlandja
+  mn:
+    official: Тайланд
+    common: Тайланд
+  ne:
+    official: थाइल्याण्ड
+    common: थाइल्याण्ड
+  nn:
+    official: Thailand
+    common: Thailand
+  nb:
+    official: Thailand
+    common: Thailand
+  oc:
+    official: Tailandia
+    common: Tailandia
+  or:
+    official: ଥାଇଲ୍ଯାଣ୍ଡ
+    common: ଥାଇଲ୍ଯାଣ୍ଡ
+  pa:
+    official: ਥਾਈਲੈਂਡ
+    common: ਥਾਈਲੈਂਡ
+  fa:
+    official: تایلند
+    common: تایلند
+  pl:
+    official: Tajlandia
+    common: Tajlandia
+  pt:
+    official: Tailândia
+    common: Tailândia
+  ps:
+    official: Thailand
+    common: Thailand
+  ro:
+    official: Tailanda
+    common: Tailanda
+  ru:
+    official: Таиланд
+    common: Таиланд
+  si:
+    official: තායිලන්තය
+    common: තායිලන්තය
+  sk:
+    official: Thajsko
+    common: Thajsko
+  sl:
+    official: Tajska
+    common: Tajska
+  so:
+    official: Taylaand
+    common: Taylaand
+  es:
+    official: Tailandia
+    common: Tailandia
+  sr:
+    official: Тајланд
+    common: Тајланд
+  sw:
+    official: Thailand
+    common: Thailand
+  sv:
+    official: Thailand
+    common: Thailand
+  ta:
+    official: தாய்லாந்து
+    common: தாய்லாந்து
+  tt:
+    official: Тайланд
+    common: Тайланд
+  te:
+    official: థాయ్‌లాండ్
+    common: థాయ్‌లాండ్
+  tl:
+    official: Thailand
+    common: Thailand
+  th:
+    official: ไทย
+    common: ไทย
+  ti:
+    official: ታይላንድ
+    common: ታይላንድ
+  tk:
+    official: Taýland
+    common: Taýland
+  tr:
+    official: Tayland
+    common: Tayland
+  ug:
+    official: تايلاند
+    common: تايلاند
+  uk:
+    official: Таїланд
+    common: Таїланд
+  ve:
+    official: Thailand
+    common: Thailand
+  vi:
+    official: Thái Lan
+    common: Thái Lan
+  cy:
+    official: Gwlad Thai
+    common: Gwlad Thai
+  wa:
+    official: Taylande
+    common: Taylande
+  wo:
+    official: Taaylaand
+    common: Taaylaand
+  xh:
+    official: Thailand
+    common: Thailand
+  zu:
+    official: I-Thayilandi
+    common: I-Thayilandi

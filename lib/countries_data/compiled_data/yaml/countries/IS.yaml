@@ -1,0 +1,342 @@
+---
+continent: Europe
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: IS
+alpha3: ISL
+country_code: '354'
+international_prefix: '00'
+ioc: ISL
+gec: IC
+name: Iceland
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+- 8
+- 9
+national_prefix: '0'
+number: '352'
+region: Europe
+subregion: Northern Europe
+world_region: EMEA
+un_locode: IS
+nationality: Icelander
+eea_member: true
+postal_code: true
+unofficial_names:
+- Iceland
+- Island
+- Islande
+- Islandia
+- アイスランド
+- IJsland
+languages_official:
+- is
+languages_spoken:
+- is
+geo:
+  latitude: 64.963051
+  latitude_dec: '64.9285659790039'
+  longitude: -19.020835
+  longitude_dec: "-18.961700439453125"
+  max_latitude: 66.56631829999999
+  max_longitude: -13.4961428
+  min_latitude: 63.2962341
+  min_longitude: -24.5333969
+  bounds:
+    northeast:
+      lat: 66.56631829999999
+      lng: -13.4961428
+    southwest:
+      lat: 63.2962341
+      lng: -24.5333969
+currency_code: ISK
+postal_address_data:
+  key: IS
+  zipex: '320,121,220,110'
+  name: ICELAND
+  zip: "\\d{3}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  posturl: http://www.postur.is/cgi-bin/hsrun.exe/Distributed/vefur/vefur.htx;start=HS_landakort_postnumer
+  id: data/IS
+translations:
+  af:
+    official: Ysland
+    common: Ysland
+  sq:
+    official: Islanda
+    common: Islanda
+  am:
+    official: ጐ፤ስሒን፥
+    common: ጐ፤ስሒን፥
+  ar:
+    official: آيسلندا
+    common: آيسلندا
+  hy:
+    official: Իսլանդիա
+    common: Իսլանդիա
+  as:
+    official: আইচলেণ্ড
+    common: আইচলেণ্ড
+  az:
+    official: İslandiya
+    common: İslandiya
+  eu:
+    official: Islandia
+    common: Islandia
+  be:
+    official: Ісландыя
+    common: Ісландыя
+  bn:
+    official: আইসল্যান্ড
+    common: আইসল্যান্ড
+  bs:
+    official: Island
+    common: Island
+  br:
+    official: Island
+    common: Island
+  bg:
+    official: Исландия
+    common: Исландия
+  ca:
+    official: Islàndia
+    common: Islàndia
+  zh:
+    official: 冰岛
+    common: 冰岛
+  cs:
+    official: Island
+    common: Island
+  da:
+    official: Island
+    common: Island
+  nl:
+    official: IJsland
+    common: IJsland
+  dz:
+    official: ཨའིསི་ལེནཌི།
+    common: ཨའིསི་ལེནཌི།
+  en:
+    official: Iceland
+    common: Iceland
+  eo:
+    official: Islando
+    common: Islando
+  et:
+    official: Island
+    common: Island
+  fo:
+    official: Ísland
+    common: Ísland
+  fi:
+    official: Islanti
+    common: Islanti
+  fr:
+    official: Islande
+    common: Islande
+  ka:
+    official: ისლანდია
+    common: ისლანდია
+  de:
+    official: Island
+    common: Island
+  ga:
+    official: An Íoslainn
+    common: An Íoslainn
+  gl:
+    official: Islandia
+    common: Islandia
+  el:
+    official: Ισλανδία
+    common: Ισλανδία
+  gu:
+    official: આઇસલેન્ડ
+    common: આઇસલેન્ડ
+  he:
+    official: איסלנד
+    common: איסלנד
+  hi:
+    official: आइसलैंड
+    common: आइसलैंड
+  hr:
+    official: Island
+    common: Island
+  hu:
+    official: Izland
+    common: Izland
+  is:
+    official: Ísland
+    common: Ísland
+  ia:
+    official: Islanda
+    common: Islanda
+  id:
+    official: Islandia
+    common: Islandia
+  it:
+    official: Islanda
+    common: Islanda
+  ja:
+    official: アイスランド
+    common: アイスランド
+  kn:
+    official: ಐಸ್‍ಲ್ಯಾಂಡ್
+    common: ಐಸ್‍ಲ್ಯಾಂಡ್
+  kk:
+    official: Исландия
+    common: Исландия
+  km:
+    official: អ៊ីស្លង់
+    common: អ៊ីស្លង់
+  rw:
+    official: Isilande
+    common: Isilande
+  ko:
+    official: 아이슬랜드
+    common: 아이슬랜드
+  ku:
+    official: Îzlanda
+    common: Îzlanda
+  lv:
+    official: Islande
+    common: Islande
+  lt:
+    official: Islandija
+    common: Islandija
+  mk:
+    official: Исланд
+    common: Исланд
+  ml:
+    official: ഐസ്‌ലാന്‍ഡ്
+    common: ഐസ്‌ലാന്‍ഡ്
+  mi:
+    official: Tiorangi
+    common: Tiorangi
+  mr:
+    official: आइसलॅंड
+    common: आइसलॅंड
+  ms:
+    official: Iceland
+    common: Iceland
+  mt:
+    official: Islandja
+    common: Islandja
+  mn:
+    official: Исланд
+    common: Исланд
+  ne:
+    official: आइसल्याण्ड
+    common: आइसल्याण्ड
+  nn:
+    official: Island
+    common: Island
+  nb:
+    official: Island
+    common: Island
+  oc:
+    official: Islàndia
+    common: Islàndia
+  or:
+    official: ଆଇସଲ୍ଯାଣ୍ଡ
+    common: ଆଇସଲ୍ଯାଣ୍ଡ
+  pa:
+    official: ਆਈਸਲੈਂਡ
+    common: ਆਈਸਲੈਂਡ
+  fa:
+    official: ایسلند
+    common: ایسلند
+  pl:
+    official: Islandia
+    common: Islandia
+  pt:
+    official: Islândia
+    common: Islândia
+  ps:
+    official: آیسلینډ
+    common: آیسلینډ
+  ro:
+    official: Islanda
+    common: Islanda
+  ru:
+    official: Исландия
+    common: Исландия
+  si:
+    official: අයිස්ලන්තය
+    common: අයිස්ලන්තය
+  sk:
+    official: Island
+    common: Island
+  sl:
+    official: Islandija
+    common: Islandija
+  so:
+    official: Iislaand
+    common: Iislaand
+  es:
+    official: Islandia
+    common: Islandia
+  sr:
+    official: Исланд
+    common: Исланд
+  sw:
+    official: Iceland
+    common: Iceland
+  sv:
+    official: Island
+    common: Island
+  ta:
+    official: ஐஸ்லாந்து
+    common: ஐஸ்லாந்து
+  tt:
+    official: İсланд
+    common: İсланд
+  te:
+    official: ఐలాండ్
+    common: ఐలాండ్
+  tl:
+    official: Lupangyelo
+    common: Lupangyelo
+  th:
+    official: ไอซ์แลนด์
+    common: ไอซ์แลนด์
+  ti:
+    official: አይስላንድ
+    common: አይስላንድ
+  tk:
+    official: Islandia
+    common: Islandia
+  tr:
+    official: İzlanda
+    common: İzlanda
+  ug:
+    official: ئىسلاندىيە
+    common: ئىسلاندىيە
+  uk:
+    official: Ісландія
+    common: Ісландія
+  ve:
+    official: Iceland
+    common: Iceland
+  vi:
+    official: Băng Đảo
+    common: Băng Đảo
+  cy:
+    official: Gwlad yr Iâ
+    common: Gwlad yr Iâ
+  wa:
+    official: Izlande
+    common: Izlande
+  wo:
+    official: Islaand
+    common: Islaand
+  xh:
+    official: Iceland
+    common: Iceland
+  zu:
+    official: I-Icelandi
+    common: I-Icelandi

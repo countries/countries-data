@@ -1,0 +1,330 @@
+---
+continent: Asia
+alpha2: MM
+alpha3: MMR
+country_code: '95'
+international_prefix: '00'
+ioc: MYA
+gec: BM
+name: Myanmar
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+- 8
+national_prefix: None
+number: '104'
+region: Asia
+subregion: South-Eastern Asia
+world_region: APAC
+un_locode: MM
+nationality: Myanmarian
+postal_code: true
+unofficial_names:
+- Myanmar
+- ミャンマー
+languages_official:
+- my
+languages_spoken:
+- my
+geo:
+  latitude: 21.916221
+  latitude_dec: '20.330142974853516'
+  longitude: 95.955974
+  longitude_dec: '96.52182006835938'
+  max_latitude: 28.5478351
+  max_longitude: 101.1702716
+  min_latitude: 9.5990941
+  min_longitude: 92.17180789999999
+  bounds:
+    northeast:
+      lat: 28.5478351
+      lng: 101.1702716
+    southwest:
+      lat: 9.5990941
+      lng: 92.17180789999999
+currency_code: MMK
+postal_address_data:
+  zipex: '11181'
+  name: MYANMAR
+  zip: "\\d{5}"
+  fmt: "%N%n%O%n%A%n%C, %Z"
+  key: MM
+  id: data/MM
+translations:
+  af:
+    official: Mianmar
+    common: Mianmar
+  sq:
+    official: Birmania
+    common: Birmania
+  am:
+    official: Myanmar
+    common: Myanmar
+  ar:
+    official: ميانمار
+    common: ميانمار
+  hy:
+    official: Մյանմա
+    common: Մյանմա
+  as:
+    official: মায়ান্মাৰ
+    common: মায়ান্মাৰ
+  az:
+    official: Myanmar
+    common: Myanmar
+  eu:
+    official: Myanmar
+    common: Myanmar
+  be:
+    official: М'янма
+    common: М'янма
+  bn:
+    official: মায়ানমার
+    common: মায়ানমার
+  bs:
+    official: Myanmar
+    common: Myanmar
+  br:
+    official: Myanmar
+    common: Myanmar
+  bg:
+    official: Мянмар
+    common: Мянмар
+  ca:
+    official: Myanmar
+    common: Myanmar
+  zh:
+    official: 缅甸
+    common: 缅甸
+  cs:
+    official: Myanmar
+    common: Myanmar
+  da:
+    official: Burma
+    common: Burma
+  nl:
+    official: Myanmar
+    common: Myanmar
+  dz:
+    official: མི་ཡཱན་མར།
+    common: མི་ཡཱན་མར།
+  en:
+    official: Myanmar
+    common: Myanmar
+  eo:
+    official: Mjanmao
+    common: Mjanmao
+  et:
+    official: Birma (Myanmar)
+    common: Birma (Myanmar)
+  fo:
+    official: Myanmar
+    common: Myanmar
+  fi:
+    official: Myanmar
+    common: Myanmar
+  fr:
+    official: Myanmar
+    common: Myanmar
+  ka:
+    official: მიანმარი
+    common: მიანმარი
+  de:
+    official: Myanmar
+    common: Myanmar
+  ga:
+    official: Maenmar
+    common: Maenmar
+  gl:
+    official: Birmania
+    common: Birmania
+  el:
+    official: Μιανμάρ
+    common: Μιανμάρ
+  gu:
+    official: મ્યાનમાર
+    common: મ્યાનમાર
+  he:
+    official: מיאנמאר
+    common: מיאנמאר
+  hi:
+    official: म्यानमार
+    common: म्यानमार
+  hr:
+    official: Mjanmar
+    common: Mjanmar
+  hu:
+    official: Mianmar
+    common: Mianmar
+  is:
+    official: Mjanmar
+    common: Mjanmar
+  ia:
+    official: Myanmar
+    common: Myanmar
+  id:
+    official: Myanmar
+    common: Myanmar
+  it:
+    official: Myanmar
+    common: Myanmar
+  ja:
+    official: ミャンマー
+    common: ミャンマー
+  kn:
+    official: ಮಿಯನ್ಮಾರ್
+    common: ಮಿಯನ್ಮಾರ್
+  kk:
+    official: Мьянма
+    common: Мьянма
+  km:
+    official: មីយ៉ាន់ម៉ា
+    common: មីយ៉ាន់ម៉ា
+  rw:
+    official: Mayanimari
+    common: Mayanimari
+  ko:
+    official: 미얀마
+    common: 미얀마
+  ku:
+    official: Miyanmar
+    common: Miyanmar
+  lv:
+    official: Mjanma
+    common: Mjanma
+  lt:
+    official: Mianmaras
+    common: Mianmaras
+  mk:
+    official: Мианмар
+    common: Мианмар
+  ml:
+    official: മ്യാന്മാര്‍
+    common: മ്യാന്മാര്‍
+  mi:
+    official: Pēma
+    common: Pēma
+  mr:
+    official: म्यानमार
+    common: म्यानमार
+  ms:
+    official: Myanmar
+    common: Myanmar
+  mt:
+    official: Panama
+    common: Panama
+  mn:
+    official: Мянмар
+    common: Мянмар
+  ne:
+    official: म्यान्मार
+    common: म्यान्मार
+  nn:
+    official: Myanmar
+    common: Myanmar
+  nb:
+    official: Myanmar
+    common: Myanmar
+  oc:
+    official: Panama
+    common: Panama
+  or:
+    official: ବର୍ମା/ମ୍ଯାଂମାର
+    common: ବର୍ମା/ମ୍ଯାଂମାର
+  pa:
+    official: ਮਿਆਂਮਾਰ
+    common: ਮਿਆਂਮਾਰ
+  fa:
+    official: میانمار
+    common: میانمار
+  pl:
+    official: Birma
+    common: Birma
+  pt:
+    official: Myanmar
+    common: Myanmar
+  ps:
+    official: Myanmar
+    common: Myanmar
+  ro:
+    official: Myanmar
+    common: Myanmar
+  ru:
+    official: Мьянма
+    common: Мьянма
+  si:
+    official: මියන්මාරය
+    common: මියන්මාරය
+  sk:
+    official: Mjanmarsko
+    common: Mjanmarsko
+  sl:
+    official: Mjanmar
+    common: Mjanmar
+  so:
+    official: Myanmar
+    common: Myanmar
+  es:
+    official: Birmania
+    common: Birmania
+  sr:
+    official: Бурма
+    common: Бурма
+  sw:
+    official: Myanmar
+    common: Myanmar
+  sv:
+    official: Myanmar
+    common: Myanmar
+  ta:
+    official: மியான்மர்
+    common: மியான்மர்
+  tt:
+    official: Мианмар
+    common: Мианмар
+  te:
+    official: మయన్మార్
+    common: మయన్మార్
+  tl:
+    official: Myanmar
+    common: Myanmar
+  th:
+    official: พม่า
+    common: พม่า
+  ti:
+    official: Myanmar
+    common: Myanmar
+  tk:
+    official: Birma
+    common: Birma
+  tr:
+    official: Miyanmar
+    common: Miyanmar
+  ug:
+    official: بىرما
+    common: بىرما
+  uk:
+    official: М’янма
+    common: М’янма
+  ve:
+    official: Myanmar
+    common: Myanmar
+  vi:
+    official: Miến Điện
+    common: Miến Điện
+  cy:
+    official: Myanmar
+    common: Myanmar
+  wa:
+    official: Birmaneye
+    common: Birmaneye
+  wo:
+    official: Miyanmaar
+    common: Miyanmaar
+  xh:
+    official: Panama
+    common: Panama
+  zu:
+    official: I-Panama
+    common: I-Panama

@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: افغانستان
+    common: افغانستان
+  AX:
+    official: جزایر آلند
+    common: جزایر آلند
+  AL:
+    official: آلبانی
+    common: آلبانی
+  DZ:
+    official: الجزایر
+    common: الجزایر
+  AS:
+    official: ساموآی آمریکایی
+    common: ساموآی آمریکایی
+  AD:
+    official: آندورا
+    common: آندورا
+  AO:
+    official: آنگولا
+    common: آنگولا
+  AI:
+    official: آنگیل
+    common: آنگیل
+  AQ:
+    official: جنوبگان
+    common: جنوبگان
+  AG:
+    official: آنتیگوا و باربودا
+    common: آنتیگوا و باربودا
+  AR:
+    official: آرژانتین
+    common: آرژانتین
+  AM:
+    official: ارمنستان
+    common: ارمنستان
+  AW:
+    official: آروبا
+    common: آروبا
+  AU:
+    official: استرالیا
+    common: استرالیا
+  AT:
+    official: اتریش
+    common: اتریش
+  AZ:
+    official: آذربایجان
+    common: آذربایجان
+  BS:
+    official: باهاما
+    common: باهاما
+  BH:
+    official: بحرین
+    common: بحرین
+  BD:
+    official: بنگلادش
+    common: بنگلادش
+  BB:
+    official: باربادوس
+    common: باربادوس
+  BY:
+    official: بلاروس
+    common: بلاروس
+  BE:
+    official: بلژیک
+    common: بلژیک
+  BZ:
+    official: بلیز
+    common: بلیز
+  BJ:
+    official: بنین
+    common: بنین
+  BM:
+    official: برمودا
+    common: برمودا
+  BT:
+    official: بوتان
+    common: بوتان
+  BO:
+    official: بولیویا، چند ایالتی
+    common: بولیویا، چند ایالتی
+  BQ:
+    official: بنیر، سنت یوستتیوس
+    common: بنیر، سنت یوستتیوس
+  BA:
+    official: بوسنی و هرزگوین
+    common: بوسنی و هرزگوین
+  BW:
+    official: بوتسوانا
+    common: بوتسوانا
+  BV:
+    official: جزیرهٔ بووت
+    common: جزیرهٔ بووت
+  BR:
+    official: برزیل
+    common: برزیل
+  IO:
+    official: مستعمره‌های انگلستان در اقیانوس هند
+    common: مستعمره‌های انگلستان در اقیانوس هند
+  BN:
+    official: برونئی دارالسلام
+    common: برونئی دارالسلام
+  BG:
+    official: بلغارستان
+    common: بلغارستان
+  BF:
+    official: بورکینافاسو
+    common: بورکینافاسو
+  BI:
+    official: بوروندی
+    common: بوروندی
+  KH:
+    official: کامبوج
+    common: کامبوج
+  CM:
+    official: کامرون
+    common: کامرون
+  CA:
+    official: کانادا
+    common: کانادا
+  CV:
+    official: کیپ ورد
+    common: کیپ ورد
+  KY:
+    official: جزایر کِیمن
+    common: جزایر کِیمن
+  CF:
+    official: جمهوری آفریقای مرکزی
+    common: جمهوری آفریقای مرکزی
+  TD:
+    official: چاد
+    common: چاد
+  CL:
+    official: شیلی
+    common: شیلی
+  CN:
+    official: چین
+    common: چین
+  CX:
+    official: جزیرهٔ کریسمس
+    common: جزیرهٔ کریسمس
+  CC:
+    official: جزایر کوکوس
+    common: جزایر کوکوس
+  CO:
+    official: کلمبیا
+    common: کلمبیا
+  KM:
+    official: کومورو
+    common: کومورو
+  CG:
+    official: کونگو
+    common: کونگو
+  CD:
+    official: جمهوری دموکراتیک کنگو
+    common: جمهوری دموکراتیک کنگو
+  CK:
+    official: جزایر کوک
+    common: جزایر کوک
+  CR:
+    official: کاستاریکا
+    common: کاستاریکا
+  CI:
+    official: ساحل عاج
+    common: ساحل عاج
+  HR:
+    official: کرواسی
+    common: کرواسی
+  CU:
+    official: کوبا
+    common: کوبا
+  CW:
+    official: کوراسائو
+    common: کوراسائو
+  CY:
+    official: قبرس
+    common: قبرس
+  CZ:
+    official: جمهوری چک
+    common: جمهوری چک
+  DK:
+    official: دانمارک
+    common: دانمارک
+  DJ:
+    official: جیبوتی
+    common: جیبوتی
+  DM:
+    official: دومینیکا
+    common: دومینیکا
+  DO:
+    official: جمهوری دومینیکن
+    common: جمهوری دومینیکن
+  EC:
+    official: اکوادور
+    common: اکوادور
+  EG:
+    official: مصر
+    common: مصر
+  SV:
+    official: السالوادور
+    common: السالوادور
+  GQ:
+    official: گینهٔ استوایی
+    common: گینهٔ استوایی
+  ER:
+    official: اریتره
+    common: اریتره
+  EE:
+    official: استونی
+    common: استونی
+  ET:
+    official: اتیوپی
+    common: اتیوپی
+  FK:
+    official: جزایر فالکلند(مالویناس)
+    common: جزایر فالکلند(مالویناس)
+  FO:
+    official: جزایر فارو
+    common: جزایر فارو
+  FJ:
+    official: فیجی
+    common: فیجی
+  FI:
+    official: فنلاند
+    common: فنلاند
+  FR:
+    official: فرانسه
+    common: فرانسه
+  GF:
+    official: گویان فرانسه
+    common: گویان فرانسه
+  PF:
+    official: پلی‌نزی فرانسه
+    common: پلی‌نزی فرانسه
+  TF:
+    official: مستعمره‌های جنوبی فرانسه
+    common: مستعمره‌های جنوبی فرانسه
+  GA:
+    official: گابون
+    common: گابون
+  GM:
+    official: گامبیا
+    common: گامبیا
+  GE:
+    official: گرجستان
+    common: گرجستان
+  DE:
+    official: " آلمان"
+    common: " آلمان"
+  GH:
+    official: غنا
+    common: غنا
+  GI:
+    official: گیبرالتار
+    common: گیبرالتار
+  GR:
+    official: یونان
+    common: یونان
+  GL:
+    official: گروئنلند
+    common: گروئنلند
+  GD:
+    official: گرانادا
+    common: گرانادا
+  GP:
+    official: گوادلوپ
+    common: گوادلوپ
+  GU:
+    official: گوام
+    common: گوام
+  GT:
+    official: گواتمالا
+    common: گواتمالا
+  GG:
+    official: گرنزی
+    common: گرنزی
+  GN:
+    official: گینه
+    common: گینه
+  GW:
+    official: گینهٔ بیسائو
+    common: گینهٔ بیسائو
+  GY:
+    official: گویان
+    common: گویان
+  HT:
+    official: هاییتی
+    common: هاییتی
+  HM:
+    official: جزیرهٔ هرد و جزایر مک‌دونالد
+    common: جزیرهٔ هرد و جزایر مک‌دونالد
+  VA:
+    official: دولت شهر واتیکان
+    common: دولت شهر واتیکان
+  HN:
+    official: هندوراس
+    common: هندوراس
+  HK:
+    official: هنگ کنگ
+    common: هنگ کنگ
+  HU:
+    official: مجارستان
+    common: مجارستان
+  IS:
+    official: ایسلند
+    common: ایسلند
+  IN:
+    official: هندوستان
+    common: هندوستان
+  ID:
+    official: اندونزی
+    common: اندونزی
+  IR:
+    official: ایران، جمهوری اسلامی
+    common: ایران، جمهوری اسلامی
+  IQ:
+    official: عراق
+    common: عراق
+  IE:
+    official: ایرلند
+    common: ایرلند
+  IM:
+    official: جزیره من
+    common: جزیره من
+  IL:
+    official: اسراییل
+    common: اسراییل
+  IT:
+    official: ایتالیا
+    common: ایتالیا
+  JM:
+    official: جاماییکا
+    common: جاماییکا
+  JP:
+    official: ژاپن
+    common: ژاپن
+  JE:
+    official: جرسی
+    common: جرسی
+  JO:
+    official: اردن
+    common: اردن
+  KZ:
+    official: قزاقستان
+    common: قزاقستان
+  KE:
+    official: کنیا
+    common: کنیا
+  KI:
+    official: کیریباتی
+    common: کیریباتی
+  KP:
+    official: کره، جمهوری دموکراتیک خلق
+    common: کره، جمهوری دموکراتیک خلق
+  KR:
+    official: جمهوری کره
+    common: جمهوری کره
+  KW:
+    official: کویت
+    common: کویت
+  KG:
+    official: قرقیزستان
+    common: قرقیزستان
+  LA:
+    official: جمهوری دموکراتیک خلق لائو
+    common: جمهوری دموکراتیک خلق لائو
+  LV:
+    official: لتونی
+    common: لتونی
+  LB:
+    official: لبنان
+    common: لبنان
+  LS:
+    official: لسوتو
+    common: لسوتو
+  LR:
+    official: لیبریا
+    common: لیبریا
+  LY:
+    official: لیبی
+    common: لیبی
+  LI:
+    official: لیختن‌اشتاین
+    common: لیختن‌اشتاین
+  LT:
+    official: لیتوانی
+    common: لیتوانی
+  LU:
+    official: لوگزامبورگ
+    common: لوگزامبورگ
+  MO:
+    official: ماکائو
+    common: ماکائو
+  MK:
+    official: جمهوری مقدونیه
+    common: جمهوری مقدونیه
+  MG:
+    official: ماداگاسکار
+    common: ماداگاسکار
+  MW:
+    official: مالاوی
+    common: مالاوی
+  MY:
+    official: مالزی
+    common: مالزی
+  MV:
+    official: مالدیو
+    common: مالدیو
+  ML:
+    official: مالی
+    common: مالی
+  MT:
+    official: جزیره مالت
+    common: جزیره مالت
+  MH:
+    official: جزایر مارشال
+    common: جزایر مارشال
+  MQ:
+    official: مارتینیک
+    common: مارتینیک
+  MR:
+    official: موریتانی
+    common: موریتانی
+  MU:
+    official: موریتیوس
+    common: موریتیوس
+  YT:
+    official: مایوت
+    common: مایوت
+  MX:
+    official: مکزیک
+    common: مکزیک
+  FM:
+    official: میکرونزی، ایالات فدرال
+    common: میکرونزی، ایالات فدرال
+  MD:
+    official: مولداوی، جمهوری
+    common: مولداوی، جمهوری
+  MC:
+    official: موناکو
+    common: موناکو
+  MN:
+    official: مغولستان
+    common: مغولستان
+  ME:
+    official: مونته نگرو
+    common: مونته نگرو
+  MS:
+    official: مونت‌سرات
+    common: مونت‌سرات
+  MA:
+    official: مراکش
+    common: مراکش
+  MZ:
+    official: موزامبیک
+    common: موزامبیک
+  MM:
+    official: میانمار
+    common: میانمار
+  NA:
+    official: نامیبیا
+    common: نامیبیا
+  NR:
+    official: نائورو
+    common: نائورو
+  NP:
+    official: نپال
+    common: نپال
+  NL:
+    official: هلند
+    common: هلند
+  NC:
+    official: کالدونیای جدید
+    common: کالدونیای جدید
+  NZ:
+    official: نیوزیلند
+    common: نیوزیلند
+  NI:
+    official: نیکاراگوئه
+    common: نیکاراگوئه
+  NE:
+    official: نیجر
+    common: نیجر
+  NG:
+    official: نیجریه
+    common: نیجریه
+  NU:
+    official: نیوئه
+    common: نیوئه
+  NF:
+    official: جزیرهٔ نورفولک
+    common: جزیرهٔ نورفولک
+  MP:
+    official: جزایر ماریانای شمالی
+    common: جزایر ماریانای شمالی
+  'NO':
+    official: نروژ
+    common: نروژ
+  OM:
+    official: عمان
+    common: عمان
+  PK:
+    official: پاکستان
+    common: پاکستان
+  PW:
+    official: پالائو
+    common: پالائو
+  PS:
+    official: فلسطین
+    common: فلسطین
+  PA:
+    official: پاناما
+    common: پاناما
+  PG:
+    official: پاپوا گینهٔ نو
+    common: پاپوا گینهٔ نو
+  PY:
+    official: پاراگوئه
+    common: پاراگوئه
+  PE:
+    official: پرو
+    common: پرو
+  PH:
+    official: فیلیپین
+    common: فیلیپین
+  PN:
+    official: پیتکایرن
+    common: پیتکایرن
+  PL:
+    official: لهستان
+    common: لهستان
+  PT:
+    official: پرتغال
+    common: پرتغال
+  PR:
+    official: پورتو ریکو
+    common: پورتو ریکو
+  QA:
+    official: قطر
+    common: قطر
+  RE:
+    official: رئونیون
+    common: رئونیون
+  RO:
+    official: رومانی
+    common: رومانی
+  RU:
+    official: روسیه فدرال
+    common: روسیه فدرال
+  RW:
+    official: رواندا
+    common: رواندا
+  BL:
+    official: سنت بارتلمی
+    common: سنت بارتلمی
+  SH:
+    official: سنت هلنا, Ascension و Tristan da Cunha
+    common: سنت هلنا, Ascension و Tristan da Cunha
+  KN:
+    official: سن کیتس و نویس
+    common: سن کیتس و نویس
+  LC:
+    official: سن لوسیا
+    common: سن لوسیا
+  MF:
+    official: سنت مارتین (بخش فرانسوی)
+    common: سنت مارتین (بخش فرانسوی)
+  PM:
+    official: سنت پیر و میکلون
+    common: سنت پیر و میکلون
+  VC:
+    official: سن وینسنت و گرنادین
+    common: سن وینسنت و گرنادین
+  WS:
+    official: ساموا
+    common: ساموا
+  SM:
+    official: سان مارینو
+    common: سان مارینو
+  ST:
+    official: سائو تومه و پرینسیپه
+    common: سائو تومه و پرینسیپه
+  SA:
+    official: عربستان سعودی
+    common: عربستان سعودی
+  SN:
+    official: سنگال
+    common: سنگال
+  RS:
+    official: صربستان
+    common: صربستان
+  SC:
+    official: سیشل
+    common: سیشل
+  SL:
+    official: سیرالئون
+    common: سیرالئون
+  SG:
+    official: سنگاپور
+    common: سنگاپور
+  SX:
+    official: سنت مارتین (بخش آلمانی)
+    common: سنت مارتین (بخش آلمانی)
+  SK:
+    official: اسلواکی
+    common: اسلواکی
+  SI:
+    official: اسلوونی
+    common: اسلوونی
+  SB:
+    official: جزایر سلیمان
+    common: جزایر سلیمان
+  SO:
+    official: سومالی
+    common: سومالی
+  ZA:
+    official: آفریقای جنوبی
+    common: آفریقای جنوبی
+  GS:
+    official: جورجیای جنوبی و جزایر ساندویچ جنوبی
+    common: جورجیای جنوبی و جزایر ساندویچ جنوبی
+  ES:
+    official: اسپانیا
+    common: اسپانیا
+  LK:
+    official: سری‌لانکا
+    common: سری‌لانکا
+  SD:
+    official: سودان
+    common: سودان
+  SR:
+    official: سورینام
+    common: سورینام
+  SS:
+    official: سودان جنوبی
+    common: سودان جنوبی
+  SJ:
+    official: اسوالبارد و جان ماین
+    common: اسوالبارد و جان ماین
+  SZ:
+    official: سوازیلند
+    common: سوازیلند
+  SE:
+    official: سوئد
+    common: سوئد
+  CH:
+    official: سوئیس
+    common: سوئیس
+  SY:
+    official: جمهوری عربی سوریه
+    common: جمهوری عربی سوریه
+  TW:
+    official: تایوان
+    common: تایوان
+  TJ:
+    official: تاجیکستان
+    common: تاجیکستان
+  TZ:
+    official: تانزانیا، جمهوری متحده
+    common: تانزانیا، جمهوری متحده
+  TH:
+    official: تایلند
+    common: تایلند
+  TL:
+    official: تیمور شرقی
+    common: تیمور شرقی
+  TG:
+    official: توگو
+    common: توگو
+  TK:
+    official: توکلائو
+    common: توکلائو
+  TO:
+    official: تونگا
+    common: تونگا
+  TT:
+    official: ترینیداد و تُباگو
+    common: ترینیداد و تُباگو
+  TN:
+    official: تونس
+    common: تونس
+  TR:
+    official: ترکیه
+    common: ترکیه
+  TM:
+    official: ترکمنستان
+    common: ترکمنستان
+  TC:
+    official: جزایر ترک و کایکوس
+    common: جزایر ترک و کایکوس
+  TV:
+    official: تووالو
+    common: تووالو
+  UG:
+    official: اوگاندا
+    common: اوگاندا
+  UA:
+    official: اکراین
+    common: اکراین
+  AE:
+    official: امارات متحده عربی
+    common: امارات متحده عربی
+  GB:
+    official: انگلستان
+    common: انگلستان
+  US:
+    official: ایالات متحدهٔ آمریکا
+    common: ایالات متحدهٔ آمریکا
+  UM:
+    official: جزایر کوچک دورافتادهٔ ایالات متحده
+    common: جزایر کوچک دورافتادهٔ ایالات متحده
+  UY:
+    official: اروگوئه
+    common: اروگوئه
+  UZ:
+    official: ازبکستان
+    common: ازبکستان
+  VU:
+    official: وانواتو
+    common: وانواتو
+  VE:
+    official: ونزوئلا، جمهوری بولیواری
+    common: ونزوئلا، جمهوری بولیواری
+  VN:
+    official: ویتنام
+    common: ویتنام
+  VG:
+    official: جزایر ویرجین ، بریتانیا
+    common: جزایر ویرجین ، بریتانیا
+  VI:
+    official: جزایر ویرجین ایالات متحده
+    common: جزایر ویرجین ایالات متحده
+  WF:
+    official: والیس و فیوتونا
+    common: والیس و فیوتونا
+  EH:
+    official: صحرای غربی
+    common: صحرای غربی
+  YE:
+    official: یمن
+    common: یمن
+  ZM:
+    official: زامبیا
+    common: زامبیا
+  ZW:
+    official: زیمبابوه
+    common: زیمبابوه

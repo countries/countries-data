@@ -11,16 +11,26 @@
 #
 ---
 oc:
-  US: USA  
+  US:
+    official: "USA"
 ar:
-  PS: "فلسطين"
-  SA: "السعودية"
-  AE: "الامارات العربية المتحدة"
-  SD: "السودان"
-  SO: "الصومال‎"
-  SY: "سوريا"
+  PS:
+    official: "فلسطين"
+  SA:
+    official: "السعودية"
+  AE:
+    official: "الامارات العربية المتحدة"
+  SD:
+    official: "السودان"
+  SO:
+    official: "الصومال‎"
+  SY:
+    official: "سوريا"
 zh:
-  KH: '柬埔寨'
+  KH:
+    official: "柬埔寨"
 ar:
-  BQ: "بونير، سينت أوستاتيوس وسابا"
-  CW: "كوراساو" 
+  BQ:
+    official: "بونير، سينت أوستاتيوس وسابا"
+  CW:
+    official: "كوراساو"

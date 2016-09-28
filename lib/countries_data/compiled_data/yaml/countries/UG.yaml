@@ -1,0 +1,329 @@
+---
+continent: Africa
+alpha2: UG
+alpha3: UGA
+country_code: '256'
+international_prefix: '000'
+ioc: UGA
+gec: UG
+name: Uganda
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: '0'
+number: '800'
+region: Africa
+subregion: Eastern Africa
+world_region: EMEA
+un_locode: UG
+nationality: Ugandan
+postal_code: false
+unofficial_names:
+- Uganda
+- ウガンダ
+- Oeganda
+languages_official:
+- en
+- sw
+languages_spoken:
+- en
+- sw
+geo:
+  latitude: 1.373333
+  latitude_dec: '1.2773280143737793'
+  longitude: 32.290275
+  longitude_dec: '32.389984130859375'
+  max_latitude: 4.218627700000001
+  max_longitude: 35.0330489
+  min_latitude: -1.482318
+  min_longitude: 29.5734329
+  bounds:
+    northeast:
+      lat: 4.218627700000001
+      lng: 35.0330489
+    southwest:
+      lat: -1.482318
+      lng: 29.5734329
+currency_code: UGX
+postal_address_data:
+  id: data/UG
+  key: UG
+  name: UGANDA
+translations:
+  af:
+    official: Uganda
+    common: Uganda
+  sq:
+    official: Uganda
+    common: Uganda
+  am:
+    official: ፙጒን፣
+    common: ፙጒን፣
+  ar:
+    official: أوغندا
+    common: أوغندا
+  hy:
+    official: Ուգանդա
+    common: Ուգանդա
+  as:
+    official: উগাণ্ডা
+    common: উগাণ্ডা
+  az:
+    official: Uqanda
+    common: Uqanda
+  eu:
+    official: Uganda
+    common: Uganda
+  be:
+    official: Уганда
+    common: Уганда
+  bn:
+    official: উগান্ডা
+    common: উগান্ডা
+  bs:
+    official: Uganda
+    common: Uganda
+  br:
+    official: Uganda
+    common: Uganda
+  bg:
+    official: Уганда
+    common: Уганда
+  ca:
+    official: Uganda
+    common: Uganda
+  zh:
+    official: 乌干达
+    common: 乌干达
+  cs:
+    official: Uganda
+    common: Uganda
+  da:
+    official: Uganda
+    common: Uganda
+  nl:
+    official: Oeganda
+    common: Oeganda
+  dz:
+    official: ཡུ་གེན་ཌ།
+    common: ཡུ་གེན་ཌ།
+  en:
+    official: Uganda
+    common: Uganda
+  eo:
+    official: Ugando
+    common: Ugando
+  et:
+    official: Uganda
+    common: Uganda
+  fo:
+    official: Uganda
+    common: Uganda
+  fi:
+    official: Uganda
+    common: Uganda
+  fr:
+    official: Ouganda
+    common: Ouganda
+  ka:
+    official: უგანდა
+    common: უგანდა
+  de:
+    official: Uganda
+    common: Uganda
+  ga:
+    official: Uganda
+    common: Uganda
+  gl:
+    official: Uganda
+    common: Uganda
+  el:
+    official: Ουγκάντα
+    common: Ουγκάντα
+  gu:
+    official: યુગાન્ડા
+    common: યુગાન્ડા
+  he:
+    official: אוגנדה
+    common: אוגנדה
+  hi:
+    official: यूगान्डा
+    common: यूगान्डा
+  hr:
+    official: Uganda
+    common: Uganda
+  hu:
+    official: Uganda
+    common: Uganda
+  is:
+    official: Úganda
+    common: Úganda
+  ia:
+    official: Uganda
+    common: Uganda
+  id:
+    official: Uganda
+    common: Uganda
+  it:
+    official: Uganda
+    common: Uganda
+  ja:
+    official: ウガンダ
+    common: ウガンダ
+  kn:
+    official: ಉಗಾಂಡಾ
+    common: ಉಗಾಂಡಾ
+  kk:
+    official: Уганда
+    common: Уганда
+  km:
+    official: អ៊ូហ្គង់ដា
+    common: អ៊ូហ្គង់ដា
+  rw:
+    official: Yuganda
+    common: Yuganda
+  ko:
+    official: 우간다
+    common: 우간다
+  ku:
+    official: Ûganda
+    common: Ûganda
+  lv:
+    official: Uganda
+    common: Uganda
+  lt:
+    official: Uganda
+    common: Uganda
+  mk:
+    official: Уганда
+    common: Уганда
+  ml:
+    official: ഉഗാണ്ട
+    common: ഉഗാണ്ട
+  mi:
+    official: Ukānga
+    common: Ukānga
+  mr:
+    official: युगांडा
+    common: युगांडा
+  ms:
+    official: Uganda
+    common: Uganda
+  mt:
+    official: Kanada
+    common: Kanada
+  mn:
+    official: Уганда
+    common: Уганда
+  ne:
+    official: उगान्डा
+    common: उगान्डा
+  nn:
+    official: Uganda
+    common: Uganda
+  nb:
+    official: Uganda
+    common: Uganda
+  oc:
+    official: Oganda
+    common: Oganda
+  or:
+    official: ୟୁଗାଣ୍ଡା
+    common: ୟୁଗାଣ୍ଡା
+  pa:
+    official: ਯੂਗਾਂਡਾ
+    common: ਯੂਗਾਂਡਾ
+  fa:
+    official: اوگاندا
+    common: اوگاندا
+  pl:
+    official: Uganda
+    common: Uganda
+  pt:
+    official: Uganda
+    common: Uganda
+  ps:
+    official: Uganda
+    common: Uganda
+  ro:
+    official: Uganda
+    common: Uganda
+  ru:
+    official: Уганда
+    common: Уганда
+  si:
+    official: උගන්ඩාව
+    common: උගන්ඩාව
+  sk:
+    official: Uganda
+    common: Uganda
+  sl:
+    official: Uganda
+    common: Uganda
+  so:
+    official: Ugaanda
+    common: Ugaanda
+  es:
+    official: Uganda
+    common: Uganda
+  sr:
+    official: Уганда
+    common: Уганда
+  sw:
+    official: Uganda
+    common: Uganda
+  sv:
+    official: Uganda
+    common: Uganda
+  ta:
+    official: உகாண்டா
+    common: உகாண்டா
+  tt:
+    official: Уgанда
+    common: Уgанда
+  te:
+    official: యుగాండా
+    common: యుగాండా
+  tl:
+    official: Uganda
+    common: Uganda
+  th:
+    official: ยูกันดา
+    common: ยูกันดา
+  ti:
+    official: ዩጋንዳ
+    common: ዩጋንዳ
+  tk:
+    official: Uganda
+    common: Uganda
+  tr:
+    official: Uganda
+    common: Uganda
+  ug:
+    official: ئۇگاندا
+    common: ئۇگاندا
+  uk:
+    official: Уганда
+    common: Уганда
+  ve:
+    official: Uganda
+    common: Uganda
+  vi:
+    official: U-gan-đa
+    common: U-gan-đa
+  cy:
+    official: Uganda
+    common: Uganda
+  wa:
+    official: Ouganda
+    common: Ouganda
+  wo:
+    official: Ugaanda
+    common: Ugaanda
+  xh:
+    official: Canada
+    common: Canada
+  zu:
+    official: I Khanada
+    common: I Khanada

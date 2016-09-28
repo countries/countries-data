@@ -1,0 +1,348 @@
+---
+continent: Europe
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{region}}
+  {{country}}
+alpha2: DK
+alpha3: DNK
+country_code: '45'
+international_prefix: '00'
+ioc: DEN
+gec: DA
+name: Denmark
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: None
+number: '208'
+region: Europe
+subregion: Northern Europe
+world_region: EMEA
+un_locode: DK
+nationality: Danish
+eu_member: true
+eea_member: true
+vat_rates:
+  standard: 25
+  reduced: []
+  super_reduced: 
+  parking: 
+postal_code: true
+unofficial_names:
+- Denmark
+- Dänemark
+- Danemark
+- Dinamarca
+- デンマーク
+- Denemarken
+languages_official:
+- da
+languages_spoken:
+- da
+geo:
+  latitude: 56.26392
+  latitude_dec: '56.10176086425781'
+  longitude: 9.501785
+  longitude_dec: '9.555907249450684'
+  max_latitude: 57.7518131
+  max_longitude: 15.1972814
+  min_latitude: 54.5591689
+  min_longitude: 8.072240899999999
+  bounds:
+    northeast:
+      lat: 57.7518131
+      lng: 15.1972814
+    southwest:
+      lat: 54.5591689
+      lng: 8.072240899999999
+currency_code: DKK
+postal_address_data:
+  key: DK
+  zipex: '8660,1566'
+  name: DENMARK
+  zip: "\\d{4}"
+  require: ACZ
+  id: data/DK
+  posturl: http://www.postdanmark.dk/da/Privat/Kundeservice/postnummerkort/Sider/Find-postnummer.aspx
+  fmt: "%N%n%O%n%A%n%Z %C"
+translations:
+  af:
+    official: Denemarke
+    common: Denemarke
+  sq:
+    official: Danimarka
+    common: Danimarka
+  am:
+    official: "፤ንሢሴጤ"
+    common: "፤ንሢሴጤ"
+  ar:
+    official: الدّنمارك
+    common: الدّنمارك
+  hy:
+    official: Դանիա
+    common: Դանիա
+  as:
+    official: ডেনমাৰ্ক
+    common: ডেনমাৰ্ক
+  az:
+    official: Danimarka
+    common: Danimarka
+  eu:
+    official: Danimarka
+    common: Danimarka
+  be:
+    official: Данія
+    common: Данія
+  bn:
+    official: ডেনমার্ক
+    common: ডেনমার্ক
+  bs:
+    official: Njemačka
+    common: Njemačka
+  br:
+    official: Danmark
+    common: Danmark
+  bg:
+    official: Дания
+    common: Дания
+  ca:
+    official: Dinamarca
+    common: Dinamarca
+  zh:
+    official: 丹麦
+    common: 丹麦
+  cs:
+    official: Dánsko
+    common: Dánsko
+  da:
+    official: Danmark
+    common: Danmark
+  nl:
+    official: Denemarken
+    common: Denemarken
+  dz:
+    official: ཌེན་མཱརཀ།
+    common: ཌེན་མཱརཀ།
+  en:
+    official: Denmark
+    common: Denmark
+  eo:
+    official: Danio
+    common: Danio
+  et:
+    official: Taani
+    common: Taani
+  fo:
+    official: Danmørk
+    common: Danmørk
+  fi:
+    official: Tanska
+    common: Tanska
+  fr:
+    official: Danemark
+    common: Danemark
+  ka:
+    official: დანია
+    common: დანია
+  de:
+    official: Dänemark
+    common: Dänemark
+  ga:
+    official: An Danmhairg
+    common: An Danmhairg
+  gl:
+    official: Dinamarca
+    common: Dinamarca
+  el:
+    official: Δανία
+    common: Δανία
+  gu:
+    official: ડેનમાર્ક
+    common: ડેનમાર્ક
+  he:
+    official: דנמרק
+    common: דנמרק
+  hi:
+    official: डेनमार्क
+    common: डेनमार्क
+  hr:
+    official: Danska
+    common: Danska
+  hu:
+    official: Dánia
+    common: Dánia
+  is:
+    official: Danmörk
+    common: Danmörk
+  ia:
+    official: Danmark
+    common: Danmark
+  id:
+    official: Denmark
+    common: Denmark
+  it:
+    official: Danimarca
+    common: Danimarca
+  ja:
+    official: デンマーク
+    common: デンマーク
+  kn:
+    official: ಡೆನ್ಮಾರ್ಕ್
+    common: ಡೆನ್ಮಾರ್ಕ್
+  kk:
+    official: Дания
+    common: Дания
+  km:
+    official: ដាណឺម៉ាក
+    common: ដាណឺម៉ាក
+  rw:
+    official: Danimarike
+    common: Danimarike
+  ko:
+    official: 덴마크
+    common: 덴마크
+  ku:
+    official: Danîmarka
+    common: Danîmarka
+  lv:
+    official: Dānija
+    common: Dānija
+  lt:
+    official: Danija
+    common: Danija
+  mk:
+    official: Данска
+    common: Данска
+  ml:
+    official: ഡെന്മാര്‍ക്ക്
+    common: ഡെന്മാര്‍ക്ക്
+  mi:
+    official: Tenemāka
+    common: Tenemāka
+  mr:
+    official: डेन्मार्क
+    common: डेन्मार्क
+  ms:
+    official: Denmark
+    common: Denmark
+  mt:
+    official: Danimarka
+    common: Danimarka
+  mn:
+    official: Дани
+    common: Дани
+  ne:
+    official: डेनमार्क
+    common: डेनमार्क
+  nn:
+    official: Danmark
+    common: Danmark
+  nb:
+    official: Danmark
+    common: Danmark
+  oc:
+    official: Danemarc
+    common: Danemarc
+  or:
+    official: ଡେନମାର୍କ
+    common: ଡେନମାର୍କ
+  pa:
+    official: ਡੈਨਮਾਰਕ
+    common: ਡੈਨਮਾਰਕ
+  fa:
+    official: دانمارک
+    common: دانمارک
+  pl:
+    official: Dania
+    common: Dania
+  pt:
+    official: Dinamarca
+    common: Dinamarca
+  ps:
+    official: ډنمارک
+    common: ډنمارک
+  ro:
+    official: Danemarca
+    common: Danemarca
+  ru:
+    official: Дания
+    common: Дания
+  si:
+    official: ඩෙන්මාකය
+    common: ඩෙන්මාකය
+  sk:
+    official: Dánsko
+    common: Dánsko
+  sl:
+    official: Danska
+    common: Danska
+  so:
+    official: Danmaark
+    common: Danmaark
+  es:
+    official: Dinamarca
+    common: Dinamarca
+  sr:
+    official: Данска
+    common: Данска
+  sw:
+    official: Denmark
+    common: Denmark
+  sv:
+    official: Danmark
+    common: Danmark
+  ta:
+    official: டென்மார்க்
+    common: டென்மார்க்
+  tt:
+    official: Даниа
+    common: Даниа
+  te:
+    official: డెన్మార్క్
+    common: డెన్మార్క్
+  tl:
+    official: Denmark
+    common: Denmark
+  th:
+    official: เดนมาร์ก
+    common: เดนมาร์ก
+  ti:
+    official: ዴንማርክ
+    common: ዴንማርክ
+  tk:
+    official: Daniýa
+    common: Daniýa
+  tr:
+    official: Danimarka
+    common: Danimarka
+  ug:
+    official: دانىيە
+    common: دانىيە
+  uk:
+    official: Данія
+    common: Данія
+  ve:
+    official: Denmark
+    common: Denmark
+  vi:
+    official: Đan Mạch
+    common: Đan Mạch
+  cy:
+    official: Denmarc
+    common: Denmarc
+  wa:
+    official: Daenmåtche
+    common: Daenmåtche
+  wo:
+    official: Danmaark
+    common: Danmaark
+  xh:
+    official: Denmark
+    common: Denmark
+  zu:
+    official: Isi-Denimaki
+    common: Isi-Denimaki

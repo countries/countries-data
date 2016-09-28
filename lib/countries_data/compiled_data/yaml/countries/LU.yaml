@@ -1,0 +1,352 @@
+---
+continent: Europe
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: LU
+alpha3: LUX
+country_code: '352'
+international_prefix: '00'
+ioc: LUX
+gec: LU
+name: Luxembourg
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: None
+number: '442'
+region: Europe
+subregion: Western Europe
+world_region: EMEA
+un_locode: LU
+nationality: Luxembourger
+eu_member: true
+eea_member: true
+vat_rates:
+  standard: 17
+  reduced:
+  - 8
+  - 14
+  super_reduced: 3
+  parking: 12
+postal_code: true
+unofficial_names:
+- Luxembourg
+- Luxemburg
+- Luxemburgo
+- ルクセンブルク
+languages_official:
+- fr
+- de
+- lb
+languages_spoken:
+- fr
+- de
+- lb
+geo:
+  latitude: 49.815273
+  latitude_dec: '49.77788162231445'
+  longitude: 6.129582999999999
+  longitude_dec: '6.094746112823486'
+  max_latitude: 50.18282
+  max_longitude: 6.530970099999999
+  min_latitude: 49.447779
+  min_longitude: 5.73567
+  bounds:
+    northeast:
+      lat: 50.18282
+      lng: 6.530970099999999
+    southwest:
+      lat: 49.447779
+      lng: 5.73567
+currency_code: EUR
+postal_address_data:
+  postprefix: L-
+  zipex: '4750,2998'
+  name: LUXEMBOURG
+  zip: "\\d{4}"
+  require: ACZ
+  id: data/LU
+  key: LU
+  posturl: http://www.pt.lu/portal/services_en_ligne/recherche_codes_postaux
+  fmt: "%O%n%N%n%A%nL-%Z %C"
+translations:
+  af:
+    official: Luxenburg
+    common: Luxenburg
+  sq:
+    official: Luksemburgu
+    common: Luksemburgu
+  am:
+    official: Luxembourg
+    common: Luxembourg
+  ar:
+    official: لوكسمبورغ
+    common: لوكسمبورغ
+  hy:
+    official: Լյուքսեմբուրգ
+    common: Լյուքսեմբուրգ
+  as:
+    official: লাক্সেমবুৰ্গ
+    common: লাক্সেমবুৰ্গ
+  az:
+    official: Lüksemburq
+    common: Lüksemburq
+  eu:
+    official: Luxenburgo
+    common: Luxenburgo
+  be:
+    official: Люксембург
+    common: Люксембург
+  bn:
+    official: লাক্সেমবুর্গ
+    common: লাক্সেমবুর্গ
+  bs:
+    official: Luksemburg
+    common: Luksemburg
+  br:
+    official: Luksembourg
+    common: Luksembourg
+  bg:
+    official: Люксембург
+    common: Люксембург
+  ca:
+    official: Luxemburg
+    common: Luxemburg
+  zh:
+    official: 卢森堡
+    common: 卢森堡
+  cs:
+    official: Lucembursko
+    common: Lucembursko
+  da:
+    official: Luxemburg
+    common: Luxemburg
+  nl:
+    official: Luxemburg
+    common: Luxemburg
+  dz:
+    official: ལག་ཟེམ་བཱརག།
+    common: ལག་ཟེམ་བཱརག།
+  en:
+    official: Luxembourg
+    common: Luxembourg
+  eo:
+    official: Luksemburgio
+    common: Luksemburgio
+  et:
+    official: Luksemburg
+    common: Luksemburg
+  fo:
+    official: Luksemborg
+    common: Luksemborg
+  fi:
+    official: Luxemburg
+    common: Luxemburg
+  fr:
+    official: Luxembourg
+    common: Luxembourg
+  ka:
+    official: ლუქსემბურგი
+    common: ლუქსემბურგი
+  de:
+    official: Luxemburg
+    common: Luxemburg
+  ga:
+    official: Lucsamburg
+    common: Lucsamburg
+  gl:
+    official: Luxemburgo
+    common: Luxemburgo
+  el:
+    official: Λουξεμβούργο
+    common: Λουξεμβούργο
+  gu:
+    official: લક્ઝમબર્ગ
+    common: લક્ઝમબર્ગ
+  he:
+    official: לוקסמבורג
+    common: לוקסמבורג
+  hi:
+    official: लक्ज़मबर्ग
+    common: लक्ज़मबर्ग
+  hr:
+    official: Luksemburg
+    common: Luksemburg
+  hu:
+    official: Luxemburg
+    common: Luxemburg
+  is:
+    official: Lúxemborg
+    common: Lúxemborg
+  ia:
+    official: Luxemburg
+    common: Luxemburg
+  id:
+    official: Luksemburg
+    common: Luksemburg
+  it:
+    official: Lussemburgo
+    common: Lussemburgo
+  ja:
+    official: ルクセンブルク
+    common: ルクセンブルク
+  kn:
+    official: ಲುಗ್ಸೆಮ್ಬರ್ಗ್
+    common: ಲುಗ್ಸೆಮ್ಬರ್ಗ್
+  kk:
+    official: Люксембург
+    common: Люксембург
+  km:
+    official: លុចហ្សំបួរ
+    common: លុចហ្សំបួរ
+  rw:
+    official: Lugizamburu
+    common: Lugizamburu
+  ko:
+    official: 룩셈부르크
+    common: 룩셈부르크
+  ku:
+    official: Luksemburg
+    common: Luksemburg
+  lv:
+    official: Luksemburga
+    common: Luksemburga
+  lt:
+    official: Liuksemburgas
+    common: Liuksemburgas
+  mk:
+    official: Луксембург
+    common: Луксембург
+  ml:
+    official: ലക്സെംബര്‍ഗ്
+    common: ലക്സെംബര്‍ഗ്
+  mi:
+    official: Rakapuō
+    common: Rakapuō
+  mr:
+    official: लग्झेंबर्ग
+    common: लग्झेंबर्ग
+  ms:
+    official: Luksembourg
+    common: Luksembourg
+  mt:
+    official: Lussemburgu
+    common: Lussemburgu
+  mn:
+    official: Льюксембург
+    common: Льюксембург
+  ne:
+    official: लक्जेम्बर्ग
+    common: लक्जेम्बर्ग
+  nn:
+    official: Luxembourg; Luxemburg
+    common: Luxembourg; Luxemburg
+  nb:
+    official: Luxembourg
+    common: Luxembourg
+  oc:
+    official: Luxemborg
+    common: Luxemborg
+  or:
+    official: ଲେକଜେମ୍ବର୍ଗ
+    common: ଲେକଜେମ୍ବର୍ଗ
+  pa:
+    official: ਲ਼ਕਸ਼ਬਰਗ
+    common: ਲ਼ਕਸ਼ਬਰਗ
+  fa:
+    official: لوگزامبورگ
+    common: لوگزامبورگ
+  pl:
+    official: Luksemburg
+    common: Luksemburg
+  pt:
+    official: Luxemburgo
+    common: Luxemburgo
+  ps:
+    official: Luxembourg
+    common: Luxembourg
+  ro:
+    official: Luxemburg
+    common: Luxemburg
+  ru:
+    official: Люксембург
+    common: Люксембург
+  si:
+    official: ලක්සම්බර්ග්
+    common: ලක්සම්බර්ග්
+  sk:
+    official: Luxembursko
+    common: Luxembursko
+  sl:
+    official: Luksemburg
+    common: Luksemburg
+  so:
+    official: Luksemboorg
+    common: Luksemboorg
+  es:
+    official: Luxemburgo
+    common: Luxemburgo
+  sr:
+    official: Луксембург
+    common: Луксембург
+  sw:
+    official: Luxembourg
+    common: Luxembourg
+  sv:
+    official: Luxemburg
+    common: Luxemburg
+  ta:
+    official: லக்ஸம்பர்க்
+    common: லக்ஸம்பர்க்
+  tt:
+    official: Лүксембурg
+    common: Лүксембурg
+  te:
+    official: లగ్జెంబర్గ్
+    common: లగ్జెంబర్గ్
+  tl:
+    official: Luxembourg
+    common: Luxembourg
+  th:
+    official: ลักเซมเบิร์ก
+    common: ลักเซมเบิร์ก
+  ti:
+    official: Luxembourg
+    common: Luxembourg
+  tk:
+    official: Lýuksenburg
+    common: Lýuksenburg
+  tr:
+    official: Lüksemburg
+    common: Lüksemburg
+  ug:
+    official: لىيۇكسېمبۇرگ
+    common: لىيۇكسېمبۇرگ
+  uk:
+    official: Люксембург
+    common: Люксембург
+  ve:
+    official: Luxembourg
+    common: Luxembourg
+  vi:
+    official: Lục Xâm Bảo
+    common: Lục Xâm Bảo
+  cy:
+    official: Lwcsembwrg
+    common: Lwcsembwrg
+  wa:
+    official: Lussimbork
+    common: Lussimbork
+  wo:
+    official: Luksembuur
+    common: Luksembuur
+  xh:
+    official: Luxembourg
+    common: Luxembourg
+  zu:
+    official: I-Luxembourg
+    common: I-Luxembourg

@@ -1,0 +1,332 @@
+---
+continent: Asia
+alpha2: CC
+alpha3: CCK
+country_code: '61'
+international_prefix: '0011'
+ioc: 
+gec: CK
+name: Cocos (Keeling) Islands
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: '0'
+number: '166'
+region: Oceania
+subregion: Australia and New Zealand
+world_region: APAC
+un_locode: CC
+nationality: Cocos Islander
+postal_code: true
+unofficial_names:
+- Cocos (Keeling) Islands
+- Kokosinseln
+- ココス（キーリング）諸島
+- Cocoseilanden
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: -12.170692
+  latitude_dec: "-12.200602531433105"
+  longitude: 96.841748
+  longitude_dec: '96.85894012451172'
+  max_latitude: -11.8221888
+  max_longitude: 96.9294919
+  min_latitude: -12.2088703
+  min_longitude: 96.8166785
+  bounds:
+    northeast:
+      lat: -11.8221888
+      lng: 96.9294919
+    southwest:
+      lat: -12.2088703
+      lng: 96.8166785
+currency_code: AUD
+postal_address_data:
+  upper: CS
+  zipex: '6799'
+  name: COCOS (KEELING) ISLANDS
+  zip: '6799'
+  fmt: "%O%n%N%n%A%n%C %S %Z"
+  key: CC
+  id: data/CC
+translations:
+  af:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  sq:
+    official: Ishujt Kokos (Keeling)
+    common: Ishujt Kokos (Keeling)
+  am:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  ar:
+    official: جزر الكوكوس
+    common: جزر الكوكوس
+  hy:
+    official: Կոկոսյան (Քիլինգ) կղզիներ
+    common: Կոկոսյան (Քիլինգ) կղզիներ
+  as:
+    official: কোকোচ (কিলিং) দ্বীপ
+    common: কোকোচ (কিলিং) দ্বীপ
+  az:
+    official: Kokos Adası
+    common: Kokos Adası
+  eu:
+    official: Cocos (Keeling) uharteak
+    common: Cocos (Keeling) uharteak
+  be:
+    official: Какосавыя (Кілінг) астравы
+    common: Какосавыя (Кілінг) астравы
+  bn:
+    official: কোকোস (কিলিং) দ্বীপ
+    common: কোকোস (কিলিং) দ্বীপ
+  bs:
+    official: Kokosova (Kilingova) ostrva
+    common: Kokosova (Kilingova) ostrva
+  br:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  bg:
+    official: Кокосови острови
+    common: Кокосови острови
+  ca:
+    official: Illes Cocos (Keeling)
+    common: Illes Cocos (Keeling)
+  zh:
+    official: 科科斯群岛
+    common: 科科斯群岛
+  cs:
+    official: Kokosové ostrovy
+    common: Kokosové ostrovy
+  da:
+    official: Cocosøerne (Keelingøerne)
+    common: Cocosøerne (Keelingøerne)
+  nl:
+    official: Cocoseilanden
+    common: Cocoseilanden
+  dz:
+    official: ཀོ་ཀོསི་(ཀི་ལིང་)ཨའི་ལེནཌིསི།
+    common: ཀོ་ཀོསི་(ཀི་ལིང་)ཨའི་ལེནཌིསི།
+  en:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  eo:
+    official: Kokosinsuloj
+    common: Kokosinsuloj
+  et:
+    official: Kookossaared
+    common: Kookossaared
+  fo:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  fi:
+    official: Kookossaaret
+    common: Kookossaaret
+  fr:
+    official: Cocos (Keeling), Îles
+    common: Cocos (Keeling), Îles
+  ka:
+    official: ქოქოსის კუნძული
+    common: ქოქოსის კუნძული
+  de:
+    official: Kokos-(Keeling-)Inseln
+    common: Kokos-(Keeling-)Inseln
+  ga:
+    official: Oileáin Cocos (Oileáin Keeling)
+    common: Oileáin Cocos (Oileáin Keeling)
+  gl:
+    official: Illas Cocos (Keeling)
+    common: Illas Cocos (Keeling)
+  el:
+    official: Νήσοι Κόκος (Κήλινγκ)
+    common: Νήσοι Κόκος (Κήλινγκ)
+  gu:
+    official: કોકોસ (કીલીંગ) ટાપુઓ
+    common: કોકોસ (કીલીંગ) ટાપુઓ
+  he:
+    official: איי קוקוס, קילינג
+    common: איי קוקוס, קילינג
+  hi:
+    official: कोकोज़ (कीलिंग) आइलैंड्स
+    common: कोकोज़ (कीलिंग) आइलैंड्स
+  hr:
+    official: Kokosovi (Keeling) otoci
+    common: Kokosovi (Keeling) otoci
+  hu:
+    official: Cocos (Keeling) -szigetek
+    common: Cocos (Keeling) -szigetek
+  is:
+    official: Kókoseyjar (Keeling-eyjar)
+    common: Kókoseyjar (Keeling-eyjar)
+  ia:
+    official: Insulas Cocos (Keeling)
+    common: Insulas Cocos (Keeling)
+  id:
+    official: Kepulauan Cocos (Keeling)
+    common: Kepulauan Cocos (Keeling)
+  it:
+    official: Isole Cocos (Keeling)
+    common: Isole Cocos (Keeling)
+  ja:
+    official: ココス (キーリング) 諸島
+    common: ココス (キーリング) 諸島
+  kn:
+    official: ಕೋಕೋಸ್(ಕೀಲಿಂಗ್)ದ್ವೀಪಗಳು
+    common: ಕೋಕೋಸ್(ಕೀಲಿಂಗ್)ದ್ವೀಪಗಳು
+  kk:
+    official: Кокос аралдары
+    common: Кокос аралдары
+  km:
+    official: កោះ​កូកូ (ឃីលីង)
+    common: កោះ​កូកូ (ឃីលីង)
+  rw:
+    official: Ibirwa bya Koko
+    common: Ibirwa bya Koko
+  ko:
+    official: 코코스 (킬링) 제도
+    common: 코코스 (킬링) 제도
+  ku:
+    official: Grava Kokos (Kîlîng)
+    common: Grava Kokos (Kîlîng)
+  lv:
+    official: Kokosu (Kīlinga) salas
+    common: Kokosu (Kīlinga) salas
+  lt:
+    official: Kokosų (Kilingo) salos
+    common: Kokosų (Kilingo) salos
+  mk:
+    official: Кокос (Килинг) острови
+    common: Кокос (Килинг) острови
+  ml:
+    official: കൊകോസ് (കീലിങ്ങ്) ദ്വീപുകള്‍
+    common: കൊകോസ് (കീലിങ്ങ്) ദ്വീപുകള്‍
+  mi:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  mr:
+    official: कोकस (कीलिंग) आयलॅंडस्
+    common: कोकस (कीलिंग) आयलॅंडस्
+  ms:
+    official: Kepulauan Cocos (Keeling)
+    common: Kepulauan Cocos (Keeling)
+  mt:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  mn:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  ne:
+    official: कोकोस (किलिङ्) टापु
+    common: कोकोस (किलिङ्) टापु
+  nn:
+    official: Kokosøyane
+    common: Kokosøyane
+  nb:
+    official: Kokosøyene
+    common: Kokosøyene
+  oc:
+    official: Illas Cocos (Keeling)
+    common: Illas Cocos (Keeling)
+  or:
+    official: କୋକୋସ (କିଲିଙ୍ଗ) ଦ୍ବୀପ
+    common: କୋକୋସ (କିଲିଙ୍ଗ) ଦ୍ବୀପ
+  pa:
+    official: ਕੋਕੋਸ(ਕਿਲਿੰਗ) ਟਾਪੂ
+    common: ਕੋਕੋਸ(ਕਿਲਿੰਗ) ਟਾਪੂ
+  fa:
+    official: جزایر کوکوس
+    common: جزایر کوکوس
+  pl:
+    official: Wyspy Kokosowe (Wyspy Keelinga)
+    common: Wyspy Kokosowe (Wyspy Keelinga)
+  pt:
+    official: Ilhas Cocos
+    common: Ilhas Cocos
+  ps:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  ro:
+    official: Insulele Cocos (Keeling)
+    common: Insulele Cocos (Keeling)
+  ru:
+    official: Кокосовые острова
+    common: Кокосовые острова
+  si:
+    official: කොකෝවා (කීලිං) දූපත්
+    common: කොකෝවා (කීලිං) දූපත්
+  sk:
+    official: Kokosové ostrovy
+    common: Kokosové ostrovy
+  sl:
+    official: Kokosovi otoki
+    common: Kokosovi otoki
+  so:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  es:
+    official: Islas Cocos (Keeling)
+    common: Islas Cocos (Keeling)
+  sr:
+    official: Кокосова острва
+    common: Кокосова острва
+  sw:
+    official: Kisiwa cha Cocos (Keeling)
+    common: Kisiwa cha Cocos (Keeling)
+  sv:
+    official: Kokosöarna
+    common: Kokosöarna
+  ta:
+    official: கோகோஸ்(கீலிங்) தீவு
+    common: கோகோஸ்(கீலிங்) தீவு
+  tt:
+    official: Кокос (Кеелинg) Утравлары
+    common: Кокос (Кеелинg) Утравлары
+  te:
+    official: కోకస్ (కీలింగ్) ఐలాండ్స్
+    common: కోకస్ (కీలింగ్) ఐలాండ్స్
+  tl:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  th:
+    official: หมู่เกาะโคโคส (คีลิง)
+    common: หมู่เกาะโคโคส (คีลิง)
+  ti:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  tk:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  tr:
+    official: Cocos (Keeling) Adaları
+    common: Cocos (Keeling) Adaları
+  ug:
+    official: كوكۇس (كېلىڭ)ئارىلى
+    common: كوكۇس (كېلىڭ)ئارىلى
+  uk:
+    official: Кокосові (Кілінг) острови
+    common: Кокосові (Кілінг) острови
+  ve:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  vi:
+    official: Quần đảo Co-co-xợ (Khi-lịng)
+    common: Quần đảo Co-co-xợ (Khi-lịng)
+  cy:
+    official: Ynysoedd Cocos (Keeling)
+    common: Ynysoedd Cocos (Keeling)
+  wa:
+    official: Iyes Cocos (Keeling)
+    common: Iyes Cocos (Keeling)
+  wo:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  xh:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  zu:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands

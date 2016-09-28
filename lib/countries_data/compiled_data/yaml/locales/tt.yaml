@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: Әфгәнстан
+    common: Әфгәнстан
+  AX:
+    official: Аланд Утравлары
+    common: Аланд Утравлары
+  AL:
+    official: Албаниа
+    common: Албаниа
+  DZ:
+    official: Алжыр
+    common: Алжыр
+  AS:
+    official: Америкалы Самоа
+    common: Америкалы Самоа
+  AD:
+    official: Андорра
+    common: Андорра
+  AO:
+    official: Анgола
+    common: Анgола
+  AI:
+    official: Анgуилла
+    common: Анgуилла
+  AQ:
+    official: Антарктика
+    common: Антарктика
+  AG:
+    official: Антиgуа белән Барбуда
+    common: Антиgуа белән Барбуда
+  AR:
+    official: Арgентина
+    common: Арgентина
+  AM:
+    official: Әрмәнстан
+    common: Әрмәнстан
+  AW:
+    official: Аруба
+    common: Аруба
+  AU:
+    official: Аустралиа
+    common: Аустралиа
+  AT:
+    official: Аустриа
+    common: Аустриа
+  AZ:
+    official: Әзәрбайҗан
+    common: Әзәрбайҗан
+  BS:
+    official: Баһамас
+    common: Баһамас
+  BH:
+    official: Баһрейн
+    common: Баһрейн
+  BD:
+    official: Банgладеш
+    common: Банgладеш
+  BB:
+    official: Барбадос
+    common: Барбадос
+  BY:
+    official: Беларус
+    common: Беларус
+  BE:
+    official: Белgиа
+    common: Белgиа
+  BZ:
+    official: Белиз
+    common: Белиз
+  BJ:
+    official: Бенин
+    common: Бенин
+  BM:
+    official: Бермуда
+    common: Бермуда
+  BT:
+    official: Бутан
+    common: Бутан
+  BO:
+    official: Bolivia, Plurinational State of
+    common: Bolivia, Plurinational State of
+  BQ:
+    official: Bonaire, Sint Eustatius and Saba
+    common: Bonaire, Sint Eustatius and Saba
+  BA:
+    official: Босниа белән Һерзеgовина
+    common: Босниа белән Һерзеgовина
+  BW:
+    official: Боцвана
+    common: Боцвана
+  BV:
+    official: Боувет Утравы
+    common: Боувет Утравы
+  BR:
+    official: Бразил
+    common: Бразил
+  IO:
+    official: British Indian Ocean Territory
+    common: British Indian Ocean Territory
+  BN:
+    official: Брунеи Даруссалам
+    common: Брунеи Даруссалам
+  BG:
+    official: Булgариа
+    common: Булgариа
+  BF:
+    official: Буркина Фасо
+    common: Буркина Фасо
+  BI:
+    official: Бурунди
+    common: Бурунди
+  KH:
+    official: Камбодиа
+    common: Камбодиа
+  CM:
+    official: Камероон
+    common: Камероон
+  CA:
+    official: Канада
+    common: Канада
+  CV:
+    official: Капе Верде
+    common: Капе Верде
+  KY:
+    official: Кайман Утравлары
+    common: Кайман Утравлары
+  CF:
+    official: Үзәк Африка Җөмһүриәте
+    common: Үзәк Африка Җөмһүриәте
+  TD:
+    official: Чад
+    common: Чад
+  CL:
+    official: Чили
+    common: Чили
+  CN:
+    official: Чин
+    common: Чин
+  CX:
+    official: Җһристмас Утравлары
+    common: Җһристмас Утравлары
+  CC:
+    official: Кокос (Кеелинg) Утравлары
+    common: Кокос (Кеелинg) Утравлары
+  CO:
+    official: Коломбиа
+    common: Коломбиа
+  KM:
+    official: Коморлар
+    common: Коморлар
+  CG:
+    official: Конgо
+    common: Конgо
+  CD:
+    official: Конgо, Демократ Җөмһүриәте
+    common: Конgо, Демократ Җөмһүриәте
+  CK:
+    official: Кок Утравлары
+    common: Кок Утравлары
+  CR:
+    official: Коста Рика
+    common: Коста Рика
+  CI:
+    official: Җôте д'Ивоире
+    common: Җôте д'Ивоире
+  HR:
+    official: Кроатиа
+    common: Кроатиа
+  CU:
+    official: Куба
+    common: Куба
+  CW:
+    official: Curaçao
+    common: Curaçao
+  CY:
+    official: Кипер
+    common: Кипер
+  CZ:
+    official: Чех Җөмһүриәте
+    common: Чех Җөмһүриәте
+  DK:
+    official: Даниа
+    common: Даниа
+  DJ:
+    official: Джибути
+    common: Джибути
+  DM:
+    official: Доминика
+    common: Доминика
+  DO:
+    official: Доминика Җөмһүриәте
+    common: Доминика Җөмһүриәте
+  EC:
+    official: Екуадор
+    common: Екуадор
+  EG:
+    official: Мысыр
+    common: Мысыр
+  SV:
+    official: Ел Салвадор
+    common: Ел Салвадор
+  GQ:
+    official: Екуаторлы Gуинеа
+    common: Екуаторлы Gуинеа
+  ER:
+    official: Еритреа
+    common: Еритреа
+  EE:
+    official: Естониа
+    common: Естониа
+  ET:
+    official: Ефиопиа
+    common: Ефиопиа
+  FK:
+    official: Фалкланд Утравлары (Малвиннар)
+    common: Фалкланд Утравлары (Малвиннар)
+  FO:
+    official: Фарое Утравлары
+    common: Фарое Утравлары
+  FJ:
+    official: Фижи
+    common: Фижи
+  FI:
+    official: Финланд (Суоми)
+    common: Финланд (Суоми)
+  FR:
+    official: Франсиа
+    common: Франсиа
+  GF:
+    official: Франс Gуиана
+    common: Франс Gуиана
+  PF:
+    official: Франс Полинесиа
+    common: Франс Полинесиа
+  TF:
+    official: French Southern Territories
+    common: French Southern Territories
+  GA:
+    official: Gабон
+    common: Gабон
+  GM:
+    official: Gамбиа
+    common: Gамбиа
+  GE:
+    official: Gөрҗестан
+    common: Gөрҗестан
+  DE:
+    official: Алманиа
+    common: Алманиа
+  GH:
+    official: Gһана
+    common: Gһана
+  GI:
+    official: Gибралтар
+    common: Gибралтар
+  GR:
+    official: Юнанстан
+    common: Юнанстан
+  GL:
+    official: Gреенланд
+    common: Gреенланд
+  GD:
+    official: Gренада
+    common: Gренада
+  GP:
+    official: Gуаделупа
+    common: Gуаделупа
+  GU:
+    official: Gуам
+    common: Gуам
+  GT:
+    official: Gуатемала
+    common: Gуатемала
+  GG:
+    official: Guernsey
+    common: Guernsey
+  GN:
+    official: Gуинеа
+    common: Gуинеа
+  GW:
+    official: Gуинеа-Биссау
+    common: Gуинеа-Биссау
+  GY:
+    official: Gуяна
+    common: Gуяна
+  HT:
+    official: Һаити
+    common: Һаити
+  HM:
+    official: Heard Island and McDonald Islands
+    common: Heard Island and McDonald Islands
+  VA:
+    official: Holy See (Vatican City State)
+    common: Holy See (Vatican City State)
+  HN:
+    official: Һондурас
+    common: Һондурас
+  HK:
+    official: Һонg Конg
+    common: Һонg Конg
+  HU:
+    official: Маҗарстан
+    common: Маҗарстан
+  IS:
+    official: İсланд
+    common: İсланд
+  IN:
+    official: Һиндстан
+    common: Һиндстан
+  ID:
+    official: İндонесиа
+    common: İндонесиа
+  IR:
+    official: İран, İслам Җөмһүриәте
+    common: İран, İслам Җөмһүриәте
+  IQ:
+    official: Гырак
+    common: Гырак
+  IE:
+    official: İреланд, İрландиа
+    common: İреланд, İрландиа
+  IM:
+    official: Isle of Man
+    common: Isle of Man
+  IL:
+    official: İсраел
+    common: İсраел
+  IT:
+    official: İталиа
+    common: İталиа
+  JM:
+    official: Жамайка
+    common: Жамайка
+  JP:
+    official: Жапан, Япониа
+    common: Жапан, Япониа
+  JE:
+    official: Jersey
+    common: Jersey
+  JO:
+    official: Жордан
+    common: Жордан
+  KZ:
+    official: Казакстан
+    common: Казакстан
+  KE:
+    official: Кениа
+    common: Кениа
+  KI:
+    official: Кирибати
+    common: Кирибати
+  KP:
+    official: Korea, Democratic People's Republic of
+    common: Korea, Democratic People's Republic of
+  KR:
+    official: Кореа Җөмһүриәте
+    common: Кореа Җөмһүриәте
+  KW:
+    official: Күвәйт
+    common: Күвәйт
+  KG:
+    official: Кыргызстан
+    common: Кыргызстан
+  LA:
+    official: Lao People's Democratic Republic
+    common: Lao People's Democratic Republic
+  LV:
+    official: Латвиа
+    common: Латвиа
+  LB:
+    official: Лебанон
+    common: Лебанон
+  LS:
+    official: Лесото
+    common: Лесото
+  LR:
+    official: Либериа
+    common: Либериа
+  LY:
+    official: Либериа
+    common: Либериа
+  LI:
+    official: Лиһтенстеин
+    common: Лиһтенстеин
+  LT:
+    official: Литуаниа
+    common: Литуаниа
+  LU:
+    official: Лүксембурg
+    common: Лүксембурg
+  MO:
+    official: Макао
+    common: Макао
+  MK:
+    official: Македониа Җөмһүриәте
+    common: Македониа Җөмһүриәте
+  MG:
+    official: Мадаgаскар
+    common: Мадаgаскар
+  MW:
+    official: Малави
+    common: Малави
+  MY:
+    official: Малайсиа
+    common: Малайсиа
+  MV:
+    official: Малдивлар
+    common: Малдивлар
+  ML:
+    official: Мали
+    common: Мали
+  MT:
+    official: Малта
+    common: Малта
+  MH:
+    official: Маршал Утравлары
+    common: Маршал Утравлары
+  MQ:
+    official: Мартиник
+    common: Мартиник
+  MR:
+    official: Мауританиа
+    common: Мауританиа
+  MU:
+    official: Мауритиус
+    common: Мауритиус
+  YT:
+    official: Маётте
+    common: Маётте
+  MX:
+    official: Мексико
+    common: Мексико
+  FM:
+    official: Микронесиа, Берләшкән İлләре
+    common: Микронесиа, Берләшкән İлләре
+  MD:
+    official: Македониа Җөмһүриәте
+    common: Македониа Җөмһүриәте
+  MC:
+    official: Манако
+    common: Манако
+  MN:
+    official: Моголстан
+    common: Моголстан
+  ME:
+    official: Сербиа белән Монтенеgро
+    common: Сербиа белән Монтенеgро
+  MS:
+    official: Монцеррат
+    common: Монцеррат
+  MA:
+    official: Морокко
+    common: Морокко
+  MZ:
+    official: Мозамбик
+    common: Мозамбик
+  MM:
+    official: Мианмар
+    common: Мианмар
+  NA:
+    official: Намибиа
+    common: Намибиа
+  NR:
+    official: Науру
+    common: Науру
+  NP:
+    official: Непал
+    common: Непал
+  NL:
+    official: Нидерландлар
+    common: Нидерландлар
+  NC:
+    official: Яңа Каледониа
+    common: Яңа Каледониа
+  NZ:
+    official: Яңа Зеаланд
+    common: Яңа Зеаланд
+  NI:
+    official: Никараgуа
+    common: Никараgуа
+  NE:
+    official: Ниgер
+    common: Ниgер
+  NG:
+    official: Ниgериа
+    common: Ниgериа
+  NU:
+    official: Ниу
+    common: Ниу
+  NF:
+    official: Норфолк Утравлары
+    common: Норфолк Утравлары
+  MP:
+    official: Төняк Мариана Утравлары
+    common: Төняк Мариана Утравлары
+  'NO':
+    official: Норвай
+    common: Норвай
+  OM:
+    official: Оман
+    common: Оман
+  PK:
+    official: Пәкстан
+    common: Пәкстан
+  PW:
+    official: Палау
+    common: Палау
+  PS:
+    official: Palestine, State of
+    common: Palestine, State of
+  PA:
+    official: Панама
+    common: Панама
+  PG:
+    official: Папуа Яңа Gуинеа
+    common: Папуа Яңа Gуинеа
+  PY:
+    official: Параgуай
+    common: Параgуай
+  PE:
+    official: Перу
+    common: Перу
+  PH:
+    official: Филиппиннәр
+    common: Филиппиннәр
+  PN:
+    official: Питкаирн
+    common: Питкаирн
+  PL:
+    official: Полониа, Полша
+    common: Полониа, Полша
+  PT:
+    official: Портуgалиа
+    common: Портуgалиа
+  PR:
+    official: Пуерто Рико
+    common: Пуерто Рико
+  QA:
+    official: Катар
+    common: Катар
+  RE:
+    official: Рéунион
+    common: Рéунион
+  RO:
+    official: Романиа
+    common: Романиа
+  RU:
+    official: Урыс Патшаһлык
+    common: Урыс Патшаһлык
+  RW:
+    official: Рванда
+    common: Рванда
+  BL:
+    official: Saint Barthélemy
+    common: Saint Barthélemy
+  SH:
+    official: Saint Helena, Ascension and Tristan da Cunha
+    common: Saint Helena, Ascension and Tristan da Cunha
+  KN:
+    official: Saint Kitts and Nevis
+    common: Saint Kitts and Nevis
+  LC:
+    official: Саинт Луҗиа
+    common: Саинт Луҗиа
+  MF:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  PM:
+    official: Саинт Пиерре белән Микуелон
+    common: Саинт Пиерре белән Микуелон
+  VC:
+    official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+  WS:
+    official: Самоа
+    common: Самоа
+  SM:
+    official: Сан Марино
+    common: Сан Марино
+  ST:
+    official: Сао Томе белән Принҗипе
+    common: Сао Томе белән Принҗипе
+  SA:
+    official: Сөгүд Гәрәбстан
+    common: Сөгүд Гәрәбстан
+  SN:
+    official: Сенеgал
+    common: Сенеgал
+  RS:
+    official: Әзәрбайҗан
+    common: Әзәрбайҗан
+  SC:
+    official: Сейшелләр
+    common: Сейшелләр
+  SL:
+    official: Сиерра Леоне
+    common: Сиерра Леоне
+  SG:
+    official: Синgапур
+    common: Синgапур
+  SX:
+    official: Sint Maarten (Dutch part)
+    common: Sint Maarten (Dutch part)
+  SK:
+    official: Словакиа
+    common: Словакиа
+  SI:
+    official: Словениа
+    common: Словениа
+  SB:
+    official: Соломон Утравлары
+    common: Соломон Утравлары
+  SO:
+    official: Сомалиа
+    common: Сомалиа
+  ZA:
+    official: Көняк Африка
+    common: Көняк Африка
+  GS:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  ES:
+    official: İспаниа
+    common: İспаниа
+  LK:
+    official: Шри Ланка
+    common: Шри Ланка
+  SD:
+    official: Судан
+    common: Судан
+  SR:
+    official: Суринам
+    common: Суринам
+  SS:
+    official: Судан Җөмһүриәте
+    common: Судан Җөмһүриәте
+  SJ:
+    official: Свалбард белән Жан Майен
+    common: Свалбард белән Жан Майен
+  SZ:
+    official: Свазиланд
+    common: Свазиланд
+  SE:
+    official: İсвәҗ, Шведсиа
+    common: İсвәҗ, Шведсиа
+  CH:
+    official: İсвичрә
+    common: İсвичрә
+  SY:
+    official: Гәрәп Сүриә Җөмһүриәте
+    common: Гәрәп Сүриә Җөмһүриәте
+  TW:
+    official: Тайван
+    common: Тайван
+  TJ:
+    official: Тажыкстан
+    common: Тажыкстан
+  TZ:
+    official: Танзаниа, Берләшкән Җөмһүриәтләре
+    common: Танзаниа, Берләшкән Җөмһүриәтләре
+  TH:
+    official: Тайланд
+    common: Тайланд
+  TL:
+    official: Тимор-Лесте
+    common: Тимор-Лесте
+  TG:
+    official: Тоgо
+    common: Тоgо
+  TK:
+    official: Токелауча
+    common: Токелауча
+  TO:
+    official: Тонgа
+    common: Тонgа
+  TT:
+    official: Тринидад белән Тобаgо
+    common: Тринидад белән Тобаgо
+  TN:
+    official: Тунисиа
+    common: Тунисиа
+  TR:
+    official: Төркиә
+    common: Төркиә
+  TM:
+    official: Төркмәнстан
+    common: Төркмәнстан
+  TC:
+    official: Түркс белән Җаиҗос Утравлары
+    common: Түркс белән Җаиҗос Утравлары
+  TV:
+    official: Тувалуча
+    common: Тувалуча
+  UG:
+    official: Уgанда
+    common: Уgанда
+  UA:
+    official: Украин
+    common: Украин
+  AE:
+    official: Берләшкән Гәрәп Әмирлекләре
+    common: Берләшкән Гәрәп Әмирлекләре
+  GB:
+    official: Берләшкән Падшаһлык
+    common: Берләшкән Падшаһлык
+  US:
+    official: Берләшкән Штатлар
+    common: Берләшкән Штатлар
+  UM:
+    official: United States Minor Outlying Islands
+    common: United States Minor Outlying Islands
+  UY:
+    official: Уруgуай
+    common: Уруgуай
+  UZ:
+    official: Өзбәкстан
+    common: Өзбәкстан
+  VU:
+    official: Вануату
+    common: Вануату
+  VE:
+    official: Сосиалист Җөмһүриәте Виет Нам
+    common: Сосиалист Җөмһүриәте Виет Нам
+  VN:
+    official: Виет Нам
+    common: Виет Нам
+  VG:
+    official: Вирgин Утравлары, Британ
+    common: Вирgин Утравлары, Британ
+  VI:
+    official: Вирgин Утравлары, АКШ
+    common: Вирgин Утравлары, АКШ
+  WF:
+    official: Валлис вә Футуна
+    common: Валлис вә Футуна
+  EH:
+    official: Батыш Саһара
+    common: Батыш Саһара
+  YE:
+    official: Йемен
+    common: Йемен
+  ZM:
+    official: Замбиа
+    common: Замбиа
+  ZW:
+    official: Зимбабве
+    common: Зимбабве

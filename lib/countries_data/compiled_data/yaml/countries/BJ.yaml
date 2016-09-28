@@ -1,0 +1,328 @@
+---
+continent: Africa
+alpha2: BJ
+alpha3: BEN
+country_code: '229'
+international_prefix: '00'
+ioc: BEN
+gec: BN
+name: Benin
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: None
+number: '204'
+region: Africa
+subregion: Western Africa
+world_region: EMEA
+un_locode: BJ
+nationality: Beninese
+postal_code: false
+unofficial_names:
+- Benin
+- Bénin
+- ベナン
+languages_official:
+- fr
+languages_spoken:
+- fr
+geo:
+  latitude: 9.30769
+  latitude_dec: '9.624112129211426'
+  longitude: 2.315834
+  longitude_dec: '2.3377387523651123'
+  max_latitude: 12.40745
+  max_longitude: 3.8433429
+  min_latitude: 6.2345966
+  min_longitude: 0.7765054
+  bounds:
+    northeast:
+      lat: 12.40745
+      lng: 3.8433429
+    southwest:
+      lat: 6.2345966
+      lng: 0.7765054
+currency_code: XOF
+postal_address_data:
+  upper: AC
+  id: data/BJ
+  key: BJ
+  name: BENIN
+translations:
+  af:
+    official: Benin
+    common: Benin
+  sq:
+    official: Benin
+    common: Benin
+  am:
+    official: Benin
+    common: Benin
+  ar:
+    official: بنين
+    common: بنين
+  hy:
+    official: Բենին
+    common: Բենին
+  as:
+    official: বেনিন
+    common: বেনিন
+  az:
+    official: Benin
+    common: Benin
+  eu:
+    official: Benin
+    common: Benin
+  be:
+    official: Бенін
+    common: Бенін
+  bn:
+    official: বেনিন
+    common: বেনিন
+  bs:
+    official: Benin
+    common: Benin
+  br:
+    official: Benin
+    common: Benin
+  bg:
+    official: Бенин
+    common: Бенин
+  ca:
+    official: Benín
+    common: Benín
+  zh:
+    official: 贝宁
+    common: 贝宁
+  cs:
+    official: Benin
+    common: Benin
+  da:
+    official: Benin
+    common: Benin
+  nl:
+    official: Benin
+    common: Benin
+  dz:
+    official: བེ་ནིན།
+    common: བེ་ནིན།
+  en:
+    official: Benin
+    common: Benin
+  eo:
+    official: Benino
+    common: Benino
+  et:
+    official: Benin
+    common: Benin
+  fo:
+    official: Benin
+    common: Benin
+  fi:
+    official: Benin
+    common: Benin
+  fr:
+    official: Bénin
+    common: Bénin
+  ka:
+    official: ბენინი
+    common: ბენინი
+  de:
+    official: Benin
+    common: Benin
+  ga:
+    official: Beinin
+    common: Beinin
+  gl:
+    official: Benin
+    common: Benin
+  el:
+    official: Μπενίν
+    common: Μπενίν
+  gu:
+    official: બેનિન
+    common: બેનિન
+  he:
+    official: בנין
+    common: בנין
+  hi:
+    official: बेनिन
+    common: बेनिन
+  hr:
+    official: Benin
+    common: Benin
+  hu:
+    official: Benin
+    common: Benin
+  is:
+    official: Benín
+    common: Benín
+  ia:
+    official: Benin
+    common: Benin
+  id:
+    official: Benin
+    common: Benin
+  it:
+    official: Benin
+    common: Benin
+  ja:
+    official: ベナン
+    common: ベナン
+  kn:
+    official: ಬೆನಿನ್
+    common: ಬೆನಿನ್
+  kk:
+    official: Бенин
+    common: Бенин
+  km:
+    official: បេណាំង
+    common: បេណាំង
+  rw:
+    official: Bene
+    common: Bene
+  ko:
+    official: 베닌
+    common: 베닌
+  ku:
+    official: Benîn
+    common: Benîn
+  lv:
+    official: Benina
+    common: Benina
+  lt:
+    official: Beninas
+    common: Beninas
+  mk:
+    official: Бенин
+    common: Бенин
+  ml:
+    official: ബെനിന്‍
+    common: ബെനിന്‍
+  mi:
+    official: Pēnina
+    common: Pēnina
+  mr:
+    official: बेनिन
+    common: बेनिन
+  ms:
+    official: Benin
+    common: Benin
+  mt:
+    official: Benin
+    common: Benin
+  mn:
+    official: Benin
+    common: Benin
+  ne:
+    official: बेनिन
+    common: बेनिन
+  nn:
+    official: Benin
+    common: Benin
+  nb:
+    official: Benin
+    common: Benin
+  oc:
+    official: Benin
+    common: Benin
+  or:
+    official: ବେନିନ୍
+    common: ବେନିନ୍
+  pa:
+    official: ਬੀਨਾਨ
+    common: ਬੀਨਾਨ
+  fa:
+    official: بنین
+    common: بنین
+  pl:
+    official: Benin
+    common: Benin
+  pt:
+    official: Benim
+    common: Benim
+  ps:
+    official: Benin
+    common: Benin
+  ro:
+    official: Benin
+    common: Benin
+  ru:
+    official: Бенин
+    common: Бенин
+  si:
+    official: බෙනින්
+    common: බෙනින්
+  sk:
+    official: Benin
+    common: Benin
+  sl:
+    official: Benin
+    common: Benin
+  so:
+    official: Beniin
+    common: Beniin
+  es:
+    official: Benín
+    common: Benín
+  sr:
+    official: Бенин
+    common: Бенин
+  sw:
+    official: Benin
+    common: Benin
+  sv:
+    official: Benin
+    common: Benin
+  ta:
+    official: பெனின்
+    common: பெனின்
+  tt:
+    official: Бенин
+    common: Бенин
+  te:
+    official: బేనిన్
+    common: బేనిన్
+  tl:
+    official: Benin
+    common: Benin
+  th:
+    official: เบนิน
+    common: เบนิน
+  ti:
+    official: Benin
+    common: Benin
+  tk:
+    official: Benin
+    common: Benin
+  tr:
+    official: Benin
+    common: Benin
+  ug:
+    official: بېنىن
+    common: بېنىن
+  uk:
+    official: Бенін
+    common: Бенін
+  ve:
+    official: Benin
+    common: Benin
+  vi:
+    official: Bê-ninh
+    common: Bê-ninh
+  cy:
+    official: Benin
+    common: Benin
+  wa:
+    official: Benin
+    common: Benin
+  wo:
+    official: Benin
+    common: Benin
+  xh:
+    official: Benin
+    common: Benin
+  zu:
+    official: Benin
+    common: Benin

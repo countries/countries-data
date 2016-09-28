@@ -1,0 +1,434 @@
+{
+  "continent": "Africa",
+  "alpha2": "NE",
+  "alpha3": "NER",
+  "country_code": "227",
+  "international_prefix": "00",
+  "ioc": "NIG",
+  "gec": "NG",
+  "name": "Niger",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "0",
+  "number": "562",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "world_region": "EMEA",
+  "un_locode": "NE",
+  "nationality": "Nigerian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Niger",
+    "Níger",
+    "ニジェール"
+  ],
+  "languages_official": [
+    "fr"
+  ],
+  "languages_spoken": [
+    "fr"
+  ],
+  "geo": {
+    "latitude": 17.607789,
+    "latitude_dec": "17.424074172973633",
+    "longitude": 8.081666,
+    "longitude_dec": "9.400633811950684",
+    "max_latitude": 23.4999998,
+    "max_longitude": 15.9990339,
+    "min_latitude": 11.694295,
+    "min_longitude": 0.1617178,
+    "bounds": {
+      "northeast": {
+        "lat": 23.4999998,
+        "lng": 15.9990339
+      },
+      "southwest": {
+        "lat": 11.694295,
+        "lng": 0.1617178
+      }
+    }
+  },
+  "currency_code": "XOF",
+  "postal_address_data": {
+    "zipex": "8001",
+    "name": "NIGER",
+    "zip": "\\d{4}",
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "key": "NE",
+    "id": "data/NE"
+  },
+  "translations": {
+    "af": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "sq": {
+      "official": "Nigeri",
+      "common": "Nigeri"
+    },
+    "am": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "ar": {
+      "official": "النّيجر",
+      "common": "النّيجر"
+    },
+    "hy": {
+      "official": "Նիգեր",
+      "common": "Նիգեր"
+    },
+    "as": {
+      "official": "নাইজাৰ",
+      "common": "নাইজাৰ"
+    },
+    "az": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "eu": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "be": {
+      "official": "Нігер",
+      "common": "Нігер"
+    },
+    "bn": {
+      "official": "নাইজার",
+      "common": "নাইজার"
+    },
+    "bs": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "br": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "bg": {
+      "official": "Нигер",
+      "common": "Нигер"
+    },
+    "ca": {
+      "official": "Níger",
+      "common": "Níger"
+    },
+    "zh": {
+      "official": "尼日尔",
+      "common": "尼日尔"
+    },
+    "cs": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "da": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "nl": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "dz": {
+      "official": "ནའི་ཇར།",
+      "common": "ནའི་ཇར།"
+    },
+    "en": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "eo": {
+      "official": "Niĝero",
+      "common": "Niĝero"
+    },
+    "et": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "fo": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "fi": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "fr": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "ka": {
+      "official": "ნიგერი",
+      "common": "ნიგერი"
+    },
+    "de": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "ga": {
+      "official": "An Nígir",
+      "common": "An Nígir"
+    },
+    "gl": {
+      "official": "Níxer",
+      "common": "Níxer"
+    },
+    "el": {
+      "official": "Νίγηρας",
+      "common": "Νίγηρας"
+    },
+    "gu": {
+      "official": "નાઇજર",
+      "common": "નાઇજર"
+    },
+    "he": {
+      "official": "ניז'ר",
+      "common": "ניז'ר"
+    },
+    "hi": {
+      "official": "नाइजर",
+      "common": "नाइजर"
+    },
+    "hr": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "hu": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "is": {
+      "official": "Níger",
+      "common": "Níger"
+    },
+    "ia": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "id": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "it": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "ja": {
+      "official": "ニジェール",
+      "common": "ニジェール"
+    },
+    "kn": {
+      "official": "ನೈಜರ್",
+      "common": "ನೈಜರ್"
+    },
+    "kk": {
+      "official": "Нигер",
+      "common": "Нигер"
+    },
+    "km": {
+      "official": "នីហ្សេរ",
+      "common": "នីហ្សេរ"
+    },
+    "rw": {
+      "official": "Nigeri",
+      "common": "Nigeri"
+    },
+    "ko": {
+      "official": "니제르",
+      "common": "니제르"
+    },
+    "ku": {
+      "official": "Nîjer",
+      "common": "Nîjer"
+    },
+    "lv": {
+      "official": "Nigēra",
+      "common": "Nigēra"
+    },
+    "lt": {
+      "official": "Nigeris",
+      "common": "Nigeris"
+    },
+    "mk": {
+      "official": "Нигер",
+      "common": "Нигер"
+    },
+    "ml": {
+      "official": "നൈജര്‍",
+      "common": "നൈജര്‍"
+    },
+    "mi": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "mr": {
+      "official": "नायजेर",
+      "common": "नायजेर"
+    },
+    "ms": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "mt": {
+      "official": "Niġer",
+      "common": "Niġer"
+    },
+    "mn": {
+      "official": "Нигер",
+      "common": "Нигер"
+    },
+    "ne": {
+      "official": "निगर",
+      "common": "निगर"
+    },
+    "nn": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "nb": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "oc": {
+      "official": "Nigèr",
+      "common": "Nigèr"
+    },
+    "or": {
+      "official": "ନାଇଜର",
+      "common": "ନାଇଜର"
+    },
+    "pa": {
+      "official": "ਨੀਜ਼ਰ",
+      "common": "ਨੀਜ਼ਰ"
+    },
+    "fa": {
+      "official": "نیجر",
+      "common": "نیجر"
+    },
+    "pl": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "pt": {
+      "official": "Níger",
+      "common": "Níger"
+    },
+    "ps": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "ro": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "ru": {
+      "official": "Нигер",
+      "common": "Нигер"
+    },
+    "si": {
+      "official": "නිගර්",
+      "common": "නිගර්"
+    },
+    "sk": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "sl": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "so": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "es": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "sr": {
+      "official": "Нигер",
+      "common": "Нигер"
+    },
+    "sw": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "sv": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "ta": {
+      "official": "நைகர்",
+      "common": "நைகர்"
+    },
+    "tt": {
+      "official": "Ниgер",
+      "common": "Ниgер"
+    },
+    "te": {
+      "official": "నైజెర్",
+      "common": "నైజెర్"
+    },
+    "tl": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "th": {
+      "official": "ไนเจอร์",
+      "common": "ไนเจอร์"
+    },
+    "ti": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "tk": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "tr": {
+      "official": "Nijer",
+      "common": "Nijer"
+    },
+    "ug": {
+      "official": "نىگېر",
+      "common": "نىگېر"
+    },
+    "uk": {
+      "official": "Нігер",
+      "common": "Нігер"
+    },
+    "ve": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "vi": {
+      "official": "Ni-gie",
+      "common": "Ni-gie"
+    },
+    "cy": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "wa": {
+      "official": "Nidjer",
+      "common": "Nidjer"
+    },
+    "wo": {
+      "official": "Nijeer",
+      "common": "Nijeer"
+    },
+    "xh": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "zu": {
+      "official": "Niger",
+      "common": "Niger"
+    }
+  }
+}

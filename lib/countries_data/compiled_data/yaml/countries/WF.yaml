@@ -1,0 +1,335 @@
+---
+continent: Australia
+alpha2: WF
+alpha3: WLF
+country_code: '681'
+international_prefix: '19'
+ioc: 
+gec: WF
+name: Wallis and Futuna
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 6
+national_prefix: None
+number: '876'
+region: Oceania
+subregion: Polynesia
+world_region: APAC
+un_locode: WF
+nationality: Wallis and Futuna Islander
+postal_code: true
+unofficial_names:
+- Wallis and Futuna
+- Wallis und Futuna
+- Wallis et Futuna
+- Wallis y Futuna
+- ウォリス・フツナ
+- Wallis en Futuna
+languages_official:
+- fr
+languages_spoken:
+- fr
+geo:
+  latitude: -14.2938
+  latitude_dec: "-13.299612045288086"
+  longitude: -178.1165
+  longitude_dec: "-176.1701202392578"
+  max_latitude: -13.18332
+  max_longitude: -176.1248411
+  min_latitude: -14.3621243
+  min_longitude: -178.181752
+  bounds:
+    northeast:
+      lat: -13.18332
+      lng: -176.1248411
+    southwest:
+      lat: -14.3621243
+      lng: -178.181752
+currency_code: XPF
+postal_address_data:
+  upper: ACX
+  zipex: '98600'
+  name: WALLIS AND FUTUNA ISLANDS
+  zip: 986\d{2}
+  require: ACZ
+  id: data/WF
+  key: WF
+  fmt: "%O%n%N%n%A%n%Z %C %X"
+translations:
+  af:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  sq:
+    official: Wallis dhe Futuna
+    common: Wallis dhe Futuna
+  am:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  ar:
+    official: واليس و فوتونا
+    common: واليس و فوتونا
+  hy:
+    official: Վոլիս և Ֆուտունա
+    common: Վոլիս և Ֆուտունա
+  as:
+    official: ৱালিচ আৰু ফুটুনা
+    common: ৱালিচ আৰু ফুটুনা
+  az:
+    official: Vallis və Futuna
+    common: Vallis və Futuna
+  eu:
+    official: Wallis eta Futuna
+    common: Wallis eta Futuna
+  be:
+    official: Уоліс і Футуна
+    common: Уоліс і Футуна
+  bn:
+    official: ওয়ালিস ও ফুটুনা
+    common: ওয়ালিস ও ফুটুনা
+  bs:
+    official: Wallis i Futuna
+    common: Wallis i Futuna
+  br:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  bg:
+    official: Острови Уолис и Футуна
+    common: Острови Уолис и Футуна
+  ca:
+    official: Wallis i Futuna
+    common: Wallis i Futuna
+  zh:
+    official: 瓦利斯和富图纳
+    common: 瓦利斯和富图纳
+  cs:
+    official: Wallis a Futuna
+    common: Wallis a Futuna
+  da:
+    official: Wallis og Futunaøerne
+    common: Wallis og Futunaøerne
+  nl:
+    official: Wallis en Futuna
+    common: Wallis en Futuna
+  dz:
+    official: ཝ་ལིསི་དང་ཕུ་ཊ་ན།
+    common: ཝ་ལིསི་དང་ཕུ་ཊ་ན།
+  en:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  eo:
+    official: Valiso kaj Futuno
+    common: Valiso kaj Futuno
+  et:
+    official: Wallis ja Futuna
+    common: Wallis ja Futuna
+  fo:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  fi:
+    official: Wallis ja Futuna
+    common: Wallis ja Futuna
+  fr:
+    official: Wallis et Futuna
+    common: Wallis et Futuna
+  ka:
+    official: ვალისი და ფუტუნა
+    common: ვალისი და ფუტუნა
+  de:
+    official: Wallis und Futuna
+    common: Wallis und Futuna
+  ga:
+    official: Oileáin Vailís agus Futúna
+    common: Oileáin Vailís agus Futúna
+  gl:
+    official: Wallis e Futuna
+    common: Wallis e Futuna
+  el:
+    official: Ουώλλις και Φουτούνα
+    common: Ουώλλις και Φουτούνα
+  gu:
+    official: વાલીસ અને ફુટુના
+    common: વાલીસ અને ફુટુના
+  he:
+    official: ואליס ופוטונה
+    common: ואליס ופוטונה
+  hi:
+    official: वॉलिस एन्ड फुटुना
+    common: वॉलिस एन्ड फुटुना
+  hr:
+    official: Wallis i Futuna
+    common: Wallis i Futuna
+  hu:
+    official: Wallis és Futuna
+    common: Wallis és Futuna
+  is:
+    official: Wallis- og Fútúnaeyjar
+    common: Wallis- og Fútúnaeyjar
+  ia:
+    official: Wallis e Futuna
+    common: Wallis e Futuna
+  id:
+    official: Wallis dan Futuna
+    common: Wallis dan Futuna
+  it:
+    official: Wallis e Futuna
+    common: Wallis e Futuna
+  ja:
+    official: ワリー及びフテュナ
+    common: ワリー及びフテュナ
+  kn:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  kk:
+    official: Уоллис және Футуна
+    common: Уоллис және Футуна
+  km:
+    official: វ៉ាលីស​និង​ហ្វុយទុយណា
+    common: វ៉ាលីស​និង​ហ្វុយទុយណា
+  rw:
+    official: Walisi na Fatuna
+    common: Walisi na Fatuna
+  ko:
+    official: 왈리스 후투나
+    common: 왈리스 후투나
+  ku:
+    official: Walis û Futuna
+    common: Walis û Futuna
+  lv:
+    official: Volisa un Futuna
+    common: Volisa un Futuna
+  lt:
+    official: Volisas ir Futūna
+    common: Volisas ir Futūna
+  mk:
+    official: Валис и Футуна
+    common: Валис и Футуна
+  ml:
+    official: വാലിസും ഫ്യൂചുനയും
+    common: വാലിസും ഫ്യൂചുനയും
+  mi:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  mr:
+    official: वालीस आणी फुतुना
+    common: वालीस आणी फुतुना
+  ms:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  mt:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  mn:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  ne:
+    official: वाल्लिस र फुटुना
+    common: वाल्लिस र फुटुना
+  nn:
+    official: Wallis- og Futunaøyane
+    common: Wallis- og Futunaøyane
+  nb:
+    official: Wallis og Futunaøyene
+    common: Wallis og Futunaøyene
+  oc:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  or:
+    official: ୱାଲିସ ଏବଂ ଫୁତୁନା
+    common: ୱାଲିସ ଏବଂ ଫୁତୁନା
+  pa:
+    official: ਵਿੱਲਸ ਅਤੇ ਫੂਟੂਨਾ
+    common: ਵਿੱਲਸ ਅਤੇ ਫੂਟੂਨਾ
+  fa:
+    official: والیس و فیوتونا
+    common: والیس و فیوتونا
+  pl:
+    official: Wallis i Futuna
+    common: Wallis i Futuna
+  pt:
+    official: Wallis e Futuna
+    common: Wallis e Futuna
+  ps:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  ro:
+    official: Wallis și Futuna
+    common: Wallis și Futuna
+  ru:
+    official: Уоллес и Футана
+    common: Уоллес и Футана
+  si:
+    official: වලීස් හා ෆුටුනා
+    common: වලීස් හා ෆුටුනා
+  sk:
+    official: Wallis a Futuna
+    common: Wallis a Futuna
+  sl:
+    official: Wallis in Futuna
+    common: Wallis in Futuna
+  so:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  es:
+    official: Wallis y Futuna
+    common: Wallis y Futuna
+  sr:
+    official: Валис и Футуна
+    common: Валис и Футуна
+  sw:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  sv:
+    official: Wallis och Futuna
+    common: Wallis och Futuna
+  ta:
+    official: வாலிஸ் மற்றும் ப்யூடுனா
+    common: வாலிஸ் மற்றும் ப்யூடுனா
+  tt:
+    official: Валлис вә Футуна
+    common: Валлис вә Футуна
+  te:
+    official: వాలిస్ మరియు ఫుతునా
+    common: వాలిస్ మరియు ఫుతునా
+  tl:
+    official: Wallis at Futuna
+    common: Wallis at Futuna
+  th:
+    official: หมู่เกาะวาลลิสและหมู่เกาะฟุตูนา
+    common: หมู่เกาะวาลลิสและหมู่เกาะฟุตูนา
+  ti:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  tk:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  tr:
+    official: Wallis ve Futuna
+    common: Wallis ve Futuna
+  ug:
+    official: ۋالىس ۋە فۇتۇنا
+    common: ۋالىس ۋە فۇتۇنا
+  uk:
+    official: Уолліс і Футуна
+    common: Уолліс і Футуна
+  ve:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  vi:
+    official: Oua-li-xợ va Phu-tu-na
+    common: Oua-li-xợ va Phu-tu-na
+  cy:
+    official: Wallis a Futuna
+    common: Wallis a Futuna
+  wa:
+    official: Wallis et Futuna
+    common: Wallis et Futuna
+  wo:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  xh:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  zu:
+    official: Wallis and Futuna
+    common: Wallis and Futuna

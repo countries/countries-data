@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: An Afganastáin
+    common: An Afganastáin
+  AX:
+    official: Oileáin Åland
+    common: Oileáin Åland
+  AL:
+    official: An Albáin
+    common: An Albáin
+  DZ:
+    official: An Ailgéir
+    common: An Ailgéir
+  AS:
+    official: Samó Meiriceánach
+    common: Samó Meiriceánach
+  AD:
+    official: Andóra
+    common: Andóra
+  AO:
+    official: Angóla
+    common: Angóla
+  AI:
+    official: Anguilla
+    common: Anguilla
+  AQ:
+    official: an Antartaice
+    common: an Antartaice
+  AG:
+    official: Antigua agus Barbuda
+    common: Antigua agus Barbuda
+  AR:
+    official: An Airgintín
+    common: An Airgintín
+  AM:
+    official: An Airméin
+    common: An Airméin
+  AW:
+    official: Aruba
+    common: Aruba
+  AU:
+    official: An Astráil
+    common: An Astráil
+  AT:
+    official: An Ostair
+    common: An Ostair
+  AZ:
+    official: An Asarbaiseáin
+    common: An Asarbaiseáin
+  BS:
+    official: Na Bahámaí
+    common: Na Bahámaí
+  BH:
+    official: Bairéin
+    common: Bairéin
+  BD:
+    official: An Bhanglaidéis
+    common: An Bhanglaidéis
+  BB:
+    official: Barbadós
+    common: Barbadós
+  BY:
+    official: An Bhílearúis
+    common: An Bhílearúis
+  BE:
+    official: An Bheilg
+    common: An Bheilg
+  BZ:
+    official: An Bheilís
+    common: An Bheilís
+  BJ:
+    official: Beinin
+    common: Beinin
+  BM:
+    official: Na Beirmiúdaí
+    common: Na Beirmiúdaí
+  BT:
+    official: An Bhútáin
+    common: An Bhútáin
+  BO:
+    official: An Bholaiv, Stát Ilnáisiúnta
+    common: An Bholaiv, Stát Ilnáisiúnta
+  BQ:
+    official: Bonaire, San Eustatius agus Saba
+    common: Bonaire, San Eustatius agus Saba
+  BA:
+    official: An Bhoisnia-Heirseagaivéin
+    common: An Bhoisnia-Heirseagaivéin
+  BW:
+    official: An Bhotsuáin
+    common: An Bhotsuáin
+  BV:
+    official: Oileán Bouvet
+    common: Oileán Bouvet
+  BR:
+    official: An Bhrasaíl
+    common: An Bhrasaíl
+  IO:
+    official: Críocha Briotanacha an Aigéin Indiaigh
+    common: Críocha Briotanacha an Aigéin Indiaigh
+  BN:
+    official: Brúiné Dárasalám
+    common: Brúiné Dárasalám
+  BG:
+    official: An Bhulgáir
+    common: An Bhulgáir
+  BF:
+    official: Buircíne Fasó
+    common: Buircíne Fasó
+  BI:
+    official: An Bhurúin
+    common: An Bhurúin
+  KH:
+    official: An Chambóid
+    common: An Chambóid
+  CM:
+    official: Camarún
+    common: Camarún
+  CA:
+    official: Ceanada
+    common: Ceanada
+  CV:
+    official: Rinn Verde
+    common: Rinn Verde
+  KY:
+    official: Oileáin Cayman
+    common: Oileáin Cayman
+  CF:
+    official: Poblacht na hAfraice Láir
+    common: Poblacht na hAfraice Láir
+  TD:
+    official: Sead
+    common: Sead
+  CL:
+    official: An tSile
+    common: An tSile
+  CN:
+    official: An tSín
+    common: An tSín
+  CX:
+    official: Oileán na Nollag
+    common: Oileán na Nollag
+  CC:
+    official: Oileáin Cocos (Oileáin Keeling)
+    common: Oileáin Cocos (Oileáin Keeling)
+  CO:
+    official: An Cholóim
+    common: An Cholóim
+  KM:
+    official: Oileán Chomóra
+    common: Oileán Chomóra
+  CG:
+    official: An Congó
+    common: An Congó
+  CD:
+    official: Poblacht Dhaonlathach an Chongó
+    common: Poblacht Dhaonlathach an Chongó
+  CK:
+    official: Oileáin Cook
+    common: Oileáin Cook
+  CR:
+    official: Cósta Rice
+    common: Cósta Rice
+  CI:
+    official: An Cósta Eabhair
+    common: An Cósta Eabhair
+  HR:
+    official: An Chróit
+    common: An Chróit
+  CU:
+    official: Cúba
+    common: Cúba
+  CW:
+    official: Curasao
+    common: Curasao
+  CY:
+    official: An Chipir
+    common: An Chipir
+  CZ:
+    official: Poblacht na Seice
+    common: Poblacht na Seice
+  DK:
+    official: An Danmhairg
+    common: An Danmhairg
+  DJ:
+    official: Djibouti
+    common: Djibouti
+  DM:
+    official: Doiminice
+    common: Doiminice
+  DO:
+    official: An Phoblacht Dhoiminiceach
+    common: An Phoblacht Dhoiminiceach
+  EC:
+    official: Eacuadór
+    common: Eacuadór
+  EG:
+    official: An Éigipt
+    common: An Éigipt
+  SV:
+    official: An tSalvadóir
+    common: An tSalvadóir
+  GQ:
+    official: An Ghuine Mheánchiorclach
+    common: An Ghuine Mheánchiorclach
+  ER:
+    official: An Eiritré
+    common: An Eiritré
+  EE:
+    official: An Eastóin
+    common: An Eastóin
+  ET:
+    official: An Aetóip
+    common: An Aetóip
+  FK:
+    official: Oileáin Fháclainne (Malvinas)
+    common: Oileáin Fháclainne (Malvinas)
+  FO:
+    official: Oileáin Fharó
+    common: Oileáin Fharó
+  FJ:
+    official: Fidsí
+    common: Fidsí
+  FI:
+    official: An Fhionlainn
+    common: An Fhionlainn
+  FR:
+    official: An Fhrainc
+    common: An Fhrainc
+  GF:
+    official: An Ghuáin Fhrancach
+    common: An Ghuáin Fhrancach
+  PF:
+    official: Polainéis na Fraince
+    common: Polainéis na Fraince
+  TF:
+    official: Críocha Francacha Theas
+    common: Críocha Francacha Theas
+  GA:
+    official: An Ghabúin
+    common: An Ghabúin
+  GM:
+    official: An Ghaimbia
+    common: An Ghaimbia
+  GE:
+    official: An tSeoirsia
+    common: An tSeoirsia
+  DE:
+    official: An Ghearmáin
+    common: An Ghearmáin
+  GH:
+    official: Gána
+    common: Gána
+  GI:
+    official: Giobráltar
+    common: Giobráltar
+  GR:
+    official: An Ghréig
+    common: An Ghréig
+  GL:
+    official: An Ghraonlainn
+    common: An Ghraonlainn
+  GD:
+    official: Grenada
+    common: Grenada
+  GP:
+    official: Guadalúip
+    common: Guadalúip
+  GU:
+    official: Guam
+    common: Guam
+  GT:
+    official: Guatamala
+    common: Guatamala
+  GG:
+    official: Geansaí
+    common: Geansaí
+  GN:
+    official: An Ghuine
+    common: An Ghuine
+  GW:
+    official: An Ghuine-Bhissau
+    common: An Ghuine-Bhissau
+  GY:
+    official: An Ghuáin
+    common: An Ghuáin
+  HT:
+    official: Háítí
+    common: Háítí
+  HM:
+    official: Oileán Heard agus Oileáin McDonald
+    common: Oileán Heard agus Oileáin McDonald
+  VA:
+    official: Suí Naofa (Stát Chathair na Vatacáine)
+    common: Suí Naofa (Stát Chathair na Vatacáine)
+  HN:
+    official: Hondúras
+    common: Hondúras
+  HK:
+    official: Hong Cong
+    common: Hong Cong
+  HU:
+    official: An Ungáir
+    common: An Ungáir
+  IS:
+    official: An Íoslainn
+    common: An Íoslainn
+  IN:
+    official: An India
+    common: An India
+  ID:
+    official: An Indinéis
+    common: An Indinéis
+  IR:
+    official: An Iaráin
+    common: An Iaráin
+  IQ:
+    official: An Iaráic
+    common: An Iaráic
+  IE:
+    official: Éire
+    common: Éire
+  IM:
+    official: Oileán Mhanann
+    common: Oileán Mhanann
+  IL:
+    official: Iosrael
+    common: Iosrael
+  IT:
+    official: An Iodáil
+    common: An Iodáil
+  JM:
+    official: Iamáice
+    common: Iamáice
+  JP:
+    official: An tSeapáin
+    common: An tSeapáin
+  JE:
+    official: Geirsí
+    common: Geirsí
+  JO:
+    official: An Iordáin
+    common: An Iordáin
+  KZ:
+    official: An Chasacstáin
+    common: An Chasacstáin
+  KE:
+    official: An Chéinia
+    common: An Chéinia
+  KI:
+    official: Cireabaití
+    common: Cireabaití
+  KP:
+    official: Daonphoblacht Dhaonlathach na Cóiré
+    common: Daonphoblacht Dhaonlathach na Cóiré
+  KR:
+    official: Poblacht na Cóiré
+    common: Poblacht na Cóiré
+  KW:
+    official: Cuáit
+    common: Cuáit
+  KG:
+    official: An Chirgeastáin
+    common: An Chirgeastáin
+  LA:
+    official: Daonphoblacht Dhaonlathach Laoch
+    common: Daonphoblacht Dhaonlathach Laoch
+  LV:
+    official: An Laitvia
+    common: An Laitvia
+  LB:
+    official: An Liobáin
+    common: An Liobáin
+  LS:
+    official: Leosóta
+    common: Leosóta
+  LR:
+    official: An Libéir
+    common: An Libéir
+  LY:
+    official: An Libia
+    common: An Libia
+  LI:
+    official: Lichtinstéin
+    common: Lichtinstéin
+  LT:
+    official: An Liotuáin
+    common: An Liotuáin
+  LU:
+    official: Lucsamburg
+    common: Lucsamburg
+  MO:
+    official: Macao
+    common: Macao
+  MK:
+    official: Poblacht na Macadóine
+    common: Poblacht na Macadóine
+  MG:
+    official: Madagascar
+    common: Madagascar
+  MW:
+    official: An Mhaláiv
+    common: An Mhaláiv
+  MY:
+    official: An Mhalaeisia
+    common: An Mhalaeisia
+  MV:
+    official: Oileáin Mhaildíve
+    common: Oileáin Mhaildíve
+  ML:
+    official: Mailí
+    common: Mailí
+  MT:
+    official: Málta
+    common: Málta
+  MH:
+    official: Oileáin Marshall
+    common: Oileáin Marshall
+  MQ:
+    official: Martainíc
+    common: Martainíc
+  MR:
+    official: An Mháratáin
+    common: An Mháratáin
+  MU:
+    official: Oileán Mhuirís
+    common: Oileán Mhuirís
+  YT:
+    official: Mayotte
+    common: Mayotte
+  MX:
+    official: Meicsiceo
+    common: Meicsiceo
+  FM:
+    official: An Mhicrinéis
+    common: An Mhicrinéis
+  MD:
+    official: Moldóive, Poblacht na
+    common: Moldóive, Poblacht na
+  MC:
+    official: Monacó
+    common: Monacó
+  MN:
+    official: An Mhongóil
+    common: An Mhongóil
+  ME:
+    official: Montainéagró
+    common: Montainéagró
+  MS:
+    official: Montsarat
+    common: Montsarat
+  MA:
+    official: Maracó
+    common: Maracó
+  MZ:
+    official: Mósaimbíc
+    common: Mósaimbíc
+  MM:
+    official: Maenmar
+    common: Maenmar
+  NA:
+    official: An Namaib
+    common: An Namaib
+  NR:
+    official: Nárú
+    common: Nárú
+  NP:
+    official: Neipeal
+    common: Neipeal
+  NL:
+    official: An Ísiltír
+    common: An Ísiltír
+  NC:
+    official: An Nua-Chaladóin
+    common: An Nua-Chaladóin
+  NZ:
+    official: An Nua-Shéalainn
+    common: An Nua-Shéalainn
+  NI:
+    official: Nicearagua
+    common: Nicearagua
+  NE:
+    official: An Nígir
+    common: An Nígir
+  NG:
+    official: An Nigéir
+    common: An Nigéir
+  NU:
+    official: Niue
+    common: Niue
+  NF:
+    official: Oileán Norfolk
+    common: Oileán Norfolk
+  MP:
+    official: Oileáin Mariana Thuaidh
+    common: Oileáin Mariana Thuaidh
+  'NO':
+    official: An Iorua
+    common: An Iorua
+  OM:
+    official: Oman
+    common: Oman
+  PK:
+    official: An Phacastáin
+    common: An Phacastáin
+  PW:
+    official: Palau
+    common: Palau
+  PS:
+    official: Palaistíne, Stát na
+    common: Palaistíne, Stát na
+  PA:
+    official: Panama
+    common: Panama
+  PG:
+    official: Papua Nua-Ghuine
+    common: Papua Nua-Ghuine
+  PY:
+    official: Paragua
+    common: Paragua
+  PE:
+    official: Peiriú
+    common: Peiriú
+  PH:
+    official: Na hOileáin Fhilipíneacha
+    common: Na hOileáin Fhilipíneacha
+  PN:
+    official: Pitcairn
+    common: Pitcairn
+  PL:
+    official: An Pholainn
+    common: An Pholainn
+  PT:
+    official: An Phortaingéil
+    common: An Phortaingéil
+  PR:
+    official: Portó Ríce
+    common: Portó Ríce
+  QA:
+    official: Catar
+    common: Catar
+  RE:
+    official: Réunion
+    common: Réunion
+  RO:
+    official: An Rómáin
+    common: An Rómáin
+  RU:
+    official: Cónaidhm na Rúise
+    common: Cónaidhm na Rúise
+  RW:
+    official: Ruanda
+    common: Ruanda
+  BL:
+    official: San Parthalán
+    common: San Parthalán
+  SH:
+    official: Saint Helena, Ascension agus Tristan da Cunha
+    common: Saint Helena, Ascension agus Tristan da Cunha
+  KN:
+    official: Saint Kitts agus Nevis
+    common: Saint Kitts agus Nevis
+  LC:
+    official: Saint Lucia
+    common: Saint Lucia
+  MF:
+    official: Saint Martin (An Fhrainc)
+    common: Saint Martin (An Fhrainc)
+  PM:
+    official: St. Pierre agus Miquelon
+    common: St. Pierre agus Miquelon
+  VC:
+    official: Saint Vincent agus na Grenadines
+    common: Saint Vincent agus na Grenadines
+  WS:
+    official: Samó
+    common: Samó
+  SM:
+    official: San Mairíne
+    common: San Mairíne
+  ST:
+    official: Sao Tome agus Principe
+    common: Sao Tome agus Principe
+  SA:
+    official: An Araib Shádach
+    common: An Araib Shádach
+  SN:
+    official: An tSeineagáil
+    common: An tSeineagáil
+  RS:
+    official: An tSeirbia
+    common: An tSeirbia
+  SC:
+    official: Na Séiséil
+    common: Na Séiséil
+  SL:
+    official: Siarra Leon
+    common: Siarra Leon
+  SG:
+    official: Singeapór
+    common: Singeapór
+  SX:
+    official: Sint Maarten (ceantar Ollannach)
+    common: Sint Maarten (ceantar Ollannach)
+  SK:
+    official: An tSlóvaic
+    common: An tSlóvaic
+  SI:
+    official: An tSlóivéin
+    common: An tSlóivéin
+  SB:
+    official: Oileán Solomon
+    common: Oileán Solomon
+  SO:
+    official: An tSomáil
+    common: An tSomáil
+  ZA:
+    official: An Afraic Theas
+    common: An Afraic Theas
+  GS:
+    official: An tSeoirsia Theas agus Sandwich Theas
+    common: An tSeoirsia Theas agus Sandwich Theas
+  ES:
+    official: An Spáinn
+    common: An Spáinn
+  LK:
+    official: Srí Lanca
+    common: Srí Lanca
+  SD:
+    official: An tSúdáin
+    common: An tSúdáin
+  SR:
+    official: Suranam
+    common: Suranam
+  SS:
+    official: An tSúdáin Theas
+    common: An tSúdáin Theas
+  SJ:
+    official: Svalbard agus Jan Mayen
+    common: Svalbard agus Jan Mayen
+  SZ:
+    official: An tSuasalainn
+    common: An tSuasalainn
+  SE:
+    official: An tSualainn
+    common: An tSualainn
+  CH:
+    official: An Eilvéis
+    common: An Eilvéis
+  SY:
+    official: Poblacht Arabach na Siria
+    common: Poblacht Arabach na Siria
+  TW:
+    official: An Téaváin
+    common: An Téaváin
+  TJ:
+    official: An Táidsíceastáin
+    common: An Táidsíceastáin
+  TZ:
+    official: An Tansáin
+    common: An Tansáin
+  TH:
+    official: An Téalainn
+    common: An Téalainn
+  TL:
+    official: Tíomór Thoir
+    common: Tíomór Thoir
+  TG:
+    official: Tóga
+    common: Tóga
+  TK:
+    official: Tócalá
+    common: Tócalá
+  TO:
+    official: Tonga
+    common: Tonga
+  TT:
+    official: Oileáin na Tríonóide agus Tobága
+    common: Oileáin na Tríonóide agus Tobága
+  TN:
+    official: An Túinéis
+    common: An Túinéis
+  TR:
+    official: An Tuirc
+    common: An Tuirc
+  TM:
+    official: An Tuircméanastáin
+    common: An Tuircméanastáin
+  TC:
+    official: Oileáin Turks agus Caicos
+    common: Oileáin Turks agus Caicos
+  TV:
+    official: Tuvalú
+    common: Tuvalú
+  UG:
+    official: Uganda
+    common: Uganda
+  UA:
+    official: An Úcráin
+    common: An Úcráin
+  AE:
+    official: Aontas na nÉimíríochtaí Arabacha
+    common: Aontas na nÉimíríochtaí Arabacha
+  GB:
+    official: An Ríocht Aontaithe
+    common: An Ríocht Aontaithe
+  US:
+    official: Na Stáit Aontaithe
+    common: Na Stáit Aontaithe
+  UM:
+    official: Mion-Oileáin Imeallacha S.A.M.
+    common: Mion-Oileáin Imeallacha S.A.M.
+  UY:
+    official: Uragua
+    common: Uragua
+  UZ:
+    official: Úisbéiceastáin
+    common: Úisbéiceastáin
+  VU:
+    official: Vanuatú
+    common: Vanuatú
+  VE:
+    official: Veiniséala, Poblacht Bholavarach
+    common: Veiniséala, Poblacht Bholavarach
+  VN:
+    official: Vítneam
+    common: Vítneam
+  VG:
+    official: Oileáin Bhriotanacha na Maighdean
+    common: Oileáin Bhriotanacha na Maighdean
+  VI:
+    official: Oileáin na Maighdean, S.A.M.
+    common: Oileáin na Maighdean, S.A.M.
+  WF:
+    official: Oileáin Vailís agus Futúna
+    common: Oileáin Vailís agus Futúna
+  EH:
+    official: An Sahára Thiar
+    common: An Sahára Thiar
+  YE:
+    official: Éimin
+    common: Éimin
+  ZM:
+    official: An tSaimbia
+    common: An tSaimbia
+  ZW:
+    official: An tSiombáib
+    common: An tSiombáib

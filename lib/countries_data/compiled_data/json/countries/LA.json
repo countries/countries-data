@@ -1,0 +1,434 @@
+{
+  "continent": "Asia",
+  "alpha2": "LA",
+  "alpha3": "LAO",
+  "country_code": "856",
+  "international_prefix": "00",
+  "ioc": "LAO",
+  "gec": "LA",
+  "name": "Lao People's Democratic Republic",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "0",
+  "number": "418",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "world_region": "APAC",
+  "un_locode": "LA",
+  "nationality": "Laotian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Laos",
+    "ラオス人民民主共和国",
+    "Lao People s Democratic Republic"
+  ],
+  "languages_official": [
+    "lo"
+  ],
+  "languages_spoken": [
+    "lo"
+  ],
+  "geo": {
+    "latitude": 19.85627,
+    "latitude_dec": "18.65074920654297",
+    "longitude": 102.495496,
+    "longitude_dec": "104.15293884277344",
+    "max_latitude": 22.5028719,
+    "max_longitude": 107.6948299,
+    "min_latitude": 13.90972,
+    "min_longitude": 100.0862789,
+    "bounds": {
+      "northeast": {
+        "lat": 22.5028719,
+        "lng": 107.6948299
+      },
+      "southwest": {
+        "lat": 13.90972,
+        "lng": 100.0862789
+      }
+    }
+  },
+  "currency_code": "LAK",
+  "postal_address_data": {
+    "zipex": "01160,01000",
+    "name": "LAO (PEOPLE'S DEM. REP.)",
+    "zip": "\\d{5}",
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "key": "LA",
+    "id": "data/LA"
+  },
+  "translations": {
+    "af": {
+      "official": "Laos",
+      "common": "Laos"
+    },
+    "sq": {
+      "official": "Republika Demokratike Popullore e Laosit",
+      "common": "Republika Demokratike Popullore e Laosit"
+    },
+    "am": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    },
+    "ar": {
+      "official": "جمهوريّة لاو الدّيموقراطيّة الشّعبيّة",
+      "common": "جمهوريّة لاو الدّيموقراطيّة الشّعبيّة"
+    },
+    "hy": {
+      "official": "Լաոսի Ժողովրդադեմոկրատական հանրապետություն",
+      "common": "Լաոսի Ժողովրդադեմոկրատական հանրապետություն"
+    },
+    "as": {
+      "official": "গণপ্ৰজাতন্ত্ৰী লাও",
+      "common": "গণপ্ৰজাতন্ত্ৰী লাও"
+    },
+    "az": {
+      "official": "Konqo, Demokratik Respublikası",
+      "common": "Konqo, Demokratik Respublikası"
+    },
+    "eu": {
+      "official": "Laoseko Herri Errepublika Demokratikoa",
+      "common": "Laoseko Herri Errepublika Demokratikoa"
+    },
+    "be": {
+      "official": "Лаоская Народна-Дэмакратычная Рэспубліка",
+      "common": "Лаоская Народна-Дэмакратычная Рэспубліка"
+    },
+    "bn": {
+      "official": "গণপ্রজাতন্ত্রী লাও",
+      "common": "গণপ্রজাতন্ত্রী লাও"
+    },
+    "bs": {
+      "official": "Narodna Demokratska Republika Lao",
+      "common": "Narodna Demokratska Republika Lao"
+    },
+    "br": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    },
+    "bg": {
+      "official": "Демократична република на народа на Лао",
+      "common": "Демократична република на народа на Лао"
+    },
+    "ca": {
+      "official": "República Democràtica Popular de Laos",
+      "common": "República Democràtica Popular de Laos"
+    },
+    "zh": {
+      "official": "老挝人民民主共和国",
+      "common": "老挝人民民主共和国"
+    },
+    "cs": {
+      "official": "Laoská lidově demokratická republika",
+      "common": "Laoská lidově demokratická republika"
+    },
+    "da": {
+      "official": "Lao, Folkets Demokratiske Republik",
+      "common": "Lao, Folkets Demokratiske Republik"
+    },
+    "nl": {
+      "official": "Laos Democratische Volksrepubliek",
+      "common": "Laos Democratische Volksrepubliek"
+    },
+    "dz": {
+      "official": "ལེཝོ་ མི་སེར་གྱི་དམང་གཙོའི་གཞུང་།",
+      "common": "ལེཝོ་ མི་སེར་གྱི་དམང་གཙོའི་གཞུང་།"
+    },
+    "en": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    },
+    "eo": {
+      "official": "Laosa Popola Demokratia Respubliko",
+      "common": "Laosa Popola Demokratia Respubliko"
+    },
+    "et": {
+      "official": "Laose Demokraatlik Rahvavabariik",
+      "common": "Laose Demokraatlik Rahvavabariik"
+    },
+    "fo": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    },
+    "fi": {
+      "official": "Laos",
+      "common": "Laos"
+    },
+    "fr": {
+      "official": "Lao, République démocratique populaire",
+      "common": "Lao, République démocratique populaire"
+    },
+    "ka": {
+      "official": "ლაოს სახალხო დემოკრატიული რესპუბლიკა",
+      "common": "ლაოს სახალხო დემოკრატიული რესპუბლიკა"
+    },
+    "de": {
+      "official": "Laos, Demokratische Volksrepublik",
+      "common": "Laos, Demokratische Volksrepublik"
+    },
+    "ga": {
+      "official": "Daonphoblacht Dhaonlathach Laoch",
+      "common": "Daonphoblacht Dhaonlathach Laoch"
+    },
+    "gl": {
+      "official": "República Democrática Popular de Lao",
+      "common": "República Democrática Popular de Lao"
+    },
+    "el": {
+      "official": "Λαϊκή Δημοκρατία του Λάος",
+      "common": "Λαϊκή Δημοκρατία του Λάος"
+    },
+    "gu": {
+      "official": "લાઓ પીપલ્સ ડેમોક્રેટિક રીપબ્લિક",
+      "common": "લાઓ પીપલ્સ ડેમોક્રેટિક રીપબ્લિક"
+    },
+    "he": {
+      "official": "לאוס",
+      "common": "לאוס"
+    },
+    "hi": {
+      "official": "लाओ पीपल्स डेमोक्रेटिक रिपब्लिक",
+      "common": "लाओ पीपल्स डेमोक्रेटिक रिपब्लिक"
+    },
+    "hr": {
+      "official": "Laos",
+      "common": "Laos"
+    },
+    "hu": {
+      "official": "Laoszi Népi Demokratikus Köztársaság",
+      "common": "Laoszi Népi Demokratikus Köztársaság"
+    },
+    "is": {
+      "official": "Alþýðulýðveldið Laó",
+      "common": "Alþýðulýðveldið Laó"
+    },
+    "ia": {
+      "official": "Laos",
+      "common": "Laos"
+    },
+    "id": {
+      "official": "Republik Demokrat Rakyat Laos",
+      "common": "Republik Demokrat Rakyat Laos"
+    },
+    "it": {
+      "official": "Laos",
+      "common": "Laos"
+    },
+    "ja": {
+      "official": "ラオス人民民主共和国",
+      "common": "ラオス人民民主共和国"
+    },
+    "kn": {
+      "official": "ಲಾವೋ ಪೀಪಲ್ಸ್ ಡೆಮೊಕ್ರಟಿಕ್ ರಿಪಬ್ಲಿಕ್",
+      "common": "ಲಾವೋ ಪೀಪಲ್ಸ್ ಡೆಮೊಕ್ರಟಿಕ್ ರಿಪಬ್ಲಿಕ್"
+    },
+    "kk": {
+      "official": "Лаос Халық Демократиялық Республикасы",
+      "common": "Лаос Халық Демократиялық Республикасы"
+    },
+    "km": {
+      "official": "សាធារណ​រដ្ឋ​ប្រជាធិបតេយ្យ​​ប្រជាមានិត​ឡាវ",
+      "common": "សាធារណ​រដ្ឋ​ប្រជាធិបតេយ្យ​​ប្រជាមានិត​ឡាវ"
+    },
+    "rw": {
+      "official": "Repubulika Iharanira Demokorasi ya Lawosi",
+      "common": "Repubulika Iharanira Demokorasi ya Lawosi"
+    },
+    "ko": {
+      "official": "라오 인민 민주주의 공화국",
+      "common": "라오 인민 민주주의 공화국"
+    },
+    "ku": {
+      "official": "Komara Demokratîka Gelê Lao",
+      "common": "Komara Demokratîka Gelê Lao"
+    },
+    "lv": {
+      "official": "Laosa",
+      "common": "Laosa"
+    },
+    "lt": {
+      "official": "Laoso Liaudies Demokratinė Respublika",
+      "common": "Laoso Liaudies Demokratinė Respublika"
+    },
+    "mk": {
+      "official": "Народна демократска република Лао",
+      "common": "Народна демократска република Лао"
+    },
+    "ml": {
+      "official": "ലാവോ പീപ്പിള്‍സ് ജനാധിപത്യ റിപ്പബ്ലിക്",
+      "common": "ലാവോ പീപ്പിള്‍സ് ജനാധിപത്യ റിപ്പബ്ലിക്"
+    },
+    "mi": {
+      "official": "Rāoho",
+      "common": "Rāoho"
+    },
+    "mr": {
+      "official": "लाओ पिपल्स डेमोक्रॅटिक रिपब्लिक",
+      "common": "लाओ पिपल्स डेमोक्रॅटिक रिपब्लिक"
+    },
+    "ms": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    },
+    "mt": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    },
+    "mn": {
+      "official": "Ардчилсан Конго ард улс",
+      "common": "Ардчилсан Конго ард улс"
+    },
+    "ne": {
+      "official": "लाओ जनताको प्रजातन्त्रिक गणराज्य",
+      "common": "लाओ जनताको प्रजातन्त्रिक गणराज्य"
+    },
+    "nn": {
+      "official": "Laos",
+      "common": "Laos"
+    },
+    "nb": {
+      "official": "Den demokratiske folkerepublikk Laos",
+      "common": "Den demokratiske folkerepublikk Laos"
+    },
+    "oc": {
+      "official": "Laòs",
+      "common": "Laòs"
+    },
+    "or": {
+      "official": "ଲାଓ ଜନସମାଜ ସର୍ବସାଧାରଣ ଗଣତନ୍ତ୍ର",
+      "common": "ଲାଓ ଜନସମାଜ ସର୍ବସାଧାରଣ ଗଣତନ୍ତ୍ର"
+    },
+    "pa": {
+      "official": "ਲਿਓ ਪੀਪਲ ਦਾ ਗਣਰਾਜ",
+      "common": "ਲਿਓ ਪੀਪਲ ਦਾ ਗਣਰਾਜ"
+    },
+    "fa": {
+      "official": "جمهوری دموکراتیک خلق لائو",
+      "common": "جمهوری دموکراتیک خلق لائو"
+    },
+    "pl": {
+      "official": "Laos",
+      "common": "Laos"
+    },
+    "pt": {
+      "official": "República Democrática Popular do Laos",
+      "common": "República Democrática Popular do Laos"
+    },
+    "ps": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    },
+    "ro": {
+      "official": "Republica populară democrată Lao",
+      "common": "Republica populară democrată Lao"
+    },
+    "ru": {
+      "official": "Лаосская Народно-Демократическая Республика",
+      "common": "Лаосская Народно-Демократическая Республика"
+    },
+    "si": {
+      "official": "මහජන ප්‍රජාතාන්ත්‍රික ලාවෝ ජනරජය",
+      "common": "මහජන ප්‍රජාතාන්ත්‍රික ලාවෝ ජනරජය"
+    },
+    "sk": {
+      "official": "Laoská ľudovodemokratická republika",
+      "common": "Laoská ľudovodemokratická republika"
+    },
+    "sl": {
+      "official": "Laoška ljudska demokratična republika",
+      "common": "Laoška ljudska demokratična republika"
+    },
+    "so": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    },
+    "es": {
+      "official": "República Democrática Popular de Lao",
+      "common": "República Democrática Popular de Lao"
+    },
+    "sr": {
+      "official": "Лаошка Народна Демократска Република",
+      "common": "Лаошка Народна Демократска Република"
+    },
+    "sw": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    },
+    "sv": {
+      "official": "Demokratiska folkrepubliken Lao",
+      "common": "Demokratiska folkrepubliken Lao"
+    },
+    "ta": {
+      "official": "லவொ மக்கள் சுதந்திர குடியரசு",
+      "common": "லவொ மக்கள் சுதந்திர குடியரசு"
+    },
+    "tt": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    },
+    "te": {
+      "official": "లాఓ పీపుల్స్ డెమోక్రటిక్ రిపబ్లిక్",
+      "common": "లాఓ పీపుల్స్ డెమోక్రటిక్ రిపబ్లిక్"
+    },
+    "tl": {
+      "official": "Taumbayang Demokratikong Republikang Lao",
+      "common": "Taumbayang Demokratikong Republikang Lao"
+    },
+    "th": {
+      "official": "สาธารณรัฐประชาธิปไตยประชาชนลาว",
+      "common": "สาธารณรัฐประชาธิปไตยประชาชนลาว"
+    },
+    "ti": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    },
+    "tk": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    },
+    "tr": {
+      "official": "Lao Demokratik Halk Cumhuriyeti",
+      "common": "Lao Demokratik Halk Cumhuriyeti"
+    },
+    "ug": {
+      "official": "لائوس خەلق دېموكراتىك جۇمھۇرىيىتى",
+      "common": "لائوس خەلق دېموكراتىك جۇمھۇرىيىتى"
+    },
+    "uk": {
+      "official": "Лаоська Народно-Демократична Республіка",
+      "common": "Лаоська Народно-Демократична Республіка"
+    },
+    "ve": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    },
+    "vi": {
+      "official": "Cộng hoà Nhân dân Dân chủ Lào",
+      "common": "Cộng hoà Nhân dân Dân chủ Lào"
+    },
+    "cy": {
+      "official": "Gweriniaeth Ddemocrataidd y Bobl Lao",
+      "common": "Gweriniaeth Ddemocrataidd y Bobl Lao"
+    },
+    "wa": {
+      "official": "Laosse",
+      "common": "Laosse"
+    },
+    "wo": {
+      "official": "Republik Popileer Demokaraatik bu Laawos",
+      "common": "Republik Popileer Demokaraatik bu Laawos"
+    },
+    "xh": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    },
+    "zu": {
+      "official": "Lao People's Democratic Republic",
+      "common": "Lao People's Democratic Republic"
+    }
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "continent": "Australia",
+  "alpha2": "NC",
+  "alpha3": "NCL",
+  "country_code": "687",
+  "international_prefix": "00",
+  "ioc": null,
+  "gec": "NC",
+  "name": "New Caledonia",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    6
+  ],
+  "national_prefix": "None",
+  "number": "540",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "world_region": "APAC",
+  "un_locode": "NC",
+  "nationality": "New Caledonian",
+  "postal_code": true,
+  "unofficial_names": [
+    "New Caledonia",
+    "Neukaledonien",
+    "Nouvelle Calédonie",
+    "Nueva Caledonia",
+    "ニューカレドニア",
+    "Nieuw-Caledonië"
+  ],
+  "languages_official": [
+    "fr"
+  ],
+  "languages_spoken": [
+    "fr"
+  ],
+  "geo": {
+    "latitude": -20.904305,
+    "latitude_dec": "-21.31782341003418",
+    "longitude": 165.618042,
+    "longitude_dec": "165.298583984375",
+    "max_latitude": -19.5395087,
+    "max_longitude": 168.1336819,
+    "min_latitude": -22.8819479,
+    "min_longitude": 163.5697048,
+    "bounds": {
+      "northeast": {
+        "lat": -19.5395087,
+        "lng": 168.1336819
+      },
+      "southwest": {
+        "lat": -22.8819479,
+        "lng": 163.5697048
+      }
+    }
+  },
+  "currency_code": "XPF",
+  "postal_address_data": {
+    "key": "NC",
+    "upper": "ACX",
+    "zipex": "98814,98800,98810",
+    "name": "NEW CALEDONIA",
+    "zip": "988\\d{2}",
+    "require": "ACZ",
+    "id": "data/NC",
+    "posturl": "http://poste.opt.nc/index.php?option=com_content&view=article&id=80&Itemid=131",
+    "fmt": "%O%n%N%n%A%n%Z %C %X"
+  },
+  "translations": {
+    "af": {
+      "official": "Nieu-Kaledonië",
+      "common": "Nieu-Kaledonië"
+    },
+    "sq": {
+      "official": "Kaledonia e Re",
+      "common": "Kaledonia e Re"
+    },
+    "am": {
+      "official": "ኒፄ ጢሓ፦ኒ።",
+      "common": "ኒፄ ጢሓ፦ኒ።"
+    },
+    "ar": {
+      "official": "نيو قلدونيا",
+      "common": "نيو قلدونيا"
+    },
+    "hy": {
+      "official": "Նոր Կալեդոնիա",
+      "common": "Նոր Կալեդոնիա"
+    },
+    "as": {
+      "official": "নিউ কেলেডনিয়া",
+      "common": "নিউ কেলেডনিয়া"
+    },
+    "az": {
+      "official": "Yeni Kaledoniya",
+      "common": "Yeni Kaledoniya"
+    },
+    "eu": {
+      "official": "Kaledonia Berria",
+      "common": "Kaledonia Berria"
+    },
+    "be": {
+      "official": "Новая Каледонія",
+      "common": "Новая Каледонія"
+    },
+    "bn": {
+      "official": "নিউ ক্যালেডোনিয়া",
+      "common": "নিউ ক্যালেডোনিয়া"
+    },
+    "bs": {
+      "official": "Nova Kaledonija",
+      "common": "Nova Kaledonija"
+    },
+    "br": {
+      "official": "New Caledonia",
+      "common": "New Caledonia"
+    },
+    "bg": {
+      "official": "Нова Каледония",
+      "common": "Нова Каледония"
+    },
+    "ca": {
+      "official": "Nova Caledònia",
+      "common": "Nova Caledònia"
+    },
+    "zh": {
+      "official": "新喀里多尼亚",
+      "common": "新喀里多尼亚"
+    },
+    "cs": {
+      "official": "Nová Kaledonie",
+      "common": "Nová Kaledonie"
+    },
+    "da": {
+      "official": "Ny Kaledonien",
+      "common": "Ny Kaledonien"
+    },
+    "nl": {
+      "official": "Nieuw-Caledonië",
+      "common": "Nieuw-Caledonië"
+    },
+    "dz": {
+      "official": "ནིའུ་ ཀེ་ལི་ཌོ་ནི་ཡ།",
+      "common": "ནིའུ་ ཀེ་ལི་ཌོ་ནི་ཡ།"
+    },
+    "en": {
+      "official": "New Caledonia",
+      "common": "New Caledonia"
+    },
+    "eo": {
+      "official": "Nov-Kaledonio",
+      "common": "Nov-Kaledonio"
+    },
+    "et": {
+      "official": "Uus-Kaledoonia",
+      "common": "Uus-Kaledoonia"
+    },
+    "fo": {
+      "official": "New Caledonia",
+      "common": "New Caledonia"
+    },
+    "fi": {
+      "official": "Uusi-Kaledonia",
+      "common": "Uusi-Kaledonia"
+    },
+    "fr": {
+      "official": "Nouvelle-Calédonie",
+      "common": "Nouvelle-Calédonie"
+    },
+    "ka": {
+      "official": "ახალი კალედონია",
+      "common": "ახალი კალედონია"
+    },
+    "de": {
+      "official": "Neukaledonien",
+      "common": "Neukaledonien"
+    },
+    "ga": {
+      "official": "An Nua-Chaladóin",
+      "common": "An Nua-Chaladóin"
+    },
+    "gl": {
+      "official": "Nova Caledonia",
+      "common": "Nova Caledonia"
+    },
+    "el": {
+      "official": "Νέα Καληδονία",
+      "common": "Νέα Καληδονία"
+    },
+    "gu": {
+      "official": "ન્યુ કેલેડોનિયા",
+      "common": "ન્યુ કેલેડોનિયા"
+    },
+    "he": {
+      "official": "קלדוניה החדשה",
+      "common": "קלדוניה החדשה"
+    },
+    "hi": {
+      "official": "न्यू कैलेडोनिया",
+      "common": "न्यू कैलेडोनिया"
+    },
+    "hr": {
+      "official": "Nova Kaledonija",
+      "common": "Nova Kaledonija"
+    },
+    "hu": {
+      "official": "Új-Kaledónia",
+      "common": "Új-Kaledónia"
+    },
+    "is": {
+      "official": "Nýja Kaledónía",
+      "common": "Nýja Kaledónía"
+    },
+    "ia": {
+      "official": "Nove Caledonia",
+      "common": "Nove Caledonia"
+    },
+    "id": {
+      "official": "Kaledonia Baru",
+      "common": "Kaledonia Baru"
+    },
+    "it": {
+      "official": "Nuova Caledonia",
+      "common": "Nuova Caledonia"
+    },
+    "ja": {
+      "official": "ニューカレドニア",
+      "common": "ニューカレドニア"
+    },
+    "kn": {
+      "official": "ಹೊಸ ಕೆಲೆಡೊನಿಯಾ",
+      "common": "ಹೊಸ ಕೆಲೆಡೊನಿಯಾ"
+    },
+    "kk": {
+      "official": "Жаңа Каледония",
+      "common": "Жаңа Каледония"
+    },
+    "km": {
+      "official": "នូវែលកាលេដូនី",
+      "common": "នូវែលកាលេដូនី"
+    },
+    "rw": {
+      "official": "Nuveli Kalidoniya",
+      "common": "Nuveli Kalidoniya"
+    },
+    "ko": {
+      "official": "뉴 칼레도니아",
+      "common": "뉴 칼레도니아"
+    },
+    "ku": {
+      "official": "Kaledonyaya Nû",
+      "common": "Kaledonyaya Nû"
+    },
+    "lv": {
+      "official": "Jaunkaledonija",
+      "common": "Jaunkaledonija"
+    },
+    "lt": {
+      "official": "Naujoji Kaledonija",
+      "common": "Naujoji Kaledonija"
+    },
+    "mk": {
+      "official": "Нова Каледонија",
+      "common": "Нова Каледонија"
+    },
+    "ml": {
+      "official": "ന്യൂ കാലിഡോമിയ",
+      "common": "ന്യൂ കാലിഡോമിയ"
+    },
+    "mi": {
+      "official": "New Caledonia",
+      "common": "New Caledonia"
+    },
+    "mr": {
+      "official": "न्यू कॅलिडोनिया",
+      "common": "न्यू कॅलिडोनिया"
+    },
+    "ms": {
+      "official": "New Caledonia",
+      "common": "New Caledonia"
+    },
+    "mt": {
+      "official": "Maċedonja",
+      "common": "Maċedonja"
+    },
+    "mn": {
+      "official": "Шинэ калдени",
+      "common": "Шинэ калдени"
+    },
+    "ne": {
+      "official": "नयाँ क्यालेदोनिया",
+      "common": "नयाँ क्यालेदोनिया"
+    },
+    "nn": {
+      "official": "Ny-Caledonia",
+      "common": "Ny-Caledonia"
+    },
+    "nb": {
+      "official": "Ny-Caledonia",
+      "common": "Ny-Caledonia"
+    },
+    "oc": {
+      "official": "Macedònian",
+      "common": "Macedònian"
+    },
+    "or": {
+      "official": "ନ୍ଯୁ କାଲେଡୋନିୟା",
+      "common": "ନ୍ଯୁ କାଲେଡୋନିୟା"
+    },
+    "pa": {
+      "official": "ਨਵਾਂ ਕਾਲੀਡੋਨੀਆਂ",
+      "common": "ਨਵਾਂ ਕਾਲੀਡੋਨੀਆਂ"
+    },
+    "fa": {
+      "official": "کالدونیای جدید",
+      "common": "کالدونیای جدید"
+    },
+    "pl": {
+      "official": "Nowa Kaledonia",
+      "common": "Nowa Kaledonia"
+    },
+    "pt": {
+      "official": "Nova Caledónia",
+      "common": "Nova Caledónia"
+    },
+    "ps": {
+      "official": "New Caledonia",
+      "common": "New Caledonia"
+    },
+    "ro": {
+      "official": "Noua Caledonie",
+      "common": "Noua Caledonie"
+    },
+    "ru": {
+      "official": "Новая Каледония",
+      "common": "Новая Каледония"
+    },
+    "si": {
+      "official": "නව කැලිඩෝනියාව",
+      "common": "නව කැලිඩෝනියාව"
+    },
+    "sk": {
+      "official": "Nová Kaledónia",
+      "common": "Nová Kaledónia"
+    },
+    "sl": {
+      "official": "Nova Kaledonija",
+      "common": "Nova Kaledonija"
+    },
+    "so": {
+      "official": "New Caledonia",
+      "common": "New Caledonia"
+    },
+    "es": {
+      "official": "Nueva Caledonia",
+      "common": "Nueva Caledonia"
+    },
+    "sr": {
+      "official": "Нова Каледонија",
+      "common": "Нова Каледонија"
+    },
+    "sw": {
+      "official": "New Caledonia",
+      "common": "New Caledonia"
+    },
+    "sv": {
+      "official": "Nya Kaledonien",
+      "common": "Nya Kaledonien"
+    },
+    "ta": {
+      "official": "புதிய கலிடோனியா",
+      "common": "புதிய கலிடோனியா"
+    },
+    "tt": {
+      "official": "Яңа Каледониа",
+      "common": "Яңа Каледониа"
+    },
+    "te": {
+      "official": "న్యూ కెలిడోనియా",
+      "common": "న్యూ కెలిడోనియా"
+    },
+    "tl": {
+      "official": "Bagong Caledonia",
+      "common": "Bagong Caledonia"
+    },
+    "th": {
+      "official": "นิวแคลิโดเนีย",
+      "common": "นิวแคลิโดเนีย"
+    },
+    "ti": {
+      "official": "ኒው ካሌዶኒያ",
+      "common": "ኒው ካሌዶኒያ"
+    },
+    "tk": {
+      "official": "Täze Kaledoniýa",
+      "common": "Täze Kaledoniýa"
+    },
+    "tr": {
+      "official": "Yeni Kaledonya",
+      "common": "Yeni Kaledonya"
+    },
+    "ug": {
+      "official": "يېڭى كالېدونىيە",
+      "common": "يېڭى كالېدونىيە"
+    },
+    "uk": {
+      "official": "Нова Каледонія",
+      "common": "Нова Каледонія"
+    },
+    "ve": {
+      "official": "New Caledonia",
+      "common": "New Caledonia"
+    },
+    "vi": {
+      "official": "Niu Ca-lê-đô-ni-a",
+      "common": "Niu Ca-lê-đô-ni-a"
+    },
+    "cy": {
+      "official": "Caledonia Newydd",
+      "common": "Caledonia Newydd"
+    },
+    "wa": {
+      "official": "Nouve Caledoneye",
+      "common": "Nouve Caledoneye"
+    },
+    "wo": {
+      "official": "Nuweel Kaledooni",
+      "common": "Nuweel Kaledooni"
+    },
+    "xh": {
+      "official": "Macedonia",
+      "common": "Macedonia"
+    },
+    "zu": {
+      "official": "I-Makhedoniya",
+      "common": "I-Makhedoniya"
+    }
+  }
+}

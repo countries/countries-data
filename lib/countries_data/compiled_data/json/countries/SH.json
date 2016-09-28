@@ -1,0 +1,440 @@
+{
+  "continent": "Africa",
+  "alpha2": "SH",
+  "alpha3": "SHN",
+  "country_code": "290",
+  "international_prefix": "00",
+  "ioc": null,
+  "gec": "SH",
+  "name": "Saint Helena",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    4
+  ],
+  "national_prefix": "None",
+  "number": "654",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "world_region": "APAC",
+  "un_locode": "SH",
+  "nationality": "Saint Helenian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Saint Helena",
+    "Sankt Helena",
+    "Sainte Hélène",
+    "Santa Helena",
+    "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+    "Sint-Helena",
+    "Saint Helena, Ascension and Tristan da Cunha"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 38.5052429,
+    "latitude_dec": "-15.957334518432617",
+    "longitude": -122.4703868,
+    "longitude_dec": "-5.716914176940918",
+    "max_latitude": 38.523055,
+    "max_longitude": -122.4363226,
+    "min_latitude": 38.4864741,
+    "min_longitude": -122.495042,
+    "bounds": {
+      "northeast": {
+        "lat": 38.523055,
+        "lng": -122.4363226
+      },
+      "southwest": {
+        "lat": 38.4864741,
+        "lng": -122.495042
+      }
+    }
+  },
+  "currency_code": "SHP",
+  "postal_address_data": {
+    "upper": "CZ",
+    "zipex": "STHL 1ZZ",
+    "name": "SAINT HELENA",
+    "zip": "(?:ASCN|STHL) 1ZZ",
+    "require": "ACZ",
+    "id": "data/SH",
+    "key": "SH",
+    "fmt": "%N%n%O%n%A%n%C%n%Z"
+  },
+  "translations": {
+    "af": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "sq": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "am": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "ar": {
+      "official": "ساينت هيلينا، تريستان دا كونا",
+      "common": "ساينت هيلينا، تريستان دا كونا"
+    },
+    "hy": {
+      "official": "Սուրբ Հեղինեի Կղզի, Համբարձման և Տրիստան դա Կունյա",
+      "common": "Սուրբ Հեղինեի Կղզի, Համբարձման և Տրիստան դա Կունյա"
+    },
+    "as": {
+      "official": "ছেইন্ট হেলেনা, এচেঞ্চন আৰু ট্ৰিস্টান ডা কুন্হা",
+      "common": "ছেইন্ট হেলেনা, এচেঞ্চন আৰু ট্ৰিস্টান ডা কুন্হা"
+    },
+    "az": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "eu": {
+      "official": "Santa Helena, Ascension eta Tristan da Cunha",
+      "common": "Santa Helena, Ascension eta Tristan da Cunha"
+    },
+    "be": {
+      "official": "Астравы Святой Алены, Ушэсця і Трыстан-да-Кунья",
+      "common": "Астравы Святой Алены, Ушэсця і Трыстан-да-Кунья"
+    },
+    "bn": {
+      "official": "সেইন্ট হেলেনা, অ্যাসেনসিয়ান ও ট্রিস্টান ডা কুনহা",
+      "common": "সেইন্ট হেলেনা, অ্যাসেনসিয়ান ও ট্রিস্টান ডা কুনহা"
+    },
+    "bs": {
+      "official": "Sveta Helena, Ascension i Tristan da Cunha",
+      "common": "Sveta Helena, Ascension i Tristan da Cunha"
+    },
+    "br": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "bg": {
+      "official": "Света Елена, Възнесение и Тристан да Куня",
+      "common": "Света Елена, Възнесение и Тристан да Куня"
+    },
+    "ca": {
+      "official": "Saint Helena, Ascension i Tristan da Cunha",
+      "common": "Saint Helena, Ascension i Tristan da Cunha"
+    },
+    "zh": {
+      "official": "圣赫勒拿-阿森松-特里斯坦达库尼亚",
+      "common": "圣赫勒拿-阿森松-特里斯坦达库尼亚"
+    },
+    "cs": {
+      "official": "Svatá Helena, Ascension a Tristan da Cunha",
+      "common": "Svatá Helena, Ascension a Tristan da Cunha"
+    },
+    "da": {
+      "official": "Sankt Helena, Ascension og Tristan da Cunha",
+      "common": "Sankt Helena, Ascension og Tristan da Cunha"
+    },
+    "nl": {
+      "official": "Sint-Helena, Ascension en Tristan da Cunha",
+      "common": "Sint-Helena, Ascension en Tristan da Cunha"
+    },
+    "dz": {
+      "official": "སཱེནཊི་ཧི་ལི་ན་ ཨེ་སེན་ཤཱན་དང་ཊིསི་ཊན་ ད་ ཀུན་ཧ་",
+      "common": "སཱེནཊི་ཧི་ལི་ན་ ཨེ་སེན་ཤཱན་དང་ཊིསི་ཊན་ ད་ ཀུན་ཧ་"
+    },
+    "en": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "eo": {
+      "official": "Sankta-Heleno",
+      "common": "Sankta-Heleno"
+    },
+    "et": {
+      "official": "Saint Helena, Ascension ja Tristan da Cunha",
+      "common": "Saint Helena, Ascension ja Tristan da Cunha"
+    },
+    "fo": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "fi": {
+      "official": "Saint Helena, Ascension ja Tristan da Cunha",
+      "common": "Saint Helena, Ascension ja Tristan da Cunha"
+    },
+    "fr": {
+      "official": "Sainte-Hélène, Ascension et Tristan da Cunha",
+      "common": "Sainte-Hélène, Ascension et Tristan da Cunha"
+    },
+    "ka": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "de": {
+      "official": "St. Helena, Ascension und Tristan da Cunha",
+      "common": "St. Helena, Ascension und Tristan da Cunha"
+    },
+    "ga": {
+      "official": "Saint Helena, Ascension agus Tristan da Cunha",
+      "common": "Saint Helena, Ascension agus Tristan da Cunha"
+    },
+    "gl": {
+      "official": "Santa Helena, Ascensión e Tristán da Cuña",
+      "common": "Santa Helena, Ascensión e Tristán da Cuña"
+    },
+    "el": {
+      "official": "Αγία Ελένη, Ascension και Tristan da Cunha",
+      "common": "Αγία Ελένη, Ascension και Tristan da Cunha"
+    },
+    "gu": {
+      "official": "સંત હેલેના, અસેન્શન અને ટ્રીસ્તાન ડ કુન્હા",
+      "common": "સંત હેલેના, અસેન્શન અને ટ્રીસ્તાન ડ કુન્હા"
+    },
+    "he": {
+      "official": "סנט הלנה, אסנשן וטריסטן דה קונה",
+      "common": "סנט הלנה, אסנשן וטריסטן דה קונה"
+    },
+    "hi": {
+      "official": "संत हेलेना, असेन्शन एंड ट्रिस्टान डा कुन्हा",
+      "common": "संत हेलेना, असेन्शन एंड ट्रिस्टान डा कुन्हा"
+    },
+    "hr": {
+      "official": "Sveta Helena, Ascension i Tristan da Cunha",
+      "common": "Sveta Helena, Ascension i Tristan da Cunha"
+    },
+    "hu": {
+      "official": "Szent Ilona, Ascension és Tristan da Cunha",
+      "common": "Szent Ilona, Ascension és Tristan da Cunha"
+    },
+    "is": {
+      "official": "Sankti Helena, Ascension og Tristan da Cunha",
+      "common": "Sankti Helena, Ascension og Tristan da Cunha"
+    },
+    "ia": {
+      "official": "Sancte Helena, Ascension e Tristan da Cunha",
+      "common": "Sancte Helena, Ascension e Tristan da Cunha"
+    },
+    "id": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "it": {
+      "official": "Saint Helena, Ascension e Tristan da Cunha",
+      "common": "Saint Helena, Ascension e Tristan da Cunha"
+    },
+    "ja": {
+      "official": "セントヘレナ、アセンション及びトリスタン・ダ・クーニャ",
+      "common": "セントヘレナ、アセンション及びトリスタン・ダ・クーニャ"
+    },
+    "kn": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "kk": {
+      "official": "Қасиетті Елена, Вознесения және Тристан да Кунья",
+      "common": "Қасиетті Елена, Вознесения және Тристан да Кунья"
+    },
+    "km": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "rw": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "ko": {
+      "official": "세인트 헬레나 어센션 트리탄다쿠냐",
+      "common": "세인트 헬레나 어센션 트리탄다쿠냐"
+    },
+    "ku": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "lv": {
+      "official": "Svētās Helēnas Sala un Piederīgās Teritorijas",
+      "common": "Svētās Helēnas Sala un Piederīgās Teritorijas"
+    },
+    "lt": {
+      "official": "Šv. Elenos, Dangun Žengimo ir Tristano da Kunjos salos",
+      "common": "Šv. Elenos, Dangun Žengimo ir Tristano da Kunjos salos"
+    },
+    "mk": {
+      "official": "Св. Хелена, вознесение и Тристан да Кунха",
+      "common": "Св. Хелена, вознесение и Тристан да Кунха"
+    },
+    "ml": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "mi": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "mr": {
+      "official": "सेंट हेलेना, अस्सेंशन व ट्रीस्टन डा कुंहा",
+      "common": "सेंट हेलेना, अस्सेंशन व ट्रीस्टन डा कुंहा"
+    },
+    "ms": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "mt": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "mn": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "ne": {
+      "official": "शन्त Helena, Ascension र Tristan da Cuncha",
+      "common": "शन्त Helena, Ascension र Tristan da Cuncha"
+    },
+    "nn": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "nb": {
+      "official": "St. Helena, Ascension og Tristan da Cunha",
+      "common": "St. Helena, Ascension og Tristan da Cunha"
+    },
+    "oc": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "or": {
+      "official": "ସେଣ୍ଟ ହେଲେନା, ଏସେନସନ ଏବଂ ତ୍ରିସ୍ଥାନ ଡା କୁନାହ",
+      "common": "ସେଣ୍ଟ ହେଲେନା, ଏସେନସନ ଏବଂ ତ୍ରିସ୍ଥାନ ଡା କୁନାହ"
+    },
+    "pa": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "fa": {
+      "official": "سنت هلنا, Ascension و Tristan da Cunha",
+      "common": "سنت هلنا, Ascension و Tristan da Cunha"
+    },
+    "pl": {
+      "official": "Wyspy Świętej Heleny, Wniebowstąpienia i Tristan da Cunha",
+      "common": "Wyspy Świętej Heleny, Wniebowstąpienia i Tristan da Cunha"
+    },
+    "pt": {
+      "official": "Santa Helema, Ascenção e Tristão da Cunha",
+      "common": "Santa Helema, Ascenção e Tristão da Cunha"
+    },
+    "ps": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "ro": {
+      "official": "Sfânta Elena, Ascension și Tristan da Cunha",
+      "common": "Sfânta Elena, Ascension și Tristan da Cunha"
+    },
+    "ru": {
+      "official": "Остров Святой Елены, Остров Вознесения и Тристан-да-Кунья",
+      "common": "Остров Святой Елены, Остров Вознесения и Тристан-да-Кунья"
+    },
+    "si": {
+      "official": "ශාන්ත හෙලේනා, ඇසෙන්ශන් හා ට්‍රිස්ටන් ද කුන්හා",
+      "common": "ශාන්ත හෙලේනා, ඇසෙන්ශන් හා ට්‍රිස්ටන් ද කුන්හා"
+    },
+    "sk": {
+      "official": "Svätá Helena, Ascension a Tristan da Cunha",
+      "common": "Svätá Helena, Ascension a Tristan da Cunha"
+    },
+    "sl": {
+      "official": "Sveta Helena, Ascension in Tristan da Cunha",
+      "common": "Sveta Helena, Ascension in Tristan da Cunha"
+    },
+    "so": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "es": {
+      "official": "Santa Elena, Ascensión y Tristán de Acuña",
+      "common": "Santa Elena, Ascensión y Tristán de Acuña"
+    },
+    "sr": {
+      "official": "Света Јелена, Асансион и Тристан да Куна",
+      "common": "Света Јелена, Асансион и Тристан да Куна"
+    },
+    "sw": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "sv": {
+      "official": "Saint Helena, Ascension och Tristan da Cunha",
+      "common": "Saint Helena, Ascension och Tristan da Cunha"
+    },
+    "ta": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "tt": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "te": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "tl": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "th": {
+      "official": "เซนต์เฮเลนา, แอสเซนชัน และ ทริสแตน ดา คูนญา",
+      "common": "เซนต์เฮเลนา, แอสเซนชัน และ ทริสแตน ดา คูนญา"
+    },
+    "ti": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "tk": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "tr": {
+      "official": "Sen Helen, Ascension and Tristan da Cunha",
+      "common": "Sen Helen, Ascension and Tristan da Cunha"
+    },
+    "ug": {
+      "official": "ساينىت ھېلېنا ۋە ئاسسېنسىيون تىرىستان دا كۇنخا",
+      "common": "ساينىت ھېلېنا ۋە ئاسسېنسىيون تىرىستان دا كۇنخا"
+    },
+    "uk": {
+      "official": "Острів Святої Єлени, острів Вознесіння та острови Трістан-да-Кунья",
+      "common": "Острів Святої Єлени, острів Вознесіння та острови Трістан-да-Кунья"
+    },
+    "ve": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "vi": {
+      "official": "Xan He-lê-na, A-xen-siónh và Tợ-rí-x-tan đa Cun-ha",
+      "common": "Xan He-lê-na, A-xen-siónh và Tợ-rí-x-tan đa Cun-ha"
+    },
+    "cy": {
+      "official": "Saint Helena, Dyrchafael a Tristan da Cunha",
+      "common": "Saint Helena, Dyrchafael a Tristan da Cunha"
+    },
+    "wa": {
+      "official": "Sinte Helene, Acinsion & Tristan da Cunha",
+      "common": "Sinte Helene, Acinsion & Tristan da Cunha"
+    },
+    "wo": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "xh": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "zu": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    }
+  }
+}

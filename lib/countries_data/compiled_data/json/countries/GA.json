@@ -1,0 +1,434 @@
+{
+  "continent": "Africa",
+  "alpha2": "GA",
+  "alpha3": "GAB",
+  "country_code": "241",
+  "international_prefix": "00",
+  "ioc": "GAB",
+  "gec": "GB",
+  "name": "Gabon",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    6,
+    7,
+    8
+  ],
+  "national_prefix": "None",
+  "number": "266",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "world_region": "EMEA",
+  "un_locode": "GA",
+  "nationality": "Gabonese",
+  "postal_code": true,
+  "unofficial_names": [
+    "Gabon",
+    "Gabun",
+    "Gabón",
+    "ガボン"
+  ],
+  "languages_official": [
+    "fr"
+  ],
+  "languages_spoken": [
+    "fr"
+  ],
+  "geo": {
+    "latitude": -0.803689,
+    "latitude_dec": "-0.6345400810241699",
+    "longitude": 11.609444,
+    "longitude_dec": "11.738608360290527",
+    "max_latitude": 2.3181089,
+    "max_longitude": 14.5269233,
+    "min_latitude": -3.9608058,
+    "min_longitude": 8.6990528,
+    "bounds": {
+      "northeast": {
+        "lat": 2.3181089,
+        "lng": 14.5269233
+      },
+      "southwest": {
+        "lat": -3.9608058,
+        "lng": 8.6990528
+      }
+    }
+  },
+  "currency_code": "XAF",
+  "postal_address_data": {
+    "id": "data/GA",
+    "key": "GA",
+    "name": "GABON"
+  },
+  "translations": {
+    "af": {
+      "official": "Gaboen",
+      "common": "Gaboen"
+    },
+    "sq": {
+      "official": "Gaboni",
+      "common": "Gaboni"
+    },
+    "am": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "ar": {
+      "official": "الغابون",
+      "common": "الغابون"
+    },
+    "hy": {
+      "official": "Գաբոն",
+      "common": "Գաբոն"
+    },
+    "as": {
+      "official": "গেবন",
+      "common": "গেবন"
+    },
+    "az": {
+      "official": "Qabon",
+      "common": "Qabon"
+    },
+    "eu": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "be": {
+      "official": "Габон",
+      "common": "Габон"
+    },
+    "bn": {
+      "official": "গেবন",
+      "common": "গেবন"
+    },
+    "bs": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "br": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "bg": {
+      "official": "Габон",
+      "common": "Габон"
+    },
+    "ca": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "zh": {
+      "official": "加蓬",
+      "common": "加蓬"
+    },
+    "cs": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "da": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "nl": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "dz": {
+      "official": "གེ་བཱོན།",
+      "common": "གེ་བཱོན།"
+    },
+    "en": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "eo": {
+      "official": "Gabono",
+      "common": "Gabono"
+    },
+    "et": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "fo": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "fi": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "fr": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "ka": {
+      "official": "გაბონი",
+      "common": "გაბონი"
+    },
+    "de": {
+      "official": "Gabun",
+      "common": "Gabun"
+    },
+    "ga": {
+      "official": "An Ghabúin",
+      "common": "An Ghabúin"
+    },
+    "gl": {
+      "official": "Gabón",
+      "common": "Gabón"
+    },
+    "el": {
+      "official": "Γκαμπόν",
+      "common": "Γκαμπόν"
+    },
+    "gu": {
+      "official": "ગેબોન",
+      "common": "ગેબોન"
+    },
+    "he": {
+      "official": "גבון",
+      "common": "גבון"
+    },
+    "hi": {
+      "official": "गाबोन",
+      "common": "गाबोन"
+    },
+    "hr": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "hu": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "is": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "ia": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "id": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "it": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "ja": {
+      "official": "ガボン",
+      "common": "ガボン"
+    },
+    "kn": {
+      "official": "ಗ್ಯಾಬನ್",
+      "common": "ಗ್ಯಾಬನ್"
+    },
+    "kk": {
+      "official": "Габон",
+      "common": "Габон"
+    },
+    "km": {
+      "official": "ហ្គាបុង",
+      "common": "ហ្គាបុង"
+    },
+    "rw": {
+      "official": "Gabo",
+      "common": "Gabo"
+    },
+    "ko": {
+      "official": "가봉",
+      "common": "가봉"
+    },
+    "ku": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "lv": {
+      "official": "Gabona",
+      "common": "Gabona"
+    },
+    "lt": {
+      "official": "Gabonas",
+      "common": "Gabonas"
+    },
+    "mk": {
+      "official": "Габон",
+      "common": "Габон"
+    },
+    "ml": {
+      "official": "ഗാബോണ്‍",
+      "common": "ഗാബോണ്‍"
+    },
+    "mi": {
+      "official": "Kāpona",
+      "common": "Kāpona"
+    },
+    "mr": {
+      "official": "गॅबॉन",
+      "common": "गॅबॉन"
+    },
+    "ms": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "mt": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "mn": {
+      "official": "Габон",
+      "common": "Габон"
+    },
+    "ne": {
+      "official": "गाबोन",
+      "common": "गाबोन"
+    },
+    "nn": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "nb": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "oc": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "or": {
+      "official": "ଗୈବୋନ",
+      "common": "ଗୈବୋନ"
+    },
+    "pa": {
+      "official": "ਗਾਬੋਨ",
+      "common": "ਗਾਬੋਨ"
+    },
+    "fa": {
+      "official": "گابون",
+      "common": "گابون"
+    },
+    "pl": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "pt": {
+      "official": "Gabão",
+      "common": "Gabão"
+    },
+    "ps": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "ro": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "ru": {
+      "official": "Габон",
+      "common": "Габон"
+    },
+    "si": {
+      "official": "ගාබෝන්",
+      "common": "ගාබෝන්"
+    },
+    "sk": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "sl": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "so": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "es": {
+      "official": "Gabón",
+      "common": "Gabón"
+    },
+    "sr": {
+      "official": "Габон",
+      "common": "Габон"
+    },
+    "sw": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "sv": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "ta": {
+      "official": "கபோன்",
+      "common": "கபோன்"
+    },
+    "tt": {
+      "official": "Gабон",
+      "common": "Gабон"
+    },
+    "te": {
+      "official": "గెబాన్",
+      "common": "గెబాన్"
+    },
+    "tl": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "th": {
+      "official": "กาบอง",
+      "common": "กาบอง"
+    },
+    "ti": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "tk": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "tr": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "ug": {
+      "official": "گابون",
+      "common": "گابون"
+    },
+    "uk": {
+      "official": "Габон",
+      "common": "Габон"
+    },
+    "ve": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "vi": {
+      "official": "Ga-bon",
+      "common": "Ga-bon"
+    },
+    "cy": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "wa": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "wo": {
+      "official": "Gaboŋ",
+      "common": "Gaboŋ"
+    },
+    "xh": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "zu": {
+      "official": "Gabon",
+      "common": "Gabon"
+    }
+  }
+}

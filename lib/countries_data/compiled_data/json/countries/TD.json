@@ -1,0 +1,436 @@
+{
+  "continent": "Africa",
+  "alpha2": "TD",
+  "alpha3": "TCD",
+  "country_code": "235",
+  "international_prefix": "15",
+  "ioc": "CHA",
+  "gec": "CD",
+  "name": "Chad",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7
+  ],
+  "national_prefix": "None",
+  "number": "148",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "world_region": "EMEA",
+  "un_locode": "TD",
+  "nationality": "Chadian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Chad",
+    "تشاد",
+    "Tschad",
+    "Tchad",
+    "チャド",
+    "Tsjaad"
+  ],
+  "languages_official": [
+    "ar",
+    "fr"
+  ],
+  "languages_spoken": [
+    "ar",
+    "fr"
+  ],
+  "geo": {
+    "latitude": 15.454166,
+    "latitude_dec": "15.367652893066406",
+    "longitude": 18.732207,
+    "longitude_dec": "18.66758155822754",
+    "max_latitude": 23.4492279,
+    "max_longitude": 24.000001,
+    "min_latitude": 7.442974899999999,
+    "min_longitude": 13.4699999,
+    "bounds": {
+      "northeast": {
+        "lat": 23.4492279,
+        "lng": 24.000001
+      },
+      "southwest": {
+        "lat": 7.442974899999999,
+        "lng": 13.4699999
+      }
+    }
+  },
+  "currency_code": "XAF",
+  "postal_address_data": {
+    "id": "data/TD",
+    "key": "TD",
+    "name": "CHAD"
+  },
+  "translations": {
+    "af": {
+      "official": "Tsjaad",
+      "common": "Tsjaad"
+    },
+    "sq": {
+      "official": "Çad",
+      "common": "Çad"
+    },
+    "am": {
+      "official": "ኂ፥",
+      "common": "ኂ፥"
+    },
+    "ar": {
+      "official": "تشاد",
+      "common": "تشاد"
+    },
+    "hy": {
+      "official": "Չադ",
+      "common": "Չադ"
+    },
+    "as": {
+      "official": "চাড",
+      "common": "চাড"
+    },
+    "az": {
+      "official": "Çad",
+      "common": "Çad"
+    },
+    "eu": {
+      "official": "Txad",
+      "common": "Txad"
+    },
+    "be": {
+      "official": "Чад",
+      "common": "Чад"
+    },
+    "bn": {
+      "official": "চাড",
+      "common": "চাড"
+    },
+    "bs": {
+      "official": "Čad",
+      "common": "Čad"
+    },
+    "br": {
+      "official": "Chad",
+      "common": "Chad"
+    },
+    "bg": {
+      "official": "Чад",
+      "common": "Чад"
+    },
+    "ca": {
+      "official": "Txad",
+      "common": "Txad"
+    },
+    "zh": {
+      "official": "乍得",
+      "common": "乍得"
+    },
+    "cs": {
+      "official": "Čad",
+      "common": "Čad"
+    },
+    "da": {
+      "official": "Tchad",
+      "common": "Tchad"
+    },
+    "nl": {
+      "official": "Tsjaad",
+      "common": "Tsjaad"
+    },
+    "dz": {
+      "official": "ཆཌི།",
+      "common": "ཆཌི།"
+    },
+    "en": {
+      "official": "Chad",
+      "common": "Chad"
+    },
+    "eo": {
+      "official": "Ĉado",
+      "common": "Ĉado"
+    },
+    "et": {
+      "official": "Tšaad",
+      "common": "Tšaad"
+    },
+    "fo": {
+      "official": "Kjad",
+      "common": "Kjad"
+    },
+    "fi": {
+      "official": "Tšad",
+      "common": "Tšad"
+    },
+    "fr": {
+      "official": "Tchad",
+      "common": "Tchad"
+    },
+    "ka": {
+      "official": "ჩადი",
+      "common": "ჩადი"
+    },
+    "de": {
+      "official": "Tschad",
+      "common": "Tschad"
+    },
+    "ga": {
+      "official": "Sead",
+      "common": "Sead"
+    },
+    "gl": {
+      "official": "Chad",
+      "common": "Chad"
+    },
+    "el": {
+      "official": "Τσαντ",
+      "common": "Τσαντ"
+    },
+    "gu": {
+      "official": "ચાડ",
+      "common": "ચાડ"
+    },
+    "he": {
+      "official": "צ'ד",
+      "common": "צ'ד"
+    },
+    "hi": {
+      "official": "चाड",
+      "common": "चाड"
+    },
+    "hr": {
+      "official": "Čad",
+      "common": "Čad"
+    },
+    "hu": {
+      "official": "Csád",
+      "common": "Csád"
+    },
+    "is": {
+      "official": "Tsjad",
+      "common": "Tsjad"
+    },
+    "ia": {
+      "official": "Tchad",
+      "common": "Tchad"
+    },
+    "id": {
+      "official": "Chad",
+      "common": "Chad"
+    },
+    "it": {
+      "official": "Ciad",
+      "common": "Ciad"
+    },
+    "ja": {
+      "official": "チャド",
+      "common": "チャド"
+    },
+    "kn": {
+      "official": "ಛಾಡ್",
+      "common": "ಛಾಡ್"
+    },
+    "kk": {
+      "official": "Чад",
+      "common": "Чад"
+    },
+    "km": {
+      "official": "ឆាដ",
+      "common": "ឆាដ"
+    },
+    "rw": {
+      "official": "Cade",
+      "common": "Cade"
+    },
+    "ko": {
+      "official": "챠드",
+      "common": "챠드"
+    },
+    "ku": {
+      "official": "Çad",
+      "common": "Çad"
+    },
+    "lv": {
+      "official": "Čada",
+      "common": "Čada"
+    },
+    "lt": {
+      "official": "Čadas",
+      "common": "Čadas"
+    },
+    "mk": {
+      "official": "Чад",
+      "common": "Чад"
+    },
+    "ml": {
+      "official": "ഛാഡ്",
+      "common": "ഛാഡ്"
+    },
+    "mi": {
+      "official": "Chad",
+      "common": "Chad"
+    },
+    "mr": {
+      "official": "चाद",
+      "common": "चाद"
+    },
+    "ms": {
+      "official": "Cad",
+      "common": "Cad"
+    },
+    "mt": {
+      "official": "Ċina",
+      "common": "Ċina"
+    },
+    "mn": {
+      "official": "Чад",
+      "common": "Чад"
+    },
+    "ne": {
+      "official": "चाद",
+      "common": "चाद"
+    },
+    "nn": {
+      "official": "Tsjad",
+      "common": "Tsjad"
+    },
+    "nb": {
+      "official": "Tsjad",
+      "common": "Tsjad"
+    },
+    "oc": {
+      "official": "Chad",
+      "common": "Chad"
+    },
+    "or": {
+      "official": "ଚାଡ୍",
+      "common": "ଚାଡ୍"
+    },
+    "pa": {
+      "official": "ਚਾਦ",
+      "common": "ਚਾਦ"
+    },
+    "fa": {
+      "official": "چاد",
+      "common": "چاد"
+    },
+    "pl": {
+      "official": "Czad",
+      "common": "Czad"
+    },
+    "pt": {
+      "official": "Chade",
+      "common": "Chade"
+    },
+    "ps": {
+      "official": "Chad",
+      "common": "Chad"
+    },
+    "ro": {
+      "official": "Ciad",
+      "common": "Ciad"
+    },
+    "ru": {
+      "official": "Чад",
+      "common": "Чад"
+    },
+    "si": {
+      "official": "cqDw",
+      "common": "cqDw"
+    },
+    "sk": {
+      "official": "Čad",
+      "common": "Čad"
+    },
+    "sl": {
+      "official": "Čad",
+      "common": "Čad"
+    },
+    "so": {
+      "official": "Jaad",
+      "common": "Jaad"
+    },
+    "es": {
+      "official": "Chad",
+      "common": "Chad"
+    },
+    "sr": {
+      "official": "Чад",
+      "common": "Чад"
+    },
+    "sw": {
+      "official": "Chad",
+      "common": "Chad"
+    },
+    "sv": {
+      "official": "Tchad",
+      "common": "Tchad"
+    },
+    "ta": {
+      "official": "சாட்",
+      "common": "சாட்"
+    },
+    "tt": {
+      "official": "Чад",
+      "common": "Чад"
+    },
+    "te": {
+      "official": "చాద్",
+      "common": "చాద్"
+    },
+    "tl": {
+      "official": "Tsad",
+      "common": "Tsad"
+    },
+    "th": {
+      "official": "ชาด",
+      "common": "ชาด"
+    },
+    "ti": {
+      "official": "ቻድ",
+      "common": "ቻድ"
+    },
+    "tk": {
+      "official": "Çad",
+      "common": "Çad"
+    },
+    "tr": {
+      "official": "Çad",
+      "common": "Çad"
+    },
+    "ug": {
+      "official": "چاد",
+      "common": "چاد"
+    },
+    "uk": {
+      "official": "Чад",
+      "common": "Чад"
+    },
+    "ve": {
+      "official": "Chad",
+      "common": "Chad"
+    },
+    "vi": {
+      "official": "Chê-đ",
+      "common": "Chê-đ"
+    },
+    "cy": {
+      "official": "Chad",
+      "common": "Chad"
+    },
+    "wa": {
+      "official": "Tchad",
+      "common": "Tchad"
+    },
+    "wo": {
+      "official": "Caad",
+      "common": "Caad"
+    },
+    "xh": {
+      "official": "Tshayina",
+      "common": "Tshayina"
+    },
+    "zu": {
+      "official": "Isi-Shayina",
+      "common": "Isi-Shayina"
+    }
+  }
+}

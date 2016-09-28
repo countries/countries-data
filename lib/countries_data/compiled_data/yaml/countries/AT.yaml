@@ -1,0 +1,355 @@
+---
+continent: Europe
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: AT
+alpha3: AUT
+country_code: '43'
+international_prefix: '00'
+ioc: AUT
+gec: AU
+name: Austria
+national_destination_code_lengths:
+- 1
+- 2
+- 3
+national_number_lengths:
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+- 13
+national_prefix: '0'
+number: '040'
+region: Europe
+subregion: Western Europe
+world_region: EMEA
+un_locode: AT
+nationality: Austrian
+eu_member: true
+eea_member: true
+vat_rates:
+  standard: 20
+  reduced:
+  - 10
+  super_reduced: 
+  parking: 12
+postal_code: true
+unofficial_names:
+- Austria
+- Österreich
+- Autriche
+- オーストリア
+- Oostenrijk
+languages_official:
+- de
+languages_spoken:
+- de
+geo:
+  latitude: 47.516231
+  latitude_dec: '47.58843994140625'
+  longitude: 14.550072
+  longitude_dec: '14.14021110534668'
+  max_latitude: 49.0206081
+  max_longitude: 17.1606861
+  min_latitude: 46.3723357
+  min_longitude: 9.530783399999999
+  bounds:
+    northeast:
+      lat: 49.0206081
+      lng: 17.1606861
+    southwest:
+      lat: 46.3723357
+      lng: 9.530783399999999
+currency_code: EUR
+postal_address_data:
+  key: AT
+  zipex: '1010,3741'
+  name: AUSTRIA
+  zip: "\\d{4}"
+  require: ACZ
+  id: data/AT
+  posturl: http://www.post.at/post_subsite_postleitzahlfinder.php
+  fmt: "%O%n%N%n%A%n%Z %C"
+translations:
+  af:
+    official: Oostenryk
+    common: Oostenryk
+  sq:
+    official: Austria
+    common: Austria
+  am:
+    official: "጖ስትሱ።"
+    common: "጖ስትሱ።"
+  ar:
+    official: النّمسا
+    common: النّمسا
+  hy:
+    official: Ավստրիա
+    common: Ավստրիա
+  as:
+    official: অস্ট্ৰিয়া
+    common: অস্ট্ৰিয়া
+  az:
+    official: Avstriya
+    common: Avstriya
+  eu:
+    official: Austria
+    common: Austria
+  be:
+    official: Аўстрыя
+    common: Аўстрыя
+  bn:
+    official: অস্ট্রিয়া
+    common: অস্ট্রিয়া
+  bs:
+    official: Austrija
+    common: Austrija
+  br:
+    official: Aostria
+    common: Aostria
+  bg:
+    official: Австрия
+    common: Австрия
+  ca:
+    official: Àustria
+    common: Àustria
+  zh:
+    official: 奥地利
+    common: 奥地利
+  cs:
+    official: Rakousko
+    common: Rakousko
+  da:
+    official: Østrig
+    common: Østrig
+  nl:
+    official: Oostenrijk
+    common: Oostenrijk
+  dz:
+    official: ཨཱསི་ཊི་ཡ།
+    common: ཨཱསི་ཊི་ཡ།
+  en:
+    official: Austria
+    common: Austria
+  eo:
+    official: Aŭstrio
+    common: Aŭstrio
+  et:
+    official: Austria
+    common: Austria
+  fo:
+    official: Eysturríki
+    common: Eysturríki
+  fi:
+    official: Itävalta
+    common: Itävalta
+  fr:
+    official: Autriche
+    common: Autriche
+  ka:
+    official: ავსტრია
+    common: ავსტრია
+  de:
+    official: Österreich
+    common: Österreich
+  ga:
+    official: An Ostair
+    common: An Ostair
+  gl:
+    official: Austria
+    common: Austria
+  el:
+    official: Αυστρία
+    common: Αυστρία
+  gu:
+    official: ઓસ્ટ્રિયા
+    common: ઓસ્ટ્રિયા
+  he:
+    official: אוסטריה
+    common: אוסטריה
+  hi:
+    official: ऑस्ट्रिया
+    common: ऑस्ट्रिया
+  hr:
+    official: Austrija
+    common: Austrija
+  hu:
+    official: Ausztria
+    common: Ausztria
+  is:
+    official: Austurríki
+    common: Austurríki
+  ia:
+    official: Austria
+    common: Austria
+  id:
+    official: Austria
+    common: Austria
+  it:
+    official: Austria
+    common: Austria
+  ja:
+    official: オーストリア
+    common: オーストリア
+  kn:
+    official: ಆಸ್ಟ್ರಿಯ
+    common: ಆಸ್ಟ್ರಿಯ
+  kk:
+    official: Австрия
+    common: Австрия
+  km:
+    official: អូទ្រីស
+    common: អូទ្រីស
+  rw:
+    official: Ositiriya
+    common: Ositiriya
+  ko:
+    official: 오스트리아
+    common: 오스트리아
+  ku:
+    official: Awusturya
+    common: Awusturya
+  lv:
+    official: Austrija
+    common: Austrija
+  lt:
+    official: Austrija
+    common: Austrija
+  mk:
+    official: Австрија
+    common: Австрија
+  ml:
+    official: ഓസ്ട്രിയ
+    common: ഓസ്ട്രിയ
+  mi:
+    official: Ateria
+    common: Ateria
+  mr:
+    official: ऑस्ट्रिया
+    common: ऑस्ट्रिया
+  ms:
+    official: Austria
+    common: Austria
+  mt:
+    official: Awtrija
+    common: Awtrija
+  mn:
+    official: Австри
+    common: Австри
+  ne:
+    official: अष्ट्रिया
+    common: अष्ट्रिया
+  nn:
+    official: Austerrike
+    common: Austerrike
+  nb:
+    official: Østerrike
+    common: Østerrike
+  oc:
+    official: Austria
+    common: Austria
+  or:
+    official: ଅଷ୍ଟ୍ରିୟା
+    common: ଅଷ୍ଟ୍ରିୟା
+  pa:
+    official: ਆਸਟਰੀਆ
+    common: ਆਸਟਰੀਆ
+  fa:
+    official: اتریش
+    common: اتریش
+  pl:
+    official: Austria
+    common: Austria
+  pt:
+    official: Áustria
+    common: Áustria
+  ps:
+    official: اتریش
+    common: اتریش
+  ro:
+    official: Austria
+    common: Austria
+  ru:
+    official: Австрия
+    common: Австрия
+  si:
+    official: ඔස්ට්‍රියාව
+    common: ඔස්ට්‍රියාව
+  sk:
+    official: Rakúsko
+    common: Rakúsko
+  sl:
+    official: Avstrija
+    common: Avstrija
+  so:
+    official: Osteeriya
+    common: Osteeriya
+  es:
+    official: Austria
+    common: Austria
+  sr:
+    official: Аустрија
+    common: Аустрија
+  sw:
+    official: Austria
+    common: Austria
+  sv:
+    official: Österrike
+    common: Österrike
+  ta:
+    official: ஆஸ்திரியா
+    common: ஆஸ்திரியா
+  tt:
+    official: Аустриа
+    common: Аустриа
+  te:
+    official: ఓస్ట్రియా
+    common: ఓస్ట్రియా
+  tl:
+    official: Austriya
+    common: Austriya
+  th:
+    official: ออสเตรีย
+    common: ออสเตรีย
+  ti:
+    official: ኦስትሪያ
+    common: ኦስትሪያ
+  tk:
+    official: Awstriýa
+    common: Awstriýa
+  tr:
+    official: Avusturya
+    common: Avusturya
+  ug:
+    official: ئاۋسترىيە
+    common: ئاۋسترىيە
+  uk:
+    official: Австрія
+    common: Австрія
+  ve:
+    official: Austria
+    common: Austria
+  vi:
+    official: Ao
+    common: Ao
+  cy:
+    official: Awstria
+    common: Awstria
+  wa:
+    official: Otriche
+    common: Otriche
+  wo:
+    official: Ótriis
+    common: Ótriis
+  xh:
+    official: Austria
+    common: Austria
+  zu:
+    official: I-Austriyiya
+    common: I-Austriyiya

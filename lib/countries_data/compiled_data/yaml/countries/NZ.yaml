@@ -1,0 +1,342 @@
+---
+continent: Australia
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{region}}
+  {{city}} {{postalcode}}
+  {{country}}
+alpha2: NZ
+alpha3: NZL
+country_code: '64'
+international_prefix: '00'
+ioc: NZL
+gec: NZ
+name: New Zealand
+national_destination_code_lengths:
+- 1
+national_number_lengths:
+- 8
+- 9
+national_prefix: '0'
+number: '554'
+region: Oceania
+subregion: Australia and New Zealand
+world_region: APAC
+un_locode: NZ
+nationality: New Zealander
+postal_code: true
+unofficial_names:
+- New Zealand
+- Neuseeland
+- Nouvelle ZÃ©lande
+- Nueva Zelanda
+- ニュージーランド
+- Nieuw-Zeeland
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: -40.900557
+  latitude_dec: "-44.05629348754883"
+  longitude: 174.885971
+  longitude_dec: '170.35415649414062'
+  max_latitude: -29.2313419
+  max_longitude: -175.8315361
+  min_latitude: -52.61941849999999
+  min_longitude: 165.8694371
+  bounds:
+    northeast:
+      lat: -29.2313419
+      lng: -175.8315361
+    southwest:
+      lat: -52.61941849999999
+      lng: 165.8694371
+currency_code: NZD
+postal_address_data:
+  key: NZ
+  zipex: '6001,6015,6332,8252,1030'
+  name: NEW ZEALAND
+  zip: "\\d{4}"
+  require: ACZ
+  id: data/NZ
+  posturl: http://www.nzpost.co.nz/Cultures/en-NZ/OnlineTools/PostCodeFinder/
+  fmt: "%N%n%O%n%A%n%D%n%C %Z"
+translations:
+  af:
+    official: Nieu-Seeland
+    common: Nieu-Seeland
+  sq:
+    official: Zelanda e Re
+    common: Zelanda e Re
+  am:
+    official: ኒፄ ፑሒን፥
+    common: ኒፄ ፑሒን፥
+  ar:
+    official: نيوزيلاندا
+    common: نيوزيلاندا
+  hy:
+    official: Նոր Զելանդիա
+    common: Նոր Զելանդիա
+  as:
+    official: নিউজিলেণ্ড
+    common: নিউজিলেণ্ড
+  az:
+    official: Yeni Zellandiya
+    common: Yeni Zellandiya
+  eu:
+    official: Zeelanda Berria
+    common: Zeelanda Berria
+  be:
+    official: Новая Зеландыя
+    common: Новая Зеландыя
+  bn:
+    official: নিউজিল্যান্ড
+    common: নিউজিল্যান্ড
+  bs:
+    official: Novi Zeland
+    common: Novi Zeland
+  br:
+    official: Zeland nevez
+    common: Zeland nevez
+  bg:
+    official: Нова Зеландия
+    common: Нова Зеландия
+  ca:
+    official: Nova Zelanda
+    common: Nova Zelanda
+  zh:
+    official: 新西兰
+    common: 新西兰
+  cs:
+    official: Nový Zéland
+    common: Nový Zéland
+  da:
+    official: New Zealand
+    common: New Zealand
+  nl:
+    official: Nieuw-Zeeland
+    common: Nieuw-Zeeland
+  dz:
+    official: ནིའུ་ཛི་ལེནཌི།
+    common: ནིའུ་ཛི་ལེནཌི།
+  en:
+    official: New Zealand
+    common: New Zealand
+  eo:
+    official: Nov-Zelando
+    common: Nov-Zelando
+  et:
+    official: Uus-Meremaa
+    common: Uus-Meremaa
+  fo:
+    official: Ný Sæland
+    common: Ný Sæland
+  fi:
+    official: Uusi-Seelanti
+    common: Uusi-Seelanti
+  fr:
+    official: Nouvelle-Zélande
+    common: Nouvelle-Zélande
+  ka:
+    official: ახალი ზელანდია
+    common: ახალი ზელანდია
+  de:
+    official: Neuseeland
+    common: Neuseeland
+  ga:
+    official: An Nua-Shéalainn
+    common: An Nua-Shéalainn
+  gl:
+    official: Nova Celandia
+    common: Nova Celandia
+  el:
+    official: Νέα Ζηλανδία
+    common: Νέα Ζηλανδία
+  gu:
+    official: ન્યુ ઝીલેન્ડ
+    common: ન્યુ ઝીલેન્ડ
+  he:
+    official: ניו זילנד
+    common: ניו זילנד
+  hi:
+    official: न्यू ज़ीलैन्ड
+    common: न्यू ज़ीलैन्ड
+  hr:
+    official: Novi Zeland
+    common: Novi Zeland
+  hu:
+    official: Új-Zéland
+    common: Új-Zéland
+  is:
+    official: Nýja Sjáland
+    common: Nýja Sjáland
+  ia:
+    official: Nove Zelanda
+    common: Nove Zelanda
+  id:
+    official: Selandia Baru
+    common: Selandia Baru
+  it:
+    official: Nuova Zelanda
+    common: Nuova Zelanda
+  ja:
+    official: ニュージーランド
+    common: ニュージーランド
+  kn:
+    official: ನ್ಯೂ ಜಿಲ್ಯಂಡ್
+    common: ನ್ಯೂ ಜಿಲ್ಯಂಡ್
+  kk:
+    official: Жаңа Зеландия
+    common: Жаңа Зеландия
+  km:
+    official: នូវែលហ្សេឡង់
+    common: នូវែលហ្សេឡង់
+  rw:
+    official: Nuveli Zelande
+    common: Nuveli Zelande
+  ko:
+    official: 뉴질랜드
+    common: 뉴질랜드
+  ku:
+    official: Zelandaya Nû
+    common: Zelandaya Nû
+  lv:
+    official: Jaunzēlande
+    common: Jaunzēlande
+  lt:
+    official: Naujoji Zelandija
+    common: Naujoji Zelandija
+  mk:
+    official: Нов Зеланд
+    common: Нов Зеланд
+  ml:
+    official: ന്യൂസിലാന്‍ഡ്
+    common: ന്യൂസിലാന്‍ഡ്
+  mi:
+    official: Aotearoa
+    common: Aotearoa
+  mr:
+    official: न्यूझिलंड
+    common: न्यूझिलंड
+  ms:
+    official: New Zealand
+    common: New Zealand
+  mt:
+    official: New Zealand
+    common: New Zealand
+  mn:
+    official: Шинэ зеланд
+    common: Шинэ зеланд
+  ne:
+    official: न्युजिल्याण्ड
+    common: न्युजिल्याण्ड
+  nn:
+    official: New Zealand; Ny-Zealand
+    common: New Zealand; Ny-Zealand
+  nb:
+    official: New Zealand
+    common: New Zealand
+  oc:
+    official: Novèla Zelanda
+    common: Novèla Zelanda
+  or:
+    official: ନ୍ଯୁଜୀଲ୍ଯାଣ୍ଡ
+    common: ନ୍ଯୁଜୀଲ୍ଯାଣ୍ଡ
+  pa:
+    official: ਨਿਊਜ਼ੀਲੈਂਡ
+    common: ਨਿਊਜ਼ੀਲੈਂਡ
+  fa:
+    official: نیوزیلند
+    common: نیوزیلند
+  pl:
+    official: Nowa Zelandia
+    common: Nowa Zelandia
+  pt:
+    official: Nova Zelândia
+    common: Nova Zelândia
+  ps:
+    official: نیوزیلنډ
+    common: نیوزیلنډ
+  ro:
+    official: Noua Zeelandă
+    common: Noua Zeelandă
+  ru:
+    official: Новая Зеландия
+    common: Новая Зеландия
+  si:
+    official: නවසීලන්තය
+    common: නවසීලන්තය
+  sk:
+    official: Nový Zéland
+    common: Nový Zéland
+  sl:
+    official: Nova Zelandija
+    common: Nova Zelandija
+  so:
+    official: Neyuusilaand
+    common: Neyuusilaand
+  es:
+    official: Nueva Zelanda
+    common: Nueva Zelanda
+  sr:
+    official: Нови Зеланд
+    common: Нови Зеланд
+  sw:
+    official: New Zealand
+    common: New Zealand
+  sv:
+    official: Nya Zeeland
+    common: Nya Zeeland
+  ta:
+    official: நியூசிலாந்து
+    common: நியூசிலாந்து
+  tt:
+    official: Яңа Зеаланд
+    common: Яңа Зеаланд
+  te:
+    official: న్యూజిలాండ్
+    common: న్యూజిలాండ్
+  tl:
+    official: New Zealand
+    common: New Zealand
+  th:
+    official: นิวซีแลนด์
+    common: นิวซีแลนด์
+  ti:
+    official: ኒው ዚላንድ
+    common: ኒው ዚላንድ
+  tk:
+    official: Täze Zelandiýa
+    common: Täze Zelandiýa
+  tr:
+    official: Yeni Zelanda
+    common: Yeni Zelanda
+  ug:
+    official: يېڭى زېلاندىيە
+    common: يېڭى زېلاندىيە
+  uk:
+    official: Нова Зеландія
+    common: Нова Зеландія
+  ve:
+    official: New Zealand
+    common: New Zealand
+  vi:
+    official: Niu Xi-lân
+    common: Niu Xi-lân
+  cy:
+    official: Seland Newydd
+    common: Seland Newydd
+  wa:
+    official: Nouve Zelande
+    common: Nouve Zelande
+  wo:
+    official: Nuweel Selaand
+    common: Nuweel Selaand
+  xh:
+    official: New Zealand (izealand entsha)
+    common: New Zealand (izealand entsha)
+  zu:
+    official: I-New Zealand
+    common: I-New Zealand

@@ -1,0 +1,330 @@
+---
+continent: Europe
+alpha2: GI
+alpha3: GIB
+country_code: '350'
+international_prefix: '00'
+ioc: 
+gec: GI
+name: Gibraltar
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: None
+number: '292'
+region: Europe
+subregion: Southern Europe
+world_region: EMEA
+un_locode: GI
+nationality: Gibraltar
+postal_code: true
+unofficial_names:
+- Gibraltar
+- ジブラルタル
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: 36.140751
+  latitude_dec: '36.135841369628906'
+  longitude: -5.353585
+  longitude_dec: "-5.349248886108398"
+  max_latitude: 36.1551187
+  max_longitude: -5.338419399999999
+  min_latitude: 36.1088348
+  min_longitude: -5.3674154
+  bounds:
+    northeast:
+      lat: 36.1551187
+      lng: -5.338419399999999
+    southwest:
+      lat: 36.1088348
+      lng: -5.3674154
+currency_code: GIP
+postal_address_data:
+  zipex: GX11 1AA
+  name: GIBRALTAR
+  zip: GX11 1AA
+  require: A
+  fmt: "%N%n%O%n%A%nGIBRALTAR%n%Z"
+  key: GI
+  id: data/GI
+translations:
+  af:
+    official: Gibraltar
+    common: Gibraltar
+  sq:
+    official: Gjibraltari
+    common: Gjibraltari
+  am:
+    official: Gibraltar
+    common: Gibraltar
+  ar:
+    official: جبل طارق
+    common: جبل طارق
+  hy:
+    official: Ջիբրալթար
+    common: Ջիբրալթար
+  as:
+    official: জিব্ৰাল্টাৰ
+    common: জিব্ৰাল্টাৰ
+  az:
+    official: Gibraltar
+    common: Gibraltar
+  eu:
+    official: Gibraltar
+    common: Gibraltar
+  be:
+    official: Гібралтар
+    common: Гібралтар
+  bn:
+    official: জিব্রাল্টার
+    common: জিব্রাল্টার
+  bs:
+    official: Gibraltar
+    common: Gibraltar
+  br:
+    official: Gibraltar
+    common: Gibraltar
+  bg:
+    official: Гибралтар
+    common: Гибралтар
+  ca:
+    official: Gibraltar
+    common: Gibraltar
+  zh:
+    official: 直布罗陀
+    common: 直布罗陀
+  cs:
+    official: Gibraltar
+    common: Gibraltar
+  da:
+    official: Gibraltar
+    common: Gibraltar
+  nl:
+    official: Gibraltar
+    common: Gibraltar
+  dz:
+    official: ཇིབ་རཱལ་ཊར།
+    common: ཇིབ་རཱལ་ཊར།
+  en:
+    official: Gibraltar
+    common: Gibraltar
+  eo:
+    official: Ĝibraltaro
+    common: Ĝibraltaro
+  et:
+    official: Gibraltar
+    common: Gibraltar
+  fo:
+    official: Gibraltar
+    common: Gibraltar
+  fi:
+    official: Gibraltar
+    common: Gibraltar
+  fr:
+    official: Gibraltar
+    common: Gibraltar
+  ka:
+    official: გიბრალტარი
+    common: გიბრალტარი
+  de:
+    official: Gibraltar
+    common: Gibraltar
+  ga:
+    official: Giobráltar
+    common: Giobráltar
+  gl:
+    official: Xibraltar
+    common: Xibraltar
+  el:
+    official: Γιβραλτάρ
+    common: Γιβραλτάρ
+  gu:
+    official: જીબ્રાલ્ટર
+    common: જીબ્રાલ્ટર
+  he:
+    official: גיברלטר
+    common: גיברלטר
+  hi:
+    official: जिब्राल्टर
+    common: जिब्राल्टर
+  hr:
+    official: Gibraltar
+    common: Gibraltar
+  hu:
+    official: Gibraltár
+    common: Gibraltár
+  is:
+    official: Gíbraltar
+    common: Gíbraltar
+  ia:
+    official: Gibraltar
+    common: Gibraltar
+  id:
+    official: Jabaltar
+    common: Jabaltar
+  it:
+    official: Gibilterra
+    common: Gibilterra
+  ja:
+    official: ジブラルタル
+    common: ジブラルタル
+  kn:
+    official: ಜಿಬ್ರಾಲ್ಟರ್
+    common: ಜಿಬ್ರಾಲ್ಟರ್
+  kk:
+    official: Гибралтар
+    common: Гибралтар
+  km:
+    official: ហ្គីប្រាល់តា
+    common: ហ្គីប្រាល់តា
+  rw:
+    official: Giburalitari
+    common: Giburalitari
+  ko:
+    official: 지브롤터
+    common: 지브롤터
+  ku:
+    official: Cebelîtariq
+    common: Cebelîtariq
+  lv:
+    official: Gibraltārs
+    common: Gibraltārs
+  lt:
+    official: Gibraltaras
+    common: Gibraltaras
+  mk:
+    official: Гибралтар
+    common: Гибралтар
+  ml:
+    official: ജിബ്രാള്‍ട്ടര്‍
+    common: ജിബ്രാള്‍ട്ടര്‍
+  mi:
+    official: Kāmaka
+    common: Kāmaka
+  mr:
+    official: जिब्राल्टर
+    common: जिब्राल्टर
+  ms:
+    official: Gibraltar
+    common: Gibraltar
+  mt:
+    official: Gibraltar
+    common: Gibraltar
+  mn:
+    official: Гибралтар
+    common: Гибралтар
+  ne:
+    official: गिब्रिलटार
+    common: गिब्रिलटार
+  nn:
+    official: Gibraltar
+    common: Gibraltar
+  nb:
+    official: Gibraltar
+    common: Gibraltar
+  oc:
+    official: Gibraltar
+    common: Gibraltar
+  or:
+    official: ଜିବ୍ରାଲଟର
+    common: ଜିବ୍ରାଲଟର
+  pa:
+    official: ਗੀਬਰਾਲਟਰ
+    common: ਗੀਬਰਾਲਟਰ
+  fa:
+    official: گیبرالتار
+    common: گیبرالتار
+  pl:
+    official: Gibraltar
+    common: Gibraltar
+  pt:
+    official: Gibraltar
+    common: Gibraltar
+  ps:
+    official: Gibraltar
+    common: Gibraltar
+  ro:
+    official: Gibraltar
+    common: Gibraltar
+  ru:
+    official: Гибралтар
+    common: Гибралтар
+  si:
+    official: ජිබෝල්ටා
+    common: ජිබෝල්ටා
+  sk:
+    official: Gibraltár
+    common: Gibraltár
+  sl:
+    official: Gibraltar
+    common: Gibraltar
+  so:
+    official: Gibraltar
+    common: Gibraltar
+  es:
+    official: Gibraltar
+    common: Gibraltar
+  sr:
+    official: Гибралтар
+    common: Гибралтар
+  sw:
+    official: Gibraltar
+    common: Gibraltar
+  sv:
+    official: Gibraltar
+    common: Gibraltar
+  ta:
+    official: கிப்ரால்டர்
+    common: கிப்ரால்டர்
+  tt:
+    official: Gибралтар
+    common: Gибралтар
+  te:
+    official: జిబ్రాల్టర్
+    common: జిబ్రాల్టర్
+  tl:
+    official: Gibraltar
+    common: Gibraltar
+  th:
+    official: ยิบรอลตาร์
+    common: ยิบรอลตาร์
+  ti:
+    official: Gibraltar
+    common: Gibraltar
+  tk:
+    official: Gibraltar
+    common: Gibraltar
+  tr:
+    official: Cebelitarık
+    common: Cebelitarık
+  ug:
+    official: جەبىلتارىق
+    common: جەبىلتارىق
+  uk:
+    official: Гібралтар
+    common: Гібралтар
+  ve:
+    official: Gibraltar
+    common: Gibraltar
+  vi:
+    official: Gi-boa-tha
+    common: Gi-boa-tha
+  cy:
+    official: Gibraltar
+    common: Gibraltar
+  wa:
+    official: Djibraltar
+    common: Djibraltar
+  wo:
+    official: Gibraltaar
+    common: Gibraltaar
+  xh:
+    official: Gibraltar
+    common: Gibraltar
+  zu:
+    official: Gibraltar
+    common: Gibraltar

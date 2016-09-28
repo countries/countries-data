@@ -1,0 +1,434 @@
+{
+  "continent": "Australia",
+  "alpha2": "CK",
+  "alpha3": "COK",
+  "country_code": "682",
+  "international_prefix": "00",
+  "ioc": "COK",
+  "gec": "CW",
+  "name": "Cook Islands",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    5
+  ],
+  "national_prefix": "00",
+  "number": "184",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "world_region": "APAC",
+  "un_locode": "CK",
+  "nationality": "Cook Islander",
+  "postal_code": false,
+  "unofficial_names": [
+    "Cook Islands",
+    "Cookinseln",
+    "Îles Cook",
+    "Islas Cook",
+    "クック諸島",
+    "Cookeilanden"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": -21.236736,
+    "latitude_dec": "-21.22330665588379",
+    "longitude": -159.777671,
+    "longitude_dec": "-159.7405548095703",
+    "max_latitude": -8.9166059,
+    "max_longitude": -157.3216064,
+    "min_latitude": -21.9591364,
+    "min_longitude": -165.8783468,
+    "bounds": {
+      "northeast": {
+        "lat": -8.9166059,
+        "lng": -157.3216064
+      },
+      "southwest": {
+        "lat": -21.9591364,
+        "lng": -165.8783468
+      }
+    }
+  },
+  "currency_code": "NZD",
+  "postal_address_data": {
+    "id": "data/CK",
+    "key": "CK",
+    "name": "COOK ISLANDS"
+  },
+  "translations": {
+    "af": {
+      "official": "Cookeilande",
+      "common": "Cookeilande"
+    },
+    "sq": {
+      "official": "Ishujt Cook",
+      "common": "Ishujt Cook"
+    },
+    "am": {
+      "official": "Cook Islands",
+      "common": "Cook Islands"
+    },
+    "ar": {
+      "official": "جزر كوك",
+      "common": "جزر كوك"
+    },
+    "hy": {
+      "official": "Կուկի Կղզիներ",
+      "common": "Կուկի Կղզիներ"
+    },
+    "as": {
+      "official": "কুক দ্বীপপুঞ্জ",
+      "common": "কুক দ্বীপপুঞ্জ"
+    },
+    "az": {
+      "official": "Cook Adaları",
+      "common": "Cook Adaları"
+    },
+    "eu": {
+      "official": "Cook uharteak",
+      "common": "Cook uharteak"
+    },
+    "be": {
+      "official": "Астравы Кука",
+      "common": "Астравы Кука"
+    },
+    "bn": {
+      "official": "কুক দ্বীপপুঞ্জ",
+      "common": "কুক দ্বীপপুঞ্জ"
+    },
+    "bs": {
+      "official": "Kukova Ostrva",
+      "common": "Kukova Ostrva"
+    },
+    "br": {
+      "official": "Cook Islands",
+      "common": "Cook Islands"
+    },
+    "bg": {
+      "official": "Острови Кук",
+      "common": "Острови Кук"
+    },
+    "ca": {
+      "official": "Illes Cook",
+      "common": "Illes Cook"
+    },
+    "zh": {
+      "official": "库克群岛",
+      "common": "库克群岛"
+    },
+    "cs": {
+      "official": "Cookovy ostrovy",
+      "common": "Cookovy ostrovy"
+    },
+    "da": {
+      "official": "Cookøerne",
+      "common": "Cookøerne"
+    },
+    "nl": {
+      "official": "Cookeilanden",
+      "common": "Cookeilanden"
+    },
+    "dz": {
+      "official": "ཀུཀ་ ཨའི་ལེནཌིསི།",
+      "common": "ཀུཀ་ ཨའི་ལེནཌིསི།"
+    },
+    "en": {
+      "official": "Cook Islands",
+      "common": "Cook Islands"
+    },
+    "eo": {
+      "official": "Kukinsuloj",
+      "common": "Kukinsuloj"
+    },
+    "et": {
+      "official": "Cooki saared",
+      "common": "Cooki saared"
+    },
+    "fo": {
+      "official": "Cook Islands",
+      "common": "Cook Islands"
+    },
+    "fi": {
+      "official": "Cookinsaaret",
+      "common": "Cookinsaaret"
+    },
+    "fr": {
+      "official": "Cook, Îles",
+      "common": "Cook, Îles"
+    },
+    "ka": {
+      "official": "კუკის კუნძულები",
+      "common": "კუკის კუნძულები"
+    },
+    "de": {
+      "official": "Cookinseln",
+      "common": "Cookinseln"
+    },
+    "ga": {
+      "official": "Oileáin Cook",
+      "common": "Oileáin Cook"
+    },
+    "gl": {
+      "official": "Illas Cook",
+      "common": "Illas Cook"
+    },
+    "el": {
+      "official": "Νήσοι Κουκ",
+      "common": "Νήσοι Κουκ"
+    },
+    "gu": {
+      "official": "કૂક ટાપુઓ",
+      "common": "કૂક ટાપુઓ"
+    },
+    "he": {
+      "official": "איי קוק",
+      "common": "איי קוק"
+    },
+    "hi": {
+      "official": "कुक आइलैंड्स",
+      "common": "कुक आइलैंड्स"
+    },
+    "hr": {
+      "official": "Cookovo Otočje",
+      "common": "Cookovo Otočje"
+    },
+    "hu": {
+      "official": "Cook-szigetek",
+      "common": "Cook-szigetek"
+    },
+    "is": {
+      "official": "Cook-eyjar",
+      "common": "Cook-eyjar"
+    },
+    "ia": {
+      "official": "Insulas Cook",
+      "common": "Insulas Cook"
+    },
+    "id": {
+      "official": "Kepulauan Cook",
+      "common": "Kepulauan Cook"
+    },
+    "it": {
+      "official": "Isole Cook",
+      "common": "Isole Cook"
+    },
+    "ja": {
+      "official": "クック諸島",
+      "common": "クック諸島"
+    },
+    "kn": {
+      "official": "ಕುಕ್ ದ್ವೀಪಗಳು",
+      "common": "ಕುಕ್ ದ್ವೀಪಗಳು"
+    },
+    "kk": {
+      "official": "Кук аралдары",
+      "common": "Кук аралдары"
+    },
+    "km": {
+      "official": "កោះកូក",
+      "common": "កោះកូក"
+    },
+    "rw": {
+      "official": "Ibirwa bya Kuke",
+      "common": "Ibirwa bya Kuke"
+    },
+    "ko": {
+      "official": "쿡 제도",
+      "common": "쿡 제도"
+    },
+    "ku": {
+      "official": "Giravên Cook",
+      "common": "Giravên Cook"
+    },
+    "lv": {
+      "official": "Kuka salas",
+      "common": "Kuka salas"
+    },
+    "lt": {
+      "official": "Kuko salos",
+      "common": "Kuko salos"
+    },
+    "mk": {
+      "official": "Кукови острови",
+      "common": "Кукови острови"
+    },
+    "ml": {
+      "official": "കുക്ക് ദ്വീപുകള്‍",
+      "common": "കുക്ക് ദ്വീപുകള്‍"
+    },
+    "mi": {
+      "official": "Kuki Airani",
+      "common": "Kuki Airani"
+    },
+    "mr": {
+      "official": "कूक आयलॅंडस्",
+      "common": "कूक आयलॅंडस्"
+    },
+    "ms": {
+      "official": "Kepulauan Cook",
+      "common": "Kepulauan Cook"
+    },
+    "mt": {
+      "official": "Cook Islands",
+      "common": "Cook Islands"
+    },
+    "mn": {
+      "official": "Cook Islands",
+      "common": "Cook Islands"
+    },
+    "ne": {
+      "official": "कुक टापु",
+      "common": "कुक टापु"
+    },
+    "nn": {
+      "official": "Cookøyane",
+      "common": "Cookøyane"
+    },
+    "nb": {
+      "official": "Cookøyene",
+      "common": "Cookøyene"
+    },
+    "oc": {
+      "official": "Illas Cook",
+      "common": "Illas Cook"
+    },
+    "or": {
+      "official": "କୁକ ଦ୍ବୀପ",
+      "common": "କୁକ ଦ୍ବୀପ"
+    },
+    "pa": {
+      "official": "ਕੁੱਕ ਟਾਪੂ",
+      "common": "ਕੁੱਕ ਟਾਪੂ"
+    },
+    "fa": {
+      "official": "جزایر کوک",
+      "common": "جزایر کوک"
+    },
+    "pl": {
+      "official": "Wyspy Cooka",
+      "common": "Wyspy Cooka"
+    },
+    "pt": {
+      "official": "Ilhas Cook",
+      "common": "Ilhas Cook"
+    },
+    "ps": {
+      "official": "Cook Islands",
+      "common": "Cook Islands"
+    },
+    "ro": {
+      "official": "Insulele Cook",
+      "common": "Insulele Cook"
+    },
+    "ru": {
+      "official": "Острова Кука",
+      "common": "Острова Кука"
+    },
+    "si": {
+      "official": "කූක් දූපත්",
+      "common": "කූක් දූපත්"
+    },
+    "sk": {
+      "official": "Cookove ostrovy",
+      "common": "Cookove ostrovy"
+    },
+    "sl": {
+      "official": "Cookovi otoki",
+      "common": "Cookovi otoki"
+    },
+    "so": {
+      "official": "Cook Islands",
+      "common": "Cook Islands"
+    },
+    "es": {
+      "official": "Islas Cook",
+      "common": "Islas Cook"
+    },
+    "sr": {
+      "official": "Острва Кук",
+      "common": "Острва Кук"
+    },
+    "sw": {
+      "official": "Cook Islands",
+      "common": "Cook Islands"
+    },
+    "sv": {
+      "official": "Cooköarna",
+      "common": "Cooköarna"
+    },
+    "ta": {
+      "official": "குக் தீவு",
+      "common": "குக் தீவு"
+    },
+    "tt": {
+      "official": "Кок Утравлары",
+      "common": "Кок Утравлары"
+    },
+    "te": {
+      "official": "కూక్ ఐలాండ్స్",
+      "common": "కూక్ ఐలాండ్స్"
+    },
+    "tl": {
+      "official": "Cook Islands",
+      "common": "Cook Islands"
+    },
+    "th": {
+      "official": "หมู่เกาะคุก",
+      "common": "หมู่เกาะคุก"
+    },
+    "ti": {
+      "official": "Cook Islands",
+      "common": "Cook Islands"
+    },
+    "tk": {
+      "official": "Cook Islands",
+      "common": "Cook Islands"
+    },
+    "tr": {
+      "official": "Cook Adaları",
+      "common": "Cook Adaları"
+    },
+    "ug": {
+      "official": "كۇك ئارىلى",
+      "common": "كۇك ئارىلى"
+    },
+    "uk": {
+      "official": "Острови Кука",
+      "common": "Острови Кука"
+    },
+    "ve": {
+      "official": "Solomon Islands",
+      "common": "Solomon Islands"
+    },
+    "vi": {
+      "official": "Quần đảo Khu-khợ",
+      "common": "Quần đảo Khu-khợ"
+    },
+    "cy": {
+      "official": "Ynysoedd Cook",
+      "common": "Ynysoedd Cook"
+    },
+    "wa": {
+      "official": "Iyes Cook",
+      "common": "Iyes Cook"
+    },
+    "wo": {
+      "official": "Iil yu Cook",
+      "common": "Iil yu Cook"
+    },
+    "xh": {
+      "official": "Cook Islands",
+      "common": "Cook Islands"
+    },
+    "zu": {
+      "official": "Cook Islands",
+      "common": "Cook Islands"
+    }
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "continent": "Europe",
+  "alpha2": "FO",
+  "alpha3": "FRO",
+  "country_code": "298",
+  "international_prefix": "00",
+  "ioc": "FRO",
+  "gec": "FO",
+  "name": "Faroe Islands",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    6
+  ],
+  "national_prefix": "None",
+  "number": "234",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "world_region": "EMEA",
+  "un_locode": "FO",
+  "nationality": "Faroese",
+  "postal_code": true,
+  "unofficial_names": [
+    "Faroe Islands",
+    "Färöer-Inseln",
+    "Îles Féroé",
+    "Islas Faroe",
+    "フェロー諸島",
+    "Faeröer"
+  ],
+  "languages_official": [
+    "fo"
+  ],
+  "languages_spoken": [
+    "fo"
+  ],
+  "geo": {
+    "latitude": 61.89263500000001,
+    "latitude_dec": "62.009559631347656",
+    "longitude": -6.911805999999999,
+    "longitude_dec": "-6.818255424499512",
+    "max_latitude": 62.3942475,
+    "max_longitude": -6.2540356,
+    "min_latitude": 61.39093200000001,
+    "min_longitude": -7.6919049,
+    "bounds": {
+      "northeast": {
+        "lat": 62.3942475,
+        "lng": -6.2540356
+      },
+      "southwest": {
+        "lat": 61.39093200000001,
+        "lng": -7.6919049
+      }
+    }
+  },
+  "currency_code": "DKK",
+  "postal_address_data": {
+    "postprefix": "FO",
+    "zipex": "100",
+    "name": "FAROE ISLANDS",
+    "zip": "\\d{3}",
+    "fmt": "%N%n%O%n%A%nFO%Z %C",
+    "key": "FO",
+    "posturl": "http://www.postur.fo/",
+    "id": "data/FO"
+  },
+  "translations": {
+    "af": {
+      "official": "Faroëreilande",
+      "common": "Faroëreilande"
+    },
+    "sq": {
+      "official": "Ishujt Faroe",
+      "common": "Ishujt Faroe"
+    },
+    "am": {
+      "official": "Faroe Islands",
+      "common": "Faroe Islands"
+    },
+    "ar": {
+      "official": "جزر الفارو",
+      "common": "جزر الفارو"
+    },
+    "hy": {
+      "official": "Ֆարերյան կղզիներ",
+      "common": "Ֆարերյան կղզիներ"
+    },
+    "as": {
+      "official": "ফাৰো দ্বীপপুঞ্জ",
+      "common": "ফাৰো দ্বীপপুঞ্জ"
+    },
+    "az": {
+      "official": "Faro Adaları",
+      "common": "Faro Adaları"
+    },
+    "eu": {
+      "official": "Faroe uharteak",
+      "common": "Faroe uharteak"
+    },
+    "be": {
+      "official": "Фарэрскія астравы",
+      "common": "Фарэрскія астравы"
+    },
+    "bn": {
+      "official": "ফ্যারো দ্বীপপুঞ্জ",
+      "common": "ফ্যারো দ্বীপপুঞ্জ"
+    },
+    "bs": {
+      "official": "Farska ostrva",
+      "common": "Farska ostrva"
+    },
+    "br": {
+      "official": "Faroe Islands",
+      "common": "Faroe Islands"
+    },
+    "bg": {
+      "official": "Острови Фаро",
+      "common": "Острови Фаро"
+    },
+    "ca": {
+      "official": "Illes Fèroe",
+      "common": "Illes Fèroe"
+    },
+    "zh": {
+      "official": "法罗群岛",
+      "common": "法罗群岛"
+    },
+    "cs": {
+      "official": "Faerské ostrovy",
+      "common": "Faerské ostrovy"
+    },
+    "da": {
+      "official": "Færøerne",
+      "common": "Færøerne"
+    },
+    "nl": {
+      "official": "Faeröer",
+      "common": "Faeröer"
+    },
+    "dz": {
+      "official": "ཕ་རོའི་ ཨའི་ལེནཌིསི།",
+      "common": "ཕ་རོའི་ ཨའི་ལེནཌིསི།"
+    },
+    "en": {
+      "official": "Faroe Islands",
+      "common": "Faroe Islands"
+    },
+    "eo": {
+      "official": "Ferooj",
+      "common": "Ferooj"
+    },
+    "et": {
+      "official": "Fääri saared",
+      "common": "Fääri saared"
+    },
+    "fo": {
+      "official": "Føroyar",
+      "common": "Føroyar"
+    },
+    "fi": {
+      "official": "Färsaaret",
+      "common": "Färsaaret"
+    },
+    "fr": {
+      "official": "Féroé, Îles",
+      "common": "Féroé, Îles"
+    },
+    "ka": {
+      "official": "ფაროეს კუნძულები",
+      "common": "ფაროეს კუნძულები"
+    },
+    "de": {
+      "official": "Färöer-Inseln",
+      "common": "Färöer-Inseln"
+    },
+    "ga": {
+      "official": "Oileáin Fharó",
+      "common": "Oileáin Fharó"
+    },
+    "gl": {
+      "official": "Illas Feroe",
+      "common": "Illas Feroe"
+    },
+    "el": {
+      "official": "Νήσοι Φερόε",
+      "common": "Νήσοι Φερόε"
+    },
+    "gu": {
+      "official": "ફારો ટાપુઓ",
+      "common": "ફારો ટાપુઓ"
+    },
+    "he": {
+      "official": "איי פארו",
+      "common": "איי פארו"
+    },
+    "hi": {
+      "official": "फारो आइलैंड्स",
+      "common": "फारो आइलैंड्स"
+    },
+    "hr": {
+      "official": "Ovčji otoci",
+      "common": "Ovčji otoci"
+    },
+    "hu": {
+      "official": "Feröer",
+      "common": "Feröer"
+    },
+    "is": {
+      "official": "Færeyjar",
+      "common": "Færeyjar"
+    },
+    "ia": {
+      "official": "Insulas Feroe",
+      "common": "Insulas Feroe"
+    },
+    "id": {
+      "official": "Kepulauan Faroe",
+      "common": "Kepulauan Faroe"
+    },
+    "it": {
+      "official": "Isole Fær Øer",
+      "common": "Isole Fær Øer"
+    },
+    "ja": {
+      "official": "フェロー諸島",
+      "common": "フェロー諸島"
+    },
+    "kn": {
+      "official": "ಪರೋ ದ್ವೀಪಗಳು",
+      "common": "ಪರೋ ದ್ವೀಪಗಳು"
+    },
+    "kk": {
+      "official": "Фарер аралдары",
+      "common": "Фарер аралдары"
+    },
+    "km": {
+      "official": "កោះ​ហ្វារ៉ូ",
+      "common": "កោះ​ហ្វារ៉ូ"
+    },
+    "rw": {
+      "official": "Ibirwa bya Farowe",
+      "common": "Ibirwa bya Farowe"
+    },
+    "ko": {
+      "official": "패로 제도",
+      "common": "패로 제도"
+    },
+    "ku": {
+      "official": "Giravên Faroye",
+      "common": "Giravên Faroye"
+    },
+    "lv": {
+      "official": "Fēru salas",
+      "common": "Fēru salas"
+    },
+    "lt": {
+      "official": "Farerų salos",
+      "common": "Farerų salos"
+    },
+    "mk": {
+      "official": "Фаројски острови",
+      "common": "Фаројски острови"
+    },
+    "ml": {
+      "official": "ഫറവോ ദ്വീപുകള്‍",
+      "common": "ഫറവോ ദ്വീപുകള്‍"
+    },
+    "mi": {
+      "official": "Moutere Faroe",
+      "common": "Moutere Faroe"
+    },
+    "mr": {
+      "official": "फेरो आयलॅंडस्",
+      "common": "फेरो आयलॅंडस्"
+    },
+    "ms": {
+      "official": "Kepulauan Faroe",
+      "common": "Kepulauan Faroe"
+    },
+    "mt": {
+      "official": "Irlanda",
+      "common": "Irlanda"
+    },
+    "mn": {
+      "official": "Faroe Islands",
+      "common": "Faroe Islands"
+    },
+    "ne": {
+      "official": "फारो टापु",
+      "common": "फारो टापु"
+    },
+    "nn": {
+      "official": "Færøyane",
+      "common": "Færøyane"
+    },
+    "nb": {
+      "official": "Færøyene",
+      "common": "Færøyene"
+    },
+    "oc": {
+      "official": "Illas Feròe",
+      "common": "Illas Feròe"
+    },
+    "or": {
+      "official": "ଫାରୋ ଦ୍ବୀପପୁଞ୍ଜ",
+      "common": "ଫାରୋ ଦ୍ବୀପପୁଞ୍ଜ"
+    },
+    "pa": {
+      "official": "ਫਾਰੀਓ ਟਾਪੂ",
+      "common": "ਫਾਰੀਓ ਟਾਪੂ"
+    },
+    "fa": {
+      "official": "جزایر فارو",
+      "common": "جزایر فارو"
+    },
+    "pl": {
+      "official": "Wyspy Owcze",
+      "common": "Wyspy Owcze"
+    },
+    "pt": {
+      "official": "Ilhas Feroé",
+      "common": "Ilhas Feroé"
+    },
+    "ps": {
+      "official": "Faroe Islands",
+      "common": "Faroe Islands"
+    },
+    "ro": {
+      "official": "Insulele Feroe",
+      "common": "Insulele Feroe"
+    },
+    "ru": {
+      "official": "Фарерские острова",
+      "common": "Фарерские острова"
+    },
+    "si": {
+      "official": "ෆාරෝ දූපත්",
+      "common": "ෆාරෝ දූපත්"
+    },
+    "sk": {
+      "official": "Faerské ostrovy",
+      "common": "Faerské ostrovy"
+    },
+    "sl": {
+      "official": "Ferski otoki",
+      "common": "Ferski otoki"
+    },
+    "so": {
+      "official": "Faroe Islands",
+      "common": "Faroe Islands"
+    },
+    "es": {
+      "official": "Islas Feroe",
+      "common": "Islas Feroe"
+    },
+    "sr": {
+      "official": "Фарска острва",
+      "common": "Фарска острва"
+    },
+    "sw": {
+      "official": "Faroe Islands",
+      "common": "Faroe Islands"
+    },
+    "sv": {
+      "official": "Färöarna",
+      "common": "Färöarna"
+    },
+    "ta": {
+      "official": "பேரோ தீவுகள்",
+      "common": "பேரோ தீவுகள்"
+    },
+    "tt": {
+      "official": "Фарое Утравлары",
+      "common": "Фарое Утравлары"
+    },
+    "te": {
+      "official": "ఫేరో ఐలాండ్స్",
+      "common": "ఫేరో ఐలాండ్స్"
+    },
+    "tl": {
+      "official": "Faroe Islands",
+      "common": "Faroe Islands"
+    },
+    "th": {
+      "official": "หมู่เกาะแฟโร",
+      "common": "หมู่เกาะแฟโร"
+    },
+    "ti": {
+      "official": "Faroe Islands",
+      "common": "Faroe Islands"
+    },
+    "tk": {
+      "official": "Farer adalary",
+      "common": "Farer adalary"
+    },
+    "tr": {
+      "official": "Faroe Adaları",
+      "common": "Faroe Adaları"
+    },
+    "ug": {
+      "official": "فائېرو تاقىم ئاراللىرى (دانىيە)",
+      "common": "فائېرو تاقىم ئاراللىرى (دانىيە)"
+    },
+    "uk": {
+      "official": "Фарерські острови",
+      "common": "Фарерські острови"
+    },
+    "ve": {
+      "official": "Faroe Islands",
+      "common": "Faroe Islands"
+    },
+    "vi": {
+      "official": "Quần đảo Pha-rô",
+      "common": "Quần đảo Pha-rô"
+    },
+    "cy": {
+      "official": "Ynysoedd y Ffaro",
+      "common": "Ynysoedd y Ffaro"
+    },
+    "wa": {
+      "official": "Iyes Faeroyé",
+      "common": "Iyes Faeroyé"
+    },
+    "wo": {
+      "official": "Iil yu Faarow",
+      "common": "Iil yu Faarow"
+    },
+    "xh": {
+      "official": "Ireland",
+      "common": "Ireland"
+    },
+    "zu": {
+      "official": "I-Irelandi",
+      "common": "I-Irelandi"
+    }
+  }
+}

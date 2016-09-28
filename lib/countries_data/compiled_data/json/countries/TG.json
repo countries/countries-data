@@ -1,0 +1,430 @@
+{
+  "continent": "Africa",
+  "alpha2": "TG",
+  "alpha3": "TGO",
+  "country_code": "228",
+  "international_prefix": "00",
+  "ioc": "TOG",
+  "gec": "TO",
+  "name": "Togo",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7
+  ],
+  "national_prefix": "None",
+  "number": "768",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "world_region": "EMEA",
+  "un_locode": "TG",
+  "nationality": "Togolese",
+  "postal_code": true,
+  "unofficial_names": [
+    "Togo",
+    "トーゴ"
+  ],
+  "languages_official": [
+    "fr"
+  ],
+  "languages_spoken": [
+    "fr"
+  ],
+  "geo": {
+    "latitude": 8.619543,
+    "latitude_dec": "8.513226509094238",
+    "longitude": 0.824782,
+    "longitude_dec": "0.9800975322723389",
+    "max_latitude": 11.1404963,
+    "max_longitude": 1.8088217,
+    "min_latitude": 6.112394999999999,
+    "min_longitude": -0.144042,
+    "bounds": {
+      "northeast": {
+        "lat": 11.1404963,
+        "lng": 1.8088217
+      },
+      "southwest": {
+        "lat": 6.112394999999999,
+        "lng": -0.144042
+      }
+    }
+  },
+  "currency_code": "XOF",
+  "postal_address_data": {
+    "id": "data/TG",
+    "key": "TG",
+    "name": "TOGO"
+  },
+  "translations": {
+    "af": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "sq": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "am": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "ar": {
+      "official": "توغو",
+      "common": "توغو"
+    },
+    "hy": {
+      "official": "Տոգո",
+      "common": "Տոգո"
+    },
+    "as": {
+      "official": "টোগো",
+      "common": "টোগো"
+    },
+    "az": {
+      "official": "Toqo",
+      "common": "Toqo"
+    },
+    "eu": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "be": {
+      "official": "Тога",
+      "common": "Тога"
+    },
+    "bn": {
+      "official": "টোগো",
+      "common": "টোগো"
+    },
+    "bs": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "br": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "bg": {
+      "official": "Того",
+      "common": "Того"
+    },
+    "ca": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "zh": {
+      "official": "多哥",
+      "common": "多哥"
+    },
+    "cs": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "da": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "nl": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "dz": {
+      "official": "ཊོ་གོ།",
+      "common": "ཊོ་གོ།"
+    },
+    "en": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "eo": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "et": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "fo": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "fi": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "fr": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "ka": {
+      "official": "ტოგო",
+      "common": "ტოგო"
+    },
+    "de": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "ga": {
+      "official": "Tóga",
+      "common": "Tóga"
+    },
+    "gl": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "el": {
+      "official": "Τόγκο",
+      "common": "Τόγκο"
+    },
+    "gu": {
+      "official": "ટોગો",
+      "common": "ટોગો"
+    },
+    "he": {
+      "official": "טוגו",
+      "common": "טוגו"
+    },
+    "hi": {
+      "official": "टोगो",
+      "common": "टोगो"
+    },
+    "hr": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "hu": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "is": {
+      "official": "Tógó",
+      "common": "Tógó"
+    },
+    "ia": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "id": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "it": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "ja": {
+      "official": "トーゴ",
+      "common": "トーゴ"
+    },
+    "kn": {
+      "official": "ಟೋಗೋ",
+      "common": "ಟೋಗೋ"
+    },
+    "kk": {
+      "official": "Того",
+      "common": "Того"
+    },
+    "km": {
+      "official": "តូហ្គោ",
+      "common": "តូហ្គោ"
+    },
+    "rw": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "ko": {
+      "official": "토고",
+      "common": "토고"
+    },
+    "ku": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "lv": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "lt": {
+      "official": "Togas",
+      "common": "Togas"
+    },
+    "mk": {
+      "official": "Того",
+      "common": "Того"
+    },
+    "ml": {
+      "official": "ടോഗോ",
+      "common": "ടോഗോ"
+    },
+    "mi": {
+      "official": "Toko",
+      "common": "Toko"
+    },
+    "mr": {
+      "official": "तोगो",
+      "common": "तोगो"
+    },
+    "ms": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "mt": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "mn": {
+      "official": "Того",
+      "common": "Того"
+    },
+    "ne": {
+      "official": "टोगो",
+      "common": "टोगो"
+    },
+    "nn": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "nb": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "oc": {
+      "official": "Tògo",
+      "common": "Tògo"
+    },
+    "or": {
+      "official": "ଟୋଗୋ",
+      "common": "ଟୋଗୋ"
+    },
+    "pa": {
+      "official": "ਟੋਗੋ",
+      "common": "ਟੋਗੋ"
+    },
+    "fa": {
+      "official": "توگو",
+      "common": "توگو"
+    },
+    "pl": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "pt": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "ps": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "ro": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "ru": {
+      "official": "Того",
+      "common": "Того"
+    },
+    "si": {
+      "official": "ටෝගෝ",
+      "common": "ටෝගෝ"
+    },
+    "sk": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "sl": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "so": {
+      "official": "Toogo",
+      "common": "Toogo"
+    },
+    "es": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "sr": {
+      "official": "Того",
+      "common": "Того"
+    },
+    "sw": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "sv": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "ta": {
+      "official": "டோகோ",
+      "common": "டோகோ"
+    },
+    "tt": {
+      "official": "Тоgо",
+      "common": "Тоgо"
+    },
+    "te": {
+      "official": "తోగో",
+      "common": "తోగో"
+    },
+    "tl": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "th": {
+      "official": "โตโก",
+      "common": "โตโก"
+    },
+    "ti": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "tk": {
+      "official": "Togolez",
+      "common": "Togolez"
+    },
+    "tr": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "ug": {
+      "official": "توگو",
+      "common": "توگو"
+    },
+    "uk": {
+      "official": "Того",
+      "common": "Того"
+    },
+    "ve": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "vi": {
+      "official": "Tô-gô",
+      "common": "Tô-gô"
+    },
+    "cy": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "wa": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "wo": {
+      "official": "Togóo",
+      "common": "Togóo"
+    },
+    "xh": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "zu": {
+      "official": "Togo",
+      "common": "Togo"
+    }
+  }
+}

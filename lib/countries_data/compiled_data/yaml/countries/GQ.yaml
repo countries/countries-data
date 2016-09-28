@@ -1,0 +1,332 @@
+---
+continent: Africa
+alpha2: GQ
+alpha3: GNQ
+country_code: '240'
+international_prefix: '00'
+ioc: GEQ
+gec: EK
+name: Equatorial Guinea
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 6
+national_prefix: None
+number: '226'
+region: Africa
+subregion: Middle Africa
+world_region: EMEA
+un_locode: GQ
+nationality: Equatorial Guinean
+postal_code: false
+unofficial_names:
+- Equatorial Guinea
+- Äquatorial-Guinea
+- Guinée Équatoriale
+- Guinea Ecuatorial
+- 赤道ギニア
+- Equatoriaal-Guinea
+languages_official:
+- es
+- fr
+languages_spoken:
+- es
+- fr
+geo:
+  latitude: 1.650801
+  latitude_dec: '1.5331259965896606'
+  longitude: 10.267895
+  longitude_dec: '10.372581481933594'
+  max_latitude: 3.7881373
+  max_longitude: 11.3333
+  min_latitude: -1.4679305
+  min_longitude: 5.6119728
+  bounds:
+    northeast:
+      lat: 3.7881373
+      lng: 11.3333
+    southwest:
+      lat: -1.4679305
+      lng: 5.6119728
+currency_code: XAF
+postal_address_data:
+  id: data/GQ
+  key: GQ
+  name: EQUATORIAL GUINEA
+translations:
+  af:
+    official: Ekwatoriaal-Guinee
+    common: Ekwatoriaal-Guinee
+  sq:
+    official: Guinea Ekuatoriale
+    common: Guinea Ekuatoriale
+  am:
+    official: ጒጣቶሱ።ሔ ጑ኒ
+    common: ጒጣቶሱ።ሔ ጑ኒ
+  ar:
+    official: غينيا الاستوائيّة
+    common: غينيا الاستوائيّة
+  hy:
+    official: Հասարակածային Գվինեա
+    common: Հասարակածային Գվինեա
+  as:
+    official: বিষুবীয় গিনি
+    common: বিষুবীয় গিনি
+  az:
+    official: Ekvatorial Qvineya
+    common: Ekvatorial Qvineya
+  eu:
+    official: Ekuatore Ginea
+    common: Ekuatore Ginea
+  be:
+    official: Экватарыяльная Гвінея
+    common: Экватарыяльная Гвінея
+  bn:
+    official: ইকুয়েটোরিয়াল গিনি
+    common: ইকুয়েটোরিয়াল গিনি
+  bs:
+    official: Ekvatorijalna Gvineja
+    common: Ekvatorijalna Gvineja
+  br:
+    official: Equatorial Guinea
+    common: Equatorial Guinea
+  bg:
+    official: Екваториална Гвинея
+    common: Екваториална Гвинея
+  ca:
+    official: Guinea Equatorial
+    common: Guinea Equatorial
+  zh:
+    official: 赤道几内亚
+    common: 赤道几内亚
+  cs:
+    official: Rovníková Guinea
+    common: Rovníková Guinea
+  da:
+    official: Ækvatorialguinea
+    common: Ækvatorialguinea
+  nl:
+    official: Equatoriaal-Guinea
+    common: Equatoriaal-Guinea
+  dz:
+    official: ཨི་ཀུཡེ་ཊོ་རི་ཡཱལ་ གི་ནི།
+    common: ཨི་ཀུཡེ་ཊོ་རི་ཡཱལ་ གི་ནི།
+  en:
+    official: Equatorial Guinea
+    common: Equatorial Guinea
+  eo:
+    official: Ekvatora Gvineo
+    common: Ekvatora Gvineo
+  et:
+    official: Ekvatoriaal-Guinea
+    common: Ekvatoriaal-Guinea
+  fo:
+    official: Ekvator Guinea
+    common: Ekvator Guinea
+  fi:
+    official: Päiväntasaajan Guinea
+    common: Päiväntasaajan Guinea
+  fr:
+    official: Guinée Équatoriale
+    common: Guinée Équatoriale
+  ka:
+    official: ეკვატორული გვინეა
+    common: ეკვატორული გვინეა
+  de:
+    official: Äquatorialguinea
+    common: Äquatorialguinea
+  ga:
+    official: An Ghuine Mheánchiorclach
+    common: An Ghuine Mheánchiorclach
+  gl:
+    official: Guinea Ecuatorial
+    common: Guinea Ecuatorial
+  el:
+    official: Ισημερινή Γουινέα
+    common: Ισημερινή Γουινέα
+  gu:
+    official: ઇક્વોરીઅલ ગુએના
+    common: ઇક્વોરીઅલ ગુએના
+  he:
+    official: גינאה המשוונית
+    common: גינאה המשוונית
+  hi:
+    official: इक्वेटोरियल गिनी
+    common: इक्वेटोरियल गिनी
+  hr:
+    official: Ekvatorijalna Gvineja
+    common: Ekvatorijalna Gvineja
+  hu:
+    official: Egyenlítői-Guinea
+    common: Egyenlítői-Guinea
+  is:
+    official: Miðbaugs-Gínea
+    common: Miðbaugs-Gínea
+  ia:
+    official: Guinea Equatorial
+    common: Guinea Equatorial
+  id:
+    official: Guinea Ekuatorial
+    common: Guinea Ekuatorial
+  it:
+    official: Guinea equatoriale
+    common: Guinea equatoriale
+  ja:
+    official: 赤道ギニア
+    common: 赤道ギニア
+  kn:
+    official: ಈಕ್ವಟೋರಿಯಲ್ ಗಿನೀ
+    common: ಈಕ್ವಟೋರಿಯಲ್ ಗಿನೀ
+  kk:
+    official: Экваториалдық Гвинея
+    common: Экваториалдық Гвинея
+  km:
+    official: ហ្គីណេ​អេក្វាទ័រ
+    common: ហ្គីណេ​អេក្វាទ័រ
+  rw:
+    official: Gineya Ekwatoriyale
+    common: Gineya Ekwatoriyale
+  ko:
+    official: 적도기니
+    common: 적도기니
+  ku:
+    official: Gîneya Ekvatorî
+    common: Gîneya Ekvatorî
+  lv:
+    official: Ekvatoriālā Gvineja
+    common: Ekvatoriālā Gvineja
+  lt:
+    official: Pusiaujo Gvinėja
+    common: Pusiaujo Gvinėja
+  mk:
+    official: Екваторијална Гвинеја
+    common: Екваторијална Гвинеја
+  ml:
+    official: ഇക്വടോറിയല്‍ ഗിനിയ
+    common: ഇക്വടോറിയല്‍ ഗിനിയ
+  mi:
+    official: Kini Ekuatoria
+    common: Kini Ekuatoria
+  mr:
+    official: इक्वेटोरियल गिनी
+    common: इक्वेटोरियल गिनी
+  ms:
+    official: Equatorial Guinea
+    common: Equatorial Guinea
+  mt:
+    official: Ginea Ekwatorjali
+    common: Ginea Ekwatorjali
+  mn:
+    official: Equatorial Guinea
+    common: Equatorial Guinea
+  ne:
+    official: इक्वेटरियल जिनीया
+    common: इक्वेटरियल जिनीया
+  nn:
+    official: Ekvatorial-Guinea
+    common: Ekvatorial-Guinea
+  nb:
+    official: Ekvatorial-Guinea
+    common: Ekvatorial-Guinea
+  oc:
+    official: Guinèa Eqüatoriala
+    common: Guinèa Eqüatoriala
+  or:
+    official: ବିଷୁବରେଖୀୟ ଗିନୀ
+    common: ବିଷୁବରେଖୀୟ ଗିନୀ
+  pa:
+    official: ਭੂ-ਖੰਡੀ ਗੁਆਨਾ
+    common: ਭੂ-ਖੰਡੀ ਗੁਆਨਾ
+  fa:
+    official: گینهٔ استوایی
+    common: گینهٔ استوایی
+  pl:
+    official: Gwinea Równikowa
+    common: Gwinea Równikowa
+  pt:
+    official: Guiné Equatorial
+    common: Guiné Equatorial
+  ps:
+    official: Equatorial Guinea
+    common: Equatorial Guinea
+  ro:
+    official: Guinea Ecuatorială
+    common: Guinea Ecuatorială
+  ru:
+    official: Экваториальная Гвинея
+    common: Экваториальная Гвинея
+  si:
+    official: ගිනියා සමානාත්මය
+    common: ගිනියා සමානාත්මය
+  sk:
+    official: Rovníková Guinea
+    common: Rovníková Guinea
+  sl:
+    official: Ekvatorialna Gvineja
+    common: Ekvatorialna Gvineja
+  so:
+    official: Equatorial Guinea
+    common: Equatorial Guinea
+  es:
+    official: Guinea Ecuatorial
+    common: Guinea Ecuatorial
+  sr:
+    official: Екваторијална Гвинеја
+    common: Екваторијална Гвинеја
+  sw:
+    official: Equatorial Guinea
+    common: Equatorial Guinea
+  sv:
+    official: Ekvatorialguinea
+    common: Ekvatorialguinea
+  ta:
+    official: ஈக்குவிடோரியல் கினி
+    common: ஈக்குவிடோரியல் கினி
+  tt:
+    official: Екуаторлы Gуинеа
+    common: Екуаторлы Gуинеа
+  te:
+    official: ఇక్విటోరియల్ గినీ
+    common: ఇక్విటోరియల్ గినీ
+  tl:
+    official: Equatorial Guinea
+    common: Equatorial Guinea
+  th:
+    official: อิเควทอเรียลกินี
+    common: อิเควทอเรียลกินี
+  ti:
+    official: ኢኳቶሪያል ጊኒ
+    common: ኢኳቶሪያል ጊኒ
+  tk:
+    official: Equatorial Guinea
+    common: Equatorial Guinea
+  tr:
+    official: Ekvatoral Gine
+    common: Ekvatoral Gine
+  ug:
+    official: ئېكۋاتور گىۋىنېيەسى
+    common: ئېكۋاتور گىۋىنېيەسى
+  uk:
+    official: Екваторіальна Гвінея
+    common: Екваторіальна Гвінея
+  ve:
+    official: Equatorial Guinea
+    common: Equatorial Guinea
+  vi:
+    official: Ghi-nê Xích Đạo
+    common: Ghi-nê Xích Đạo
+  cy:
+    official: Guinea Cyhydeddol
+    common: Guinea Cyhydeddol
+  wa:
+    official: Guinêye Ecwåtoriåle
+    common: Guinêye Ecwåtoriåle
+  wo:
+    official: Ginne Ekwatoriaal
+    common: Ginne Ekwatoriaal
+  xh:
+    official: Equatorial Guinea
+    common: Equatorial Guinea
+  zu:
+    official: Equatorial Guinea
+    common: Equatorial Guinea

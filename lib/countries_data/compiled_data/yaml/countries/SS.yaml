@@ -1,0 +1,329 @@
+---
+continent: Africa
+alpha2: SS
+alpha3: SSD
+country_code: '211'
+international_prefix: '0'
+ioc: 
+gec: OD
+name: South Sudan
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: '0'
+number: '728'
+region: Africa
+subregion: Northern Africa
+world_region: EMEA
+nationality: South Sudanese
+postal_code: true
+unofficial_names:
+- South Sudan
+- Südsudan
+- 南スーダン
+- Zuid-Soedan
+languages_official:
+- ar
+- en
+languages_spoken:
+- ar
+- en
+geo:
+  latitude: 6.876991899999999
+  latitude_dec: '7.303858280181885'
+  longitude: 31.3069788
+  longitude_dec: '30.280752182006836'
+  max_latitude: 12.2363889
+  max_longitude: 35.948997
+  min_latitude: 3.48898
+  min_longitude: 23.440849
+  bounds:
+    northeast:
+      lat: 12.2363889
+      lng: 35.948997
+    southwest:
+      lat: 3.48898
+      lng: 23.440849
+currency_code: SSP
+postal_address_data:
+  id: data/SS
+  key: SS
+  name: SOUTH SUDAN
+translations:
+  af:
+    official: Soedan
+    common: Soedan
+  sq:
+    official: Republika e Sudanit
+    common: Republika e Sudanit
+  am:
+    official: "፠ቡብ ጐፔሱጢ"
+    common: "፠ቡብ ጐፔሱጢ"
+  ar:
+    official: جمهوريّة السّودان
+    common: جمهوريّة السّودان
+  hy:
+    official: Հարավային Սուդան
+    common: Հարավային Սուդան
+  as:
+    official: ছুদান প্ৰজাতন্ত্ৰ
+    common: ছুদান প্ৰজাতন্ত্ৰ
+  az:
+    official: Cənubi Afrika
+    common: Cənubi Afrika
+  eu:
+    official: Hegoaldeko Sudan
+    common: Hegoaldeko Sudan
+  be:
+    official: Паўднёвы Судан
+    common: Паўднёвы Судан
+  bn:
+    official: সুদান প্রজাতন্ত্র
+    common: সুদান প্রজাতন্ত্র
+  bs:
+    official: Republika Sudan
+    common: Republika Sudan
+  br:
+    official: Republik Suafrika
+    common: Republik Suafrika
+  bg:
+    official: Южен Судан
+    common: Южен Судан
+  ca:
+    official: Sudan del Sud
+    common: Sudan del Sud
+  zh:
+    official: 南苏丹
+    common: 南苏丹
+  cs:
+    official: Jižní Súdán
+    common: Jižní Súdán
+  da:
+    official: Sydsudan
+    common: Sydsudan
+  nl:
+    official: Zuid-Soedan
+    common: Zuid-Soedan
+  dz:
+    official: སུ་དཱན་གྱི་ མི་སེར་རྒྱལ་ཁབ།
+    common: སུ་དཱན་གྱི་ མི་སེར་རྒྱལ་ཁབ།
+  en:
+    official: South Sudan
+    common: South Sudan
+  eo:
+    official: Sud-Sudano
+    common: Sud-Sudano
+  et:
+    official: Lõuna-Sudaan
+    common: Lõuna-Sudaan
+  fo:
+    official: Domingo lýðveldið
+    common: Domingo lýðveldið
+  fi:
+    official: Etelä-Sudan
+    common: Etelä-Sudan
+  fr:
+    official: Soudan du Sud
+    common: Soudan du Sud
+  ka:
+    official: სუდანის რესპუბლიკა
+    common: სუდანის რესპუბლიკა
+  de:
+    official: Südsudan
+    common: Südsudan
+  ga:
+    official: An tSúdáin Theas
+    common: An tSúdáin Theas
+  gl:
+    official: Sudán do Sur
+    common: Sudán do Sur
+  el:
+    official: Νότιο Σουδάν
+    common: Νότιο Σουδάν
+  gu:
+    official: દક્ષિણ સુદાન
+    common: દક્ષિણ સુદાન
+  he:
+    official: דרום סודן
+    common: דרום סודן
+  hi:
+    official: दक्षिण सूडान
+    common: दक्षिण सूडान
+  hr:
+    official: Južni Sudan
+    common: Južni Sudan
+  hu:
+    official: Dél-Szudán
+    common: Dél-Szudán
+  is:
+    official: Suður-súdan
+    common: Suður-súdan
+  ia:
+    official: Sudan del Sud
+    common: Sudan del Sud
+  id:
+    official: Sudan Selatan
+    common: Sudan Selatan
+  it:
+    official: Sudan meridionale
+    common: Sudan meridionale
+  ja:
+    official: 南スーダン
+    common: 南スーダン
+  kn:
+    official: ಸೂಡಾನ್ ಗಣರಾಜ್ಯ
+    common: ಸೂಡಾನ್ ಗಣರಾಜ್ಯ
+  kk:
+    official: Оңтүстік Судан
+    common: Оңтүстік Судан
+  km:
+    official: ស៊ូដង់​ខាង​ត្បូង
+    common: ស៊ូដង់​ខាង​ត្បូង
+  rw:
+    official: Repubulika ya Sudani
+    common: Repubulika ya Sudani
+  ko:
+    official: 남수단
+    common: 남수단
+  ku:
+    official: Komara Sûdan
+    common: Komara Sûdan
+  lv:
+    official: Dienvidsudāna
+    common: Dienvidsudāna
+  lt:
+    official: Pietų Sudanas
+    common: Pietų Sudanas
+  mk:
+    official: Република Судан
+    common: Република Судан
+  ml:
+    official: സുഡാന്‍ റിപ്പബ്ലിക്
+    common: സുഡാന്‍ റിപ്പബ്ലിക്
+  mi:
+    official: Hūtāne-ki-te-tonga
+    common: Hūtāne-ki-te-tonga
+  mr:
+    official: दक्षिण सुदान
+    common: दक्षिण सुदान
+  ms:
+    official: Republik Botswana
+    common: Republik Botswana
+  mt:
+    official: Afrika t'Isfel
+    common: Afrika t'Isfel
+  mn:
+    official: Өмнөд африк
+    common: Өмнөд африк
+  ne:
+    official: सुडानको गणराज्य
+    common: सुडानको गणराज्य
+  nn:
+    official: Sør-Sudan
+    common: Sør-Sudan
+  nb:
+    official: Sør-Sudan
+    common: Sør-Sudan
+  oc:
+    official: Republica de Sodan
+    common: Republica de Sodan
+  or:
+    official: ସୂଡାନ ଗଣତନ୍ତ୍ର
+    common: ସୂଡାନ ଗଣତନ୍ତ୍ର
+  pa:
+    official: ਸੂਡਾਨ ਗਣਰਾਜ
+    common: ਸੂਡਾਨ ਗਣਰਾਜ
+  fa:
+    official: سودان جنوبی
+    common: سودان جنوبی
+  pl:
+    official: Sudan Południowy
+    common: Sudan Południowy
+  pt:
+    official: República do Sudão
+    common: República do Sudão
+  ps:
+    official: South Sudan
+    common: South Sudan
+  ro:
+    official: Republica Sudan
+    common: Republica Sudan
+  ru:
+    official: Южный Судан
+    common: Южный Судан
+  si:
+    official: දකුණු සුඩානය
+    common: දකුණු සුඩානය
+  sk:
+    official: Južný Sudán
+    common: Južný Sudán
+  sl:
+    official: Južni Sudan
+    common: Južni Sudan
+  so:
+    official: Koonfur Afrika
+    common: Koonfur Afrika
+  es:
+    official: Sudán del Sur
+    common: Sudán del Sur
+  sr:
+    official: Јужни Судан
+    common: Јужни Судан
+  sw:
+    official: Lithuania
+    common: Lithuania
+  sv:
+    official: Sydsudan
+    common: Sydsudan
+  ta:
+    official: சூடான் குடியரசு
+    common: சூடான் குடியரசு
+  tt:
+    official: Судан Җөмһүриәте
+    common: Судан Җөмһүриәте
+  te:
+    official: రిపబ్లిక్ ఆఫ్ సుడాన్
+    common: రిపబ్లిక్ ఆఫ్ సుడాన్
+  tl:
+    official: Republika ng Sudan
+    common: Republika ng Sudan
+  th:
+    official: ซูดานใต้
+    common: ซูดานใต้
+  ti:
+    official: ዶሚኒክ ሪፑብሊክ
+    common: ዶሚኒክ ሪፑብሊክ
+  tk:
+    official: Sudan Respublikasy
+    common: Sudan Respublikasy
+  tr:
+    official: Güney Sudan
+    common: Güney Sudan
+  ug:
+    official: جەنۇبىي سۇدان
+    common: جەنۇبىي سۇدان
+  uk:
+    official: Південний Судан
+    common: Південний Судан
+  ve:
+    official: South Africa
+    common: South Africa
+  vi:
+    official: Nam Xu-đăng
+    common: Nam Xu-đăng
+  cy:
+    official: De Swdan
+    common: De Swdan
+  wa:
+    official: Soudan nonnrece
+    common: Soudan nonnrece
+  wo:
+    official: Republik bu Suudaan
+    common: Republik bu Suudaan
+  xh:
+    official: Mzantsi Afrika
+    common: Mzantsi Afrika
+  zu:
+    official: I-Mzantsi Afrika
+    common: I-Mzantsi Afrika

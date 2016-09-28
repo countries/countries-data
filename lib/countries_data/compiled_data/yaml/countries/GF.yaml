@@ -1,0 +1,334 @@
+---
+continent: South America
+alpha2: GF
+alpha3: GUF
+country_code: '594'
+international_prefix: '00'
+ioc: 
+gec: FG
+name: French Guiana
+national_destination_code_lengths:
+- 3
+national_number_lengths:
+- 10
+national_prefix: None
+number: '254'
+region: Americas
+subregion: South America
+world_region: AMER
+un_locode: GF
+postal_code: true
+unofficial_names:
+- French Guiana
+- Französisch Guyana
+- Guayana Francesa
+- フランス領ギアナ
+- Frans-Guyana
+languages_official:
+- fr
+languages_spoken:
+- fr
+geo:
+  latitude: 3.933889
+  latitude_dec: '4.069991111755371'
+  longitude: -53.125782
+  longitude_dec: "-53.16830825805664"
+  max_latitude: 5.752212600000001
+  max_longitude: -51.62071049999999
+  min_latitude: 2.109287
+  min_longitude: -54.554438
+  bounds:
+    northeast:
+      lat: 5.752212600000001
+      lng: -51.62071049999999
+    southwest:
+      lat: 2.109287
+      lng: -54.554438
+currency_code: EUR
+postal_address_data:
+  key: GF
+  upper: ACX
+  zipex: '97300'
+  name: FRENCH GUIANA
+  zip: 9[78]3\d{2}
+  require: ACZ
+  id: data/GF
+  posturl: http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal
+  fmt: "%O%n%N%n%A%n%Z %C %X"
+translations:
+  af:
+    official: Frans-Guyana
+    common: Frans-Guyana
+  sq:
+    official: Guiana Franceze
+    common: Guiana Franceze
+  am:
+    official: ፘፈረንሳ፤ ጉፁጐና
+    common: ፘፈረንሳ፤ ጉፁጐና
+  ar:
+    official: غيانا الفرنسيّة
+    common: غيانا الفرنسيّة
+  hy:
+    official: Ֆրանսիական Գվիանա
+    common: Ֆրանսիական Գվիանա
+  as:
+    official: ফ্ৰেঞ্চ গায়ানা
+    common: ফ্ৰেঞ্চ গায়ানা
+  az:
+    official: Fransız Gvineyası
+    common: Fransız Gvineyası
+  eu:
+    official: Guyana Frantsesa
+    common: Guyana Frantsesa
+  be:
+    official: Французская Гвіяна
+    common: Французская Гвіяна
+  bn:
+    official: ফ্রেঞ্চ গায়ানা
+    common: ফ্রেঞ্চ গায়ানা
+  bs:
+    official: Francuska Gvajana
+    common: Francuska Gvajana
+  br:
+    official: French Guiana
+    common: French Guiana
+  bg:
+    official: Френска Гвиана
+    common: Френска Гвиана
+  ca:
+    official: Guaiana Francesa
+    common: Guaiana Francesa
+  zh:
+    official: 法属圭亚那
+    common: 法属圭亚那
+  cs:
+    official: Francouzská Guayana
+    common: Francouzská Guayana
+  da:
+    official: Fransk Guinea
+    common: Fransk Guinea
+  nl:
+    official: Frans-Guyana
+    common: Frans-Guyana
+  dz:
+    official: ཕེརེནཆི་ གུའི་ན།
+    common: ཕེརེནཆི་ གུའི་ན།
+  en:
+    official: French Guiana
+    common: French Guiana
+  eo:
+    official: Franca Gviano
+    common: Franca Gviano
+  et:
+    official: Prantsuse Guajaana
+    common: Prantsuse Guajaana
+  fo:
+    official: French Guiana
+    common: French Guiana
+  fi:
+    official: Ranskan Guayana
+    common: Ranskan Guayana
+  fr:
+    official: Guyane française
+    common: Guyane française
+  ka:
+    official: ფრანგული გუიანა
+    common: ფრანგული გუიანა
+  de:
+    official: Französisch-Guyana
+    common: Französisch-Guyana
+  ga:
+    official: An Ghuáin Fhrancach
+    common: An Ghuáin Fhrancach
+  gl:
+    official: Güiana Francesa
+    common: Güiana Francesa
+  el:
+    official: Γαλλική Γουιάνα
+    common: Γαλλική Γουιάνα
+  gu:
+    official: ફ્રેન્ચ ગુએના
+    common: ફ્રેન્ચ ગુએના
+  he:
+    official: גינאה הצרפתית
+    common: גינאה הצרפתית
+  hi:
+    official: फ्रेंच गुयाना
+    common: फ्रेंच गुयाना
+  hr:
+    official: Francuska Gvajana
+    common: Francuska Gvajana
+  hu:
+    official: Francia Guyana
+    common: Francia Guyana
+  is:
+    official: Franska Gvæjana
+    common: Franska Gvæjana
+  ia:
+    official: Guiana Francese
+    common: Guiana Francese
+  id:
+    official: Guyana Perancis
+    common: Guyana Perancis
+  it:
+    official: Guyana francese
+    common: Guyana francese
+  ja:
+    official: 仏領ギアナ
+    common: 仏領ギアナ
+  kn:
+    official: ಫ್ರೆಂಚ್ ಗಯಾನಾ
+    common: ಫ್ರೆಂಚ್ ಗಯಾನಾ
+  kk:
+    official: Француз Гвианасы
+    common: Француз Гвианасы
+  km:
+    official: ហ្គូអ៊ីយ៉ាណា​បារាំង
+    common: ហ្គូអ៊ីយ៉ាណា​បារាំង
+  rw:
+    official: Guyane Nyamfaransa
+    common: Guyane Nyamfaransa
+  ko:
+    official: 프랑스령 기아나
+    common: 프랑스령 기아나
+  ku:
+    official: Gîneya Fransî
+    common: Gîneya Fransî
+  lv:
+    official: Gviāna
+    common: Gviāna
+  lt:
+    official: Prancūzijos Gviana
+    common: Prancūzijos Gviana
+  mk:
+    official: Француска Гвинеја
+    common: Француска Гвинеја
+  ml:
+    official: ഫ്രഞ്ച് ഗയാന
+    common: ഫ്രഞ്ച് ഗയാന
+  mi:
+    official: Kaiana Wīwī
+    common: Kaiana Wīwī
+  mr:
+    official: फ्रेंच गियाना
+    common: फ्रेंच गियाना
+  ms:
+    official: French Guiana
+    common: French Guiana
+  mt:
+    official: Gujana Franċiża
+    common: Gujana Franċiża
+  mn:
+    official: Франц гана
+    common: Франц гана
+  ne:
+    official: फ्रेन्च जिनिया
+    common: फ्रेन्च जिनिया
+  nn:
+    official: Fransk Guyana
+    common: Fransk Guyana
+  nb:
+    official: Fransk Guyana
+    common: Fransk Guyana
+  oc:
+    official: Guiana francesa
+    common: Guiana francesa
+  or:
+    official: ଫ୍ରେଞ୍ଚ ଗୁଆନା
+    common: ଫ୍ରେଞ୍ଚ ଗୁଆନା
+  pa:
+    official: ਫਰੈਂਚ ਗੁਆਨਾ
+    common: ਫਰੈਂਚ ਗੁਆਨਾ
+  fa:
+    official: گویان فرانسه
+    common: گویان فرانسه
+  pl:
+    official: Gujana Francuska
+    common: Gujana Francuska
+  pt:
+    official: Guiana Francesa
+    common: Guiana Francesa
+  ps:
+    official: French Guiana
+    common: French Guiana
+  ro:
+    official: Guiana Franceză
+    common: Guiana Franceză
+  ru:
+    official: Французская Гвиана
+    common: Французская Гвиана
+  si:
+    official: ප්‍රංශ ගිනියාව
+    common: ප්‍රංශ ගිනියාව
+  sk:
+    official: Francúzska Guyana
+    common: Francúzska Guyana
+  sl:
+    official: Francoska Gvajana
+    common: Francoska Gvajana
+  so:
+    official: French Guiana
+    common: French Guiana
+  es:
+    official: Guayana Francesa
+    common: Guayana Francesa
+  sr:
+    official: Француска Гвајана
+    common: Француска Гвајана
+  sw:
+    official: French Guiana
+    common: French Guiana
+  sv:
+    official: Franska Guiana
+    common: Franska Guiana
+  ta:
+    official: ஃப்ரெஞ்ச் கையானா
+    common: ஃப்ரெஞ்ச் கையானா
+  tt:
+    official: Франс Gуиана
+    common: Франс Gуиана
+  te:
+    official: ఫ్రెంచ్ గియానా
+    common: ఫ్రెంచ్ గియానా
+  tl:
+    official: French Guiana
+    common: French Guiana
+  th:
+    official: เฟรนช์เกียนา
+    common: เฟรนช์เกียนา
+  ti:
+    official: የፈረንሳይ ጉዊአና
+    common: የፈረንሳይ ጉዊአና
+  tk:
+    official: Fransuz Gwiana
+    common: Fransuz Gwiana
+  tr:
+    official: Fransız Guyanası
+    common: Fransız Guyanası
+  ug:
+    official: فىرانسىيەگە قاراشلىق گىۋىيانا
+    common: فىرانسىيەگە قاراشلىق گىۋىيانا
+  uk:
+    official: Французька Гвіана
+    common: Французька Гвіана
+  ve:
+    official: French Polynesia
+    common: French Polynesia
+  vi:
+    official: Ghi-a-na Pháp
+    common: Ghi-a-na Pháp
+  cy:
+    official: Guiana Ffrangeg
+    common: Guiana Ffrangeg
+  wa:
+    official: Guyane francesse
+    common: Guyane francesse
+  wo:
+    official: Guyaana Faraañse
+    common: Guyaana Faraañse
+  xh:
+    official: French Guiana
+    common: French Guiana
+  zu:
+    official: French Guiana
+    common: French Guiana

@@ -1,0 +1,433 @@
+{
+  "continent": "Australia",
+  "alpha2": "KI",
+  "alpha3": "KIR",
+  "country_code": "686",
+  "international_prefix": "00",
+  "ioc": "KIR",
+  "gec": "KR",
+  "name": "Kiribati",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    5
+  ],
+  "national_prefix": "None",
+  "number": "296",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "world_region": "APAC",
+  "un_locode": "KI",
+  "nationality": "I-Kiribati",
+  "postal_code": false,
+  "unofficial_names": [
+    "Kiribati",
+    "キリバス"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 1.8708833,
+    "latitude_dec": "1.842833161354065",
+    "longitude": -157.3630262,
+    "longitude_dec": "-157.6758270263672",
+    "max_latitude": 4.6999586,
+    "max_longitude": -150.1958038,
+    "min_latitude": -11.4465192,
+    "min_longitude": 169.5215321,
+    "bounds": {
+      "northeast": {
+        "lat": 4.6999586,
+        "lng": -150.1958038
+      },
+      "southwest": {
+        "lat": -11.4465192,
+        "lng": 169.5215321
+      }
+    }
+  },
+  "currency_code": "AUD",
+  "postal_address_data": {
+    "upper": "ACNOS",
+    "name": "KIRIBATI",
+    "fmt": "%N%n%O%n%A%n%S%n%C",
+    "state_name_type": "island",
+    "key": "KI",
+    "id": "data/KI"
+  },
+  "translations": {
+    "af": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "sq": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "am": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "ar": {
+      "official": "كيريباتي",
+      "common": "كيريباتي"
+    },
+    "hy": {
+      "official": "Կիրիբատի",
+      "common": "Կիրիբատի"
+    },
+    "as": {
+      "official": "কিৰিবাটি",
+      "common": "কিৰিবাটি"
+    },
+    "az": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "eu": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "be": {
+      "official": "Кірыбаці",
+      "common": "Кірыбаці"
+    },
+    "bn": {
+      "official": "কিরিবাস",
+      "common": "কিরিবাস"
+    },
+    "bs": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "br": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "bg": {
+      "official": "Кирибати",
+      "common": "Кирибати"
+    },
+    "ca": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "zh": {
+      "official": "基里巴斯",
+      "common": "基里巴斯"
+    },
+    "cs": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "da": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "nl": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "dz": {
+      "official": "ཀི་རི་བ་ཏི།",
+      "common": "ཀི་རི་བ་ཏི།"
+    },
+    "en": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "eo": {
+      "official": "Kiribato",
+      "common": "Kiribato"
+    },
+    "et": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "fo": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "fi": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "fr": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "ka": {
+      "official": "კირიბატი",
+      "common": "კირიბატი"
+    },
+    "de": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "ga": {
+      "official": "Cireabaití",
+      "common": "Cireabaití"
+    },
+    "gl": {
+      "official": "Quiribati",
+      "common": "Quiribati"
+    },
+    "el": {
+      "official": "Κιριμπάτι",
+      "common": "Κιριμπάτι"
+    },
+    "gu": {
+      "official": "કીરીબાતી",
+      "common": "કીરીબાતી"
+    },
+    "he": {
+      "official": "קיריבטי",
+      "common": "קיריבטי"
+    },
+    "hi": {
+      "official": "किरिबाती",
+      "common": "किरिबाती"
+    },
+    "hr": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "hu": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "is": {
+      "official": "Kíribatí",
+      "common": "Kíribatí"
+    },
+    "ia": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "id": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "it": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "ja": {
+      "official": "キリバス",
+      "common": "キリバス"
+    },
+    "kn": {
+      "official": "ಕಿರಿಬಾಟಿ",
+      "common": "ಕಿರಿಬಾಟಿ"
+    },
+    "kk": {
+      "official": "Кирибати",
+      "common": "Кирибати"
+    },
+    "km": {
+      "official": "គិរិបាទី",
+      "common": "គិរិបាទី"
+    },
+    "rw": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "ko": {
+      "official": "키리바티",
+      "common": "키리바티"
+    },
+    "ku": {
+      "official": "Kirîbatî",
+      "common": "Kirîbatî"
+    },
+    "lv": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "lt": {
+      "official": "Kiribatis",
+      "common": "Kiribatis"
+    },
+    "mk": {
+      "official": "Кирибати",
+      "common": "Кирибати"
+    },
+    "ml": {
+      "official": "കിരിബാറ്റി",
+      "common": "കിരിബാറ്റി"
+    },
+    "mi": {
+      "official": "Kiripati",
+      "common": "Kiripati"
+    },
+    "mr": {
+      "official": "किरिबाती",
+      "common": "किरिबाती"
+    },
+    "ms": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "mt": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "mn": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "ne": {
+      "official": "किरिबाटी",
+      "common": "किरिबाटी"
+    },
+    "nn": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "nb": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "oc": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "or": {
+      "official": "କୀରିବତୀ",
+      "common": "କୀରିବତୀ"
+    },
+    "pa": {
+      "official": "ਕੀਰੀਬਾਟੀ",
+      "common": "ਕੀਰੀਬਾਟੀ"
+    },
+    "fa": {
+      "official": "کیریباتی",
+      "common": "کیریباتی"
+    },
+    "pl": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "pt": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "ps": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "ro": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "ru": {
+      "official": "Кирибати",
+      "common": "Кирибати"
+    },
+    "si": {
+      "official": "කිරිබටි",
+      "common": "කිරිබටි"
+    },
+    "sk": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "sl": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "so": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "es": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "sr": {
+      "official": "Кирибати",
+      "common": "Кирибати"
+    },
+    "sw": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "sv": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "ta": {
+      "official": "கிரிபாடி",
+      "common": "கிரிபாடி"
+    },
+    "tt": {
+      "official": "Кирибати",
+      "common": "Кирибати"
+    },
+    "te": {
+      "official": "కిరిబాతీ",
+      "common": "కిరిబాతీ"
+    },
+    "tl": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "th": {
+      "official": "คิริบาตี",
+      "common": "คิริบาตี"
+    },
+    "ti": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "tk": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "tr": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "ug": {
+      "official": "كىرىباتى",
+      "common": "كىرىباتى"
+    },
+    "uk": {
+      "official": "Кірибаті",
+      "common": "Кірибаті"
+    },
+    "ve": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "vi": {
+      "official": "Ki-ri-ba-ti",
+      "common": "Ki-ri-ba-ti"
+    },
+    "cy": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "wa": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "wo": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "xh": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "zu": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    }
+  }
+}

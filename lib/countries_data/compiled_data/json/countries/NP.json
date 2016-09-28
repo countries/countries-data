@@ -1,0 +1,437 @@
+{
+  "continent": "Asia",
+  "alpha2": "NP",
+  "alpha3": "NPL",
+  "country_code": "977",
+  "international_prefix": "00",
+  "ioc": "NEP",
+  "gec": "NP",
+  "name": "Nepal",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7,
+    8
+  ],
+  "national_prefix": "0",
+  "number": "524",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "world_region": "APAC",
+  "un_locode": "NP",
+  "nationality": "Nepalese",
+  "postal_code": true,
+  "unofficial_names": [
+    "Nepal",
+    "Népal",
+    "the Federal Democratic Republic of Nepal",
+    "ネパール"
+  ],
+  "languages_official": [
+    "ne"
+  ],
+  "languages_spoken": [
+    "ne"
+  ],
+  "geo": {
+    "latitude": 28.394857,
+    "latitude_dec": "28.259138107299805",
+    "longitude": 84.12400799999999,
+    "longitude_dec": "83.94416046142578",
+    "max_latitude": 30.4469452,
+    "max_longitude": 88.20152569999999,
+    "min_latitude": 26.3479661,
+    "min_longitude": 80.05846980000001,
+    "bounds": {
+      "northeast": {
+        "lat": 30.4469452,
+        "lng": 88.20152569999999
+      },
+      "southwest": {
+        "lat": 26.3479661,
+        "lng": 80.05846980000001
+      }
+    }
+  },
+  "currency_code": "NPR",
+  "postal_address_data": {
+    "key": "NP",
+    "zipex": "44601",
+    "name": "NEPAL",
+    "zip": "\\d{5}",
+    "fmt": "%N%n%O%n%A%n%C %Z",
+    "posturl": "http://www.gpo.gov.np/postalcode.aspx",
+    "id": "data/NP"
+  },
+  "translations": {
+    "af": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "sq": {
+      "official": "Nepali",
+      "common": "Nepali"
+    },
+    "am": {
+      "official": "ኔፓሔ",
+      "common": "ኔፓሔ"
+    },
+    "ar": {
+      "official": "نيبال",
+      "common": "نيبال"
+    },
+    "hy": {
+      "official": "Նեպալ",
+      "common": "Նեպալ"
+    },
+    "as": {
+      "official": "নেপাল",
+      "common": "নেপাল"
+    },
+    "az": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "eu": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "be": {
+      "official": "Непал",
+      "common": "Непал"
+    },
+    "bn": {
+      "official": "নেপাল",
+      "common": "নেপাল"
+    },
+    "bs": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "br": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "bg": {
+      "official": "Непал",
+      "common": "Непал"
+    },
+    "ca": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "zh": {
+      "official": "尼泊尔",
+      "common": "尼泊尔"
+    },
+    "cs": {
+      "official": "Nepál",
+      "common": "Nepál"
+    },
+    "da": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "nl": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "dz": {
+      "official": "ནེ་པཱལ།",
+      "common": "ནེ་པཱལ།"
+    },
+    "en": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "eo": {
+      "official": "Nepalo",
+      "common": "Nepalo"
+    },
+    "et": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "fo": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "fi": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "fr": {
+      "official": "Népal",
+      "common": "Népal"
+    },
+    "ka": {
+      "official": "ნეპალი",
+      "common": "ნეპალი"
+    },
+    "de": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "ga": {
+      "official": "Neipeal",
+      "common": "Neipeal"
+    },
+    "gl": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "el": {
+      "official": "Νεπάλ",
+      "common": "Νεπάλ"
+    },
+    "gu": {
+      "official": "નેપાળ",
+      "common": "નેપાળ"
+    },
+    "he": {
+      "official": "נפאל",
+      "common": "נפאל"
+    },
+    "hi": {
+      "official": "नेपाल",
+      "common": "नेपाल"
+    },
+    "hr": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "hu": {
+      "official": "Nepál",
+      "common": "Nepál"
+    },
+    "is": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "ia": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "id": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "it": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "ja": {
+      "official": "ネパール",
+      "common": "ネパール"
+    },
+    "kn": {
+      "official": "ನೇಪಾಳ",
+      "common": "ನೇಪಾಳ"
+    },
+    "kk": {
+      "official": "Непал",
+      "common": "Непал"
+    },
+    "km": {
+      "official": "នេប៉ាល់",
+      "common": "នេប៉ាល់"
+    },
+    "rw": {
+      "official": "Nepali",
+      "common": "Nepali"
+    },
+    "ko": {
+      "official": "네팔",
+      "common": "네팔"
+    },
+    "ku": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "lv": {
+      "official": "Nepāla",
+      "common": "Nepāla"
+    },
+    "lt": {
+      "official": "Nepalas",
+      "common": "Nepalas"
+    },
+    "mk": {
+      "official": "Непал",
+      "common": "Непал"
+    },
+    "ml": {
+      "official": "നേപാള്‍",
+      "common": "നേപാള്‍"
+    },
+    "mi": {
+      "official": "Nepōra",
+      "common": "Nepōra"
+    },
+    "mr": {
+      "official": "नेपाळ",
+      "common": "नेपाळ"
+    },
+    "ms": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "mt": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "mn": {
+      "official": "Нипал",
+      "common": "Нипал"
+    },
+    "ne": {
+      "official": "नेपाल",
+      "common": "नेपाल"
+    },
+    "nn": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "nb": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "oc": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "or": {
+      "official": "ନେପାଳ",
+      "common": "ନେପାଳ"
+    },
+    "pa": {
+      "official": "ਨੇਪਾਲ",
+      "common": "ਨੇਪਾਲ"
+    },
+    "fa": {
+      "official": "نپال",
+      "common": "نپال"
+    },
+    "pl": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "pt": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "ps": {
+      "official": "نیپال",
+      "common": "نیپال"
+    },
+    "ro": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "ru": {
+      "official": "Непал",
+      "common": "Непал"
+    },
+    "si": {
+      "official": "නේපාලය",
+      "common": "නේපාලය"
+    },
+    "sk": {
+      "official": "Nepál",
+      "common": "Nepál"
+    },
+    "sl": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "so": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "es": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "sr": {
+      "official": "Непал",
+      "common": "Непал"
+    },
+    "sw": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "sv": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "ta": {
+      "official": "நேபாளம்",
+      "common": "நேபாளம்"
+    },
+    "tt": {
+      "official": "Непал",
+      "common": "Непал"
+    },
+    "te": {
+      "official": "నేపాల్",
+      "common": "నేపాల్"
+    },
+    "tl": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "th": {
+      "official": "เนปาล",
+      "common": "เนปาล"
+    },
+    "ti": {
+      "official": "ኔፓል",
+      "common": "ኔፓል"
+    },
+    "tk": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "tr": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "ug": {
+      "official": "نېپال",
+      "common": "نېپال"
+    },
+    "uk": {
+      "official": "Непал",
+      "common": "Непал"
+    },
+    "ve": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "vi": {
+      "official": "Nê-pan",
+      "common": "Nê-pan"
+    },
+    "cy": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "wa": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "wo": {
+      "official": "Nepaal",
+      "common": "Nepaal"
+    },
+    "xh": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "zu": {
+      "official": "Nepal",
+      "common": "Nepal"
+    }
+  }
+}

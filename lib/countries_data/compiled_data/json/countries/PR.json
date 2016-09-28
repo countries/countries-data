@@ -1,0 +1,440 @@
+{
+  "continent": "North America",
+  "alpha2": "PR",
+  "alpha3": "PRI",
+  "country_code": "1",
+  "international_prefix": "011",
+  "ioc": "PUR",
+  "gec": "RQ",
+  "name": "Puerto Rico",
+  "national_destination_code_lengths": [
+    3
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "1",
+  "number": "630",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "AMER",
+  "un_locode": "PR",
+  "nationality": "Puerto Rican",
+  "postal_code": true,
+  "unofficial_names": [
+    "Puerto Rico",
+    "プエルトリコ"
+  ],
+  "languages_official": [
+    "es",
+    "en"
+  ],
+  "languages_spoken": [
+    "es",
+    "en"
+  ],
+  "geo": {
+    "latitude": 18.220833,
+    "latitude_dec": "18.2491397857666",
+    "longitude": -66.590149,
+    "longitude_dec": "-66.62803649902344",
+    "max_latitude": 18.51601,
+    "max_longitude": -65.22111,
+    "min_latitude": 17.8814287,
+    "min_longitude": -67.9515777,
+    "bounds": {
+      "northeast": {
+        "lat": 18.51601,
+        "lng": -65.22111
+      },
+      "southwest": {
+        "lat": 17.8814287,
+        "lng": -67.9515777
+      }
+    }
+  },
+  "currency_code": "USD",
+  "postal_address_data": {
+    "postprefix": "PR",
+    "upper": "ACNO",
+    "zipex": "00930",
+    "name": "PUERTO RICO",
+    "zip": "(00[679]\\d{2})(?:[ \\-](\\d{4}))?",
+    "zip_name_type": "zip",
+    "require": "ACZ",
+    "id": "data/PR",
+    "key": "PR",
+    "posturl": "http://zip4.usps.com/zip4/welcome.jsp",
+    "fmt": "%N%n%O%n%A%n%C PR %Z"
+  },
+  "translations": {
+    "af": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "sq": {
+      "official": "Porto Rico",
+      "common": "Porto Rico"
+    },
+    "am": {
+      "official": "ፖሴታ ሱጥ",
+      "common": "ፖሴታ ሱጥ"
+    },
+    "ar": {
+      "official": "بورتوريكو",
+      "common": "بورتوريكو"
+    },
+    "hy": {
+      "official": "Պուերտո Ռիկո",
+      "common": "Պուերտո Ռիկո"
+    },
+    "as": {
+      "official": "পূৱেৰ্টো ৰিকো",
+      "common": "পূৱেৰ্টো ৰিকো"
+    },
+    "az": {
+      "official": "Porto Riko",
+      "common": "Porto Riko"
+    },
+    "eu": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "be": {
+      "official": "Пуэрта-Рыка",
+      "common": "Пуэрта-Рыка"
+    },
+    "bn": {
+      "official": "পুয়ের্তো রিকো",
+      "common": "পুয়ের্তো রিকো"
+    },
+    "bs": {
+      "official": "Portoriko",
+      "common": "Portoriko"
+    },
+    "br": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "bg": {
+      "official": "Пуерто Рико",
+      "common": "Пуерто Рико"
+    },
+    "ca": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "zh": {
+      "official": "波多黎各",
+      "common": "波多黎各"
+    },
+    "cs": {
+      "official": "Portoriko",
+      "common": "Portoriko"
+    },
+    "da": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "nl": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "dz": {
+      "official": "པུར་ཊོ་ རི་ཀོ།",
+      "common": "པུར་ཊོ་ རི་ཀོ།"
+    },
+    "en": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "eo": {
+      "official": "Puerto-Riko",
+      "common": "Puerto-Riko"
+    },
+    "et": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "fo": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "fi": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "fr": {
+      "official": "Porto Rico",
+      "common": "Porto Rico"
+    },
+    "ka": {
+      "official": "პუერტო-რიკო",
+      "common": "პუერტო-რიკო"
+    },
+    "de": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "ga": {
+      "official": "Portó Ríce",
+      "common": "Portó Ríce"
+    },
+    "gl": {
+      "official": "Porto Rico",
+      "common": "Porto Rico"
+    },
+    "el": {
+      "official": "Πουέρτο Ρίκο",
+      "common": "Πουέρτο Ρίκο"
+    },
+    "gu": {
+      "official": "પુર્ટો રીકો",
+      "common": "પુર્ટો રીકો"
+    },
+    "he": {
+      "official": "פורטו ריקו",
+      "common": "פורטו ריקו"
+    },
+    "hi": {
+      "official": "प्युएर्टो रिको",
+      "common": "प्युएर्टो रिको"
+    },
+    "hr": {
+      "official": "Portoriko",
+      "common": "Portoriko"
+    },
+    "hu": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "is": {
+      "official": "Puerto Ríko",
+      "common": "Puerto Ríko"
+    },
+    "ia": {
+      "official": "Porto Rico",
+      "common": "Porto Rico"
+    },
+    "id": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "it": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "ja": {
+      "official": "プエルトリコ",
+      "common": "プエルトリコ"
+    },
+    "kn": {
+      "official": "ಪೋರ್ಟೋರಿಕಾ",
+      "common": "ಪೋರ್ಟೋರಿಕಾ"
+    },
+    "kk": {
+      "official": "Пуэрто-Рико",
+      "common": "Пуэрто-Рико"
+    },
+    "km": {
+      "official": "ព័រតូរីកូ",
+      "common": "ព័រតូរីកូ"
+    },
+    "rw": {
+      "official": "Puwerito Riko",
+      "common": "Puwerito Riko"
+    },
+    "ko": {
+      "official": "푸에르토리코",
+      "common": "푸에르토리코"
+    },
+    "ku": {
+      "official": "Porto Rîko",
+      "common": "Porto Rîko"
+    },
+    "lv": {
+      "official": "Puertoriko",
+      "common": "Puertoriko"
+    },
+    "lt": {
+      "official": "Puerto Rikas",
+      "common": "Puerto Rikas"
+    },
+    "mk": {
+      "official": "Пуерто Рико",
+      "common": "Пуерто Рико"
+    },
+    "ml": {
+      "official": "പ്യൂര്‍ട്ടോ റികോ",
+      "common": "പ്യൂര്‍ട്ടോ റികോ"
+    },
+    "mi": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "mr": {
+      "official": "प्युर्टो रिको",
+      "common": "प्युर्टो रिको"
+    },
+    "ms": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "mt": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "mn": {
+      "official": "Пуерто рико",
+      "common": "Пуерто рико"
+    },
+    "ne": {
+      "official": "पुरटोरिको",
+      "common": "पुरटोरिको"
+    },
+    "nn": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "nb": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "oc": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "or": {
+      "official": "ପ୍ଯୂରେଟୋ ରିକୋ",
+      "common": "ପ୍ଯୂରେଟୋ ରିକୋ"
+    },
+    "pa": {
+      "official": "ਪੁਈਰਟੋ ਰੀਸੋ",
+      "common": "ਪੁਈਰਟੋ ਰੀਸੋ"
+    },
+    "fa": {
+      "official": "پورتو ریکو",
+      "common": "پورتو ریکو"
+    },
+    "pl": {
+      "official": "Portoryko",
+      "common": "Portoryko"
+    },
+    "pt": {
+      "official": "Porto Rico",
+      "common": "Porto Rico"
+    },
+    "ps": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "ro": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "ru": {
+      "official": "Пуэрто-Рико",
+      "common": "Пуэрто-Рико"
+    },
+    "si": {
+      "official": "පුවටෝ රිකෝව",
+      "common": "පුවටෝ රිකෝව"
+    },
+    "sk": {
+      "official": "Portoriko",
+      "common": "Portoriko"
+    },
+    "sl": {
+      "official": "Portoriko",
+      "common": "Portoriko"
+    },
+    "so": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "es": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "sr": {
+      "official": "Порторико",
+      "common": "Порторико"
+    },
+    "sw": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "sv": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "ta": {
+      "official": "போர்ட்டோ ரீக்கோ",
+      "common": "போர்ட்டோ ரீக்கோ"
+    },
+    "tt": {
+      "official": "Пуерто Рико",
+      "common": "Пуерто Рико"
+    },
+    "te": {
+      "official": "ప్యుర్టో రికో",
+      "common": "ప్యుర్టో రికో"
+    },
+    "tl": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "th": {
+      "official": "เปอร์โตริโก",
+      "common": "เปอร์โตริโก"
+    },
+    "ti": {
+      "official": "ፖርታ ሪኮ",
+      "common": "ፖርታ ሪኮ"
+    },
+    "tk": {
+      "official": "Puerto-Riko",
+      "common": "Puerto-Riko"
+    },
+    "tr": {
+      "official": "Porto Riko",
+      "common": "Porto Riko"
+    },
+    "ug": {
+      "official": "پۇئېرتو-رىكو",
+      "common": "پۇئېرتو-رىكو"
+    },
+    "uk": {
+      "official": "Пуерто-Рико",
+      "common": "Пуерто-Рико"
+    },
+    "ve": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "vi": {
+      "official": "Pu-éc-thô Ri-cô",
+      "common": "Pu-éc-thô Ri-cô"
+    },
+    "cy": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "wa": {
+      "official": "Porto Rico",
+      "common": "Porto Rico"
+    },
+    "wo": {
+      "official": "Poorto Riiko",
+      "common": "Poorto Riiko"
+    },
+    "xh": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "zu": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    }
+  }
+}

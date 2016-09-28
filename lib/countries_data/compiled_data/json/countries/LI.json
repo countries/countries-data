@@ -1,0 +1,437 @@
+{
+  "continent": "Europe",
+  "alpha2": "LI",
+  "alpha3": "LIE",
+  "country_code": "423",
+  "international_prefix": "00",
+  "ioc": "LIE",
+  "gec": "LS",
+  "name": "Liechtenstein",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7
+  ],
+  "national_prefix": "None",
+  "number": "438",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "world_region": "EMEA",
+  "un_locode": "LI",
+  "nationality": "Liechtensteiner",
+  "eea_member": true,
+  "postal_code": true,
+  "unofficial_names": [
+    "Liechtenstein",
+    "リヒテンシュタイン"
+  ],
+  "languages_official": [
+    "de"
+  ],
+  "languages_spoken": [
+    "de"
+  ],
+  "geo": {
+    "latitude": 47.166,
+    "latitude_dec": "47.14126968383789",
+    "longitude": 9.555373,
+    "longitude_dec": "9.552783012390137",
+    "max_latitude": 47.2705467,
+    "max_longitude": 9.6356501,
+    "min_latitude": 47.0482899,
+    "min_longitude": 9.47162,
+    "bounds": {
+      "northeast": {
+        "lat": 47.2705467,
+        "lng": 9.6356501
+      },
+      "southwest": {
+        "lat": 47.0482899,
+        "lng": 9.47162
+      }
+    }
+  },
+  "currency_code": "CHF",
+  "postal_address_data": {
+    "postprefix": "FL-",
+    "zipex": "9496,9491,9490,9485",
+    "name": "LIECHTENSTEIN",
+    "zip": "948[5-9]|949[0-7]",
+    "require": "ACZ",
+    "id": "data/LI",
+    "key": "LI",
+    "posturl": "http://www.post.ch/db/owa/pv_plz_pack/pr_main",
+    "fmt": "%O%n%N%n%A%nFL-%Z %C"
+  },
+  "translations": {
+    "af": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "sq": {
+      "official": "Lihtenshtejni",
+      "common": "Lihtenshtejni"
+    },
+    "am": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "ar": {
+      "official": "ليشتنشتاين",
+      "common": "ليشتنشتاين"
+    },
+    "hy": {
+      "official": "Լիխտենշտեյն",
+      "common": "Լիխտենշտեյն"
+    },
+    "as": {
+      "official": "লাইচেষ্টেইন",
+      "common": "লাইচেষ্টেইন"
+    },
+    "az": {
+      "official": "Lixtenşteyn",
+      "common": "Lixtenşteyn"
+    },
+    "eu": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "be": {
+      "official": "Ліхтэнштэйн",
+      "common": "Ліхтэнштэйн"
+    },
+    "bn": {
+      "official": "লিখতেনস্টাইন",
+      "common": "লিখতেনস্টাইন"
+    },
+    "bs": {
+      "official": "Lihtenštajn",
+      "common": "Lihtenštajn"
+    },
+    "br": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "bg": {
+      "official": "Лихтенщайн",
+      "common": "Лихтенщайн"
+    },
+    "ca": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "zh": {
+      "official": "列支敦士登",
+      "common": "列支敦士登"
+    },
+    "cs": {
+      "official": "Lichtenštejnsko",
+      "common": "Lichtenštejnsko"
+    },
+    "da": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "nl": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "dz": {
+      "official": "ལིཆི་ཊེནསི་ཊིན།",
+      "common": "ལིཆི་ཊེནསི་ཊིན།"
+    },
+    "en": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "eo": {
+      "official": "Liĥtenŝtejno",
+      "common": "Liĥtenŝtejno"
+    },
+    "et": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "fo": {
+      "official": "Liktenstein",
+      "common": "Liktenstein"
+    },
+    "fi": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "fr": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "ka": {
+      "official": "ლიხტენშტეინი",
+      "common": "ლიხტენშტეინი"
+    },
+    "de": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "ga": {
+      "official": "Lichtinstéin",
+      "common": "Lichtinstéin"
+    },
+    "gl": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "el": {
+      "official": "Λιχτενστάιν",
+      "common": "Λιχτενστάιν"
+    },
+    "gu": {
+      "official": "લીચટેન્સટાઇન",
+      "common": "લીચટેન્સટાઇન"
+    },
+    "he": {
+      "official": "ליכטנשטיין",
+      "common": "ליכטנשטיין"
+    },
+    "hi": {
+      "official": "लीखटेन्सटीन",
+      "common": "लीखटेन्सटीन"
+    },
+    "hr": {
+      "official": "Lihtenštajn",
+      "common": "Lihtenštajn"
+    },
+    "hu": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "is": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "ia": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "id": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "it": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "ja": {
+      "official": "リヒテンシュタイン",
+      "common": "リヒテンシュタイン"
+    },
+    "kn": {
+      "official": "ಲೆಷ್ಟೆಂಸ್ಟೆನ್",
+      "common": "ಲೆಷ್ಟೆಂಸ್ಟೆನ್"
+    },
+    "kk": {
+      "official": "Лихтенштейн",
+      "common": "Лихтенштейн"
+    },
+    "km": {
+      "official": "លិចទេនស្តែន",
+      "common": "លិចទេនស្តែន"
+    },
+    "rw": {
+      "official": "Liyeshitensiteyine",
+      "common": "Liyeshitensiteyine"
+    },
+    "ko": {
+      "official": "리히텐슈타인",
+      "common": "리히텐슈타인"
+    },
+    "ku": {
+      "official": "Lihtenstayn",
+      "common": "Lihtenstayn"
+    },
+    "lv": {
+      "official": "Lihtenšteina",
+      "common": "Lihtenšteina"
+    },
+    "lt": {
+      "official": "Lichtenšteinas",
+      "common": "Lichtenšteinas"
+    },
+    "mk": {
+      "official": "Линхештајн",
+      "common": "Линхештајн"
+    },
+    "ml": {
+      "official": "ലിചെസ്റ്റൈന്‍",
+      "common": "ലിചെസ്റ്റൈന്‍"
+    },
+    "mi": {
+      "official": "Rīkeneteina",
+      "common": "Rīkeneteina"
+    },
+    "mr": {
+      "official": "लायकेनस्टिन",
+      "common": "लायकेनस्टिन"
+    },
+    "ms": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "mt": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "mn": {
+      "official": "Лейхтенштайн",
+      "common": "Лейхтенштайн"
+    },
+    "ne": {
+      "official": "लिचटेन्सटाइन",
+      "common": "लिचटेन्सटाइन"
+    },
+    "nn": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "nb": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "oc": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "or": {
+      "official": "ଲିଚେଂଷ୍ଟାଇନ",
+      "common": "ଲିଚେଂଷ୍ଟାଇନ"
+    },
+    "pa": {
+      "official": "ਲੀਚਟੀਨੀਆ",
+      "common": "ਲੀਚਟੀਨੀਆ"
+    },
+    "fa": {
+      "official": "لیختن‌اشتاین",
+      "common": "لیختن‌اشتاین"
+    },
+    "pl": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "pt": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "ps": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "ro": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "ru": {
+      "official": "Лихтенштейн",
+      "common": "Лихтенштейн"
+    },
+    "si": {
+      "official": "ලිච්ටෙන්ස්ටයින්",
+      "common": "ලිච්ටෙන්ස්ටයින්"
+    },
+    "sk": {
+      "official": "Lichtenštajnsko",
+      "common": "Lichtenštajnsko"
+    },
+    "sl": {
+      "official": "Lihtenštajn",
+      "common": "Lihtenštajn"
+    },
+    "so": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "es": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "sr": {
+      "official": "Лихтенштајн",
+      "common": "Лихтенштајн"
+    },
+    "sw": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "sv": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "ta": {
+      "official": "லீச்சென்சுதீன்",
+      "common": "லீச்சென்சுதீன்"
+    },
+    "tt": {
+      "official": "Лиһтенстеин",
+      "common": "Лиһтенстеин"
+    },
+    "te": {
+      "official": "లాయకేనస్టిన",
+      "common": "లాయకేనస్టిన"
+    },
+    "tl": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "th": {
+      "official": "ลิกเตนสไตน์",
+      "common": "ลิกเตนสไตน์"
+    },
+    "ti": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "tk": {
+      "official": "Lihtenşteýn",
+      "common": "Lihtenşteýn"
+    },
+    "tr": {
+      "official": "Lihtenştayn",
+      "common": "Lihtenştayn"
+    },
+    "ug": {
+      "official": "لىچتېنشتېين",
+      "common": "لىچتېنشتېين"
+    },
+    "uk": {
+      "official": "Ліхтенштейн",
+      "common": "Ліхтенштейн"
+    },
+    "ve": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "vi": {
+      "official": "Likh-ten-xtainh",
+      "common": "Likh-ten-xtainh"
+    },
+    "cy": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "wa": {
+      "official": "Lîchtensteyn",
+      "common": "Lîchtensteyn"
+    },
+    "wo": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "xh": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "zu": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    }
+  }
+}

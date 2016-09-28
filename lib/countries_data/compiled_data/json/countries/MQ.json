@@ -1,0 +1,437 @@
+{
+  "continent": "North America",
+  "alpha2": "MQ",
+  "alpha3": "MTQ",
+  "country_code": "596",
+  "international_prefix": "00",
+  "ioc": null,
+  "gec": "MB",
+  "name": "Martinique",
+  "national_destination_code_lengths": [
+    3
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "None",
+  "number": "474",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "AMER",
+  "un_locode": "MQ",
+  "nationality": "French",
+  "postal_code": true,
+  "unofficial_names": [
+    "Martinique",
+    "Martinica",
+    "マルティニーク"
+  ],
+  "languages_official": [
+    "fr"
+  ],
+  "languages_spoken": [
+    "fr"
+  ],
+  "geo": {
+    "latitude": 14.641528,
+    "latitude_dec": "14.642807960510254",
+    "longitude": -61.024174,
+    "longitude_dec": "-60.97755432128906",
+    "max_latitude": 14.8787163,
+    "max_longitude": -60.8105279,
+    "min_latitude": 14.3886471,
+    "min_longitude": -61.2291178,
+    "bounds": {
+      "northeast": {
+        "lat": 14.8787163,
+        "lng": -60.8105279
+      },
+      "southwest": {
+        "lat": 14.3886471,
+        "lng": -61.2291178
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "key": "MQ",
+    "upper": "ACX",
+    "zipex": "97220",
+    "name": "MARTINIQUE",
+    "zip": "9[78]2\\d{2}",
+    "require": "ACZ",
+    "id": "data/MQ",
+    "posturl": "http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal",
+    "fmt": "%O%n%N%n%A%n%Z %C %X"
+  },
+  "translations": {
+    "af": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "sq": {
+      "official": "Martinika",
+      "common": "Martinika"
+    },
+    "am": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "ar": {
+      "official": "مارتينيك",
+      "common": "مارتينيك"
+    },
+    "hy": {
+      "official": "Մարտինիկա",
+      "common": "Մարտինիկա"
+    },
+    "as": {
+      "official": "মাৰ্টিনিক",
+      "common": "মাৰ্টিনিক"
+    },
+    "az": {
+      "official": "Martiniq",
+      "common": "Martiniq"
+    },
+    "eu": {
+      "official": "Martinika",
+      "common": "Martinika"
+    },
+    "be": {
+      "official": "Марцініка",
+      "common": "Марцініка"
+    },
+    "bn": {
+      "official": "মার্টিনিক",
+      "common": "মার্টিনিক"
+    },
+    "bs": {
+      "official": "Martinik",
+      "common": "Martinik"
+    },
+    "br": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "bg": {
+      "official": "Мартиника",
+      "common": "Мартиника"
+    },
+    "ca": {
+      "official": "Martinica",
+      "common": "Martinica"
+    },
+    "zh": {
+      "official": "马提尼克",
+      "common": "马提尼克"
+    },
+    "cs": {
+      "official": "Martinik",
+      "common": "Martinik"
+    },
+    "da": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "nl": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "dz": {
+      "official": "མར་ཊི་ནིཀ།",
+      "common": "མར་ཊི་ནིཀ།"
+    },
+    "en": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "eo": {
+      "official": "Martiniko",
+      "common": "Martiniko"
+    },
+    "et": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "fo": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "fi": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "fr": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "ka": {
+      "official": "მარტინიკი",
+      "common": "მარტინიკი"
+    },
+    "de": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "ga": {
+      "official": "Martainíc",
+      "common": "Martainíc"
+    },
+    "gl": {
+      "official": "Martinica",
+      "common": "Martinica"
+    },
+    "el": {
+      "official": "Μαρτινίκα",
+      "common": "Μαρτινίκα"
+    },
+    "gu": {
+      "official": "માર્ટિનિક",
+      "common": "માર્ટિનિક"
+    },
+    "he": {
+      "official": "מרטיניק",
+      "common": "מרטיניק"
+    },
+    "hi": {
+      "official": "मार्टिनिक",
+      "common": "मार्टिनिक"
+    },
+    "hr": {
+      "official": "Martinik",
+      "common": "Martinik"
+    },
+    "hu": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "is": {
+      "official": "Martiník",
+      "common": "Martiník"
+    },
+    "ia": {
+      "official": "Martinica",
+      "common": "Martinica"
+    },
+    "id": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "it": {
+      "official": "Martinica",
+      "common": "Martinica"
+    },
+    "ja": {
+      "official": "マルティニーク",
+      "common": "マルティニーク"
+    },
+    "kn": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "kk": {
+      "official": "Мартиника",
+      "common": "Мартиника"
+    },
+    "km": {
+      "official": "ម៉ារទីនីគ",
+      "common": "ម៉ារទីនីគ"
+    },
+    "rw": {
+      "official": "Maritike",
+      "common": "Maritike"
+    },
+    "ko": {
+      "official": "마르띠니크",
+      "common": "마르띠니크"
+    },
+    "ku": {
+      "official": "Martinîk",
+      "common": "Martinîk"
+    },
+    "lv": {
+      "official": "Martinika",
+      "common": "Martinika"
+    },
+    "lt": {
+      "official": "Martinika",
+      "common": "Martinika"
+    },
+    "mk": {
+      "official": "Мартиник",
+      "common": "Мартиник"
+    },
+    "ml": {
+      "official": "മാര്‍ട്ടിനിക്ക്",
+      "common": "മാര്‍ട്ടിനിക്ക്"
+    },
+    "mi": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "mr": {
+      "official": "मार्टिनिक",
+      "common": "मार्टिनिक"
+    },
+    "ms": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "mt": {
+      "official": "Martinik",
+      "common": "Martinik"
+    },
+    "mn": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "ne": {
+      "official": "मार्टिनिक",
+      "common": "मार्टिनिक"
+    },
+    "nn": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "nb": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "oc": {
+      "official": "Martinica",
+      "common": "Martinica"
+    },
+    "or": {
+      "official": "ମାର୍ଟିନୀକ",
+      "common": "ମାର୍ଟିନୀକ"
+    },
+    "pa": {
+      "official": "ਮਾਰਟੀਨੀਕਿਊ",
+      "common": "ਮਾਰਟੀਨੀਕਿਊ"
+    },
+    "fa": {
+      "official": "مارتینیک",
+      "common": "مارتینیک"
+    },
+    "pl": {
+      "official": "Martynika",
+      "common": "Martynika"
+    },
+    "pt": {
+      "official": "Martinica",
+      "common": "Martinica"
+    },
+    "ps": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "ro": {
+      "official": "Martinica",
+      "common": "Martinica"
+    },
+    "ru": {
+      "official": "Мартиника",
+      "common": "Мартиника"
+    },
+    "si": {
+      "official": "මාටිනිකි",
+      "common": "මාටිනිකි"
+    },
+    "sk": {
+      "official": "Martinik",
+      "common": "Martinik"
+    },
+    "sl": {
+      "official": "Martinik",
+      "common": "Martinik"
+    },
+    "so": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "es": {
+      "official": "Martinica",
+      "common": "Martinica"
+    },
+    "sr": {
+      "official": "Мартиник",
+      "common": "Мартиник"
+    },
+    "sw": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "sv": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "ta": {
+      "official": "மார்டினீக்கு",
+      "common": "மார்டினீக்கு"
+    },
+    "tt": {
+      "official": "Мартиник",
+      "common": "Мартиник"
+    },
+    "te": {
+      "official": "మార్టినిక్",
+      "common": "మార్టినిక్"
+    },
+    "tl": {
+      "official": "Martiniko",
+      "common": "Martiniko"
+    },
+    "th": {
+      "official": "มาร์ตินีก",
+      "common": "มาร์ตินีก"
+    },
+    "ti": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "tk": {
+      "official": "Martinika",
+      "common": "Martinika"
+    },
+    "tr": {
+      "official": "Martinik",
+      "common": "Martinik"
+    },
+    "ug": {
+      "official": "مارتىنىكا",
+      "common": "مارتىنىكا"
+    },
+    "uk": {
+      "official": "Мартиніка",
+      "common": "Мартиніка"
+    },
+    "ve": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "vi": {
+      "official": "Ma-thi-ni-khợ",
+      "common": "Ma-thi-ni-khợ"
+    },
+    "cy": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "wa": {
+      "official": "Martinike",
+      "common": "Martinike"
+    },
+    "wo": {
+      "official": "Martinik",
+      "common": "Martinik"
+    },
+    "xh": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "zu": {
+      "official": "Martinique",
+      "common": "Martinique"
+    }
+  }
+}

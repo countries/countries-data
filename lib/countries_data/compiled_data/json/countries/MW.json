@@ -1,0 +1,433 @@
+{
+  "continent": "Africa",
+  "alpha2": "MW",
+  "alpha3": "MWI",
+  "country_code": "265",
+  "international_prefix": "00",
+  "ioc": "MAW",
+  "gec": "MI",
+  "name": "Malawi",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "None",
+  "number": "454",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "world_region": "EMEA",
+  "un_locode": "MW",
+  "nationality": "Malawian",
+  "postal_code": false,
+  "unofficial_names": [
+    "Malawi",
+    "マラウイ"
+  ],
+  "languages_official": [
+    "en",
+    "ny"
+  ],
+  "languages_spoken": [
+    "en",
+    "ny"
+  ],
+  "geo": {
+    "latitude": -13.254308,
+    "latitude_dec": "-13.523577690124512",
+    "longitude": 34.301525,
+    "longitude_dec": "33.83546447753906",
+    "max_latitude": -9.367227399999999,
+    "max_longitude": 35.91857299999999,
+    "min_latitude": -17.1295217,
+    "min_longitude": 32.6725205,
+    "bounds": {
+      "northeast": {
+        "lat": -9.367227399999999,
+        "lng": 35.91857299999999
+      },
+      "southwest": {
+        "lat": -17.1295217,
+        "lng": 32.6725205
+      }
+    }
+  },
+  "currency_code": "MWK",
+  "postal_address_data": {
+    "fmt": "%N%n%O%n%A%n%C %X",
+    "id": "data/MW",
+    "key": "MW",
+    "name": "MALAWI"
+  },
+  "translations": {
+    "af": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "sq": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "am": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "ar": {
+      "official": "ملاوي",
+      "common": "ملاوي"
+    },
+    "hy": {
+      "official": "Մալավի",
+      "common": "Մալավի"
+    },
+    "as": {
+      "official": "মালাৱী",
+      "common": "মালাৱী"
+    },
+    "az": {
+      "official": "Malavi",
+      "common": "Malavi"
+    },
+    "eu": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "be": {
+      "official": "Малаві",
+      "common": "Малаві"
+    },
+    "bn": {
+      "official": "মালাউই",
+      "common": "মালাউই"
+    },
+    "bs": {
+      "official": "Malavi",
+      "common": "Malavi"
+    },
+    "br": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "bg": {
+      "official": "Малави",
+      "common": "Малави"
+    },
+    "ca": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "zh": {
+      "official": "马拉维",
+      "common": "马拉维"
+    },
+    "cs": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "da": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "nl": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "dz": {
+      "official": "མ་ལ་ཝི།",
+      "common": "མ་ལ་ཝི།"
+    },
+    "en": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "eo": {
+      "official": "Malavio",
+      "common": "Malavio"
+    },
+    "et": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "fo": {
+      "official": "Malavi",
+      "common": "Malavi"
+    },
+    "fi": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "fr": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "ka": {
+      "official": "მალავი",
+      "common": "მალავი"
+    },
+    "de": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "ga": {
+      "official": "An Mhaláiv",
+      "common": "An Mhaláiv"
+    },
+    "gl": {
+      "official": "Malaui",
+      "common": "Malaui"
+    },
+    "el": {
+      "official": "Μαλάουι",
+      "common": "Μαλάουι"
+    },
+    "gu": {
+      "official": "માલાવી",
+      "common": "માલાવી"
+    },
+    "he": {
+      "official": "מלאוי",
+      "common": "מלאוי"
+    },
+    "hi": {
+      "official": "मलावी",
+      "common": "मलावी"
+    },
+    "hr": {
+      "official": "Malavi",
+      "common": "Malavi"
+    },
+    "hu": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "is": {
+      "official": "Malaví",
+      "common": "Malaví"
+    },
+    "ia": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "id": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "it": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "ja": {
+      "official": "マラウイ",
+      "common": "マラウイ"
+    },
+    "kn": {
+      "official": "ಮಲಾವಿ",
+      "common": "ಮಲಾವಿ"
+    },
+    "kk": {
+      "official": "Малави",
+      "common": "Малави"
+    },
+    "km": {
+      "official": "ម៉ាឡាវី",
+      "common": "ម៉ាឡាវី"
+    },
+    "rw": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "ko": {
+      "official": "말라위",
+      "common": "말라위"
+    },
+    "ku": {
+      "official": "Malawî",
+      "common": "Malawî"
+    },
+    "lv": {
+      "official": "Malāvija",
+      "common": "Malāvija"
+    },
+    "lt": {
+      "official": "Malavis",
+      "common": "Malavis"
+    },
+    "mk": {
+      "official": "Малави",
+      "common": "Малави"
+    },
+    "ml": {
+      "official": "മലാവി",
+      "common": "മലാവി"
+    },
+    "mi": {
+      "official": "Marāwi",
+      "common": "Marāwi"
+    },
+    "mr": {
+      "official": "मलवी",
+      "common": "मलवी"
+    },
+    "ms": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "mt": {
+      "official": "Malta",
+      "common": "Malta"
+    },
+    "mn": {
+      "official": "Малави",
+      "common": "Малави"
+    },
+    "ne": {
+      "official": "मालावी",
+      "common": "मालावी"
+    },
+    "nn": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "nb": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "oc": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "or": {
+      "official": "ମାଲାଓ୍ବି",
+      "common": "ମାଲାଓ୍ବି"
+    },
+    "pa": {
+      "official": "ਮਾਲਾਵੀਆ",
+      "common": "ਮਾਲਾਵੀਆ"
+    },
+    "fa": {
+      "official": "مالاوی",
+      "common": "مالاوی"
+    },
+    "pl": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "pt": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "ps": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "ro": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "ru": {
+      "official": "Малави",
+      "common": "Малави"
+    },
+    "si": {
+      "official": "මලාවි",
+      "common": "මලාවි"
+    },
+    "sk": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "sl": {
+      "official": "Malavi",
+      "common": "Malavi"
+    },
+    "so": {
+      "official": "Malaawi",
+      "common": "Malaawi"
+    },
+    "es": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "sr": {
+      "official": "Малави",
+      "common": "Малави"
+    },
+    "sw": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "sv": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "ta": {
+      "official": "மலாவி",
+      "common": "மலாவி"
+    },
+    "tt": {
+      "official": "Малави",
+      "common": "Малави"
+    },
+    "te": {
+      "official": "మలవీ",
+      "common": "మలవీ"
+    },
+    "tl": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "th": {
+      "official": "มาลาวี",
+      "common": "มาลาวี"
+    },
+    "ti": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "tk": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "tr": {
+      "official": "Malavi",
+      "common": "Malavi"
+    },
+    "ug": {
+      "official": "مالاۋى",
+      "common": "مالاۋى"
+    },
+    "uk": {
+      "official": "Малаві",
+      "common": "Малаві"
+    },
+    "ve": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "vi": {
+      "official": "Ma-la-uy",
+      "common": "Ma-la-uy"
+    },
+    "cy": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "wa": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "wo": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "xh": {
+      "official": "Malta",
+      "common": "Malta"
+    },
+    "zu": {
+      "official": "I-Malta",
+      "common": "I-Malta"
+    }
+  }
+}

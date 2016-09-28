@@ -1,0 +1,430 @@
+{
+  "continent": "Africa",
+  "alpha2": "ML",
+  "alpha3": "MLI",
+  "country_code": "223",
+  "international_prefix": "00",
+  "ioc": "MLI",
+  "gec": "ML",
+  "name": "Mali",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "0",
+  "number": "466",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "world_region": "EMEA",
+  "un_locode": "ML",
+  "nationality": "Malian",
+  "postal_code": false,
+  "unofficial_names": [
+    "Mali",
+    "マリ"
+  ],
+  "languages_official": [
+    "fr"
+  ],
+  "languages_spoken": [
+    "fr"
+  ],
+  "geo": {
+    "latitude": 17.570692,
+    "latitude_dec": "17.35776710510254",
+    "longitude": -3.996166,
+    "longitude_dec": "-3.5273818969726562",
+    "max_latitude": 25.001084,
+    "max_longitude": 4.2673827,
+    "min_latitude": 10.1478109,
+    "min_longitude": -12.238885,
+    "bounds": {
+      "northeast": {
+        "lat": 25.001084,
+        "lng": 4.2673827
+      },
+      "southwest": {
+        "lat": 10.1478109,
+        "lng": -12.238885
+      }
+    }
+  },
+  "currency_code": "XOF",
+  "postal_address_data": {
+    "id": "data/ML",
+    "key": "ML",
+    "name": "MALI"
+  },
+  "translations": {
+    "af": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "sq": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "am": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "ar": {
+      "official": "مالي",
+      "common": "مالي"
+    },
+    "hy": {
+      "official": "Մալի",
+      "common": "Մալի"
+    },
+    "as": {
+      "official": "মালি",
+      "common": "মালি"
+    },
+    "az": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "eu": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "be": {
+      "official": "Малі",
+      "common": "Малі"
+    },
+    "bn": {
+      "official": "মালি",
+      "common": "মালি"
+    },
+    "bs": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "br": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "bg": {
+      "official": "Мали",
+      "common": "Мали"
+    },
+    "ca": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "zh": {
+      "official": "马里",
+      "common": "马里"
+    },
+    "cs": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "da": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "nl": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "dz": {
+      "official": "མ་ལི།",
+      "common": "མ་ལི།"
+    },
+    "en": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "eo": {
+      "official": "Malio",
+      "common": "Malio"
+    },
+    "et": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "fo": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "fi": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "fr": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "ka": {
+      "official": "მალი",
+      "common": "მალი"
+    },
+    "de": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "ga": {
+      "official": "Mailí",
+      "common": "Mailí"
+    },
+    "gl": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "el": {
+      "official": "Μάλι",
+      "common": "Μάλι"
+    },
+    "gu": {
+      "official": "માલી",
+      "common": "માલી"
+    },
+    "he": {
+      "official": "מלי",
+      "common": "מלי"
+    },
+    "hi": {
+      "official": "माली",
+      "common": "माली"
+    },
+    "hr": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "hu": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "is": {
+      "official": "Malí",
+      "common": "Malí"
+    },
+    "ia": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "id": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "it": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "ja": {
+      "official": "マリ",
+      "common": "マリ"
+    },
+    "kn": {
+      "official": "ಮಾಲಿ",
+      "common": "ಮಾಲಿ"
+    },
+    "kk": {
+      "official": "Мали",
+      "common": "Мали"
+    },
+    "km": {
+      "official": "ម៉ាលី",
+      "common": "ម៉ាលី"
+    },
+    "rw": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "ko": {
+      "official": "말리",
+      "common": "말리"
+    },
+    "ku": {
+      "official": "Malî",
+      "common": "Malî"
+    },
+    "lv": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "lt": {
+      "official": "Malis",
+      "common": "Malis"
+    },
+    "mk": {
+      "official": "Мали",
+      "common": "Мали"
+    },
+    "ml": {
+      "official": "മാലി",
+      "common": "മാലി"
+    },
+    "mi": {
+      "official": "Māri",
+      "common": "Māri"
+    },
+    "mr": {
+      "official": "माली",
+      "common": "माली"
+    },
+    "ms": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "mt": {
+      "official": "Malta",
+      "common": "Malta"
+    },
+    "mn": {
+      "official": "Мали",
+      "common": "Мали"
+    },
+    "ne": {
+      "official": "माली",
+      "common": "माली"
+    },
+    "nn": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "nb": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "oc": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "or": {
+      "official": "ମାଲୀ",
+      "common": "ମାଲୀ"
+    },
+    "pa": {
+      "official": "ਮਾਲੀ",
+      "common": "ਮਾਲੀ"
+    },
+    "fa": {
+      "official": "مالی",
+      "common": "مالی"
+    },
+    "pl": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "pt": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "ps": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "ro": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "ru": {
+      "official": "Мали",
+      "common": "Мали"
+    },
+    "si": {
+      "official": "මාලි",
+      "common": "මාලි"
+    },
+    "sk": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "sl": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "so": {
+      "official": "Maali",
+      "common": "Maali"
+    },
+    "es": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "sr": {
+      "official": "Мали",
+      "common": "Мали"
+    },
+    "sw": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "sv": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "ta": {
+      "official": "மாலி",
+      "common": "மாலி"
+    },
+    "tt": {
+      "official": "Мали",
+      "common": "Мали"
+    },
+    "te": {
+      "official": "माली",
+      "common": "माली"
+    },
+    "tl": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "th": {
+      "official": "มาลี",
+      "common": "มาลี"
+    },
+    "ti": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "tk": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "tr": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "ug": {
+      "official": "مالى",
+      "common": "مالى"
+    },
+    "uk": {
+      "official": "Малі",
+      "common": "Малі"
+    },
+    "ve": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "vi": {
+      "official": "Ma-li",
+      "common": "Ma-li"
+    },
+    "cy": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "wa": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "wo": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "xh": {
+      "official": "Malta",
+      "common": "Malta"
+    },
+    "zu": {
+      "official": "I-Malta",
+      "common": "I-Malta"
+    }
+  }
+}

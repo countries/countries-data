@@ -1,0 +1,340 @@
+---
+continent: Asia
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: LB
+alpha3: LBN
+country_code: '961'
+international_prefix: '00'
+ioc: LIB
+gec: LE
+name: Lebanon
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: '0'
+number: '422'
+region: Asia
+subregion: Western Asia
+world_region: EMEA
+un_locode: LB
+nationality: Lebanese
+postal_code: true
+unofficial_names:
+- Lebanon
+- لبنان
+- Libanon
+- Liban
+- Líbano
+- レバノン
+languages_official:
+- ar
+- fr
+languages_spoken:
+- ar
+- fr
+geo:
+  latitude: 33.854721
+  latitude_dec: '33.925411224365234'
+  longitude: 35.862285
+  longitude_dec: '35.89972686767578'
+  max_latitude: 34.69209
+  max_longitude: 36.62372
+  min_latitude: 33.0550256
+  min_longitude: 35.103778
+  bounds:
+    northeast:
+      lat: 34.69209
+      lng: 36.62372
+    southwest:
+      lat: 33.0550256
+      lng: 35.103778
+currency_code: LBP
+postal_address_data:
+  zipex: 2038 3054,1107 2810,1000
+  name: LEBANON
+  zip: "(?:\\d{4})(?: ?(?:\\d{4}))?"
+  fmt: "%N%n%O%n%A%n%C %Z"
+  key: LB
+  id: data/LB
+translations:
+  af:
+    official: Libanon
+    common: Libanon
+  sq:
+    official: Libani
+    common: Libani
+  am:
+    official: ሑባኖስ
+    common: ሑባኖስ
+  ar:
+    official: لبنان
+    common: لبنان
+  hy:
+    official: Լիբանան
+    common: Լիբանան
+  as:
+    official: লেবানন
+    common: লেবানন
+  az:
+    official: Livan
+    common: Livan
+  eu:
+    official: Libano
+    common: Libano
+  be:
+    official: Ліван
+    common: Ліван
+  bn:
+    official: লেবানন
+    common: লেবানন
+  bs:
+    official: Liban
+    common: Liban
+  br:
+    official: Lebanon
+    common: Lebanon
+  bg:
+    official: Лебанон
+    common: Лебанон
+  ca:
+    official: Líban
+    common: Líban
+  zh:
+    official: 黎巴嫩
+    common: 黎巴嫩
+  cs:
+    official: Libanon
+    common: Libanon
+  da:
+    official: Libanon
+    common: Libanon
+  nl:
+    official: Libanon
+    common: Libanon
+  dz:
+    official: ལེ་བ་ནཱོན།
+    common: ལེ་བ་ནཱོན།
+  en:
+    official: Lebanon
+    common: Lebanon
+  eo:
+    official: Libano
+    common: Libano
+  et:
+    official: Liibanon
+    common: Liibanon
+  fo:
+    official: Libanon
+    common: Libanon
+  fi:
+    official: Libanon
+    common: Libanon
+  fr:
+    official: Liban
+    common: Liban
+  ka:
+    official: ლიბანი
+    common: ლიბანი
+  de:
+    official: Libanon
+    common: Libanon
+  ga:
+    official: An Liobáin
+    common: An Liobáin
+  gl:
+    official: Líbano
+    common: Líbano
+  el:
+    official: Λίβανος
+    common: Λίβανος
+  gu:
+    official: લેબેનોન
+    common: લેબેનોન
+  he:
+    official: לבנון
+    common: לבנון
+  hi:
+    official: लेबनान
+    common: लेबनान
+  hr:
+    official: Libanon
+    common: Libanon
+  hu:
+    official: Libanon
+    common: Libanon
+  is:
+    official: Líbanon
+    common: Líbanon
+  ia:
+    official: Libano
+    common: Libano
+  id:
+    official: Libanon
+    common: Libanon
+  it:
+    official: Libano
+    common: Libano
+  ja:
+    official: レバノン
+    common: レバノン
+  kn:
+    official: ಲೆಬನನ್
+    common: ಲೆಬನನ್
+  kk:
+    official: Ливан
+    common: Ливан
+  km:
+    official: លីបង់
+    common: លីបង់
+  rw:
+    official: Libani
+    common: Libani
+  ko:
+    official: 레바논
+    common: 레바논
+  ku:
+    official: Lubnan
+    common: Lubnan
+  lv:
+    official: Libāna
+    common: Libāna
+  lt:
+    official: Libanas
+    common: Libanas
+  mk:
+    official: Либан
+    common: Либан
+  ml:
+    official: ലെബനോണ്‍
+    common: ലെബനോണ്‍
+  mi:
+    official: Lebanon
+    common: Lebanon
+  mr:
+    official: लेबेनॉन
+    common: लेबेनॉन
+  ms:
+    official: Lubnan
+    common: Lubnan
+  mt:
+    official: Libanu
+    common: Libanu
+  mn:
+    official: Либони
+    common: Либони
+  ne:
+    official: लेबनान
+    common: लेबनान
+  nn:
+    official: Libanon
+    common: Libanon
+  nb:
+    official: Libanon
+    common: Libanon
+  oc:
+    official: Liban
+    common: Liban
+  or:
+    official: ଲେବାନୋନ
+    common: ଲେବାନୋନ
+  pa:
+    official: ਲੀਬਨਾਨ
+    common: ਲੀਬਨਾਨ
+  fa:
+    official: لبنان
+    common: لبنان
+  pl:
+    official: Liban
+    common: Liban
+  pt:
+    official: Líbano
+    common: Líbano
+  ps:
+    official: لبنان
+    common: لبنان
+  ro:
+    official: Liban
+    common: Liban
+  ru:
+    official: Ливан
+    common: Ливан
+  si:
+    official: ලෙබනන
+    common: ලෙබනන
+  sk:
+    official: Libanon
+    common: Libanon
+  sl:
+    official: Libanon
+    common: Libanon
+  so:
+    official: Lubnaan
+    common: Lubnaan
+  es:
+    official: Líbano
+    common: Líbano
+  sr:
+    official: Либан
+    common: Либан
+  sw:
+    official: Lebanon
+    common: Lebanon
+  sv:
+    official: Libanon
+    common: Libanon
+  ta:
+    official: லெபனான்
+    common: லெபனான்
+  tt:
+    official: Лебанон
+    common: Лебанон
+  te:
+    official: లెబనాన్
+    common: లెబనాన్
+  tl:
+    official: Lebanon
+    common: Lebanon
+  th:
+    official: เลบานอน
+    common: เลบานอน
+  ti:
+    official: ሊባኖስ
+    common: ሊባኖስ
+  tk:
+    official: Liwan
+    common: Liwan
+  tr:
+    official: Lübnan
+    common: Lübnan
+  ug:
+    official: لىۋان
+    common: لىۋان
+  uk:
+    official: Ліван
+    common: Ліван
+  ve:
+    official: Lebanon
+    common: Lebanon
+  vi:
+    official: Le-ba-non
+    common: Le-ba-non
+  cy:
+    official: Lebanon
+    common: Lebanon
+  wa:
+    official: Liban
+    common: Liban
+  wo:
+    official: Libãa
+    common: Libãa
+  xh:
+    official: Lebanon
+    common: Lebanon
+  zu:
+    official: Lebanon
+    common: Lebanon

@@ -1,0 +1,332 @@
+---
+continent: Europe
+alpha2: AX
+alpha3: ALA
+country_code: '358'
+international_prefix: ''
+ioc: 
+gec: 
+name: Åland Islands
+national_destination_code_lengths: []
+national_number_lengths: []
+national_prefix: ''
+number: '248'
+region: Europe
+subregion: Northern Europe
+world_region: EMEA
+un_locode: 
+nationality: Swedish
+postal_code: true
+unofficial_names:
+- Åland Islands
+- Åland
+- オーランド諸島
+- Ålandeilanden
+languages_official:
+- sv
+languages_spoken:
+- sv
+geo:
+  latitude: 60.1785247
+  latitude_dec: '60.2023811340332'
+  longitude: 19.9156105
+  longitude_dec: '19.96520233154297'
+  max_latitude: 60.7411127
+  max_longitude: 21.4858569
+  min_latitude: 59.72722270000001
+  min_longitude: 19.2633195
+  bounds:
+    northeast:
+      lat: 60.7411127
+      lng: 21.4858569
+    southwest:
+      lat: 59.72722270000001
+      lng: 19.2633195
+currency_code: EUR
+postal_address_data:
+  postprefix: AX-
+  zipex: '22150,22550,22240,22710,22270,22730,22430'
+  name: FINLAND
+  zip: 22\d{3}
+  require: ACZ
+  id: data/AX
+  key: AX
+  posturl: http://www.posten.ax/department.con?iPage=123
+  fmt: "%O%n%N%n%A%nAX-%Z %C%nÅLAND"
+translations:
+  af:
+    official: Åland Islands
+    common: Åland Islands
+  sq:
+    official: Ishujt Åland
+    common: Ishujt Åland
+  am:
+    official: Åland Islands
+    common: Åland Islands
+  ar:
+    official: جزر آلاند
+    common: جزر آلاند
+  hy:
+    official: Ալանդյան կղզիներ
+    common: Ալանդյան կղզիներ
+  as:
+    official: আলান্ড দ্বীপপুঞ্জ
+    common: আলান্ড দ্বীপপুঞ্জ
+  az:
+    official: Kayman Adaları
+    common: Kayman Adaları
+  eu:
+    official: Åland uharteak
+    common: Åland uharteak
+  be:
+    official: Астравы Аланд
+    common: Астравы Аланд
+  bn:
+    official: অ্যাল্যান্ড দ্বীপপুঞ্জ
+    common: অ্যাল্যান্ড দ্বীপপুঞ্জ
+  bs:
+    official: Åland Ostrva
+    common: Åland Ostrva
+  br:
+    official: Åland Islands
+    common: Åland Islands
+  bg:
+    official: Аландски острови
+    common: Аландски острови
+  ca:
+    official: Illes Aland
+    common: Illes Aland
+  zh:
+    official: 奥兰群岛
+    common: 奥兰群岛
+  cs:
+    official: Ålandské ostrovy
+    common: Ålandské ostrovy
+  da:
+    official: Åland
+    common: Åland
+  nl:
+    official: Ålandseilanden
+    common: Ålandseilanden
+  dz:
+    official: ཨཱ་ལེནཌི་ མཚོ་གླིང།
+    common: ཨཱ་ལེནཌི་ མཚོ་གླིང།
+  en:
+    official: Åland Islands
+    common: Åland Islands
+  eo:
+    official: Alando
+    common: Alando
+  et:
+    official: Ahvenamaa
+    common: Ahvenamaa
+  fo:
+    official: Åland Islands
+    common: Åland Islands
+  fi:
+    official: Ahvenanmaa
+    common: Ahvenanmaa
+  fr:
+    official: Åland, Îles
+    common: Åland, Îles
+  ka:
+    official: ალანდის კუნძულები
+    common: ალანდის კუნძულები
+  de:
+    official: Åland-Inseln
+    common: Åland-Inseln
+  ga:
+    official: Oileáin Åland
+    common: Oileáin Åland
+  gl:
+    official: Illas Åland
+    common: Illas Åland
+  el:
+    official: Νήσοι Ώλαντ
+    common: Νήσοι Ώλαντ
+  gu:
+    official: અલેન્ડ ટાપુઓ
+    common: અલેન્ડ ટાપુઓ
+  he:
+    official: איי אלנד
+    common: איי אלנד
+  hi:
+    official: एलैन्ड आइलैंड्स
+    common: एलैन्ड आइलैंड्स
+  hr:
+    official: Alandski otoci
+    common: Alandski otoci
+  hu:
+    official: Åland-szigetek
+    common: Åland-szigetek
+  is:
+    official: Álandseyjar
+    common: Álandseyjar
+  ia:
+    official: Insulas Åland
+    common: Insulas Åland
+  id:
+    official: Kepulauan Åland
+    common: Kepulauan Åland
+  it:
+    official: Isole Åland
+    common: Isole Åland
+  ja:
+    official: オーランド諸島
+    common: オーランド諸島
+  kn:
+    official: ಅಲಾಂಡ್ ದ್ವೀಪಗಳು
+    common: ಅಲಾಂಡ್ ದ್ವೀಪಗಳು
+  kk:
+    official: Аланд аралдары
+    common: Аланд аралдары
+  km:
+    official: កោះ​អាឡង់
+    common: កោះ​អាឡង់
+  rw:
+    official: Ibirwa by'Alande
+    common: Ibirwa by'Alande
+  ko:
+    official: 알랜드 제도
+    common: 알랜드 제도
+  ku:
+    official: Giravên Åland
+    common: Giravên Åland
+  lv:
+    official: Olande
+    common: Olande
+  lt:
+    official: Alandai
+    common: Alandai
+  mk:
+    official: Ајланд острови
+    common: Ајланд острови
+  ml:
+    official: ലണ്ട് ദ്വീപുകള്‍
+    common: ലണ്ട് ദ്വീപുകള്‍
+  mi:
+    official: Moutere Aaland
+    common: Moutere Aaland
+  mr:
+    official: अलंद आयलॅंडस्
+    common: अलंद आयलॅंडस्
+  ms:
+    official: Kepulauan Åland
+    common: Kepulauan Åland
+  mt:
+    official: Irlanda
+    common: Irlanda
+  mn:
+    official: Соломоны арлууд
+    common: Соломоны арлууд
+  ne:
+    official: एल्याण्ड टापु
+    common: एल्याण्ड टापु
+  nn:
+    official: Åland
+    common: Åland
+  nb:
+    official: Åland
+    common: Åland
+  oc:
+    official: Irlanda
+    common: Irlanda
+  or:
+    official: ଆଲାଣ୍ଡ ଦ୍ବୀପ
+    common: ଆଲାଣ୍ଡ ଦ୍ବୀପ
+  pa:
+    official: ਏਲੈਂਡ ਟਾਪੂ
+    common: ਏਲੈਂਡ ਟਾਪੂ
+  fa:
+    official: جزایر آلند
+    common: جزایر آلند
+  pl:
+    official: Wyspy Alandzkie
+    common: Wyspy Alandzkie
+  pt:
+    official: Ilhas Åland
+    common: Ilhas Åland
+  ps:
+    official: Åland Islands
+    common: Åland Islands
+  ro:
+    official: Insulele Åland
+    common: Insulele Åland
+  ru:
+    official: Аландские острова
+    common: Аландские острова
+  si:
+    official: ඒලන්ඩ් දූපත්
+    common: ඒලන්ඩ් දූපත්
+  sk:
+    official: Ålandy
+    common: Ålandy
+  sl:
+    official: Ålandsko otočje
+    common: Ålandsko otočje
+  so:
+    official: Åland Islands
+    common: Åland Islands
+  es:
+    official: Islas Äland
+    common: Islas Äland
+  sr:
+    official: Острва Аланд
+    common: Острва Аланд
+  sw:
+    official: Visiwa vya Åland
+    common: Visiwa vya Åland
+  sv:
+    official: Åland
+    common: Åland
+  ta:
+    official: அலண்ட் தீவுகள்
+    common: அலண்ட் தீவுகள்
+  tt:
+    official: Аланд Утравлары
+    common: Аланд Утравлары
+  te:
+    official: అలంద్ ఐలాండ్స్
+    common: అలంద్ ఐలాండ్స్
+  tl:
+    official: Mga Islang Åland
+    common: Mga Islang Åland
+  th:
+    official: หมู่เกาะโอลันด์
+    common: หมู่เกาะโอลันด์
+  ti:
+    official: Åland Islands
+    common: Åland Islands
+  tk:
+    official: Aland Adalry
+    common: Aland Adalry
+  tr:
+    official: Åland Adaları
+    common: Åland Adaları
+  ug:
+    official: ئالاند تاقىم ئاراللىرى
+    common: ئالاند تاقىم ئاراللىرى
+  uk:
+    official: Аландські острови
+    common: Аландські острови
+  ve:
+    official: Cayman Islands
+    common: Cayman Islands
+  vi:
+    official: Quần đảo A-lanh
+    common: Quần đảo A-lanh
+  cy:
+    official: Ynysoedd Åland
+    common: Ynysoedd Åland
+  wa:
+    official: Iyes Åland
+    common: Iyes Åland
+  wo:
+    official: Åland Islands
+    common: Åland Islands
+  xh:
+    official: Ireland
+    common: Ireland
+  zu:
+    official: I-Irelandi
+    common: I-Irelandi

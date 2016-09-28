@@ -1,0 +1,437 @@
+{
+  "continent": "North America",
+  "alpha2": "BL",
+  "alpha3": "BLM",
+  "country_code": "590",
+  "international_prefix": "",
+  "ioc": null,
+  "gec": "TB",
+  "name": "Saint Barthélemy",
+  "national_destination_code_lengths": [
+
+  ],
+  "national_number_lengths": [
+
+  ],
+  "national_prefix": "",
+  "number": "652",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "APAC",
+  "un_locode": null,
+  "nationality": "Saint Barthélemy Islander",
+  "postal_code": true,
+  "unofficial_names": [
+    "Saint Barthélemy",
+    "Saint-Barthélemy",
+    "サン・バルテルミー"
+  ],
+  "languages_official": [
+    "fr"
+  ],
+  "languages_spoken": [
+    "fr"
+  ],
+  "geo": {
+    "latitude": 17.9,
+    "latitude_dec": "17.89626121520996",
+    "longitude": -62.833333,
+    "longitude_dec": "-62.83061218261719",
+    "max_latitude": 17.9608008,
+    "max_longitude": -62.78921479999999,
+    "min_latitude": 17.8708288,
+    "min_longitude": -62.9116459,
+    "bounds": {
+      "northeast": {
+        "lat": 17.9608008,
+        "lng": -62.78921479999999
+      },
+      "southwest": {
+        "lat": 17.8708288,
+        "lng": -62.9116459
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "key": "BL",
+    "upper": "ACX",
+    "zipex": "97100",
+    "name": "SAINT BARTHELEMY",
+    "zip": "9[78][01]\\d{2}",
+    "require": "ACZ",
+    "id": "data/BL",
+    "posturl": "http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal",
+    "fmt": "%O%n%N%n%A%n%Z %C %X"
+  },
+  "translations": {
+    "af": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "sq": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "am": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "ar": {
+      "official": "سان بارتليمي",
+      "common": "سان بارتليمي"
+    },
+    "hy": {
+      "official": "Սուրբ Բարդուղիմեոսի կղզի",
+      "common": "Սուրբ Բարդուղիմեոսի կղզի"
+    },
+    "as": {
+      "official": "চেন্ট বাৰ্থেলেমি",
+      "common": "চেন্ট বাৰ্থেলেমি"
+    },
+    "az": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "eu": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "be": {
+      "official": "Сен-Бартэльмі",
+      "common": "Сен-Бартэльмі"
+    },
+    "bn": {
+      "official": "সেন্ট বার্থেলেমি",
+      "common": "সেন্ট বার্থেলেমি"
+    },
+    "bs": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "br": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "bg": {
+      "official": "Свети Вартоломей",
+      "common": "Свети Вартоломей"
+    },
+    "ca": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "zh": {
+      "official": "圣巴泰勒米岛",
+      "common": "圣巴泰勒米岛"
+    },
+    "cs": {
+      "official": "Svatý Bartoloměj",
+      "common": "Svatý Bartoloměj"
+    },
+    "da": {
+      "official": "Sankt Bartolomæus",
+      "common": "Sankt Bartolomæus"
+    },
+    "nl": {
+      "official": "Saint-Barthélemy",
+      "common": "Saint-Barthélemy"
+    },
+    "dz": {
+      "official": "སེནཊི་བཱརཐ་ལེ་མི།",
+      "common": "སེནཊི་བཱརཐ་ལེ་མི།"
+    },
+    "en": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "eo": {
+      "official": "Sankta-Bartolomeo",
+      "common": "Sankta-Bartolomeo"
+    },
+    "et": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "fo": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "fi": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "fr": {
+      "official": "Saint-Barthélemy",
+      "common": "Saint-Barthélemy"
+    },
+    "ka": {
+      "official": "სენ-ბართლემი",
+      "common": "სენ-ბართლემი"
+    },
+    "de": {
+      "official": "Saint-Barthélemy",
+      "common": "Saint-Barthélemy"
+    },
+    "ga": {
+      "official": "San Parthalán",
+      "common": "San Parthalán"
+    },
+    "gl": {
+      "official": "San Bartolomé",
+      "common": "San Bartolomé"
+    },
+    "el": {
+      "official": "Άγιος Βαρθολομαίος",
+      "common": "Άγιος Βαρθολομαίος"
+    },
+    "gu": {
+      "official": "સેન્ટ બાર્થેલેમિ",
+      "common": "સેન્ટ બાર્થેલેમિ"
+    },
+    "he": {
+      "official": "סנט ברתלמי",
+      "common": "סנט ברתלמי"
+    },
+    "hi": {
+      "official": "सेंट बार्थेलेमी",
+      "common": "सेंट बार्थेलेमी"
+    },
+    "hr": {
+      "official": "Sveti Bartolomej",
+      "common": "Sveti Bartolomej"
+    },
+    "hu": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "is": {
+      "official": "Sankti Bartelemí",
+      "common": "Sankti Bartelemí"
+    },
+    "ia": {
+      "official": "Sancte Barthelemy",
+      "common": "Sancte Barthelemy"
+    },
+    "id": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "it": {
+      "official": "Saint-Barths",
+      "common": "Saint-Barths"
+    },
+    "ja": {
+      "official": "サンバルテルミ",
+      "common": "サンバルテルミ"
+    },
+    "kn": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "kk": {
+      "official": "Сен-Бартельми",
+      "common": "Сен-Бартельми"
+    },
+    "km": {
+      "official": "សាន​បាទេលេមី",
+      "common": "សាន​បាទេលេមី"
+    },
+    "rw": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "ko": {
+      "official": "쌩 바르텔레미",
+      "common": "쌩 바르텔레미"
+    },
+    "ku": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "lv": {
+      "official": "Senbartelmī",
+      "common": "Senbartelmī"
+    },
+    "lt": {
+      "official": "San Bartelemis",
+      "common": "San Bartelemis"
+    },
+    "mk": {
+      "official": "Св. Бартоломеј",
+      "common": "Св. Бартоломеј"
+    },
+    "ml": {
+      "official": "സെയിന്റ് ബാര്‍ത്തെലേമി",
+      "common": "സെയിന്റ് ബാര്‍ത്തെലേമി"
+    },
+    "mi": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "mr": {
+      "official": "सेंट बर्थेलेमी",
+      "common": "सेंट बर्थेलेमी"
+    },
+    "ms": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "mt": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "mn": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "ne": {
+      "official": "शन्त Barthelemy",
+      "common": "शन्त Barthelemy"
+    },
+    "nn": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "nb": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "oc": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "or": {
+      "official": "ସେଣ୍ଟ ବାର୍ଥେଲେମୀ",
+      "common": "ସେଣ୍ଟ ବାର୍ଥେଲେମୀ"
+    },
+    "pa": {
+      "official": "ਸੇਂਟ ਬਰਥੀਲੀਮੇ",
+      "common": "ਸੇਂਟ ਬਰਥੀਲੀਮੇ"
+    },
+    "fa": {
+      "official": "سنت بارتلمی",
+      "common": "سنت بارتلمی"
+    },
+    "pl": {
+      "official": "Saint-Barthélemy",
+      "common": "Saint-Barthélemy"
+    },
+    "pt": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "ps": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "ro": {
+      "official": "Sfântul Bartolomeu",
+      "common": "Sfântul Bartolomeu"
+    },
+    "ru": {
+      "official": "Сен-Бартельми",
+      "common": "Сен-Бартельми"
+    },
+    "si": {
+      "official": "ශාන්ත බර්තොලමියු",
+      "common": "ශාන්ත බර්තොලමියු"
+    },
+    "sk": {
+      "official": "Svätý Bartolomej",
+      "common": "Svätý Bartolomej"
+    },
+    "sl": {
+      "official": "Saint Barthelemy",
+      "common": "Saint Barthelemy"
+    },
+    "so": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "es": {
+      "official": "San Bartolomé",
+      "common": "San Bartolomé"
+    },
+    "sr": {
+      "official": "Свети Бартоломеј",
+      "common": "Свети Бартоломеј"
+    },
+    "sw": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "sv": {
+      "official": "Saint-Barthélemy",
+      "common": "Saint-Barthélemy"
+    },
+    "ta": {
+      "official": "செயின்ட் பார்த்லெமி",
+      "common": "செயின்ட் பார்த்லெமி"
+    },
+    "tt": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "te": {
+      "official": "సైంట్ బర్తెలెమి",
+      "common": "సైంట్ బర్తెలెమి"
+    },
+    "tl": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "th": {
+      "official": "แซงบาร์เตเลอมี",
+      "common": "แซงบาร์เตเลอมี"
+    },
+    "ti": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "tk": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "tr": {
+      "official": "Sen Barthélemy",
+      "common": "Sen Barthélemy"
+    },
+    "ug": {
+      "official": "ساينىت-بارتھېلەمي",
+      "common": "ساينىت-بارتھېلەمي"
+    },
+    "uk": {
+      "official": "Сен-Бартельмі",
+      "common": "Сен-Бартельмі"
+    },
+    "ve": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "vi": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "cy": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "wa": {
+      "official": "Sint Bartelemi",
+      "common": "Sint Bartelemi"
+    },
+    "wo": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "xh": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "zu": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    }
+  }
+}

@@ -1,0 +1,332 @@
+---
+continent: South America
+alpha2: EC
+alpha3: ECU
+country_code: '593'
+international_prefix: '00'
+ioc: ECU
+gec: EC
+name: Ecuador
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+- 9
+national_prefix: '0'
+number: '218'
+region: Americas
+subregion: South America
+world_region: AMER
+un_locode: EC
+nationality: Ecuadorean
+postal_code: true
+unofficial_names:
+- Ecuador
+- Équateur
+- エクアドル
+languages_official:
+- es
+languages_spoken:
+- es
+geo:
+  latitude: -1.831239
+  latitude_dec: "-1.421528935432434"
+  longitude: -78.18340599999999
+  longitude_dec: "-78.87104034423828"
+  max_latitude: 1.6815562
+  max_longitude: -75.1887941
+  min_latitude: -5.014351
+  min_longitude: -92.00845960000001
+  bounds:
+    northeast:
+      lat: 1.6815562
+      lng: -75.1887941
+    southwest:
+      lat: -5.014351
+      lng: -92.00845960000001
+currency_code: USD
+postal_address_data:
+  upper: CZ
+  zipex: 090105,EC090112,H0103C,P0133B,P0133A,P0133V
+  name: ECUADOR
+  zip: "[A-Z]\\d{4}[A-Z]|(?:[A-Z]{2})?\\d{6}"
+  fmt: "%N%n%O%n%A%n%Z%n%C"
+  key: EC
+  id: data/EC
+translations:
+  af:
+    official: Ecuador
+    common: Ecuador
+  sq:
+    official: Ekuadori
+    common: Ekuadori
+  am:
+    official: ጒጣ፦ሴ
+    common: ጒጣ፦ሴ
+  ar:
+    official: الإكوادور
+    common: الإكوادور
+  hy:
+    official: Էկվադոր
+    common: Էկվադոր
+  as:
+    official: ইকোৱেড'ৰ
+    common: ইকোৱেড'ৰ
+  az:
+    official: Ekvador
+    common: Ekvador
+  eu:
+    official: Ekuador
+    common: Ekuador
+  be:
+    official: Эквадор
+    common: Эквадор
+  bn:
+    official: ইকুয়েডোর
+    common: ইকুয়েডোর
+  bs:
+    official: Ekvador
+    common: Ekvador
+  br:
+    official: Ekuador
+    common: Ekuador
+  bg:
+    official: Еквадор
+    common: Еквадор
+  ca:
+    official: Equador
+    common: Equador
+  zh:
+    official: 厄瓜多尔
+    common: 厄瓜多尔
+  cs:
+    official: Ekvádor
+    common: Ekvádor
+  da:
+    official: Ecuador
+    common: Ecuador
+  nl:
+    official: Ecuador
+    common: Ecuador
+  dz:
+    official: ཨི་ཀུཡེ་ཌོར།
+    common: ཨི་ཀུཡེ་ཌོར།
+  en:
+    official: Ecuador
+    common: Ecuador
+  eo:
+    official: Ekvadoro
+    common: Ekvadoro
+  et:
+    official: Ecuador
+    common: Ecuador
+  fo:
+    official: Ekvador
+    common: Ekvador
+  fi:
+    official: Ecuador
+    common: Ecuador
+  fr:
+    official: Équateur
+    common: Équateur
+  ka:
+    official: ეკვადორი
+    common: ეკვადორი
+  de:
+    official: Ecuador
+    common: Ecuador
+  ga:
+    official: Eacuadór
+    common: Eacuadór
+  gl:
+    official: Ecuador
+    common: Ecuador
+  el:
+    official: Ισημερινός
+    common: Ισημερινός
+  gu:
+    official: ઇક્વાડોર
+    common: ઇક્વાડોર
+  he:
+    official: אקוודור
+    common: אקוודור
+  hi:
+    official: इक्वाडोर
+    common: इक्वाडोर
+  hr:
+    official: Ekvador
+    common: Ekvador
+  hu:
+    official: Ecuador
+    common: Ecuador
+  is:
+    official: Ekvador
+    common: Ekvador
+  ia:
+    official: Ecuador
+    common: Ecuador
+  id:
+    official: Ekuador
+    common: Ekuador
+  it:
+    official: Ecuador
+    common: Ecuador
+  ja:
+    official: エクアドル
+    common: エクアドル
+  kn:
+    official: ಈಕ್ವೆಡಾರ್
+    common: ಈಕ್ವೆಡಾರ್
+  kk:
+    official: Эквадор
+    common: Эквадор
+  km:
+    official: អេក្វាឌ័រ
+    common: អេក្វាឌ័រ
+  rw:
+    official: Ekwadoro
+    common: Ekwadoro
+  ko:
+    official: 에콰도르
+    common: 에콰도르
+  ku:
+    official: Ekvator
+    common: Ekvator
+  lv:
+    official: Ekvadora
+    common: Ekvadora
+  lt:
+    official: Ekvadoras
+    common: Ekvadoras
+  mk:
+    official: Еквадор
+    common: Еквадор
+  ml:
+    official: ഇക്വഡോര്‍
+    common: ഇക്വഡോര്‍
+  mi:
+    official: Ekuatoa
+    common: Ekuatoa
+  mr:
+    official: इक्वेडॉर
+    common: इक्वेडॉर
+  ms:
+    official: Ecuador
+    common: Ecuador
+  mt:
+    official: Ekwador
+    common: Ekwador
+  mn:
+    official: Эквадор
+    common: Эквадор
+  ne:
+    official: इक्वेडर
+    common: इक्वेडर
+  nn:
+    official: Ecuador
+    common: Ecuador
+  nb:
+    official: Ecuador
+    common: Ecuador
+  oc:
+    official: Eqüator
+    common: Eqüator
+  or:
+    official: ଏକ୍ଯୁଡୋର
+    common: ଏକ୍ଯୁଡୋର
+  pa:
+    official: ਏਕਵੇਡਰ
+    common: ਏਕਵੇਡਰ
+  fa:
+    official: اکوادور
+    common: اکوادور
+  pl:
+    official: Ekwador
+    common: Ekwador
+  pt:
+    official: Equador
+    common: Equador
+  ps:
+    official: Ecuador
+    common: Ecuador
+  ro:
+    official: Ecuador
+    common: Ecuador
+  ru:
+    official: Эквадор
+    common: Эквадор
+  si:
+    official: ඉක්වදෝරය
+    common: ඉක්වදෝරය
+  sk:
+    official: Ekvádor
+    common: Ekvádor
+  sl:
+    official: Ekvador
+    common: Ekvador
+  so:
+    official: Ecuador
+    common: Ecuador
+  es:
+    official: Ecuador
+    common: Ecuador
+  sr:
+    official: Еквадор
+    common: Еквадор
+  sw:
+    official: Ecuador
+    common: Ecuador
+  sv:
+    official: Ecuador
+    common: Ecuador
+  ta:
+    official: ஈக்வடார்
+    common: ஈக்வடார்
+  tt:
+    official: Екуадор
+    common: Екуадор
+  te:
+    official: ఈక్విడార్
+    common: ఈక్విడార్
+  tl:
+    official: Ekwador
+    common: Ekwador
+  th:
+    official: เอกวาดอร์
+    common: เอกวาดอร์
+  ti:
+    official: ኢኳዶር
+    common: ኢኳዶር
+  tk:
+    official: Ekwador
+    common: Ekwador
+  tr:
+    official: Ekvator
+    common: Ekvator
+  ug:
+    official: ئېكۋادور
+    common: ئېكۋادور
+  uk:
+    official: Еквадор
+    common: Еквадор
+  ve:
+    official: Ecuador
+    common: Ecuador
+  vi:
+    official: Ê-cu-a-đoa
+    common: Ê-cu-a-đoa
+  cy:
+    official: Ecwador
+    common: Ecwador
+  wa:
+    official: Ecwåteur
+    common: Ecwåteur
+  wo:
+    official: Ekwadoor
+    common: Ekwadoor
+  xh:
+    official: Equador
+    common: Equador
+  zu:
+    official: Equador
+    common: Equador

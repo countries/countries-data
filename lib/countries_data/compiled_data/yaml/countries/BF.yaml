@@ -1,0 +1,329 @@
+---
+continent: Africa
+alpha2: BF
+alpha3: BFA
+country_code: '226'
+international_prefix: '00'
+ioc: BUR
+gec: UV
+name: Burkina Faso
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: None
+number: '854'
+region: Africa
+subregion: Western Africa
+world_region: EMEA
+un_locode: BF
+nationality: Burkinabe
+postal_code: false
+unofficial_names:
+- Burkina Faso
+- ブルキナファソ
+languages_official:
+- fr
+- ff
+languages_spoken:
+- fr
+- ff
+geo:
+  latitude: 12.238333
+  latitude_dec: '12.284985542297363'
+  longitude: -1.561593
+  longitude_dec: "-1.745560646057129"
+  max_latitude: 15.0840032
+  max_longitude: 2.404359700000001
+  min_latitude: 9.4104718
+  min_longitude: -5.5157197
+  bounds:
+    northeast:
+      lat: 15.0840032
+      lng: 2.404359700000001
+    southwest:
+      lat: 9.4104718
+      lng: -5.5157197
+currency_code: XOF
+postal_address_data:
+  fmt: "%N%n%O%n%A%n%C %X"
+  id: data/BF
+  key: BF
+  name: BURKINA FASO
+translations:
+  af:
+    official: Burkina Faso
+    common: Burkina Faso
+  sq:
+    official: Burkina Faso
+    common: Burkina Faso
+  am:
+    official: Burkina Faso
+    common: Burkina Faso
+  ar:
+    official: بوركينا فاصو
+    common: بوركينا فاصو
+  hy:
+    official: Բուրկինա Ֆասո
+    common: Բուրկինա Ֆասո
+  as:
+    official: বুৰ্কিনা ফাসো
+    common: বুৰ্কিনা ফাসো
+  az:
+    official: Burkina Faso
+    common: Burkina Faso
+  eu:
+    official: Burkina Faso
+    common: Burkina Faso
+  be:
+    official: Буркіна-Фасо
+    common: Буркіна-Фасо
+  bn:
+    official: বুর্কিনা ফাসো
+    common: বুর্কিনা ফাসো
+  bs:
+    official: Burkina Faso
+    common: Burkina Faso
+  br:
+    official: Burkina Faso
+    common: Burkina Faso
+  bg:
+    official: Буркина Фасо
+    common: Буркина Фасо
+  ca:
+    official: Burkina Faso
+    common: Burkina Faso
+  zh:
+    official: 布基纳法索
+    common: 布基纳法索
+  cs:
+    official: Burkina Faso
+    common: Burkina Faso
+  da:
+    official: Burkina Faso
+    common: Burkina Faso
+  nl:
+    official: Burkina Faso
+    common: Burkina Faso
+  dz:
+    official: བུར་ཀི་ན་ ཕ་སོ།
+    common: བུར་ཀི་ན་ ཕ་སོ།
+  en:
+    official: Burkina Faso
+    common: Burkina Faso
+  eo:
+    official: Burkino
+    common: Burkino
+  et:
+    official: Burkina Faso
+    common: Burkina Faso
+  fo:
+    official: Burkina Faso
+    common: Burkina Faso
+  fi:
+    official: Burkina Faso
+    common: Burkina Faso
+  fr:
+    official: Burkina Faso
+    common: Burkina Faso
+  ka:
+    official: ბურკინა-ფასო
+    common: ბურკინა-ფასო
+  de:
+    official: Burkina Faso
+    common: Burkina Faso
+  ga:
+    official: Buircíne Fasó
+    common: Buircíne Fasó
+  gl:
+    official: Burquina Faso
+    common: Burquina Faso
+  el:
+    official: Μπουρκίνα Φάσο
+    common: Μπουρκίνα Φάσο
+  gu:
+    official: બુર્કિના ફાસો
+    common: બુર્કિના ફાસો
+  he:
+    official: בורקינה פאסו
+    common: בורקינה פאסו
+  hi:
+    official: बुर्कीना फासो
+    common: बुर्कीना फासो
+  hr:
+    official: Burkina Faso
+    common: Burkina Faso
+  hu:
+    official: Burkina Faso
+    common: Burkina Faso
+  is:
+    official: Búrkína Fasó
+    common: Búrkína Fasó
+  ia:
+    official: Burkina Faso
+    common: Burkina Faso
+  id:
+    official: Burkina-Faso
+    common: Burkina-Faso
+  it:
+    official: Burkina-Faso
+    common: Burkina-Faso
+  ja:
+    official: ブルキナファソ
+    common: ブルキナファソ
+  kn:
+    official: ಬರ್ಕಿನಾ ಫಾಸೋ
+    common: ಬರ್ಕಿನಾ ಫಾಸೋ
+  kk:
+    official: Буркина-Фасо
+    common: Буркина-Фасо
+  km:
+    official: ប៊ូរគីណាហ្វាសូ
+    common: ប៊ូរគីណាហ្វាសូ
+  rw:
+    official: Burukina Faso
+    common: Burukina Faso
+  ko:
+    official: 부르키나 파소
+    common: 부르키나 파소
+  ku:
+    official: Burkîna Faso
+    common: Burkîna Faso
+  lv:
+    official: Burkinafaso
+    common: Burkinafaso
+  lt:
+    official: Burkina Fasas
+    common: Burkina Fasas
+  mk:
+    official: Буркина Фасо
+    common: Буркина Фасо
+  ml:
+    official: ബുര്‍ക്കിന ഫാസോ
+    common: ബുര്‍ക്കിന ഫാസോ
+  mi:
+    official: Pūkina
+    common: Pūkina
+  mr:
+    official: बर्किना फासो
+    common: बर्किना फासो
+  ms:
+    official: Burkina Faso
+    common: Burkina Faso
+  mt:
+    official: Burkina Faso
+    common: Burkina Faso
+  mn:
+    official: Burkina Faso
+    common: Burkina Faso
+  ne:
+    official: बुर्किना फासो
+    common: बुर्किना फासो
+  nn:
+    official: Burkina Faso
+    common: Burkina Faso
+  nb:
+    official: Burkina Faso
+    common: Burkina Faso
+  oc:
+    official: Burkina Faso
+    common: Burkina Faso
+  or:
+    official: ବୁର୍କିନା ଫାସୋ
+    common: ବୁର୍କିନା ଫାସୋ
+  pa:
+    official: ਬੂਪਕੀਨਾ ਫਾਸੋ
+    common: ਬੂਪਕੀਨਾ ਫਾਸੋ
+  fa:
+    official: بورکینافاسو
+    common: بورکینافاسو
+  pl:
+    official: Burkina Faso
+    common: Burkina Faso
+  pt:
+    official: Burkina Faso
+    common: Burkina Faso
+  ps:
+    official: Burkina Faso
+    common: Burkina Faso
+  ro:
+    official: Burkina Faso
+    common: Burkina Faso
+  ru:
+    official: Буркина-Фасо
+    common: Буркина-Фасо
+  si:
+    official: බර්කිනා ෆාසෝ
+    common: බර්කිනා ෆාසෝ
+  sk:
+    official: Burkina Faso
+    common: Burkina Faso
+  sl:
+    official: Burkina Faso
+    common: Burkina Faso
+  so:
+    official: Burkina Faso
+    common: Burkina Faso
+  es:
+    official: Burquina Faso
+    common: Burquina Faso
+  sr:
+    official: Буркина Фасо
+    common: Буркина Фасо
+  sw:
+    official: Burkina Faso
+    common: Burkina Faso
+  sv:
+    official: Burkina Faso
+    common: Burkina Faso
+  ta:
+    official: பர்கினோ பாஸோ
+    common: பர்கினோ பாஸோ
+  tt:
+    official: Буркина Фасо
+    common: Буркина Фасо
+  te:
+    official: బర్కినా ఫాసో
+    common: బర్కినా ఫాసో
+  tl:
+    official: Burkina Faso
+    common: Burkina Faso
+  th:
+    official: บูร์กินาฟาโซ
+    common: บูร์กินาฟาโซ
+  ti:
+    official: Burkina Faso
+    common: Burkina Faso
+  tk:
+    official: Burkina-Faso
+    common: Burkina-Faso
+  tr:
+    official: Burkina Faso
+    common: Burkina Faso
+  ug:
+    official: بۇركىنا-فاسو
+    common: بۇركىنا-فاسو
+  uk:
+    official: Буркіна-Фасо
+    common: Буркіна-Фасо
+  ve:
+    official: Burkina Faso
+    common: Burkina Faso
+  vi:
+    official: Buốc-khi-na Pha-xô
+    common: Buốc-khi-na Pha-xô
+  cy:
+    official: Burkina Faso
+    common: Burkina Faso
+  wa:
+    official: Bourkina Fasso
+    common: Bourkina Fasso
+  wo:
+    official: Burkina Faso
+    common: Burkina Faso
+  xh:
+    official: Burkina Faso
+    common: Burkina Faso
+  zu:
+    official: Burkina Faso
+    common: Burkina Faso

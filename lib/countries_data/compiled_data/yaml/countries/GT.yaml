@@ -1,0 +1,329 @@
+---
+continent: North America
+alpha2: GT
+alpha3: GTM
+country_code: '502'
+international_prefix: '00'
+ioc: GUA
+gec: GT
+name: Guatemala
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: None
+number: '320'
+region: Americas
+subregion: Central America
+world_region: AMER
+un_locode: GT
+nationality: Guatemalan
+postal_code: true
+unofficial_names:
+- Guatemala
+- グアテマラ
+languages_official:
+- es
+languages_spoken:
+- es
+geo:
+  latitude: 15.783471
+  latitude_dec: '15.670565605163574'
+  longitude: -90.23075899999999
+  longitude_dec: "-90.3486557006836"
+  max_latitude: 17.8156972
+  max_longitude: -88.2307249
+  min_latitude: 13.7400215
+  min_longitude: -92.2318359
+  bounds:
+    northeast:
+      lat: 17.8156972
+      lng: -88.2307249
+    southwest:
+      lat: 13.7400215
+      lng: -92.2318359
+currency_code: GTQ
+postal_address_data:
+  zipex: 09001,01501
+  name: GUATEMALA
+  zip: "\\d{5}"
+  fmt: "%N%n%O%n%A%n%Z- %C"
+  key: GT
+  id: data/GT
+translations:
+  af:
+    official: Gautemala
+    common: Gautemala
+  sq:
+    official: Guatemala
+    common: Guatemala
+  am:
+    official: Guatemala
+    common: Guatemala
+  ar:
+    official: غواتيمالا
+    common: غواتيمالا
+  hy:
+    official: Գվատեմալա
+    common: Գվատեմալա
+  as:
+    official: গুৱাটেমালা
+    common: গুৱাটেমালা
+  az:
+    official: Quatemala
+    common: Quatemala
+  eu:
+    official: Guatemala
+    common: Guatemala
+  be:
+    official: Гватэмала
+    common: Гватэмала
+  bn:
+    official: গুয়াতেমালা
+    common: গুয়াতেমালা
+  bs:
+    official: Gvatemala
+    common: Gvatemala
+  br:
+    official: Guatemala
+    common: Guatemala
+  bg:
+    official: Гватемала
+    common: Гватемала
+  ca:
+    official: Guatemala
+    common: Guatemala
+  zh:
+    official: 瓜地马拉
+    common: 瓜地马拉
+  cs:
+    official: Guatemala
+    common: Guatemala
+  da:
+    official: Guatemala
+    common: Guatemala
+  nl:
+    official: Guatemala
+    common: Guatemala
+  dz:
+    official: གའུ་ཏི་མ་ལ།
+    common: གའུ་ཏི་མ་ལ།
+  en:
+    official: Guatemala
+    common: Guatemala
+  eo:
+    official: Gvatemalo
+    common: Gvatemalo
+  et:
+    official: Guatemala
+    common: Guatemala
+  fo:
+    official: Guatemala
+    common: Guatemala
+  fi:
+    official: Guatemala
+    common: Guatemala
+  fr:
+    official: Guatemala
+    common: Guatemala
+  ka:
+    official: გვატემალა
+    common: გვატემალა
+  de:
+    official: Guatemala
+    common: Guatemala
+  ga:
+    official: Guatamala
+    common: Guatamala
+  gl:
+    official: Guatemala
+    common: Guatemala
+  el:
+    official: Γουατεμάλα
+    common: Γουατεμάλα
+  gu:
+    official: ગ્વાટેમાલા
+    common: ગ્વાટેમાલા
+  he:
+    official: גואטמלה
+    common: גואטמלה
+  hi:
+    official: ग्वाटेमाला
+    common: ग्वाटेमाला
+  hr:
+    official: Gvatemala
+    common: Gvatemala
+  hu:
+    official: Guatemala
+    common: Guatemala
+  is:
+    official: Gvatemala
+    common: Gvatemala
+  ia:
+    official: Guatemala
+    common: Guatemala
+  id:
+    official: Guatemala
+    common: Guatemala
+  it:
+    official: Guatemala
+    common: Guatemala
+  ja:
+    official: グアテマラ
+    common: グアテマラ
+  kn:
+    official: ಗ್ವಾಟೆಮಾಲಾ
+    common: ಗ್ವಾಟೆಮಾಲಾ
+  kk:
+    official: Гватемала
+    common: Гватемала
+  km:
+    official: ហ្គាតេម៉ាឡា
+    common: ហ្គាតេម៉ាឡា
+  rw:
+    official: Gwatemala
+    common: Gwatemala
+  ko:
+    official: 과테말라
+    common: 과테말라
+  ku:
+    official: Guatemala
+    common: Guatemala
+  lv:
+    official: Gvatemala
+    common: Gvatemala
+  lt:
+    official: Gvatemala
+    common: Gvatemala
+  mk:
+    official: Гватемала
+    common: Гватемала
+  ml:
+    official: ഗ്വാട്ടിമാല
+    common: ഗ്വാട്ടിമാല
+  mi:
+    official: Guatemala
+    common: Guatemala
+  mr:
+    official: ग्वाटेमाला
+    common: ग्वाटेमाला
+  ms:
+    official: Guatemala
+    common: Guatemala
+  mt:
+    official: Gwatemala
+    common: Gwatemala
+  mn:
+    official: Guatemala
+    common: Guatemala
+  ne:
+    official: ग्वाटेमाला
+    common: ग्वाटेमाला
+  nn:
+    official: Guatemala
+    common: Guatemala
+  nb:
+    official: Guatemala
+    common: Guatemala
+  oc:
+    official: Guatemala
+    common: Guatemala
+  or:
+    official: ଗ୍ବାଟେମାଲା
+    common: ଗ୍ବାଟେମାଲା
+  pa:
+    official: ਗੁਆਟੇਮਾਲਾ
+    common: ਗੁਆਟੇਮਾਲਾ
+  fa:
+    official: گواتمالا
+    common: گواتمالا
+  pl:
+    official: Gwatemala
+    common: Gwatemala
+  pt:
+    official: Guatemala
+    common: Guatemala
+  ps:
+    official: ګواتیمالا
+    common: ګواتیمالا
+  ro:
+    official: Guatemala
+    common: Guatemala
+  ru:
+    official: Гватемала
+    common: Гватемала
+  si:
+    official: ගෝතමාලාව
+    common: ගෝතමාලාව
+  sk:
+    official: Guatemala
+    common: Guatemala
+  sl:
+    official: Gvatemala
+    common: Gvatemala
+  so:
+    official: Guatemala
+    common: Guatemala
+  es:
+    official: Guatemala
+    common: Guatemala
+  sr:
+    official: Гватемала
+    common: Гватемала
+  sw:
+    official: Guatemala
+    common: Guatemala
+  sv:
+    official: Guatemala
+    common: Guatemala
+  ta:
+    official: குவாதமாலா
+    common: குவாதமாலா
+  tt:
+    official: Gуатемала
+    common: Gуатемала
+  te:
+    official: గ్వాటేమాలా
+    common: గ్వాటేమాలా
+  tl:
+    official: Gwatemala
+    common: Gwatemala
+  th:
+    official: กัวเตมาลา
+    common: กัวเตมาลา
+  ti:
+    official: Guatemala
+    common: Guatemala
+  tk:
+    official: Gwatemala
+    common: Gwatemala
+  tr:
+    official: Guatemala
+    common: Guatemala
+  ug:
+    official: گىۋاتېمالا
+    common: گىۋاتېمالا
+  uk:
+    official: Гватемала
+    common: Гватемала
+  ve:
+    official: Guatemala
+    common: Guatemala
+  vi:
+    official: Gua-tê-ma-la
+    common: Gua-tê-ma-la
+  cy:
+    official: Gwatemala
+    common: Gwatemala
+  wa:
+    official: Gwatemala
+    common: Gwatemala
+  wo:
+    official: Guwaatemaala
+    common: Guwaatemaala
+  xh:
+    official: Guatemala
+    common: Guatemala
+  zu:
+    official: I-Guwathemala
+    common: I-Guwathemala

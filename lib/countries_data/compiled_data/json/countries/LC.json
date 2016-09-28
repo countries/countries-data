@@ -1,0 +1,434 @@
+{
+  "continent": "North America",
+  "alpha2": "LC",
+  "alpha3": "LCA",
+  "country_code": "1",
+  "international_prefix": "011",
+  "ioc": "LCA",
+  "gec": "ST",
+  "name": "Saint Lucia",
+  "national_destination_code_lengths": [
+    3
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "1",
+  "number": "662",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "AMER",
+  "un_locode": "LC",
+  "nationality": "Saint Lucian",
+  "postal_code": false,
+  "unofficial_names": [
+    "Saint Lucia",
+    "Saint-Lucie",
+    "Santa Lucía",
+    "セントルシア",
+    "St. Lucia",
+    "St Lucia"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 13.909444,
+    "latitude_dec": "13.86330509185791",
+    "longitude": -60.978893,
+    "longitude_dec": "-60.9665641784668",
+    "max_latitude": 14.110932,
+    "max_longitude": -60.8730985,
+    "min_latitude": 13.7081175,
+    "min_longitude": -61.0796636,
+    "bounds": {
+      "northeast": {
+        "lat": 14.110932,
+        "lng": -60.8730985
+      },
+      "southwest": {
+        "lat": 13.7081175,
+        "lng": -61.0796636
+      }
+    }
+  },
+  "currency_code": "XCD",
+  "postal_address_data": {
+    "id": "data/LC",
+    "key": "LC",
+    "name": "SAINT LUCIA"
+  },
+  "translations": {
+    "af": {
+      "official": "St. Lucia",
+      "common": "St. Lucia"
+    },
+    "sq": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "am": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "ar": {
+      "official": "سانت لوسيا",
+      "common": "سانت لوسيا"
+    },
+    "hy": {
+      "official": "Սանտա Լուչիա",
+      "common": "Սանտա Լուչիա"
+    },
+    "as": {
+      "official": "চেন্ট লুচিয়া",
+      "common": "চেন্ট লুচিয়া"
+    },
+    "az": {
+      "official": "Müqəddəs Lusiya",
+      "common": "Müqəddəs Lusiya"
+    },
+    "eu": {
+      "official": "Santa Luzia",
+      "common": "Santa Luzia"
+    },
+    "be": {
+      "official": "Сент-Люсія",
+      "common": "Сент-Люсія"
+    },
+    "bn": {
+      "official": "সেন্ট লুসিয়া",
+      "common": "সেন্ট লুসিয়া"
+    },
+    "bs": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "br": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "bg": {
+      "official": "Санта Лучия",
+      "common": "Санта Лучия"
+    },
+    "ca": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "zh": {
+      "official": "圣路西亚",
+      "common": "圣路西亚"
+    },
+    "cs": {
+      "official": "Svatá Lucie",
+      "common": "Svatá Lucie"
+    },
+    "da": {
+      "official": "Sankt Lucia",
+      "common": "Sankt Lucia"
+    },
+    "nl": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "dz": {
+      "official": "སེནཊི་ ལུ་སི་ཡ།",
+      "common": "སེནཊི་ ལུ་སི་ཡ།"
+    },
+    "en": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "eo": {
+      "official": "Sankta-Lucio",
+      "common": "Sankta-Lucio"
+    },
+    "et": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "fo": {
+      "official": "Saint Lusia",
+      "common": "Saint Lusia"
+    },
+    "fi": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "fr": {
+      "official": "Sainte-Lucie",
+      "common": "Sainte-Lucie"
+    },
+    "ka": {
+      "official": "სენტ-ლუსია",
+      "common": "სენტ-ლუსია"
+    },
+    "de": {
+      "official": "St. Lucia",
+      "common": "St. Lucia"
+    },
+    "ga": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "gl": {
+      "official": "Santa Lucía",
+      "common": "Santa Lucía"
+    },
+    "el": {
+      "official": "Αγία Λουκία",
+      "common": "Αγία Λουκία"
+    },
+    "gu": {
+      "official": "સેન્ટ લ્યુસિઆ",
+      "common": "સેન્ટ લ્યુસિઆ"
+    },
+    "he": {
+      "official": "סנטה לוסיה",
+      "common": "סנטה לוסיה"
+    },
+    "hi": {
+      "official": "सेंट लूसिया",
+      "common": "सेंट लूसिया"
+    },
+    "hr": {
+      "official": "Sveta Lucija",
+      "common": "Sveta Lucija"
+    },
+    "hu": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "is": {
+      "official": "Sankti Lúsía",
+      "common": "Sankti Lúsía"
+    },
+    "ia": {
+      "official": "Sancte Lucia",
+      "common": "Sancte Lucia"
+    },
+    "id": {
+      "official": "St Lucia",
+      "common": "St Lucia"
+    },
+    "it": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "ja": {
+      "official": "セントルシア",
+      "common": "セントルシア"
+    },
+    "kn": {
+      "official": "ಸೇಂಟ್ ಲೂಸಿಯಾ",
+      "common": "ಸೇಂಟ್ ಲೂಸಿಯಾ"
+    },
+    "kk": {
+      "official": "Сент-Люсия",
+      "common": "Сент-Люсия"
+    },
+    "km": {
+      "official": "សង់លូស៊ីយ៉ា",
+      "common": "សង់លូស៊ីយ៉ា"
+    },
+    "rw": {
+      "official": "Mutagatifu Lusiya",
+      "common": "Mutagatifu Lusiya"
+    },
+    "ko": {
+      "official": "세인트 루시아",
+      "common": "세인트 루시아"
+    },
+    "ku": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "lv": {
+      "official": "Sentlūsija",
+      "common": "Sentlūsija"
+    },
+    "lt": {
+      "official": "Sent Lusija",
+      "common": "Sent Lusija"
+    },
+    "mk": {
+      "official": "Св. Лусија",
+      "common": "Св. Лусија"
+    },
+    "ml": {
+      "official": "സെയിന്റ് ലുസിയ",
+      "common": "സെയിന്റ് ലുസിയ"
+    },
+    "mi": {
+      "official": "Hato Ruiha",
+      "common": "Hato Ruiha"
+    },
+    "mr": {
+      "official": "सेंट लुसिआ",
+      "common": "सेंट लुसिआ"
+    },
+    "ms": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "mt": {
+      "official": "St. Luċija",
+      "common": "St. Luċija"
+    },
+    "mn": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "ne": {
+      "official": "सेन्ट लुसिया",
+      "common": "सेन्ट लुसिया"
+    },
+    "nn": {
+      "official": "St. Lucia; Saint Lucia",
+      "common": "St. Lucia; Saint Lucia"
+    },
+    "nb": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "oc": {
+      "official": "St. Lucia",
+      "common": "St. Lucia"
+    },
+    "or": {
+      "official": "ସେଣ୍ଟ ଲୁସିୟା",
+      "common": "ସେଣ୍ଟ ଲୁସିୟା"
+    },
+    "pa": {
+      "official": "ਸੇਂਟ ਲੂਸੀਆ",
+      "common": "ਸੇਂਟ ਲੂਸੀਆ"
+    },
+    "fa": {
+      "official": "سن لوسیا",
+      "common": "سن لوسیا"
+    },
+    "pl": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "pt": {
+      "official": "Santa Lúcia",
+      "common": "Santa Lúcia"
+    },
+    "ps": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "ro": {
+      "official": "Sfânta Lucia",
+      "common": "Sfânta Lucia"
+    },
+    "ru": {
+      "official": "Сент-Люсия",
+      "common": "Сент-Люсия"
+    },
+    "si": {
+      "official": "ශාන්ත ලුසියා",
+      "common": "ශාන්ත ලුසියා"
+    },
+    "sk": {
+      "official": "Svätá Lucia",
+      "common": "Svätá Lucia"
+    },
+    "sl": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "so": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "es": {
+      "official": "Santa Lucía",
+      "common": "Santa Lucía"
+    },
+    "sr": {
+      "official": "Света Луција",
+      "common": "Света Луција"
+    },
+    "sw": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "sv": {
+      "official": "Sankt Lucia",
+      "common": "Sankt Lucia"
+    },
+    "ta": {
+      "official": "செயின்ட் லூசியா",
+      "common": "செயின்ட் லூசியா"
+    },
+    "tt": {
+      "official": "Саинт Луҗиа",
+      "common": "Саинт Луҗиа"
+    },
+    "te": {
+      "official": "సైంట్ లుసియా",
+      "common": "సైంట్ లుసియా"
+    },
+    "tl": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "th": {
+      "official": "เซนต์ลูเซีย",
+      "common": "เซนต์ลูเซีย"
+    },
+    "ti": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "tk": {
+      "official": "Sent Lýusiýa",
+      "common": "Sent Lýusiýa"
+    },
+    "tr": {
+      "official": "Sen Lucia",
+      "common": "Sen Lucia"
+    },
+    "ug": {
+      "official": "ساينىت-لۇسىيە",
+      "common": "ساينىت-لۇسىيە"
+    },
+    "uk": {
+      "official": "Сент-Люсія",
+      "common": "Сент-Люсія"
+    },
+    "ve": {
+      "official": "St. Lucia",
+      "common": "St. Lucia"
+    },
+    "vi": {
+      "official": "Xan Lu-xi",
+      "common": "Xan Lu-xi"
+    },
+    "cy": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "wa": {
+      "official": "Sinte Luceye",
+      "common": "Sinte Luceye"
+    },
+    "wo": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "xh": {
+      "official": "St. Lucia",
+      "common": "St. Lucia"
+    },
+    "zu": {
+      "official": "St. Lucia",
+      "common": "St. Lucia"
+    }
+  }
+}

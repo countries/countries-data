@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: Afghanistan
+    common: Afghanistan
+  AX:
+    official: Åland Islands
+    common: Åland Islands
+  AL:
+    official: ጐሔባኒ።
+    common: ጐሔባኒ።
+  DZ:
+    official: ጐሔጄሱ።
+    common: ጐሔጄሱ።
+  AS:
+    official: American Samoa
+    common: American Samoa
+  AD:
+    official: ጐን፦ሲ
+    common: ጐን፦ሲ
+  AO:
+    official: Angola
+    common: Angola
+  AI:
+    official: Anguilla
+    common: Anguilla
+  AQ:
+    official: Antarctica
+    common: Antarctica
+  AG:
+    official: Antigua and Barbuda
+    common: Antigua and Barbuda
+  AR:
+    official: ጐሴጀንቲና
+    common: ጐሴጀንቲና
+  AM:
+    official: ጐሴሣኒ።
+    common: ጐሴሣኒ።
+  AW:
+    official: Aruba
+    common: Aruba
+  AU:
+    official: ጐፄስትሳሑ።
+    common: ጐፄስትሳሑ።
+  AT:
+    official: "጖ስትሱ።"
+    common: "጖ስትሱ።"
+  AZ:
+    official: ጐፈሴባጃን
+    common: ጐፈሴባጃን
+  BS:
+    official: Bahamas
+    common: Bahamas
+  BH:
+    official: ባህሳን
+    common: ባህሳን
+  BD:
+    official: Bangladesh
+    common: Bangladesh
+  BB:
+    official: ባሴቤ፦ስ
+    common: ባሴቤ፦ስ
+  BY:
+    official: ቤሒሩስ
+    common: ቤሒሩስ
+  BE:
+    official: ቤሔጄሤ
+    common: ቤሔጄሤ
+  BZ:
+    official: ቤሑፈ
+    common: ቤሑፈ
+  BJ:
+    official: Benin
+    common: Benin
+  BM:
+    official: ቤሴሙ፣
+    common: ቤሴሙ፣
+  BT:
+    official: ቡህታን
+    common: ቡህታን
+  BO:
+    official: Bolivia, Plurinational State of
+    common: Bolivia, Plurinational State of
+  BQ:
+    official: Bonaire, Sint Eustatius and Saba
+    common: Bonaire, Sint Eustatius and Saba
+  BA:
+    official: ቦስኒ። ጕና ሄሴፕጕቱኒ።
+    common: ቦስኒ። ጕና ሄሴፕጕቱኒ።
+  BW:
+    official: Botswana
+    common: Botswana
+  BV:
+    official: Bouvet Island
+    common: Bouvet Island
+  BR:
+    official: ብሲፑሔ
+    common: ብሲፑሔ
+  IO:
+    official: British Indian Ocean Territory
+    common: British Indian Ocean Territory
+  BN:
+    official: Brunei Darussalam
+    common: Brunei Darussalam
+  BG:
+    official: ቡሔጓሱ።
+    common: ቡሔጓሱ።
+  BF:
+    official: Burkina Faso
+    common: Burkina Faso
+  BI:
+    official: Burundi
+    common: Burundi
+  KH:
+    official: ጢሤቦ።።
+    common: ጢሤቦ።።
+  CM:
+    official: ጢሣሩን
+    common: ጢሣሩን
+  CA:
+    official: Canada
+    common: Canada
+  CV:
+    official: ጣፕ ታሴ፤
+    common: ጣፕ ታሴ፤
+  KY:
+    official: Cayman Islands
+    common: Cayman Islands
+  CF:
+    official: ፘመጢጘለኢፄ ጐፔሱጢ ሱፐብሑጤ
+    common: ፘመጢጘለኢፄ ጐፔሱጢ ሱፐብሑጤ
+  TD:
+    official: ኂ፥
+    common: ኂ፥
+  CL:
+    official: ኁሑ
+    common: ኁሑ
+  CN:
+    official: ኂ፤ና
+    common: ኂ፤ና
+  CX:
+    official: Christmas Island
+    common: Christmas Island
+  CC:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  CO:
+    official: ጥሕሤቢ።
+    common: ጥሕሤቢ።
+  KM:
+    official: ጥሥስስ
+    common: ጥሥስስ
+  CG:
+    official: ኮንጎ
+    common: ኮንጎ
+  CD:
+    official: ጥንጕ
+    common: ጥንጕ
+  CK:
+    official: Cook Islands
+    common: Cook Islands
+  CR:
+    official: Costa Rica
+    common: Costa Rica
+  CI:
+    official: Côte d'Ivoire
+    common: Côte d'Ivoire
+  HR:
+    official: ጤስጔቄ።
+    common: ጤስጔቄ።
+  CU:
+    official: Cuba
+    common: Cuba
+  CW:
+    official: Curaçao
+    common: Curaçao
+  CY:
+    official: ሳ፤ፕረስ
+    common: ሳ፤ፕረስ
+  CZ:
+    official: ኃጤ ሱፑብሑጤ
+    common: ኃጤ ሱፑብሑጤ
+  DK:
+    official: "፤ንሢሴጤ"
+    common: "፤ንሢሴጤ"
+  DJ:
+    official: Djibouti
+    common: Djibouti
+  DM:
+    official: "፦ሡኒጢ"
+    common: "፦ሡኒጢ"
+  DO:
+    official: "፦ሡኒጤ ሱፑብሑጤ"
+    common: "፦ሡኒጤ ሱፑብሑጤ"
+  EC:
+    official: ጒጣ፦ሴ
+    common: ጒጣ፦ሴ
+  EG:
+    official: ጔብፄ
+    common: ጔብፄ
+  SV:
+    official: El Salvador
+    common: El Salvador
+  GQ:
+    official: ጒጣቶሱ።ሔ ጑ኒ
+    common: ጒጣቶሱ።ሔ ጑ኒ
+  ER:
+    official: ጔሴትሲ
+    common: ጔሴትሲ
+  EE:
+    official: ጔስቶኒ።
+    common: ጔስቶኒ።
+  ET:
+    official: ጒት፥ጵ።
+    common: ጒት፥ጵ።
+  FK:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  FO:
+    official: Faroe Islands
+    common: Faroe Islands
+  FJ:
+    official: ፑጂ
+    common: ፑጂ
+  FI:
+    official: ፑንሒን፥
+    common: ፑንሒን፥
+  FR:
+    official: France
+    common: France
+  GF:
+    official: ፘፈረንሳ፤ ጉፁጐና
+    common: ፘፈረንሳ፤ ጉፁጐና
+  PF:
+    official: ፘፈረንሳ፤ ፖሑኔፒ።
+    common: ፘፈረንሳ፤ ፖሑኔፒ።
+  TF:
+    official: ፘፈረንሳ፤ ፠ቡባፁ ጔፒቶኄ
+    common: ፘፈረንሳ፤ ፠ቡባፁ ጔፒቶኄ
+  GA:
+    official: Gabon
+    common: Gabon
+  GM:
+    official: ጒሤቢ።
+    common: ጒሤቢ።
+  GE:
+    official: ጆሴጂ።
+    common: ጆሴጂ።
+  DE:
+    official: ጀሴመን
+    common: ጀሴመን
+  GH:
+    official: Ghana
+    common: Ghana
+  GI:
+    official: Gibraltar
+    common: Gibraltar
+  GR:
+    official: ጔሱጤ
+    common: ጔሱጤ
+  GL:
+    official: Greenland
+    common: Greenland
+  GD:
+    official: Grenada
+    common: Grenada
+  GP:
+    official: Guadeloupe
+    common: Guadeloupe
+  GU:
+    official: Guam
+    common: Guam
+  GT:
+    official: Guatemala
+    common: Guatemala
+  GG:
+    official: Guernsey
+    common: Guernsey
+  GN:
+    official: "጑ኒ"
+    common: "጑ኒ"
+  GW:
+    official: ቢሳፅ
+    common: ቢሳፅ
+  GY:
+    official: ጉ።ና
+    common: ጉ።ና
+  HT:
+    official: ሀ፤ቲ
+    common: ሀ፤ቲ
+  HM:
+    official: Heard Island and McDonald Islands
+    common: Heard Island and McDonald Islands
+  VA:
+    official: Holy See (Vatican City State)
+    common: Holy See (Vatican City State)
+  HN:
+    official: Honduras
+    common: Honduras
+  HK:
+    official: ሆንጔ ጥንጔ
+    common: ሆንጔ ጥንጔ
+  HU:
+    official: ሀንጒሱ
+    common: ሀንጒሱ
+  IS:
+    official: ጐ፤ስሒን፥
+    common: ጐ፤ስሒን፥
+  IN:
+    official: ህን፥
+    common: ህን፥
+  ID:
+    official: ጒን፦ኔፒ።
+    common: ጒን፦ኔፒ።
+  IR:
+    official: Iran, Islamic Republic of
+    common: Iran, Islamic Republic of
+  IQ:
+    official: ጒሲቅ
+    common: ጒሲቅ
+  IE:
+    official: ጐፘሴሒን፥
+    common: ጐፘሴሒን፥
+  IM:
+    official: Isle of Man
+    common: Isle of Man
+  IL:
+    official: ጕስሲጔሔ
+    common: ጕስሲጔሔ
+  IT:
+    official: ጣሑ።ን
+    common: ጣሑ።ን
+  JM:
+    official: ጃሢ፤ጢ
+    common: ጃሢ፤ጢ
+  JP:
+    official: ጃፓን
+    common: ጃፓን
+  JE:
+    official: Jersey
+    common: Jersey
+  JO:
+    official: ጆሴ፣ን
+    common: ጆሴ፣ን
+  KZ:
+    official: Kazakhstan
+    common: Kazakhstan
+  KE:
+    official: Kenya
+    common: Kenya
+  KI:
+    official: Kiribati
+    common: Kiribati
+  KP:
+    official: "፠ቡብ ጥሱ።"
+    common: "፠ቡብ ጥሱ።"
+  KR:
+    official: ሰሣን ጥሱ።
+    common: ሰሣን ጥሱ።
+  KW:
+    official: ጤፃት
+    common: ጤፃት
+  KG:
+    official: Kyrgyzstan
+    common: Kyrgyzstan
+  LA:
+    official: Lao People's Democratic Republic
+    common: Lao People's Democratic Republic
+  LV:
+    official: ሒትቱ።
+    common: ሒትቱ።
+  LB:
+    official: ሑባኖስ
+    common: ሑባኖስ
+  LS:
+    official: Lesotho
+    common: Lesotho
+  LR:
+    official: Liberia
+    common: Liberia
+  LY:
+    official: Libya
+    common: Libya
+  LI:
+    official: Liechtenstein
+    common: Liechtenstein
+  LT:
+    official: ሑቱፃኒ።
+    common: ሑቱፃኒ።
+  LU:
+    official: Luxembourg
+    common: Luxembourg
+  MO:
+    official: ሢጢፅ
+    common: ሢጢፅ
+  MK:
+    official: ሥሔ፦ቲ
+    common: ሥሔ፦ቲ
+  MG:
+    official: Madagascar
+    common: Madagascar
+  MW:
+    official: Malawi
+    common: Malawi
+  MY:
+    official: ሢሓፒ።
+    common: ሢሓፒ።
+  MV:
+    official: Maldives
+    common: Maldives
+  ML:
+    official: Mali
+    common: Mali
+  MT:
+    official: ሢሔታ
+    common: ሢሔታ
+  MH:
+    official: Marshall Islands
+    common: Marshall Islands
+  MQ:
+    official: Martinique
+    common: Martinique
+  MR:
+    official: ሥሱቴኒ።
+    common: ሥሱቴኒ።
+  MU:
+    official: ሢሩሸስ
+    common: ሢሩሸስ
+  YT:
+    official: Mayotte
+    common: Mayotte
+  MX:
+    official: ሣጤሲጥ
+    common: ሣጤሲጥ
+  FM:
+    official: ሡጤስኔፒ።
+    common: ሡጤስኔፒ።
+  MD:
+    official: ሥሔ፦ቲ
+    common: ሥሔ፦ቲ
+  MC:
+    official: Monaco
+    common: Monaco
+  MN:
+    official: ሥንጕሑ።
+    common: ሥንጕሑ።
+  ME:
+    official: Montenegro
+    common: Montenegro
+  MS:
+    official: Montserrat
+    common: Montserrat
+  MA:
+    official: ሥስጥ
+    common: ሥስጥ
+  MZ:
+    official: Mozambique
+    common: Mozambique
+  MM:
+    official: Myanmar
+    common: Myanmar
+  NA:
+    official: ናሡቢ።
+    common: ናሡቢ።
+  NR:
+    official: Nauru
+    common: Nauru
+  NP:
+    official: ኔፓሔ
+    common: ኔፓሔ
+  NL:
+    official: ኔፈሴሒን፥
+    common: ኔፈሴሒን፥
+  NC:
+    official: ኒፄ ጢሓ፦ኒ።
+    common: ኒፄ ጢሓ፦ኒ።
+  NZ:
+    official: ኒፄ ፑሒን፥
+    common: ኒፄ ፑሒን፥
+  NI:
+    official: Nicaragua
+    common: Nicaragua
+  NE:
+    official: Niger
+    common: Niger
+  NG:
+    official: ና፤ጄሱ።
+    common: ና፤ጄሱ።
+  NU:
+    official: Niue
+    common: Niue
+  NF:
+    official: Norfolk Island
+    common: Norfolk Island
+  MP:
+    official: Northern Mariana Islands
+    common: Northern Mariana Islands
+  'NO':
+    official: ኖሴፃ
+    common: ኖሴፃ
+  OM:
+    official: Oman
+    common: Oman
+  PK:
+    official: Pakistan
+    common: Pakistan
+  PW:
+    official: Palau
+    common: Palau
+  PS:
+    official: Palestine, State of
+    common: Palestine, State of
+  PA:
+    official: Panama
+    common: Panama
+  PG:
+    official: ፓፑፂ ኒፄ ጑ኒ
+    common: ፓፑፂ ኒፄ ጑ኒ
+  PY:
+    official: Paraguay
+    common: Paraguay
+  PE:
+    official: ፔሩ
+    common: ፔሩ
+  PH:
+    official: Philippines
+    common: Philippines
+  PN:
+    official: Pitcairn
+    common: Pitcairn
+  PL:
+    official: ፖሒን፥
+    common: ፖሒን፥
+  PT:
+    official: Portugal
+    common: Portugal
+  PR:
+    official: ፖሴታ ሱጥ
+    common: ፖሴታ ሱጥ
+  QA:
+    official: Qatar
+    common: Qatar
+  RE:
+    official: Réunion
+    common: Réunion
+  RO:
+    official: ስሣኒ።
+    common: ስሣኒ።
+  RU:
+    official: ሲቁ።
+    common: ሲቁ።
+  RW:
+    official: Rwanda
+    common: Rwanda
+  BL:
+    official: Saint Barthélemy
+    common: Saint Barthélemy
+  SH:
+    official: Saint Helena, Ascension and Tristan da Cunha
+    common: Saint Helena, Ascension and Tristan da Cunha
+  KN:
+    official: Saint Kitts and Nevis
+    common: Saint Kitts and Nevis
+  LC:
+    official: Saint Lucia
+    common: Saint Lucia
+  MF:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  PM:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  VC:
+    official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+  WS:
+    official: Samoa
+    common: Samoa
+  SM:
+    official: San Marino
+    common: San Marino
+  ST:
+    official: Sao Tome and Principe
+    common: Sao Tome and Principe
+  SA:
+    official: ሳፄ፥ጐረቢ።
+    common: ሳፄ፥ጐረቢ።
+  SN:
+    official: ሴኔጒሔ
+    common: ሴኔጒሔ
+  RS:
+    official: ጐፈሴባጃን
+    common: ጐፈሴባጃን
+  SC:
+    official: Seychelles
+    common: Seychelles
+  SL:
+    official: Sierra Leone
+    common: Sierra Leone
+  SG:
+    official: ሲንጒፖሴ
+    common: ሲንጒፖሴ
+  SX:
+    official: Sint Maarten (Dutch part)
+    common: Sint Maarten (Dutch part)
+  SK:
+    official: ስሕቲጡ።
+    common: ስሕቲጡ።
+  SI:
+    official: ስሕታኒ።
+    common: ስሕታኒ።
+  SB:
+    official: Solomon Islands
+    common: Solomon Islands
+  SO:
+    official: ሱሢሓ
+    common: ሱሢሓ
+  ZA:
+    official: "፠ቡብ ጐፔሱጢ"
+    common: "፠ቡብ ጐፔሱጢ"
+  GS:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  ES:
+    official: ስፔን
+    common: ስፔን
+  LK:
+    official: Sri Lanka
+    common: Sri Lanka
+  SD:
+    official: ሱ፣ን
+    common: ሱ፣ን
+  SR:
+    official: Suriname
+    common: Suriname
+  SS:
+    official: "፠ቡብ ጐፔሱጢ"
+    common: "፠ቡብ ጐፔሱጢ"
+  SJ:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  SZ:
+    official: Swaziland
+    common: Swaziland
+  SE:
+    official: ስፁ፥ን
+    common: ስፁ፥ን
+  CH:
+    official: ስፁፈሴሒን፥
+    common: ስፁፈሴሒን፥
+  SY:
+    official: ሲሱ።
+    common: ሲሱ።
+  TW:
+    official: ታ፤ሒን፥
+    common: ታ፤ሒን፥
+  TJ:
+    official: ታጃጡስታን
+    common: ታጃጡስታን
+  TZ:
+    official: ታንፒኒ።
+    common: ታንፒኒ።
+  TH:
+    official: ታ፤ሒን፥
+    common: ታ፤ሒን፥
+  TL:
+    official: ሤስሲቅ ቲሥሴ
+    common: ሤስሲቅ ቲሥሴ
+  TG:
+    official: Togo
+    common: Togo
+  TK:
+    official: Tokelau
+    common: Tokelau
+  TO:
+    official: Tonga
+    common: Tonga
+  TT:
+    official: ትሱኒ፣፥ ጕና ቶባጕ
+    common: ትሱኒ፣፥ ጕና ቶባጕ
+  TN:
+    official: ቱኒፑ።
+    common: ቱኒፑ።
+  TR:
+    official: ቱሴጤ
+    common: ቱሴጤ
+  TM:
+    official: Turkmenistan
+    common: Turkmenistan
+  TC:
+    official: Turks and Caicos Islands
+    common: Turks and Caicos Islands
+  TV:
+    official: Tuvalu
+    common: Tuvalu
+  UG:
+    official: ፙጒን፣
+    common: ፙጒን፣
+  UA:
+    official: Ukraine
+    common: Ukraine
+  AE:
+    official: ፘተባበሩት ጐረብ ጔሤሳትስ
+    common: ፘተባበሩት ጐረብ ጔሤሳትስ
+  GB:
+    official: ጕንጔሑፔ
+    common: ጕንጔሑፔ
+  US:
+    official: ጐሣሱጢ
+    common: ጐሣሱጢ
+  UM:
+    official: United States Minor Outlying Islands
+    common: United States Minor Outlying Islands
+  UY:
+    official: Uruguay
+    common: Uruguay
+  UZ:
+    official: ፙፔበጡስታን
+    common: ፙፔበጡስታን
+  VU:
+    official: Vanuatu
+    common: Vanuatu
+  VE:
+    official: ሥሔ፦ቲ
+    common: ሥሔ፦ቲ
+  VN:
+    official: Viet Nam
+    common: Viet Nam
+  VG:
+    official: ፘጕንጔሑፔ ፥ንጔሔ ፠ሴቶኄ
+    common: ፘጕንጔሑፔ ፥ንጔሔ ፠ሴቶኄ
+  VI:
+    official: ፘጐሣሱጢ ቨሴጂን ፠ሴቶኄ
+    common: ፘጐሣሱጢ ቨሴጂን ፠ሴቶኄ
+  WF:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  EH:
+    official: ሤፅሲባፁ ሳህሲ
+    common: ሤፅሲባፁ ሳህሲ
+  YE:
+    official: ፘመን
+    common: ፘመን
+  ZM:
+    official: ዛምቢያ
+    common: ዛምቢያ
+  ZW:
+    official: ፒሤቢ።
+    common: ፒሤቢ።

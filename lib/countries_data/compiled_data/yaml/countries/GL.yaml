@@ -1,0 +1,338 @@
+---
+continent: North America
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: GL
+alpha3: GRL
+country_code: '299'
+international_prefix: 009
+ioc: 
+gec: GL
+name: Greenland
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 6
+national_prefix: None
+number: '304'
+region: Americas
+subregion: Northern America
+world_region: EMEA
+un_locode: GL
+nationality: Greenlandic
+postal_code: true
+unofficial_names:
+- Greenland
+- Grönland
+- Groenland
+- Groenlandia
+- グリーンランド
+languages_official:
+- kl
+languages_spoken:
+- kl
+geo:
+  latitude: 71.706936
+  latitude_dec: '74.34954833984375'
+  longitude: -42.604303
+  longitude_dec: "-41.08988952636719"
+  max_latitude: 83.60958099999999
+  max_longitude: -11.3123191
+  min_latitude: 59.7774011
+  min_longitude: -73.0350637
+  bounds:
+    northeast:
+      lat: 83.60958099999999
+      lng: -11.3123191
+    southwest:
+      lat: 59.7774011
+      lng: -73.0350637
+currency_code: DKK
+postal_address_data:
+  zipex: '3900,3950,3911'
+  name: GREENLAND
+  zip: 39\d{2}
+  require: ACZ
+  fmt: "%N%n%O%n%A%n%Z %C"
+  key: GL
+  id: data/GL
+translations:
+  af:
+    official: Groenland
+    common: Groenland
+  sq:
+    official: Greenland
+    common: Greenland
+  am:
+    official: Greenland
+    common: Greenland
+  ar:
+    official: غرينلاند
+    common: غرينلاند
+  hy:
+    official: Գրենլանդիա
+    common: Գրենլանդիա
+  as:
+    official: গ্ৰীনলেণ্ড
+    common: গ্ৰীনলেণ্ড
+  az:
+    official: Qrinland
+    common: Qrinland
+  eu:
+    official: Groenlandia
+    common: Groenlandia
+  be:
+    official: Грэнландыя
+    common: Грэнландыя
+  bn:
+    official: গ্রিনল্যান্ড
+    common: গ্রিনল্যান্ড
+  bs:
+    official: Grenland
+    common: Grenland
+  br:
+    official: Greenland
+    common: Greenland
+  bg:
+    official: Гренландия
+    common: Гренландия
+  ca:
+    official: Groenlàndia
+    common: Groenlàndia
+  zh:
+    official: 格陵兰
+    common: 格陵兰
+  cs:
+    official: Grónsko
+    common: Grónsko
+  da:
+    official: Grønland
+    common: Grønland
+  nl:
+    official: Groenland
+    common: Groenland
+  dz:
+    official: གིརིན་ལེནཌི།
+    common: གིརིན་ལེནཌི།
+  en:
+    official: Greenland
+    common: Greenland
+  eo:
+    official: Gronlando
+    common: Gronlando
+  et:
+    official: Gröönimaa
+    common: Gröönimaa
+  fo:
+    official: Greenland
+    common: Greenland
+  fi:
+    official: Grönlanti
+    common: Grönlanti
+  fr:
+    official: Groënland
+    common: Groënland
+  ka:
+    official: გრინლანდია
+    common: გრინლანდია
+  de:
+    official: Grönland
+    common: Grönland
+  ga:
+    official: An Ghraonlainn
+    common: An Ghraonlainn
+  gl:
+    official: Grenlandia
+    common: Grenlandia
+  el:
+    official: Γροιλανδία
+    common: Γροιλανδία
+  gu:
+    official: ગ્રીનલેન્ડ
+    common: ગ્રીનલેન્ડ
+  he:
+    official: גרינלנד
+    common: גרינלנד
+  hi:
+    official: ग्रीनलैंड
+    common: ग्रीनलैंड
+  hr:
+    official: Grenland
+    common: Grenland
+  hu:
+    official: Grönland
+    common: Grönland
+  is:
+    official: Grænland
+    common: Grænland
+  ia:
+    official: Groenlandia
+    common: Groenlandia
+  id:
+    official: Greenland
+    common: Greenland
+  it:
+    official: Groenlandia
+    common: Groenlandia
+  ja:
+    official: グリーンランド
+    common: グリーンランド
+  kn:
+    official: ಗ್ರೀನ್‍ಲ್ಯಾಂಡ್
+    common: ಗ್ರೀನ್‍ಲ್ಯಾಂಡ್
+  kk:
+    official: Гренландия
+    common: Гренландия
+  km:
+    official: ហ្គ្រីនលែន
+    common: ហ្គ្រីនលែន
+  rw:
+    official: Goronulande
+    common: Goronulande
+  ko:
+    official: 그린랜드
+    common: 그린랜드
+  ku:
+    official: Greenland
+    common: Greenland
+  lv:
+    official: Grenlande
+    common: Grenlande
+  lt:
+    official: Grenlandija
+    common: Grenlandija
+  mk:
+    official: Гренланд
+    common: Гренланд
+  ml:
+    official: ഗ്രീന്‍ ലാന്‍ഡ്
+    common: ഗ്രീന്‍ ലാന്‍ഡ്
+  mi:
+    official: Greenland
+    common: Greenland
+  mr:
+    official: ग्रीनलॅंड
+    common: ग्रीनलॅंड
+  ms:
+    official: Greenland
+    common: Greenland
+  mt:
+    official: Grenada
+    common: Grenada
+  mn:
+    official: Греенланд
+    common: Греенланд
+  ne:
+    official: ग्रिनल्याण्ड
+    common: ग्रिनल्याण्ड
+  nn:
+    official: Grønland
+    common: Grønland
+  nb:
+    official: Grønland
+    common: Grønland
+  oc:
+    official: Groenland
+    common: Groenland
+  or:
+    official: ଗ୍ରୀନଲ୍ଯାଣ୍ଡ
+    common: ଗ୍ରୀନଲ୍ଯାଣ୍ଡ
+  pa:
+    official: ਗਰੀਨਲੈਂਡ
+    common: ਗਰੀਨਲੈਂਡ
+  fa:
+    official: گروئنلند
+    common: گروئنلند
+  pl:
+    official: Grenlandia
+    common: Grenlandia
+  pt:
+    official: Gronelândia
+    common: Gronelândia
+  ps:
+    official: Greenland
+    common: Greenland
+  ro:
+    official: Groenlanda
+    common: Groenlanda
+  ru:
+    official: Гренландия
+    common: Гренландия
+  si:
+    official: ග්‍රීන්ලන්තය
+    common: ග්‍රීන්ලන්තය
+  sk:
+    official: Grónsko
+    common: Grónsko
+  sl:
+    official: Grenlandija
+    common: Grenlandija
+  so:
+    official: Greenland
+    common: Greenland
+  es:
+    official: Groenlandia
+    common: Groenlandia
+  sr:
+    official: Гренланд
+    common: Гренланд
+  sw:
+    official: Greenland
+    common: Greenland
+  sv:
+    official: Grönland
+    common: Grönland
+  ta:
+    official: கிரீன்லாந்து
+    common: கிரீன்லாந்து
+  tt:
+    official: Gреенланд
+    common: Gреенланд
+  te:
+    official: గ్రీన్‌లాండ్
+    common: గ్రీన్‌లాండ్
+  tl:
+    official: Lupangluntian
+    common: Lupangluntian
+  th:
+    official: กรีนแลนด์
+    common: กรีนแลนด์
+  ti:
+    official: Greenland
+    common: Greenland
+  tk:
+    official: Grenlandiýa
+    common: Grenlandiýa
+  tr:
+    official: Grönland
+    common: Grönland
+  ug:
+    official: گىرېنلاند
+    common: گىرېنلاند
+  uk:
+    official: Гренландія
+    common: Гренландія
+  ve:
+    official: Greenland
+    common: Greenland
+  vi:
+    official: Đảo Băng
+    common: Đảo Băng
+  cy:
+    official: Greenland
+    common: Greenland
+  wa:
+    official: Groenlande
+    common: Groenlande
+  wo:
+    official: Greenland
+    common: Greenland
+  xh:
+    official: Grenada
+    common: Grenada
+  zu:
+    official: I-Grenada
+    common: I-Grenada

@@ -1,0 +1,340 @@
+---
+continent: Australia
+alpha2: AS
+alpha3: ASM
+country_code: '1'
+international_prefix: '011'
+ioc: ASA
+gec: AQ
+name: American Samoa
+national_destination_code_lengths:
+- 3
+national_number_lengths:
+- 10
+national_prefix: '1'
+number: '016'
+region: Oceania
+subregion: Polynesia
+world_region: APAC
+un_locode: AS
+nationality: American Samoan
+postal_code: true
+unofficial_names:
+- American Samoa
+- Amerikanisch-Samoa
+- Samoa américaines
+- Samoa Americana
+- アメリカ領サモア
+- Amerikaans Samoa
+languages_official:
+- en
+- sm
+languages_spoken:
+- en
+- sm
+geo:
+  latitude: -14.3060204
+  latitude_dec: "-14.31956672668457"
+  longitude: -170.6961815
+  longitude_dec: "-170.7403564453125"
+  max_latitude: -14.1551045
+  max_longitude: -169.4186269
+  min_latitude: -14.3824778
+  min_longitude: -170.846781
+  bounds:
+    northeast:
+      lat: -14.1551045
+      lng: -169.4186269
+    southwest:
+      lat: -14.3824778
+      lng: -170.846781
+currency_code: USD
+postal_address_data:
+  key: AS
+  upper: ACNOS
+  zipex: '96799'
+  name: AMERICAN SAMOA
+  zip: "(96799)(?:[ \\-](\\d{4}))?"
+  zip_name_type: zip
+  require: ACSZ
+  state_name_type: state
+  id: data/AS
+  posturl: http://zip4.usps.com/zip4/welcome.jsp
+  fmt: "%N%n%O%n%A%n%C %S %Z"
+translations:
+  af:
+    official: Amerikaanse Samoa
+    common: Amerikaanse Samoa
+  sq:
+    official: Samoa Amerikane
+    common: Samoa Amerikane
+  am:
+    official: American Samoa
+    common: American Samoa
+  ar:
+    official: صاموا الأمريكيّة
+    common: صاموا الأمريكيّة
+  hy:
+    official: Ամերիկյան Սամոա
+    common: Ամերիկյան Սամոա
+  as:
+    official: আমেৰিকান ছামোআ
+    common: আমেৰিকান ছামোআ
+  az:
+    official: Amerikan Samoa
+    common: Amerikan Samoa
+  eu:
+    official: Samoa amerikarra
+    common: Samoa amerikarra
+  be:
+    official: Амерыканскае Самоа
+    common: Амерыканскае Самоа
+  bn:
+    official: আমেরিকান সামোয়া
+    common: আমেরিকান সামোয়া
+  bs:
+    official: Američka Samoa
+    common: Američka Samoa
+  br:
+    official: American Samoa
+    common: American Samoa
+  bg:
+    official: Американска Самоа
+    common: Американска Самоа
+  ca:
+    official: Samoa Americana
+    common: Samoa Americana
+  zh:
+    official: 美属萨摩亚
+    common: 美属萨摩亚
+  cs:
+    official: Americká Samoa
+    common: Americká Samoa
+  da:
+    official: Amerikansk Samoa
+    common: Amerikansk Samoa
+  nl:
+    official: Amerikaans-Samoa
+    common: Amerikaans-Samoa
+  dz:
+    official: ཨ་མི་རི་ཀཱན་ ས་མོ་འ།
+    common: ཨ་མི་རི་ཀཱན་ ས་མོ་འ།
+  en:
+    official: American Samoa
+    common: American Samoa
+  eo:
+    official: Usona Samoo
+    common: Usona Samoo
+  et:
+    official: Ameerika Samoa
+    common: Ameerika Samoa
+  fo:
+    official: American Samoa
+    common: American Samoa
+  fi:
+    official: Amerikan Samoa
+    common: Amerikan Samoa
+  fr:
+    official: Samoa américaines
+    common: Samoa américaines
+  ka:
+    official: ამერიკული სამოა
+    common: ამერიკული სამოა
+  de:
+    official: Amerikanisch-Samoa
+    common: Amerikanisch-Samoa
+  ga:
+    official: Samó Meiriceánach
+    common: Samó Meiriceánach
+  gl:
+    official: Samoa Americana
+    common: Samoa Americana
+  el:
+    official: Αμερικανική Σαμόα
+    common: Αμερικανική Σαμόα
+  gu:
+    official: અમેરિકન સામોઆ
+    common: અમેરિકન સામોઆ
+  he:
+    official: סמואה האמריקאית
+    common: סמואה האמריקאית
+  hi:
+    official: अमेरिकन समोआ
+    common: अमेरिकन समोआ
+  hr:
+    official: Američka Samoa
+    common: Američka Samoa
+  hu:
+    official: Amerikai Szamoa
+    common: Amerikai Szamoa
+  is:
+    official: Bandarísku Samóaeyjar
+    common: Bandarísku Samóaeyjar
+  ia:
+    official: Samoa American
+    common: Samoa American
+  id:
+    official: Samoa Amerika
+    common: Samoa Amerika
+  it:
+    official: Samoa americane
+    common: Samoa americane
+  ja:
+    official: 米領サモア
+    common: 米領サモア
+  kn:
+    official: ಅಮೇರಿಕನ್ ಸಮೋಆ
+    common: ಅಮೇರಿಕನ್ ಸಮೋಆ
+  kk:
+    official: Шығыс Самоа (АҚШ)
+    common: Шығыс Самоа (АҚШ)
+  km:
+    official: អាមេរិក​សាមូអា
+    common: អាមេរិក​សាមូអា
+  rw:
+    official: Samowa Nyamerika
+    common: Samowa Nyamerika
+  ko:
+    official: 미국령 사모아
+    common: 미국령 사모아
+  ku:
+    official: Samoya Emerîkî
+    common: Samoya Emerîkî
+  lv:
+    official: Amerikāņu Samoa
+    common: Amerikāņu Samoa
+  lt:
+    official: Amerikos Samoa
+    common: Amerikos Samoa
+  mk:
+    official: Американска Самоа
+    common: Американска Самоа
+  ml:
+    official: അമേരിക്കന്‍ സമോവ
+    common: അമേരിക്കന്‍ സമോവ
+  mi:
+    official: Hāmoa Amerikana
+    common: Hāmoa Amerikana
+  mr:
+    official: अमेरिकन समोआ
+    common: अमेरिकन समोआ
+  ms:
+    official: American Samoa
+    common: American Samoa
+  mt:
+    official: Amerika ta' Fuq
+    common: Amerika ta' Fuq
+  mn:
+    official: Америкын самао
+    common: Америкын самао
+  ne:
+    official: अमेरिकन सामोआ
+    common: अमेरिकन सामोआ
+  nn:
+    official: Amerikansk Samoa
+    common: Amerikansk Samoa
+  nb:
+    official: Amerikansk Samoa
+    common: Amerikansk Samoa
+  oc:
+    official: Amèrica, nord
+    common: Amèrica, nord
+  or:
+    official: ଆମେରିକୀୟ ସାମୋଆ
+    common: ଆମେରିକୀୟ ସାମୋଆ
+  pa:
+    official: ਅਮਰੀਕੀ ਸਾਮੋਨਾ
+    common: ਅਮਰੀਕੀ ਸਾਮੋਨਾ
+  fa:
+    official: ساموآی آمریکایی
+    common: ساموآی آمریکایی
+  pl:
+    official: Samoa Amerykańskie
+    common: Samoa Amerykańskie
+  pt:
+    official: Samoa Americana
+    common: Samoa Americana
+  ps:
+    official: American Samoa
+    common: American Samoa
+  ro:
+    official: Samoa americană
+    common: Samoa americană
+  ru:
+    official: Американские Самоа
+    common: Американские Самоа
+  si:
+    official: ඇමරිකානු සැමෝවා
+    common: ඇමරිකානු සැමෝවා
+  sk:
+    official: Americká Samoa
+    common: Americká Samoa
+  sl:
+    official: Ameriška Samoa
+    common: Ameriška Samoa
+  so:
+    official: American Samoa
+    common: American Samoa
+  es:
+    official: Samoa Americana
+    common: Samoa Americana
+  sr:
+    official: Америчка Самоа
+    common: Америчка Самоа
+  sw:
+    official: Marekani ya Samoa
+    common: Marekani ya Samoa
+  sv:
+    official: Amerikanska Samoa
+    common: Amerikanska Samoa
+  ta:
+    official: அமெரிக்க சமோவா
+    common: அமெரிக்க சமோவா
+  tt:
+    official: Америкалы Самоа
+    common: Америкалы Самоа
+  te:
+    official: అమేరికన్ సమోఆ
+    common: అమేరికన్ సమోఆ
+  tl:
+    official: Amerikanong Samowa
+    common: Amerikanong Samowa
+  th:
+    official: อเมริกันซามัว
+    common: อเมริกันซามัว
+  ti:
+    official: American Samoa
+    common: American Samoa
+  tk:
+    official: Samao Amerika
+    common: Samao Amerika
+  tr:
+    official: Amerikan Samoası
+    common: Amerikan Samoası
+  ug:
+    official: ئامېرىكىغا قاراشلىق ساموئا
+    common: ئامېرىكىغا قاراشلىق ساموئا
+  uk:
+    official: Американське Самоа
+    common: Американське Самоа
+  ve:
+    official: American Samoa
+    common: American Samoa
+  vi:
+    official: Xa-mô-a Mỹ
+    common: Xa-mô-a Mỹ
+  cy:
+    official: American Samoa
+    common: American Samoa
+  wa:
+    official: Samowa amerikinne
+    common: Samowa amerikinne
+  wo:
+    official: American Samoa
+    common: American Samoa
+  xh:
+    official: Melika, Mntla
+    common: Melika, Mntla
+  zu:
+    official: Melika, Mntla
+    common: Melika, Mntla

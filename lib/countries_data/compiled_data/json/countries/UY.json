@@ -1,0 +1,441 @@
+{
+  "continent": "South America",
+  "alpha2": "UY",
+  "alpha3": "URY",
+  "country_code": "598",
+  "international_prefix": "00",
+  "ioc": "URU",
+  "gec": "UY",
+  "name": "Uruguay",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7,
+    8
+  ],
+  "national_prefix": "0",
+  "number": "858",
+  "region": "Americas",
+  "subregion": "South America",
+  "world_region": "AMER",
+  "un_locode": "UY",
+  "nationality": "Uruguayan",
+  "postal_code": true,
+  "unofficial_names": [
+    "Uruguay",
+    "ウルグアイ"
+  ],
+  "languages_official": [
+    "es"
+  ],
+  "languages_spoken": [
+    "es"
+  ],
+  "geo": {
+    "latitude": -32.522779,
+    "latitude_dec": "-32.96965408325195",
+    "longitude": -55.765835,
+    "longitude_dec": "-56.055908203125",
+    "max_latitude": -30.0852149,
+    "max_longitude": -53.18416509999999,
+    "min_latitude": -35.0314638,
+    "min_longitude": -58.43922269999999,
+    "bounds": {
+      "northeast": {
+        "lat": -30.0852149,
+        "lng": -53.18416509999999
+      },
+      "southwest": {
+        "lat": -35.0314638,
+        "lng": -58.43922269999999
+      }
+    }
+  },
+  "currency_code": "UYU",
+  "postal_address_data": {
+    "lang": "es",
+    "upper": "CS",
+    "zipex": "11600",
+    "name": "URUGUAY",
+    "zip": "\\d{5}",
+    "key": "UY",
+    "fmt": "%N%n%O%n%A%n%Z %C %S",
+    "languages": "es",
+    "sub_keys": "Artigas~Canelones~Cerro Largo~Colonia~Durazno~Flores~Florida~Lavalleja~Maldonado~Montevideo~Paysandú~Río Negro~Rivera~Rocha~Salto~San José~Soriano~Tacuarembó~Treinta y Tres",
+    "posturl": "http://www.correo.com.uy/index.asp?codPag=codPost&switchMapa=codPost",
+    "sub_isoids": "AR~CA~CL~CO~DU~FS~FD~LA~MA~MO~PA~RN~RV~RO~SA~SJ~SO~TA~TT",
+    "id": "data/UY",
+    "sub_zips": "55~9[01]|1[456]~37~70|75204~97~85~94|9060|97005~30~20~1|91600~60~65|60002~40~27~50~80~75|70003~45~33|30203|30204|30302|37007"
+  },
+  "translations": {
+    "af": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "sq": {
+      "official": "Uruguaj",
+      "common": "Uruguaj"
+    },
+    "am": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "ar": {
+      "official": "الأوروغواي",
+      "common": "الأوروغواي"
+    },
+    "hy": {
+      "official": "Ուրուգվայ",
+      "common": "Ուրուգվայ"
+    },
+    "as": {
+      "official": "উৰুগুৱে",
+      "common": "উৰুগুৱে"
+    },
+    "az": {
+      "official": "Uruqvay",
+      "common": "Uruqvay"
+    },
+    "eu": {
+      "official": "Uruguai",
+      "common": "Uruguai"
+    },
+    "be": {
+      "official": "Уругвай",
+      "common": "Уругвай"
+    },
+    "bn": {
+      "official": "উরুগুয়ে",
+      "common": "উরুগুয়ে"
+    },
+    "bs": {
+      "official": "Urugvaj",
+      "common": "Urugvaj"
+    },
+    "br": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "bg": {
+      "official": "Уругвай",
+      "common": "Уругвай"
+    },
+    "ca": {
+      "official": "Uruguai",
+      "common": "Uruguai"
+    },
+    "zh": {
+      "official": "乌拉圭",
+      "common": "乌拉圭"
+    },
+    "cs": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "da": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "nl": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "dz": {
+      "official": "ཨུ་རུ་གེ།",
+      "common": "ཨུ་རུ་གེ།"
+    },
+    "en": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "eo": {
+      "official": "Urugvajo",
+      "common": "Urugvajo"
+    },
+    "et": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "fo": {
+      "official": "Uruguei",
+      "common": "Uruguei"
+    },
+    "fi": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "fr": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "ka": {
+      "official": "ურუგვაი",
+      "common": "ურუგვაი"
+    },
+    "de": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "ga": {
+      "official": "Uragua",
+      "common": "Uragua"
+    },
+    "gl": {
+      "official": "Uruguai",
+      "common": "Uruguai"
+    },
+    "el": {
+      "official": "Ουρουγουάη",
+      "common": "Ουρουγουάη"
+    },
+    "gu": {
+      "official": "ઉરુગ્વે",
+      "common": "ઉરુગ્વે"
+    },
+    "he": {
+      "official": "אורוגואי",
+      "common": "אורוגואי"
+    },
+    "hi": {
+      "official": "उरुगूए",
+      "common": "उरुगूए"
+    },
+    "hr": {
+      "official": "Urugvaj",
+      "common": "Urugvaj"
+    },
+    "hu": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "is": {
+      "official": "Úrúgvæ",
+      "common": "Úrúgvæ"
+    },
+    "ia": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "id": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "it": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "ja": {
+      "official": "ウルグアイ",
+      "common": "ウルグアイ"
+    },
+    "kn": {
+      "official": "ಉರುಗ್ವೇ",
+      "common": "ಉರುಗ್ವೇ"
+    },
+    "kk": {
+      "official": "Уругвай",
+      "common": "Уругвай"
+    },
+    "km": {
+      "official": "អ៊ុយរ៉ាហ្គាយ",
+      "common": "អ៊ុយរ៉ាហ្គាយ"
+    },
+    "rw": {
+      "official": "Irigwe",
+      "common": "Irigwe"
+    },
+    "ko": {
+      "official": "우루과이",
+      "common": "우루과이"
+    },
+    "ku": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "lv": {
+      "official": "Urugvaja",
+      "common": "Urugvaja"
+    },
+    "lt": {
+      "official": "Urugvajus",
+      "common": "Urugvajus"
+    },
+    "mk": {
+      "official": "Уругвај",
+      "common": "Уругвај"
+    },
+    "ml": {
+      "official": "ഉറുഗ്വേ",
+      "common": "ഉറുഗ്വേ"
+    },
+    "mi": {
+      "official": "Urukuai",
+      "common": "Urukuai"
+    },
+    "mr": {
+      "official": "उरुग्वे",
+      "common": "उरुग्वे"
+    },
+    "ms": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "mt": {
+      "official": "Urugwaj",
+      "common": "Urugwaj"
+    },
+    "mn": {
+      "official": "Уругвай",
+      "common": "Уругвай"
+    },
+    "ne": {
+      "official": "उरुग्वे",
+      "common": "उरुग्वे"
+    },
+    "nn": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "nb": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "oc": {
+      "official": "Uruguai",
+      "common": "Uruguai"
+    },
+    "or": {
+      "official": "ଉରୁଗ୍ବେ",
+      "common": "ଉରୁଗ୍ବେ"
+    },
+    "pa": {
+      "official": "ਉਰੂਗਵੇ",
+      "common": "ਉਰੂਗਵੇ"
+    },
+    "fa": {
+      "official": "اروگوئه",
+      "common": "اروگوئه"
+    },
+    "pl": {
+      "official": "Urugwaj",
+      "common": "Urugwaj"
+    },
+    "pt": {
+      "official": "Uruguai",
+      "common": "Uruguai"
+    },
+    "ps": {
+      "official": "یوروګوای",
+      "common": "یوروګوای"
+    },
+    "ro": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "ru": {
+      "official": "Уругвай",
+      "common": "Уругвай"
+    },
+    "si": {
+      "official": "උරුගුවේ",
+      "common": "උරුගුවේ"
+    },
+    "sk": {
+      "official": "Uruguaj",
+      "common": "Uruguaj"
+    },
+    "sl": {
+      "official": "Urugvaj",
+      "common": "Urugvaj"
+    },
+    "so": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "es": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "sr": {
+      "official": "Уругвај",
+      "common": "Уругвај"
+    },
+    "sw": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "sv": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "ta": {
+      "official": "உருகுவே",
+      "common": "உருகுவே"
+    },
+    "tt": {
+      "official": "Уруgуай",
+      "common": "Уруgуай"
+    },
+    "te": {
+      "official": "ఉరుగ్వే",
+      "common": "ఉరుగ్వే"
+    },
+    "tl": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "th": {
+      "official": "อุรุกวัย",
+      "common": "อุรุกวัย"
+    },
+    "ti": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "tk": {
+      "official": "Urugwaý",
+      "common": "Urugwaý"
+    },
+    "tr": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "ug": {
+      "official": "ئۇرۇگۋاي",
+      "common": "ئۇرۇگۋاي"
+    },
+    "uk": {
+      "official": "Уругвай",
+      "common": "Уругвай"
+    },
+    "ve": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "vi": {
+      "official": "U-ru-guay",
+      "common": "U-ru-guay"
+    },
+    "cy": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "wa": {
+      "official": "Ourougway",
+      "common": "Ourougway"
+    },
+    "wo": {
+      "official": "Uruguwaay",
+      "common": "Uruguwaay"
+    },
+    "xh": {
+      "official": "Uruguay",
+      "common": "Uruguay"
+    },
+    "zu": {
+      "official": "I-Uruguwayi",
+      "common": "I-Uruguwayi"
+    }
+  }
+}

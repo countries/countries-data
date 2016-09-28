@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: Афганстан
+    common: Афганстан
+  AX:
+    official: Соломоны арлууд
+    common: Соломоны арлууд
+  AL:
+    official: Албани
+    common: Албани
+  DZ:
+    official: Алжир
+    common: Алжир
+  AS:
+    official: Америкын самао
+    common: Америкын самао
+  AD:
+    official: Андорра
+    common: Андорра
+  AO:
+    official: Ангол
+    common: Ангол
+  AI:
+    official: Anguilla
+    common: Anguilla
+  AQ:
+    official: Антрактид
+    common: Антрактид
+  AG:
+    official: Antigua and Barbuda
+    common: Antigua and Barbuda
+  AR:
+    official: Аргентин
+    common: Аргентин
+  AM:
+    official: Армен
+    common: Армен
+  AW:
+    official: Aruba
+    common: Aruba
+  AU:
+    official: Австрали
+    common: Австрали
+  AT:
+    official: Австри
+    common: Австри
+  AZ:
+    official: Азербайжан
+    common: Азербайжан
+  BS:
+    official: Bahamas
+    common: Bahamas
+  BH:
+    official: Bahrain
+    common: Bahrain
+  BD:
+    official: Бангладеш
+    common: Бангладеш
+  BB:
+    official: Барбадос
+    common: Барбадос
+  BY:
+    official: Белорусс
+    common: Белорусс
+  BE:
+    official: Белги
+    common: Белги
+  BZ:
+    official: Belize
+    common: Belize
+  BJ:
+    official: Benin
+    common: Benin
+  BM:
+    official: Bermuda
+    common: Bermuda
+  BT:
+    official: Бутан
+    common: Бутан
+  BO:
+    official: Bolivia, Plurinational State of
+    common: Bolivia, Plurinational State of
+  BQ:
+    official: Bonaire, Sint Eustatius and Saba
+    common: Bonaire, Sint Eustatius and Saba
+  BA:
+    official: Босний ба Нерцеговин
+    common: Босний ба Нерцеговин
+  BW:
+    official: Botswana
+    common: Botswana
+  BV:
+    official: Bouvet Island
+    common: Bouvet Island
+  BR:
+    official: Бразил
+    common: Бразил
+  IO:
+    official: Британий энэтхэгийн далайн нутаг
+    common: Британий энэтхэгийн далайн нутаг
+  BN:
+    official: Брунейн вант улс
+    common: Брунейн вант улс
+  BG:
+    official: Болгар
+    common: Болгар
+  BF:
+    official: Burkina Faso
+    common: Burkina Faso
+  BI:
+    official: Burundi
+    common: Burundi
+  KH:
+    official: Cambodia
+    common: Cambodia
+  CM:
+    official: Камерун
+    common: Камерун
+  CA:
+    official: Канад
+    common: Канад
+  CV:
+    official: Cape Verde
+    common: Cape Verde
+  KY:
+    official: Cayman Islands
+    common: Cayman Islands
+  CF:
+    official: Төв африкын ард улс
+    common: Төв африкын ард улс
+  TD:
+    official: Чад
+    common: Чад
+  CL:
+    official: Чили
+    common: Чили
+  CN:
+    official: Хятад
+    common: Хятад
+  CX:
+    official: Кристмас исланд
+    common: Кристмас исланд
+  CC:
+    official: Cocos (Keeling) Islands
+    common: Cocos (Keeling) Islands
+  CO:
+    official: Колумб
+    common: Колумб
+  KM:
+    official: Comoros
+    common: Comoros
+  CG:
+    official: Конго
+    common: Конго
+  CD:
+    official: Ардчилсан Конго ард улс
+    common: Ардчилсан Конго ард улс
+  CK:
+    official: Cook Islands
+    common: Cook Islands
+  CR:
+    official: Коста рика
+    common: Коста рика
+  CI:
+    official: Côte d'Ivoire
+    common: Côte d'Ivoire
+  HR:
+    official: Croatia
+    common: Croatia
+  CU:
+    official: Куба
+    common: Куба
+  CW:
+    official: Curaçao
+    common: Curaçao
+  CY:
+    official: Cyprus
+    common: Cyprus
+  CZ:
+    official: Чех ард улс
+    common: Чех ард улс
+  DK:
+    official: Дани
+    common: Дани
+  DJ:
+    official: Djibouti
+    common: Djibouti
+  DM:
+    official: Доминик
+    common: Доминик
+  DO:
+    official: Доминик ард улс
+    common: Доминик ард улс
+  EC:
+    official: Эквадор
+    common: Эквадор
+  EG:
+    official: Египт
+    common: Египт
+  SV:
+    official: Эл салвадор
+    common: Эл салвадор
+  GQ:
+    official: Equatorial Guinea
+    common: Equatorial Guinea
+  ER:
+    official: Eritrea
+    common: Eritrea
+  EE:
+    official: Эстони
+    common: Эстони
+  ET:
+    official: Этопи
+    common: Этопи
+  FK:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  FO:
+    official: Faroe Islands
+    common: Faroe Islands
+  FJ:
+    official: Fiji
+    common: Fiji
+  FI:
+    official: Финнлянд
+    common: Финнлянд
+  FR:
+    official: Франц
+    common: Франц
+  GF:
+    official: Франц гана
+    common: Франц гана
+  PF:
+    official: French Polynesia
+    common: French Polynesia
+  TF:
+    official: French Southern Territories
+    common: French Southern Territories
+  GA:
+    official: Габон
+    common: Габон
+  GM:
+    official: Гамби
+    common: Гамби
+  GE:
+    official: Георги
+    common: Георги
+  DE:
+    official: Герман
+    common: Герман
+  GH:
+    official: Гана
+    common: Гана
+  GI:
+    official: Гибралтар
+    common: Гибралтар
+  GR:
+    official: Грек
+    common: Грек
+  GL:
+    official: Греенланд
+    common: Греенланд
+  GD:
+    official: Гренда
+    common: Гренда
+  GP:
+    official: Guadeloupe
+    common: Guadeloupe
+  GU:
+    official: Guam
+    common: Guam
+  GT:
+    official: Guatemala
+    common: Guatemala
+  GG:
+    official: Герман
+    common: Герман
+  GN:
+    official: Guinea
+    common: Guinea
+  GW:
+    official: Guinea-Bissau
+    common: Guinea-Bissau
+  GY:
+    official: Guyana
+    common: Guyana
+  HT:
+    official: Haiti
+    common: Haiti
+  HM:
+    official: Төв исланд & МКдоналд исланд
+    common: Төв исланд & МКдоналд исланд
+  VA:
+    official: Holy See (Vatican City State)
+    common: Holy See (Vatican City State)
+  HN:
+    official: Гондурас
+    common: Гондурас
+  HK:
+    official: Хонконг
+    common: Хонконг
+  HU:
+    official: Унгар
+    common: Унгар
+  IS:
+    official: Исланд
+    common: Исланд
+  IN:
+    official: Энэтхэг
+    common: Энэтхэг
+  ID:
+    official: Индонез
+    common: Индонез
+  IR:
+    official: Солонгос ард улс
+    common: Солонгос ард улс
+  IQ:
+    official: Ирак
+    common: Ирак
+  IE:
+    official: Ирланд
+    common: Ирланд
+  IM:
+    official: Isle of Man
+    common: Isle of Man
+  IL:
+    official: Израйл
+    common: Израйл
+  IT:
+    official: Итали
+    common: Итали
+  JM:
+    official: Ямайк
+    common: Ямайк
+  JP:
+    official: Япон
+    common: Япон
+  JE:
+    official: Jersey
+    common: Jersey
+  JO:
+    official: Ёрдан
+    common: Ёрдан
+  KZ:
+    official: Казакстан
+    common: Казакстан
+  KE:
+    official: Кениа
+    common: Кениа
+  KI:
+    official: Kiribati
+    common: Kiribati
+  KP:
+    official: Ардчилсан солонгос улс
+    common: Ардчилсан солонгос улс
+  KR:
+    official: Солонгос ард улс
+    common: Солонгос ард улс
+  KW:
+    official: Кувейт
+    common: Кувейт
+  KG:
+    official: Киргиз
+    common: Киргиз
+  LA:
+    official: Ардчилсан Конго ард улс
+    common: Ардчилсан Конго ард улс
+  LV:
+    official: Латви
+    common: Латви
+  LB:
+    official: Либони
+    common: Либони
+  LS:
+    official: Lesotho
+    common: Lesotho
+  LR:
+    official: Liberia
+    common: Liberia
+  LY:
+    official: Libya
+    common: Libya
+  LI:
+    official: Лейхтенштайн
+    common: Лейхтенштайн
+  LT:
+    official: Lithuania
+    common: Lithuania
+  LU:
+    official: Льюксембург
+    common: Льюксембург
+  MO:
+    official: Макао
+    common: Макао
+  MK:
+    official: Солонгос ард улс
+    common: Солонгос ард улс
+  MG:
+    official: Мадагаскар
+    common: Мадагаскар
+  MW:
+    official: Малави
+    common: Малави
+  MY:
+    official: Малайз
+    common: Малайз
+  MV:
+    official: Малдивс
+    common: Малдивс
+  ML:
+    official: Мали
+    common: Мали
+  MT:
+    official: Малта
+    common: Малта
+  MH:
+    official: Маршаллын арлууд
+    common: Маршаллын арлууд
+  MQ:
+    official: Martinique
+    common: Martinique
+  MR:
+    official: Mauritania
+    common: Mauritania
+  MU:
+    official: Mauritius
+    common: Mauritius
+  YT:
+    official: Mayotte
+    common: Mayotte
+  MX:
+    official: Мексик
+    common: Мексик
+  FM:
+    official: Micronesia, Federated States of
+    common: Micronesia, Federated States of
+  MD:
+    official: Солонгос ард улс
+    common: Солонгос ард улс
+  MC:
+    official: Монако
+    common: Монако
+  MN:
+    official: Монгол
+    common: Монгол
+  ME:
+    official: Montenegro
+    common: Montenegro
+  MS:
+    official: Montserrat
+    common: Montserrat
+  MA:
+    official: Морокко
+    common: Морокко
+  MZ:
+    official: Мозамбайк
+    common: Мозамбайк
+  MM:
+    official: Мянмар
+    common: Мянмар
+  NA:
+    official: Намиб
+    common: Намиб
+  NR:
+    official: Nauru
+    common: Nauru
+  NP:
+    official: Нипал
+    common: Нипал
+  NL:
+    official: Нидерланд
+    common: Нидерланд
+  NC:
+    official: Шинэ калдени
+    common: Шинэ калдени
+  NZ:
+    official: Шинэ зеланд
+    common: Шинэ зеланд
+  NI:
+    official: Никрагуа
+    common: Никрагуа
+  NE:
+    official: Нигер
+    common: Нигер
+  NG:
+    official: Нигерь
+    common: Нигерь
+  NU:
+    official: Niue
+    common: Niue
+  NF:
+    official: Norfolk Island
+    common: Norfolk Island
+  MP:
+    official: Хойд марианы арлууд
+    common: Хойд марианы арлууд
+  'NO':
+    official: Норвеги
+    common: Норвеги
+  OM:
+    official: Оман
+    common: Оман
+  PK:
+    official: Пакистан
+    common: Пакистан
+  PW:
+    official: Палау
+    common: Палау
+  PS:
+    official: Palestine, State of
+    common: Palestine, State of
+  PA:
+    official: Панама
+    common: Панама
+  PG:
+    official: Papua New Guinea
+    common: Papua New Guinea
+  PY:
+    official: Прагвай
+    common: Прагвай
+  PE:
+    official: Перу
+    common: Перу
+  PH:
+    official: Флиппен
+    common: Флиппен
+  PN:
+    official: Pitcairn
+    common: Pitcairn
+  PL:
+    official: Польш
+    common: Польш
+  PT:
+    official: Португаль
+    common: Португаль
+  PR:
+    official: Пуерто рико
+    common: Пуерто рико
+  QA:
+    official: Qatar
+    common: Qatar
+  RE:
+    official: Réunion
+    common: Réunion
+  RO:
+    official: Румын
+    common: Румын
+  RU:
+    official: Оросын холбооны улс
+    common: Оросын холбооны улс
+  RW:
+    official: Rwanda
+    common: Rwanda
+  BL:
+    official: Saint Barthélemy
+    common: Saint Barthélemy
+  SH:
+    official: Saint Helena, Ascension and Tristan da Cunha
+    common: Saint Helena, Ascension and Tristan da Cunha
+  KN:
+    official: Saint Kitts and Nevis
+    common: Saint Kitts and Nevis
+  LC:
+    official: Saint Lucia
+    common: Saint Lucia
+  MF:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  PM:
+    official: Saint Pierre and Miquelon
+    common: Saint Pierre and Miquelon
+  VC:
+    official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+  WS:
+    official: Самоа
+    common: Самоа
+  SM:
+    official: Сан марино
+    common: Сан марино
+  ST:
+    official: Sao Tome and Principe
+    common: Sao Tome and Principe
+  SA:
+    official: Саудын араб
+    common: Саудын араб
+  SN:
+    official: Сингали
+    common: Сингали
+  RS:
+    official: Сири
+    common: Сири
+  SC:
+    official: Seychelles
+    common: Seychelles
+  SL:
+    official: Sierra Leone
+    common: Sierra Leone
+  SG:
+    official: Сингафур
+    common: Сингафур
+  SX:
+    official: Sint Maarten (Dutch part)
+    common: Sint Maarten (Dutch part)
+  SK:
+    official: Словак
+    common: Словак
+  SI:
+    official: Словени
+    common: Словени
+  SB:
+    official: Соломоны арлууд
+    common: Соломоны арлууд
+  SO:
+    official: Сомали
+    common: Сомали
+  ZA:
+    official: Өмнөд африк
+    common: Өмнөд африк
+  GS:
+    official: Өмнөд георги ба өмнөд завсрын арлууд
+    common: Өмнөд георги ба өмнөд завсрын арлууд
+  ES:
+    official: Испани
+    common: Испани
+  LK:
+    official: Sri Lanka
+    common: Sri Lanka
+  SD:
+    official: Судан
+    common: Судан
+  SR:
+    official: Suriname
+    common: Suriname
+  SS:
+    official: Өмнөд африк
+    common: Өмнөд африк
+  SJ:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  SZ:
+    official: Швецарь
+    common: Швецарь
+  SE:
+    official: Швед
+    common: Швед
+  CH:
+    official: Швецарь
+    common: Швецарь
+  SY:
+    official: Төв африкын ард улс
+    common: Төв африкын ард улс
+  TW:
+    official: Тайван
+    common: Тайван
+  TJ:
+    official: Тажикстан
+    common: Тажикстан
+  TZ:
+    official: Солонгос ард улс
+    common: Солонгос ард улс
+  TH:
+    official: Тайланд
+    common: Тайланд
+  TL:
+    official: Timor-Leste
+    common: Timor-Leste
+  TG:
+    official: Того
+    common: Того
+  TK:
+    official: Tokelau
+    common: Tokelau
+  TO:
+    official: Тонга
+    common: Тонга
+  TT:
+    official: Trinidad and Tobago
+    common: Trinidad and Tobago
+  TN:
+    official: Тунгус
+    common: Тунгус
+  TR:
+    official: Турк
+    common: Турк
+  TM:
+    official: Туркменстан
+    common: Туркменстан
+  TC:
+    official: Turks and Caicos Islands
+    common: Turks and Caicos Islands
+  TV:
+    official: Тували
+    common: Тували
+  UG:
+    official: Уганда
+    common: Уганда
+  UA:
+    official: Украйн
+    common: Украйн
+  AE:
+    official: Арабын нэгдсэн имерат
+    common: Арабын нэгдсэн имерат
+  GB:
+    official: United Kingdom
+    common: United Kingdom
+  US:
+    official: Америкын нэгдсэн улс
+    common: Америкын нэгдсэн улс
+  UM:
+    official: United States Minor Outlying Islands
+    common: United States Minor Outlying Islands
+  UY:
+    official: Уругвай
+    common: Уругвай
+  UZ:
+    official: узбекстан
+    common: узбекстан
+  VU:
+    official: Vanuatu
+    common: Vanuatu
+  VE:
+    official: Солонгос ард улс
+    common: Солонгос ард улс
+  VN:
+    official: Виетьнам
+    common: Виетьнам
+  VG:
+    official: Виржиний британи арлууд
+    common: Виржиний британи арлууд
+  VI:
+    official: Виржиний АНУ арлууд
+    common: Виржиний АНУ арлууд
+  WF:
+    official: Wallis and Futuna
+    common: Wallis and Futuna
+  EH:
+    official: Баруун сахар
+    common: Баруун сахар
+  YE:
+    official: Иемэн
+    common: Иемэн
+  ZM:
+    official: Замби
+    common: Замби
+  ZW:
+    official: Замбибаби
+    common: Замбибаби

@@ -1,0 +1,445 @@
+{
+  "continent": "Europe",
+  "alpha2": "AD",
+  "alpha3": "AND",
+  "country_code": "376",
+  "international_prefix": "00",
+  "ioc": "AND",
+  "gec": "AN",
+  "name": "Andorra",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "national_prefix": "None",
+  "number": "020",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "world_region": "EMEA",
+  "un_locode": "AD",
+  "nationality": "Andorran",
+  "postal_code": true,
+  "unofficial_names": [
+    "Andorre",
+    "Andorra",
+    "アンドラ"
+  ],
+  "languages_official": [
+    "ca"
+  ],
+  "languages_spoken": [
+    "ca"
+  ],
+  "geo": {
+    "latitude": 42.506285,
+    "latitude_dec": "42.5506591796875",
+    "longitude": 1.521801,
+    "longitude_dec": "1.5762332677841187",
+    "max_latitude": 42.6557909,
+    "max_longitude": 1.786639,
+    "min_latitude": 42.4287488,
+    "min_longitude": 1.4087051,
+    "bounds": {
+      "northeast": {
+        "lat": 42.6557909,
+        "lng": 1.786639
+      },
+      "southwest": {
+        "lat": 42.4287488,
+        "lng": 1.4087051
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "lang": "ca",
+    "key": "AD",
+    "sub_zipexs": "AD500~AD100~AD200~AD700~AD400~AD300~AD600",
+    "zipex": "AD100,AD501,AD700",
+    "name": "ANDORRA",
+    "zip": "AD[1-7]0\\d",
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "languages": "ca",
+    "sub_keys": "Parròquia d'Andorra la Vella~Canillo~Encamp~Escaldes-Engordany~La Massana~Ordino~Sant Julià de Lòria",
+    "posturl": "http://www.correos.es/comun/CodigosPostales/1010_s-CodPostal.asp?Provincia=",
+    "sub_isoids": "07~02~03~08~04~05~06",
+    "id": "data/AD",
+    "sub_names": "Andorra la Vella~Canillo~Encamp~Escaldes-Engordany~La Massana~Ordino~Sant Julià de Lòria",
+    "sub_zips": "AD50[01]~AD10[01]~AD20[01]~AD70[01]~AD40[01]~AD30[01]~AD60[01]"
+  },
+  "translations": {
+    "af": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "sq": {
+      "official": "Andora",
+      "common": "Andora"
+    },
+    "am": {
+      "official": "ጐን፦ሲ",
+      "common": "ጐን፦ሲ"
+    },
+    "ar": {
+      "official": "أندورا",
+      "common": "أندورا"
+    },
+    "hy": {
+      "official": "Անդորա",
+      "common": "Անդորա"
+    },
+    "as": {
+      "official": "এণ্ডোৰা",
+      "common": "এণ্ডোৰা"
+    },
+    "az": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "eu": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "be": {
+      "official": "Андора",
+      "common": "Андора"
+    },
+    "bn": {
+      "official": "অ্যান্ডোরা",
+      "common": "অ্যান্ডোরা"
+    },
+    "bs": {
+      "official": "Andora",
+      "common": "Andora"
+    },
+    "br": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "bg": {
+      "official": "Андора",
+      "common": "Андора"
+    },
+    "ca": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "zh": {
+      "official": "安道尔",
+      "common": "安道尔"
+    },
+    "cs": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "da": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "nl": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "dz": {
+      "official": "ཨེན་ཌོ་ར།",
+      "common": "ཨེན་ཌོ་ར།"
+    },
+    "en": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "eo": {
+      "official": "Andoro",
+      "common": "Andoro"
+    },
+    "et": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "fo": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "fi": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "fr": {
+      "official": "Andorre",
+      "common": "Andorre"
+    },
+    "ka": {
+      "official": "ანდორა",
+      "common": "ანდორა"
+    },
+    "de": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "ga": {
+      "official": "Andóra",
+      "common": "Andóra"
+    },
+    "gl": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "el": {
+      "official": "Ανδόρρα",
+      "common": "Ανδόρρα"
+    },
+    "gu": {
+      "official": "એન્ડોરા",
+      "common": "એન્ડોરા"
+    },
+    "he": {
+      "official": "אנדורה",
+      "common": "אנדורה"
+    },
+    "hi": {
+      "official": "एन्डोर्रा",
+      "common": "एन्डोर्रा"
+    },
+    "hr": {
+      "official": "Andora",
+      "common": "Andora"
+    },
+    "hu": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "is": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "ia": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "id": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "it": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "ja": {
+      "official": "アンドラ",
+      "common": "アンドラ"
+    },
+    "kn": {
+      "official": "ಆಂಡೋರ್ರಾ",
+      "common": "ಆಂಡೋರ್ರಾ"
+    },
+    "kk": {
+      "official": "Андорра",
+      "common": "Андорра"
+    },
+    "km": {
+      "official": "អង់ដូរ៉ា",
+      "common": "អង់ដូរ៉ា"
+    },
+    "rw": {
+      "official": "Andora",
+      "common": "Andora"
+    },
+    "ko": {
+      "official": "안도라",
+      "common": "안도라"
+    },
+    "ku": {
+      "official": "Andora",
+      "common": "Andora"
+    },
+    "lv": {
+      "official": "Andora",
+      "common": "Andora"
+    },
+    "lt": {
+      "official": "Andora",
+      "common": "Andora"
+    },
+    "mk": {
+      "official": "Андора",
+      "common": "Андора"
+    },
+    "ml": {
+      "official": "അന്‍ഡോറ",
+      "common": "അന്‍ഡോറ"
+    },
+    "mi": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "mr": {
+      "official": "ऍंडोरा",
+      "common": "ऍंडोरा"
+    },
+    "ms": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "mt": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "mn": {
+      "official": "Андорра",
+      "common": "Андорра"
+    },
+    "ne": {
+      "official": "एनडोर्रा",
+      "common": "एनडोर्रा"
+    },
+    "nn": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "nb": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "oc": {
+      "official": "Andòrra",
+      "common": "Andòrra"
+    },
+    "or": {
+      "official": "ଅଣ୍ଟୋରା",
+      "common": "ଅଣ୍ଟୋରା"
+    },
+    "pa": {
+      "official": "ਅਡੂਰਾ",
+      "common": "ਅਡੂਰਾ"
+    },
+    "fa": {
+      "official": "آندورا",
+      "common": "آندورا"
+    },
+    "pl": {
+      "official": "Andora",
+      "common": "Andora"
+    },
+    "pt": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "ps": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "ro": {
+      "official": "Andora",
+      "common": "Andora"
+    },
+    "ru": {
+      "official": "Андорра",
+      "common": "Андорра"
+    },
+    "si": {
+      "official": "ඇන්ඩෝරා",
+      "common": "ඇන්ඩෝරා"
+    },
+    "sk": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "sl": {
+      "official": "Andora",
+      "common": "Andora"
+    },
+    "so": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "es": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "sr": {
+      "official": "Андора",
+      "common": "Андора"
+    },
+    "sw": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "sv": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "ta": {
+      "official": "அன்டோரா",
+      "common": "அன்டோரா"
+    },
+    "tt": {
+      "official": "Андорра",
+      "common": "Андорра"
+    },
+    "te": {
+      "official": "ఐండోరా",
+      "common": "ఐండోరా"
+    },
+    "tl": {
+      "official": "Andora",
+      "common": "Andora"
+    },
+    "th": {
+      "official": "อันดอร์รา",
+      "common": "อันดอร์รา"
+    },
+    "ti": {
+      "official": "አንዶራ",
+      "common": "አንዶራ"
+    },
+    "tk": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "tr": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "ug": {
+      "official": "ئاندوررا",
+      "common": "ئاندوررا"
+    },
+    "uk": {
+      "official": "Андорра",
+      "common": "Андорра"
+    },
+    "ve": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "vi": {
+      "official": "Ăn-đoa-râ",
+      "common": "Ăn-đoa-râ"
+    },
+    "cy": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "wa": {
+      "official": "Andore",
+      "common": "Andore"
+    },
+    "wo": {
+      "official": "Andoor",
+      "common": "Andoor"
+    },
+    "xh": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "zu": {
+      "official": "Andorra",
+      "common": "Andorra"
+    }
+  }
+}

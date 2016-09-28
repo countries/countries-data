@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: Afganistan
+    common: Afganistan
+  AX:
+    official: Iyes Åland
+    common: Iyes Åland
+  AL:
+    official: Albaneye
+    common: Albaneye
+  DZ:
+    official: Aldjereye
+    common: Aldjereye
+  AS:
+    official: Samowa amerikinne
+    common: Samowa amerikinne
+  AD:
+    official: Andore
+    common: Andore
+  AO:
+    official: Angola
+    common: Angola
+  AI:
+    official: Anguila
+    common: Anguila
+  AQ:
+    official: Antartike
+    common: Antartike
+  AG:
+    official: Antigua eyet Barbuda
+    common: Antigua eyet Barbuda
+  AR:
+    official: Årdjintene
+    common: Årdjintene
+  AM:
+    official: Årmeneye
+    common: Årmeneye
+  AW:
+    official: Arouba
+    common: Arouba
+  AU:
+    official: Ostraleye
+    common: Ostraleye
+  AT:
+    official: Otriche
+    common: Otriche
+  AZ:
+    official: Azerbaydjan
+    common: Azerbaydjan
+  BS:
+    official: Bahamas
+    common: Bahamas
+  BH:
+    official: Bareyn
+    common: Bareyn
+  BD:
+    official: Bangladesh
+    common: Bangladesh
+  BB:
+    official: Bårbades
+    common: Bårbades
+  BY:
+    official: Belaruss
+    common: Belaruss
+  BE:
+    official: Beldjike
+    common: Beldjike
+  BZ:
+    official: Belize
+    common: Belize
+  BJ:
+    official: Benin
+    common: Benin
+  BM:
+    official: Bermudes
+    common: Bermudes
+  BT:
+    official: Boutan
+    common: Boutan
+  BO:
+    official: Boliveye, Estat plurinåcionå di
+    common: Boliveye, Estat plurinåcionå di
+  BQ:
+    official: Bonaire, Sint Eustatius & Saba
+    common: Bonaire, Sint Eustatius & Saba
+  BA:
+    official: Bosneye
+    common: Bosneye
+  BW:
+    official: Boswana
+    common: Boswana
+  BV:
+    official: Iye Bouvet
+    common: Iye Bouvet
+  BR:
+    official: Braezi
+    common: Braezi
+  IO:
+    official: Teritweres britanikes di l' Oceyan Indyin
+    common: Teritweres britanikes di l' Oceyan Indyin
+  BN:
+    official: Bruney
+    common: Bruney
+  BG:
+    official: Bulgåreye
+    common: Bulgåreye
+  BF:
+    official: Bourkina Fasso
+    common: Bourkina Fasso
+  BI:
+    official: Bouroundi
+    common: Bouroundi
+  KH:
+    official: Cambodje
+    common: Cambodje
+  CM:
+    official: Camrone
+    common: Camrone
+  CA:
+    official: Canada
+    common: Canada
+  CV:
+    official: Cap Vert
+    common: Cap Vert
+  KY:
+    official: Iyes Cayman
+    common: Iyes Cayman
+  CF:
+    official: Cintrafrike
+    common: Cintrafrike
+  TD:
+    official: Tchad
+    common: Tchad
+  CL:
+    official: Tchili
+    common: Tchili
+  CN:
+    official: Chine
+    common: Chine
+  CX:
+    official: Iye Christmas
+    common: Iye Christmas
+  CC:
+    official: Iyes Cocos (Keeling)
+    common: Iyes Cocos (Keeling)
+  CO:
+    official: Colombeye
+    common: Colombeye
+  KM:
+    official: Comores
+    common: Comores
+  CG:
+    official: Congo-Brazza
+    common: Congo-Brazza
+  CD:
+    official: Congo-Kinshasa, Republike Democratike do Congo
+    common: Congo-Kinshasa, Republike Democratike do Congo
+  CK:
+    official: Iyes Cook
+    common: Iyes Cook
+  CR:
+    official: Costa Rica
+    common: Costa Rica
+  CI:
+    official: Coisse d' Ivwere
+    common: Coisse d' Ivwere
+  HR:
+    official: Crowåceye
+    common: Crowåceye
+  CU:
+    official: Cuba
+    common: Cuba
+  CW:
+    official: Curaçao
+    common: Curaçao
+  CY:
+    official: Chipe
+    common: Chipe
+  CZ:
+    official: Tchekeye
+    common: Tchekeye
+  DK:
+    official: Daenmåtche
+    common: Daenmåtche
+  DJ:
+    official: Djibouti
+    common: Djibouti
+  DM:
+    official: Dominike
+    common: Dominike
+  DO:
+    official: Republike Dominikinne
+    common: Republike Dominikinne
+  EC:
+    official: Ecwåteur
+    common: Ecwåteur
+  EG:
+    official: Edjipe
+    common: Edjipe
+  SV:
+    official: El Salvador
+    common: El Salvador
+  GQ:
+    official: Guinêye Ecwåtoriåle
+    common: Guinêye Ecwåtoriåle
+  ER:
+    official: Eritrêye
+    common: Eritrêye
+  EE:
+    official: Estoneye
+    common: Estoneye
+  ET:
+    official: Etiopeye
+    common: Etiopeye
+  FK:
+    official: Iyes Malouwines
+    common: Iyes Malouwines
+  FO:
+    official: Iyes Faeroyé
+    common: Iyes Faeroyé
+  FJ:
+    official: Fidji
+    common: Fidji
+  FI:
+    official: Finlande
+    common: Finlande
+  FR:
+    official: France
+    common: France
+  GF:
+    official: Guyane francesse
+    common: Guyane francesse
+  PF:
+    official: Polinezeye francesse
+    common: Polinezeye francesse
+  TF:
+    official: Teritweres francès do sud
+    common: Teritweres francès do sud
+  GA:
+    official: Gabon
+    common: Gabon
+  GM:
+    official: Gambeye
+    common: Gambeye
+  GE:
+    official: Djeyordjeye
+    common: Djeyordjeye
+  DE:
+    official: Almagne
+    common: Almagne
+  GH:
+    official: Gana
+    common: Gana
+  GI:
+    official: Djibraltar
+    common: Djibraltar
+  GR:
+    official: Grece
+    common: Grece
+  GL:
+    official: Groenlande
+    common: Groenlande
+  GD:
+    official: Grenåde
+    common: Grenåde
+  GP:
+    official: Gwadeloupe
+    common: Gwadeloupe
+  GU:
+    official: Gwam
+    common: Gwam
+  GT:
+    official: Gwatemala
+    common: Gwatemala
+  GG:
+    official: Guernsey
+    common: Guernsey
+  GN:
+    official: Guinêye
+    common: Guinêye
+  GW:
+    official: Guinêye-Bissaw
+    common: Guinêye-Bissaw
+  GY:
+    official: Guyana
+    common: Guyana
+  HT:
+    official: Hayiti
+    common: Hayiti
+  HM:
+    official: Iyeas Heard et McDonald
+    common: Iyeas Heard et McDonald
+  VA:
+    official: Vatican
+    common: Vatican
+  HN:
+    official: Honduras
+    common: Honduras
+  HK:
+    official: Hong Kong
+    common: Hong Kong
+  HU:
+    official: Hongreye
+    common: Hongreye
+  IS:
+    official: Izlande
+    common: Izlande
+  IN:
+    official: Inde
+    common: Inde
+  ID:
+    official: Indonezeye
+    common: Indonezeye
+  IR:
+    official: Iran
+    common: Iran
+  IQ:
+    official: Irak
+    common: Irak
+  IE:
+    official: Irlande
+    common: Irlande
+  IM:
+    official: Iye di Man
+    common: Iye di Man
+  IL:
+    official: Israyel
+    common: Israyel
+  IT:
+    official: Itåleye
+    common: Itåleye
+  JM:
+    official: Djamayike
+    common: Djamayike
+  JP:
+    official: Djapon
+    common: Djapon
+  JE:
+    official: Djersey
+    common: Djersey
+  JO:
+    official: Djordaneye
+    common: Djordaneye
+  KZ:
+    official: Kazaxhtan
+    common: Kazaxhtan
+  KE:
+    official: Kenia
+    common: Kenia
+  KI:
+    official: Kiribati
+    common: Kiribati
+  KP:
+    official: Corêye (bijhrece)
+    common: Corêye (bijhrece)
+  KR:
+    official: Corêye (nonnrece)
+    common: Corêye (nonnrece)
+  KW:
+    official: Kuweyt
+    common: Kuweyt
+  KG:
+    official: Kirguiztan
+    common: Kirguiztan
+  LA:
+    official: Laosse
+    common: Laosse
+  LV:
+    official: Letoneye
+    common: Letoneye
+  LB:
+    official: Liban
+    common: Liban
+  LS:
+    official: Lessoto
+    common: Lessoto
+  LR:
+    official: Liberia
+    common: Liberia
+  LY:
+    official: Libeye
+    common: Libeye
+  LI:
+    official: Lîchtensteyn
+    common: Lîchtensteyn
+  LT:
+    official: Litwaneye
+    common: Litwaneye
+  LU:
+    official: Lussimbork
+    common: Lussimbork
+  MO:
+    official: Macao
+    common: Macao
+  MK:
+    official: Macedoneye
+    common: Macedoneye
+  MG:
+    official: Madagascar
+    common: Madagascar
+  MW:
+    official: Malawi
+    common: Malawi
+  MY:
+    official: Malaizeye
+    common: Malaizeye
+  MV:
+    official: Maldives
+    common: Maldives
+  ML:
+    official: Mali
+    common: Mali
+  MT:
+    official: Male
+    common: Male
+  MH:
+    official: Iyes Marshall
+    common: Iyes Marshall
+  MQ:
+    official: Martinike
+    common: Martinike
+  MR:
+    official: Moritanreye
+    common: Moritanreye
+  MU:
+    official: Iye Môrice
+    common: Iye Môrice
+  YT:
+    official: Mayote
+    common: Mayote
+  MX:
+    official: Mecsike
+    common: Mecsike
+  FM:
+    official: Micronezeye
+    common: Micronezeye
+  MD:
+    official: Moldova
+    common: Moldova
+  MC:
+    official: Monaco
+    common: Monaco
+  MN:
+    official: Mongoleye
+    common: Mongoleye
+  ME:
+    official: Montenegro
+    common: Montenegro
+  MS:
+    official: Montserrat
+    common: Montserrat
+  MA:
+    official: Marok
+    common: Marok
+  MZ:
+    official: Mozambike
+    common: Mozambike
+  MM:
+    official: Birmaneye
+    common: Birmaneye
+  NA:
+    official: Namibeye
+    common: Namibeye
+  NR:
+    official: Nawouro
+    common: Nawouro
+  NP:
+    official: Nepal
+    common: Nepal
+  NL:
+    official: Bas Payis
+    common: Bas Payis
+  NC:
+    official: Nouve Caledoneye
+    common: Nouve Caledoneye
+  NZ:
+    official: Nouve Zelande
+    common: Nouve Zelande
+  NI:
+    official: Nicaragwa
+    common: Nicaragwa
+  NE:
+    official: Nidjer
+    common: Nidjer
+  NG:
+    official: Nidjeria
+    common: Nidjeria
+  NU:
+    official: Niuwé
+    common: Niuwé
+  NF:
+    official: Iye Norfolk
+    common: Iye Norfolk
+  MP:
+    official: Iyes Marianes bijhreces
+    common: Iyes Marianes bijhreces
+  'NO':
+    official: Norvedje
+    common: Norvedje
+  OM:
+    official: Oman
+    common: Oman
+  PK:
+    official: Pakistan
+    common: Pakistan
+  PW:
+    official: Palawou
+    common: Palawou
+  PS:
+    official: Palestine, State of
+    common: Palestine, State of
+  PA:
+    official: Panama
+    common: Panama
+  PG:
+    official: Papouwazeye Nouve Guinêye
+    common: Papouwazeye Nouve Guinêye
+  PY:
+    official: Paragway
+    common: Paragway
+  PE:
+    official: Perou
+    common: Perou
+  PH:
+    official: Filipenes
+    common: Filipenes
+  PN:
+    official: Pitcairn
+    common: Pitcairn
+  PL:
+    official: Pologne
+    common: Pologne
+  PT:
+    official: Portugal
+    common: Portugal
+  PR:
+    official: Porto Rico
+    common: Porto Rico
+  QA:
+    official: Katar
+    common: Katar
+  RE:
+    official: Reyunion
+    common: Reyunion
+  RO:
+    official: Roumaneye
+    common: Roumaneye
+  RU:
+    official: Rûsseye
+    common: Rûsseye
+  RW:
+    official: Rwanda
+    common: Rwanda
+  BL:
+    official: Sint Bartelemi
+    common: Sint Bartelemi
+  SH:
+    official: Sinte Helene, Acinsion & Tristan da Cunha
+    common: Sinte Helene, Acinsion & Tristan da Cunha
+  KN:
+    official: St Kitts & Nevis
+    common: St Kitts & Nevis
+  LC:
+    official: Sinte Luceye
+    common: Sinte Luceye
+  MF:
+    official: Sint Mårtén (boket francès)
+    common: Sint Mårtén (boket francès)
+  PM:
+    official: Sint Pierre et Miquelon
+    common: Sint Pierre et Miquelon
+  VC:
+    official: Sint Vincint et les Grenadines
+    common: Sint Vincint et les Grenadines
+  WS:
+    official: Samowa
+    common: Samowa
+  SM:
+    official: Sint Marin
+    common: Sint Marin
+  ST:
+    official: São Tomé et Prince
+    common: São Tomé et Prince
+  SA:
+    official: Arabeye Sawoudite
+    common: Arabeye Sawoudite
+  SN:
+    official: Senegål
+    common: Senegål
+  RS:
+    official: Serbeye
+    common: Serbeye
+  SC:
+    official: Seycheles
+    common: Seycheles
+  SL:
+    official: Siera Leyone
+    common: Siera Leyone
+  SG:
+    official: Singapour
+    common: Singapour
+  SX:
+    official: Sint Mårtén (boket olandès)
+    common: Sint Mårtén (boket olandès)
+  SK:
+    official: Eslovakeye
+    common: Eslovakeye
+  SI:
+    official: Esloveneye
+    common: Esloveneye
+  SB:
+    official: Iyes Solomon
+    common: Iyes Solomon
+  SO:
+    official: Somaleye
+    common: Somaleye
+  ZA:
+    official: Nonne Afrike
+    common: Nonne Afrike
+  GS:
+    official: Iyes Sandwich do sud
+    common: Iyes Sandwich do sud
+  ES:
+    official: Espagne
+    common: Espagne
+  LK:
+    official: Sri Lanka
+    common: Sri Lanka
+  SD:
+    official: Soudan
+    common: Soudan
+  SR:
+    official: Suriname
+    common: Suriname
+  SS:
+    official: Soudan nonnrece
+    common: Soudan nonnrece
+  SJ:
+    official: Iyes Svalbard eyet Jan Mayen
+    common: Iyes Svalbard eyet Jan Mayen
+  SZ:
+    official: Suwazilande
+    common: Suwazilande
+  SE:
+    official: Suwede
+    common: Suwede
+  CH:
+    official: Swisse
+    common: Swisse
+  SY:
+    official: Sireye
+    common: Sireye
+  TW:
+    official: Taiwan
+    common: Taiwan
+  TJ:
+    official: Tadjikistan
+    common: Tadjikistan
+  TZ:
+    official: Tanzaneye
+    common: Tanzaneye
+  TH:
+    official: Taylande
+    common: Taylande
+  TL:
+    official: Timor Ess
+    common: Timor Ess
+  TG:
+    official: Togo
+    common: Togo
+  TK:
+    official: Tokelau
+    common: Tokelau
+  TO:
+    official: Tonga
+    common: Tonga
+  TT:
+    official: Trinité et Tobago
+    common: Trinité et Tobago
+  TN:
+    official: Tunizeye
+    common: Tunizeye
+  TR:
+    official: Turkeye
+    common: Turkeye
+  TM:
+    official: Turcmenistan
+    common: Turcmenistan
+  TC:
+    official: Iyes Turks et Caicos
+    common: Iyes Turks et Caicos
+  TV:
+    official: Touvalou
+    common: Touvalou
+  UG:
+    official: Ouganda
+    common: Ouganda
+  UA:
+    official: Oucrinne
+    common: Oucrinne
+  AE:
+    official: Emirats Arabes Unis
+    common: Emirats Arabes Unis
+  GB:
+    official: Rweyåme Uni
+    common: Rweyåme Uni
+  US:
+    official: Estats Unis
+    common: Estats Unis
+  UM:
+    official: Iyes mineures des Estats Unis
+    common: Iyes mineures des Estats Unis
+  UY:
+    official: Ourougway
+    common: Ourougway
+  UZ:
+    official: Ouzbekistan
+    common: Ouzbekistan
+  VU:
+    official: Vanouatou
+    common: Vanouatou
+  VE:
+    official: Venezwela, Republike Bolivaryinne do
+    common: Venezwela, Republike Bolivaryinne do
+  VN:
+    official: Vietnam
+    common: Vietnam
+  VG:
+    official: Iyes Viedjes britanikes
+    common: Iyes Viedjes britanikes
+  VI:
+    official: Iyes Viedjes etazunyinnes
+    common: Iyes Viedjes etazunyinnes
+  WF:
+    official: Wallis et Futuna
+    common: Wallis et Futuna
+  EH:
+    official: Sara Coûtchantrece
+    common: Sara Coûtchantrece
+  YE:
+    official: Yemen
+    common: Yemen
+  ZM:
+    official: Zambeye
+    common: Zambeye
+  ZW:
+    official: Zimbabwè
+    common: Zimbabwè

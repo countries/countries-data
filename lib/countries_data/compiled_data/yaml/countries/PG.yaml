@@ -1,0 +1,334 @@
+---
+continent: Australia
+alpha2: PG
+alpha3: PNG
+country_code: '675'
+international_prefix: '05'
+ioc: PNG
+gec: PP
+name: Papua New Guinea
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: None
+number: '598'
+region: Oceania
+subregion: Melanesia
+world_region: APAC
+un_locode: PG
+nationality: Papua New Guinean
+postal_code: true
+unofficial_names:
+- Papua New Guinea
+- Papua-Neuguinea
+- Papouasie Nouvelle-Guinée
+- Papúa Nueva Guinea
+- パプアニューギニア
+- Papoea-Nieuw-Guinea
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: -6.314992999999999
+  latitude_dec: "-6.889159679412842"
+  longitude: 143.95555
+  longitude_dec: '146.21444702148438'
+  max_latitude: -0.8713194999999999
+  max_longitude: 159.4925058
+  min_latitude: -11.6578607
+  min_longitude: 140.8419695
+  bounds:
+    northeast:
+      lat: -0.8713194999999999
+      lng: 159.4925058
+    southwest:
+      lat: -11.6578607
+      lng: 140.8419695
+currency_code: PGK
+postal_address_data:
+  zipex: '111'
+  name: PAPUA NEW GUINEA
+  zip: "\\d{3}"
+  require: ACS
+  fmt: "%N%n%O%n%A%n%C %Z %S"
+  key: PG
+  id: data/PG
+translations:
+  af:
+    official: Papoea-Nieu-Guinee
+    common: Papoea-Nieu-Guinee
+  sq:
+    official: Guinea e Re Papua
+    common: Guinea e Re Papua
+  am:
+    official: ፓፑፂ ኒፄ ጑ኒ
+    common: ፓፑፂ ኒፄ ጑ኒ
+  ar:
+    official: بابوا غينيا الجديدة
+    common: بابوا غينيا الجديدة
+  hy:
+    official: Պապուա Նոր Գվինեա
+    common: Պապուա Նոր Գվինեա
+  as:
+    official: পাপুৱা নিউ গিনি
+    common: পাপুৱা নিউ গিনি
+  az:
+    official: Papua Yeni Qvineya
+    common: Papua Yeni Qvineya
+  eu:
+    official: Papua Ginea Berria
+    common: Papua Ginea Berria
+  be:
+    official: Папуа — Новая Гвінея
+    common: Папуа — Новая Гвінея
+  bn:
+    official: পাপুয়া নিউ গিনি
+    common: পাপুয়া নিউ গিনি
+  bs:
+    official: Papua Nova Gvineja
+    common: Papua Nova Gvineja
+  br:
+    official: Papua New Guinea
+    common: Papua New Guinea
+  bg:
+    official: Папуа Нова Гвинея
+    common: Папуа Нова Гвинея
+  ca:
+    official: Papua Nova Guinea
+    common: Papua Nova Guinea
+  zh:
+    official: 巴布亚新几内亚
+    common: 巴布亚新几内亚
+  cs:
+    official: Papua Nová Guinea
+    common: Papua Nová Guinea
+  da:
+    official: Papua Ny Guinea
+    common: Papua Ny Guinea
+  nl:
+    official: Papoea-Nieuw-Guinea
+    common: Papoea-Nieuw-Guinea
+  dz:
+    official: པ་པུ་འ་ ནིའུ་གི་ནི།
+    common: པ་པུ་འ་ ནིའུ་གི་ནི།
+  en:
+    official: Papua New Guinea
+    common: Papua New Guinea
+  eo:
+    official: Papuo-Nov-Gvineo
+    common: Papuo-Nov-Gvineo
+  et:
+    official: Paapua Uus-Guinea
+    common: Paapua Uus-Guinea
+  fo:
+    official: Papua Nýguinea
+    common: Papua Nýguinea
+  fi:
+    official: Papua-Uusi-Guinea
+    common: Papua-Uusi-Guinea
+  fr:
+    official: Papouasie-Nouvelle-Guinée
+    common: Papouasie-Nouvelle-Guinée
+  ka:
+    official: პაპუა-ახალი გვინეა
+    common: პაპუა-ახალი გვინეა
+  de:
+    official: Papua-Neuguinea
+    common: Papua-Neuguinea
+  ga:
+    official: Papua Nua-Ghuine
+    common: Papua Nua-Ghuine
+  gl:
+    official: Papúa Nova Guinea
+    common: Papúa Nova Guinea
+  el:
+    official: Παπούα-Νέα Γουινέα
+    common: Παπούα-Νέα Γουινέα
+  gu:
+    official: પાપુઆ ન્યુ ગીની
+    common: પાપુઆ ન્યુ ગીની
+  he:
+    official: פפואה גינאה החדשה
+    common: פפואה גינאה החדשה
+  hi:
+    official: पपुआ न्यू गिनी
+    common: पपुआ न्यू गिनी
+  hr:
+    official: Papua Nova Gvineja
+    common: Papua Nova Gvineja
+  hu:
+    official: Pápua Új-Guinea
+    common: Pápua Új-Guinea
+  is:
+    official: Papúa Nýja-Gínea
+    common: Papúa Nýja-Gínea
+  ia:
+    official: Papua Nove Guinea
+    common: Papua Nove Guinea
+  id:
+    official: Papua Nugini
+    common: Papua Nugini
+  it:
+    official: Papua Nuova Guinea
+    common: Papua Nuova Guinea
+  ja:
+    official: パプアニューギニア
+    common: パプアニューギニア
+  kn:
+    official: ಪಪುವಾ ನ್ಯೂ ಗಿನಿ
+    common: ಪಪುವಾ ನ್ಯೂ ಗಿನಿ
+  kk:
+    official: Папуа - Жаңа Гвинея
+    common: Папуа - Жаңа Гвинея
+  km:
+    official: ប៉ាពូញូវហ្គីណេ
+    common: ប៉ាពូញូវហ្គីណេ
+  rw:
+    official: Papuwa Nuveli Gineya
+    common: Papuwa Nuveli Gineya
+  ko:
+    official: 파푸아뉴기니
+    common: 파푸아뉴기니
+  ku:
+    official: Papûa Gîneya Nû
+    common: Papûa Gîneya Nû
+  lv:
+    official: Papua-Jaungvineja
+    common: Papua-Jaungvineja
+  lt:
+    official: Papua Naujoji Gvinėja
+    common: Papua Naujoji Gvinėja
+  mk:
+    official: Папуа Нова Гвинеја
+    common: Папуа Нова Гвинеја
+  ml:
+    official: പാപുവ ന്യൂ ഗിനിയ
+    common: പാപുവ ന്യൂ ഗിനിയ
+  mi:
+    official: Papua Nūkini
+    common: Papua Nūkini
+  mr:
+    official: पापू न्यू गिनी
+    common: पापू न्यू गिनी
+  ms:
+    official: Papua New Guinea
+    common: Papua New Guinea
+  mt:
+    official: Papwa-Ginea Ġdida
+    common: Papwa-Ginea Ġdida
+  mn:
+    official: Papua New Guinea
+    common: Papua New Guinea
+  ne:
+    official: पपुवा न्यू जिनिया
+    common: पपुवा न्यू जिनिया
+  nn:
+    official: Papua Ny-Guinea
+    common: Papua Ny-Guinea
+  nb:
+    official: Papua Ny-Guinea
+    common: Papua Ny-Guinea
+  oc:
+    official: Papoa Nòva Guinèa
+    common: Papoa Nòva Guinèa
+  or:
+    official: ପାପୁଆ ନ୍ଯୁ ଗିନୀ
+    common: ପାପୁଆ ନ୍ଯୁ ଗିନୀ
+  pa:
+    official: ਪਾਪੂਆ ਨਵਾਂ ਗੂਈਨਿਆ
+    common: ਪਾਪੂਆ ਨਵਾਂ ਗੂਈਨਿਆ
+  fa:
+    official: پاپوا گینهٔ نو
+    common: پاپوا گینهٔ نو
+  pl:
+    official: Papua-Nowa Gwinea
+    common: Papua-Nowa Gwinea
+  pt:
+    official: Papua Nova Guiné
+    common: Papua Nova Guiné
+  ps:
+    official: Papua New Guinea
+    common: Papua New Guinea
+  ro:
+    official: Papua Noua Guinee
+    common: Papua Noua Guinee
+  ru:
+    official: Папуа — Новая Гвинея
+    common: Папуа — Новая Гвинея
+  si:
+    official: පැපුවා නිව්ගිනියාව
+    common: පැපුවා නිව්ගිනියාව
+  sk:
+    official: Papua - Nová Guinea
+    common: Papua - Nová Guinea
+  sl:
+    official: Papua Nova Gvineja
+    common: Papua Nova Gvineja
+  so:
+    official: Papua New Guinea
+    common: Papua New Guinea
+  es:
+    official: Papúa Nueva Guinea
+    common: Papúa Nueva Guinea
+  sr:
+    official: Папуа Нова Гвинеја
+    common: Папуа Нова Гвинеја
+  sw:
+    official: Guinea
+    common: Guinea
+  sv:
+    official: Papua Nya Guinea
+    common: Papua Nya Guinea
+  ta:
+    official: பாப்புவா-நியூகினி
+    common: பாப்புவா-நியூகினி
+  tt:
+    official: Папуа Яңа Gуинеа
+    common: Папуа Яңа Gуинеа
+  te:
+    official: పాపూ న్యూ గినీ
+    common: పాపూ న్యూ గినీ
+  tl:
+    official: Papua New Guinea
+    common: Papua New Guinea
+  th:
+    official: ปาปัวนิวกินี
+    common: ปาปัวนิวกินี
+  ti:
+    official: ፓፑዋ ኒው ጊኒ
+    common: ፓፑዋ ኒው ጊኒ
+  tk:
+    official: Papua-Täze Gwineýa
+    common: Papua-Täze Gwineýa
+  tr:
+    official: Papua Yeni Gine
+    common: Papua Yeni Gine
+  ug:
+    official: پاپۇئا يېڭى گىۋىنېيەسى
+    common: پاپۇئا يېڭى گىۋىنېيەسى
+  uk:
+    official: Папуа-Нова Гвінея
+    common: Папуа-Нова Гвінея
+  ve:
+    official: Papua New Guinea
+    common: Papua New Guinea
+  vi:
+    official: Pa-pu-a Niu Ghi-nê
+    common: Pa-pu-a Niu Ghi-nê
+  cy:
+    official: Papua Guinea Newydd
+    common: Papua Guinea Newydd
+  wa:
+    official: Papouwazeye Nouve Guinêye
+    common: Papouwazeye Nouve Guinêye
+  wo:
+    official: Papwa Nuweel Ginne
+    common: Papwa Nuweel Ginne
+  xh:
+    official: Papua New Guinea
+    common: Papua New Guinea
+  zu:
+    official: Papua New Guinea
+    common: Papua New Guinea

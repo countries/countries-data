@@ -1,0 +1,335 @@
+---
+continent: South America
+alpha2: CO
+alpha3: COL
+country_code: '57'
+international_prefix: '005'
+ioc: COL
+gec: CO
+name: Colombia
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+- 10
+national_prefix: '05'
+number: '170'
+region: Americas
+subregion: South America
+world_region: AMER
+un_locode: CO
+nationality: Colombian
+postal_code: true
+unofficial_names:
+- Colombia
+- Kolumbien
+- Colombie
+- コロンビア
+languages_official:
+- es
+languages_spoken:
+- es
+geo:
+  latitude: 4.570868
+  latitude_dec: '3.9976072311401367'
+  longitude: -74.297333
+  longitude_dec: "-73.27796936035156"
+  max_latitude: 13.3944833
+  max_longitude: -66.851923
+  min_latitude: -4.2256672
+  min_longitude: -81.735749
+  bounds:
+    northeast:
+      lat: 13.3944833
+      lng: -66.851923
+    southwest:
+      lat: -4.2256672
+      lng: -81.735749
+currency_code: COP
+postal_address_data:
+  key: CO
+  zipex: '111221,130001,760011'
+  name: COLOMBIA
+  zip: "\\d{6}"
+  require: AS
+  state_name_type: department
+  id: data/CO
+  posturl: http://www.codigopostal.gov.co/
+  fmt: "%N%n%O%n%A%n%C, %S, %Z"
+translations:
+  af:
+    official: Colombië
+    common: Colombië
+  sq:
+    official: Kolumbia
+    common: Kolumbia
+  am:
+    official: ጥሕሤቢ።
+    common: ጥሕሤቢ።
+  ar:
+    official: كولومبيا
+    common: كولومبيا
+  hy:
+    official: Կոլումբիա
+    common: Կոլումբիա
+  as:
+    official: কোলোম্বিয়া
+    common: কোলোম্বিয়া
+  az:
+    official: Kolumbiya
+    common: Kolumbiya
+  eu:
+    official: Kolonbia
+    common: Kolonbia
+  be:
+    official: Калумбія
+    common: Калумбія
+  bn:
+    official: কোলোম্বিয়া
+    common: কোলোম্বিয়া
+  bs:
+    official: Kolumbija
+    common: Kolumbija
+  br:
+    official: Kolombia
+    common: Kolombia
+  bg:
+    official: Колумбия
+    common: Колумбия
+  ca:
+    official: Colòmbia
+    common: Colòmbia
+  zh:
+    official: 哥伦比亚
+    common: 哥伦比亚
+  cs:
+    official: Kolumbie
+    common: Kolumbie
+  da:
+    official: Columbia
+    common: Columbia
+  nl:
+    official: Colombia
+    common: Colombia
+  dz:
+    official: ཀོ་ལོམ་བི་ཡ།
+    common: ཀོ་ལོམ་བི་ཡ།
+  en:
+    official: Colombia
+    common: Colombia
+  eo:
+    official: Kolombio
+    common: Kolombio
+  et:
+    official: Colombia
+    common: Colombia
+  fo:
+    official: Kolombia
+    common: Kolombia
+  fi:
+    official: Kolumbia
+    common: Kolumbia
+  fr:
+    official: Colombie
+    common: Colombie
+  ka:
+    official: კოლუმბია
+    common: კოლუმბია
+  de:
+    official: Kolumbien
+    common: Kolumbien
+  ga:
+    official: An Cholóim
+    common: An Cholóim
+  gl:
+    official: Colombia
+    common: Colombia
+  el:
+    official: Κολομβία
+    common: Κολομβία
+  gu:
+    official: કોલોમ્બિયા
+    common: કોલોમ્બિયા
+  he:
+    official: קולומביה
+    common: קולומביה
+  hi:
+    official: कोलम्बिया
+    common: कोलम्बिया
+  hr:
+    official: Kolumbija
+    common: Kolumbija
+  hu:
+    official: Kolumbia
+    common: Kolumbia
+  is:
+    official: Kólumbía
+    common: Kólumbía
+  ia:
+    official: Colombia
+    common: Colombia
+  id:
+    official: Kolumbia
+    common: Kolumbia
+  it:
+    official: Colombia
+    common: Colombia
+  ja:
+    official: コロンビア
+    common: コロンビア
+  kn:
+    official: ಕೋಲಂಬಿಯಾ
+    common: ಕೋಲಂಬಿಯಾ
+  kk:
+    official: Колумбия
+    common: Колумбия
+  km:
+    official: កូឡុំប៊ី
+    common: កូឡុំប៊ី
+  rw:
+    official: Kolombiya
+    common: Kolombiya
+  ko:
+    official: 콜롬비아
+    common: 콜롬비아
+  ku:
+    official: Kolombiya
+    common: Kolombiya
+  lv:
+    official: Kolumbija
+    common: Kolumbija
+  lt:
+    official: Kolumbija
+    common: Kolumbija
+  mk:
+    official: Колумбија
+    common: Колумбија
+  ml:
+    official: കൊളംബിയ
+    common: കൊളംബിയ
+  mi:
+    official: Koromōpia
+    common: Koromōpia
+  mr:
+    official: कोलंबिया
+    common: कोलंबिया
+  ms:
+    official: Colombia
+    common: Colombia
+  mt:
+    official: Kolumbja
+    common: Kolumbja
+  mn:
+    official: Колумб
+    common: Колумб
+  ne:
+    official: कोलम्बिया
+    common: कोलम्बिया
+  nn:
+    official: Colombia
+    common: Colombia
+  nb:
+    official: Colombia
+    common: Colombia
+  oc:
+    official: Colombia
+    common: Colombia
+  or:
+    official: କୋଲୋମ୍ବିୟା
+    common: କୋଲୋମ୍ବିୟା
+  pa:
+    official: ਕੋਲੰਬੀਆ
+    common: ਕੋਲੰਬੀਆ
+  fa:
+    official: کلمبیا
+    common: کلمبیا
+  pl:
+    official: Kolumbia
+    common: Kolumbia
+  pt:
+    official: Colômbia
+    common: Colômbia
+  ps:
+    official: کولمبیا
+    common: کولمبیا
+  ro:
+    official: Columbia
+    common: Columbia
+  ru:
+    official: Колумбия
+    common: Колумбия
+  si:
+    official: කොලොම්බියාව
+    common: කොලොම්බියාව
+  sk:
+    official: Kolumbia
+    common: Kolumbia
+  sl:
+    official: Kolumbija
+    common: Kolumbija
+  so:
+    official: Colombia
+    common: Colombia
+  es:
+    official: Colombia
+    common: Colombia
+  sr:
+    official: Колумбија
+    common: Колумбија
+  sw:
+    official: Colombia
+    common: Colombia
+  sv:
+    official: Colombia
+    common: Colombia
+  ta:
+    official: கொலம்பியா
+    common: கொலம்பியா
+  tt:
+    official: Коломбиа
+    common: Коломбиа
+  te:
+    official: కోలంబియా
+    common: కోలంబియా
+  tl:
+    official: Kolombya
+    common: Kolombya
+  th:
+    official: โคลอมเบีย
+    common: โคลอมเบีย
+  ti:
+    official: ኮሎምቢያ
+    common: ኮሎምቢያ
+  tk:
+    official: Kolumbiýa
+    common: Kolumbiýa
+  tr:
+    official: Kolombiya
+    common: Kolombiya
+  ug:
+    official: كولومبىيە
+    common: كولومبىيە
+  uk:
+    official: Колумбія
+    common: Колумбія
+  ve:
+    official: Colombia
+    common: Colombia
+  vi:
+    official: Cô-lôm-bi-a
+    common: Cô-lôm-bi-a
+  cy:
+    official: Colombia
+    common: Colombia
+  wa:
+    official: Colombeye
+    common: Colombeye
+  wo:
+    official: Koloombi
+    common: Koloombi
+  xh:
+    official: Columbia
+    common: Columbia
+  zu:
+    official: I Kholombiya
+    common: I Kholombiya

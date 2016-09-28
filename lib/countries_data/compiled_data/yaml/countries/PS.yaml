@@ -1,0 +1,338 @@
+---
+continent: Asia
+alpha2: PS
+alpha3: PSE
+alt_currency: EGP
+country_code: '970'
+international_prefix: '00'
+ioc: PLE
+gec: WE
+name: Palestine, State of
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: '0'
+number: '275'
+region: Asia
+subregion: Western Asia
+world_region: EMEA
+un_locode: 
+nationality: Palestinian
+postal_code: true
+unofficial_names:
+- Palestine
+- فلسطين
+- Palästina
+- Palestina
+- the Occupied Palestinian Territory
+- パレスチナ
+- Palestijnse gebieden
+- Palestinian Territory Occupied
+- Palestinian Authority
+languages_official:
+- ar
+- he
+- en
+languages_spoken:
+- ar
+- he
+- en
+geo:
+  latitude: 37.9261862
+  latitude_dec: '31.946392059326172'
+  longitude: -89.8058909
+  longitude_dec: '35.259735107421875'
+  max_latitude: 37.9358894
+  max_longitude: -89.7880153
+  min_latitude: 37.9140716
+  min_longitude: -89.8208762
+  bounds:
+    northeast:
+      lat: 37.9358894
+      lng: -89.7880153
+    southwest:
+      lat: 37.9140716
+      lng: -89.8208762
+currency_code: ILS
+postal_address_data:
+  id: data/PS
+  key: PS
+  name: PALESTINIAN TERRITORY
+translations:
+  af:
+    official: Palestine, State of
+    common: Palestine, State of
+  sq:
+    official: Palestine, State of
+    common: Palestine, State of
+  am:
+    official: Palestine, State of
+    common: Palestine, State of
+  ar:
+    official: Palestine, State of
+    common: Palestine, State of
+  hy:
+    official: Պաղեստին, Պետություն
+    common: Պաղեստին, Պետություն
+  as:
+    official: Palestine, State of
+    common: Palestine, State of
+  az:
+    official: Palestine, State of
+    common: Palestine, State of
+  eu:
+    official: Palestinako Estatua
+    common: Palestinako Estatua
+  be:
+    official: Палесціна
+    common: Палесціна
+  bn:
+    official: Palestine, State of
+    common: Palestine, State of
+  bs:
+    official: Palestine, State of
+    common: Palestine, State of
+  br:
+    official: Palestine, State of
+    common: Palestine, State of
+  bg:
+    official: Палестина, държава
+    common: Палестина, държава
+  ca:
+    official: Palestine, State of
+    common: Palestine, State of
+  zh:
+    official: 巴勒斯坦
+    common: 巴勒斯坦
+  cs:
+    official: Palestinský stát
+    common: Palestinský stát
+  da:
+    official: Palæstina, staten
+    common: Palæstina, staten
+  nl:
+    official: Palestina
+    common: Palestina
+  dz:
+    official: Palestine, State of
+    common: Palestine, State of
+  en:
+    official: Palestine, State of
+    common: Palestine, State of
+  eo:
+    official: Palestino, Ŝtato
+    common: Palestino, Ŝtato
+  et:
+    official: Palestiina Riik
+    common: Palestiina Riik
+  fo:
+    official: Palestine, State of
+    common: Palestine, State of
+  fi:
+    official: Palestine, State of
+    common: Palestine, State of
+  fr:
+    official: Palestine, État de
+    common: Palestine, État de
+  ka:
+    official: Palestine, State of
+    common: Palestine, State of
+  de:
+    official: Palästina, Staat
+    common: Palästina, Staat
+  ga:
+    official: Palaistíne, Stát na
+    common: Palaistíne, Stát na
+  gl:
+    official: Palestina, Estado de
+    common: Palestina, Estado de
+  el:
+    official: Παλαιστίνη
+    common: Παλαιστίνη
+  gu:
+    official: પેલેસ્ટાઇન, સ્ટેટ ઓફ
+    common: પેલેસ્ટાઇન, સ્ટેટ ઓફ
+  he:
+    official: Palestine, State of
+    common: Palestine, State of
+  hi:
+    official: पैलेस्टाइन, स्टेट ऑफ़
+    common: पैलेस्टाइन, स्टेट ऑफ़
+  hr:
+    official: Palestina
+    common: Palestina
+  hu:
+    official: Palesztina
+    common: Palesztina
+  is:
+    official: Palestína
+    common: Palestína
+  ia:
+    official: Palestina
+    common: Palestina
+  id:
+    official: Negara Palestina
+    common: Negara Palestina
+  it:
+    official: Palestina, Stato di
+    common: Palestina, Stato di
+  ja:
+    official: パレスチナ
+    common: パレスチナ
+  kn:
+    official: Palestine, State of
+    common: Palestine, State of
+  kk:
+    official: Палестина мемлекеті
+    common: Палестина мемлекеті
+  km:
+    official: រដ្ឋប៉ាឡេស្ទីន
+    common: រដ្ឋប៉ាឡេស្ទីន
+  rw:
+    official: Palestine, State of
+    common: Palestine, State of
+  ko:
+    official: 팔레스타인
+    common: 팔레스타인
+  ku:
+    official: Palestine, State of
+    common: Palestine, State of
+  lv:
+    official: Palestīnas valsts
+    common: Palestīnas valsts
+  lt:
+    official: Palestinos valstybė
+    common: Palestinos valstybė
+  mk:
+    official: Palestine, State of
+    common: Palestine, State of
+  ml:
+    official: Palestine, State of
+    common: Palestine, State of
+  mi:
+    official: Palestine, State of
+    common: Palestine, State of
+  mr:
+    official: Palestine, State of
+    common: Palestine, State of
+  ms:
+    official: Palestine, State of
+    common: Palestine, State of
+  mt:
+    official: Palestine, State of
+    common: Palestine, State of
+  mn:
+    official: Palestine, State of
+    common: Palestine, State of
+  ne:
+    official: Palestine, State of
+    common: Palestine, State of
+  nn:
+    official: Palestina
+    common: Palestina
+  nb:
+    official: Palestina, staten
+    common: Palestina, staten
+  oc:
+    official: Palestine, State of
+    common: Palestine, State of
+  or:
+    official: Palestine, State of
+    common: Palestine, State of
+  pa:
+    official: Palestine, State of
+    common: Palestine, State of
+  fa:
+    official: فلسطین
+    common: فلسطین
+  pl:
+    official: Palestyna (państwo)
+    common: Palestyna (państwo)
+  pt:
+    official: Palestina, Autoridade da
+    common: Palestina, Autoridade da
+  ps:
+    official: Palestine, State of
+    common: Palestine, State of
+  ro:
+    official: Palestine, State of
+    common: Palestine, State of
+  ru:
+    official: Палестина
+    common: Палестина
+  si:
+    official: Palestine, State of
+    common: Palestine, State of
+  sk:
+    official: Palestína
+    common: Palestína
+  sl:
+    official: Palestina, država
+    common: Palestina, država
+  so:
+    official: Palestine, State of
+    common: Palestine, State of
+  es:
+    official: Palestina, Estado de
+    common: Palestina, Estado de
+  sr:
+    official: Палестина, Држава
+    common: Палестина, Држава
+  sw:
+    official: Palestine, State of
+    common: Palestine, State of
+  sv:
+    official: Staten Palestina
+    common: Staten Palestina
+  ta:
+    official: Palestine, State of
+    common: Palestine, State of
+  tt:
+    official: Palestine, State of
+    common: Palestine, State of
+  te:
+    official: Palestine, State of
+    common: Palestine, State of
+  tl:
+    official: Palestine, State of
+    common: Palestine, State of
+  th:
+    official: ปาเลสไตน์, รัฐ
+    common: ปาเลสไตน์, รัฐ
+  ti:
+    official: Palestine, State of
+    common: Palestine, State of
+  tk:
+    official: Palestine, State of
+    common: Palestine, State of
+  tr:
+    official: Filistin Devleti
+    common: Filistin Devleti
+  ug:
+    official: پەلەستىن دۆلىتى
+    common: پەلەستىن دۆلىتى
+  uk:
+    official: Палестина, Держава
+    common: Палестина, Держава
+  ve:
+    official: Palestine, State of
+    common: Palestine, State of
+  vi:
+    official: Palestine, quốc gia
+    common: Palestine, quốc gia
+  cy:
+    official: Palestina, Gwladwriaeth
+    common: Palestina, Gwladwriaeth
+  wa:
+    official: Palestine, State of
+    common: Palestine, State of
+  wo:
+    official: Palestine, State of
+    common: Palestine, State of
+  xh:
+    official: Palestine, State of
+    common: Palestine, State of
+  zu:
+    official: Palestine, State of
+    common: Palestine, State of

@@ -1,0 +1,335 @@
+---
+continent: South America
+alpha2: FK
+alpha3: FLK
+country_code: '500'
+international_prefix: '00'
+ioc: 
+gec: FK
+name: Falkland Islands (Malvinas)
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 5
+national_prefix: None
+number: '238'
+region: Americas
+subregion: South America
+world_region: AMER
+un_locode: FK
+nationality: Falkland Islander
+postal_code: true
+unofficial_names:
+- Falkland Islands
+- Falklandinseln
+- Îles Malouines
+- Islas Malvinas
+- フォークランド（マルビナス）諸島
+- Falklandeilanden [Islas Malvinas]
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: -51.796253
+  latitude_dec: "-51.77312469482422"
+  longitude: -59.523613
+  longitude_dec: "-59.727909088134766"
+  max_latitude: -51.01151040000001
+  max_longitude: -57.6873745
+  min_latitude: -52.4496802
+  min_longitude: -61.3479998
+  bounds:
+    northeast:
+      lat: -51.01151040000001
+      lng: -57.6873745
+    southwest:
+      lat: -52.4496802
+      lng: -61.3479998
+currency_code: FKP
+postal_address_data:
+  upper: CZ
+  zipex: FIQQ 1ZZ
+  name: FALKLAND ISLANDS (MALVINAS)
+  zip: FIQQ 1ZZ
+  require: ACZ
+  id: data/FK
+  key: FK
+  fmt: "%N%n%O%n%A%n%C%n%Z"
+translations:
+  af:
+    official: Falklandeilande (Maledive)
+    common: Falklandeilande (Maledive)
+  sq:
+    official: Ishujt Falkland (Malvinas)
+    common: Ishujt Falkland (Malvinas)
+  am:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  ar:
+    official: جزر فولكلاند (مالفيناس)
+    common: جزر فولكلاند (مالفيناس)
+  hy:
+    official: Ֆոլկլոնդյան Կղզիներ
+    common: Ֆոլկլոնդյան Կղզիներ
+  as:
+    official: ফাকলেণ্ড দ্বীপ (মাল্‌ভিনাছ)
+    common: ফাকলেণ্ড দ্বীপ (মাল্‌ভিনাছ)
+  az:
+    official: Fokland Adaları (Malvin)
+    common: Fokland Adaları (Malvin)
+  eu:
+    official: Falkland uharteak (Malvina uharteak)
+    common: Falkland uharteak (Malvina uharteak)
+  be:
+    official: Фалклендскія астравы (Мальвіны)
+    common: Фалклендскія астравы (Мальвіны)
+  bn:
+    official: ফল্কল্যান্ড দ্বীপপুঞ্জ (মালভিনাস)
+    common: ফল্কল্যান্ড দ্বীপপুঞ্জ (মালভিনাস)
+  bs:
+    official: Falklandsko otočje
+    common: Falklandsko otočje
+  br:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  bg:
+    official: Фолклендски Острови (Малвини)
+    common: Фолклендски Острови (Малвини)
+  ca:
+    official: Illes Malvines (Falkland)
+    common: Illes Malvines (Falkland)
+  zh:
+    official: 福克兰群岛(马尔维纳斯)
+    common: 福克兰群岛(马尔维纳斯)
+  cs:
+    official: Falkandské ostrovy (Malvíny)
+    common: Falkandské ostrovy (Malvíny)
+  da:
+    official: Falklandsøerne (Malvinas)
+    common: Falklandsøerne (Malvinas)
+  nl:
+    official: Falklandeilanden
+    common: Falklandeilanden
+  dz:
+    official: ཕཱལཀ་ལེནཌི་ མཚོ་གླིང་ (མཱལ་ཝི་ནཱསི)
+    common: ཕཱལཀ་ལེནཌི་ མཚོ་གླིང་ (མཱལ་ཝི་ནཱསི)
+  en:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  eo:
+    official: Falklandoj (Malvinoj)
+    common: Falklandoj (Malvinoj)
+  et:
+    official: Falklandi saared
+    common: Falklandi saared
+  fo:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  fi:
+    official: Falklandinsaaret
+    common: Falklandinsaaret
+  fr:
+    official: Falkland, Îles (Malvinas)
+    common: Falkland, Îles (Malvinas)
+  ka:
+    official: ფოლკლენდის კუნძულები
+    common: ფოლკლენდის კუნძულები
+  de:
+    official: Falklandinseln (Malwinen)
+    common: Falklandinseln (Malwinen)
+  ga:
+    official: Oileáin Fháclainne (Malvinas)
+    common: Oileáin Fháclainne (Malvinas)
+  gl:
+    official: Illas Falkland (Malvinas)
+    common: Illas Falkland (Malvinas)
+  el:
+    official: Νήσοι Φώκλαντ (Μαλβίνες)
+    common: Νήσοι Φώκλαντ (Μαλβίνες)
+  gu:
+    official: ફોકલેન્ડ ટાપુઓ (માલ્વિનસ)
+    common: ફોકલેન્ડ ટાપુઓ (માલ્વિનસ)
+  he:
+    official: איי פוקלנד
+    common: איי פוקלנד
+  hi:
+    official: फॉकलैंड आइलैंड्स (मालविनास)
+    common: फॉकलैंड आइलैंड्स (मालविनास)
+  hr:
+    official: Falklandski otoci
+    common: Falklandski otoci
+  hu:
+    official: Falkland-szigetek (Malvinas)
+    common: Falkland-szigetek (Malvinas)
+  is:
+    official: Falklandseyjar (Malvinaeyjar)
+    common: Falklandseyjar (Malvinaeyjar)
+  ia:
+    official: Insulas Falkland (Malvinas)
+    common: Insulas Falkland (Malvinas)
+  id:
+    official: Kepulauan Falkland (Malvinas)
+    common: Kepulauan Falkland (Malvinas)
+  it:
+    official: Isole Falkland (Malvine)
+    common: Isole Falkland (Malvine)
+  ja:
+    official: フォークランド諸島 (マルビナス)
+    common: フォークランド諸島 (マルビナス)
+  kn:
+    official: ಫಾಕ್‍ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳು(ಮಾಲ್ವಿನಾಸ್)
+    common: ಫಾಕ್‍ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳು(ಮಾಲ್ವಿನಾಸ್)
+  kk:
+    official: Фолкленд (Мальвин) аралдары
+    common: Фолкленд (Мальвин) аралдары
+  km:
+    official: កោះ​ហ្វ៉កឡង់ (ម៉ាល់វីណា)
+    common: កោះ​ហ្វ៉កឡង់ (ម៉ាល់វីណា)
+  rw:
+    official: Ibirwa bya Folukilande (Maluvinasi)
+    common: Ibirwa bya Folukilande (Maluvinasi)
+  ko:
+    official: 포클랜드 제도 (말비나스)
+    common: 포클랜드 제도 (말비나스)
+  ku:
+    official: Giravên Falkland (Malvin)
+    common: Giravên Falkland (Malvin)
+  lv:
+    official: Folklenda (Malvinu) salas
+    common: Folklenda (Malvinu) salas
+  lt:
+    official: Folklando (Malvinų) salos
+    common: Folklando (Malvinų) salos
+  mk:
+    official: Фокландски острови (Малвини)
+    common: Фокландски острови (Малвини)
+  ml:
+    official: ഫാക്‍ലാന്‍ഡ്  ദ്വീപുകള്‍ (മാള്‍വിനാസ്)
+    common: ഫാക്‍ലാന്‍ഡ്  ദ്വീപുകള്‍ (മാള്‍വിനാസ്)
+  mi:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  mr:
+    official: फाल्कन आयलॅंडस्(माल्विनास)
+    common: फाल्कन आयलॅंडस्(माल्विनास)
+  ms:
+    official: Kepulauan Falkland (Malvinas)
+    common: Kepulauan Falkland (Malvinas)
+  mt:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  mn:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  ne:
+    official: फकल्याण्ड टापु (Malvinas)
+    common: फकल्याण्ड टापु (Malvinas)
+  nn:
+    official: Falklandsøyane
+    common: Falklandsøyane
+  nb:
+    official: Falklandsøyene
+    common: Falklandsøyene
+  oc:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  or:
+    official: ଫାଲ୍କଲ୍ଯାଣ୍ଡ ଦ୍ବୀପ(ମାଲ୍ଭିନାସ)
+    common: ଫାଲ୍କଲ୍ଯାଣ୍ଡ ଦ୍ବୀପ(ମାଲ୍ଭିନାସ)
+  pa:
+    official: ਫਾਕਲੈਂਡ ਟਾਪੂ (ਮਾਲਵੀਨਸ)
+    common: ਫਾਕਲੈਂਡ ਟਾਪੂ (ਮਾਲਵੀਨਸ)
+  fa:
+    official: جزایر فالکلند(مالویناس)
+    common: جزایر فالکلند(مالویناس)
+  pl:
+    official: Falklandy (Malwiny)
+    common: Falklandy (Malwiny)
+  pt:
+    official: Ilhas Falkland (Malvinas)
+    common: Ilhas Falkland (Malvinas)
+  ps:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  ro:
+    official: Insulele Falkland (Insulele Malvine)
+    common: Insulele Falkland (Insulele Malvine)
+  ru:
+    official: Фолклендские (Мальвинские) острова
+    common: Фолклендские (Мальвинские) острова
+  si:
+    official: ෆෝක්ලන්ඩ් දූපත් (මැල්විනා)
+    common: ෆෝක්ලන්ඩ් දූපත් (මැල්විනා)
+  sk:
+    official: Falklandy (Malvíny)
+    common: Falklandy (Malvíny)
+  sl:
+    official: Falklandski otoki
+    common: Falklandski otoki
+  so:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  es:
+    official: Islas Falkland (Malvinas)
+    common: Islas Falkland (Malvinas)
+  sr:
+    official: Фолкландска острва (Малвини)
+    common: Фолкландска острва (Малвини)
+  sw:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  sv:
+    official: Falklandsöarna (Malvinas)
+    common: Falklandsöarna (Malvinas)
+  ta:
+    official: பாக்லான்ட் தீவுகள் (மால்வினாஸ்)
+    common: பாக்லான்ட் தீவுகள் (மால்வினாஸ்)
+  tt:
+    official: Фалкланд Утравлары (Малвиннар)
+    common: Фалкланд Утравлары (Малвиннар)
+  te:
+    official: ఫాల్కలంద్ ఐలాండ్స్(మాల్వినాస్)
+    common: ఫాల్కలంద్ ఐలాండ్స్(మాల్వినాస్)
+  tl:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  th:
+    official: หมู่เกาะฟอล์กแลนด์ (มาลบีนาส)
+    common: หมู่เกาะฟอล์กแลนด์ (มาลบีนาส)
+  ti:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  tk:
+    official: Folklend (Malwin) adalary
+    common: Folklend (Malwin) adalary
+  tr:
+    official: Falkland Adaları (Malvinas)
+    common: Falkland Adaları (Malvinas)
+  ug:
+    official: فالكلاند تاقىم ئاراللىرى (مالۋىناس)
+    common: فالكلاند تاقىم ئاراللىرى (مالۋىناس)
+  uk:
+    official: Фолклендські острови (Британія)
+    common: Фолклендські острови (Британія)
+  ve:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  vi:
+    official: Quần Đảo Phoa-kh-lận-đợ (Man-vi-na)
+    common: Quần Đảo Phoa-kh-lận-đợ (Man-vi-na)
+  cy:
+    official: Ynysoedd y Falklands (Malvinas)
+    common: Ynysoedd y Falklands (Malvinas)
+  wa:
+    official: Iyes Malouwines
+    common: Iyes Malouwines
+  wo:
+    official: Iil yu Falkland (Malvinas)
+    common: Iil yu Falkland (Malvinas)
+  xh:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)
+  zu:
+    official: Falkland Islands (Malvinas)
+    common: Falkland Islands (Malvinas)

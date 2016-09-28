@@ -1,0 +1,433 @@
+{
+  "continent": "Antarctica",
+  "alpha2": "AQ",
+  "alpha3": "ATA",
+  "country_code": "672",
+  "international_prefix": "",
+  "ioc": null,
+  "gec": "AY",
+  "name": "Antarctica",
+  "national_destination_code_lengths": [
+
+  ],
+  "national_number_lengths": [
+
+  ],
+  "national_prefix": "",
+  "world_region": "AMER",
+  "number": "010",
+  "region": "",
+  "subregion": "",
+  "un_locode": "AQ",
+  "nationality": "",
+  "postal_code": true,
+  "unofficial_names": [
+    "Antarctica",
+    "Antarktis",
+    "Antarctique",
+    "Antártida",
+    "南極"
+  ],
+  "languages_official": [
+
+  ],
+  "languages_spoken": [
+
+  ],
+  "geo": {
+    "latitude": -75.250973,
+    "latitude_dec": "-82.862752",
+    "longitude": -0.071389,
+    "longitude_dec": "-135.0",
+    "max_latitude": -60.1086999,
+    "max_longitude": 180,
+    "min_latitude": -90,
+    "min_longitude": -180,
+    "bounds": {
+      "northeast": {
+        "lat": -60.1086999,
+        "lng": 180
+      },
+      "southwest": {
+        "lat": -90,
+        "lng": -180
+      }
+    }
+  },
+  "currency_code": "USD",
+  "postal_address_data": {
+    "id": "data/AQ",
+    "key": "AQ",
+    "name": "ANTARCTICA"
+  },
+  "translations": {
+    "af": {
+      "official": "Antarktika",
+      "common": "Antarktika"
+    },
+    "sq": {
+      "official": "Antarktida",
+      "common": "Antarktida"
+    },
+    "am": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "ar": {
+      "official": "القطب الجنوبي",
+      "common": "القطب الجنوبي"
+    },
+    "hy": {
+      "official": "Անտարկտիդա",
+      "common": "Անտարկտիդա"
+    },
+    "as": {
+      "official": "আনটাৰ্কটিকা",
+      "common": "আনটাৰ্কটিকা"
+    },
+    "az": {
+      "official": "Antarktika",
+      "common": "Antarktika"
+    },
+    "eu": {
+      "official": "Antartika",
+      "common": "Antartika"
+    },
+    "be": {
+      "official": "Антарктыда",
+      "common": "Антарктыда"
+    },
+    "bn": {
+      "official": "আনটার্কটিকা",
+      "common": "আনটার্কটিকা"
+    },
+    "bs": {
+      "official": "Antarktik",
+      "common": "Antarktik"
+    },
+    "br": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "bg": {
+      "official": "Антарктика",
+      "common": "Антарктика"
+    },
+    "ca": {
+      "official": "Antàrtida",
+      "common": "Antàrtida"
+    },
+    "zh": {
+      "official": "南极洲",
+      "common": "南极洲"
+    },
+    "cs": {
+      "official": "Antarktida",
+      "common": "Antarktida"
+    },
+    "da": {
+      "official": "Antarktis",
+      "common": "Antarktis"
+    },
+    "nl": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "dz": {
+      "official": "ཨེན་ཊར་ཊི་ཀ།",
+      "common": "ཨེན་ཊར་ཊི་ཀ།"
+    },
+    "en": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "eo": {
+      "official": "Antarkto",
+      "common": "Antarkto"
+    },
+    "et": {
+      "official": "Antarktis",
+      "common": "Antarktis"
+    },
+    "fo": {
+      "official": "Antarktis",
+      "common": "Antarktis"
+    },
+    "fi": {
+      "official": "Antarktis",
+      "common": "Antarktis"
+    },
+    "fr": {
+      "official": "Antarctique",
+      "common": "Antarctique"
+    },
+    "ka": {
+      "official": "ანტარქტიკა",
+      "common": "ანტარქტიკა"
+    },
+    "de": {
+      "official": "Antarktis",
+      "common": "Antarktis"
+    },
+    "ga": {
+      "official": "an Antartaice",
+      "common": "an Antartaice"
+    },
+    "gl": {
+      "official": "Antártida",
+      "common": "Antártida"
+    },
+    "el": {
+      "official": "Ανταρκτική",
+      "common": "Ανταρκτική"
+    },
+    "gu": {
+      "official": "એન્ટાર્કટિકા",
+      "common": "એન્ટાર્કટિકા"
+    },
+    "he": {
+      "official": "אנטרקטיקה",
+      "common": "אנטרקטיקה"
+    },
+    "hi": {
+      "official": "अंटार्कटिका",
+      "common": "अंटार्कटिका"
+    },
+    "hr": {
+      "official": "Antarktika",
+      "common": "Antarktika"
+    },
+    "hu": {
+      "official": "Antarktisz",
+      "common": "Antarktisz"
+    },
+    "is": {
+      "official": "Suðurskautslandið",
+      "common": "Suðurskautslandið"
+    },
+    "ia": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "id": {
+      "official": "Antartika",
+      "common": "Antartika"
+    },
+    "it": {
+      "official": "Antartide",
+      "common": "Antartide"
+    },
+    "ja": {
+      "official": "南極大陸",
+      "common": "南極大陸"
+    },
+    "kn": {
+      "official": "ಅಂಟಾರ್ಟಿಕ",
+      "common": "ಅಂಟಾರ್ಟಿಕ"
+    },
+    "kk": {
+      "official": "Антарктида",
+      "common": "Антарктида"
+    },
+    "km": {
+      "official": "អង់តាទីកា",
+      "common": "អង់តាទីកា"
+    },
+    "rw": {
+      "official": "Antarigitika",
+      "common": "Antarigitika"
+    },
+    "ko": {
+      "official": "남극",
+      "common": "남극"
+    },
+    "ku": {
+      "official": "Antarktîka",
+      "common": "Antarktîka"
+    },
+    "lv": {
+      "official": "Antarktika",
+      "common": "Antarktika"
+    },
+    "lt": {
+      "official": "Antarktida",
+      "common": "Antarktida"
+    },
+    "mk": {
+      "official": "Антартика",
+      "common": "Антартика"
+    },
+    "ml": {
+      "official": "അന്റാര്‍ട്ടിക്ക",
+      "common": "അന്റാര്‍ട്ടിക്ക"
+    },
+    "mi": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "mr": {
+      "official": "अंटार्क्टिका",
+      "common": "अंटार्क्टिका"
+    },
+    "ms": {
+      "official": "Antartika",
+      "common": "Antartika"
+    },
+    "mt": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "mn": {
+      "official": "Антрактид",
+      "common": "Антрактид"
+    },
+    "ne": {
+      "official": "अन्टार्टिका",
+      "common": "अन्टार्टिका"
+    },
+    "nn": {
+      "official": "Antarktika",
+      "common": "Antarktika"
+    },
+    "nb": {
+      "official": "Antarktika",
+      "common": "Antarktika"
+    },
+    "oc": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "or": {
+      "official": "ଆଣ୍ଟାର୍କଟିକା",
+      "common": "ଆଣ୍ଟାର୍କଟିକା"
+    },
+    "pa": {
+      "official": "ਅੰਟਾਰਿਕਟਾ",
+      "common": "ਅੰਟਾਰਿਕਟਾ"
+    },
+    "fa": {
+      "official": "جنوبگان",
+      "common": "جنوبگان"
+    },
+    "pl": {
+      "official": "Antarktyka",
+      "common": "Antarktyka"
+    },
+    "pt": {
+      "official": "Antárctida",
+      "common": "Antárctida"
+    },
+    "ps": {
+      "official": "انتارکتیکا",
+      "common": "انتارکتیکا"
+    },
+    "ro": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "ru": {
+      "official": "Антарктика",
+      "common": "Антарктика"
+    },
+    "si": {
+      "official": "ඇන්ටාක්ටිකා",
+      "common": "ඇන්ටාක්ටිකා"
+    },
+    "sk": {
+      "official": "Antarktída",
+      "common": "Antarktída"
+    },
+    "sl": {
+      "official": "Antarktika",
+      "common": "Antarktika"
+    },
+    "so": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "es": {
+      "official": "Antártida",
+      "common": "Antártida"
+    },
+    "sr": {
+      "official": "Антарктик",
+      "common": "Антарктик"
+    },
+    "sw": {
+      "official": "Antaktika",
+      "common": "Antaktika"
+    },
+    "sv": {
+      "official": "Antarktis",
+      "common": "Antarktis"
+    },
+    "ta": {
+      "official": "அண்டார்ட்டிக்கா",
+      "common": "அண்டார்ட்டிக்கா"
+    },
+    "tt": {
+      "official": "Антарктика",
+      "common": "Антарктика"
+    },
+    "te": {
+      "official": "అంటార్క్టికా",
+      "common": "అంటార్క్టికా"
+    },
+    "tl": {
+      "official": "Antarktika",
+      "common": "Antarktika"
+    },
+    "th": {
+      "official": "แอนตาร์กติกา",
+      "common": "แอนตาร์กติกา"
+    },
+    "ti": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "tk": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "tr": {
+      "official": "Antarktika",
+      "common": "Antarktika"
+    },
+    "ug": {
+      "official": "ئانتاركتىكا",
+      "common": "ئانتاركتىكا"
+    },
+    "uk": {
+      "official": "Антарктида",
+      "common": "Антарктида"
+    },
+    "ve": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "vi": {
+      "official": "Nam Cực",
+      "common": "Nam Cực"
+    },
+    "cy": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "wa": {
+      "official": "Antartike",
+      "common": "Antartike"
+    },
+    "wo": {
+      "official": "Antarktik",
+      "common": "Antarktik"
+    },
+    "xh": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "zu": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    }
+  }
+}

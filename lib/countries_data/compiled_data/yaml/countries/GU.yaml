@@ -1,0 +1,338 @@
+---
+continent: Australia
+alpha2: GU
+alpha3: GUM
+country_code: '1'
+international_prefix: '011'
+ioc: GUM
+gec: GQ
+name: Guam
+national_destination_code_lengths:
+- 3
+national_number_lengths:
+- 10
+national_prefix: '1'
+number: '316'
+region: Oceania
+subregion: Micronesia
+world_region: APAC
+un_locode: GU
+nationality: Guamanian
+postal_code: true
+unofficial_names:
+- Guam
+- グアム
+languages_official:
+- en
+- ch
+- es
+languages_spoken:
+- en
+- ch
+- es
+geo:
+  latitude: 13.444304
+  latitude_dec: '13.42112922668457'
+  longitude: 144.793731
+  longitude_dec: '144.73971557617188'
+  max_latitude: 13.654339
+  max_longitude: 144.9566722
+  min_latitude: 13.2430639
+  min_longitude: 144.6183375
+  bounds:
+    northeast:
+      lat: 13.654339
+      lng: 144.9566722
+    southwest:
+      lat: 13.2430639
+      lng: 144.6183375
+currency_code: USD
+postal_address_data:
+  key: GU
+  upper: ACNOS
+  zipex: '96910,96931'
+  name: GUAM
+  zip: "(969(?:[12]\\d|3[12]))(?:[ \\-](\\d{4}))?"
+  zip_name_type: zip
+  require: ACSZ
+  state_name_type: state
+  id: data/GU
+  posturl: http://zip4.usps.com/zip4/welcome.jsp
+  fmt: "%N%n%O%n%A%n%C %S %Z"
+translations:
+  af:
+    official: Guam
+    common: Guam
+  sq:
+    official: Guam
+    common: Guam
+  am:
+    official: Guam
+    common: Guam
+  ar:
+    official: جوام
+    common: جوام
+  hy:
+    official: Գուամ
+    common: Գուամ
+  as:
+    official: গুৱাম
+    common: গুৱাম
+  az:
+    official: Quam
+    common: Quam
+  eu:
+    official: Guam
+    common: Guam
+  be:
+    official: Гуам
+    common: Гуам
+  bn:
+    official: গুয়াম
+    common: গুয়াম
+  bs:
+    official: Guam
+    common: Guam
+  br:
+    official: Guam
+    common: Guam
+  bg:
+    official: Гуам
+    common: Гуам
+  ca:
+    official: Guam
+    common: Guam
+  zh:
+    official: 关岛
+    common: 关岛
+  cs:
+    official: Guam
+    common: Guam
+  da:
+    official: Guam
+    common: Guam
+  nl:
+    official: Guam
+    common: Guam
+  dz:
+    official: གུའམ།
+    common: གུའམ།
+  en:
+    official: Guam
+    common: Guam
+  eo:
+    official: Gvamo
+    common: Gvamo
+  et:
+    official: Guam
+    common: Guam
+  fo:
+    official: Guam
+    common: Guam
+  fi:
+    official: Guam
+    common: Guam
+  fr:
+    official: Guam
+    common: Guam
+  ka:
+    official: გუამი
+    common: გუამი
+  de:
+    official: Guam
+    common: Guam
+  ga:
+    official: Guam
+    common: Guam
+  gl:
+    official: Guam
+    common: Guam
+  el:
+    official: Γκουάμ
+    common: Γκουάμ
+  gu:
+    official: ગુઆમ
+    common: ગુઆમ
+  he:
+    official: גואם
+    common: גואם
+  hi:
+    official: गुआम
+    common: गुआम
+  hr:
+    official: Guam
+    common: Guam
+  hu:
+    official: Guam
+    common: Guam
+  is:
+    official: Gvam
+    common: Gvam
+  ia:
+    official: Guam
+    common: Guam
+  id:
+    official: Guam
+    common: Guam
+  it:
+    official: Guam
+    common: Guam
+  ja:
+    official: グアム
+    common: グアム
+  kn:
+    official: ಗ್ವಾಮ್
+    common: ಗ್ವಾಮ್
+  kk:
+    official: Гуам
+    common: Гуам
+  km:
+    official: ហ្គាម
+    common: ហ្គាម
+  rw:
+    official: Gwami
+    common: Gwami
+  ko:
+    official: 괌
+    common: 괌
+  ku:
+    official: Guam
+    common: Guam
+  lv:
+    official: Guama
+    common: Guama
+  lt:
+    official: Guamas
+    common: Guamas
+  mk:
+    official: Гуам
+    common: Гуам
+  ml:
+    official: ഗുവാം
+    common: ഗുവാം
+  mi:
+    official: Kuamu
+    common: Kuamu
+  mr:
+    official: ग्वाम
+    common: ग्वाम
+  ms:
+    official: Guam
+    common: Guam
+  mt:
+    official: Gwatemala
+    common: Gwatemala
+  mn:
+    official: Guam
+    common: Guam
+  ne:
+    official: ग्वाम
+    common: ग्वाम
+  nn:
+    official: Guam
+    common: Guam
+  nb:
+    official: Guam
+    common: Guam
+  oc:
+    official: Guam
+    common: Guam
+  or:
+    official: ଗୁଆମ
+    common: ଗୁଆମ
+  pa:
+    official: ਗੁਆਮ
+    common: ਗੁਆਮ
+  fa:
+    official: گوام
+    common: گوام
+  pl:
+    official: Guam
+    common: Guam
+  pt:
+    official: Guam
+    common: Guam
+  ps:
+    official: Guam
+    common: Guam
+  ro:
+    official: Guam
+    common: Guam
+  ru:
+    official: Гуам
+    common: Гуам
+  si:
+    official: ගුවාම්
+    common: ගුවාම්
+  sk:
+    official: Guam
+    common: Guam
+  sl:
+    official: Guam
+    common: Guam
+  so:
+    official: Guam
+    common: Guam
+  es:
+    official: Guam
+    common: Guam
+  sr:
+    official: Гиам
+    common: Гиам
+  sw:
+    official: Guam
+    common: Guam
+  sv:
+    official: Guam
+    common: Guam
+  ta:
+    official: குவாம்
+    common: குவாம்
+  tt:
+    official: Gуам
+    common: Gуам
+  te:
+    official: గ్వామ్
+    common: గ్వామ్
+  tl:
+    official: Gwam
+    common: Gwam
+  th:
+    official: กวม
+    common: กวม
+  ti:
+    official: Guam
+    common: Guam
+  tk:
+    official: Guam
+    common: Guam
+  tr:
+    official: Guam
+    common: Guam
+  ug:
+    official: گۇئام
+    common: گۇئام
+  uk:
+    official: Гуам
+    common: Гуам
+  ve:
+    official: Guam
+    common: Guam
+  vi:
+    official: Gu-ăm
+    common: Gu-ăm
+  cy:
+    official: Guam
+    common: Guam
+  wa:
+    official: Gwam
+    common: Gwam
+  wo:
+    official: Guam
+    common: Guam
+  xh:
+    official: Guatemala
+    common: Guatemala
+  zu:
+    official: I-Guwathemala
+    common: I-Guwathemala

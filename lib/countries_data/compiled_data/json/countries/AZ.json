@@ -1,0 +1,441 @@
+{
+  "continent": "Asia",
+  "alpha2": "AZ",
+  "alpha3": "AZE",
+  "country_code": "994",
+  "international_prefix": "810",
+  "ioc": "AZE",
+  "gec": "AJ",
+  "name": "Azerbaijan",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8,
+    9
+  ],
+  "national_prefix": "8",
+  "number": "031",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "world_region": "EMEA",
+  "un_locode": "AZ",
+  "nationality": "Azerbaijani",
+  "postal_code": true,
+  "unofficial_names": [
+    "Azerbaijan",
+    "Aserbaidschan",
+    "Azerbaïdjan",
+    "Azerbaiyán",
+    "アゼルバイジャン",
+    "Azerbeidzjan"
+  ],
+  "languages_official": [
+    "az",
+    "hy"
+  ],
+  "languages_spoken": [
+    "az",
+    "hy"
+  ],
+  "geo": {
+    "latitude": 40.143105,
+    "latitude_dec": "40.33100509643555",
+    "longitude": 47.576927,
+    "longitude_dec": "47.80820083618164",
+    "max_latitude": 41.9123402,
+    "max_longitude": 50.6211508,
+    "min_latitude": 38.392217,
+    "min_longitude": 44.7632599,
+    "bounds": {
+      "northeast": {
+        "lat": 41.9123402,
+        "lng": 50.6211508
+      },
+      "southwest": {
+        "lat": 38.392217,
+        "lng": 44.7632599
+      }
+    }
+  },
+  "currency_code": "AZN",
+  "postal_address_data": {
+    "postprefix": "AZ ",
+    "zipex": "1000",
+    "name": "AZERBAIJAN",
+    "zip": "\\d{4}",
+    "fmt": "%N%n%O%n%A%nAZ %Z %C",
+    "key": "AZ",
+    "id": "data/AZ"
+  },
+  "translations": {
+    "af": {
+      "official": "Azerbaidjan",
+      "common": "Azerbaidjan"
+    },
+    "sq": {
+      "official": "Azerbajxhan",
+      "common": "Azerbajxhan"
+    },
+    "am": {
+      "official": "ጐፈሴባጃን",
+      "common": "ጐፈሴባጃን"
+    },
+    "ar": {
+      "official": "أذربيجان",
+      "common": "أذربيجان"
+    },
+    "hy": {
+      "official": "Ադրբեջան",
+      "common": "Ադրբեջան"
+    },
+    "as": {
+      "official": "আজেৰ্বেইজান",
+      "common": "আজেৰ্বেইজান"
+    },
+    "az": {
+      "official": "Azərbaycan",
+      "common": "Azərbaycan"
+    },
+    "eu": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "be": {
+      "official": "Азербайджан",
+      "common": "Азербайджан"
+    },
+    "bn": {
+      "official": "আজারবাইজান",
+      "common": "আজারবাইজান"
+    },
+    "bs": {
+      "official": "Azerbejdžan",
+      "common": "Azerbejdžan"
+    },
+    "br": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "bg": {
+      "official": "Азербайджан",
+      "common": "Азербайджан"
+    },
+    "ca": {
+      "official": "Azerbaitjan",
+      "common": "Azerbaitjan"
+    },
+    "zh": {
+      "official": "阿塞拜疆",
+      "common": "阿塞拜疆"
+    },
+    "cs": {
+      "official": "Ázerbájdžán",
+      "common": "Ázerbájdžán"
+    },
+    "da": {
+      "official": "Aserbajdsjan",
+      "common": "Aserbajdsjan"
+    },
+    "nl": {
+      "official": "Azerbeidzjan",
+      "common": "Azerbeidzjan"
+    },
+    "dz": {
+      "official": "ཨ་ཛར་བ་ཡེ་ཇཱན།",
+      "common": "ཨ་ཛར་བ་ཡེ་ཇཱན།"
+    },
+    "en": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "eo": {
+      "official": "Azerbajĝano",
+      "common": "Azerbajĝano"
+    },
+    "et": {
+      "official": "Aserbaidžaan",
+      "common": "Aserbaidžaan"
+    },
+    "fo": {
+      "official": "Aserbajdsjan",
+      "common": "Aserbajdsjan"
+    },
+    "fi": {
+      "official": "Azerbaidžan",
+      "common": "Azerbaidžan"
+    },
+    "fr": {
+      "official": "Azerbaïdjan",
+      "common": "Azerbaïdjan"
+    },
+    "ka": {
+      "official": "აზერბაიჯანი",
+      "common": "აზერბაიჯანი"
+    },
+    "de": {
+      "official": "Aserbaidschan",
+      "common": "Aserbaidschan"
+    },
+    "ga": {
+      "official": "An Asarbaiseáin",
+      "common": "An Asarbaiseáin"
+    },
+    "gl": {
+      "official": "Acerbaixán",
+      "common": "Acerbaixán"
+    },
+    "el": {
+      "official": "Αζερμπαϊτζάν",
+      "common": "Αζερμπαϊτζάν"
+    },
+    "gu": {
+      "official": "અઝરબૈઝાન",
+      "common": "અઝરબૈઝાન"
+    },
+    "he": {
+      "official": "אזרביג'ן",
+      "common": "אזרביג'ן"
+    },
+    "hi": {
+      "official": "अज़रबैजान",
+      "common": "अज़रबैजान"
+    },
+    "hr": {
+      "official": "Azerbejdžan",
+      "common": "Azerbejdžan"
+    },
+    "hu": {
+      "official": "Azerbajdzsán",
+      "common": "Azerbajdzsán"
+    },
+    "is": {
+      "official": "Aserbaídsjan",
+      "common": "Aserbaídsjan"
+    },
+    "ia": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "id": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "it": {
+      "official": "Azerbaigian",
+      "common": "Azerbaigian"
+    },
+    "ja": {
+      "official": "アゼルバイジャン",
+      "common": "アゼルバイジャン"
+    },
+    "kn": {
+      "official": "ಅಜರ್ಬೈಜಾನ್",
+      "common": "ಅಜರ್ಬೈಜಾನ್"
+    },
+    "kk": {
+      "official": "Әзірбайжан",
+      "common": "Әзірбайжан"
+    },
+    "km": {
+      "official": "អាហ្ស៊ែរបែហ្សង់",
+      "common": "អាហ្ស៊ែរបែហ្សង់"
+    },
+    "rw": {
+      "official": "Azeribayijani",
+      "common": "Azeribayijani"
+    },
+    "ko": {
+      "official": "아제르바이잔",
+      "common": "아제르바이잔"
+    },
+    "ku": {
+      "official": "Azerbaycan",
+      "common": "Azerbaycan"
+    },
+    "lv": {
+      "official": "Azerbaidžāna",
+      "common": "Azerbaidžāna"
+    },
+    "lt": {
+      "official": "Azerbaidžanas",
+      "common": "Azerbaidžanas"
+    },
+    "mk": {
+      "official": "Азербејџан",
+      "common": "Азербејџан"
+    },
+    "ml": {
+      "official": "അസര്‍ബൈജാന്‍",
+      "common": "അസര്‍ബൈജാന്‍"
+    },
+    "mi": {
+      "official": "Atepaihānia",
+      "common": "Atepaihānia"
+    },
+    "mr": {
+      "official": "अझेर्बेजान",
+      "common": "अझेर्बेजान"
+    },
+    "ms": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "mt": {
+      "official": "Ażerbajġan",
+      "common": "Ażerbajġan"
+    },
+    "mn": {
+      "official": "Азербайжан",
+      "common": "Азербайжан"
+    },
+    "ne": {
+      "official": "अजरबैजान",
+      "common": "अजरबैजान"
+    },
+    "nn": {
+      "official": "Aserbajdsjan",
+      "common": "Aserbajdsjan"
+    },
+    "nb": {
+      "official": "Aserbajdsjan",
+      "common": "Aserbajdsjan"
+    },
+    "oc": {
+      "official": "Turc",
+      "common": "Turc"
+    },
+    "or": {
+      "official": "ଆଜର୍ବେଜାନ",
+      "common": "ଆଜର୍ବେଜାନ"
+    },
+    "pa": {
+      "official": "ਅਜ਼ਰਬਾਈਜਾਨ",
+      "common": "ਅਜ਼ਰਬਾਈਜਾਨ"
+    },
+    "fa": {
+      "official": "آذربایجان",
+      "common": "آذربایجان"
+    },
+    "pl": {
+      "official": "Azerbejdżan",
+      "common": "Azerbejdżan"
+    },
+    "pt": {
+      "official": "Azerbaijão",
+      "common": "Azerbaijão"
+    },
+    "ps": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "ro": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "ru": {
+      "official": "Азербайджан",
+      "common": "Азербайджан"
+    },
+    "si": {
+      "official": "අසර්බයිජාන්",
+      "common": "අසර්බයිජාන්"
+    },
+    "sk": {
+      "official": "Azerbajdžan",
+      "common": "Azerbajdžan"
+    },
+    "sl": {
+      "official": "Azerbajdžan",
+      "common": "Azerbajdžan"
+    },
+    "so": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "es": {
+      "official": "Azerbayán",
+      "common": "Azerbayán"
+    },
+    "sr": {
+      "official": "Азербејџан",
+      "common": "Азербејџан"
+    },
+    "sw": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "sv": {
+      "official": "Azerbajdzjan",
+      "common": "Azerbajdzjan"
+    },
+    "ta": {
+      "official": "அசர்பைசான்",
+      "common": "அசர்பைசான்"
+    },
+    "tt": {
+      "official": "Әзәрбайҗан",
+      "common": "Әзәрбайҗан"
+    },
+    "te": {
+      "official": "అఝేర్బేజాన",
+      "common": "అఝేర్బేజాన"
+    },
+    "tl": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "th": {
+      "official": "อาเซอร์ไบจาน",
+      "common": "อาเซอร์ไบจาน"
+    },
+    "ti": {
+      "official": "አዘርባጃን",
+      "common": "አዘርባጃን"
+    },
+    "tk": {
+      "official": "Azerbeýjan",
+      "common": "Azerbeýjan"
+    },
+    "tr": {
+      "official": "Azerbaycan",
+      "common": "Azerbaycan"
+    },
+    "ug": {
+      "official": "ئەزەربەيجان",
+      "common": "ئەزەربەيجان"
+    },
+    "uk": {
+      "official": "Азербайджан",
+      "common": "Азербайджан"
+    },
+    "ve": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "vi": {
+      "official": "Ai-xợ-bai-gianh",
+      "common": "Ai-xợ-bai-gianh"
+    },
+    "cy": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "wa": {
+      "official": "Azerbaydjan",
+      "common": "Azerbaydjan"
+    },
+    "wo": {
+      "official": "Aserbayjaan",
+      "common": "Aserbayjaan"
+    },
+    "xh": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "zu": {
+      "official": "I-Azerbayijani",
+      "common": "I-Azerbayijani"
+    }
+  }
+}

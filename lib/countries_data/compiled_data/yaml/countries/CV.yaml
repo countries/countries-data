@@ -1,0 +1,338 @@
+---
+continent: Africa
+alpha2: CV
+alpha3: CPV
+country_code: '238'
+international_prefix: '00'
+ioc: CPV
+gec: CV
+name: Cape Verde
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: None
+number: '132'
+region: Africa
+subregion: Western Africa
+world_region: EMEA
+un_locode: CV
+nationality: Cape Verdian
+postal_code: true
+unofficial_names:
+- Cape Verde
+- Kap Verde
+- Cap Vert
+- Cabo Verde
+- カーボベルデ
+- Kaapverdië
+languages_official:
+- pt
+languages_spoken:
+- pt
+geo:
+  latitude: 15.120142
+  latitude_dec: '15.183002471923828'
+  longitude: -23.6051722
+  longitude_dec: "-23.70345115661621"
+  max_latitude: 17.2047752
+  max_longitude: -22.6576979
+  min_latitude: 14.8026841
+  min_longitude: -25.3610776
+  bounds:
+    northeast:
+      lat: 17.2047752
+      lng: -22.6576979
+    southwest:
+      lat: 14.8026841
+      lng: -25.3610776
+currency_code: CVE
+postal_address_data:
+  lang: pt
+  zipex: '7600'
+  name: CAPE VERDE
+  zip: "\\d{4}"
+  fmt: "%N%n%O%n%A%n%Z %C%n%S"
+  state_name_type: island
+  languages: pt
+  sub_keys: Boa Vista~Brava~Fogo~Maio~Sal~Santiago~Santo Antão~São Nicolau~São Vicente
+  key: CV
+  sub_isoids: BV~BR~~MA~SL~~~~SV
+  id: data/CV
+translations:
+  af:
+    official: Kaap Verde
+    common: Kaap Verde
+  sq:
+    official: Kepi i Gjelbërt
+    common: Kepi i Gjelbërt
+  am:
+    official: ጣፕ ታሴ፤
+    common: ጣፕ ታሴ፤
+  ar:
+    official: كاب فيرد
+    common: كاب فيرد
+  hy:
+    official: Կաբո-Վերդե
+    common: Կաբո-Վերդե
+  as:
+    official: কেপ ভাৰ্ডি
+    common: কেপ ভাৰ্ডি
+  az:
+    official: Keyp Verde
+    common: Keyp Verde
+  eu:
+    official: Cabo Verde
+    common: Cabo Verde
+  be:
+    official: Каба-Вердэ
+    common: Каба-Вердэ
+  bn:
+    official: কেপ ভার্ডি
+    common: কেপ ভার্ডি
+  bs:
+    official: Zelenortsko otočje
+    common: Zelenortsko otočje
+  br:
+    official: Cape Verde
+    common: Cape Verde
+  bg:
+    official: Кейп Верде
+    common: Кейп Верде
+  ca:
+    official: Cap Verd
+    common: Cap Verd
+  zh:
+    official: 佛得角
+    common: 佛得角
+  cs:
+    official: Kapverdské ostrovy
+    common: Kapverdské ostrovy
+  da:
+    official: Kap Verde
+    common: Kap Verde
+  nl:
+    official: Kaapverdië
+    common: Kaapverdië
+  dz:
+    official: ཀེཔ་-བར་དི།
+    common: ཀེཔ་-བར་དི།
+  en:
+    official: Cape Verde
+    common: Cape Verde
+  eo:
+    official: Kabo-Verdo
+    common: Kabo-Verdo
+  et:
+    official: Roheneemesaared (Cabo Verde)
+    common: Roheneemesaared (Cabo Verde)
+  fo:
+    official: Grønhøvdaoyggjarnar
+    common: Grønhøvdaoyggjarnar
+  fi:
+    official: Kap Verde
+    common: Kap Verde
+  fr:
+    official: Cap-Vert
+    common: Cap-Vert
+  ka:
+    official: კაბო-ვერდე
+    common: კაბო-ვერდე
+  de:
+    official: Cabo Verde
+    common: Cabo Verde
+  ga:
+    official: Rinn Verde
+    common: Rinn Verde
+  gl:
+    official: Cabo Verde
+    common: Cabo Verde
+  el:
+    official: Πράσινο Ακρωτήριο
+    common: Πράσινο Ακρωτήριο
+  gu:
+    official: કેપ વર્દે
+    common: કેપ વર્દે
+  he:
+    official: כף ורדה
+    common: כף ורדה
+  hi:
+    official: केप वर्दे
+    common: केप वर्दे
+  hr:
+    official: Zelenortski otoci
+    common: Zelenortski otoci
+  hu:
+    official: Zöld-foki-szigetek
+    common: Zöld-foki-szigetek
+  is:
+    official: Grænhöfðaeyjar
+    common: Grænhöfðaeyjar
+  ia:
+    official: Capo Verde
+    common: Capo Verde
+  id:
+    official: Teluk Verde
+    common: Teluk Verde
+  it:
+    official: Capo Verde
+    common: Capo Verde
+  ja:
+    official: カーボヴェルデ
+    common: カーボヴェルデ
+  kn:
+    official: ಕೆಪ ವಿರದಿ
+    common: ಕೆಪ ವಿರದಿ
+  kk:
+    official: Кабо-Верде
+    common: Кабо-Верде
+  km:
+    official: កាបវែរ
+    common: កាបវែរ
+  rw:
+    official: Kapu Veri
+    common: Kapu Veri
+  ko:
+    official: 케이프 베르드
+    common: 케이프 베르드
+  ku:
+    official: Kap Verde
+    common: Kap Verde
+  lv:
+    official: Kaboverde
+    common: Kaboverde
+  lt:
+    official: Žaliasis Kyšulys
+    common: Žaliasis Kyšulys
+  mk:
+    official: Кејп Верде
+    common: Кејп Верде
+  ml:
+    official: കേപ് വെര്‍ഡെ
+    common: കേപ് വെര്‍ഡെ
+  mi:
+    official: Cape Verde
+    common: Cape Verde
+  mr:
+    official: केप व्हर्ड
+    common: केप व्हर्ड
+  ms:
+    official: Cape Verde
+    common: Cape Verde
+  mt:
+    official: Kape Verde
+    common: Kape Verde
+  mn:
+    official: Cape Verde
+    common: Cape Verde
+  ne:
+    official: केप वर्दी
+    common: केप वर्दी
+  nn:
+    official: Kapp Verde
+    common: Kapp Verde
+  nb:
+    official: Kapp Verde
+    common: Kapp Verde
+  oc:
+    official: Cap Verd
+    common: Cap Verd
+  or:
+    official: କେପ୍ ଭାର୍ଡେ
+    common: କେପ୍ ଭାର୍ଡେ
+  pa:
+    official: ਕੇਪ ਵਾਰਡੀ
+    common: ਕੇਪ ਵਾਰਡੀ
+  fa:
+    official: کیپ ورد
+    common: کیپ ورد
+  pl:
+    official: Republika Zielonego Przylądka
+    common: Republika Zielonego Przylądka
+  pt:
+    official: Cabo Verde
+    common: Cabo Verde
+  ps:
+    official: Cape Verde
+    common: Cape Verde
+  ro:
+    official: Capul Verde
+    common: Capul Verde
+  ru:
+    official: Кабо-Верде
+    common: Кабо-Верде
+  si:
+    official: කේප් වර්ඩෙe
+    common: කේප් වර්ඩෙe
+  sk:
+    official: Kapverdy
+    common: Kapverdy
+  sl:
+    official: Zelenortski otoki
+    common: Zelenortski otoki
+  so:
+    official: Cape Verde
+    common: Cape Verde
+  es:
+    official: Cabo Verde
+    common: Cabo Verde
+  sr:
+    official: Зеленортска острва
+    common: Зеленортска острва
+  sw:
+    official: Cape Verde
+    common: Cape Verde
+  sv:
+    official: Kap Verde
+    common: Kap Verde
+  ta:
+    official: கேப் வெர்டி
+    common: கேப் வெர்டி
+  tt:
+    official: Капе Верде
+    common: Капе Верде
+  te:
+    official: కేప్ వ్హర్డ
+    common: కేప్ వ్హర్డ
+  tl:
+    official: Cape Verde
+    common: Cape Verde
+  th:
+    official: เคปเวิร์ด
+    common: เคปเวิร์ด
+  ti:
+    official: ኬፕ ቬርዴ
+    common: ኬፕ ቬርዴ
+  tk:
+    official: Kabo-Werdi
+    common: Kabo-Werdi
+  tr:
+    official: Verde Burnu
+    common: Verde Burnu
+  ug:
+    official: يېشىل تۇمشۇق
+    common: يېشىل تۇمشۇق
+  uk:
+    official: Кабо-Верде
+    common: Кабо-Верде
+  ve:
+    official: Cape Verde
+    common: Cape Verde
+  vi:
+    official: Cáp-ve-đẹ
+    common: Cáp-ve-đẹ
+  cy:
+    official: Cape Verde
+    common: Cape Verde
+  wa:
+    official: Cap Vert
+    common: Cap Vert
+  wo:
+    official: Kap Weer
+    common: Kap Weer
+  xh:
+    official: Cape Verde
+    common: Cape Verde
+  zu:
+    official: Cape Verde
+    common: Cape Verde

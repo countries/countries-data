@@ -1,0 +1,434 @@
+{
+  "continent": "Africa",
+  "alpha2": "CD",
+  "alpha3": "COD",
+  "country_code": "243",
+  "international_prefix": "00",
+  "ioc": "COD",
+  "gec": "CG",
+  "name": "Congo, The Democratic Republic Of The",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "None",
+  "number": "180",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "world_region": "EMEA",
+  "un_locode": "CD",
+  "nationality": "Congolese",
+  "postal_code": false,
+  "unofficial_names": [
+    "Congo (Dem. Rep.)",
+    "Kongo (Dem. Rep.)",
+    "Congo (Rep. Dem.)",
+    "コンゴ民主共和国",
+    "Congo [DRC]",
+    "Congo (The Democratic Republic Of The)",
+    "Democratic Republic of the Congo",
+    "Congo, Democratic Republic of"
+  ],
+  "languages_official": [
+    "fr",
+    "ln",
+    "kg",
+    "sw",
+    "lu"
+  ],
+  "languages_spoken": [
+    "fr",
+    "ln",
+    "kg",
+    "sw",
+    "lu"
+  ],
+  "geo": {
+    "latitude": -4.038333,
+    "latitude_dec": "-2.879866123199463",
+    "longitude": 21.758664,
+    "longitude_dec": "23.6563777923584",
+    "max_latitude": 5.3920029,
+    "max_longitude": 31.314612,
+    "min_latitude": -13.4590349,
+    "min_longitude": 12.185509
+  },
+  "currency_code": "CDF",
+  "postal_address_data": {
+    "id": "data/CD",
+    "key": "CD",
+    "name": "CONGO (DEM. REP.)"
+  },
+  "translations": {
+    "af": {
+      "official": "Kongo, Die Demokratiese Republiek van die",
+      "common": "Kongo, Die Demokratiese Republiek van die"
+    },
+    "sq": {
+      "official": "Kongo, Republika Demokratike e",
+      "common": "Kongo, Republika Demokratike e"
+    },
+    "am": {
+      "official": "ጥንጕ",
+      "common": "ጥንጕ"
+    },
+    "ar": {
+      "official": "الكونغو، جمهوريّة الكونغو الدّيموقراطيّة",
+      "common": "الكونغو، جمهوريّة الكونغو الدّيموقراطيّة"
+    },
+    "hy": {
+      "official": "Կոնգո, -ի Դեմոկրատական Հանրապետություն",
+      "common": "Կոնգո, -ի Դեմոկրատական Հանրապետություն"
+    },
+    "as": {
+      "official": "কঙ্গো, গণতান্ত্ৰিক প্ৰজাতন্ত্ৰ",
+      "common": "কঙ্গো, গণতান্ত্ৰিক প্ৰজাতন্ত্ৰ"
+    },
+    "az": {
+      "official": "Konqo, Demokratik Respublikası",
+      "common": "Konqo, Demokratik Respublikası"
+    },
+    "eu": {
+      "official": "Kongoko Herri Errepublika Demokratikoa",
+      "common": "Kongoko Herri Errepublika Demokratikoa"
+    },
+    "be": {
+      "official": "Конга, Дэмакратычная Рэспубліка",
+      "common": "Конга, Дэмакратычная Рэспубліка"
+    },
+    "bn": {
+      "official": "কঙ্গো, গণতান্ত্রিক প্রজাতন্ত্র",
+      "common": "কঙ্গো, গণতান্ত্রিক প্রজাতন্ত্র"
+    },
+    "bs": {
+      "official": "Demokratska Republika Kongo",
+      "common": "Demokratska Republika Kongo"
+    },
+    "br": {
+      "official": "Congo, The Democratic Republic of the",
+      "common": "Congo, The Democratic Republic of the"
+    },
+    "bg": {
+      "official": "Конго, Демократична република",
+      "common": "Конго, Демократична република"
+    },
+    "ca": {
+      "official": "Congo, La República Democràtica del",
+      "common": "Congo, La República Democràtica del"
+    },
+    "zh": {
+      "official": "刚果民主共和国",
+      "common": "刚果民主共和国"
+    },
+    "cs": {
+      "official": "Konžská demokratická republika",
+      "common": "Konžská demokratická republika"
+    },
+    "da": {
+      "official": "Den Demokratiske Republik Congo",
+      "common": "Den Demokratiske Republik Congo"
+    },
+    "nl": {
+      "official": "Congo, Democratische Republiek",
+      "common": "Congo, Democratische Republiek"
+    },
+    "dz": {
+      "official": "ཀོང་གོ་ མི་སེར་དམང་གཙོའི་ རྒྱལ་ཁབ།",
+      "common": "ཀོང་གོ་ མི་སེར་དམང་གཙོའི་ རྒྱལ་ཁབ།"
+    },
+    "en": {
+      "official": "Congo, The Democratic Republic of the",
+      "common": "Congo, The Democratic Republic of the"
+    },
+    "eo": {
+      "official": "Demokratia Respubliko Kongo",
+      "common": "Demokratia Respubliko Kongo"
+    },
+    "et": {
+      "official": "Kongo Demokraatlik Vabariik",
+      "common": "Kongo Demokraatlik Vabariik"
+    },
+    "fo": {
+      "official": "Congo, The Democratic Republic of the",
+      "common": "Congo, The Democratic Republic of the"
+    },
+    "fi": {
+      "official": "Kongon demokraattinen tasavalta",
+      "common": "Kongon demokraattinen tasavalta"
+    },
+    "fr": {
+      "official": "République démocratique du Congo",
+      "common": "République démocratique du Congo"
+    },
+    "ka": {
+      "official": "კონგო, დემოკრატიული რესპუბლიკა",
+      "common": "კონგო, დემოკრატიული რესპუბლიკა"
+    },
+    "de": {
+      "official": "Demokratische Republik Kongo",
+      "common": "Demokratische Republik Kongo"
+    },
+    "ga": {
+      "official": "Poblacht Dhaonlathach an Chongó",
+      "common": "Poblacht Dhaonlathach an Chongó"
+    },
+    "gl": {
+      "official": "Congo, República Democrática do",
+      "common": "Congo, República Democrática do"
+    },
+    "el": {
+      "official": "Κονγκό, Λαϊκή Δημοκρατία του",
+      "common": "Κονγκό, Λαϊκή Δημοκρατία του"
+    },
+    "gu": {
+      "official": "કોન્ગો, ડેમોક્રેટિક રીપબ્લિક ઓફ",
+      "common": "કોન્ગો, ડેમોક્રેટિક રીપબ્લિક ઓફ"
+    },
+    "he": {
+      "official": "קונגו, הרפובליקה הדמוקרטית של",
+      "common": "קונגו, הרפובליקה הדמוקרטית של"
+    },
+    "hi": {
+      "official": "कांगो, द डेमोक्रेटिक रिपब्लिक ऑफ द",
+      "common": "कांगो, द डेमोक्रेटिक रिपब्लिक ऑफ द"
+    },
+    "hr": {
+      "official": "Demokratska Republika Kongo",
+      "common": "Demokratska Republika Kongo"
+    },
+    "hu": {
+      "official": "Kongói Demokratikus Köztársaság",
+      "common": "Kongói Demokratikus Köztársaság"
+    },
+    "is": {
+      "official": "Kongó, sambandslýðveldið",
+      "common": "Kongó, sambandslýðveldið"
+    },
+    "ia": {
+      "official": "Congo, Republica Democratic del",
+      "common": "Congo, Republica Democratic del"
+    },
+    "id": {
+      "official": "Republik Demokrat Congo",
+      "common": "Republik Demokrat Congo"
+    },
+    "it": {
+      "official": "Repubblica democratica del Congo",
+      "common": "Repubblica democratica del Congo"
+    },
+    "ja": {
+      "official": "コンゴ民主共和国",
+      "common": "コンゴ民主共和国"
+    },
+    "kn": {
+      "official": "ಕಾಂಗೋ ಪ್ರಜಾಸತ್ತಾತ್ಮಕ ಗಣರಾಜ್ಯ",
+      "common": "ಕಾಂಗೋ ಪ್ರಜಾಸತ್ತಾತ್ಮಕ ಗಣರಾಜ್ಯ"
+    },
+    "kk": {
+      "official": "Конго Демократиялық Республикасы",
+      "common": "Конго Демократиялық Республикасы"
+    },
+    "km": {
+      "official": "សាធារណរដ្ឋ​ប្រជាធិបតេយ្យ​កុងហ្គោ",
+      "common": "សាធារណរដ្ឋ​ប្រជាធិបតេយ្យ​កុងហ្គោ"
+    },
+    "rw": {
+      "official": "Repubulika Iharanira Demokarasi ya Kongo",
+      "common": "Repubulika Iharanira Demokarasi ya Kongo"
+    },
+    "ko": {
+      "official": "콩고 민주 공화국",
+      "common": "콩고 민주 공화국"
+    },
+    "ku": {
+      "official": "Komara Demokratîk a Kongo",
+      "common": "Komara Demokratîk a Kongo"
+    },
+    "lv": {
+      "official": "Kongo Demokrātiskā Republika",
+      "common": "Kongo Demokrātiskā Republika"
+    },
+    "lt": {
+      "official": "Kongo Demokratinė Respublika",
+      "common": "Kongo Demokratinė Respublika"
+    },
+    "mk": {
+      "official": "Конго, демократска република",
+      "common": "Конго, демократска република"
+    },
+    "ml": {
+      "official": "കോംഗോ ഡെമോക്രാറ്റിക് റിപ്പബ്ലിക്",
+      "common": "കോംഗോ ഡെമോക്രാറ്റിക് റിപ്പബ്ലിക്"
+    },
+    "mi": {
+      "official": "Kōngo",
+      "common": "Kōngo"
+    },
+    "mr": {
+      "official": "कॉंगो, दि डेमोक्रॅटिक रिपब्लिक ऑफ दि",
+      "common": "कॉंगो, दि डेमोक्रॅटिक रिपब्लिक ऑफ दि"
+    },
+    "ms": {
+      "official": "Republik Demokratik Kongo",
+      "common": "Republik Demokratik Kongo"
+    },
+    "mt": {
+      "official": "Congo, The Democratic Republic of the",
+      "common": "Congo, The Democratic Republic of the"
+    },
+    "mn": {
+      "official": "Ардчилсан Конго ард улс",
+      "common": "Ардчилсан Конго ард улс"
+    },
+    "ne": {
+      "official": "कोङ्गो को प्रजातन्त्रिक गणराज्य",
+      "common": "कोङ्गो को प्रजातन्त्रिक गणराज्य"
+    },
+    "nn": {
+      "official": "Den demokratiske republikken Kongo",
+      "common": "Den demokratiske republikken Kongo"
+    },
+    "nb": {
+      "official": "Kongo, Den demokratiske republikk",
+      "common": "Kongo, Den demokratiske republikk"
+    },
+    "oc": {
+      "official": "Republica Democratica de Còngo",
+      "common": "Republica Democratica de Còngo"
+    },
+    "or": {
+      "official": "କୋଙ୍ଗୋ, ମଧ୍ଯ ଆଫ୍ରିକାର",
+      "common": "କୋଙ୍ଗୋ, ମଧ୍ଯ ଆଫ୍ରିକାର"
+    },
+    "pa": {
+      "official": "ਕੌਂਗੋ, ਇਸ ਦਾ ਜਮਹੂਰੀ ਲੋਕਤੰਤਰ",
+      "common": "ਕੌਂਗੋ, ਇਸ ਦਾ ਜਮਹੂਰੀ ਲੋਕਤੰਤਰ"
+    },
+    "fa": {
+      "official": "جمهوری دموکراتیک کنگو",
+      "common": "جمهوری دموکراتیک کنگو"
+    },
+    "pl": {
+      "official": "Kongo, Demokratyczna Republika Konga",
+      "common": "Kongo, Demokratyczna Republika Konga"
+    },
+    "pt": {
+      "official": "Congo, República Democrática do",
+      "common": "Congo, República Democrática do"
+    },
+    "ps": {
+      "official": "Congo, The Democratic Republic of the",
+      "common": "Congo, The Democratic Republic of the"
+    },
+    "ro": {
+      "official": "Congo, Republica democrată",
+      "common": "Congo, Republica democrată"
+    },
+    "ru": {
+      "official": "Демократическая Республика Конго",
+      "common": "Демократическая Республика Конго"
+    },
+    "si": {
+      "official": "කොන්ගෝ ප්‍රජාතන්ත්‍රවාදී ජනරජය",
+      "common": "කොන්ගෝ ප්‍රජාතන්ත්‍රවාදී ජනරජය"
+    },
+    "sk": {
+      "official": "Konžská demokratická republika",
+      "common": "Konžská demokratická republika"
+    },
+    "sl": {
+      "official": "Demokratična republika Kongo",
+      "common": "Demokratična republika Kongo"
+    },
+    "so": {
+      "official": "Kuuriyada Waqooyi",
+      "common": "Kuuriyada Waqooyi"
+    },
+    "es": {
+      "official": "Congo, República Democrática del",
+      "common": "Congo, República Democrática del"
+    },
+    "sr": {
+      "official": "Конго, Демократска Република",
+      "common": "Конго, Демократска Република"
+    },
+    "sw": {
+      "official": "Congo",
+      "common": "Congo"
+    },
+    "sv": {
+      "official": "Kongo, demokratiska republiken",
+      "common": "Kongo, demokratiska republiken"
+    },
+    "ta": {
+      "official": "காங்கோ குடியரசு",
+      "common": "காங்கோ குடியரசு"
+    },
+    "tt": {
+      "official": "Конgо, Демократ Җөмһүриәте",
+      "common": "Конgо, Демократ Җөмһүриәте"
+    },
+    "te": {
+      "official": "కాంగో, ది డెమోక్రటిక్ రిపబ్లిక్ ఆఫ్ ది",
+      "common": "కాంగో, ది డెమోక్రటిక్ రిపబ్లిక్ ఆఫ్ ది"
+    },
+    "tl": {
+      "official": "Congo, Ang Demokratikong Republika ng",
+      "common": "Congo, Ang Demokratikong Republika ng"
+    },
+    "th": {
+      "official": "คองโก, สาธารณรัฐประชาธิปไตย",
+      "common": "คองโก, สาธารณรัฐประชาธิปไตย"
+    },
+    "ti": {
+      "official": "Congo, The Democratic Republic of the",
+      "common": "Congo, The Democratic Republic of the"
+    },
+    "tk": {
+      "official": "Kongo Demokratik Respublik",
+      "common": "Kongo Demokratik Respublik"
+    },
+    "tr": {
+      "official": "Kongo Demokratik Cumhuriyeti",
+      "common": "Kongo Demokratik Cumhuriyeti"
+    },
+    "ug": {
+      "official": "كونگو دېموكراتىك جۇمھۇرىيىتى",
+      "common": "كونگو دېموكراتىك جۇمھۇرىيىتى"
+    },
+    "uk": {
+      "official": "Конго, демократична республіка",
+      "common": "Конго, демократична республіка"
+    },
+    "ve": {
+      "official": "Congo, The Democratic Republic of the",
+      "common": "Congo, The Democratic Republic of the"
+    },
+    "vi": {
+      "official": "Cộng hoà Dân chủ Công-gô",
+      "common": "Cộng hoà Dân chủ Công-gô"
+    },
+    "cy": {
+      "official": "Congo, Gweriniaeth Ddemocrataidd y",
+      "common": "Congo, Gweriniaeth Ddemocrataidd y"
+    },
+    "wa": {
+      "official": "Congo-Kinshasa, Republike Democratike do Congo",
+      "common": "Congo-Kinshasa, Republike Democratike do Congo"
+    },
+    "wo": {
+      "official": "Kongóo, Republik Demokaraatik bu",
+      "common": "Kongóo, Republik Demokaraatik bu"
+    },
+    "xh": {
+      "official": "Congo, The Democratic Republic of the",
+      "common": "Congo, The Democratic Republic of the"
+    },
+    "zu": {
+      "official": "Congo, The Democratic Republic of the",
+      "common": "Congo, The Democratic Republic of the"
+    }
+  }
+}

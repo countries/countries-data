@@ -1,0 +1,345 @@
+---
+continent: Asia
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}} {{region_short}}
+  {{country}}
+alpha2: HK
+alpha3: HKG
+country_code: '852'
+international_prefix: '001'
+ioc: HKG
+gec: HK
+name: Hong Kong
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: None
+number: '344'
+region: Asia
+subregion: Eastern Asia
+world_region: APAC
+un_locode: HK
+nationality: Chinese
+postal_code: false
+unofficial_names:
+- Hong Kong
+- 香港
+- Hongkong
+languages_official:
+- en
+- zh
+languages_spoken:
+- en
+- zh
+geo:
+  latitude: 22.396428
+  latitude_dec: '22.336156845092773'
+  longitude: 114.109497
+  longitude_dec: '114.18696594238281'
+  max_latitude: 22.561968
+  max_longitude: 114.4069573
+  min_latitude: 22.1533883
+  min_longitude: 113.835078
+  bounds:
+    northeast:
+      lat: 22.561968
+      lng: 114.4069573
+    southwest:
+      lat: 22.1533883
+      lng: 113.835078
+currency_code: HKD
+postal_address_data:
+  lang: zh-hant
+  upper: S
+  sub_lnames: Kowloon~Hong Kong Island~New Territories
+  name: HONG KONG
+  sub_mores: true~true~true
+  require: AS
+  state_name_type: area
+  id: data/HK
+  languages: zh-hant~en
+  lfmt: "%N%n%O%n%A%n%C%n%S"
+  sub_keys: 九龍~香港島~新界
+  key: HK
+  locality_name_type: district
+  fmt: "%S%n%C%n%A%n%O%n%N"
+translations:
+  af:
+    official: Hong Kong
+    common: Hong Kong
+  sq:
+    official: Hong Kong
+    common: Hong Kong
+  am:
+    official: ሆንጔ ጥንጔ
+    common: ሆንጔ ጥንጔ
+  ar:
+    official: هونغ كونغ
+    common: هونغ كونغ
+  hy:
+    official: Հոնգ Կոնգ
+    common: Հոնգ Կոնգ
+  as:
+    official: হংকং
+    common: হংকং
+  az:
+    official: Honq Konq
+    common: Honq Konq
+  eu:
+    official: Hong Kong
+    common: Hong Kong
+  be:
+    official: Ганконг
+    common: Ганконг
+  bn:
+    official: হং কং
+    common: হং কং
+  bs:
+    official: Hong Kong
+    common: Hong Kong
+  br:
+    official: Hong Kong
+    common: Hong Kong
+  bg:
+    official: Хонг Конг
+    common: Хонг Конг
+  ca:
+    official: Hong Kong
+    common: Hong Kong
+  zh:
+    official: 香港
+    common: 香港
+  cs:
+    official: Hongkong
+    common: Hongkong
+  da:
+    official: Hong Kong
+    common: Hong Kong
+  nl:
+    official: Hongkong
+    common: Hongkong
+  dz:
+    official: ཧོང་ཀོང་
+    common: ཧོང་ཀོང་
+  en:
+    official: Hong Kong
+    common: Hong Kong
+  eo:
+    official: Honkongo
+    common: Honkongo
+  et:
+    official: Hongkong
+    common: Hongkong
+  fo:
+    official: Hong Kong
+    common: Hong Kong
+  fi:
+    official: Hong Kong
+    common: Hong Kong
+  fr:
+    official: Hong-Kong
+    common: Hong-Kong
+  ka:
+    official: ჰონკონგი
+    common: ჰონკონგი
+  de:
+    official: Hongkong
+    common: Hongkong
+  ga:
+    official: Hong Cong
+    common: Hong Cong
+  gl:
+    official: Hong Kong
+    common: Hong Kong
+  el:
+    official: Χονγκ Κονγκ
+    common: Χονγκ Κονγκ
+  gu:
+    official: હોંગ કોંગ
+    common: હોંગ કોંગ
+  he:
+    official: הונג קונג
+    common: הונג קונג
+  hi:
+    official: हाँग काँग
+    common: हाँग काँग
+  hr:
+    official: Hong Kong
+    common: Hong Kong
+  hu:
+    official: Hongkong
+    common: Hongkong
+  is:
+    official: Hong Kong
+    common: Hong Kong
+  ia:
+    official: Hong Kong
+    common: Hong Kong
+  id:
+    official: Hong Kong
+    common: Hong Kong
+  it:
+    official: Hong Kong
+    common: Hong Kong
+  ja:
+    official: 香港
+    common: 香港
+  kn:
+    official: ಹಾಂಗ್ ಕಾಂಗ್
+    common: ಹಾಂಗ್ ಕಾಂಗ್
+  kk:
+    official: Сянган (Гонконг)
+    common: Сянган (Гонконг)
+  km:
+    official: ហុងកុង
+    common: ហុងកុង
+  rw:
+    official: Hongo Kongo
+    common: Hongo Kongo
+  ko:
+    official: 홍콩
+    common: 홍콩
+  ku:
+    official: Hong Kong
+    common: Hong Kong
+  lv:
+    official: Honkonga
+    common: Honkonga
+  lt:
+    official: Honkongas
+    common: Honkongas
+  mk:
+    official: Хонк Конг
+    common: Хонк Конг
+  ml:
+    official: ഹോങ് കോങ്
+    common: ഹോങ് കോങ്
+  mi:
+    official: Hongipua
+    common: Hongipua
+  mr:
+    official: हॉंगकॉंग
+    common: हॉंगकॉंग
+  ms:
+    official: Hong Kong
+    common: Hong Kong
+  mt:
+    official: Hong Kong
+    common: Hong Kong
+  mn:
+    official: Хонконг
+    common: Хонконг
+  ne:
+    official: हङकङ
+    common: हङकङ
+  nn:
+    official: Hongkong
+    common: Hongkong
+  nb:
+    official: Hongkong
+    common: Hongkong
+  oc:
+    official: Hong Kong
+    common: Hong Kong
+  or:
+    official: ହଙ୍ଗ କଙ୍ଗ
+    common: ହଙ୍ଗ କଙ୍ଗ
+  pa:
+    official: ਹਾਂਗ ਕਾਂਗ
+    common: ਹਾਂਗ ਕਾਂਗ
+  fa:
+    official: هنگ کنگ
+    common: هنگ کنگ
+  pl:
+    official: Hongkong
+    common: Hongkong
+  pt:
+    official: Hong Kong
+    common: Hong Kong
+  ps:
+    official: Hong Kong
+    common: Hong Kong
+  ro:
+    official: Hong Kong
+    common: Hong Kong
+  ru:
+    official: Гонконг
+    common: Гонконг
+  si:
+    official: හොංග් කොංග්
+    common: හොංග් කොංග්
+  sk:
+    official: Hongkong
+    common: Hongkong
+  sl:
+    official: Hong Kong
+    common: Hong Kong
+  so:
+    official: Hong Kong
+    common: Hong Kong
+  es:
+    official: Hong Kong
+    common: Hong Kong
+  sr:
+    official: Хонг Конг
+    common: Хонг Конг
+  sw:
+    official: Hong Kong
+    common: Hong Kong
+  sv:
+    official: Hong Kong
+    common: Hong Kong
+  ta:
+    official: ஹாங்காங்
+    common: ஹாங்காங்
+  tt:
+    official: Һонg Конg
+    common: Һонg Конg
+  te:
+    official: హౖంగ్‌కాంగ్
+    common: హౖంగ్‌కాంగ్
+  tl:
+    official: Hong Kong
+    common: Hong Kong
+  th:
+    official: ฮ่องกง
+    common: ฮ่องกง
+  ti:
+    official: Hong Kong
+    common: Hong Kong
+  tk:
+    official: Hong Kong
+    common: Hong Kong
+  tr:
+    official: Hong Kong
+    common: Hong Kong
+  ug:
+    official: شياڭگاڭ
+    common: شياڭگاڭ
+  uk:
+    official: Гонконг
+    common: Гонконг
+  ve:
+    official: Hong Kong
+    common: Hong Kong
+  vi:
+    official: Hông Kông
+    common: Hông Kông
+  cy:
+    official: Hong Kong
+    common: Hong Kong
+  wa:
+    official: Hong Kong
+    common: Hong Kong
+  wo:
+    official: Ooŋ Koŋ
+    common: Ooŋ Koŋ
+  xh:
+    official: Hong Kong
+    common: Hong Kong
+  zu:
+    official: Hong Kong
+    common: Hong Kong

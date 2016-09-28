@@ -1,0 +1,340 @@
+---
+continent: Australia
+alpha2: MH
+alpha3: MHL
+country_code: '692'
+international_prefix: '00'
+ioc: MHL
+gec: RM
+name: Marshall Islands
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: '1'
+number: '584'
+region: Oceania
+subregion: Micronesia
+world_region: APAC
+un_locode: MH
+nationality: Marshallese
+postal_code: true
+unofficial_names:
+- Marshall Islands
+- Marshallinseln
+- Îles Marshall
+- Islas Marshall
+- マーシャル諸島
+- Marshalleilanden
+languages_official:
+- en
+- mh
+languages_spoken:
+- en
+- mh
+geo:
+  latitude: 6.0683017
+  latitude_dec: '7.286207675933838'
+  longitude: 171.9425582
+  longitude_dec: '168.75140380859375'
+  max_latitude: 14.673255
+  max_longitude: 172.1701812
+  min_latitude: 4.5729557
+  min_longitude: 160.7979584
+  bounds:
+    northeast:
+      lat: 14.673255
+      lng: 172.1701812
+    southwest:
+      lat: 4.5729557
+      lng: 160.7979584
+currency_code: USD
+postal_address_data:
+  key: MH
+  upper: ACNOS
+  zipex: '96960,96970'
+  name: MARSHALL ISLANDS
+  zip: "(969[67]\\d)(?:[ \\-](\\d{4}))?"
+  zip_name_type: zip
+  require: ACSZ
+  state_name_type: state
+  id: data/MH
+  posturl: http://zip4.usps.com/zip4/welcome.jsp
+  fmt: "%N%n%O%n%A%n%C %S %Z"
+translations:
+  af:
+    official: Marshall-eilande
+    common: Marshall-eilande
+  sq:
+    official: Ishujt Marshall
+    common: Ishujt Marshall
+  am:
+    official: Marshall Islands
+    common: Marshall Islands
+  ar:
+    official: جزر المارشال
+    common: جزر المارشال
+  hy:
+    official: Մարշալյան կղզիներ
+    common: Մարշալյան կղզիներ
+  as:
+    official: মাৰ্শ্বেল দ্বীপপুঞ্জ
+    common: মাৰ্শ্বেল দ্বীপপুঞ্জ
+  az:
+    official: Marşal Adaları
+    common: Marşal Adaları
+  eu:
+    official: Marshall uharteak
+    common: Marshall uharteak
+  be:
+    official: Маршалавы Астравы
+    common: Маршалавы Астравы
+  bn:
+    official: মার্শাল দ্বীপপুঞ্জ
+    common: মার্শাল দ্বীপপুঞ্জ
+  bs:
+    official: Maršalska Ostrva
+    common: Maršalska Ostrva
+  br:
+    official: Marshall Islands
+    common: Marshall Islands
+  bg:
+    official: Маршалски острови
+    common: Маршалски острови
+  ca:
+    official: Illes Marshall
+    common: Illes Marshall
+  zh:
+    official: 马绍尔群岛
+    common: 马绍尔群岛
+  cs:
+    official: Marshallovy ostrovy
+    common: Marshallovy ostrovy
+  da:
+    official: Marshalløerne
+    common: Marshalløerne
+  nl:
+    official: Marshalleilanden
+    common: Marshalleilanden
+  dz:
+    official: མར་ཤཱལ་ ཨའི་ལེནཌིསི།
+    common: མར་ཤཱལ་ ཨའི་ལེནཌིསི།
+  en:
+    official: Marshall Islands
+    common: Marshall Islands
+  eo:
+    official: Marŝaloj
+    common: Marŝaloj
+  et:
+    official: Marshalli Saared
+    common: Marshalli Saared
+  fo:
+    official: Marshalloyggjarnar
+    common: Marshalloyggjarnar
+  fi:
+    official: Marshallinsaaret
+    common: Marshallinsaaret
+  fr:
+    official: Îles Marshall
+    common: Îles Marshall
+  ka:
+    official: მარშალის კუნძულები
+    common: მარშალის კუნძულები
+  de:
+    official: Marshallinseln
+    common: Marshallinseln
+  ga:
+    official: Oileáin Marshall
+    common: Oileáin Marshall
+  gl:
+    official: Illas Marshall
+    common: Illas Marshall
+  el:
+    official: Νήσοι Μάρσαλ
+    common: Νήσοι Μάρσαλ
+  gu:
+    official: માર્શલ ટાપુઓ
+    common: માર્શલ ટાપુઓ
+  he:
+    official: איי מרשל
+    common: איי מרשל
+  hi:
+    official: मार्शल आइलैंड्स
+    common: मार्शल आइलैंड्स
+  hr:
+    official: Maršalovi Otoci
+    common: Maršalovi Otoci
+  hu:
+    official: Marshall-szigetek
+    common: Marshall-szigetek
+  is:
+    official: Marshalleyjar
+    common: Marshalleyjar
+  ia:
+    official: Insulas Marshall
+    common: Insulas Marshall
+  id:
+    official: Kepulauan Marshall
+    common: Kepulauan Marshall
+  it:
+    official: Isole Marshall
+    common: Isole Marshall
+  ja:
+    official: マーシャル諸島
+    common: マーシャル諸島
+  kn:
+    official: ಮಾರ್ಷಲ್ ದ್ವೀಪಗಳು
+    common: ಮಾರ್ಷಲ್ ದ್ವೀಪಗಳು
+  kk:
+    official: Маршалл аралдары
+    common: Маршалл аралдары
+  km:
+    official: កោះ​ម៉ាស្យល
+    common: កោះ​ម៉ាស្យល
+  rw:
+    official: Ibirwa bya Marishali
+    common: Ibirwa bya Marishali
+  ko:
+    official: 마샬 제도
+    common: 마샬 제도
+  ku:
+    official: Giravên Marsal
+    common: Giravên Marsal
+  lv:
+    official: Māršala salas
+    common: Māršala salas
+  lt:
+    official: Maršalo salos
+    common: Maršalo salos
+  mk:
+    official: Маршалови острови
+    common: Маршалови острови
+  ml:
+    official: മാര്‍ഷല്‍ ദ്വീപുകള്‍
+    common: മാര്‍ഷല്‍ ദ്വീപുകള്‍
+  mi:
+    official: Marshall Islands
+    common: Marshall Islands
+  mr:
+    official: मार्शल आयलॅंडस्
+    common: मार्शल आयलॅंडस्
+  ms:
+    official: Kepulauan Marshall
+    common: Kepulauan Marshall
+  mt:
+    official: Gżejjer ta' Marshall
+    common: Gżejjer ta' Marshall
+  mn:
+    official: Маршаллын арлууд
+    common: Маршаллын арлууд
+  ne:
+    official: मार्शल टापु
+    common: मार्शल टापु
+  nn:
+    official: Marshalløyane
+    common: Marshalløyane
+  nb:
+    official: Marshalløyene
+    common: Marshalløyene
+  oc:
+    official: Illas Marshall
+    common: Illas Marshall
+  or:
+    official: ମାର୍ଶଲ ଦ୍ବୀପ
+    common: ମାର୍ଶଲ ଦ୍ବୀପ
+  pa:
+    official: ਮਾਰਸ਼ਲ ਟਾਪੂ
+    common: ਮਾਰਸ਼ਲ ਟਾਪੂ
+  fa:
+    official: جزایر مارشال
+    common: جزایر مارشال
+  pl:
+    official: Wyspy Marshalla
+    common: Wyspy Marshalla
+  pt:
+    official: Ilhas Marshall
+    common: Ilhas Marshall
+  ps:
+    official: Marshall Islands
+    common: Marshall Islands
+  ro:
+    official: Insulele Marshall
+    common: Insulele Marshall
+  ru:
+    official: Маршалловы острова
+    common: Маршалловы острова
+  si:
+    official: මාශල් දූපත්
+    common: මාශල් දූපත්
+  sk:
+    official: Marshallove ostrovy
+    common: Marshallove ostrovy
+  sl:
+    official: Marshallovi otoki
+    common: Marshallovi otoki
+  so:
+    official: Marshall Islands
+    common: Marshall Islands
+  es:
+    official: Islas Marshall
+    common: Islas Marshall
+  sr:
+    official: Маршалска острва
+    common: Маршалска острва
+  sw:
+    official: Marshall Islands
+    common: Marshall Islands
+  sv:
+    official: Marshallöarna
+    common: Marshallöarna
+  ta:
+    official: மார்சல் தீவுகள்
+    common: மார்சல் தீவுகள்
+  tt:
+    official: Маршал Утравлары
+    common: Маршал Утравлары
+  te:
+    official: మార్షల్ ఐలాండ్స్
+    common: మార్షల్ ఐలాండ్స్
+  tl:
+    official: Marshall Islands
+    common: Marshall Islands
+  th:
+    official: หมู่เกาะมาร์แชลล์
+    common: หมู่เกาะมาร์แชลล์
+  ti:
+    official: Marshall Islands
+    common: Marshall Islands
+  tk:
+    official: Marşalowlar adasy
+    common: Marşalowlar adasy
+  tr:
+    official: Marşal Adaları
+    common: Marşal Adaları
+  ug:
+    official: مارشال تاقىم ئارىلى
+    common: مارشال تاقىم ئارىلى
+  uk:
+    official: Маршаллові острови
+    common: Маршаллові острови
+  ve:
+    official: Marshall Islands
+    common: Marshall Islands
+  vi:
+    official: Quần Đảo Ma-san
+    common: Quần Đảo Ma-san
+  cy:
+    official: Ynysoedd Marshall
+    common: Ynysoedd Marshall
+  wa:
+    official: Iyes Marshall
+    common: Iyes Marshall
+  wo:
+    official: Marshall Islands
+    common: Marshall Islands
+  xh:
+    official: Marshall Islands
+    common: Marshall Islands
+  zu:
+    official: Marshall Islands
+    common: Marshall Islands

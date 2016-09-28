@@ -1,0 +1,440 @@
+{
+  "continent": "Europe",
+  "alpha2": "ME",
+  "alpha3": "MNE",
+  "country_code": "382",
+  "international_prefix": "99",
+  "ioc": "MNE",
+  "gec": "MJ",
+  "name": "Montenegro",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "0",
+  "number": "499",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "world_region": "EMEA",
+  "un_locode": "ME",
+  "nationality": "Montenegrin",
+  "postal_code": true,
+  "unofficial_names": [
+    "Crna Gora",
+    "Montenegro",
+    "モンテネグロ"
+  ],
+  "languages_official": [
+    "sr",
+    "bs",
+    "sq",
+    "hr"
+  ],
+  "languages_spoken": [
+    "sr",
+    "bs",
+    "sq",
+    "hr"
+  ],
+  "geo": {
+    "latitude": 42.708678,
+    "latitude_dec": "42.752803802490234",
+    "longitude": 19.37439,
+    "longitude_dec": "19.237918853759766",
+    "max_latitude": 43.558743,
+    "max_longitude": 20.3574869,
+    "min_latitude": 41.8501017,
+    "min_longitude": 18.433792,
+    "bounds": {
+      "northeast": {
+        "lat": 43.558743,
+        "lng": 20.3574869
+      },
+      "southwest": {
+        "lat": 41.8501017,
+        "lng": 18.433792
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "zipex": "81257,81258,81258,81217,84314,85366",
+    "name": "MONTENEGRO",
+    "zip": "8\\d{4}",
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "key": "ME",
+    "id": "data/ME"
+  },
+  "translations": {
+    "af": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "sq": {
+      "official": "Mali i Zi",
+      "common": "Mali i Zi"
+    },
+    "am": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "ar": {
+      "official": "المنتنيغرو",
+      "common": "المنتنيغرو"
+    },
+    "hy": {
+      "official": "Մոնտենեգրո",
+      "common": "Մոնտենեգրո"
+    },
+    "as": {
+      "official": "মন্টেনেগ্ৰো",
+      "common": "মন্টেনেগ্ৰো"
+    },
+    "az": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "eu": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "be": {
+      "official": "Чарнагорыя",
+      "common": "Чарнагорыя"
+    },
+    "bn": {
+      "official": "মন্টেনেগ্রো",
+      "common": "মন্টেনেগ্রো"
+    },
+    "bs": {
+      "official": "Crna Gora",
+      "common": "Crna Gora"
+    },
+    "br": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "bg": {
+      "official": "Черна гора",
+      "common": "Черна гора"
+    },
+    "ca": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "zh": {
+      "official": "黑山",
+      "common": "黑山"
+    },
+    "cs": {
+      "official": "Černá Hora",
+      "common": "Černá Hora"
+    },
+    "da": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "nl": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "dz": {
+      "official": "མཱོན་ཊི་ནིག་རོ།",
+      "common": "མཱོན་ཊི་ནིག་རོ།"
+    },
+    "en": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "eo": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "et": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "fo": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "fi": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "fr": {
+      "official": "Monténégro",
+      "common": "Monténégro"
+    },
+    "ka": {
+      "official": "მონტენეგრო",
+      "common": "მონტენეგრო"
+    },
+    "de": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "ga": {
+      "official": "Montainéagró",
+      "common": "Montainéagró"
+    },
+    "gl": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "el": {
+      "official": "Μαυροβούνιο",
+      "common": "Μαυροβούνιο"
+    },
+    "gu": {
+      "official": "મોન્ટેનેગરો",
+      "common": "મોન્ટેનેગરો"
+    },
+    "he": {
+      "official": "מונטנגרו",
+      "common": "מונטנגרו"
+    },
+    "hi": {
+      "official": "मॉन्टेनेग्रो",
+      "common": "मॉन्टेनेग्रो"
+    },
+    "hr": {
+      "official": "Crna Gora",
+      "common": "Crna Gora"
+    },
+    "hu": {
+      "official": "Montenegró",
+      "common": "Montenegró"
+    },
+    "is": {
+      "official": "Svartfjallaland",
+      "common": "Svartfjallaland"
+    },
+    "ia": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "id": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "it": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "ja": {
+      "official": "モンテネグロ",
+      "common": "モンテネグロ"
+    },
+    "kn": {
+      "official": "ಮಾಂಟೆನೆಗ್ರೋ",
+      "common": "ಮಾಂಟೆನೆಗ್ರೋ"
+    },
+    "kk": {
+      "official": "Черногория",
+      "common": "Черногория"
+    },
+    "km": {
+      "official": "​ម៉ុងតេណេក្រូ",
+      "common": "​ម៉ុងតេណេក្រូ"
+    },
+    "rw": {
+      "official": "Seribiya  na Montenegoro",
+      "common": "Seribiya  na Montenegoro"
+    },
+    "ko": {
+      "official": "몬테네그로",
+      "common": "몬테네그로"
+    },
+    "ku": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "lv": {
+      "official": "Melnkalne",
+      "common": "Melnkalne"
+    },
+    "lt": {
+      "official": "Juodkalnija",
+      "common": "Juodkalnija"
+    },
+    "mk": {
+      "official": "Црна Гора",
+      "common": "Црна Гора"
+    },
+    "ml": {
+      "official": "മോണ്ടിനെഗ്രോ",
+      "common": "മോണ്ടിനെഗ്രോ"
+    },
+    "mi": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "mr": {
+      "official": "मॉंटेनेग्रो",
+      "common": "मॉंटेनेग्रो"
+    },
+    "ms": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "mt": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "mn": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "ne": {
+      "official": "मोन्टेनेग्रो",
+      "common": "मोन्टेनेग्रो"
+    },
+    "nn": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "nb": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "oc": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "or": {
+      "official": "ମୋଣ୍ଟେନୀଗ୍ରୋ",
+      "common": "ମୋଣ୍ଟେନୀଗ୍ରୋ"
+    },
+    "pa": {
+      "official": "ਮੋਨਟੇਨੇਗਰੋ",
+      "common": "ਮੋਨਟੇਨੇਗਰੋ"
+    },
+    "fa": {
+      "official": "مونته نگرو",
+      "common": "مونته نگرو"
+    },
+    "pl": {
+      "official": "Czarnogóra",
+      "common": "Czarnogóra"
+    },
+    "pt": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "ps": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "ro": {
+      "official": "Muntenegru",
+      "common": "Muntenegru"
+    },
+    "ru": {
+      "official": "Черногория",
+      "common": "Черногория"
+    },
+    "si": {
+      "official": "මොන්ටෙන්ග්‍රෝ",
+      "common": "මොන්ටෙන්ග්‍රෝ"
+    },
+    "sk": {
+      "official": "Čierna Hora",
+      "common": "Čierna Hora"
+    },
+    "sl": {
+      "official": "Črna gora",
+      "common": "Črna gora"
+    },
+    "so": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "es": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "sr": {
+      "official": "Црна Гора",
+      "common": "Црна Гора"
+    },
+    "sw": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "sv": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "ta": {
+      "official": "மோன்டே நெக்ரோ",
+      "common": "மோன்டே நெக்ரோ"
+    },
+    "tt": {
+      "official": "Сербиа белән Монтенеgро",
+      "common": "Сербиа белән Монтенеgро"
+    },
+    "te": {
+      "official": "మాంటేనేగ్రో",
+      "common": "మాంటేనేగ్రో"
+    },
+    "tl": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "th": {
+      "official": "มอนเตเนโกร",
+      "common": "มอนเตเนโกร"
+    },
+    "ti": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "tk": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "tr": {
+      "official": "Karadağ",
+      "common": "Karadağ"
+    },
+    "ug": {
+      "official": "مونتېنېگرو",
+      "common": "مونتېنېگرو"
+    },
+    "uk": {
+      "official": "Чорногорія",
+      "common": "Чорногорія"
+    },
+    "ve": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "vi": {
+      "official": "Mon-te-nê-gợ-rô",
+      "common": "Mon-te-nê-gợ-rô"
+    },
+    "cy": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "wa": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "wo": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "xh": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "zu": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    }
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "continent": "Europe",
+  "address_format": "{{recipient}}\n{{city}}\n{{street}}\n{{postalcode}}\n{{country}}",
+  "alpha2": "HU",
+  "alpha3": "HUN",
+  "country_code": "36",
+  "international_prefix": "00",
+  "ioc": "HUN",
+  "gec": "HU",
+  "name": "Hungary",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8,
+    9
+  ],
+  "national_prefix": "06",
+  "number": "348",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "world_region": "EMEA",
+  "un_locode": "HU",
+  "nationality": "Hungarian",
+  "eu_member": true,
+  "eea_member": true,
+  "vat_rates": {
+    "standard": 27,
+    "reduced": [
+      5,
+      18
+    ],
+    "super_reduced": null,
+    "parking": null
+  },
+  "postal_code": true,
+  "unofficial_names": [
+    "Hungary",
+    "Ungarn",
+    "Hongrie",
+    "Hungría",
+    "ハンガリー",
+    "Hongarije"
+  ],
+  "languages_official": [
+    "hu"
+  ],
+  "languages_spoken": [
+    "hu"
+  ],
+  "geo": {
+    "latitude": 47.162494,
+    "latitude_dec": "47.165733337402344",
+    "longitude": 19.503304,
+    "longitude_dec": "19.416574478149414",
+    "max_latitude": 48.585234,
+    "max_longitude": 22.8981216,
+    "min_latitude": 45.7370889,
+    "min_longitude": 16.1133866,
+    "bounds": {
+      "northeast": {
+        "lat": 48.585234,
+        "lng": 22.8981216
+      },
+      "southwest": {
+        "lat": 45.7370889,
+        "lng": 16.1133866
+      }
+    }
+  },
+  "currency_code": "HUF",
+  "postal_address_data": {
+    "key": "HU",
+    "upper": "ACNO",
+    "zipex": "1037,2380,1540",
+    "name": "HUNGARY (Rep.)",
+    "zip": "\\d{4}",
+    "require": "ACZ",
+    "id": "data/HU",
+    "posturl": "http://posta.hu/ugyfelszolgalat/iranyitoszam_kereso",
+    "fmt": "%N%n%O%n%C%n%A%n%Z"
+  },
+  "translations": {
+    "af": {
+      "official": "Hongarye",
+      "common": "Hongarye"
+    },
+    "sq": {
+      "official": "Hungaria",
+      "common": "Hungaria"
+    },
+    "am": {
+      "official": "ሀንጒሱ",
+      "common": "ሀንጒሱ"
+    },
+    "ar": {
+      "official": "المجر (هنغاريا)",
+      "common": "المجر (هنغاريا)"
+    },
+    "hy": {
+      "official": "Հունգարիա",
+      "common": "Հունգարիա"
+    },
+    "as": {
+      "official": "হাংগেৰী",
+      "common": "হাংগেৰী"
+    },
+    "az": {
+      "official": "Macarıstan",
+      "common": "Macarıstan"
+    },
+    "eu": {
+      "official": "Hungaria",
+      "common": "Hungaria"
+    },
+    "be": {
+      "official": "Венгрыя",
+      "common": "Венгрыя"
+    },
+    "bn": {
+      "official": "হাঙ্গেরি",
+      "common": "হাঙ্গেরি"
+    },
+    "bs": {
+      "official": "Mađarska",
+      "common": "Mađarska"
+    },
+    "br": {
+      "official": "Hungaria",
+      "common": "Hungaria"
+    },
+    "bg": {
+      "official": "Унгария",
+      "common": "Унгария"
+    },
+    "ca": {
+      "official": "Hongria",
+      "common": "Hongria"
+    },
+    "zh": {
+      "official": "匈牙利",
+      "common": "匈牙利"
+    },
+    "cs": {
+      "official": "Maďarsko",
+      "common": "Maďarsko"
+    },
+    "da": {
+      "official": "Ungarn",
+      "common": "Ungarn"
+    },
+    "nl": {
+      "official": "Hongarije",
+      "common": "Hongarije"
+    },
+    "dz": {
+      "official": "ཧང་ག་རི།",
+      "common": "ཧང་ག་རི།"
+    },
+    "en": {
+      "official": "Hungary",
+      "common": "Hungary"
+    },
+    "eo": {
+      "official": "Hungario",
+      "common": "Hungario"
+    },
+    "et": {
+      "official": "Ungari",
+      "common": "Ungari"
+    },
+    "fo": {
+      "official": "Ungarn",
+      "common": "Ungarn"
+    },
+    "fi": {
+      "official": "Unkari",
+      "common": "Unkari"
+    },
+    "fr": {
+      "official": "Hongrie",
+      "common": "Hongrie"
+    },
+    "ka": {
+      "official": "უნგრეთი",
+      "common": "უნგრეთი"
+    },
+    "de": {
+      "official": "Ungarn",
+      "common": "Ungarn"
+    },
+    "ga": {
+      "official": "An Ungáir",
+      "common": "An Ungáir"
+    },
+    "gl": {
+      "official": "Hungría",
+      "common": "Hungría"
+    },
+    "el": {
+      "official": "Ουγγαρία",
+      "common": "Ουγγαρία"
+    },
+    "gu": {
+      "official": "હંગેરી",
+      "common": "હંગેરી"
+    },
+    "he": {
+      "official": "הונגריה",
+      "common": "הונגריה"
+    },
+    "hi": {
+      "official": "हंगरी",
+      "common": "हंगरी"
+    },
+    "hr": {
+      "official": "Mađarska",
+      "common": "Mađarska"
+    },
+    "hu": {
+      "official": "Magyarország",
+      "common": "Magyarország"
+    },
+    "is": {
+      "official": "Ungverjaland",
+      "common": "Ungverjaland"
+    },
+    "ia": {
+      "official": "Hungaria",
+      "common": "Hungaria"
+    },
+    "id": {
+      "official": "Hungaria",
+      "common": "Hungaria"
+    },
+    "it": {
+      "official": "Ungheria",
+      "common": "Ungheria"
+    },
+    "ja": {
+      "official": "ハンガリー",
+      "common": "ハンガリー"
+    },
+    "kn": {
+      "official": "ಹಂಗರಿ",
+      "common": "ಹಂಗರಿ"
+    },
+    "kk": {
+      "official": "Венгрия",
+      "common": "Венгрия"
+    },
+    "km": {
+      "official": "ហុងគ្រី",
+      "common": "ហុងគ្រី"
+    },
+    "rw": {
+      "official": "Hongiriya",
+      "common": "Hongiriya"
+    },
+    "ko": {
+      "official": "헝가리",
+      "common": "헝가리"
+    },
+    "ku": {
+      "official": "Macaristan",
+      "common": "Macaristan"
+    },
+    "lv": {
+      "official": "Ungārija",
+      "common": "Ungārija"
+    },
+    "lt": {
+      "official": "Vengrija",
+      "common": "Vengrija"
+    },
+    "mk": {
+      "official": "Унгарија",
+      "common": "Унгарија"
+    },
+    "ml": {
+      "official": "ഹംഗറി",
+      "common": "ഹംഗറി"
+    },
+    "mi": {
+      "official": "Hanekari",
+      "common": "Hanekari"
+    },
+    "mr": {
+      "official": "हंगेरी",
+      "common": "हंगेरी"
+    },
+    "ms": {
+      "official": "Hungari",
+      "common": "Hungari"
+    },
+    "mt": {
+      "official": "Ungerija",
+      "common": "Ungerija"
+    },
+    "mn": {
+      "official": "Унгар",
+      "common": "Унгар"
+    },
+    "ne": {
+      "official": "हङ्गेरी",
+      "common": "हङ्गेरी"
+    },
+    "nn": {
+      "official": "Ungarn",
+      "common": "Ungarn"
+    },
+    "nb": {
+      "official": "Ungarn",
+      "common": "Ungarn"
+    },
+    "oc": {
+      "official": "Ongria",
+      "common": "Ongria"
+    },
+    "or": {
+      "official": "ହଙ୍ଗାରୀ",
+      "common": "ହଙ୍ଗାରୀ"
+    },
+    "pa": {
+      "official": "ਹੰਗਰੀ",
+      "common": "ਹੰਗਰੀ"
+    },
+    "fa": {
+      "official": "مجارستان",
+      "common": "مجارستان"
+    },
+    "pl": {
+      "official": "Węgry",
+      "common": "Węgry"
+    },
+    "pt": {
+      "official": "Hungria",
+      "common": "Hungria"
+    },
+    "ps": {
+      "official": "مجارستان",
+      "common": "مجارستان"
+    },
+    "ro": {
+      "official": "Ungaria",
+      "common": "Ungaria"
+    },
+    "ru": {
+      "official": "Венгрия",
+      "common": "Венгрия"
+    },
+    "si": {
+      "official": "හංගේරියාව",
+      "common": "හංගේරියාව"
+    },
+    "sk": {
+      "official": "Maďarsko",
+      "common": "Maďarsko"
+    },
+    "sl": {
+      "official": "Madžarska",
+      "common": "Madžarska"
+    },
+    "so": {
+      "official": "Hangeri",
+      "common": "Hangeri"
+    },
+    "es": {
+      "official": "Hungría",
+      "common": "Hungría"
+    },
+    "sr": {
+      "official": "Мађарска",
+      "common": "Мађарска"
+    },
+    "sw": {
+      "official": "Hungary",
+      "common": "Hungary"
+    },
+    "sv": {
+      "official": "Ungern",
+      "common": "Ungern"
+    },
+    "ta": {
+      "official": "ஹங்கேரி",
+      "common": "ஹங்கேரி"
+    },
+    "tt": {
+      "official": "Маҗарстан",
+      "common": "Маҗарстан"
+    },
+    "te": {
+      "official": "హంగేరీ",
+      "common": "హంగేరీ"
+    },
+    "tl": {
+      "official": "Hungary",
+      "common": "Hungary"
+    },
+    "th": {
+      "official": "ฮังการี",
+      "common": "ฮังการี"
+    },
+    "ti": {
+      "official": "ሀንጋሪ",
+      "common": "ሀንጋሪ"
+    },
+    "tk": {
+      "official": "Hungary",
+      "common": "Hungary"
+    },
+    "tr": {
+      "official": "Macaristan",
+      "common": "Macaristan"
+    },
+    "ug": {
+      "official": "ۋېنگىرىيە",
+      "common": "ۋېنگىرىيە"
+    },
+    "uk": {
+      "official": "Угорщина",
+      "common": "Угорщина"
+    },
+    "ve": {
+      "official": "Hungary",
+      "common": "Hungary"
+    },
+    "vi": {
+      "official": "Hun-ga-ri",
+      "common": "Hun-ga-ri"
+    },
+    "cy": {
+      "official": "Hwngari",
+      "common": "Hwngari"
+    },
+    "wa": {
+      "official": "Hongreye",
+      "common": "Hongreye"
+    },
+    "wo": {
+      "official": "Oonguri",
+      "common": "Oonguri"
+    },
+    "xh": {
+      "official": "Hungary",
+      "common": "Hungary"
+    },
+    "zu": {
+      "official": "I-Hungariya",
+      "common": "I-Hungariya"
+    }
+  }
+}

@@ -1,0 +1,332 @@
+---
+continent: Africa
+alpha2: CF
+alpha3: CAF
+country_code: '236'
+international_prefix: '00'
+ioc: CAF
+gec: CT
+name: Central African Republic
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: None
+number: '140'
+region: Africa
+subregion: Middle Africa
+world_region: EMEA
+un_locode: CF
+nationality: Central African
+postal_code: false
+unofficial_names:
+- Central African Republic
+- Zentralafrikanische Republik
+- République Centrafricaine
+- República Centroafricana
+- 中央アフリカ共和国
+- Centraal-Afrikaanse Republiek
+languages_official:
+- fr
+- sg
+languages_spoken:
+- fr
+- sg
+geo:
+  latitude: 6.611110999999999
+  latitude_dec: '6.574123382568359'
+  longitude: 20.939444
+  longitude_dec: '20.486923217773438'
+  max_latitude: 11.0179569
+  max_longitude: 27.4583049
+  min_latitude: 2.2208492
+  min_longitude: 14.415098
+  bounds:
+    northeast:
+      lat: 11.0179569
+      lng: 27.4583049
+    southwest:
+      lat: 2.2208492
+      lng: 14.415098
+currency_code: XAF
+postal_address_data:
+  id: data/CF
+  key: CF
+  name: CENTRAL AFRICAN REPUBLIC
+translations:
+  af:
+    official: Sentraal-Afrikaanse Republiek
+    common: Sentraal-Afrikaanse Republiek
+  sq:
+    official: Republika e Afrikës Qendrore
+    common: Republika e Afrikës Qendrore
+  am:
+    official: ፘመጢጘለኢፄ ጐፔሱጢ ሱፐብሑጤ
+    common: ፘመጢጘለኢፄ ጐፔሱጢ ሱፐብሑጤ
+  ar:
+    official: جمهورية إفريقيّا الوسطى
+    common: جمهورية إفريقيّا الوسطى
+  hy:
+    official: Կենտրոնական Աֆրիկյան Հանրապետություն
+    common: Կենտրոնական Աֆրիկյան Հանրապետություն
+  as:
+    official: মধ্য আফ্ৰিকান প্ৰজাতন্ত্ৰ
+    common: মধ্য আফ্ৰিকান প্ৰজাতন্ত্ৰ
+  az:
+    official: Mərkəzi Afrika Respublikası
+    common: Mərkəzi Afrika Respublikası
+  eu:
+    official: Afrika Erdiko Errepublika
+    common: Afrika Erdiko Errepublika
+  be:
+    official: Цэнтральна-Афрыканская Рэспубліка
+    common: Цэнтральна-Афрыканская Рэспубліка
+  bn:
+    official: মধ্য আফ্রিকান প্রজাতন্ত্র
+    common: মধ্য আফ্রিকান প্রজাতন্ত্র
+  bs:
+    official: Centralnoafrička Republika
+    common: Centralnoafrička Republika
+  br:
+    official: Central African Republic
+    common: Central African Republic
+  bg:
+    official: Централноафриканска Република
+    common: Централноафриканска Република
+  ca:
+    official: República Centreafricana
+    common: República Centreafricana
+  zh:
+    official: 中非
+    common: 中非
+  cs:
+    official: Středoafrická republika
+    common: Středoafrická republika
+  da:
+    official: Centralafrikanske Republik
+    common: Centralafrikanske Republik
+  nl:
+    official: Centraal-Afrikaanse Republiek
+    common: Centraal-Afrikaanse Republiek
+  dz:
+    official: དབུས་ ཨཕ་རི་ཀཱན་ རི་པཔ་ལིཀ།
+    common: དབུས་ ཨཕ་རི་ཀཱན་ རི་པཔ་ལིཀ།
+  en:
+    official: Central African Republic
+    common: Central African Republic
+  eo:
+    official: Centr-Afrika Respubliko
+    common: Centr-Afrika Respubliko
+  et:
+    official: Kesk-Aafrika Vabariik
+    common: Kesk-Aafrika Vabariik
+  fo:
+    official: Miðafrikalýðveldið
+    common: Miðafrikalýðveldið
+  fi:
+    official: Keski-Afrikan tasavalta
+    common: Keski-Afrikan tasavalta
+  fr:
+    official: Centrafricaine, République
+    common: Centrafricaine, République
+  ka:
+    official: ცენტრალური აფრიკის რესპუბლიკა
+    common: ცენტრალური აფრიკის რესპუბლიკა
+  de:
+    official: Zentralafrikanische Republik
+    common: Zentralafrikanische Republik
+  ga:
+    official: Poblacht na hAfraice Láir
+    common: Poblacht na hAfraice Láir
+  gl:
+    official: República Centroafricana
+    common: República Centroafricana
+  el:
+    official: Δημοκρατία Κεντρικής Αφρικής
+    common: Δημοκρατία Κεντρικής Αφρικής
+  gu:
+    official: સેન્ટ્રલ આફ્રિકન રીપબ્લિક
+    common: સેન્ટ્રલ આફ્રિકન રીપબ્લિક
+  he:
+    official: הרפובליקה המרכז אפריקנית
+    common: הרפובליקה המרכז אפריקנית
+  hi:
+    official: सेंट्रल अफ्रीकन रिपब्लिक
+    common: सेंट्रल अफ्रीकन रिपब्लिक
+  hr:
+    official: Srednjoafrička Republika
+    common: Srednjoafrička Republika
+  hu:
+    official: Közép-afrikai Köztársaság
+    common: Közép-afrikai Köztársaság
+  is:
+    official: Miðafríkulýðveldið
+    common: Miðafríkulýðveldið
+  ia:
+    official: Republica African Central
+    common: Republica African Central
+  id:
+    official: Republik Afrika Tengah
+    common: Republik Afrika Tengah
+  it:
+    official: Repubblica Centrafricana
+    common: Repubblica Centrafricana
+  ja:
+    official: 中央アフリカ共和国
+    common: 中央アフリカ共和国
+  kn:
+    official: ಮಧ್ಯ ಆಫ್ರಿಕನ್ ಗಣರಾಜ್ಯ
+    common: ಮಧ್ಯ ಆಫ್ರಿಕನ್ ಗಣರಾಜ್ಯ
+  kk:
+    official: Орталық Африка Республикасы
+    common: Орталық Африка Республикасы
+  km:
+    official: សាធារណរដ្ឋ​អាហ្វ្រិក​កណ្ដាល
+    common: សាធារណរដ្ឋ​អាហ្វ្រិក​កណ្ដាល
+  rw:
+    official: Repubulika ya Santara Afurika
+    common: Repubulika ya Santara Afurika
+  ko:
+    official: 중앙 아프리카 공화국
+    common: 중앙 아프리카 공화국
+  ku:
+    official: Komara Afrikaya Navîn
+    common: Komara Afrikaya Navîn
+  lv:
+    official: Centrālāfrikas Republika
+    common: Centrālāfrikas Republika
+  lt:
+    official: Centrinės Afrikos Respublika
+    common: Centrinės Afrikos Respublika
+  mk:
+    official: Централно афричка република
+    common: Централно афричка република
+  ml:
+    official: മദ്ധ്യ അഫ്രിക്കന്‍ റിപ്പബ്ലിക്
+    common: മദ്ധ്യ അഫ്രിക്കന്‍ റിപ്പബ്ലിക്
+  mi:
+    official: Central African Republic
+    common: Central African Republic
+  mr:
+    official: सेंट्रल आफ्रिकन रिपब्लिक
+    common: सेंट्रल आफ्रिकन रिपब्लिक
+  ms:
+    official: Republik Afrika Tengah
+    common: Republik Afrika Tengah
+  mt:
+    official: Repubblika Dominikana
+    common: Repubblika Dominikana
+  mn:
+    official: Төв африкын ард улс
+    common: Төв африкын ард улс
+  ne:
+    official: केन्द्रिय अफ्रिकी गणराज्य
+    common: केन्द्रिय अफ्रिकी गणराज्य
+  nn:
+    official: Den sentralafrikanske republikken
+    common: Den sentralafrikanske republikken
+  nb:
+    official: Den sentralafrikanske republikk
+    common: Den sentralafrikanske republikk
+  oc:
+    official: Centrafrica
+    common: Centrafrica
+  or:
+    official: ମଦ୍ଦ୍ଯବର୍ତ୍ତୀ ଆଫ୍ରୀକିୟ ସାଧାରଣତନ୍ତ୍ର
+    common: ମଦ୍ଦ୍ଯବର୍ତ୍ତୀ ଆଫ୍ରୀକିୟ ସାଧାରଣତନ୍ତ୍ର
+  pa:
+    official: ਕੇਂਦਰੀ ਅਫਰੀਕਾ ਗਣਰਾਜ
+    common: ਕੇਂਦਰੀ ਅਫਰੀਕਾ ਗਣਰਾਜ
+  fa:
+    official: جمهوری آفریقای مرکزی
+    common: جمهوری آفریقای مرکزی
+  pl:
+    official: Republika Środkowoafrykańska
+    common: Republika Środkowoafrykańska
+  pt:
+    official: República Centro-Africana
+    common: República Centro-Africana
+  ps:
+    official: Central African Republic
+    common: Central African Republic
+  ro:
+    official: Republica Central Africană
+    common: Republica Central Africană
+  ru:
+    official: Центрально-африканская республика
+    common: Центрально-африканская республика
+  si:
+    official: මධ්‍යම අප්‍රිකානු ජනරජය
+    common: මධ්‍යම අප්‍රිකානු ජනරජය
+  sk:
+    official: Stredoafrická republika
+    common: Stredoafrická republika
+  sl:
+    official: Srednjeafriška republika
+    common: Srednjeafriška republika
+  so:
+    official: Central African Republic
+    common: Central African Republic
+  es:
+    official: República Centro-africana
+    common: República Centro-africana
+  sr:
+    official: Централноафричка Република
+    common: Централноафричка Република
+  sw:
+    official: Jamhuri ya Afrika ya Kati
+    common: Jamhuri ya Afrika ya Kati
+  sv:
+    official: Centralafrikanska republiken
+    common: Centralafrikanska republiken
+  ta:
+    official: மத்திய ஆப்ரிக்க குடியரசு
+    common: மத்திய ஆப்ரிக்க குடியரசு
+  tt:
+    official: Үзәк Африка Җөмһүриәте
+    common: Үзәк Африка Җөмһүриәте
+  te:
+    official: సేంట్రల్ ఆఫ్రికన్ రిపబ్లిక్
+    common: సేంట్రల్ ఆఫ్రికన్ రిపబ్లిక్
+  tl:
+    official: Republikang Panggitnang Aprika
+    common: Republikang Panggitnang Aprika
+  th:
+    official: สาธารณรัฐแอฟริกากลาง
+    common: สาธารณรัฐแอฟริกากลาง
+  ti:
+    official: የመካከለኛው አፍሪካ ሪፐብሊክ
+    common: የመካከለኛው አፍሪካ ሪፐብሊክ
+  tk:
+    official: Central African Republic
+    common: Central African Republic
+  tr:
+    official: Orta Afrika Cumhuriyeti
+    common: Orta Afrika Cumhuriyeti
+  ug:
+    official: ئوتتۇرا ئافرىقا جۇمھۇرىيىتى
+    common: ئوتتۇرا ئافرىقا جۇمھۇرىيىتى
+  uk:
+    official: Центральноафриканська Республіка
+    common: Центральноафриканська Республіка
+  ve:
+    official: Central African Republic
+    common: Central African Republic
+  vi:
+    official: Nước Cộng Hoà Trung Phi
+    common: Nước Cộng Hoà Trung Phi
+  cy:
+    official: Gweriniaeth Canol Affrica
+    common: Gweriniaeth Canol Affrica
+  wa:
+    official: Cintrafrike
+    common: Cintrafrike
+  wo:
+    official: Republik bu Santar Afrik
+    common: Republik bu Santar Afrik
+  xh:
+    official: Ulawulo lokuziphatha kwe Dominican
+    common: Ulawulo lokuziphatha kwe Dominican
+  zu:
+    official: Ulawulo lokuziphatha kwe Dominikhani
+    common: Ulawulo lokuziphatha kwe Dominikhani

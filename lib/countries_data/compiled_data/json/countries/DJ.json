@@ -1,0 +1,434 @@
+{
+  "continent": "Africa",
+  "alpha2": "DJ",
+  "alpha3": "DJI",
+  "country_code": "253",
+  "international_prefix": "00",
+  "ioc": "DJI",
+  "gec": "DJ",
+  "name": "Djibouti",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    6
+  ],
+  "national_prefix": "None",
+  "number": "262",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "world_region": "EMEA",
+  "un_locode": "DJ",
+  "nationality": "Djibouti",
+  "postal_code": false,
+  "unofficial_names": [
+    "Djibouti",
+    "جيبوتي",
+    "Dschibuti",
+    "ジブチ"
+  ],
+  "languages_official": [
+    "ar",
+    "fr"
+  ],
+  "languages_spoken": [
+    "ar",
+    "fr"
+  ],
+  "geo": {
+    "latitude": 11.825138,
+    "latitude_dec": "11.742591857910156",
+    "longitude": 42.590275,
+    "longitude_dec": "42.63182830810547",
+    "max_latitude": 12.7136161,
+    "max_longitude": 43.4173587,
+    "min_latitude": 10.9319439,
+    "min_longitude": 41.7597219,
+    "bounds": {
+      "northeast": {
+        "lat": 12.7136161,
+        "lng": 43.4173587
+      },
+      "southwest": {
+        "lat": 10.9319439,
+        "lng": 41.7597219
+      }
+    }
+  },
+  "currency_code": "DJF",
+  "postal_address_data": {
+    "id": "data/DJ",
+    "key": "DJ",
+    "name": "DJIBOUTI"
+  },
+  "translations": {
+    "af": {
+      "official": "Djiboeti",
+      "common": "Djiboeti"
+    },
+    "sq": {
+      "official": "Xhibuti",
+      "common": "Xhibuti"
+    },
+    "am": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "ar": {
+      "official": "جيبوتي",
+      "common": "جيبوتي"
+    },
+    "hy": {
+      "official": "Ջիբուտի",
+      "common": "Ջիբուտի"
+    },
+    "as": {
+      "official": "জিবুতি",
+      "common": "জিবুতি"
+    },
+    "az": {
+      "official": "Cibuti",
+      "common": "Cibuti"
+    },
+    "eu": {
+      "official": "Djibuti",
+      "common": "Djibuti"
+    },
+    "be": {
+      "official": "Джыбуці",
+      "common": "Джыбуці"
+    },
+    "bn": {
+      "official": "জিবুতি",
+      "common": "জিবুতি"
+    },
+    "bs": {
+      "official": "Džibuti",
+      "common": "Džibuti"
+    },
+    "br": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "bg": {
+      "official": "Джибути",
+      "common": "Джибути"
+    },
+    "ca": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "zh": {
+      "official": "吉布提",
+      "common": "吉布提"
+    },
+    "cs": {
+      "official": "Džibutsko",
+      "common": "Džibutsko"
+    },
+    "da": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "nl": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "dz": {
+      "official": "ཇི་བའོ་ཊི།",
+      "common": "ཇི་བའོ་ཊི།"
+    },
+    "en": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "eo": {
+      "official": "Ĝibutio",
+      "common": "Ĝibutio"
+    },
+    "et": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "fo": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "fi": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "fr": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "ka": {
+      "official": "ჯიბუტი",
+      "common": "ჯიბუტი"
+    },
+    "de": {
+      "official": "Dschibuti",
+      "common": "Dschibuti"
+    },
+    "ga": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "gl": {
+      "official": "Xibutí",
+      "common": "Xibutí"
+    },
+    "el": {
+      "official": "Τζιμπουτί",
+      "common": "Τζιμπουτί"
+    },
+    "gu": {
+      "official": "જીબૂટી",
+      "common": "જીબૂટી"
+    },
+    "he": {
+      "official": "דג'יבוטי",
+      "common": "דג'יבוטי"
+    },
+    "hi": {
+      "official": "जिबोउटी",
+      "common": "जिबोउटी"
+    },
+    "hr": {
+      "official": "Džibuti",
+      "common": "Džibuti"
+    },
+    "hu": {
+      "official": "Dzsibuti",
+      "common": "Dzsibuti"
+    },
+    "is": {
+      "official": "Djíbútí",
+      "common": "Djíbútí"
+    },
+    "ia": {
+      "official": "Djibuti",
+      "common": "Djibuti"
+    },
+    "id": {
+      "official": "Jibouti",
+      "common": "Jibouti"
+    },
+    "it": {
+      "official": "Gibuti",
+      "common": "Gibuti"
+    },
+    "ja": {
+      "official": "ジブチ",
+      "common": "ジブチ"
+    },
+    "kn": {
+      "official": "ಡ್ಜಿಬೌಟಿ",
+      "common": "ಡ್ಜಿಬೌಟಿ"
+    },
+    "kk": {
+      "official": "Джибути",
+      "common": "Джибути"
+    },
+    "km": {
+      "official": "ហ្ស៊ីបូទី",
+      "common": "ហ្ស៊ីបូទី"
+    },
+    "rw": {
+      "official": "Jibuti",
+      "common": "Jibuti"
+    },
+    "ko": {
+      "official": "지부티",
+      "common": "지부티"
+    },
+    "ku": {
+      "official": "Cîbutî",
+      "common": "Cîbutî"
+    },
+    "lv": {
+      "official": "Džibutija",
+      "common": "Džibutija"
+    },
+    "lt": {
+      "official": "Džibutis",
+      "common": "Džibutis"
+    },
+    "mk": {
+      "official": "Џибути",
+      "common": "Џибути"
+    },
+    "ml": {
+      "official": "ജിബൂട്ടി",
+      "common": "ജിബൂട്ടി"
+    },
+    "mi": {
+      "official": "Tipūti",
+      "common": "Tipūti"
+    },
+    "mr": {
+      "official": "जिबौती",
+      "common": "जिबौती"
+    },
+    "ms": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "mt": {
+      "official": "Ġibuti",
+      "common": "Ġibuti"
+    },
+    "mn": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "ne": {
+      "official": "जिबोउटी",
+      "common": "जिबोउटी"
+    },
+    "nn": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "nb": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "oc": {
+      "official": "Jiboti",
+      "common": "Jiboti"
+    },
+    "or": {
+      "official": "ଡିଜବୌଟୀ",
+      "common": "ଡିଜବୌଟୀ"
+    },
+    "pa": {
+      "official": "ਡਜੀਬੂਟੀ",
+      "common": "ਡਜੀਬੂਟੀ"
+    },
+    "fa": {
+      "official": "جیبوتی",
+      "common": "جیبوتی"
+    },
+    "pl": {
+      "official": "Dżibuti",
+      "common": "Dżibuti"
+    },
+    "pt": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "ps": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "ro": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "ru": {
+      "official": "Джибути",
+      "common": "Джибути"
+    },
+    "si": {
+      "official": "ජිල්බූට්",
+      "common": "ජිල්බූට්"
+    },
+    "sk": {
+      "official": "Džibutsko",
+      "common": "Džibutsko"
+    },
+    "sl": {
+      "official": "Džibuti",
+      "common": "Džibuti"
+    },
+    "so": {
+      "official": "Jabuuti",
+      "common": "Jabuuti"
+    },
+    "es": {
+      "official": "Yibuti",
+      "common": "Yibuti"
+    },
+    "sr": {
+      "official": "Џибути",
+      "common": "Џибути"
+    },
+    "sw": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "sv": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "ta": {
+      "official": "சிபூட்டி",
+      "common": "சிபூட்டி"
+    },
+    "tt": {
+      "official": "Джибути",
+      "common": "Джибути"
+    },
+    "te": {
+      "official": "జిబౌతీ",
+      "common": "జిబౌతీ"
+    },
+    "tl": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "th": {
+      "official": "จิบูตี",
+      "common": "จิบูตี"
+    },
+    "ti": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "tk": {
+      "official": "Jibuti",
+      "common": "Jibuti"
+    },
+    "tr": {
+      "official": "Cibuti",
+      "common": "Cibuti"
+    },
+    "ug": {
+      "official": "جىبۇتى",
+      "common": "جىبۇتى"
+    },
+    "uk": {
+      "official": "Джибуті",
+      "common": "Джибуті"
+    },
+    "ve": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "vi": {
+      "official": "Gi-bu-ti",
+      "common": "Gi-bu-ti"
+    },
+    "cy": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "wa": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "wo": {
+      "official": "Jibuuti",
+      "common": "Jibuuti"
+    },
+    "xh": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    },
+    "zu": {
+      "official": "Djibouti",
+      "common": "Djibouti"
+    }
+  }
+}

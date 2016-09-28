@@ -1,0 +1,336 @@
+---
+continent: Asia
+alpha2: TJ
+alpha3: TJK
+alt_currency: RUB
+country_code: '992'
+international_prefix: '810'
+ioc: TJK
+gec: TI
+name: Tajikistan
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: '8'
+number: '762'
+region: Asia
+subregion: Central Asia
+world_region: EMEA
+un_locode: TJ
+nationality: Tadzhik
+postal_code: true
+unofficial_names:
+- Tajikistan
+- Tadschikistan
+- Tayikistán
+- タジキスタン
+- Tadzjikistan
+- Tajikstan
+languages_official:
+- tg
+- ru
+languages_spoken:
+- tg
+- ru
+geo:
+  latitude: 38.861034
+  latitude_dec: '38.879764556884766'
+  longitude: 71.276093
+  longitude_dec: '70.89906311035156'
+  max_latitude: 41.044367
+  max_longitude: 75.15395629999999
+  min_latitude: 36.6719897
+  min_longitude: 67.342012
+  bounds:
+    northeast:
+      lat: 41.044367
+      lng: 75.15395629999999
+    southwest:
+      lat: 36.6719897
+      lng: 67.342012
+currency_code: TJS
+postal_address_data:
+  zipex: '735450,734025'
+  name: TAJIKISTAN
+  zip: "\\d{6}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  key: TJ
+  id: data/TJ
+translations:
+  af:
+    official: Tadjikistan
+    common: Tadjikistan
+  sq:
+    official: Taxhikistani
+    common: Taxhikistani
+  am:
+    official: ታጃጡስታን
+    common: ታጃጡስታን
+  ar:
+    official: طاجيكستان
+    common: طاجيكستان
+  hy:
+    official: Տաճիկստան
+    common: Տաճիկստան
+  as:
+    official: তাজিকিস্তান
+    common: তাজিকিস্তান
+  az:
+    official: Tacikistan
+    common: Tacikistan
+  eu:
+    official: Tajikistan
+    common: Tajikistan
+  be:
+    official: Таджыкістан
+    common: Таджыкістан
+  bn:
+    official: তাজিকিস্তান
+    common: তাজিকিস্তান
+  bs:
+    official: Tadžikistan
+    common: Tadžikistan
+  br:
+    official: Tajikistan
+    common: Tajikistan
+  bg:
+    official: Таджикистан
+    common: Таджикистан
+  ca:
+    official: Tadjikistan
+    common: Tadjikistan
+  zh:
+    official: 塔吉克斯坦
+    common: 塔吉克斯坦
+  cs:
+    official: Tádžikistán
+    common: Tádžikistán
+  da:
+    official: Tadsjikistan
+    common: Tadsjikistan
+  nl:
+    official: Tadzjikistan
+    common: Tadzjikistan
+  dz:
+    official: ཏ་ཇི་ཀིསི་ཏཱན།
+    common: ཏ་ཇི་ཀིསི་ཏཱན།
+  en:
+    official: Tajikistan
+    common: Tajikistan
+  eo:
+    official: Taĝikio
+    common: Taĝikio
+  et:
+    official: Tadžikistan
+    common: Tadžikistan
+  fo:
+    official: Tadsjikistan
+    common: Tadsjikistan
+  fi:
+    official: Tadžikistan
+    common: Tadžikistan
+  fr:
+    official: Tadjikistan
+    common: Tadjikistan
+  ka:
+    official: ტაჯიკეთი
+    common: ტაჯიკეთი
+  de:
+    official: Tadschikistan
+    common: Tadschikistan
+  ga:
+    official: An Táidsíceastáin
+    common: An Táidsíceastáin
+  gl:
+    official: Taxiquistán
+    common: Taxiquistán
+  el:
+    official: Τατζικιστάν
+    common: Τατζικιστάν
+  gu:
+    official: તાજીકિસ્તાન
+    common: તાજીકિસ્તાન
+  he:
+    official: טג'יקיסטאן
+    common: טג'יקיסטאן
+  hi:
+    official: ताजिकिस्तान
+    common: ताजिकिस्तान
+  hr:
+    official: Tadžikistan
+    common: Tadžikistan
+  hu:
+    official: Tádzsikisztán
+    common: Tádzsikisztán
+  is:
+    official: Tadsíkistan
+    common: Tadsíkistan
+  ia:
+    official: Tajikistan
+    common: Tajikistan
+  id:
+    official: Tajikistan
+    common: Tajikistan
+  it:
+    official: Tagikistan
+    common: Tagikistan
+  ja:
+    official: タジキスタン
+    common: タジキスタン
+  kn:
+    official: ತಾಜಿಕಿಸ್ತಾನ್
+    common: ತಾಜಿಕಿಸ್ತಾನ್
+  kk:
+    official: Тәжікстан
+    common: Тәжікстан
+  km:
+    official: តាហ្ស៊ីគីស្តង់
+    common: តាហ្ស៊ីគីស្តង់
+  rw:
+    official: Tajikisitani
+    common: Tajikisitani
+  ko:
+    official: 타지키스탄
+    common: 타지키스탄
+  ku:
+    official: Tacîkistan
+    common: Tacîkistan
+  lv:
+    official: Tadžikistāna
+    common: Tadžikistāna
+  lt:
+    official: Tadžikistanas
+    common: Tadžikistanas
+  mk:
+    official: Таџикистан
+    common: Таџикистан
+  ml:
+    official: താജികിസ്താന്‍
+    common: താജികിസ്താന്‍
+  mi:
+    official: Tajikistan
+    common: Tajikistan
+  mr:
+    official: ताजिकिस्तान
+    common: ताजिकिस्तान
+  ms:
+    official: Tadjikistan
+    common: Tadjikistan
+  mt:
+    official: Tajwan
+    common: Tajwan
+  mn:
+    official: Тажикстан
+    common: Тажикстан
+  ne:
+    official: ताजिकिस्तान
+    common: ताजिकिस्तान
+  nn:
+    official: Tadsjikistan
+    common: Tadsjikistan
+  nb:
+    official: Tadsjikistan
+    common: Tadsjikistan
+  oc:
+    official: Taiwan
+    common: Taiwan
+  or:
+    official: ତାଜୀକିସ୍ତାନ
+    common: ତାଜୀକିସ୍ତାନ
+  pa:
+    official: ਤਜ਼ਾਕਸਤਾਨ
+    common: ਤਜ਼ਾਕਸਤਾਨ
+  fa:
+    official: تاجیکستان
+    common: تاجیکستان
+  pl:
+    official: Tadżykistan
+    common: Tadżykistan
+  pt:
+    official: Tadjaquistão
+    common: Tadjaquistão
+  ps:
+    official: تاجکستان
+    common: تاجکستان
+  ro:
+    official: Tajikistan
+    common: Tajikistan
+  ru:
+    official: Таджикистан
+    common: Таджикистан
+  si:
+    official: ටජිකිස්තානය
+    common: ටජිකිස්තානය
+  sk:
+    official: Tadžikistan
+    common: Tadžikistan
+  sl:
+    official: Tadžikistan
+    common: Tadžikistan
+  so:
+    official: Tajikistan
+    common: Tajikistan
+  es:
+    official: Tadjikistán
+    common: Tadjikistán
+  sr:
+    official: Таџикистан
+    common: Таџикистан
+  sw:
+    official: Tajikistan
+    common: Tajikistan
+  sv:
+    official: Tadzjikistan
+    common: Tadzjikistan
+  ta:
+    official: தசிக்கிசுதான்
+    common: தசிக்கிசுதான்
+  tt:
+    official: Тажыкстан
+    common: Тажыкстан
+  te:
+    official: తజికిస్తాన్
+    common: తజికిస్తాన్
+  tl:
+    official: Tajikistan
+    common: Tajikistan
+  th:
+    official: ทาจิกิสถาน
+    common: ทาจิกิสถาน
+  ti:
+    official: ታጃኪስታን
+    common: ታጃኪስታን
+  tk:
+    official: Täjigistan
+    common: Täjigistan
+  tr:
+    official: Tacikistan
+    common: Tacikistan
+  ug:
+    official: تاجىكىستان
+    common: تاجىكىستان
+  uk:
+    official: Таджикистан
+    common: Таджикистан
+  ve:
+    official: Tajikistan
+    common: Tajikistan
+  vi:
+    official: Tha-gi-ki-xthanh
+    common: Tha-gi-ki-xthanh
+  cy:
+    official: Tajikistan
+    common: Tajikistan
+  wa:
+    official: Tadjikistan
+    common: Tadjikistan
+  wo:
+    official: Taajikistaan
+    common: Taajikistaan
+  xh:
+    official: Taiwan
+    common: Taiwan
+  zu:
+    official: I-Tayiwani
+    common: I-Tayiwani

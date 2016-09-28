@@ -1,0 +1,351 @@
+---
+continent: Asia
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{city}}
+  {{region}} {{postalcode}}
+  {{country}}
+alpha2: ID
+alpha3: IDN
+country_code: '62'
+international_prefix: '001'
+ioc: INA
+gec: ID
+name: Indonesia
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+- 9
+- 10
+- 11
+national_prefix: '0'
+number: '360'
+region: Asia
+subregion: South-Eastern Asia
+world_region: APAC
+un_locode: ID
+nationality: Indonesian
+postal_code: true
+unofficial_names:
+- Indonesia
+- Indonesien
+- Indonésie
+- インドネシア
+- Indonesië
+languages_official:
+- id
+languages_spoken:
+- id
+geo:
+  latitude: -0.789275
+  latitude_dec: "-1.248089075088501"
+  longitude: 113.921327
+  longitude_dec: '115.41899871826172'
+  max_latitude: 6.076912
+  max_longitude: 141.0195621
+  min_latitude: -11.0074361
+  min_longitude: 95.00970699999999
+  bounds:
+    northeast:
+      lat: 6.076912
+      lng: 141.0195621
+    southwest:
+      lat: -11.0074361
+      lng: 95.00970699999999
+currency_code: IDR
+postal_address_data:
+  lang: id
+  zipex: '40115'
+  name: INDONESIA
+  zip: "\\d{5}"
+  require: AS
+  id: data/ID
+  languages: id
+  sub_keys: Aceh~Bali~Banten~Bengkulu~Daerah Istimewa Yogyakarta~DKI Jakarta~Gorontalo~Jambi~Jawa
+    Barat~Jawa Tengah~Jawa Timur~Kalimantan Barat~Kalimantan Selatan~Kalimantan Tengah~Kalimantan
+    Timur~Kalimantan Utara~Kepulauan Bangka Belitung~Kepulauan Riau~Lampung~Maluku~Maluku
+    Utara~Nusa Tenggara Barat~Nusa Tenggara Timur~Papua~Papua Barat~Riau~Sulawesi
+    Barat~Sulawesi Selatan~Sulawesi Tengah~Sulawesi Tenggara~Sulawesi Utara~Sumatera
+    Barat~Sumatera Selatan~Sumatera Utara
+  key: ID
+  sub_isoids: AC~BA~BT~BE~YO~JK~GO~JA~JB~JT~JI~KB~KS~KT~KI~KU~BB~KR~LA~MA~MU~NB~NT~PA~PB~RI~SR~SN~ST~SG~SA~SB~SS~SU
+  fmt: "%N%n%O%n%A%n%C%n%S %Z"
+translations:
+  af:
+    official: Indonesië
+    common: Indonesië
+  sq:
+    official: Indonezia
+    common: Indonezia
+  am:
+    official: ጒን፦ኔፒ።
+    common: ጒን፦ኔፒ።
+  ar:
+    official: إندونيسيا
+    common: إندونيسيا
+  hy:
+    official: Ինդոնեզիա
+    common: Ինդոնեզիա
+  as:
+    official: ইণ্ডোনেছিয়া
+    common: ইণ্ডোনেছিয়া
+  az:
+    official: İndoneziya
+    common: İndoneziya
+  eu:
+    official: Indonesia
+    common: Indonesia
+  be:
+    official: Інданезія
+    common: Інданезія
+  bn:
+    official: ইন্দোনেশিয়া
+    common: ইন্দোনেশিয়া
+  bs:
+    official: Indonezija
+    common: Indonezija
+  br:
+    official: Indonesia
+    common: Indonesia
+  bg:
+    official: Индонезия
+    common: Индонезия
+  ca:
+    official: Indonèsia
+    common: Indonèsia
+  zh:
+    official: 印度尼西亚
+    common: 印度尼西亚
+  cs:
+    official: Indonésie
+    common: Indonésie
+  da:
+    official: Indonesien
+    common: Indonesien
+  nl:
+    official: Indonesië
+    common: Indonesië
+  dz:
+    official: ཨིན་ཌོ་ནེ་ཤི་ཡ།
+    common: ཨིན་ཌོ་ནེ་ཤི་ཡ།
+  en:
+    official: Indonesia
+    common: Indonesia
+  eo:
+    official: Indonezio
+    common: Indonezio
+  et:
+    official: Indoneesia
+    common: Indoneesia
+  fo:
+    official: Indonesia
+    common: Indonesia
+  fi:
+    official: Indonesia
+    common: Indonesia
+  fr:
+    official: Indonésie
+    common: Indonésie
+  ka:
+    official: ინდონეზია
+    common: ინდონეზია
+  de:
+    official: Indonesien
+    common: Indonesien
+  ga:
+    official: An Indinéis
+    common: An Indinéis
+  gl:
+    official: Indonesia
+    common: Indonesia
+  el:
+    official: Ινδονησία
+    common: Ινδονησία
+  gu:
+    official: ઇન્ડોનેશિયા
+    common: ઇન્ડોનેશિયા
+  he:
+    official: אינדונזיה
+    common: אינדונזיה
+  hi:
+    official: इंडोनेशिया
+    common: इंडोनेशिया
+  hr:
+    official: Indonezija
+    common: Indonezija
+  hu:
+    official: Indonézia
+    common: Indonézia
+  is:
+    official: Indónesía
+    common: Indónesía
+  ia:
+    official: Indonesia
+    common: Indonesia
+  id:
+    official: Indonesia
+    common: Indonesia
+  it:
+    official: Indonesia
+    common: Indonesia
+  ja:
+    official: インドネシア
+    common: インドネシア
+  kn:
+    official: ಇಂಡೋನೇಶಿಯಾ
+    common: ಇಂಡೋನೇಶಿಯಾ
+  kk:
+    official: Индонезия
+    common: Индонезия
+  km:
+    official: ឥណ្ឌូនេស៊ី
+    common: ឥណ្ឌូនេស៊ី
+  rw:
+    official: Indonesiya
+    common: Indonesiya
+  ko:
+    official: 인도네시아
+    common: 인도네시아
+  ku:
+    official: Endonezya
+    common: Endonezya
+  lv:
+    official: Indonēzija
+    common: Indonēzija
+  lt:
+    official: Indonezija
+    common: Indonezija
+  mk:
+    official: Индонезија
+    common: Индонезија
+  ml:
+    official: ഇന്തോനേഷ്യ
+    common: ഇന്തോനേഷ്യ
+  mi:
+    official: Initonīhia
+    common: Initonīhia
+  mr:
+    official: इंडोनेशिया
+    common: इंडोनेशिया
+  ms:
+    official: Indonesia
+    common: Indonesia
+  mt:
+    official: Ikoni
+    common: Ikoni
+  mn:
+    official: Индонез
+    common: Индонез
+  ne:
+    official: इन्डोनेसिया
+    common: इन्डोनेसिया
+  nn:
+    official: Indonesia
+    common: Indonesia
+  nb:
+    official: Indonesia
+    common: Indonesia
+  oc:
+    official: Indonesia
+    common: Indonesia
+  or:
+    official: ଇଣ୍ଡୋନେଶିୟା
+    common: ଇଣ୍ଡୋନେଶିୟା
+  pa:
+    official: ਇੰਡੋਨੇਸ਼ੀਆ
+    common: ਇੰਡੋਨੇਸ਼ੀਆ
+  fa:
+    official: اندونزی
+    common: اندونزی
+  pl:
+    official: Indonezja
+    common: Indonezja
+  pt:
+    official: Indonésia
+    common: Indonésia
+  ps:
+    official: اندونیزیا
+    common: اندونیزیا
+  ro:
+    official: Indonezia
+    common: Indonezia
+  ru:
+    official: Индонезия
+    common: Индонезия
+  si:
+    official: ඉන්දුනීසියාව
+    common: ඉන්දුනීසියාව
+  sk:
+    official: Indonézia
+    common: Indonézia
+  sl:
+    official: Indonezija
+    common: Indonezija
+  so:
+    official: Indoneesiya
+    common: Indoneesiya
+  es:
+    official: Indonesia
+    common: Indonesia
+  sr:
+    official: Индонезија
+    common: Индонезија
+  sw:
+    official: Indonesia
+    common: Indonesia
+  sv:
+    official: Indonesien
+    common: Indonesien
+  ta:
+    official: இந்தோனேசியா
+    common: இந்தோனேசியா
+  tt:
+    official: İндонесиа
+    common: İндонесиа
+  te:
+    official: ఇండోనేషియా
+    common: ఇండోనేషియా
+  tl:
+    official: Indonesia
+    common: Indonesia
+  th:
+    official: อินโดนีเซีย
+    common: อินโดนีเซีย
+  ti:
+    official: ኢንዶኔዢያ
+    common: ኢንዶኔዢያ
+  tk:
+    official: Indoneziýa
+    common: Indoneziýa
+  tr:
+    official: Endonezya
+    common: Endonezya
+  ug:
+    official: ھىندونېزىيە
+    common: ھىندونېزىيە
+  uk:
+    official: Індонезія
+    common: Індонезія
+  ve:
+    official: Indonesia
+    common: Indonesia
+  vi:
+    official: Nam Dương
+    common: Nam Dương
+  cy:
+    official: Indonesia
+    common: Indonesia
+  wa:
+    official: Indonezeye
+    common: Indonezeye
+  wo:
+    official: Indoneesi
+    common: Indoneesi
+  xh:
+    official: Indonesia
+    common: Indonesia
+  zu:
+    official: I-Indoneshiya
+    common: I-Indoneshiya

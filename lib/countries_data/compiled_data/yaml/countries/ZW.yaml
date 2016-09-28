@@ -1,0 +1,335 @@
+---
+continent: Africa
+alpha2: ZW
+alpha3: ZWE
+country_code: '263'
+international_prefix: '00'
+ioc: ZIM
+gec: ZI
+name: Zimbabwe
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+- 9
+- 10
+- 11
+national_prefix: '0'
+number: '716'
+region: Africa
+subregion: Eastern Africa
+world_region: EMEA
+un_locode: ZW
+nationality: Zimbabwean
+postal_code: false
+unofficial_names:
+- Zimbabwe
+- Simbabwe
+- Zimbabue
+- ジンバブエ
+languages_official:
+- en
+- sn
+- nd
+languages_spoken:
+- en
+- sn
+- nd
+geo:
+  latitude: -19.015438
+  latitude_dec: "-19.000280380249023"
+  longitude: 29.154857
+  longitude_dec: '29.86876106262207'
+  max_latitude: -15.6107883
+  max_longitude: 33.068236
+  min_latitude: -22.4223538
+  min_longitude: 25.237368
+  bounds:
+    northeast:
+      lat: -15.6107883
+      lng: 33.068236
+    southwest:
+      lat: -22.4223538
+      lng: 25.237368
+currency_code: USD
+postal_address_data:
+  id: data/ZW
+  key: ZW
+  name: ZIMBABWE
+translations:
+  af:
+    official: Zimbabwe
+    common: Zimbabwe
+  sq:
+    official: Zimbabve
+    common: Zimbabve
+  am:
+    official: ፒሤቢ።
+    common: ፒሤቢ።
+  ar:
+    official: زمبابوي
+    common: زمبابوي
+  hy:
+    official: Զիմբաբվե
+    common: Զիմբաբվե
+  as:
+    official: জিম্বাবোৱে
+    common: জিম্বাবোৱে
+  az:
+    official: Zimbabve
+    common: Zimbabve
+  eu:
+    official: Zimbabwe
+    common: Zimbabwe
+  be:
+    official: Зімбабве
+    common: Зімбабве
+  bn:
+    official: জিম্বাবুয়ে
+    common: জিম্বাবুয়ে
+  bs:
+    official: Zimbabve
+    common: Zimbabve
+  br:
+    official: Zimbabwe
+    common: Zimbabwe
+  bg:
+    official: Зимбабве
+    common: Зимбабве
+  ca:
+    official: Zimbabwe
+    common: Zimbabwe
+  zh:
+    official: 津巴布韦
+    common: 津巴布韦
+  cs:
+    official: Zimbabwe
+    common: Zimbabwe
+  da:
+    official: Zimbabwe
+    common: Zimbabwe
+  nl:
+    official: Zimbabwe
+    common: Zimbabwe
+  dz:
+    official: ཛིམ་བབ་ཝི།
+    common: ཛིམ་བབ་ཝི།
+  en:
+    official: Zimbabwe
+    common: Zimbabwe
+  eo:
+    official: Zimbabvo
+    common: Zimbabvo
+  et:
+    official: Zimbabwe
+    common: Zimbabwe
+  fo:
+    official: Simbabvi
+    common: Simbabvi
+  fi:
+    official: Zimbabwe
+    common: Zimbabwe
+  fr:
+    official: Zimbabwe
+    common: Zimbabwe
+  ka:
+    official: ზიმბაბვე
+    common: ზიმბაბვე
+  de:
+    official: Simbabwe
+    common: Simbabwe
+  ga:
+    official: An tSiombáib
+    common: An tSiombáib
+  gl:
+    official: Zimbabue
+    common: Zimbabue
+  el:
+    official: Ζιμπάμπουε
+    common: Ζιμπάμπουε
+  gu:
+    official: ઝીમ્બાબવે
+    common: ઝીમ્બાબવે
+  he:
+    official: זימבבואה
+    common: זימבבואה
+  hi:
+    official: ज़िम्बाब्वे
+    common: ज़िम्बाब्वे
+  hr:
+    official: Zimbabve
+    common: Zimbabve
+  hu:
+    official: Zimbabwe
+    common: Zimbabwe
+  is:
+    official: Simbabve
+    common: Simbabve
+  ia:
+    official: Zimbabwe
+    common: Zimbabwe
+  id:
+    official: Zimbabwe
+    common: Zimbabwe
+  it:
+    official: Zimbabwe
+    common: Zimbabwe
+  ja:
+    official: ジンバブエ
+    common: ジンバブエ
+  kn:
+    official: ಝಿಂಬಾಬ್ವೆ
+    common: ಝಿಂಬಾಬ್ವೆ
+  kk:
+    official: Зимбабве
+    common: Зимбабве
+  km:
+    official: ហ្ស៊ីមបាវ៉េ
+    common: ហ្ស៊ីមបាវ៉េ
+  rw:
+    official: Zimbabwe
+    common: Zimbabwe
+  ko:
+    official: 짐바브웨
+    common: 짐바브웨
+  ku:
+    official: Zimbabwe
+    common: Zimbabwe
+  lv:
+    official: Zimbabve
+    common: Zimbabve
+  lt:
+    official: Zimbabvė
+    common: Zimbabvė
+  mk:
+    official: Зимбабве
+    common: Зимбабве
+  ml:
+    official: സിംബാബ്‌വേ
+    common: സിംബാബ്‌വേ
+  mi:
+    official: Zimbabwe
+    common: Zimbabwe
+  mr:
+    official: झिंबाव्वे
+    common: झिंबाव्वे
+  ms:
+    official: Zimbabwe
+    common: Zimbabwe
+  mt:
+    official: Żimbabwe
+    common: Żimbabwe
+  mn:
+    official: Замбибаби
+    common: Замбибаби
+  ne:
+    official: जिम्बावे
+    common: जिम्बावे
+  nn:
+    official: Zimbabwe
+    common: Zimbabwe
+  nb:
+    official: Zimbabwe
+    common: Zimbabwe
+  oc:
+    official: Zimbabwe
+    common: Zimbabwe
+  or:
+    official: ଜିମ୍ବାଓ୍ବେ
+    common: ଜିମ୍ବାଓ୍ବେ
+  pa:
+    official: ਜਿੰਬਾਬਾਵੇ
+    common: ਜਿੰਬਾਬਾਵੇ
+  fa:
+    official: زیمبابوه
+    common: زیمبابوه
+  pl:
+    official: Zimbabwe
+    common: Zimbabwe
+  pt:
+    official: Zimbabwe
+    common: Zimbabwe
+  ps:
+    official: Zimbabwe
+    common: Zimbabwe
+  ro:
+    official: Zimbabwe
+    common: Zimbabwe
+  ru:
+    official: Зимбабве
+    common: Зимбабве
+  si:
+    official: සිම්බාබ්වේ
+    common: සිම්බාබ්වේ
+  sk:
+    official: Zimbabwe
+    common: Zimbabwe
+  sl:
+    official: Zimbabve
+    common: Zimbabve
+  so:
+    official: Simbaabwe
+    common: Simbaabwe
+  es:
+    official: Zimbabue
+    common: Zimbabue
+  sr:
+    official: Зимбабве
+    common: Зимбабве
+  sw:
+    official: Zimbabwe
+    common: Zimbabwe
+  sv:
+    official: Zimbabwe
+    common: Zimbabwe
+  ta:
+    official: ஜிம்பாப்வே
+    common: ஜிம்பாப்வே
+  tt:
+    official: Зимбабве
+    common: Зимбабве
+  te:
+    official: జింబాంబ్వే
+    common: జింబాంబ్వే
+  tl:
+    official: Zimbabwe
+    common: Zimbabwe
+  th:
+    official: ซิมบับเว
+    common: ซิมบับเว
+  ti:
+    official: Zimbabwe
+    common: Zimbabwe
+  tk:
+    official: Zimbabwe
+    common: Zimbabwe
+  tr:
+    official: Zimbabve
+    common: Zimbabve
+  ug:
+    official: زىمبابۋې
+    common: زىمبابۋې
+  uk:
+    official: Зімбабве
+    common: Зімбабве
+  ve:
+    official: Zimbabwe
+    common: Zimbabwe
+  vi:
+    official: Xim-ba-bu-ê
+    common: Xim-ba-bu-ê
+  cy:
+    official: Zimbabwe
+    common: Zimbabwe
+  wa:
+    official: Zimbabwè
+    common: Zimbabwè
+  wo:
+    official: Simbaabwee
+    common: Simbaabwee
+  xh:
+    official: Zimbabwe
+    common: Zimbabwe
+  zu:
+    official: Zimbabwe
+    common: Zimbabwe

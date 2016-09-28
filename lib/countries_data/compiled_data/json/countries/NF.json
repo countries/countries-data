@@ -1,0 +1,438 @@
+{
+  "continent": "Australia",
+  "alpha2": "NF",
+  "alpha3": "NFK",
+  "country_code": "672",
+  "international_prefix": "00",
+  "ioc": null,
+  "gec": "NF",
+  "name": "Norfolk Island",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    6
+  ],
+  "national_prefix": "None",
+  "number": "574",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "world_region": "APAC",
+  "un_locode": "NF",
+  "nationality": "Norfolk Islander",
+  "postal_code": true,
+  "unofficial_names": [
+    "Norfolk Island",
+    "Norfolkinsel",
+    "Île de Norfolk",
+    "Isla de Norfolk",
+    "ノーフォーク島",
+    "Norfolkeiland"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": -29.040835,
+    "latitude_dec": "-29.036962509155273",
+    "longitude": 167.954712,
+    "longitude_dec": "167.95523071289062",
+    "max_latitude": -28.9942708,
+    "max_longitude": 167.9978356,
+    "min_latitude": -29.1365875,
+    "min_longitude": 167.9162191,
+    "bounds": {
+      "northeast": {
+        "lat": -28.9942708,
+        "lng": 167.9978356
+      },
+      "southwest": {
+        "lat": -29.1365875,
+        "lng": 167.9162191
+      }
+    }
+  },
+  "currency_code": "AUD",
+  "postal_address_data": {
+    "upper": "CS",
+    "zipex": "2899",
+    "name": "NORFOLK ISLAND",
+    "zip": "2899",
+    "fmt": "%O%n%N%n%A%n%C %S %Z",
+    "key": "NF",
+    "id": "data/NF"
+  },
+  "translations": {
+    "af": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "sq": {
+      "official": "Ishulli Norfolk",
+      "common": "Ishulli Norfolk"
+    },
+    "am": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "ar": {
+      "official": "جزيرة نورفولك",
+      "common": "جزيرة نورفولك"
+    },
+    "hy": {
+      "official": "Նոր­ֆոլկ Կղզի",
+      "common": "Նոր­ֆոլկ Կղզի"
+    },
+    "as": {
+      "official": "নৰফোল্ক দ্বীপ",
+      "common": "নৰফোল্ক দ্বীপ"
+    },
+    "az": {
+      "official": "Norfolk Adaları",
+      "common": "Norfolk Adaları"
+    },
+    "eu": {
+      "official": "Norfolk uhartea",
+      "common": "Norfolk uhartea"
+    },
+    "be": {
+      "official": "Востраў Норфалк",
+      "common": "Востраў Норфалк"
+    },
+    "bn": {
+      "official": "নরফোল্ক দ্বীপ",
+      "common": "নরফোল্ক দ্বীপ"
+    },
+    "bs": {
+      "official": "Norfolk ostrvo",
+      "common": "Norfolk ostrvo"
+    },
+    "br": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "bg": {
+      "official": "Остров Норфолк",
+      "common": "Остров Норфолк"
+    },
+    "ca": {
+      "official": "Illa Norfolk",
+      "common": "Illa Norfolk"
+    },
+    "zh": {
+      "official": "诺福克岛",
+      "common": "诺福克岛"
+    },
+    "cs": {
+      "official": "Norfolkský ostrov",
+      "common": "Norfolkský ostrov"
+    },
+    "da": {
+      "official": "Norfolk Øen",
+      "common": "Norfolk Øen"
+    },
+    "nl": {
+      "official": "Norfolk",
+      "common": "Norfolk"
+    },
+    "dz": {
+      "official": "ནོར་ཕོལཀ་ ཨའི་ལེནཌི།",
+      "common": "ནོར་ཕོལཀ་ ཨའི་ལེནཌི།"
+    },
+    "en": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "eo": {
+      "official": "Norfolkinsulo",
+      "common": "Norfolkinsulo"
+    },
+    "et": {
+      "official": "Norfolki saare ala",
+      "common": "Norfolki saare ala"
+    },
+    "fo": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "fi": {
+      "official": "Norfolkinsaari",
+      "common": "Norfolkinsaari"
+    },
+    "fr": {
+      "official": "Norfolk, Île",
+      "common": "Norfolk, Île"
+    },
+    "ka": {
+      "official": "ნორფოლკის კუნძული",
+      "common": "ნორფოლკის კუნძული"
+    },
+    "de": {
+      "official": "Norfolkinsel",
+      "common": "Norfolkinsel"
+    },
+    "ga": {
+      "official": "Oileán Norfolk",
+      "common": "Oileán Norfolk"
+    },
+    "gl": {
+      "official": "Illa Norfolk",
+      "common": "Illa Norfolk"
+    },
+    "el": {
+      "official": "Νήσος Νόρφολκ",
+      "common": "Νήσος Νόρφολκ"
+    },
+    "gu": {
+      "official": "નોર્ફોક ટાપુઓ",
+      "common": "નોર્ફોક ટાપુઓ"
+    },
+    "he": {
+      "official": "האי נורפולק",
+      "common": "האי נורפולק"
+    },
+    "hi": {
+      "official": "नोरफोल्क आइलैंड",
+      "common": "नोरफोल्क आइलैंड"
+    },
+    "hr": {
+      "official": "Otok Norfolk",
+      "common": "Otok Norfolk"
+    },
+    "hu": {
+      "official": "Norfolk-sziget",
+      "common": "Norfolk-sziget"
+    },
+    "is": {
+      "official": "Norfolkeyja",
+      "common": "Norfolkeyja"
+    },
+    "ia": {
+      "official": "Insula Norfolk",
+      "common": "Insula Norfolk"
+    },
+    "id": {
+      "official": "Kepulauan Norfolk",
+      "common": "Kepulauan Norfolk"
+    },
+    "it": {
+      "official": "Isola Norfolk",
+      "common": "Isola Norfolk"
+    },
+    "ja": {
+      "official": "ノーフォーク島",
+      "common": "ノーフォーク島"
+    },
+    "kn": {
+      "official": "ನಾರ್ಫೋಕ್ ದ್ವೀಪ",
+      "common": "ನಾರ್ಫೋಕ್ ದ್ವೀಪ"
+    },
+    "kk": {
+      "official": "Норфолк аралы",
+      "common": "Норфолк аралы"
+    },
+    "km": {
+      "official": "កោះណរហ្វក",
+      "common": "កោះណរហ្វក"
+    },
+    "rw": {
+      "official": "Ibirwa bya Norufoluki",
+      "common": "Ibirwa bya Norufoluki"
+    },
+    "ko": {
+      "official": "노퍽 섬",
+      "common": "노퍽 섬"
+    },
+    "ku": {
+      "official": "Girava Norfolk",
+      "common": "Girava Norfolk"
+    },
+    "lv": {
+      "official": "Norfolkas Sala",
+      "common": "Norfolkas Sala"
+    },
+    "lt": {
+      "official": "Norfolko sala",
+      "common": "Norfolko sala"
+    },
+    "mk": {
+      "official": "Норфолк острови",
+      "common": "Норфолк острови"
+    },
+    "ml": {
+      "official": "നോര്‍ഫോക് ദ്വീപ്",
+      "common": "നോര്‍ഫോക് ദ്വീപ്"
+    },
+    "mi": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "mr": {
+      "official": "मॉरफोल्क आयलॅंड",
+      "common": "मॉरफोल्क आयलॅंड"
+    },
+    "ms": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "mt": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "mn": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "ne": {
+      "official": "नर फक टापु",
+      "common": "नर फक टापु"
+    },
+    "nn": {
+      "official": "Norfolkøya; Norfolk Island",
+      "common": "Norfolkøya; Norfolk Island"
+    },
+    "nb": {
+      "official": "Norfolkøya",
+      "common": "Norfolkøya"
+    },
+    "oc": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "or": {
+      "official": "ନୋରଫୋକ ଦ୍ବୀପ",
+      "common": "ନୋରଫୋକ ଦ୍ବୀପ"
+    },
+    "pa": {
+      "official": "ਨੋਰਫੋਕ ਟਾਪੂ",
+      "common": "ਨੋਰਫੋਕ ਟਾਪੂ"
+    },
+    "fa": {
+      "official": "جزیرهٔ نورفولک",
+      "common": "جزیرهٔ نورفولک"
+    },
+    "pl": {
+      "official": "Wyspy Norfolk",
+      "common": "Wyspy Norfolk"
+    },
+    "pt": {
+      "official": "Ilha Norfolk",
+      "common": "Ilha Norfolk"
+    },
+    "ps": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "ro": {
+      "official": "Insula Norfolk",
+      "common": "Insula Norfolk"
+    },
+    "ru": {
+      "official": "Остров Норфолк",
+      "common": "Остров Норфолк"
+    },
+    "si": {
+      "official": "නෝෆෝක් දූපත",
+      "common": "නෝෆෝක් දූපත"
+    },
+    "sk": {
+      "official": "Norfolk",
+      "common": "Norfolk"
+    },
+    "sl": {
+      "official": "Norfolški otok",
+      "common": "Norfolški otok"
+    },
+    "so": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "es": {
+      "official": "Isla Norfolk",
+      "common": "Isla Norfolk"
+    },
+    "sr": {
+      "official": "Острво Норфолк",
+      "common": "Острво Норфолк"
+    },
+    "sw": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "sv": {
+      "official": "Norfolköarna",
+      "common": "Norfolköarna"
+    },
+    "ta": {
+      "official": "நொர்ஃபோக் தீவு",
+      "common": "நொர்ஃபோக் தீவு"
+    },
+    "tt": {
+      "official": "Норфолк Утравлары",
+      "common": "Норфолк Утравлары"
+    },
+    "te": {
+      "official": "నార్‌ఫోల్క్ ఐలాండ్",
+      "common": "నార్‌ఫోల్క్ ఐలాండ్"
+    },
+    "tl": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "th": {
+      "official": "เกาะนอร์ฟอล์ก",
+      "common": "เกาะนอร์ฟอล์ก"
+    },
+    "ti": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "tk": {
+      "official": "Norfolk Adalary",
+      "common": "Norfolk Adalary"
+    },
+    "tr": {
+      "official": "Norfolk Adası",
+      "common": "Norfolk Adası"
+    },
+    "ug": {
+      "official": "نورفولك ئارىلى",
+      "common": "نورفولك ئارىلى"
+    },
+    "uk": {
+      "official": "Острів Норфолк",
+      "common": "Острів Норфолк"
+    },
+    "ve": {
+      "official": "Faroe Islands",
+      "common": "Faroe Islands"
+    },
+    "vi": {
+      "official": "Đảo Noa-phọ-khợ",
+      "common": "Đảo Noa-phọ-khợ"
+    },
+    "cy": {
+      "official": "Ynys Norfolk",
+      "common": "Ynys Norfolk"
+    },
+    "wa": {
+      "official": "Iye Norfolk",
+      "common": "Iye Norfolk"
+    },
+    "wo": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "xh": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    },
+    "zu": {
+      "official": "Norfolk Island",
+      "common": "Norfolk Island"
+    }
+  }
+}

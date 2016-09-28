@@ -1,0 +1,437 @@
+{
+  "continent": "Asia",
+  "alpha2": "MV",
+  "alpha3": "MDV",
+  "country_code": "960",
+  "international_prefix": "00",
+  "ioc": "MDV",
+  "gec": "MV",
+  "name": "Maldives",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7
+  ],
+  "national_prefix": "None",
+  "number": "462",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "world_region": "APAC",
+  "un_locode": "MV",
+  "nationality": "Maldivan",
+  "postal_code": true,
+  "unofficial_names": [
+    "Maldives",
+    "Malediven",
+    "Maldivas",
+    "モルディブ",
+    "Maldiven"
+  ],
+  "languages_official": [
+    "dv"
+  ],
+  "languages_spoken": [
+    "dv"
+  ],
+  "geo": {
+    "latitude": 1.9772469,
+    "latitude_dec": "4.185884952545166",
+    "longitude": 73.5361034,
+    "longitude_dec": "73.53071594238281",
+    "max_latitude": 7.1063772,
+    "max_longitude": 73.7596536,
+    "min_latitude": -0.7035847,
+    "min_longitude": 72.63858139999999,
+    "bounds": {
+      "northeast": {
+        "lat": 7.1063772,
+        "lng": 73.7596536
+      },
+      "southwest": {
+        "lat": -0.7035847,
+        "lng": 72.63858139999999
+      }
+    }
+  },
+  "currency_code": "MVR",
+  "postal_address_data": {
+    "key": "MV",
+    "zipex": "20026",
+    "name": "MALDIVES",
+    "zip": "\\d{5}",
+    "fmt": "%N%n%O%n%A%n%C %Z",
+    "posturl": "http://www.maldivespost.com/?lid=10",
+    "id": "data/MV"
+  },
+  "translations": {
+    "af": {
+      "official": "Maledive",
+      "common": "Maledive"
+    },
+    "sq": {
+      "official": "Maldivet",
+      "common": "Maldivet"
+    },
+    "am": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "ar": {
+      "official": "جزر المالديف",
+      "common": "جزر المالديف"
+    },
+    "hy": {
+      "official": "Մալդիվներ",
+      "common": "Մալդիվներ"
+    },
+    "as": {
+      "official": "মালডিভ্‌চ",
+      "common": "মালডিভ্‌চ"
+    },
+    "az": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "eu": {
+      "official": "Maldivak",
+      "common": "Maldivak"
+    },
+    "be": {
+      "official": "Мальдывы",
+      "common": "Мальдывы"
+    },
+    "bn": {
+      "official": "মালডিভস",
+      "common": "মালডিভস"
+    },
+    "bs": {
+      "official": "Maldivi",
+      "common": "Maldivi"
+    },
+    "br": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "bg": {
+      "official": "Малдиви",
+      "common": "Малдиви"
+    },
+    "ca": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "zh": {
+      "official": "马尔代夫",
+      "common": "马尔代夫"
+    },
+    "cs": {
+      "official": "Maledivy",
+      "common": "Maledivy"
+    },
+    "da": {
+      "official": "Maldiverne",
+      "common": "Maldiverne"
+    },
+    "nl": {
+      "official": "Maldiven",
+      "common": "Maldiven"
+    },
+    "dz": {
+      "official": "མེལ་ཌིབསི།",
+      "common": "མེལ་ཌིབསི།"
+    },
+    "en": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "eo": {
+      "official": "Maldivoj",
+      "common": "Maldivoj"
+    },
+    "et": {
+      "official": "Maldiivid",
+      "common": "Maldiivid"
+    },
+    "fo": {
+      "official": "Maldivuoyggjarnar",
+      "common": "Maldivuoyggjarnar"
+    },
+    "fi": {
+      "official": "Malediivit",
+      "common": "Malediivit"
+    },
+    "fr": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "ka": {
+      "official": "მალდივის კუნძულები",
+      "common": "მალდივის კუნძულები"
+    },
+    "de": {
+      "official": "Malediven",
+      "common": "Malediven"
+    },
+    "ga": {
+      "official": "Oileáin Mhaildíve",
+      "common": "Oileáin Mhaildíve"
+    },
+    "gl": {
+      "official": "Maldivas",
+      "common": "Maldivas"
+    },
+    "el": {
+      "official": "Μαλδίβες",
+      "common": "Μαλδίβες"
+    },
+    "gu": {
+      "official": "માલ્દીવ્સ",
+      "common": "માલ્દીવ્સ"
+    },
+    "he": {
+      "official": "מלדיב",
+      "common": "מלדיב"
+    },
+    "hi": {
+      "official": "मालदीव",
+      "common": "मालदीव"
+    },
+    "hr": {
+      "official": "Maldivi",
+      "common": "Maldivi"
+    },
+    "hu": {
+      "official": "Maldív-szigetek",
+      "common": "Maldív-szigetek"
+    },
+    "is": {
+      "official": "Maldíveyjar",
+      "common": "Maldíveyjar"
+    },
+    "ia": {
+      "official": "Maldivas",
+      "common": "Maldivas"
+    },
+    "id": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "it": {
+      "official": "Maldive",
+      "common": "Maldive"
+    },
+    "ja": {
+      "official": "モルディブ",
+      "common": "モルディブ"
+    },
+    "kn": {
+      "official": "ಮಾಲ್ಡೀವ್ಸ್",
+      "common": "ಮಾಲ್ಡೀವ್ಸ್"
+    },
+    "kk": {
+      "official": "Мальдив аралдары",
+      "common": "Мальдив аралдары"
+    },
+    "km": {
+      "official": "ម៉ាល់ឌីវ",
+      "common": "ម៉ាល់ឌីវ"
+    },
+    "rw": {
+      "official": "Malidivezi",
+      "common": "Malidivezi"
+    },
+    "ko": {
+      "official": "몰디브",
+      "common": "몰디브"
+    },
+    "ku": {
+      "official": "Giravên Maldiv",
+      "common": "Giravên Maldiv"
+    },
+    "lv": {
+      "official": "Maldīvija",
+      "common": "Maldīvija"
+    },
+    "lt": {
+      "official": "Maldyvai",
+      "common": "Maldyvai"
+    },
+    "mk": {
+      "official": "Малдиви",
+      "common": "Малдиви"
+    },
+    "ml": {
+      "official": "മാല്‍ഡീവ്സ്",
+      "common": "മാല്‍ഡീവ്സ്"
+    },
+    "mi": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "mr": {
+      "official": "मालदिव्हज्",
+      "common": "मालदिव्हज्"
+    },
+    "ms": {
+      "official": "Maldiv",
+      "common": "Maldiv"
+    },
+    "mt": {
+      "official": "Malta",
+      "common": "Malta"
+    },
+    "mn": {
+      "official": "Малдивс",
+      "common": "Малдивс"
+    },
+    "ne": {
+      "official": "मालदिव्स",
+      "common": "मालदिव्स"
+    },
+    "nn": {
+      "official": "Maldivane",
+      "common": "Maldivane"
+    },
+    "nb": {
+      "official": "Maldivene",
+      "common": "Maldivene"
+    },
+    "oc": {
+      "official": "Maldivas",
+      "common": "Maldivas"
+    },
+    "or": {
+      "official": "ମାଲଦୀଭ",
+      "common": "ମାଲଦୀଭ"
+    },
+    "pa": {
+      "official": "ਮਾਲਦੀਵ",
+      "common": "ਮਾਲਦੀਵ"
+    },
+    "fa": {
+      "official": "مالدیو",
+      "common": "مالدیو"
+    },
+    "pl": {
+      "official": "Malediwy",
+      "common": "Malediwy"
+    },
+    "pt": {
+      "official": "Maldivas",
+      "common": "Maldivas"
+    },
+    "ps": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "ro": {
+      "official": "Maldive",
+      "common": "Maldive"
+    },
+    "ru": {
+      "official": "Мальдивы",
+      "common": "Мальдивы"
+    },
+    "si": {
+      "official": "මාල දිවයින",
+      "common": "මාල දිවයින"
+    },
+    "sk": {
+      "official": "Maldivy",
+      "common": "Maldivy"
+    },
+    "sl": {
+      "official": "Maldivi",
+      "common": "Maldivi"
+    },
+    "so": {
+      "official": "Maaldiqeen",
+      "common": "Maaldiqeen"
+    },
+    "es": {
+      "official": "Islas Maldivas",
+      "common": "Islas Maldivas"
+    },
+    "sr": {
+      "official": "Малдиви",
+      "common": "Малдиви"
+    },
+    "sw": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "sv": {
+      "official": "Maldiverna",
+      "common": "Maldiverna"
+    },
+    "ta": {
+      "official": "மாலதீவுகள்",
+      "common": "மாலதீவுகள்"
+    },
+    "tt": {
+      "official": "Малдивлар",
+      "common": "Малдивлар"
+    },
+    "te": {
+      "official": "మాల్దీవ్స్",
+      "common": "మాల్దీవ్స్"
+    },
+    "tl": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "th": {
+      "official": "มัลดีฟส์",
+      "common": "มัลดีฟส์"
+    },
+    "ti": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "tk": {
+      "official": "Maldiwa",
+      "common": "Maldiwa"
+    },
+    "tr": {
+      "official": "Maldivler",
+      "common": "Maldivler"
+    },
+    "ug": {
+      "official": "مالدىۋې",
+      "common": "مالدىۋې"
+    },
+    "uk": {
+      "official": "Мальдіви",
+      "common": "Мальдіви"
+    },
+    "ve": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "vi": {
+      "official": "Mal-đi-vợx",
+      "common": "Mal-đi-vợx"
+    },
+    "cy": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "wa": {
+      "official": "Maldives",
+      "common": "Maldives"
+    },
+    "wo": {
+      "official": "Maldiif",
+      "common": "Maldiif"
+    },
+    "xh": {
+      "official": "Malta",
+      "common": "Malta"
+    },
+    "zu": {
+      "official": "I-Malta",
+      "common": "I-Malta"
+    }
+  }
+}

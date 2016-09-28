@@ -1,0 +1,436 @@
+{
+  "continent": "Europe",
+  "alpha2": "MC",
+  "alpha3": "MCO",
+  "country_code": "377",
+  "international_prefix": "00",
+  "ioc": "MON",
+  "gec": "MN",
+  "name": "Monaco",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8,
+    9
+  ],
+  "national_prefix": "0",
+  "number": "492",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "world_region": "EMEA",
+  "un_locode": "MC",
+  "nationality": "Monegasque",
+  "postal_code": true,
+  "unofficial_names": [
+    "Monaco",
+    "Mónaco",
+    "モナコ"
+  ],
+  "languages_official": [
+    "fr"
+  ],
+  "languages_spoken": [
+    "fr"
+  ],
+  "geo": {
+    "latitude": 43.73841760000001,
+    "latitude_dec": "43.738929748535156",
+    "longitude": 7.424615799999999,
+    "longitude_dec": "7.425483226776123",
+    "max_latitude": 43.7519029,
+    "max_longitude": 7.4398113,
+    "min_latitude": 43.7247428,
+    "min_longitude": 7.4091049,
+    "bounds": {
+      "northeast": {
+        "lat": 43.7519029,
+        "lng": 7.4398113
+      },
+      "southwest": {
+        "lat": 43.7247428,
+        "lng": 7.4091049
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "postprefix": "MC-",
+    "zipex": "98000,98020,98011,98001",
+    "name": "MONACO",
+    "zip": "980\\d{2}",
+    "fmt": "%N%n%O%n%A%nMC-%Z %C %X",
+    "key": "MC",
+    "id": "data/MC"
+  },
+  "translations": {
+    "af": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "sq": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "am": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "ar": {
+      "official": "موناكو",
+      "common": "موناكو"
+    },
+    "hy": {
+      "official": "Մոնակո",
+      "common": "Մոնակո"
+    },
+    "as": {
+      "official": "মোনাকো",
+      "common": "মোনাকো"
+    },
+    "az": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "eu": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "be": {
+      "official": "Манака",
+      "common": "Манака"
+    },
+    "bn": {
+      "official": "মোনাকো",
+      "common": "মোনাকো"
+    },
+    "bs": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "br": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "bg": {
+      "official": "Монако",
+      "common": "Монако"
+    },
+    "ca": {
+      "official": "Mònaco",
+      "common": "Mònaco"
+    },
+    "zh": {
+      "official": "摩纳哥",
+      "common": "摩纳哥"
+    },
+    "cs": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "da": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "nl": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "dz": {
+      "official": "མོ་ན་ཀོ",
+      "common": "མོ་ན་ཀོ"
+    },
+    "en": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "eo": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "et": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "fo": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "fi": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "fr": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "ka": {
+      "official": "მონაკო",
+      "common": "მონაკო"
+    },
+    "de": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "ga": {
+      "official": "Monacó",
+      "common": "Monacó"
+    },
+    "gl": {
+      "official": "Mónaco",
+      "common": "Mónaco"
+    },
+    "el": {
+      "official": "Μονακό",
+      "common": "Μονακό"
+    },
+    "gu": {
+      "official": "મોનેકો",
+      "common": "મોનેકો"
+    },
+    "he": {
+      "official": "מונקו",
+      "common": "מונקו"
+    },
+    "hi": {
+      "official": "मोनाको",
+      "common": "मोनाको"
+    },
+    "hr": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "hu": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "is": {
+      "official": "Mónakó",
+      "common": "Mónakó"
+    },
+    "ia": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "id": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "it": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "ja": {
+      "official": "モナコ",
+      "common": "モナコ"
+    },
+    "kn": {
+      "official": "ಮೊನಾಕೋ",
+      "common": "ಮೊನಾಕೋ"
+    },
+    "kk": {
+      "official": "Монако",
+      "common": "Монако"
+    },
+    "km": {
+      "official": "ម៉ូណាកូ",
+      "common": "ម៉ូណាកូ"
+    },
+    "rw": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "ko": {
+      "official": "모나코",
+      "common": "모나코"
+    },
+    "ku": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "lv": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "lt": {
+      "official": "Monakas",
+      "common": "Monakas"
+    },
+    "mk": {
+      "official": "Монако",
+      "common": "Монако"
+    },
+    "ml": {
+      "official": "മൊണാക്കോ",
+      "common": "മൊണാക്കോ"
+    },
+    "mi": {
+      "official": "Manako",
+      "common": "Manako"
+    },
+    "mr": {
+      "official": "मोनॅको",
+      "common": "मोनॅको"
+    },
+    "ms": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "mt": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "mn": {
+      "official": "Монако",
+      "common": "Монако"
+    },
+    "ne": {
+      "official": "मोनाको",
+      "common": "मोनाको"
+    },
+    "nn": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "nb": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "oc": {
+      "official": "Monegue",
+      "common": "Monegue"
+    },
+    "or": {
+      "official": "ମୋନାକୋ",
+      "common": "ମୋନାକୋ"
+    },
+    "pa": {
+      "official": "ਮੋਨਕੋ",
+      "common": "ਮੋਨਕੋ"
+    },
+    "fa": {
+      "official": "موناکو",
+      "common": "موناکو"
+    },
+    "pl": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "pt": {
+      "official": "Mónaco",
+      "common": "Mónaco"
+    },
+    "ps": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "ro": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "ru": {
+      "official": "Монако",
+      "common": "Монако"
+    },
+    "si": {
+      "official": "මොනාකෝ",
+      "common": "මොනාකෝ"
+    },
+    "sk": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "sl": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "so": {
+      "official": "Moonako",
+      "common": "Moonako"
+    },
+    "es": {
+      "official": "Mónaco",
+      "common": "Mónaco"
+    },
+    "sr": {
+      "official": "Монако",
+      "common": "Монако"
+    },
+    "sw": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "sv": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "ta": {
+      "official": "மொனாக்கோ",
+      "common": "மொனாக்கோ"
+    },
+    "tt": {
+      "official": "Манако",
+      "common": "Манако"
+    },
+    "te": {
+      "official": "మోనాకో",
+      "common": "మోనాకో"
+    },
+    "tl": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "th": {
+      "official": "โมนาโก",
+      "common": "โมนาโก"
+    },
+    "ti": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "tk": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "tr": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "ug": {
+      "official": "موناكو",
+      "common": "موناكو"
+    },
+    "uk": {
+      "official": "Монако",
+      "common": "Монако"
+    },
+    "ve": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "vi": {
+      "official": "Mo-na-cô",
+      "common": "Mo-na-cô"
+    },
+    "cy": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "wa": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "wo": {
+      "official": "Monaako",
+      "common": "Monaako"
+    },
+    "xh": {
+      "official": "Monaco",
+      "common": "Monaco"
+    },
+    "zu": {
+      "official": "Monaco",
+      "common": "Monaco"
+    }
+  }
+}

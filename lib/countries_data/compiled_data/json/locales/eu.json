@@ -1,0 +1,1000 @@
+{
+  "names": {
+    "AF": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "AX": {
+      "official": "Åland uharteak",
+      "common": "Åland uharteak"
+    },
+    "AL": {
+      "official": "Albania",
+      "common": "Albania"
+    },
+    "DZ": {
+      "official": "Aljeria",
+      "common": "Aljeria"
+    },
+    "AS": {
+      "official": "Samoa amerikarra",
+      "common": "Samoa amerikarra"
+    },
+    "AD": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "AO": {
+      "official": "Angola",
+      "common": "Angola"
+    },
+    "AI": {
+      "official": "Anguilla",
+      "common": "Anguilla"
+    },
+    "AQ": {
+      "official": "Antartika",
+      "common": "Antartika"
+    },
+    "AG": {
+      "official": "Antigua eta Barbuda",
+      "common": "Antigua eta Barbuda"
+    },
+    "AR": {
+      "official": "Argentina",
+      "common": "Argentina"
+    },
+    "AM": {
+      "official": "Armenia",
+      "common": "Armenia"
+    },
+    "AW": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "AU": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "AT": {
+      "official": "Austria",
+      "common": "Austria"
+    },
+    "AZ": {
+      "official": "Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "BS": {
+      "official": "Bahamak",
+      "common": "Bahamak"
+    },
+    "BH": {
+      "official": "Bahrain",
+      "common": "Bahrain"
+    },
+    "BD": {
+      "official": "Bangladesh",
+      "common": "Bangladesh"
+    },
+    "BB": {
+      "official": "Barbados",
+      "common": "Barbados"
+    },
+    "BY": {
+      "official": "Bielorrusia",
+      "common": "Bielorrusia"
+    },
+    "BE": {
+      "official": "Belgika",
+      "common": "Belgika"
+    },
+    "BZ": {
+      "official": "Belize",
+      "common": "Belize"
+    },
+    "BJ": {
+      "official": "Benin",
+      "common": "Benin"
+    },
+    "BM": {
+      "official": "Bermuda",
+      "common": "Bermuda"
+    },
+    "BT": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "BO": {
+      "official": "Bolivia, Nazio-anitzeko Estatua",
+      "common": "Bolivia, Nazio-anitzeko Estatua"
+    },
+    "BQ": {
+      "official": "Bonaire, Sint Eustatius eta Saba",
+      "common": "Bonaire, Sint Eustatius eta Saba"
+    },
+    "BA": {
+      "official": "Bosnia eta Herzegovina",
+      "common": "Bosnia eta Herzegovina"
+    },
+    "BW": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "BV": {
+      "official": "Bouvet uhartea",
+      "common": "Bouvet uhartea"
+    },
+    "BR": {
+      "official": "Brasil",
+      "common": "Brasil"
+    },
+    "IO": {
+      "official": "Indiar Ozeanoko Lurralde Britainiarra",
+      "common": "Indiar Ozeanoko Lurralde Britainiarra"
+    },
+    "BN": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "BG": {
+      "official": "Bulgaria",
+      "common": "Bulgaria"
+    },
+    "BF": {
+      "official": "Burkina Faso",
+      "common": "Burkina Faso"
+    },
+    "BI": {
+      "official": "Burundi",
+      "common": "Burundi"
+    },
+    "KH": {
+      "official": "Kanbodia",
+      "common": "Kanbodia"
+    },
+    "CM": {
+      "official": "Kamerun",
+      "common": "Kamerun"
+    },
+    "CA": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "CV": {
+      "official": "Cabo Verde",
+      "common": "Cabo Verde"
+    },
+    "KY": {
+      "official": "Kaiman uharteak",
+      "common": "Kaiman uharteak"
+    },
+    "CF": {
+      "official": "Afrika Erdiko Errepublika",
+      "common": "Afrika Erdiko Errepublika"
+    },
+    "TD": {
+      "official": "Txad",
+      "common": "Txad"
+    },
+    "CL": {
+      "official": "Txile",
+      "common": "Txile"
+    },
+    "CN": {
+      "official": "Txina",
+      "common": "Txina"
+    },
+    "CX": {
+      "official": "Christmas uhartea",
+      "common": "Christmas uhartea"
+    },
+    "CC": {
+      "official": "Cocos (Keeling) uharteak",
+      "common": "Cocos (Keeling) uharteak"
+    },
+    "CO": {
+      "official": "Kolonbia",
+      "common": "Kolonbia"
+    },
+    "KM": {
+      "official": "Komoreak",
+      "common": "Komoreak"
+    },
+    "CG": {
+      "official": "Kongo",
+      "common": "Kongo"
+    },
+    "CD": {
+      "official": "Kongoko Herri Errepublika Demokratikoa",
+      "common": "Kongoko Herri Errepublika Demokratikoa"
+    },
+    "CK": {
+      "official": "Cook uharteak",
+      "common": "Cook uharteak"
+    },
+    "CR": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "CI": {
+      "official": "Boli Kosta",
+      "common": "Boli Kosta"
+    },
+    "HR": {
+      "official": "Kroazia",
+      "common": "Kroazia"
+    },
+    "CU": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "CW": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "CY": {
+      "official": "Zipre",
+      "common": "Zipre"
+    },
+    "CZ": {
+      "official": "Txekiar Errepublika",
+      "common": "Txekiar Errepublika"
+    },
+    "DK": {
+      "official": "Danimarka",
+      "common": "Danimarka"
+    },
+    "DJ": {
+      "official": "Djibuti",
+      "common": "Djibuti"
+    },
+    "DM": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "DO": {
+      "official": "Dominikar Errepublika",
+      "common": "Dominikar Errepublika"
+    },
+    "EC": {
+      "official": "Ekuador",
+      "common": "Ekuador"
+    },
+    "EG": {
+      "official": "Egipto",
+      "common": "Egipto"
+    },
+    "SV": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "GQ": {
+      "official": "Ekuatore Ginea",
+      "common": "Ekuatore Ginea"
+    },
+    "ER": {
+      "official": "Eritrea",
+      "common": "Eritrea"
+    },
+    "EE": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "ET": {
+      "official": "Etiopia",
+      "common": "Etiopia"
+    },
+    "FK": {
+      "official": "Falkland uharteak (Malvina uharteak)",
+      "common": "Falkland uharteak (Malvina uharteak)"
+    },
+    "FO": {
+      "official": "Faroe uharteak",
+      "common": "Faroe uharteak"
+    },
+    "FJ": {
+      "official": "Fiji",
+      "common": "Fiji"
+    },
+    "FI": {
+      "official": "Finlandia",
+      "common": "Finlandia"
+    },
+    "FR": {
+      "official": "Frantzia",
+      "common": "Frantzia"
+    },
+    "GF": {
+      "official": "Guyana Frantsesa",
+      "common": "Guyana Frantsesa"
+    },
+    "PF": {
+      "official": "Frantziar Polinesia",
+      "common": "Frantziar Polinesia"
+    },
+    "TF": {
+      "official": "Hegoaldeko Lurralde Frantsesak",
+      "common": "Hegoaldeko Lurralde Frantsesak"
+    },
+    "GA": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "GM": {
+      "official": "Gambia",
+      "common": "Gambia"
+    },
+    "GE": {
+      "official": "Georgia",
+      "common": "Georgia"
+    },
+    "DE": {
+      "official": "Alemania",
+      "common": "Alemania"
+    },
+    "GH": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "GI": {
+      "official": "Gibraltar",
+      "common": "Gibraltar"
+    },
+    "GR": {
+      "official": "Grezia",
+      "common": "Grezia"
+    },
+    "GL": {
+      "official": "Groenlandia",
+      "common": "Groenlandia"
+    },
+    "GD": {
+      "official": "Grenada",
+      "common": "Grenada"
+    },
+    "GP": {
+      "official": "Guadalupe",
+      "common": "Guadalupe"
+    },
+    "GU": {
+      "official": "Guam",
+      "common": "Guam"
+    },
+    "GT": {
+      "official": "Guatemala",
+      "common": "Guatemala"
+    },
+    "GG": {
+      "official": "Guernsey",
+      "common": "Guernsey"
+    },
+    "GN": {
+      "official": "Ginea",
+      "common": "Ginea"
+    },
+    "GW": {
+      "official": "Ginea Bissau",
+      "common": "Ginea Bissau"
+    },
+    "GY": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "HT": {
+      "official": "Haiti",
+      "common": "Haiti"
+    },
+    "HM": {
+      "official": "Heard eta McDonald uharteak",
+      "common": "Heard eta McDonald uharteak"
+    },
+    "VA": {
+      "official": "Egoitza Santua (Vatikano Hiria)",
+      "common": "Egoitza Santua (Vatikano Hiria)"
+    },
+    "HN": {
+      "official": "Honduras",
+      "common": "Honduras"
+    },
+    "HK": {
+      "official": "Hong Kong",
+      "common": "Hong Kong"
+    },
+    "HU": {
+      "official": "Hungaria",
+      "common": "Hungaria"
+    },
+    "IS": {
+      "official": "Islandia",
+      "common": "Islandia"
+    },
+    "IN": {
+      "official": "India",
+      "common": "India"
+    },
+    "ID": {
+      "official": "Indonesia",
+      "common": "Indonesia"
+    },
+    "IR": {
+      "official": "Iran, Islamiar Errepublika",
+      "common": "Iran, Islamiar Errepublika"
+    },
+    "IQ": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "IE": {
+      "official": "Irlanda",
+      "common": "Irlanda"
+    },
+    "IM": {
+      "official": "Man uhartea",
+      "common": "Man uhartea"
+    },
+    "IL": {
+      "official": "Israel",
+      "common": "Israel"
+    },
+    "IT": {
+      "official": "Italia",
+      "common": "Italia"
+    },
+    "JM": {
+      "official": "Jamaika",
+      "common": "Jamaika"
+    },
+    "JP": {
+      "official": "Japonia",
+      "common": "Japonia"
+    },
+    "JE": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "JO": {
+      "official": "Jordania",
+      "common": "Jordania"
+    },
+    "KZ": {
+      "official": "Kazakhstan",
+      "common": "Kazakhstan"
+    },
+    "KE": {
+      "official": "Kenya",
+      "common": "Kenya"
+    },
+    "KI": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "KP": {
+      "official": "Korea, Herri Errepublika Demokratikoa",
+      "common": "Korea, Herri Errepublika Demokratikoa"
+    },
+    "KR": {
+      "official": "Korea, Errepublika",
+      "common": "Korea, Errepublika"
+    },
+    "KW": {
+      "official": "Kuwait",
+      "common": "Kuwait"
+    },
+    "KG": {
+      "official": "Kirgizistan",
+      "common": "Kirgizistan"
+    },
+    "LA": {
+      "official": "Laoseko Herri Errepublika Demokratikoa",
+      "common": "Laoseko Herri Errepublika Demokratikoa"
+    },
+    "LV": {
+      "official": "Letonia",
+      "common": "Letonia"
+    },
+    "LB": {
+      "official": "Libano",
+      "common": "Libano"
+    },
+    "LS": {
+      "official": "Lesotho",
+      "common": "Lesotho"
+    },
+    "LR": {
+      "official": "Liberia",
+      "common": "Liberia"
+    },
+    "LY": {
+      "official": "Libia",
+      "common": "Libia"
+    },
+    "LI": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "LT": {
+      "official": "Lituania",
+      "common": "Lituania"
+    },
+    "LU": {
+      "official": "Luxenburgo",
+      "common": "Luxenburgo"
+    },
+    "MO": {
+      "official": "Macau",
+      "common": "Macau"
+    },
+    "MK": {
+      "official": "Mazedonia, Errepublika",
+      "common": "Mazedonia, Errepublika"
+    },
+    "MG": {
+      "official": "Madagaskar",
+      "common": "Madagaskar"
+    },
+    "MW": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "MY": {
+      "official": "Malasia",
+      "common": "Malasia"
+    },
+    "MV": {
+      "official": "Maldivak",
+      "common": "Maldivak"
+    },
+    "ML": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "MT": {
+      "official": "Malta",
+      "common": "Malta"
+    },
+    "MH": {
+      "official": "Marshall uharteak",
+      "common": "Marshall uharteak"
+    },
+    "MQ": {
+      "official": "Martinika",
+      "common": "Martinika"
+    },
+    "MR": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "MU": {
+      "official": "Maurizio",
+      "common": "Maurizio"
+    },
+    "YT": {
+      "official": "Mayotte",
+      "common": "Mayotte"
+    },
+    "MX": {
+      "official": "Mexiko",
+      "common": "Mexiko"
+    },
+    "FM": {
+      "official": "Mikronesia, Estatu Federatuak",
+      "common": "Mikronesia, Estatu Federatuak"
+    },
+    "MD": {
+      "official": "Moldavia, Errepublika",
+      "common": "Moldavia, Errepublika"
+    },
+    "MC": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "MN": {
+      "official": "Mongolia",
+      "common": "Mongolia"
+    },
+    "ME": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "MS": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "MA": {
+      "official": "Maroko",
+      "common": "Maroko"
+    },
+    "MZ": {
+      "official": "Mozanbike",
+      "common": "Mozanbike"
+    },
+    "MM": {
+      "official": "Myanmar",
+      "common": "Myanmar"
+    },
+    "NA": {
+      "official": "Namibia",
+      "common": "Namibia"
+    },
+    "NR": {
+      "official": "Nauru",
+      "common": "Nauru"
+    },
+    "NP": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "NL": {
+      "official": "Herbehereak",
+      "common": "Herbehereak"
+    },
+    "NC": {
+      "official": "Kaledonia Berria",
+      "common": "Kaledonia Berria"
+    },
+    "NZ": {
+      "official": "Zeelanda Berria",
+      "common": "Zeelanda Berria"
+    },
+    "NI": {
+      "official": "Nikaragua",
+      "common": "Nikaragua"
+    },
+    "NE": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "NG": {
+      "official": "Nigeria",
+      "common": "Nigeria"
+    },
+    "NU": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "NF": {
+      "official": "Norfolk uhartea",
+      "common": "Norfolk uhartea"
+    },
+    "MP": {
+      "official": "Iparraldeko Mariana Uharteak",
+      "common": "Iparraldeko Mariana Uharteak"
+    },
+    "NO": {
+      "official": "Norvegia",
+      "common": "Norvegia"
+    },
+    "OM": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "PK": {
+      "official": "Pakistan",
+      "common": "Pakistan"
+    },
+    "PW": {
+      "official": "Palau",
+      "common": "Palau"
+    },
+    "PS": {
+      "official": "Palestinako Estatua",
+      "common": "Palestinako Estatua"
+    },
+    "PA": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "PG": {
+      "official": "Papua Ginea Berria",
+      "common": "Papua Ginea Berria"
+    },
+    "PY": {
+      "official": "Paraguai",
+      "common": "Paraguai"
+    },
+    "PE": {
+      "official": "Peru",
+      "common": "Peru"
+    },
+    "PH": {
+      "official": "Filipinak",
+      "common": "Filipinak"
+    },
+    "PN": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "PL": {
+      "official": "Polonia",
+      "common": "Polonia"
+    },
+    "PT": {
+      "official": "Portugal",
+      "common": "Portugal"
+    },
+    "PR": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "QA": {
+      "official": "Qatar",
+      "common": "Qatar"
+    },
+    "RE": {
+      "official": "Réunion",
+      "common": "Réunion"
+    },
+    "RO": {
+      "official": "Errumania",
+      "common": "Errumania"
+    },
+    "RU": {
+      "official": "Errusiar Federakundea",
+      "common": "Errusiar Federakundea"
+    },
+    "RW": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "BL": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "SH": {
+      "official": "Santa Helena, Ascension eta Tristan da Cunha",
+      "common": "Santa Helena, Ascension eta Tristan da Cunha"
+    },
+    "KN": {
+      "official": "Saint Kitts eta Nevis",
+      "common": "Saint Kitts eta Nevis"
+    },
+    "LC": {
+      "official": "Santa Luzia",
+      "common": "Santa Luzia"
+    },
+    "MF": {
+      "official": "Saint Martin (Frantziar zatia)",
+      "common": "Saint Martin (Frantziar zatia)"
+    },
+    "PM": {
+      "official": "Saint Pierre eta Miquelon",
+      "common": "Saint Pierre eta Miquelon"
+    },
+    "VC": {
+      "official": "Saint Vincent eta Grenadinak",
+      "common": "Saint Vincent eta Grenadinak"
+    },
+    "WS": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "SM": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "ST": {
+      "official": "Sao Tome eta Principe",
+      "common": "Sao Tome eta Principe"
+    },
+    "SA": {
+      "official": "Saudi Arabia",
+      "common": "Saudi Arabia"
+    },
+    "SN": {
+      "official": "Senegal",
+      "common": "Senegal"
+    },
+    "RS": {
+      "official": "Serbia",
+      "common": "Serbia"
+    },
+    "SC": {
+      "official": "Seychelleak",
+      "common": "Seychelleak"
+    },
+    "SL": {
+      "official": "Sierra Leona",
+      "common": "Sierra Leona"
+    },
+    "SG": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "SX": {
+      "official": "Saint Martin (Holandar zatia)",
+      "common": "Saint Martin (Holandar zatia)"
+    },
+    "SK": {
+      "official": "Eslovakia",
+      "common": "Eslovakia"
+    },
+    "SI": {
+      "official": "Eslovenia",
+      "common": "Eslovenia"
+    },
+    "SB": {
+      "official": "Salomon uharteak",
+      "common": "Salomon uharteak"
+    },
+    "SO": {
+      "official": "Somalia",
+      "common": "Somalia"
+    },
+    "ZA": {
+      "official": "Hegoafrika",
+      "common": "Hegoafrika"
+    },
+    "GS": {
+      "official": "Hegoaldeko Georgia eta Hegoaldeko Sandwich uharteak",
+      "common": "Hegoaldeko Georgia eta Hegoaldeko Sandwich uharteak"
+    },
+    "ES": {
+      "official": "Espainia",
+      "common": "Espainia"
+    },
+    "LK": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "SD": {
+      "official": "Sudan",
+      "common": "Sudan"
+    },
+    "SR": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "SS": {
+      "official": "Hegoaldeko Sudan",
+      "common": "Hegoaldeko Sudan"
+    },
+    "SJ": {
+      "official": "Svalbard eta Jan Mayen",
+      "common": "Svalbard eta Jan Mayen"
+    },
+    "SZ": {
+      "official": "Swazilandia",
+      "common": "Swazilandia"
+    },
+    "SE": {
+      "official": "Suedia",
+      "common": "Suedia"
+    },
+    "CH": {
+      "official": "Suitza",
+      "common": "Suitza"
+    },
+    "SY": {
+      "official": "Siriako Arabiar Errepublika",
+      "common": "Siriako Arabiar Errepublika"
+    },
+    "TW": {
+      "official": "Taiwan",
+      "common": "Taiwan"
+    },
+    "TJ": {
+      "official": "Tajikistan",
+      "common": "Tajikistan"
+    },
+    "TZ": {
+      "official": "Tanzania, Errepublika Batua",
+      "common": "Tanzania, Errepublika Batua"
+    },
+    "TH": {
+      "official": "Tailandia",
+      "common": "Tailandia"
+    },
+    "TL": {
+      "official": "Ekialdeko Timor",
+      "common": "Ekialdeko Timor"
+    },
+    "TG": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "TK": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "TO": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "TT": {
+      "official": "Trinidad eta Tobago",
+      "common": "Trinidad eta Tobago"
+    },
+    "TN": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "TR": {
+      "official": "Turkia",
+      "common": "Turkia"
+    },
+    "TM": {
+      "official": "Turkmenistan",
+      "common": "Turkmenistan"
+    },
+    "TC": {
+      "official": "Turk eta Caicos uharteak",
+      "common": "Turk eta Caicos uharteak"
+    },
+    "TV": {
+      "official": "Tuvalu",
+      "common": "Tuvalu"
+    },
+    "UG": {
+      "official": "Uganda",
+      "common": "Uganda"
+    },
+    "UA": {
+      "official": "Ukrania",
+      "common": "Ukrania"
+    },
+    "AE": {
+      "official": "Arabiar Emirerri Batuak",
+      "common": "Arabiar Emirerri Batuak"
+    },
+    "GB": {
+      "official": "Erresuma Batua",
+      "common": "Erresuma Batua"
+    },
+    "US": {
+      "official": "Estatu Batuak",
+      "common": "Estatu Batuak"
+    },
+    "UM": {
+      "official": "Ameriketako Estatu Batuetako itsasoz haraindiko uharteak",
+      "common": "Ameriketako Estatu Batuetako itsasoz haraindiko uharteak"
+    },
+    "UY": {
+      "official": "Uruguai",
+      "common": "Uruguai"
+    },
+    "UZ": {
+      "official": "Uzbekistan",
+      "common": "Uzbekistan"
+    },
+    "VU": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "VE": {
+      "official": "Venezuela, Bolibartar Errepublika",
+      "common": "Venezuela, Bolibartar Errepublika"
+    },
+    "VN": {
+      "official": "Vietnam",
+      "common": "Vietnam"
+    },
+    "VG": {
+      "official": "Birjina uharteak, Britainiarrak",
+      "common": "Birjina uharteak, Britainiarrak"
+    },
+    "VI": {
+      "official": "Birjina uharteak, A.E.B.",
+      "common": "Birjina uharteak, A.E.B."
+    },
+    "WF": {
+      "official": "Wallis eta Futuna",
+      "common": "Wallis eta Futuna"
+    },
+    "EH": {
+      "official": "Mendebaldeko Sahara",
+      "common": "Mendebaldeko Sahara"
+    },
+    "YE": {
+      "official": "Yemen",
+      "common": "Yemen"
+    },
+    "ZM": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "ZW": {
+      "official": "Zimbabwe",
+      "common": "Zimbabwe"
+    }
+  }
+}

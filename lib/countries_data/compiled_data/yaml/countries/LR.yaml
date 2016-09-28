@@ -1,0 +1,331 @@
+---
+continent: Africa
+alpha2: LR
+alpha3: LBR
+country_code: '231'
+international_prefix: '00'
+ioc: LBR
+gec: LI
+name: Liberia
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 6
+- 7
+- 8
+national_prefix: '22'
+number: '430'
+region: Africa
+subregion: Western Africa
+world_region: EMEA
+un_locode: LR
+nationality: Liberian
+postal_code: true
+unofficial_names:
+- Liberia
+- リベリア
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: 6.428055
+  latitude_dec: '6.411512851715088'
+  longitude: -9.429499000000002
+  longitude_dec: "-9.323492050170898"
+  max_latitude: 8.551986
+  max_longitude: -7.369255000000001
+  min_latitude: 4.3154139
+  min_longitude: -11.4755999
+  bounds:
+    northeast:
+      lat: 8.551986
+      lng: -7.369255000000001
+    southwest:
+      lat: 4.3154139
+      lng: -11.4755999
+currency_code: LRD
+postal_address_data:
+  zipex: '1000'
+  name: LIBERIA
+  zip: "\\d{4}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  key: LR
+  id: data/LR
+translations:
+  af:
+    official: Liberië
+    common: Liberië
+  sq:
+    official: Liberia
+    common: Liberia
+  am:
+    official: Liberia
+    common: Liberia
+  ar:
+    official: ليبيريا
+    common: ليبيريا
+  hy:
+    official: Լիբերիա
+    common: Լիբերիա
+  as:
+    official: লাইবেৰিয়া
+    common: লাইবেৰিয়া
+  az:
+    official: Liberiya
+    common: Liberiya
+  eu:
+    official: Liberia
+    common: Liberia
+  be:
+    official: Ліберыя
+    common: Ліберыя
+  bn:
+    official: লাইবেরিয়া
+    common: লাইবেরিয়া
+  bs:
+    official: Liberija
+    common: Liberija
+  br:
+    official: Liberia
+    common: Liberia
+  bg:
+    official: Либерия
+    common: Либерия
+  ca:
+    official: Libèria
+    common: Libèria
+  zh:
+    official: 利比里亚
+    common: 利比里亚
+  cs:
+    official: Libérie
+    common: Libérie
+  da:
+    official: Liberia
+    common: Liberia
+  nl:
+    official: Liberia
+    common: Liberia
+  dz:
+    official: ལི་བི་རི་ཡ།
+    common: ལི་བི་རི་ཡ།
+  en:
+    official: Liberia
+    common: Liberia
+  eo:
+    official: Liberio
+    common: Liberio
+  et:
+    official: Libeeria
+    common: Libeeria
+  fo:
+    official: Liberia
+    common: Liberia
+  fi:
+    official: Liberia
+    common: Liberia
+  fr:
+    official: Libéria
+    common: Libéria
+  ka:
+    official: ლიბერია
+    common: ლიბერია
+  de:
+    official: Liberia
+    common: Liberia
+  ga:
+    official: An Libéir
+    common: An Libéir
+  gl:
+    official: Liberia
+    common: Liberia
+  el:
+    official: Λιβερία
+    common: Λιβερία
+  gu:
+    official: લાઇબેરિયા
+    common: લાઇબેરિયા
+  he:
+    official: ליבריה
+    common: ליבריה
+  hi:
+    official: लाइबेरिया
+    common: लाइबेरिया
+  hr:
+    official: Liberija
+    common: Liberija
+  hu:
+    official: Libéria
+    common: Libéria
+  is:
+    official: Líbería
+    common: Líbería
+  ia:
+    official: Liberia
+    common: Liberia
+  id:
+    official: Liberia
+    common: Liberia
+  it:
+    official: Liberia
+    common: Liberia
+  ja:
+    official: リベリア
+    common: リベリア
+  kn:
+    official: ಲೈಬೀರಿಯಾ
+    common: ಲೈಬೀರಿಯಾ
+  kk:
+    official: Либерия
+    common: Либерия
+  km:
+    official: លីបេរីយ៉ា
+    common: លីបេរីយ៉ា
+  rw:
+    official: Liberiya
+    common: Liberiya
+  ko:
+    official: 라이베리아
+    common: 라이베리아
+  ku:
+    official: Lîberya
+    common: Lîberya
+  lv:
+    official: Libērija
+    common: Libērija
+  lt:
+    official: Liberija
+    common: Liberija
+  mk:
+    official: Либерија
+    common: Либерија
+  ml:
+    official: ലൈബീരിയ
+    common: ലൈബീരിയ
+  mi:
+    official: Liberia
+    common: Liberia
+  mr:
+    official: लायबेरिया
+    common: लायबेरिया
+  ms:
+    official: Liberia
+    common: Liberia
+  mt:
+    official: Serbja
+    common: Serbja
+  mn:
+    official: Liberia
+    common: Liberia
+  ne:
+    official: लिबेरीया
+    common: लिबेरीया
+  nn:
+    official: Liberia
+    common: Liberia
+  nb:
+    official: Liberia
+    common: Liberia
+  oc:
+    official: Libèria
+    common: Libèria
+  or:
+    official: ଲାଇବେରିୟା
+    common: ଲାଇବେରିୟା
+  pa:
+    official: ਲੀਬਾਰੀਆ
+    common: ਲੀਬਾਰੀਆ
+  fa:
+    official: لیبریا
+    common: لیبریا
+  pl:
+    official: Liberia
+    common: Liberia
+  pt:
+    official: Libéria
+    common: Libéria
+  ps:
+    official: لایبریا
+    common: لایبریا
+  ro:
+    official: Liberia
+    common: Liberia
+  ru:
+    official: Либерия
+    common: Либерия
+  si:
+    official: ලියිබීරියාව
+    common: ලියිබීරියාව
+  sk:
+    official: Libéria
+    common: Libéria
+  sl:
+    official: Liberija
+    common: Liberija
+  so:
+    official: Laybeeriya
+    common: Laybeeriya
+  es:
+    official: Liberia
+    common: Liberia
+  sr:
+    official: Либерија
+    common: Либерија
+  sw:
+    official: Liberia
+    common: Liberia
+  sv:
+    official: Liberia
+    common: Liberia
+  ta:
+    official: லைபீரியா
+    common: லைபீரியா
+  tt:
+    official: Либериа
+    common: Либериа
+  te:
+    official: లైబీరియా
+    common: లైబీరియా
+  tl:
+    official: Liberia
+    common: Liberia
+  th:
+    official: ไลบีเรีย
+    common: ไลบีเรีย
+  ti:
+    official: Liberia
+    common: Liberia
+  tk:
+    official: Liberiýa
+    common: Liberiýa
+  tr:
+    official: Liberya
+    common: Liberya
+  ug:
+    official: لىبېرىيە
+    common: لىبېرىيە
+  uk:
+    official: Ліберія
+    common: Ліберія
+  ve:
+    official: Liberia
+    common: Liberia
+  vi:
+    official: Li-bê-ri-a
+    common: Li-bê-ri-a
+  cy:
+    official: Liberia
+    common: Liberia
+  wa:
+    official: Liberia
+    common: Liberia
+  wo:
+    official: Libeeria
+    common: Libeeria
+  xh:
+    official: Serbia
+    common: Serbia
+  zu:
+    official: I-Serbiya
+    common: I-Serbiya

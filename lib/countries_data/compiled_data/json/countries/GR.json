@@ -1,0 +1,451 @@
+{
+  "continent": "Europe",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}}\n{{country}}",
+  "alpha2": "GR",
+  "alpha3": "GRC",
+  "country_code": "30",
+  "international_prefix": "00",
+  "ioc": "GRE",
+  "gec": "GR",
+  "name": "Greece",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "None",
+  "number": "300",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "world_region": "EMEA",
+  "un_locode": "GR",
+  "nationality": "Greek",
+  "eu_member": true,
+  "eea_member": true,
+  "vat_rates": {
+    "standard": 23,
+    "reduced": [
+      6.5,
+      13
+    ],
+    "super_reduced": null,
+    "parking": null
+  },
+  "postal_code": true,
+  "unofficial_names": [
+    "Greece",
+    "Griechenland",
+    "Grèce",
+    "Grecia",
+    "ギリシャ",
+    "Griekenland"
+  ],
+  "languages_official": [
+    "el"
+  ],
+  "languages_spoken": [
+    "el"
+  ],
+  "geo": {
+    "latitude": 39.074208,
+    "latitude_dec": "39.68437194824219",
+    "longitude": 21.824312,
+    "longitude_dec": "21.897409439086914",
+    "max_latitude": 41.7488784,
+    "max_longitude": 29.6451475,
+    "min_latitude": 34.8009169,
+    "min_longitude": 19.3724226,
+    "bounds": {
+      "northeast": {
+        "lat": 41.7488784,
+        "lng": 29.6451475
+      },
+      "southwest": {
+        "lat": 34.8009169,
+        "lng": 19.3724226
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "key": "GR",
+    "zipex": "151 24,151 10,101 88",
+    "name": "GREECE",
+    "zip": "\\d{3} ?\\d{2}",
+    "require": "ACZ",
+    "id": "data/GR",
+    "posturl": "http://www.elta.gr/findapostcode.aspx",
+    "fmt": "%N%n%O%n%A%n%Z %C"
+  },
+  "translations": {
+    "af": {
+      "official": "Griekeland",
+      "common": "Griekeland"
+    },
+    "sq": {
+      "official": "Greqia",
+      "common": "Greqia"
+    },
+    "am": {
+      "official": "ጔሱጤ",
+      "common": "ጔሱጤ"
+    },
+    "ar": {
+      "official": "اليونان",
+      "common": "اليونان"
+    },
+    "hy": {
+      "official": "Հունաստան",
+      "common": "Հունաստան"
+    },
+    "as": {
+      "official": "গ্ইচ্‌লামিকীচ",
+      "common": "গ্ইচ্‌লামিকীচ"
+    },
+    "az": {
+      "official": "Yunanıstan",
+      "common": "Yunanıstan"
+    },
+    "eu": {
+      "official": "Grezia",
+      "common": "Grezia"
+    },
+    "be": {
+      "official": "Грэцыя",
+      "common": "Грэцыя"
+    },
+    "bn": {
+      "official": "গ্রিস",
+      "common": "গ্রিস"
+    },
+    "bs": {
+      "official": "Grčka",
+      "common": "Grčka"
+    },
+    "br": {
+      "official": "Gres",
+      "common": "Gres"
+    },
+    "bg": {
+      "official": "Гърция",
+      "common": "Гърция"
+    },
+    "ca": {
+      "official": "Grècia",
+      "common": "Grècia"
+    },
+    "zh": {
+      "official": "希腊",
+      "common": "希腊"
+    },
+    "cs": {
+      "official": "Řecko",
+      "common": "Řecko"
+    },
+    "da": {
+      "official": "Grækenland",
+      "common": "Grækenland"
+    },
+    "nl": {
+      "official": "Griekenland",
+      "common": "Griekenland"
+    },
+    "dz": {
+      "official": "གིརིསི་།",
+      "common": "གིརིསི་།"
+    },
+    "en": {
+      "official": "Greece",
+      "common": "Greece"
+    },
+    "eo": {
+      "official": "Grekio",
+      "common": "Grekio"
+    },
+    "et": {
+      "official": "Kreeka",
+      "common": "Kreeka"
+    },
+    "fo": {
+      "official": "Grikkaland",
+      "common": "Grikkaland"
+    },
+    "fi": {
+      "official": "Kreikka",
+      "common": "Kreikka"
+    },
+    "fr": {
+      "official": "Grèce",
+      "common": "Grèce"
+    },
+    "ka": {
+      "official": "საბერძნეთი",
+      "common": "საბერძნეთი"
+    },
+    "de": {
+      "official": "Griechenland",
+      "common": "Griechenland"
+    },
+    "ga": {
+      "official": "An Ghréig",
+      "common": "An Ghréig"
+    },
+    "gl": {
+      "official": "Grecia",
+      "common": "Grecia"
+    },
+    "el": {
+      "official": "Ελλάδα",
+      "common": "Ελλάδα"
+    },
+    "gu": {
+      "official": "ગ્રીસ",
+      "common": "ગ્રીસ"
+    },
+    "he": {
+      "official": "יוון",
+      "common": "יוון"
+    },
+    "hi": {
+      "official": "ग्रीस",
+      "common": "ग्रीस"
+    },
+    "hr": {
+      "official": "Grčka",
+      "common": "Grčka"
+    },
+    "hu": {
+      "official": "Görögország",
+      "common": "Görögország"
+    },
+    "is": {
+      "official": "Grikkland",
+      "common": "Grikkland"
+    },
+    "ia": {
+      "official": "Grecia",
+      "common": "Grecia"
+    },
+    "id": {
+      "official": "Yunani",
+      "common": "Yunani"
+    },
+    "it": {
+      "official": "Grecia",
+      "common": "Grecia"
+    },
+    "ja": {
+      "official": "ギリシャ",
+      "common": "ギリシャ"
+    },
+    "kn": {
+      "official": "ಗ್ರೀಸ್",
+      "common": "ಗ್ರೀಸ್"
+    },
+    "kk": {
+      "official": "Грекия",
+      "common": "Грекия"
+    },
+    "km": {
+      "official": "ក្រិក",
+      "common": "ក្រិក"
+    },
+    "rw": {
+      "official": "Ikigereki",
+      "common": "Ikigereki"
+    },
+    "ko": {
+      "official": "그리스",
+      "common": "그리스"
+    },
+    "ku": {
+      "official": "Yewnanistan",
+      "common": "Yewnanistan"
+    },
+    "lv": {
+      "official": "Grieķija",
+      "common": "Grieķija"
+    },
+    "lt": {
+      "official": "Graikija",
+      "common": "Graikija"
+    },
+    "mk": {
+      "official": "Грција",
+      "common": "Грција"
+    },
+    "ml": {
+      "official": "ഗ്രീസ്",
+      "common": "ഗ്രീസ്"
+    },
+    "mi": {
+      "official": "Kirihi",
+      "common": "Kirihi"
+    },
+    "mr": {
+      "official": "ग्रीस",
+      "common": "ग्रीस"
+    },
+    "ms": {
+      "official": "Yunani",
+      "common": "Yunani"
+    },
+    "mt": {
+      "official": "Greċja",
+      "common": "Greċja"
+    },
+    "mn": {
+      "official": "Грек",
+      "common": "Грек"
+    },
+    "ne": {
+      "official": "ग्रीस",
+      "common": "ग्रीस"
+    },
+    "nn": {
+      "official": "Hellas",
+      "common": "Hellas"
+    },
+    "nb": {
+      "official": "Hellas",
+      "common": "Hellas"
+    },
+    "oc": {
+      "official": "Grèça",
+      "common": "Grèça"
+    },
+    "or": {
+      "official": "ଗ୍ରୀସ",
+      "common": "ଗ୍ରୀସ"
+    },
+    "pa": {
+      "official": "ਗਰੀਸ",
+      "common": "ਗਰੀਸ"
+    },
+    "fa": {
+      "official": "یونان",
+      "common": "یونان"
+    },
+    "pl": {
+      "official": "Grecja",
+      "common": "Grecja"
+    },
+    "pt": {
+      "official": "Grécia",
+      "common": "Grécia"
+    },
+    "ps": {
+      "official": "یونان",
+      "common": "یونان"
+    },
+    "ro": {
+      "official": "Grecia",
+      "common": "Grecia"
+    },
+    "ru": {
+      "official": "Греция",
+      "common": "Греция"
+    },
+    "si": {
+      "official": "ග්‍රීසිය",
+      "common": "ග්‍රීසිය"
+    },
+    "sk": {
+      "official": "Grécko",
+      "common": "Grécko"
+    },
+    "sl": {
+      "official": "Grčija",
+      "common": "Grčija"
+    },
+    "so": {
+      "official": "Giriigga",
+      "common": "Giriigga"
+    },
+    "es": {
+      "official": "Grecia",
+      "common": "Grecia"
+    },
+    "sr": {
+      "official": "Грчка",
+      "common": "Грчка"
+    },
+    "sw": {
+      "official": "Greece",
+      "common": "Greece"
+    },
+    "sv": {
+      "official": "Grekland",
+      "common": "Grekland"
+    },
+    "ta": {
+      "official": "கிரீஸ்",
+      "common": "கிரீஸ்"
+    },
+    "tt": {
+      "official": "Юнанстан",
+      "common": "Юнанстан"
+    },
+    "te": {
+      "official": "గ్రీస్",
+      "common": "గ్రీస్"
+    },
+    "tl": {
+      "official": "Gresya",
+      "common": "Gresya"
+    },
+    "th": {
+      "official": "กรีซ",
+      "common": "กรีซ"
+    },
+    "ti": {
+      "official": "ግሪክ",
+      "common": "ግሪክ"
+    },
+    "tk": {
+      "official": "Grek",
+      "common": "Grek"
+    },
+    "tr": {
+      "official": "Yunanistan",
+      "common": "Yunanistan"
+    },
+    "ug": {
+      "official": "گىرېتسىيە",
+      "common": "گىرېتسىيە"
+    },
+    "uk": {
+      "official": "Греція",
+      "common": "Греція"
+    },
+    "ve": {
+      "official": "Greece",
+      "common": "Greece"
+    },
+    "vi": {
+      "official": "Hy Lạp",
+      "common": "Hy Lạp"
+    },
+    "cy": {
+      "official": "Groeg",
+      "common": "Groeg"
+    },
+    "wa": {
+      "official": "Grece",
+      "common": "Grece"
+    },
+    "wo": {
+      "official": "Girees",
+      "common": "Girees"
+    },
+    "xh": {
+      "official": "Greece",
+      "common": "Greece"
+    },
+    "zu": {
+      "official": "I-Grisi",
+      "common": "I-Grisi"
+    }
+  }
+}

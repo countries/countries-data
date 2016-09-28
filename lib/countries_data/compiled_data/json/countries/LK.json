@@ -1,0 +1,436 @@
+{
+  "continent": "Asia",
+  "alpha2": "LK",
+  "alpha3": "LKA",
+  "country_code": "94",
+  "international_prefix": "00",
+  "ioc": "SRI",
+  "gec": "CE",
+  "name": "Sri Lanka",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "0",
+  "number": "144",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "world_region": "APAC",
+  "un_locode": "LK",
+  "nationality": "Sri Lankan",
+  "postal_code": true,
+  "unofficial_names": [
+    "Sri Lanka",
+    "スリランカ"
+  ],
+  "languages_official": [
+    "si",
+    "ta"
+  ],
+  "languages_spoken": [
+    "si",
+    "ta"
+  ],
+  "geo": {
+    "latitude": 7.873053999999999,
+    "latitude_dec": "7.789133548736572",
+    "longitude": 80.77179699999999,
+    "longitude_dec": "80.68072509765625",
+    "max_latitude": 9.835766399999999,
+    "max_longitude": 81.8787029,
+    "min_latitude": 5.9186783,
+    "min_longitude": 79.5219826,
+    "bounds": {
+      "northeast": {
+        "lat": 9.835766399999999,
+        "lng": 81.8787029
+      },
+      "southwest": {
+        "lat": 5.9186783,
+        "lng": 79.5219826
+      }
+    }
+  },
+  "currency_code": "LKR",
+  "postal_address_data": {
+    "key": "LK",
+    "zipex": "20000,00100",
+    "name": "SRI LANKA",
+    "zip": "\\d{5}",
+    "fmt": "%N%n%O%n%A%n%C%n%Z",
+    "posturl": "http://www.slpost.gov.lk/",
+    "id": "data/LK"
+  },
+  "translations": {
+    "af": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "sq": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "am": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "ar": {
+      "official": "سريلانكا",
+      "common": "سريلانكا"
+    },
+    "hy": {
+      "official": "Շրի Լանկա",
+      "common": "Շրի Լանկա"
+    },
+    "as": {
+      "official": "শ্ৰীলঙ্কা",
+      "common": "শ্ৰীলঙ্কা"
+    },
+    "az": {
+      "official": "Şri Lanka",
+      "common": "Şri Lanka"
+    },
+    "eu": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "be": {
+      "official": "Шры-Ланка",
+      "common": "Шры-Ланка"
+    },
+    "bn": {
+      "official": "শ্রীলঙ্কা",
+      "common": "শ্রীলঙ্কা"
+    },
+    "bs": {
+      "official": "Šri Lanka",
+      "common": "Šri Lanka"
+    },
+    "br": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "bg": {
+      "official": "Шри Ланка",
+      "common": "Шри Ланка"
+    },
+    "ca": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "zh": {
+      "official": "斯里兰卡",
+      "common": "斯里兰卡"
+    },
+    "cs": {
+      "official": "Šrí Lanka",
+      "common": "Šrí Lanka"
+    },
+    "da": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "nl": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "dz": {
+      "official": "སི་རི་ལང་ཀ།(ཤྲི་ལངྐ་)",
+      "common": "སི་རི་ལང་ཀ།(ཤྲི་ལངྐ་)"
+    },
+    "en": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "eo": {
+      "official": "Sri-Lanko",
+      "common": "Sri-Lanko"
+    },
+    "et": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "fo": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "fi": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "fr": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "ka": {
+      "official": "შრი-ლანკა",
+      "common": "შრი-ლანკა"
+    },
+    "de": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "ga": {
+      "official": "Srí Lanca",
+      "common": "Srí Lanca"
+    },
+    "gl": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "el": {
+      "official": "Σρι Λάνκα",
+      "common": "Σρι Λάνκα"
+    },
+    "gu": {
+      "official": "શ્રી લંકા",
+      "common": "શ્રી લંકા"
+    },
+    "he": {
+      "official": "סרי לנקה",
+      "common": "סרי לנקה"
+    },
+    "hi": {
+      "official": "श्री लंका",
+      "common": "श्री लंका"
+    },
+    "hr": {
+      "official": "Šri Lanka",
+      "common": "Šri Lanka"
+    },
+    "hu": {
+      "official": "Srí Lanka",
+      "common": "Srí Lanka"
+    },
+    "is": {
+      "official": "Srí Lanka",
+      "common": "Srí Lanka"
+    },
+    "ia": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "id": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "it": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "ja": {
+      "official": "スリランカ",
+      "common": "スリランカ"
+    },
+    "kn": {
+      "official": "ಶ್ರೀಲಂಕಾ",
+      "common": "ಶ್ರೀಲಂಕಾ"
+    },
+    "kk": {
+      "official": "Шри-Ланка",
+      "common": "Шри-Ланка"
+    },
+    "km": {
+      "official": "ស្រីលង្កា",
+      "common": "ស្រីលង្កា"
+    },
+    "rw": {
+      "official": "Siri Lanka",
+      "common": "Siri Lanka"
+    },
+    "ko": {
+      "official": "스리랑카",
+      "common": "스리랑카"
+    },
+    "ku": {
+      "official": "Srî Lanka",
+      "common": "Srî Lanka"
+    },
+    "lv": {
+      "official": "Šrilanka",
+      "common": "Šrilanka"
+    },
+    "lt": {
+      "official": "Šri Lanka",
+      "common": "Šri Lanka"
+    },
+    "mk": {
+      "official": "Шри Ланка",
+      "common": "Шри Ланка"
+    },
+    "ml": {
+      "official": "ശ്രീലങ്ക",
+      "common": "ശ്രീലങ്ക"
+    },
+    "mi": {
+      "official": "Hiri Rānaka",
+      "common": "Hiri Rānaka"
+    },
+    "mr": {
+      "official": "श्री लंका",
+      "common": "श्री लंका"
+    },
+    "ms": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "mt": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "mn": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "ne": {
+      "official": "श्री लङ्का",
+      "common": "श्री लङ्का"
+    },
+    "nn": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "nb": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "oc": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "or": {
+      "official": "ଶ୍ରୀଲଙ୍କା",
+      "common": "ଶ୍ରୀଲଙ୍କା"
+    },
+    "pa": {
+      "official": "ਸ੍ਰੀਲੰਕਾ",
+      "common": "ਸ੍ਰੀਲੰਕਾ"
+    },
+    "fa": {
+      "official": "سری‌لانکا",
+      "common": "سری‌لانکا"
+    },
+    "pl": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "pt": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "ps": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "ro": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "ru": {
+      "official": "Шри-Ланка",
+      "common": "Шри-Ланка"
+    },
+    "si": {
+      "official": "ශ්‍රී ලංකාව",
+      "common": "ශ්‍රී ලංකාව"
+    },
+    "sk": {
+      "official": "Srí Lanka",
+      "common": "Srí Lanka"
+    },
+    "sl": {
+      "official": "Šrilanka",
+      "common": "Šrilanka"
+    },
+    "so": {
+      "official": "Siirilaanka",
+      "common": "Siirilaanka"
+    },
+    "es": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "sr": {
+      "official": "Шри Ланка",
+      "common": "Шри Ланка"
+    },
+    "sw": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "sv": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "ta": {
+      "official": "இலங்கை",
+      "common": "இலங்கை"
+    },
+    "tt": {
+      "official": "Шри Ланка",
+      "common": "Шри Ланка"
+    },
+    "te": {
+      "official": "శ్రీలంక",
+      "common": "శ్రీలంక"
+    },
+    "tl": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "th": {
+      "official": "ศรีลังกา",
+      "common": "ศรีลังกา"
+    },
+    "ti": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "tk": {
+      "official": "Şri-Lanka",
+      "common": "Şri-Lanka"
+    },
+    "tr": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "ug": {
+      "official": "سىرىلانكا",
+      "common": "سىرىلانكا"
+    },
+    "uk": {
+      "official": "Шрі-Ланка",
+      "common": "Шрі-Ланка"
+    },
+    "ve": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "vi": {
+      "official": "Tích Lan",
+      "common": "Tích Lan"
+    },
+    "cy": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "wa": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "wo": {
+      "official": "Siri Laaŋka",
+      "common": "Siri Laaŋka"
+    },
+    "xh": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    },
+    "zu": {
+      "official": "Sri Lanka",
+      "common": "Sri Lanka"
+    }
+  }
+}

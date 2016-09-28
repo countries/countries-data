@@ -1,0 +1,351 @@
+---
+continent: Europe
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: FR
+alpha3: FRA
+country_code: '33'
+international_prefix: '00'
+ioc: FRA
+gec: FR
+name: France
+national_destination_code_lengths:
+- 1
+national_number_lengths:
+- 9
+- 10
+national_prefix: '0'
+number: '250'
+region: Europe
+subregion: Western Europe
+world_region: EMEA
+un_locode: FR
+nationality: French
+eu_member: true
+eea_member: true
+vat_rates:
+  standard: 20
+  reduced:
+  - 5.5
+  - 10
+  super_reduced: 2.1
+  parking: 
+postal_code: true
+unofficial_names:
+- France
+- Frankreich
+- the French Republic
+- フランス
+- Frankrijk
+- Francia
+languages_official:
+- fr
+languages_spoken:
+- fr
+geo:
+  latitude: 46.227638
+  latitude_dec: '46.63727951049805'
+  longitude: 2.213749
+  longitude_dec: '2.3382623195648193'
+  max_latitude: 51.0891285
+  max_longitude: 9.560067700000001
+  min_latitude: 41.3423275
+  min_longitude: -5.142307499999999
+  bounds:
+    northeast:
+      lat: 51.0891285
+      lng: 9.560067700000001
+    southwest:
+      lat: 41.3423275
+      lng: -5.142307499999999
+currency_code: EUR
+postal_address_data:
+  key: FR
+  upper: CX
+  zipex: '33380,34092,33506'
+  name: FRANCE
+  zip: "\\d{2} ?\\d{3}"
+  require: ACZ
+  id: data/FR
+  posturl: http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal
+  fmt: "%O%n%N%n%A%n%Z %C %X"
+translations:
+  af:
+    official: Frankryk
+    common: Frankryk
+  sq:
+    official: Franca
+    common: Franca
+  am:
+    official: France
+    common: France
+  ar:
+    official: فرنسا
+    common: فرنسا
+  hy:
+    official: Ֆրանսիա
+    common: Ֆրանսիա
+  as:
+    official: ফ্ইচ্‌লামিকান্স
+    common: ফ্ইচ্‌লামিকান্স
+  az:
+    official: Fransa
+    common: Fransa
+  eu:
+    official: Frantzia
+    common: Frantzia
+  be:
+    official: Францыя
+    common: Францыя
+  bn:
+    official: ফ্রান্স
+    common: ফ্রান্স
+  bs:
+    official: Francuska
+    common: Francuska
+  br:
+    official: Frañs
+    common: Frañs
+  bg:
+    official: Франция
+    common: Франция
+  ca:
+    official: França
+    common: França
+  zh:
+    official: 法国
+    common: 法国
+  cs:
+    official: Francie
+    common: Francie
+  da:
+    official: Frankrig
+    common: Frankrig
+  nl:
+    official: Frankrijk
+    common: Frankrijk
+  dz:
+    official: ཕརཱནསི།
+    common: ཕརཱནསི།
+  en:
+    official: France
+    common: France
+  eo:
+    official: Francio
+    common: Francio
+  et:
+    official: Prantsusmaa
+    common: Prantsusmaa
+  fo:
+    official: Frakland
+    common: Frakland
+  fi:
+    official: Ranska
+    common: Ranska
+  fr:
+    official: France
+    common: France
+  ka:
+    official: საფრანგეთი
+    common: საფრანგეთი
+  de:
+    official: Frankreich
+    common: Frankreich
+  ga:
+    official: An Fhrainc
+    common: An Fhrainc
+  gl:
+    official: Francia
+    common: Francia
+  el:
+    official: Γαλλία
+    common: Γαλλία
+  gu:
+    official: ફ્રાન્સ
+    common: ફ્રાન્સ
+  he:
+    official: צרפת
+    common: צרפת
+  hi:
+    official: फ्रांस
+    common: फ्रांस
+  hr:
+    official: Francuska
+    common: Francuska
+  hu:
+    official: Franciaország
+    common: Franciaország
+  is:
+    official: Frakkland
+    common: Frakkland
+  ia:
+    official: Francia
+    common: Francia
+  id:
+    official: Perancis
+    common: Perancis
+  it:
+    official: Francia
+    common: Francia
+  ja:
+    official: フランス
+    common: フランス
+  kn:
+    official: ಫ್ರಾನ್ಸ್
+    common: ಫ್ರಾನ್ಸ್
+  kk:
+    official: Франция
+    common: Франция
+  km:
+    official: បារាំង
+    common: បារាំង
+  rw:
+    official: Ubufaransa
+    common: Ubufaransa
+  ko:
+    official: 프랑스
+    common: 프랑스
+  ku:
+    official: Fransa
+    common: Fransa
+  lv:
+    official: Francija
+    common: Francija
+  lt:
+    official: Prancūzija
+    common: Prancūzija
+  mk:
+    official: Франција
+    common: Франција
+  ml:
+    official: ഫ്രാന്‍സ്
+    common: ഫ്രാന്‍സ്
+  mi:
+    official: Wīwī
+    common: Wīwī
+  mr:
+    official: फ्रान्स
+    common: फ्रान्स
+  ms:
+    official: Perancis
+    common: Perancis
+  mt:
+    official: Franza
+    common: Franza
+  mn:
+    official: Франц
+    common: Франц
+  ne:
+    official: फ्रान्स
+    common: फ्रान्स
+  nn:
+    official: Frankrike
+    common: Frankrike
+  nb:
+    official: Frankrike
+    common: Frankrike
+  oc:
+    official: França
+    common: França
+  or:
+    official: ଫ୍ରାନ୍ସ
+    common: ଫ୍ରାନ୍ସ
+  pa:
+    official: ਫਰਾਂਸ
+    common: ਫਰਾਂਸ
+  fa:
+    official: فرانسه
+    common: فرانسه
+  pl:
+    official: Francja
+    common: Francja
+  pt:
+    official: França
+    common: França
+  ps:
+    official: فرانسه
+    common: فرانسه
+  ro:
+    official: Franța
+    common: Franța
+  ru:
+    official: Франция
+    common: Франция
+  si:
+    official: ප්‍රංශය
+    common: ප්‍රංශය
+  sk:
+    official: Francúzsko
+    common: Francúzsko
+  sl:
+    official: Francija
+    common: Francija
+  so:
+    official: Faransiis
+    common: Faransiis
+  es:
+    official: Francia
+    common: Francia
+  sr:
+    official: Француска
+    common: Француска
+  sw:
+    official: Ufaransa
+    common: Ufaransa
+  sv:
+    official: Frankrike
+    common: Frankrike
+  ta:
+    official: ஃப்ரான்ஸ்
+    common: ஃப்ரான்ஸ்
+  tt:
+    official: Франсиа
+    common: Франсиа
+  te:
+    official: ఫ్రాన్స్
+    common: ఫ్రాన్స్
+  tl:
+    official: Pransya
+    common: Pransya
+  th:
+    official: ฝรั่งเศส
+    common: ฝรั่งเศส
+  ti:
+    official: France
+    common: France
+  tk:
+    official: Fransiýa
+    common: Fransiýa
+  tr:
+    official: Fransa
+    common: Fransa
+  ug:
+    official: فىرانسىيە
+    common: فىرانسىيە
+  uk:
+    official: Франція
+    common: Франція
+  ve:
+    official: France
+    common: France
+  vi:
+    official: Pháp
+    common: Pháp
+  cy:
+    official: Ffrainc
+    common: Ffrainc
+  wa:
+    official: France
+    common: France
+  wo:
+    official: Faraas
+    common: Faraas
+  xh:
+    official: Franisi
+    common: Franisi
+  zu:
+    official: Isi Frentshi
+    common: Isi Frentshi

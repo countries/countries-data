@@ -1,0 +1,332 @@
+---
+continent: Antarctica
+alpha2: GS
+alpha3: SGS
+country_code: '500'
+international_prefix: ''
+ioc: 
+gec: SX
+name: South Georgia and the South Sandwich Islands
+national_destination_code_lengths: []
+national_number_lengths: []
+national_prefix: ''
+number: '239'
+region: Americas
+subregion: South America
+world_region: AMER
+un_locode: GS
+nationality: South Georgia and the South Sandwich Islander
+postal_code: true
+unofficial_names:
+- South Georgia
+- South Georgia and the South Sandwich Islands
+- Südgeorgien und die Südlichen Sandwichinseln
+- サウスジョージア・サウスサンドウィッチ諸島
+- Zuid-Georgia en Zuidelijke Sandwicheilanden
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: -54.429579
+  latitude_dec: "-54.459922790527344"
+  longitude: -36.587909
+  longitude_dec: "-36.354618072509766"
+  max_latitude: -53.9757001
+  max_longitude: -26.2689114
+  min_latitude: -59.48429480000001
+  min_longitude: -38.2436014
+  bounds:
+    northeast:
+      lat: -53.9757001
+      lng: -26.2689114
+    southwest:
+      lat: -59.48429480000001
+      lng: -38.2436014
+currency_code: GBP
+postal_address_data:
+  upper: CZ
+  zipex: SIQQ 1ZZ
+  name: SOUTH GEORGIA
+  zip: SIQQ 1ZZ
+  require: ACZ
+  id: data/GS
+  key: GS
+  fmt: "%N%n%O%n%A%n%n%C%n%Z"
+translations:
+  af:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  sq:
+    official: Gjeorgjia Jugore dhe Ishujt Sandwich Jugorë
+    common: Gjeorgjia Jugore dhe Ishujt Sandwich Jugorë
+  am:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  ar:
+    official: جورجيا الجنوبيّة و جزر ساندويتش الجنوبيّة
+    common: جورجيا الجنوبيّة و جزر ساندويتش الجنوبيّة
+  hy:
+    official: Հարավային Ջորջիա և Հարավային Սանդվիչյան կղզիներ
+    common: Հարավային Ջորջիա և Հարավային Սանդվիչյան կղզիներ
+  as:
+    official: দক্ষিণ জৰ্জিয়া আৰু দক্ষিণ চেন্ডউইচ দ্বীপপুঞ্জ
+    common: দক্ষিণ জৰ্জিয়া আৰু দক্ষিণ চেন্ডউইচ দ্বীপপুঞ্জ
+  az:
+    official: Cənubi Georgiya və Cənubi Sendviç Adaları
+    common: Cənubi Georgiya və Cənubi Sendviç Adaları
+  eu:
+    official: Hegoaldeko Georgia eta Hegoaldeko Sandwich uharteak
+    common: Hegoaldeko Georgia eta Hegoaldeko Sandwich uharteak
+  be:
+    official: Паўднёвая Джорджыя і Паўднёвыя Сандвічавы астравы
+    common: Паўднёвая Джорджыя і Паўднёвыя Сандвічавы астравы
+  bn:
+    official: দক্ষিণ জর্জিয়া ও দক্ষিণ স্যান্ডউইচ দ্বীপপুঞ্জ
+    common: দক্ষিণ জর্জিয়া ও দক্ষিণ স্যান্ডউইচ দ্বীপপুঞ্জ
+  bs:
+    official: South Georgia i South Sandwich Ostrva
+    common: South Georgia i South Sandwich Ostrva
+  br:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  bg:
+    official: Южна Джорджия и Южни Сандвичеви острови
+    common: Южна Джорджия и Южни Сандвичеви острови
+  ca:
+    official: Illes Geòrgia del Sud i Sandwich del Sud
+    common: Illes Geòrgia del Sud i Sandwich del Sud
+  zh:
+    official: 南乔治亚岛和南桑德韦奇岛
+    common: 南乔治亚岛和南桑德韦奇岛
+  cs:
+    official: Jižní Georgie a Jižní Sandwichovy ostrovy
+    common: Jižní Georgie a Jižní Sandwichovy ostrovy
+  da:
+    official: South Georgia og De Sydlige Sandwichøer
+    common: South Georgia og De Sydlige Sandwichøer
+  nl:
+    official: Zuid-Georgië en de Zuidelijke Sandwicheilanden
+    common: Zuid-Georgië en de Zuidelijke Sandwicheilanden
+  dz:
+    official: ལྷོ་ ཇོར་ཇི་ཡ་ དང་ ལྷོ་ སེནཌི་ཝིཅ་ ཨའི་ལེནཌིསི།
+    common: ལྷོ་ ཇོར་ཇི་ཡ་ དང་ ལྷོ་ སེནཌི་ཝིཅ་ ཨའི་ལེནཌིསི།
+  en:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  eo:
+    official: Sud-Georgio kaj Sud-Sandviĉinsuloj
+    common: Sud-Georgio kaj Sud-Sandviĉinsuloj
+  et:
+    official: Lõuna-Georgia ja Lõuna-Sandwichi saared
+    common: Lõuna-Georgia ja Lõuna-Sandwichi saared
+  fo:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  fi:
+    official: Etelä-Georgia ja Eteläiset Sandwichinsaaret
+    common: Etelä-Georgia ja Eteläiset Sandwichinsaaret
+  fr:
+    official: Géorgie du Sud et les îles Sandwich du Sud
+    common: Géorgie du Sud et les îles Sandwich du Sud
+  ka:
+    official: სამხრეთ ჯორჯია და სამხრეთ სენდვიჩის კუნძულები
+    common: სამხრეთ ჯორჯია და სამხრეთ სენდვიჩის კუნძულები
+  de:
+    official: South Georgia und die Südlichen Sandwichinseln
+    common: South Georgia und die Südlichen Sandwichinseln
+  ga:
+    official: An tSeoirsia Theas agus Sandwich Theas
+    common: An tSeoirsia Theas agus Sandwich Theas
+  gl:
+    official: Xeorxia do Sul e as Illas Sandwich do Sul
+    common: Xeorxia do Sul e as Illas Sandwich do Sul
+  el:
+    official: Νότια Γεωργία και Νήσοι Νότιες Σάντουιτς
+    common: Νότια Γεωργία και Νήσοι Νότιες Σάντουιτς
+  gu:
+    official: દક્ષિણ જર્યોજીયા અને દક્ષિણ સેન્ડવિચ ટાપુઓ
+    common: દક્ષિણ જર્યોજીયા અને દક્ષિણ સેન્ડવિચ ટાપુઓ
+  he:
+    official: דרום ג'ורגיה ואיי דרום סנדביץ'
+    common: דרום ג'ורגיה ואיי דרום סנדביץ'
+  hi:
+    official: साउथ जॉर्जिया एन्ड द साउथ सैन्डविच आइलैन्ड्स
+    common: साउथ जॉर्जिया एन्ड द साउथ सैन्डविच आइलैन्ड्स
+  hr:
+    official: Južna Georgija i otočje Južni Sandwich
+    common: Južna Georgija i otočje Južni Sandwich
+  hu:
+    official: Dél-Georgia és Déli-Sandwich-szigetek
+    common: Dél-Georgia és Déli-Sandwich-szigetek
+  is:
+    official: Suður-Georgía og Suður-Sandwich eyjar
+    common: Suður-Georgía og Suður-Sandwich eyjar
+  ia:
+    official: Georgia del Sud e Insulas Sandwich del Sud
+    common: Georgia del Sud e Insulas Sandwich del Sud
+  id:
+    official: Kepulauan Georgia Selatan dan Sandwich Selatan
+    common: Kepulauan Georgia Selatan dan Sandwich Selatan
+  it:
+    official: Georgia del Sud e Sandwich australi
+    common: Georgia del Sud e Sandwich australi
+  ja:
+    official: サウスジョージア及びサウスサンドウィッチ諸島
+    common: サウスジョージア及びサウスサンドウィッチ諸島
+  kn:
+    official: ದಕ್ಷಿಣ ಜಾರ್ಜಿಯಾ ಮತ್ತು ದಕ್ಷಿಣ ಸ್ಯಾಂಡ್ವಿಚ್ ದ್ವೀಪಗಳು
+    common: ದಕ್ಷಿಣ ಜಾರ್ಜಿಯಾ ಮತ್ತು ದಕ್ಷಿಣ ಸ್ಯಾಂಡ್ವಿಚ್ ದ್ವೀಪಗಳು
+  kk:
+    official: Оңтүстік Джорджия мен Оңтүстік Сендвия аралдары
+    common: Оңтүстік Джорджия мен Оңтүстік Сендвия аралдары
+  km:
+    official: ហ្សកហ្ស៊ី​ខាង​ត្បូង និង កោះសាំងវិច​ខាង​ត្បូង
+    common: ហ្សកហ្ស៊ី​ខាង​ត្បូង និង កោះសាំងវិច​ខាង​ត្បូង
+  rw:
+    official: Geworugiya y'Epfo n'Ibirwa bya Sanduwice y'Epfo
+    common: Geworugiya y'Epfo n'Ibirwa bya Sanduwice y'Epfo
+  ko:
+    official: 남 조지아 남 샌드위치 제도
+    common: 남 조지아 남 샌드위치 제도
+  ku:
+    official: Georgiaya Basûr û Giravên Sandwicha Basûr
+    common: Georgiaya Basûr û Giravên Sandwicha Basûr
+  lv:
+    official: Indijas Okeāna Britu Teritorija
+    common: Indijas Okeāna Britu Teritorija
+  lt:
+    official: Pietų Džordžijos ir Pietų Sandvičo salos
+    common: Pietų Džordžijos ir Pietų Sandvičo salos
+  mk:
+    official: Јужна Грузија и Јужните острови
+    common: Јужна Грузија и Јужните острови
+  ml:
+    official: തെക്കന്‍ ജോര്‍ജിയയും തെക്കന്‍ സാന്‍ഡ്‌വിച്ചും ദ്വീപുകള്‍
+    common: തെക്കന്‍ ജോര്‍ജിയയും തെക്കന്‍ സാന്‍ഡ്‌വിച്ചും ദ്വീപുകള്‍
+  mi:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  mr:
+    official: साउथ जॉर्जिया आणी दि साउथ सॅंडविच आयलॅंडस्
+    common: साउथ जॉर्जिया आणी दि साउथ सॅंडविच आयलॅंडस्
+  ms:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  mt:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  mn:
+    official: Өмнөд георги ба өмнөд завсрын арлууд
+    common: Өмнөд георги ба өмнөд завсрын арлууд
+  ne:
+    official: दक्षिण जर्जिया र दक्षिण स्यान्डविच टापु
+    common: दक्षिण जर्जिया र दक्षिण स्यान्डविच टापु
+  nn:
+    official: Sør-Georgia og dei sørlege Sandwichøyane
+    common: Sør-Georgia og dei sørlege Sandwichøyane
+  nb:
+    official: Sør-Georgia og de sørlige Sandwichøyene
+    common: Sør-Georgia og de sørlige Sandwichøyene
+  oc:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  or:
+    official: ଦକ୍ଷିଣ ଜାର୍ଜିୟା ଏବଂ ଦକ୍ଷିଣ ସେଣ୍ଡୱିଚ ଦ୍ବୀପପୁଞ୍ଜ
+    common: ଦକ୍ଷିଣ ଜାର୍ଜିୟା ଏବଂ ଦକ୍ଷିଣ ସେଣ୍ଡୱିଚ ଦ୍ବୀପପୁଞ୍ଜ
+  pa:
+    official: ਦੱਖਣੀ ਜਾਰਜੀਆ ਅਤੇ ਦੱਖਣੀ ਸੈਂਡਵਿਚ ਟਾਪੂ
+    common: ਦੱਖਣੀ ਜਾਰਜੀਆ ਅਤੇ ਦੱਖਣੀ ਸੈਂਡਵਿਚ ਟਾਪੂ
+  fa:
+    official: جورجیای جنوبی و جزایر ساندویچ جنوبی
+    common: جورجیای جنوبی و جزایر ساندویچ جنوبی
+  pl:
+    official: Wyspy Południowa Georgia i Sandwich Południowy
+    common: Wyspy Południowa Georgia i Sandwich Południowy
+  pt:
+    official: Geórgia do Sul e Ilhas Sandwich do Sul
+    common: Geórgia do Sul e Ilhas Sandwich do Sul
+  ps:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  ro:
+    official: Georgia de Sud și Insulele Sandwich de sud
+    common: Georgia de Sud și Insulele Sandwich de sud
+  ru:
+    official: Южная Джорджия и Южные Сандвичевы острова
+    common: Южная Джорджия и Южные Сандвичевы острова
+  si:
+    official: දකුණු ජෝජියආ හා දකුණු සැන්ඩ්විච් දූපත්
+    common: දකුණු ජෝජියආ හා දකුණු සැන්ඩ්විච් දූපත්
+  sk:
+    official: Južná Georgia a Južné Sandwichove ostrovy
+    common: Južná Georgia a Južné Sandwichove ostrovy
+  sl:
+    official: Južna Georgia in Južni Sandwichevi otoki
+    common: Južna Georgia in Južni Sandwichevi otoki
+  so:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  es:
+    official: Georgia del Sur e Islas Sandwitch del Sur
+    common: Georgia del Sur e Islas Sandwitch del Sur
+  sr:
+    official: Јужна Џорџија и Јужна Сендвич острва
+    common: Јужна Џорџија и Јужна Сендвич острва
+  sw:
+    official: Georgia
+    common: Georgia
+  sv:
+    official: Sydgeorgien och södra Sandwichöarna
+    common: Sydgeorgien och södra Sandwichöarna
+  ta:
+    official: தெற்கு ஜார்ஜியா மற்றும் தெற்கு சான்ட்விட்ச்
+    common: தெற்கு ஜார்ஜியா மற்றும் தெற்கு சான்ட்விட்ச்
+  tt:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  te:
+    official: సౌత్ జార్జియా మరియు ది సౌత్ సాండ్‌విచ్ ఐలాండ్స్
+    common: సౌత్ జార్జియా మరియు ది సౌత్ సాండ్‌విచ్ ఐలాండ్స్
+  tl:
+    official: South Georgia at ang South Sandwich Islands
+    common: South Georgia at ang South Sandwich Islands
+  th:
+    official: เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช
+    common: เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช
+  ti:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  tk:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  tr:
+    official: Güney Gürcistan ve Güney Sandöviç Adası
+    common: Güney Gürcistan ve Güney Sandöviç Adası
+  ug:
+    official: جەنۇبىي جورجىيە ۋە جەنۇبىي ساندىۋىچ ئارىلى
+    common: جەنۇبىي جورجىيە ۋە جەنۇبىي ساندىۋىچ ئارىلى
+  uk:
+    official: Південна Георгія і Південні Сандвічеві Острови
+    common: Південна Георгія і Південні Сандвічеві Острови
+  ve:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  vi:
+    official: Nam Gi-oa-gi-a va Nam Quần Đảo Xan-oui-chợ
+    common: Nam Gi-oa-gi-a va Nam Quần Đảo Xan-oui-chợ
+  cy:
+    official: De Georgia ac Ynysoedd De Sandwich
+    common: De Georgia ac Ynysoedd De Sandwich
+  wa:
+    official: Iyes Sandwich do sud
+    common: Iyes Sandwich do sud
+  wo:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  xh:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+  zu:
+    official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands

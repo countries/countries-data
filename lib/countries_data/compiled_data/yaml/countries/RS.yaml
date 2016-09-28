@@ -1,0 +1,333 @@
+---
+continent: Europe
+alpha2: RS
+alpha3: SRB
+country_code: '381'
+international_prefix: '99'
+ioc: SRB
+gec: RI
+name: Serbia
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: '0'
+number: '688'
+region: Europe
+subregion: Southern Europe
+world_region: EMEA
+un_locode: RS
+nationality: Serbian
+postal_code: true
+unofficial_names:
+- Serbia
+- Serbien
+- Serbie
+- セルビア
+- Servië
+languages_official:
+- sr
+languages_spoken:
+- sr
+geo:
+  latitude: 44.016521
+  latitude_dec: '44.23297119140625'
+  longitude: 21.005859
+  longitude_dec: '20.797958374023438'
+  max_latitude: 46.1900319
+  max_longitude: 23.0063095
+  min_latitude: 42.2315029
+  min_longitude: 18.8385221
+  bounds:
+    northeast:
+      lat: 46.1900319
+      lng: 23.0063095
+    southwest:
+      lat: 42.2315029
+      lng: 18.8385221
+currency_code: RSD
+postal_address_data:
+  key: RS
+  zipex: '106314'
+  name: REPUBLIC OF SERBIA
+  zip: "\\d{5,6}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  posturl: http://www.posta.rs/struktura/lat/aplikacije/pronadji/nadji-postu.asp
+  id: data/RS
+translations:
+  af:
+    official: Serwië
+    common: Serwië
+  sq:
+    official: Serbia
+    common: Serbia
+  am:
+    official: ጐፈሴባጃን
+    common: ጐፈሴባጃን
+  ar:
+    official: صربية
+    common: صربية
+  hy:
+    official: Սերբիա
+    common: Սերբիա
+  as:
+    official: চাৰ্বিয়া
+    common: চাৰ্বিয়া
+  az:
+    official: Siriya
+    common: Siriya
+  eu:
+    official: Serbia
+    common: Serbia
+  be:
+    official: Сербія
+    common: Сербія
+  bn:
+    official: সার্বিয়া
+    common: সার্বিয়া
+  bs:
+    official: Srbija
+    common: Srbija
+  br:
+    official: Serbia
+    common: Serbia
+  bg:
+    official: Сърбия
+    common: Сърбия
+  ca:
+    official: Sèrbia
+    common: Sèrbia
+  zh:
+    official: 塞尔维亚
+    common: 塞尔维亚
+  cs:
+    official: Srbsko
+    common: Srbsko
+  da:
+    official: Serbien
+    common: Serbien
+  nl:
+    official: Servië
+    common: Servië
+  dz:
+    official: སར་བི་ཡ།
+    common: སར་བི་ཡ།
+  en:
+    official: Serbia
+    common: Serbia
+  eo:
+    official: Serbio
+    common: Serbio
+  et:
+    official: Serbia
+    common: Serbia
+  fo:
+    official: Aserbajdsjan
+    common: Aserbajdsjan
+  fi:
+    official: Serbia
+    common: Serbia
+  fr:
+    official: Serbie
+    common: Serbie
+  ka:
+    official: სერბია
+    common: სერბია
+  de:
+    official: Serbien
+    common: Serbien
+  ga:
+    official: An tSeirbia
+    common: An tSeirbia
+  gl:
+    official: Serbia
+    common: Serbia
+  el:
+    official: Σερβία
+    common: Σερβία
+  gu:
+    official: સર્બિઆ
+    common: સર્બિઆ
+  he:
+    official: סרביה
+    common: סרביה
+  hi:
+    official: सर्बिया
+    common: सर्बिया
+  hr:
+    official: Srbija
+    common: Srbija
+  hu:
+    official: Szerbia
+    common: Szerbia
+  is:
+    official: Serbía
+    common: Serbía
+  ia:
+    official: Serbia
+    common: Serbia
+  id:
+    official: Serbia
+    common: Serbia
+  it:
+    official: Serbia
+    common: Serbia
+  ja:
+    official: セルビア
+    common: セルビア
+  kn:
+    official: ಸರ್ಬಿಯಾ
+    common: ಸರ್ಬಿಯಾ
+  kk:
+    official: Сербия
+    common: Сербия
+  km:
+    official: ស៊ែរប៊ី
+    common: ស៊ែរប៊ី
+  rw:
+    official: Azeribayijani
+    common: Azeribayijani
+  ko:
+    official: 세르비아
+    common: 세르비아
+  ku:
+    official: Sirbistan
+    common: Sirbistan
+  lv:
+    official: Serbija
+    common: Serbija
+  lt:
+    official: Serbija
+    common: Serbija
+  mk:
+    official: Србија
+    common: Србија
+  ml:
+    official: സെര്‍ബിയ
+    common: സെര്‍ബിയ
+  mi:
+    official: Serbia
+    common: Serbia
+  mr:
+    official: अझेर्बेजान
+    common: अझेर्बेजान
+  ms:
+    official: Azerbaijan
+    common: Azerbaijan
+  mt:
+    official: Serbja
+    common: Serbja
+  mn:
+    official: Сири
+    common: Сири
+  ne:
+    official: सर्बिया
+    common: सर्बिया
+  nn:
+    official: Serbia
+    common: Serbia
+  nb:
+    official: Serbia
+    common: Serbia
+  oc:
+    official: Serbia
+    common: Serbia
+  or:
+    official: ସର୍ବିଆ
+    common: ସର୍ବିଆ
+  pa:
+    official: ਸੀਰਬੀਆ
+    common: ਸੀਰਬੀਆ
+  fa:
+    official: صربستان
+    common: صربستان
+  pl:
+    official: Serbia
+    common: Serbia
+  pt:
+    official: Sérvia
+    common: Sérvia
+  ps:
+    official: الجزایر
+    common: الجزایر
+  ro:
+    official: Serbia
+    common: Serbia
+  ru:
+    official: Сербия
+    common: Сербия
+  si:
+    official: සර්බියාව
+    common: සර්බියාව
+  sk:
+    official: Srbsko
+    common: Srbsko
+  sl:
+    official: Srbija
+    common: Srbija
+  so:
+    official: Laybeeriya
+    common: Laybeeriya
+  es:
+    official: Serbia
+    common: Serbia
+  sr:
+    official: Србија
+    common: Србија
+  sw:
+    official: Serbia
+    common: Serbia
+  sv:
+    official: Serbien
+    common: Serbien
+  ta:
+    official: செர்பியா
+    common: செர்பியா
+  tt:
+    official: Әзәрбайҗан
+    common: Әзәрбайҗан
+  te:
+    official: సెర్బియా
+    common: సెర్బియా
+  tl:
+    official: Serbiya
+    common: Serbiya
+  th:
+    official: เซอร์เบีย
+    common: เซอร์เบีย
+  ti:
+    official: አዘርባጃን
+    common: አዘርባጃን
+  tk:
+    official: Azerbeýjan
+    common: Azerbeýjan
+  tr:
+    official: Sırbistan
+    common: Sırbistan
+  ug:
+    official: سېربىيە
+    common: سېربىيە
+  uk:
+    official: Сербія
+    common: Сербія
+  ve:
+    official: Syria
+    common: Syria
+  vi:
+    official: Xéc-bi
+    common: Xéc-bi
+  cy:
+    official: Serbia
+    common: Serbia
+  wa:
+    official: Serbeye
+    common: Serbeye
+  wo:
+    official: Serbi
+    common: Serbi
+  xh:
+    official: Serbia
+    common: Serbia
+  zu:
+    official: I-Serbiya
+    common: I-Serbiya

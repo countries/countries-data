@@ -1,0 +1,435 @@
+{
+  "continent": "South America",
+  "alpha2": "PY",
+  "alpha3": "PRY",
+  "country_code": "595",
+  "international_prefix": "002",
+  "ioc": "PAR",
+  "gec": "PA",
+  "name": "Paraguay",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    9
+  ],
+  "national_prefix": "0",
+  "number": "600",
+  "region": "Americas",
+  "subregion": "South America",
+  "world_region": "AMER",
+  "un_locode": "PY",
+  "nationality": "Paraguayan",
+  "postal_code": true,
+  "unofficial_names": [
+    "Paraguay",
+    "パラグアイ"
+  ],
+  "languages_official": [
+    "es",
+    "gn"
+  ],
+  "languages_spoken": [
+    "es",
+    "gn"
+  ],
+  "geo": {
+    "latitude": -23.442503,
+    "latitude_dec": "-23.24028968811035",
+    "longitude": -58.443832,
+    "longitude_dec": "-58.395172119140625",
+    "max_latitude": -19.2876589,
+    "max_longitude": -54.26298329999999,
+    "min_latitude": -27.4933208,
+    "min_longitude": -62.63813879999999,
+    "bounds": {
+      "northeast": {
+        "lat": -19.2876589,
+        "lng": -54.26298329999999
+      },
+      "southwest": {
+        "lat": -27.4933208,
+        "lng": -62.63813879999999
+      }
+    }
+  },
+  "currency_code": "PYG",
+  "postal_address_data": {
+    "zipex": "1536,1538,1209",
+    "name": "PARAGUAY",
+    "zip": "\\d{4}",
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "key": "PY",
+    "id": "data/PY"
+  },
+  "translations": {
+    "af": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "sq": {
+      "official": "Paraguaj",
+      "common": "Paraguaj"
+    },
+    "am": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "ar": {
+      "official": "الباراغواي",
+      "common": "الباراغواي"
+    },
+    "hy": {
+      "official": "Պարագվայ",
+      "common": "Պարագվայ"
+    },
+    "as": {
+      "official": "পাৰাগুৱে",
+      "common": "পাৰাগুৱে"
+    },
+    "az": {
+      "official": "Paraqvay",
+      "common": "Paraqvay"
+    },
+    "eu": {
+      "official": "Paraguai",
+      "common": "Paraguai"
+    },
+    "be": {
+      "official": "Парагвай",
+      "common": "Парагвай"
+    },
+    "bn": {
+      "official": "প্যারাগুয়ে",
+      "common": "প্যারাগুয়ে"
+    },
+    "bs": {
+      "official": "Paragvaj",
+      "common": "Paragvaj"
+    },
+    "br": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "bg": {
+      "official": "Парагвай",
+      "common": "Парагвай"
+    },
+    "ca": {
+      "official": "Paraguai",
+      "common": "Paraguai"
+    },
+    "zh": {
+      "official": "巴拉圭",
+      "common": "巴拉圭"
+    },
+    "cs": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "da": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "nl": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "dz": {
+      "official": "པ་ར་གུ་ཡེ།",
+      "common": "པ་ར་གུ་ཡེ།"
+    },
+    "en": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "eo": {
+      "official": "Paragvajo",
+      "common": "Paragvajo"
+    },
+    "et": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "fo": {
+      "official": "Paraguei",
+      "common": "Paraguei"
+    },
+    "fi": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "fr": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "ka": {
+      "official": "პარაგვაი",
+      "common": "პარაგვაი"
+    },
+    "de": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "ga": {
+      "official": "Paragua",
+      "common": "Paragua"
+    },
+    "gl": {
+      "official": "Paraguai",
+      "common": "Paraguai"
+    },
+    "el": {
+      "official": "Παραγουάη",
+      "common": "Παραγουάη"
+    },
+    "gu": {
+      "official": "પારાગ્વે",
+      "common": "પારાગ્વે"
+    },
+    "he": {
+      "official": "פארגוואי",
+      "common": "פארגוואי"
+    },
+    "hi": {
+      "official": "पैरागुए",
+      "common": "पैरागुए"
+    },
+    "hr": {
+      "official": "Paragvaj",
+      "common": "Paragvaj"
+    },
+    "hu": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "is": {
+      "official": "Paragvæ",
+      "common": "Paragvæ"
+    },
+    "ia": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "id": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "it": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "ja": {
+      "official": "パラグアイ",
+      "common": "パラグアイ"
+    },
+    "kn": {
+      "official": "ಪರಾಗ್ವೇ",
+      "common": "ಪರಾಗ್ವೇ"
+    },
+    "kk": {
+      "official": "Парагвай",
+      "common": "Парагвай"
+    },
+    "km": {
+      "official": "ប៉ារ៉ាហ្គាយ",
+      "common": "ប៉ារ៉ាហ្គាយ"
+    },
+    "rw": {
+      "official": "Paragwe",
+      "common": "Paragwe"
+    },
+    "ko": {
+      "official": "파라과이",
+      "common": "파라과이"
+    },
+    "ku": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "lv": {
+      "official": "Paragvaja",
+      "common": "Paragvaja"
+    },
+    "lt": {
+      "official": "Paragvajus",
+      "common": "Paragvajus"
+    },
+    "mk": {
+      "official": "Парагвај",
+      "common": "Парагвај"
+    },
+    "ml": {
+      "official": "പരാഗ്വേ",
+      "common": "പരാഗ്വേ"
+    },
+    "mi": {
+      "official": "Parakai",
+      "common": "Parakai"
+    },
+    "mr": {
+      "official": "पॅराग्वे",
+      "common": "पॅराग्वे"
+    },
+    "ms": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "mt": {
+      "official": "Paragwaj",
+      "common": "Paragwaj"
+    },
+    "mn": {
+      "official": "Прагвай",
+      "common": "Прагвай"
+    },
+    "ne": {
+      "official": "पराग्वे",
+      "common": "पराग्वे"
+    },
+    "nn": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "nb": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "oc": {
+      "official": "Paraguai",
+      "common": "Paraguai"
+    },
+    "or": {
+      "official": "ପାରାଗ୍ବେ",
+      "common": "ପାରାଗ୍ବେ"
+    },
+    "pa": {
+      "official": "ਪੇਰੂਗਵੇ",
+      "common": "ਪੇਰੂਗਵੇ"
+    },
+    "fa": {
+      "official": "پاراگوئه",
+      "common": "پاراگوئه"
+    },
+    "pl": {
+      "official": "Paragwaj",
+      "common": "Paragwaj"
+    },
+    "pt": {
+      "official": "Paraguai",
+      "common": "Paraguai"
+    },
+    "ps": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "ro": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "ru": {
+      "official": "Парагвай",
+      "common": "Парагвай"
+    },
+    "si": {
+      "official": "පැරගුවේ",
+      "common": "පැරගුවේ"
+    },
+    "sk": {
+      "official": "Paraguaj",
+      "common": "Paraguaj"
+    },
+    "sl": {
+      "official": "Paragvaj",
+      "common": "Paragvaj"
+    },
+    "so": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "es": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "sr": {
+      "official": "Парагвај",
+      "common": "Парагвај"
+    },
+    "sw": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "sv": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "ta": {
+      "official": "பராகுவே",
+      "common": "பராகுவே"
+    },
+    "tt": {
+      "official": "Параgуай",
+      "common": "Параgуай"
+    },
+    "te": {
+      "official": "పరాగ్వే",
+      "common": "పరాగ్వే"
+    },
+    "tl": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "th": {
+      "official": "ปารากวัย",
+      "common": "ปารากวัย"
+    },
+    "ti": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "tk": {
+      "official": "Paragwaý",
+      "common": "Paragwaý"
+    },
+    "tr": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "ug": {
+      "official": "پاراگۋاي",
+      "common": "پاراگۋاي"
+    },
+    "uk": {
+      "official": "Парагвай",
+      "common": "Парагвай"
+    },
+    "ve": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "vi": {
+      "official": "Pa-ra-guay",
+      "common": "Pa-ra-guay"
+    },
+    "cy": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "wa": {
+      "official": "Paragway",
+      "common": "Paragway"
+    },
+    "wo": {
+      "official": "Paraguwaay",
+      "common": "Paraguwaay"
+    },
+    "xh": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "zu": {
+      "official": "I-Paraguwayi",
+      "common": "I-Paraguwayi"
+    }
+  }
+}

@@ -1,0 +1,328 @@
+---
+continent: Africa
+alpha2: BI
+alpha3: BDI
+country_code: '257'
+international_prefix: '00'
+ioc: BDI
+gec: BY
+name: Burundi
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: None
+number: '108'
+region: Africa
+subregion: Eastern Africa
+world_region: EMEA
+un_locode: BI
+nationality: Burundian
+postal_code: false
+unofficial_names:
+- Burundi
+- ブルンジ
+languages_official:
+- fr
+- rn
+languages_spoken:
+- fr
+- rn
+geo:
+  latitude: -3.373056
+  latitude_dec: "-3.365208148956299"
+  longitude: 29.918886
+  longitude_dec: '29.88650894165039'
+  max_latitude: -2.3097303
+  max_longitude: 30.8495447
+  min_latitude: -4.4693288
+  min_longitude: 29.000993
+  bounds:
+    northeast:
+      lat: -2.3097303
+      lng: 30.8495447
+    southwest:
+      lat: -4.4693288
+      lng: 29.000993
+currency_code: BIF
+postal_address_data:
+  id: data/BI
+  key: BI
+  name: BURUNDI
+translations:
+  af:
+    official: Burundi
+    common: Burundi
+  sq:
+    official: Burundi
+    common: Burundi
+  am:
+    official: Burundi
+    common: Burundi
+  ar:
+    official: بوروندي
+    common: بوروندي
+  hy:
+    official: Բուրունդի
+    common: Բուրունդի
+  as:
+    official: বুৰুন্ডি
+    common: বুৰুন্ডি
+  az:
+    official: Burundi
+    common: Burundi
+  eu:
+    official: Burundi
+    common: Burundi
+  be:
+    official: Бурундзі
+    common: Бурундзі
+  bn:
+    official: বুরুন্ডি
+    common: বুরুন্ডি
+  bs:
+    official: Burundi
+    common: Burundi
+  br:
+    official: Burundi
+    common: Burundi
+  bg:
+    official: Бурунди
+    common: Бурунди
+  ca:
+    official: Burundi
+    common: Burundi
+  zh:
+    official: 布隆迪
+    common: 布隆迪
+  cs:
+    official: Burundi
+    common: Burundi
+  da:
+    official: Burundi
+    common: Burundi
+  nl:
+    official: Burundi
+    common: Burundi
+  dz:
+    official: བུ་རུན་ཌ་ཡེ།
+    common: བུ་རུན་ཌ་ཡེ།
+  en:
+    official: Burundi
+    common: Burundi
+  eo:
+    official: Burundo
+    common: Burundo
+  et:
+    official: Burundi
+    common: Burundi
+  fo:
+    official: Burundi
+    common: Burundi
+  fi:
+    official: Burundi
+    common: Burundi
+  fr:
+    official: Burundi
+    common: Burundi
+  ka:
+    official: ბურუნდი
+    common: ბურუნდი
+  de:
+    official: Burundi
+    common: Burundi
+  ga:
+    official: An Bhurúin
+    common: An Bhurúin
+  gl:
+    official: Burundi
+    common: Burundi
+  el:
+    official: Μπουρούντι
+    common: Μπουρούντι
+  gu:
+    official: બુરુન્ડી
+    common: બુરુન્ડી
+  he:
+    official: בורונדי
+    common: בורונדי
+  hi:
+    official: बुरुंडी
+    common: बुरुंडी
+  hr:
+    official: Burundi
+    common: Burundi
+  hu:
+    official: Burundi
+    common: Burundi
+  is:
+    official: Búrúndí
+    common: Búrúndí
+  ia:
+    official: Burundi
+    common: Burundi
+  id:
+    official: Burundi
+    common: Burundi
+  it:
+    official: Burundi
+    common: Burundi
+  ja:
+    official: ブルンジ
+    common: ブルンジ
+  kn:
+    official: ಬುರುಂಡಿ
+    common: ಬುರುಂಡಿ
+  kk:
+    official: Бурунди
+    common: Бурунди
+  km:
+    official: ប៊ូរុនឌី
+    common: ប៊ូរុនឌី
+  rw:
+    official: Uburundi
+    common: Uburundi
+  ko:
+    official: 부룬디
+    common: 부룬디
+  ku:
+    official: Bûrûndî
+    common: Bûrûndî
+  lv:
+    official: Burundi
+    common: Burundi
+  lt:
+    official: Burundis
+    common: Burundis
+  mk:
+    official: Бурунди
+    common: Бурунди
+  ml:
+    official: ബുറുണ്ടി
+    common: ബുറുണ്ടി
+  mi:
+    official: Puruniti
+    common: Puruniti
+  mr:
+    official: बुरुंडी
+    common: बुरुंडी
+  ms:
+    official: Burundi
+    common: Burundi
+  mt:
+    official: Burundi
+    common: Burundi
+  mn:
+    official: Burundi
+    common: Burundi
+  ne:
+    official: बुरण्डी
+    common: बुरण्डी
+  nn:
+    official: Burundi
+    common: Burundi
+  nb:
+    official: Burundi
+    common: Burundi
+  oc:
+    official: Burundi
+    common: Burundi
+  or:
+    official: ବୁରୁଣ୍ଡି
+    common: ବୁରୁଣ୍ଡି
+  pa:
+    official: ਬੂਰੂਮਾਡੀ
+    common: ਬੂਰੂਮਾਡੀ
+  fa:
+    official: بوروندی
+    common: بوروندی
+  pl:
+    official: Burundi
+    common: Burundi
+  pt:
+    official: Burundi
+    common: Burundi
+  ps:
+    official: Burundi
+    common: Burundi
+  ro:
+    official: Burundi
+    common: Burundi
+  ru:
+    official: Бурунди
+    common: Бурунди
+  si:
+    official: බුරුන්ඩි
+    common: බුරුන්ඩි
+  sk:
+    official: Burundi
+    common: Burundi
+  sl:
+    official: Burundi
+    common: Burundi
+  so:
+    official: Burundi
+    common: Burundi
+  es:
+    official: Burundi
+    common: Burundi
+  sr:
+    official: Бурунди
+    common: Бурунди
+  sw:
+    official: Burundi
+    common: Burundi
+  sv:
+    official: Burundi
+    common: Burundi
+  ta:
+    official: புருண்டி
+    common: புருண்டி
+  tt:
+    official: Бурунди
+    common: Бурунди
+  te:
+    official: బురుండీ
+    common: బురుండీ
+  tl:
+    official: Burundi
+    common: Burundi
+  th:
+    official: บุรุนดี
+    common: บุรุนดี
+  ti:
+    official: Burundi
+    common: Burundi
+  tk:
+    official: Burundi
+    common: Burundi
+  tr:
+    official: Burundi
+    common: Burundi
+  ug:
+    official: بۇرۇندى
+    common: بۇرۇندى
+  uk:
+    official: Бурунді
+    common: Бурунді
+  ve:
+    official: Burundi
+    common: Burundi
+  vi:
+    official: Bu-run-đi
+    common: Bu-run-đi
+  cy:
+    official: Burundi
+    common: Burundi
+  wa:
+    official: Bouroundi
+    common: Bouroundi
+  wo:
+    official: Buruundi
+    common: Buruundi
+  xh:
+    official: Burundi
+    common: Burundi
+  zu:
+    official: Burundi
+    common: Burundi

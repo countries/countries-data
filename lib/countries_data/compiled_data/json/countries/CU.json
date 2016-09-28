@@ -1,0 +1,428 @@
+{
+  "continent": "North America",
+  "alpha2": "CU",
+  "alpha3": "CUB",
+  "country_code": "53",
+  "international_prefix": "119",
+  "ioc": "CUB",
+  "gec": "CU",
+  "name": "Cuba",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "0",
+  "number": "192",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "AMER",
+  "un_locode": "CU",
+  "nationality": "Cuban",
+  "postal_code": true,
+  "unofficial_names": [
+    "Cuba",
+    "Kuba",
+    "キューバ"
+  ],
+  "languages_official": [
+    "es"
+  ],
+  "languages_spoken": [
+    "es"
+  ],
+  "geo": {
+    "latitude": 21.521757,
+    "latitude_dec": "22.066335678100586",
+    "longitude": -77.781167,
+    "longitude_dec": "-79.4531478881836",
+    "max_latitude": 23.2767521,
+    "max_longitude": -74.1322232,
+    "min_latitude": 19.8258995,
+    "min_longitude": -84.95188879999999,
+    "bounds": {
+      "northeast": {
+        "lat": 23.2767521,
+        "lng": -74.1322232
+      },
+      "southwest": {
+        "lat": 19.8258995,
+        "lng": -84.95188879999999
+      }
+    }
+  },
+  "currency_code": "CUP",
+  "postal_address_data": {
+  },
+  "translations": {
+    "af": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "sq": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "am": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "ar": {
+      "official": "كوبا",
+      "common": "كوبا"
+    },
+    "hy": {
+      "official": "Կուբա",
+      "common": "Կուբա"
+    },
+    "as": {
+      "official": "কিউবা",
+      "common": "কিউবা"
+    },
+    "az": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "eu": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "be": {
+      "official": "Куба",
+      "common": "Куба"
+    },
+    "bn": {
+      "official": "কিউবা",
+      "common": "কিউবা"
+    },
+    "bs": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "br": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "bg": {
+      "official": "Куба",
+      "common": "Куба"
+    },
+    "ca": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "zh": {
+      "official": "古巴",
+      "common": "古巴"
+    },
+    "cs": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "da": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "nl": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "dz": {
+      "official": "ཀུས་བ།",
+      "common": "ཀུས་བ།"
+    },
+    "en": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "eo": {
+      "official": "Kubo",
+      "common": "Kubo"
+    },
+    "et": {
+      "official": "Kuuba",
+      "common": "Kuuba"
+    },
+    "fo": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "fi": {
+      "official": "Kuuba",
+      "common": "Kuuba"
+    },
+    "fr": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "ka": {
+      "official": "კუბა",
+      "common": "კუბა"
+    },
+    "de": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "ga": {
+      "official": "Cúba",
+      "common": "Cúba"
+    },
+    "gl": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "el": {
+      "official": "Κούβα",
+      "common": "Κούβα"
+    },
+    "gu": {
+      "official": "ક્યુબા",
+      "common": "ક્યુબા"
+    },
+    "he": {
+      "official": "קובה",
+      "common": "קובה"
+    },
+    "hi": {
+      "official": "क्यूबा",
+      "common": "क्यूबा"
+    },
+    "hr": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "hu": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "is": {
+      "official": "Kúba",
+      "common": "Kúba"
+    },
+    "ia": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "id": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "it": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "ja": {
+      "official": "キューバ",
+      "common": "キューバ"
+    },
+    "kn": {
+      "official": "ಕ್ಯೂಬಾ",
+      "common": "ಕ್ಯೂಬಾ"
+    },
+    "kk": {
+      "official": "Куба",
+      "common": "Куба"
+    },
+    "km": {
+      "official": "គុយបា",
+      "common": "គុយបា"
+    },
+    "rw": {
+      "official": "Kiba",
+      "common": "Kiba"
+    },
+    "ko": {
+      "official": "쿠바",
+      "common": "쿠바"
+    },
+    "ku": {
+      "official": "Kûba",
+      "common": "Kûba"
+    },
+    "lv": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "lt": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "mk": {
+      "official": "Куба",
+      "common": "Куба"
+    },
+    "ml": {
+      "official": "ക്യൂബ",
+      "common": "ക്യൂബ"
+    },
+    "mi": {
+      "official": "Kūpā",
+      "common": "Kūpā"
+    },
+    "mr": {
+      "official": "क्यूबा",
+      "common": "क्यूबा"
+    },
+    "ms": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "mt": {
+      "official": "Kolumbja",
+      "common": "Kolumbja"
+    },
+    "mn": {
+      "official": "Куба",
+      "common": "Куба"
+    },
+    "ne": {
+      "official": "क्यूबा",
+      "common": "क्यूबा"
+    },
+    "nn": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "nb": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "oc": {
+      "official": "Cubà",
+      "common": "Cubà"
+    },
+    "or": {
+      "official": "କ୍ଯୁବା",
+      "common": "କ୍ଯୁବା"
+    },
+    "pa": {
+      "official": "ਕਿਊਬਾ",
+      "common": "ਕਿਊਬਾ"
+    },
+    "fa": {
+      "official": "کوبا",
+      "common": "کوبا"
+    },
+    "pl": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "pt": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "ps": {
+      "official": "کیوبا",
+      "common": "کیوبا"
+    },
+    "ro": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "ru": {
+      "official": "Куба",
+      "common": "Куба"
+    },
+    "si": {
+      "official": "කියුබා",
+      "common": "කියුබා"
+    },
+    "sk": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "sl": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "so": {
+      "official": "Kuuba",
+      "common": "Kuuba"
+    },
+    "es": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "sr": {
+      "official": "Куба",
+      "common": "Куба"
+    },
+    "sw": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "sv": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "ta": {
+      "official": "க்யூபா",
+      "common": "க்யூபா"
+    },
+    "tt": {
+      "official": "Куба",
+      "common": "Куба"
+    },
+    "te": {
+      "official": "క్యూబా",
+      "common": "క్యూబా"
+    },
+    "tl": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "th": {
+      "official": "คิวบา",
+      "common": "คิวบา"
+    },
+    "ti": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "tk": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "tr": {
+      "official": "Küba",
+      "common": "Küba"
+    },
+    "ug": {
+      "official": "كۇبا",
+      "common": "كۇبا"
+    },
+    "uk": {
+      "official": "Куба",
+      "common": "Куба"
+    },
+    "ve": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "vi": {
+      "official": "Cu-ba",
+      "common": "Cu-ba"
+    },
+    "cy": {
+      "official": "Ciwba",
+      "common": "Ciwba"
+    },
+    "wa": {
+      "official": "Cuba",
+      "common": "Cuba"
+    },
+    "wo": {
+      "official": "Kubaa",
+      "common": "Kubaa"
+    },
+    "xh": {
+      "official": "Columbia",
+      "common": "Columbia"
+    },
+    "zu": {
+      "official": "I Kholombiya",
+      "common": "I Kholombiya"
+    }
+  }
+}

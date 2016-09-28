@@ -1,0 +1,442 @@
+{
+  "continent": "Australia",
+  "alpha2": "UM",
+  "alpha3": "UMI",
+  "country_code": "",
+  "international_prefix": "",
+  "ioc": null,
+  "gec": null,
+  "name": "United States Minor Outlying Islands",
+  "national_destination_code_lengths": [
+
+  ],
+  "national_number_lengths": [
+
+  ],
+  "national_prefix": "",
+  "number": "581",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "world_region": "AMER",
+  "un_locode": "UM",
+  "nationality": "American",
+  "postal_code": true,
+  "unofficial_names": [
+    "United States Minor Outlying Islands",
+    "US-Amerikanische Hoheitsgebiete",
+    "Dépendances américaines",
+    "Islas menores de Estados Unidos",
+    "合衆国領有小離島",
+    "Kleine afgelegen eilanden van de Verenigde Staten"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 19.2823192,
+    "latitude_dec": "19.282319",
+    "longitude": 166.647047,
+    "longitude_dec": "166.647047",
+    "max_latitude": 28.3977184,
+    "max_longitude": -159.9849071,
+    "min_latitude": -0.3824678,
+    "min_longitude": 166.5997422,
+    "bounds": {
+      "northeast": {
+        "lat": 28.3977184,
+        "lng": -159.9849071
+      },
+      "southwest": {
+        "lat": -0.3824678,
+        "lng": 166.5997422
+      }
+    }
+  },
+  "currency_code": "USD",
+  "postal_address_data": {
+    "key": "UM",
+    "upper": "ACNOS",
+    "zipex": "96898",
+    "name": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "zip": "96898",
+    "zip_name_type": "zip",
+    "require": "ACS",
+    "state_name_type": "state",
+    "id": "data/UM",
+    "posturl": "http://zip4.usps.com/zip4/welcome.jsp",
+    "fmt": "%N%n%O%n%A%n%C %S %Z"
+  },
+  "translations": {
+    "af": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "sq": {
+      "official": "Ishujt e Vegjël Amerikanë",
+      "common": "Ishujt e Vegjël Amerikanë"
+    },
+    "am": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "ar": {
+      "official": "جزر الولايات المتّحدة الصّغرى النّائية",
+      "common": "جزر الولايات المتّحدة الصّغرى النّائية"
+    },
+    "hy": {
+      "official": "Միացյալ Նահանգների Հեռավոր Փոքր Կղզիներ",
+      "common": "Միացյալ Նահանգների Հեռավոր Փոքր Կղզիներ"
+    },
+    "as": {
+      "official": "মাৰ্কিন যুক্তৰাষ্ট্ৰ বহিস্থিত ক্ষুদ্ৰ দ্বীপপুঞ্জ",
+      "common": "মাৰ্কিন যুক্তৰাষ্ট্ৰ বহিস্থিত ক্ষুদ্ৰ দ্বীপপুঞ্জ"
+    },
+    "az": {
+      "official": "Birləşmiş Ştatlar Yanı Kiçik Adalar",
+      "common": "Birləşmiş Ştatlar Yanı Kiçik Adalar"
+    },
+    "eu": {
+      "official": "Ameriketako Estatu Batuetako itsasoz haraindiko uharteak",
+      "common": "Ameriketako Estatu Batuetako itsasoz haraindiko uharteak"
+    },
+    "be": {
+      "official": "Знешнія малыя астравы ЗША",
+      "common": "Знешнія малыя астравы ЗША"
+    },
+    "bn": {
+      "official": "মার্কিন যুক্তরাষ্ট্র বহিস্থিত ক্ষুদ্র দ্বীপপুঞ্জ",
+      "common": "মার্কিন যুক্তরাষ্ট্র বহিস্থিত ক্ষুদ্র দ্বীপপুঞ্জ"
+    },
+    "bs": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "br": {
+      "official": "Inizi bihan pell ar Stadoù Unanet",
+      "common": "Inizi bihan pell ar Stadoù Unanet"
+    },
+    "bg": {
+      "official": "Обединени малки острови по крайбрежието на САЩ",
+      "common": "Обединени малки острови по крайбрежието на САЩ"
+    },
+    "ca": {
+      "official": "Illes Perifèriques Menors dels EUA",
+      "common": "Illes Perifèriques Menors dels EUA"
+    },
+    "zh": {
+      "official": "美国本土外小岛屿",
+      "common": "美国本土外小岛屿"
+    },
+    "cs": {
+      "official": "Menší odlehlé ostrovy Spojených států",
+      "common": "Menší odlehlé ostrovy Spojených států"
+    },
+    "da": {
+      "official": "Fjerne, mindre Amerikanske øer",
+      "common": "Fjerne, mindre Amerikanske øer"
+    },
+    "nl": {
+      "official": "Kleine Pacifische eilanden van de Verenigde Staten",
+      "common": "Kleine Pacifische eilanden van de Verenigde Staten"
+    },
+    "dz": {
+      "official": "ཡུ་ནའི་ཊེཊ་ སིཊེཊིསི་ མའི་ནོར་ ཨའུཊི་ལེ་ཡིང་ ཨའི་ལེནཌིསི།",
+      "common": "ཡུ་ནའི་ཊེཊ་ སིཊེཊིསི་ མའི་ནོར་ ཨའུཊི་ལེ་ཡིང་ ཨའི་ལེནཌིསི།"
+    },
+    "en": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "eo": {
+      "official": "Usonaj Malgrandaj Insuloj",
+      "common": "Usonaj Malgrandaj Insuloj"
+    },
+    "et": {
+      "official": "Ühendriikide väikesed hajasaared",
+      "common": "Ühendriikide väikesed hajasaared"
+    },
+    "fo": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "fi": {
+      "official": "Yhdysvaltain pienet erillissaaret",
+      "common": "Yhdysvaltain pienet erillissaaret"
+    },
+    "fr": {
+      "official": "Îles mineures éloignées des États-Unis d'Amérique",
+      "common": "Îles mineures éloignées des États-Unis d'Amérique"
+    },
+    "ka": {
+      "official": "შეერთებული შტატების გარე მცირე კუნძულები",
+      "common": "შეერთებული შტატების გარე მცირე კუნძულები"
+    },
+    "de": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "ga": {
+      "official": "Mion-Oileáin Imeallacha S.A.M.",
+      "common": "Mion-Oileáin Imeallacha S.A.M."
+    },
+    "gl": {
+      "official": "Illas Exteriores Menores dos Estados Unidos de América",
+      "common": "Illas Exteriores Menores dos Estados Unidos de América"
+    },
+    "el": {
+      "official": "Μικρές Νήσοι απομεμακρυσμένες από τις Ηνωμένες Πολιτείες",
+      "common": "Μικρές Νήσοι απομεμακρυσμένες από τις Ηνωμένες Πολιτείες"
+    },
+    "gu": {
+      "official": "યુનાઇટેડ સ્ટેટ્સ માઇનોર આઉટલાઇંગ આઇલેન્ડસ",
+      "common": "યુનાઇટેડ સ્ટેટ્સ માઇનોર આઉટલાઇંગ આઇલેન્ડસ"
+    },
+    "he": {
+      "official": "האיים הקטנים מסביב לארצות הברית",
+      "common": "האיים הקטנים מסביב לארצות הברית"
+    },
+    "hi": {
+      "official": "यूनाइटेड स्टेट्स माइनर आउटलाइंग आइलैन्ड्स",
+      "common": "यूनाइटेड स्टेट्स माइनर आउटलाइंग आइलैन्ड्स"
+    },
+    "hr": {
+      "official": "Mali udaljeni otoci SAD-a",
+      "common": "Mali udaljeni otoci SAD-a"
+    },
+    "hu": {
+      "official": "Amerikai Csendes-óceáni-szigetek",
+      "common": "Amerikai Csendes-óceáni-szigetek"
+    },
+    "is": {
+      "official": "Ytri-smáeyjar Bandaríkjanna",
+      "common": "Ytri-smáeyjar Bandaríkjanna"
+    },
+    "ia": {
+      "official": "Insulas Minor Peripheric del Statos Unite",
+      "common": "Insulas Minor Peripheric del Statos Unite"
+    },
+    "id": {
+      "official": "Kepulauan Kecil Terluar Amerika Serikat",
+      "common": "Kepulauan Kecil Terluar Amerika Serikat"
+    },
+    "it": {
+      "official": "Isole minori statunitensi",
+      "common": "Isole minori statunitensi"
+    },
+    "ja": {
+      "official": "アメリカ合衆国外諸島",
+      "common": "アメリカ合衆国外諸島"
+    },
+    "kn": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "kk": {
+      "official": "АҚШ-ң Сыртқы Кішкене аралдары",
+      "common": "АҚШ-ң Сыртқы Кішкене аралдары"
+    },
+    "km": {
+      "official": "កោះ​តូច​នៅ​ឆ្ងាយ​ពី​សហរដ្ឋ​អាមេរិក",
+      "common": "កោះ​តូច​នៅ​ឆ្ងាយ​ពី​សហរដ្ឋ​អាមេរិក"
+    },
+    "rw": {
+      "official": "Ibirwa Bito Bikikije Leta Zunze Ubumwe",
+      "common": "Ibirwa Bito Bikikije Leta Zunze Ubumwe"
+    },
+    "ko": {
+      "official": "미국령 소군도",
+      "common": "미국령 소군도"
+    },
+    "ku": {
+      "official": "Giravên biçûk derve Emerîkayê",
+      "common": "Giravên biçûk derve Emerîkayê"
+    },
+    "lv": {
+      "official": "ASV Mazās Aizjūras Salas",
+      "common": "ASV Mazās Aizjūras Salas"
+    },
+    "lt": {
+      "official": "Jungtinių Amerikos Valstijų mažosios aplinkinės salos",
+      "common": "Jungtinių Amerikos Valstijų mažosios aplinkinės salos"
+    },
+    "mk": {
+      "official": "Помали надворешни острови на соединетите држави",
+      "common": "Помали надворешни острови на соединетите држави"
+    },
+    "ml": {
+      "official": "യുണെറ്റഡ് സ്റ്റേറ്റ്സ് മൈനര്‍ ഔട്ട്‌ലയിങ്ങ് ദ്വീപുകള്‍",
+      "common": "യുണെറ്റഡ് സ്റ്റേറ്റ്സ് മൈനര്‍ ഔട്ട്‌ലയിങ്ങ് ദ്വീപുകള്‍"
+    },
+    "mi": {
+      "official": "Amerika",
+      "common": "Amerika"
+    },
+    "mr": {
+      "official": "युनायटेड स्टेटस् मायनॉर आऊटलायिंग आयलॅंडस्",
+      "common": "युनायटेड स्टेटस् मायनॉर आऊटलायिंग आयलॅंडस्"
+    },
+    "ms": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "mt": {
+      "official": "Stati Uniti",
+      "common": "Stati Uniti"
+    },
+    "mn": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "ne": {
+      "official": "संयुक्त राज्य माइनर आउट लाईङ टापु",
+      "common": "संयुक्त राज्य माइनर आउट लाईङ टापु"
+    },
+    "nn": {
+      "official": "Mindre utanforliggjande øyar til USA",
+      "common": "Mindre utanforliggjande øyar til USA"
+    },
+    "nb": {
+      "official": "Mindre utenforliggende øyer til USA",
+      "common": "Mindre utenforliggende øyer til USA"
+    },
+    "oc": {
+      "official": "Estats Units d'Amèrica",
+      "common": "Estats Units d'Amèrica"
+    },
+    "or": {
+      "official": "ଯୁକ୍ତ ରାଷ୍ଟ୍ର ମାଈନର ଆଓଟଲେୟିଙ୍ଗ ଦ୍ବୀପ",
+      "common": "ଯୁକ୍ତ ରାଷ୍ଟ୍ର ମାଈନର ଆଓଟଲେୟିଙ୍ଗ ଦ୍ବୀପ"
+    },
+    "pa": {
+      "official": "ਅਮਰੀਕਾ ਦੇ ਛੋਟੇ ਟਾਪੂ",
+      "common": "ਅਮਰੀਕਾ ਦੇ ਛੋਟੇ ਟਾਪੂ"
+    },
+    "fa": {
+      "official": "جزایر کوچک دورافتادهٔ ایالات متحده",
+      "common": "جزایر کوچک دورافتادهٔ ایالات متحده"
+    },
+    "pl": {
+      "official": "Dalekie Wyspy Mniejsze Stanów Zjednoczonych",
+      "common": "Dalekie Wyspy Mniejsze Stanów Zjednoczonych"
+    },
+    "pt": {
+      "official": "Ilhas Menores Exteriores dos Estados Unidos",
+      "common": "Ilhas Menores Exteriores dos Estados Unidos"
+    },
+    "ps": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "ro": {
+      "official": "Insulele de Coasta ale Statelor Unite",
+      "common": "Insulele de Coasta ale Statelor Unite"
+    },
+    "ru": {
+      "official": "Соединенные штаты Малых  Удаленных островов",
+      "common": "Соединенные штаты Малых  Удаленных островов"
+    },
+    "si": {
+      "official": "කුඩා දූපත් එක්සත් ජනපද",
+      "common": "කුඩා දූපත් එක්සත් ජනපද"
+    },
+    "sk": {
+      "official": "Menšie odľahlé ostrovy Spojených štátov",
+      "common": "Menšie odľahlé ostrovy Spojených štátov"
+    },
+    "sl": {
+      "official": "manjši otoki Združenih držav Amerike",
+      "common": "manjši otoki Združenih držav Amerike"
+    },
+    "so": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "es": {
+      "official": "Islas menores exteriores de Estados Unidos",
+      "common": "Islas menores exteriores de Estados Unidos"
+    },
+    "sr": {
+      "official": "Мања Спољашња Острва Сједињених Држава",
+      "common": "Мања Спољашња Острва Сједињених Држава"
+    },
+    "sw": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "sv": {
+      "official": "USA:s avlägsna mindre öar",
+      "common": "USA:s avlägsna mindre öar"
+    },
+    "ta": {
+      "official": "ஐக்கிய நாடுகள் சிறு சுற்றியுள்ள தீவுகள்",
+      "common": "ஐக்கிய நாடுகள் சிறு சுற்றியுள்ள தீவுகள்"
+    },
+    "tt": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "te": {
+      "official": "యునైటెడ్ స్టేట్స్ మైనర్ అవుట్‌లైండ్ ఐలాండ్స్",
+      "common": "యునైటెడ్ స్టేట్స్ మైనర్ అవుట్‌లైండ్ ఐలాండ్స్"
+    },
+    "tl": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "th": {
+      "official": "เกาะเล็กรอบนอกของสหรัฐอเมริกา",
+      "common": "เกาะเล็กรอบนอกของสหรัฐอเมริกา"
+    },
+    "ti": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "tk": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "tr": {
+      "official": "Minor Outlying Adaları Birleşik Devletleri",
+      "common": "Minor Outlying Adaları Birleşik Devletleri"
+    },
+    "ug": {
+      "official": "ئامېرىكا قوشما شتاتلىرى سىرتىدىكى ئاراللار",
+      "common": "ئامېرىكا قوشما شتاتلىرى سىرتىدىكى ئاراللار"
+    },
+    "uk": {
+      "official": "Американські Малі Віддалені Острови",
+      "common": "Американські Малі Віддалені Острови"
+    },
+    "ve": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "vi": {
+      "official": "Quần Đảo ở xa nhỏ Mỹ",
+      "common": "Quần Đảo ở xa nhỏ Mỹ"
+    },
+    "cy": {
+      "official": "Mân Ynysoedd Pellenig yr Unol Daleithiau",
+      "common": "Mân Ynysoedd Pellenig yr Unol Daleithiau"
+    },
+    "wa": {
+      "official": "Iyes mineures des Estats Unis",
+      "common": "Iyes mineures des Estats Unis"
+    },
+    "wo": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "xh": {
+      "official": "United States ye Melika",
+      "common": "United States ye Melika"
+    },
+    "zu": {
+      "official": "United States ye Melika",
+      "common": "United States ye Melika"
+    }
+  }
+}

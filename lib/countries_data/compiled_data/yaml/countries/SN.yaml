@@ -1,0 +1,330 @@
+---
+continent: Africa
+alpha2: SN
+alpha3: SEN
+country_code: '221'
+international_prefix: '00'
+ioc: SEN
+gec: SG
+name: Senegal
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: None
+number: '686'
+region: Africa
+subregion: Western Africa
+world_region: EMEA
+un_locode: SN
+nationality: Senegalese
+postal_code: true
+unofficial_names:
+- Senegal
+- Sénégal
+- セネガル
+languages_official:
+- fr
+languages_spoken:
+- fr
+geo:
+  latitude: 14.497401
+  latitude_dec: '14.36251163482666'
+  longitude: -14.452362
+  longitude_dec: "-14.531643867492676"
+  max_latitude: 16.6930539
+  max_longitude: -11.348607
+  min_latitude: 12.307289
+  min_longitude: -17.5298483
+  bounds:
+    northeast:
+      lat: 16.6930539
+      lng: -11.348607
+    southwest:
+      lat: 12.307289
+      lng: -17.5298483
+currency_code: XOF
+postal_address_data:
+  zipex: '12500,46024,16556,10000'
+  name: SENEGAL
+  zip: "\\d{5}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  key: SN
+  id: data/SN
+translations:
+  af:
+    official: Senegal
+    common: Senegal
+  sq:
+    official: Senegali
+    common: Senegali
+  am:
+    official: ሴኔጒሔ
+    common: ሴኔጒሔ
+  ar:
+    official: السّنغال
+    common: السّنغال
+  hy:
+    official: Սենեգալ
+    common: Սենեգալ
+  as:
+    official: ছেনেগাল
+    common: ছেনেগাল
+  az:
+    official: Seneqal
+    common: Seneqal
+  eu:
+    official: Senegal
+    common: Senegal
+  be:
+    official: Сенегал
+    common: Сенегал
+  bn:
+    official: সেনেগাল
+    common: সেনেগাল
+  bs:
+    official: Senegal
+    common: Senegal
+  br:
+    official: Senegal
+    common: Senegal
+  bg:
+    official: Сенегал
+    common: Сенегал
+  ca:
+    official: Senegal
+    common: Senegal
+  zh:
+    official: 塞内加尔
+    common: 塞内加尔
+  cs:
+    official: Senegal
+    common: Senegal
+  da:
+    official: Senegal
+    common: Senegal
+  nl:
+    official: Senegal
+    common: Senegal
+  dz:
+    official: སི་ནི་གཱལ།
+    common: སི་ནི་གཱལ།
+  en:
+    official: Senegal
+    common: Senegal
+  eo:
+    official: Senegalo
+    common: Senegalo
+  et:
+    official: Senegal
+    common: Senegal
+  fo:
+    official: Senegal
+    common: Senegal
+  fi:
+    official: Senegal
+    common: Senegal
+  fr:
+    official: Sénégal
+    common: Sénégal
+  ka:
+    official: სენეგალი
+    common: სენეგალი
+  de:
+    official: Senegal
+    common: Senegal
+  ga:
+    official: An tSeineagáil
+    common: An tSeineagáil
+  gl:
+    official: Senegal
+    common: Senegal
+  el:
+    official: Σενεγάλη
+    common: Σενεγάλη
+  gu:
+    official: સેનેગલ
+    common: સેનેગલ
+  he:
+    official: סנגל
+    common: סנגל
+  hi:
+    official: सेनेगल
+    common: सेनेगल
+  hr:
+    official: Senegal
+    common: Senegal
+  hu:
+    official: Szenegál
+    common: Szenegál
+  is:
+    official: Senegal
+    common: Senegal
+  ia:
+    official: Senegal
+    common: Senegal
+  id:
+    official: Senegal
+    common: Senegal
+  it:
+    official: Senegal
+    common: Senegal
+  ja:
+    official: セネガル
+    common: セネガル
+  kn:
+    official: ಸೆನೆಗಾಲ್
+    common: ಸೆನೆಗಾಲ್
+  kk:
+    official: Сенегал
+    common: Сенегал
+  km:
+    official: សេណេហ្គាល់
+    common: សេណេហ្គាល់
+  rw:
+    official: Senegali
+    common: Senegali
+  ko:
+    official: 세네갈
+    common: 세네갈
+  ku:
+    official: Senegal
+    common: Senegal
+  lv:
+    official: Senegāla
+    common: Senegāla
+  lt:
+    official: Senegalas
+    common: Senegalas
+  mk:
+    official: Сенегал
+    common: Сенегал
+  ml:
+    official: സെനഗല്‍
+    common: സെനഗല്‍
+  mi:
+    official: Senegal
+    common: Senegal
+  mr:
+    official: सेनेगल
+    common: सेनेगल
+  ms:
+    official: Senegal
+    common: Senegal
+  mt:
+    official: Senegal
+    common: Senegal
+  mn:
+    official: Сингали
+    common: Сингали
+  ne:
+    official: सेनेगल
+    common: सेनेगल
+  nn:
+    official: Senegal
+    common: Senegal
+  nb:
+    official: Senegal
+    common: Senegal
+  oc:
+    official: Senegal
+    common: Senegal
+  or:
+    official: ସେନେଗାଲ
+    common: ସେନେଗାଲ
+  pa:
+    official: ਸੈਨੇਗਾਲ
+    common: ਸੈਨੇਗਾਲ
+  fa:
+    official: سنگال
+    common: سنگال
+  pl:
+    official: Senegal
+    common: Senegal
+  pt:
+    official: Senegal
+    common: Senegal
+  ps:
+    official: Senegal
+    common: Senegal
+  ro:
+    official: Senegal
+    common: Senegal
+  ru:
+    official: Сенегал
+    common: Сенегал
+  si:
+    official: සෙනගාලය
+    common: සෙනගාලය
+  sk:
+    official: Senegal
+    common: Senegal
+  sl:
+    official: Senegal
+    common: Senegal
+  so:
+    official: Senegal
+    common: Senegal
+  es:
+    official: Senegal
+    common: Senegal
+  sr:
+    official: Сенегал
+    common: Сенегал
+  sw:
+    official: Senegal
+    common: Senegal
+  sv:
+    official: Senegal
+    common: Senegal
+  ta:
+    official: செனகல்
+    common: செனகல்
+  tt:
+    official: Сенеgал
+    common: Сенеgал
+  te:
+    official: సెనెగల్
+    common: సెనెగల్
+  tl:
+    official: Senegal
+    common: Senegal
+  th:
+    official: เซเนกัล
+    common: เซเนกัล
+  ti:
+    official: ሴኔጋል
+    common: ሴኔጋል
+  tk:
+    official: Senegal
+    common: Senegal
+  tr:
+    official: Senegal
+    common: Senegal
+  ug:
+    official: سېنېگال
+    common: سېنېگال
+  uk:
+    official: Сенегал
+    common: Сенегал
+  ve:
+    official: Senegal
+    common: Senegal
+  vi:
+    official: Xê-nê-gan
+    common: Xê-nê-gan
+  cy:
+    official: Senegal
+    common: Senegal
+  wa:
+    official: Senegål
+    common: Senegål
+  wo:
+    official: Senegaal
+    common: Senegaal
+  xh:
+    official: Senegal
+    common: Senegal
+  zu:
+    official: Senegal
+    common: Senegal

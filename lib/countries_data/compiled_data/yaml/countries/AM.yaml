@@ -1,0 +1,344 @@
+---
+continent: Asia
+alpha2: AM
+alpha3: ARM
+country_code: '374'
+international_prefix: '00'
+ioc: ARM
+gec: AM
+name: Armenia
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: '8'
+number: '051'
+region: Asia
+subregion: Western Asia
+world_region: EMEA
+un_locode: AM
+nationality: Armenian
+postal_code: true
+unofficial_names:
+- Armenia
+- Armenien
+- Arménie
+- アルメニア
+- Armenië
+languages_official:
+- hy
+- ru
+languages_spoken:
+- hy
+- ru
+geo:
+  latitude: 40.069099
+  latitude_dec: '40.29266357421875'
+  longitude: 45.038189
+  longitude_dec: '44.93947219848633'
+  max_latitude: 41.300993
+  max_longitude: 46.634222
+  min_latitude: 38.8402439
+  min_longitude: 43.44726
+  bounds:
+    northeast:
+      lat: 41.300993
+      lng: 46.634222
+    southwest:
+      lat: 38.8402439
+      lng: 43.44726
+currency_code: AMD
+postal_address_data:
+  lang: hy
+  sub_zipexs: 0201,0514~0601,0823~0901,1149~1201,1626~0000,0099~1701,2117~2201,2506~2601,3126~3201,3519~3601,3810~3901,4216
+  sub_lnames: Aragatsotn~Ararat~Armavir~Gegharkunik~Yerevan~Lori~Kotayk~Shirak~Syunik~Vayots
+    Dzor~Tavush
+  name: ARMENIA
+  zip: "(?:37)?\\d{4}"
+  fmt: "%N%n%O%n%A%n%Z%n%C%n%S"
+  languages: hy
+  lfmt: "%N%n%O%n%A%n%Z%n%C%n%S"
+  zipex: '375010,0002,0010'
+  sub_keys: Արագածոտն~Արարատ~Արմավիր~Գեղարքունիք~Երևան~Լոռի~Կոտայք~Շիրակ~Սյունիք~Վայոց
+    ձոր~Տավուշ
+  key: AM
+  sub_isoids: AG~AR~AV~GR~ER~LO~KT~SH~SU~VD~TV
+  id: data/AM
+  sub_zips: 0[2-5]~0[6-8]~09|1[01]~1[2-6]~00~1[7-9]|2[01]~2[2-5]~2[6-9]|3[01]~3[2-5]~3[6-8]~39|4[0-2]
+translations:
+  af:
+    official: Armenië
+    common: Armenië
+  sq:
+    official: Armenia
+    common: Armenia
+  am:
+    official: ጐሴሣኒ።
+    common: ጐሴሣኒ።
+  ar:
+    official: أرمينيا
+    common: أرمينيا
+  hy:
+    official: Հայաստանի Հանրապետութիւն
+    common: Հայաստանի Հանրապետութիւն
+  as:
+    official: আৰ্মেনিয়া
+    common: আৰ্মেনিয়া
+  az:
+    official: Ermənistan
+    common: Ermənistan
+  eu:
+    official: Armenia
+    common: Armenia
+  be:
+    official: Арменія
+    common: Арменія
+  bn:
+    official: আর্মেনিয়া
+    common: আর্মেনিয়া
+  bs:
+    official: Armenija
+    common: Armenija
+  br:
+    official: Armenia
+    common: Armenia
+  bg:
+    official: Армения
+    common: Армения
+  ca:
+    official: Armènia
+    common: Armènia
+  zh:
+    official: 亚美尼亚
+    common: 亚美尼亚
+  cs:
+    official: Arménie
+    common: Arménie
+  da:
+    official: Armenien
+    common: Armenien
+  nl:
+    official: Armenië
+    common: Armenië
+  dz:
+    official: ཨར་མི་ནི་ཡ།
+    common: ཨར་མི་ནི་ཡ།
+  en:
+    official: Armenia
+    common: Armenia
+  eo:
+    official: Armenio
+    common: Armenio
+  et:
+    official: Armeenia
+    common: Armeenia
+  fo:
+    official: Armenia
+    common: Armenia
+  fi:
+    official: Armenia
+    common: Armenia
+  fr:
+    official: Arménie
+    common: Arménie
+  ka:
+    official: სასომხეთი
+    common: სასომხეთი
+  de:
+    official: Armenien
+    common: Armenien
+  ga:
+    official: An Airméin
+    common: An Airméin
+  gl:
+    official: Armenia
+    common: Armenia
+  el:
+    official: Αρμενία
+    common: Αρμενία
+  gu:
+    official: આર્મેનિયા
+    common: આર્મેનિયા
+  he:
+    official: ארמניה
+    common: ארמניה
+  hi:
+    official: आर्मेनिया
+    common: आर्मेनिया
+  hr:
+    official: Armenija
+    common: Armenija
+  hu:
+    official: Örményország
+    common: Örményország
+  is:
+    official: Armenía
+    common: Armenía
+  ia:
+    official: Armenia
+    common: Armenia
+  id:
+    official: Armenia
+    common: Armenia
+  it:
+    official: Armenia
+    common: Armenia
+  ja:
+    official: アルメニア
+    common: アルメニア
+  kn:
+    official: ಆರ್ಮೇನಿಯಾ
+    common: ಆರ್ಮೇನಿಯಾ
+  kk:
+    official: Армения
+    common: Армения
+  km:
+    official: អាមេនី
+    common: អាមេនី
+  rw:
+    official: Arumeniya
+    common: Arumeniya
+  ko:
+    official: 아르메니아
+    common: 아르메니아
+  ku:
+    official: Ermenistan
+    common: Ermenistan
+  lv:
+    official: Armēnija
+    common: Armēnija
+  lt:
+    official: Armėnija
+    common: Armėnija
+  mk:
+    official: Ерменија
+    common: Ерменија
+  ml:
+    official: അര്‍മീനിയ
+    common: അര്‍മീനിയ
+  mi:
+    official: Āmenia
+    common: Āmenia
+  mr:
+    official: अमेरिका
+    common: अमेरिका
+  ms:
+    official: Armenia
+    common: Armenia
+  mt:
+    official: Arġentina
+    common: Arġentina
+  mn:
+    official: Армен
+    common: Армен
+  ne:
+    official: अरमेनिया
+    common: अरमेनिया
+  nn:
+    official: Armenia
+    common: Armenia
+  nb:
+    official: Armenia
+    common: Armenia
+  oc:
+    official: Armenia
+    common: Armenia
+  or:
+    official: ଆର୍ମେନିୟା
+    common: ଆର୍ମେନିୟା
+  pa:
+    official: ਅਰਮੀਨਾ
+    common: ਅਰਮੀਨਾ
+  fa:
+    official: ارمنستان
+    common: ارمنستان
+  pl:
+    official: Armenia
+    common: Armenia
+  pt:
+    official: Arménia
+    common: Arménia
+  ps:
+    official: Armenia
+    common: Armenia
+  ro:
+    official: Armenia
+    common: Armenia
+  ru:
+    official: Армения
+    common: Армения
+  si:
+    official: ආමේනියා
+    common: ආමේනියා
+  sk:
+    official: Arménsko
+    common: Arménsko
+  sl:
+    official: Armenija
+    common: Armenija
+  so:
+    official: Armeeniya
+    common: Armeeniya
+  es:
+    official: Armenia
+    common: Armenia
+  sr:
+    official: Јерменија
+    common: Јерменија
+  sw:
+    official: Armenia
+    common: Armenia
+  sv:
+    official: Armenien
+    common: Armenien
+  ta:
+    official: அர்மெனியா
+    common: அர்மெனியா
+  tt:
+    official: Әрмәнстан
+    common: Әрмәнстан
+  te:
+    official: అమేరికా
+    common: అమేరికా
+  tl:
+    official: Armenya
+    common: Armenya
+  th:
+    official: อาร์เมเนีย
+    common: อาร์เมเนีย
+  ti:
+    official: አርሜኒያ
+    common: አርሜኒያ
+  tk:
+    official: Armenia
+    common: Armenia
+  tr:
+    official: Ermenistan
+    common: Ermenistan
+  ug:
+    official: ئەرمېنىيە
+    common: ئەرمېنىيە
+  uk:
+    official: Вірменія
+    common: Вірменія
+  ve:
+    official: Armenia
+    common: Armenia
+  vi:
+    official: Ac-mê-ni
+    common: Ac-mê-ni
+  cy:
+    official: Armenia
+    common: Armenia
+  wa:
+    official: Årmeneye
+    common: Årmeneye
+  wo:
+    official: Armeeni
+    common: Armeeni
+  xh:
+    official: Argentina
+    common: Argentina
+  zu:
+    official: I-Argentina
+    common: I-Argentina

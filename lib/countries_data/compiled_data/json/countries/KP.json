@@ -1,0 +1,424 @@
+{
+  "continent": "Asia",
+  "alpha2": "KP",
+  "alpha3": "PRK",
+  "country_code": "850",
+  "international_prefix": "00",
+  "ioc": "PRK",
+  "gec": "KN",
+  "name": "Korea, Democratic People's Republic Of",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8,
+    9
+  ],
+  "national_prefix": "0",
+  "number": "408",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "world_region": "APAC",
+  "un_locode": "KP",
+  "nationality": "North Korean",
+  "postal_code": false,
+  "unofficial_names": [
+    "Korea (North)",
+    "Nordkorea",
+    "Corée du Nord",
+    "Corea del Norte",
+    "朝鮮民主主義人民共和国",
+    "Noord-Korea",
+    "Korea Democratic People's Republic",
+    "Korea (Democratic People s Republic of)"
+  ],
+  "languages_official": [
+    "ko"
+  ],
+  "languages_spoken": [
+    "ko"
+  ],
+  "geo": {
+    "latitude": 40.339852,
+    "latitude_dec": "40.077640533447266",
+    "longitude": 127.510093,
+    "longitude_dec": "127.13385009765625",
+    "max_latitude": 43.0115804,
+    "max_longitude": 130.6988006,
+    "min_latitude": 37.6733322,
+    "min_longitude": 124.2166283
+  },
+  "currency_code": "KPW",
+  "postal_address_data": {
+  },
+  "translations": {
+    "af": {
+      "official": "Noord-Korea",
+      "common": "Noord-Korea"
+    },
+    "sq": {
+      "official": "Korea, Republika Popullore Demokratike e",
+      "common": "Korea, Republika Popullore Demokratike e"
+    },
+    "am": {
+      "official": "፠ቡብ ጥሱ።",
+      "common": "፠ቡብ ጥሱ።"
+    },
+    "ar": {
+      "official": "كوريا، جمهورية كوريا الشّعبيّة الدّيموقراطيّة",
+      "common": "كوريا، جمهورية كوريا الشّعبيّة الدّيموقراطيّة"
+    },
+    "hy": {
+      "official": "Կորեա, Ժողովրդադեմոկրատական Հանրապետություն",
+      "common": "Կորեա, Ժողովրդադեմոկրատական Հանրապետություն"
+    },
+    "as": {
+      "official": "কোৰিয়া, গণতান্ত্ৰিক গণপ্ৰজাতন্ত্ৰী",
+      "common": "কোৰিয়া, গণতান্ত্ৰিক গণপ্ৰজাতন্ত্ৰী"
+    },
+    "az": {
+      "official": "Koreya, Demokratık Xalq Respublikası",
+      "common": "Koreya, Demokratık Xalq Respublikası"
+    },
+    "eu": {
+      "official": "Korea, Herri Errepublika Demokratikoa",
+      "common": "Korea, Herri Errepublika Demokratikoa"
+    },
+    "be": {
+      "official": "Карэя, Народна-Дэмакратычная Рэспубліка",
+      "common": "Карэя, Народна-Дэмакратычная Рэспубліка"
+    },
+    "bn": {
+      "official": "কোরিয়া, গণতান্ত্রিক গণপ্রজাতন্ত্রী",
+      "common": "কোরিয়া, গণতান্ত্রিক গণপ্রজাতন্ত্রী"
+    },
+    "bs": {
+      "official": "Koreja, Demokratska Narodna Republika",
+      "common": "Koreja, Demokratska Narodna Republika"
+    },
+    "br": {
+      "official": "Korea, Democratic People's Republic of",
+      "common": "Korea, Democratic People's Republic of"
+    },
+    "bg": {
+      "official": "Корея, Демократична народна република",
+      "common": "Корея, Демократична народна република"
+    },
+    "ca": {
+      "official": "Corea del Nord",
+      "common": "Corea del Nord"
+    },
+    "zh": {
+      "official": "朝鲜",
+      "common": "朝鲜"
+    },
+    "cs": {
+      "official": "Korea, lidově demokratická republika",
+      "common": "Korea, lidově demokratická republika"
+    },
+    "da": {
+      "official": "Korea, Den Demokratiske Folkerepublik",
+      "common": "Korea, Den Demokratiske Folkerepublik"
+    },
+    "nl": {
+      "official": "Noord-Korea",
+      "common": "Noord-Korea"
+    },
+    "dz": {
+      "official": "ཀོ་རི་ཡ། ཌེ་མོ་ཀེརེ་ཊིཀ་ པི་པཱལསི་ རི་པཔ་ལིཀ་ ཨོཕ་",
+      "common": "ཀོ་རི་ཡ། ཌེ་མོ་ཀེརེ་ཊིཀ་ པི་པཱལསི་ རི་པཔ་ལིཀ་ ཨོཕ་"
+    },
+    "en": {
+      "official": "Korea, Democratic People's Republic of",
+      "common": "Korea, Democratic People's Republic of"
+    },
+    "eo": {
+      "official": "Koreio, Demokratia Popola Respubliko",
+      "common": "Koreio, Demokratia Popola Respubliko"
+    },
+    "et": {
+      "official": "Põhja-Korea",
+      "common": "Põhja-Korea"
+    },
+    "fo": {
+      "official": "Korea, Democratic People's Republic of",
+      "common": "Korea, Democratic People's Republic of"
+    },
+    "fi": {
+      "official": "Korean demokraattinen kansantasavalta",
+      "common": "Korean demokraattinen kansantasavalta"
+    },
+    "fr": {
+      "official": "Corée, République populaire démocratique de",
+      "common": "Corée, République populaire démocratique de"
+    },
+    "ka": {
+      "official": "კორეის სახალხო-დემოკრატიული რესპუბლიკა",
+      "common": "კორეის სახალხო-დემოკრატიული რესპუბლიკა"
+    },
+    "de": {
+      "official": "Korea, Demokratische Volksrepublik",
+      "common": "Korea, Demokratische Volksrepublik"
+    },
+    "ga": {
+      "official": "Daonphoblacht Dhaonlathach na Cóiré",
+      "common": "Daonphoblacht Dhaonlathach na Cóiré"
+    },
+    "gl": {
+      "official": "Corea, República Democrática Popular de",
+      "common": "Corea, República Democrática Popular de"
+    },
+    "el": {
+      "official": "Κορέα, Λαοκρατική Δημοκρατία της",
+      "common": "Κορέα, Λαοκρατική Δημοκρατία της"
+    },
+    "gu": {
+      "official": "ઉત્તર કોરિયા",
+      "common": "ઉત્તર કોરિયા"
+    },
+    "he": {
+      "official": "קוריאה, דמוקרטיית העם של",
+      "common": "קוריאה, דמוקרטיית העם של"
+    },
+    "hi": {
+      "official": "कोरिया, डेमोक्रेटिक पीपल्स रिपब्लिक ऑफ",
+      "common": "कोरिया, डेमोक्रेटिक पीपल्स रिपब्लिक ऑफ"
+    },
+    "hr": {
+      "official": "Sjeverna Koreja",
+      "common": "Sjeverna Koreja"
+    },
+    "hu": {
+      "official": "Koreai Népi Demokratikus Köztársaság",
+      "common": "Koreai Népi Demokratikus Köztársaság"
+    },
+    "is": {
+      "official": "Norður-Kórea, sambandsalþýðulýðveldið",
+      "common": "Norður-Kórea, sambandsalþýðulýðveldið"
+    },
+    "ia": {
+      "official": "Corea, Republica Popular Democratic de",
+      "common": "Corea, Republica Popular Democratic de"
+    },
+    "id": {
+      "official": "Korea Utara",
+      "common": "Korea Utara"
+    },
+    "it": {
+      "official": "Corea del Nord",
+      "common": "Corea del Nord"
+    },
+    "ja": {
+      "official": "朝鮮民主主義人民共和国",
+      "common": "朝鮮民主主義人民共和国"
+    },
+    "kn": {
+      "official": "ಕೋರಿಯಾ, ಡೆಮೊಕ್ರಟಿಕ್ ಪೀಪಲ್ಸ್ ರಿಪಬ್ಲಿಕ್",
+      "common": "ಕೋರಿಯಾ, ಡೆಮೊಕ್ರಟಿಕ್ ಪೀಪಲ್ಸ್ ರಿಪಬ್ಲಿಕ್"
+    },
+    "kk": {
+      "official": "Корея (Солтүстік)",
+      "common": "Корея (Солтүстік)"
+    },
+    "km": {
+      "official": "កូរ៉េ សាធារណ​រដ្ឋ​ប្រជាមានិត​ប្រជាធិបតេយ្យ​​នៃ",
+      "common": "កូរ៉េ សាធារណ​រដ្ឋ​ប្រជាមានិត​ប្រជាធិបតេយ្យ​​នៃ"
+    },
+    "rw": {
+      "official": "Koreya, Repubulika Iharanira Demokarasi ya Rubanda ya",
+      "common": "Koreya, Repubulika Iharanira Demokarasi ya Rubanda ya"
+    },
+    "ko": {
+      "official": "조선민주주의인민공화국",
+      "common": "조선민주주의인민공화국"
+    },
+    "ku": {
+      "official": "Kore, Komara Demokratîk a Gelê",
+      "common": "Kore, Komara Demokratîk a Gelê"
+    },
+    "lv": {
+      "official": "Ziemeļkoreja",
+      "common": "Ziemeļkoreja"
+    },
+    "lt": {
+      "official": "Korėjos Liaudies Demokratinė Respublika",
+      "common": "Korėjos Liaudies Demokratinė Respublika"
+    },
+    "mk": {
+      "official": "Кореја, Демократска народна република",
+      "common": "Кореја, Демократска народна република"
+    },
+    "ml": {
+      "official": "കൊറിയ, ഡെമോക്രാറ്റിക് പീപ്പിള്‍സ് റിപ്പബ്ലിക് ഓഫ്",
+      "common": "കൊറിയ, ഡെമോക്രാറ്റിക് പീപ്പിള്‍സ് റിപ്പബ്ലിക് ഓഫ്"
+    },
+    "mi": {
+      "official": "Kōrea-ki-te-raki",
+      "common": "Kōrea-ki-te-raki"
+    },
+    "mr": {
+      "official": "कोरिया, डेमोक्रॅटिक पिपल्स रिपब्लिक ऑफ",
+      "common": "कोरिया, डेमोक्रॅटिक पिपल्स रिपब्लिक ऑफ"
+    },
+    "ms": {
+      "official": "Korea, Democratic People's Republic of",
+      "common": "Korea, Democratic People's Republic of"
+    },
+    "mt": {
+      "official": "Korea, Democratic People's Republic of",
+      "common": "Korea, Democratic People's Republic of"
+    },
+    "mn": {
+      "official": "Ардчилсан солонгос улс",
+      "common": "Ардчилсан солонгос улс"
+    },
+    "ne": {
+      "official": "कोरियाको प्रजातन्त्रिक जनगणराज्य",
+      "common": "कोरियाको प्रजातन्त्रिक जनगणराज्य"
+    },
+    "nn": {
+      "official": "Nord-Korea",
+      "common": "Nord-Korea"
+    },
+    "nb": {
+      "official": "Korea, Den demokratiske folkerepublikk",
+      "common": "Korea, Den demokratiske folkerepublikk"
+    },
+    "oc": {
+      "official": "Corèa, Republica Populara Democratica de",
+      "common": "Corèa, Republica Populara Democratica de"
+    },
+    "or": {
+      "official": "କୋରିଆ, ସର୍ବସାଧାରଣ ଜନସମାଜ ଗଣତନ୍ତ୍ର",
+      "common": "କୋରିଆ, ସର୍ବସାଧାରଣ ଜନସମାଜ ଗଣତନ୍ତ୍ର"
+    },
+    "pa": {
+      "official": "ਕੋਰੀਆ, ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ",
+      "common": "ਕੋਰੀਆ, ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ"
+    },
+    "fa": {
+      "official": "کره، جمهوری دموکراتیک خلق",
+      "common": "کره، جمهوری دموکراتیک خلق"
+    },
+    "pl": {
+      "official": "Korea Północna",
+      "common": "Korea Północna"
+    },
+    "pt": {
+      "official": "Coreia, República Popular Democrática de",
+      "common": "Coreia, República Popular Democrática de"
+    },
+    "ps": {
+      "official": "Korea, Democratic People's Republic of",
+      "common": "Korea, Democratic People's Republic of"
+    },
+    "ro": {
+      "official": "Republica democrată populară Coreea",
+      "common": "Republica democrată populară Coreea"
+    },
+    "ru": {
+      "official": "Корейская Народно-Демократическая Республика",
+      "common": "Корейская Народно-Демократическая Республика"
+    },
+    "si": {
+      "official": "සමාජවාදී මහජන කොරියා ජනරජය",
+      "common": "සමාජවාදී මහජන කොරියා ජනරජය"
+    },
+    "sk": {
+      "official": "Kórejská ľudovodemokratická republika",
+      "common": "Kórejská ľudovodemokratická republika"
+    },
+    "sl": {
+      "official": "Severna Koreja",
+      "common": "Severna Koreja"
+    },
+    "so": {
+      "official": "Kuuriyada Waqooyi",
+      "common": "Kuuriyada Waqooyi"
+    },
+    "es": {
+      "official": "Corea, República Democrática Popular de",
+      "common": "Corea, República Democrática Popular de"
+    },
+    "sr": {
+      "official": "Кореја, Демократска Народна Република",
+      "common": "Кореја, Демократска Народна Република"
+    },
+    "sw": {
+      "official": "Korea, Democratic People's Republic of",
+      "common": "Korea, Democratic People's Republic of"
+    },
+    "sv": {
+      "official": "Korea, demokratiska folkrepubliken",
+      "common": "Korea, demokratiska folkrepubliken"
+    },
+    "ta": {
+      "official": "கொரிய ஜனநாயக மக்கள் குடியரசு",
+      "common": "கொரிய ஜனநாயக மக்கள் குடியரசு"
+    },
+    "tt": {
+      "official": "Korea, Democratic People's Republic of",
+      "common": "Korea, Democratic People's Republic of"
+    },
+    "te": {
+      "official": "కోరియా, డెమోక్రటిక్ పీపుల్స్ రిపబ్లిక్ ఆఫ్",
+      "common": "కోరియా, డెమోక్రటిక్ పీపుల్స్ రిపబ్లిక్ ఆఫ్"
+    },
+    "tl": {
+      "official": "Korea, Taumbayang Demokratikong Republika of",
+      "common": "Korea, Taumbayang Demokratikong Republika of"
+    },
+    "th": {
+      "official": "เกาหลีเหนือ",
+      "common": "เกาหลีเหนือ"
+    },
+    "ti": {
+      "official": "Korea, Democratic People's Republic of",
+      "common": "Korea, Democratic People's Republic of"
+    },
+    "tk": {
+      "official": "Koreýa, Halk Demokratik Respublikasy",
+      "common": "Koreýa, Halk Demokratik Respublikasy"
+    },
+    "tr": {
+      "official": "Kore Demokratik Halk Cumhuriyeti",
+      "common": "Kore Demokratik Halk Cumhuriyeti"
+    },
+    "ug": {
+      "official": "چاۋشيەن",
+      "common": "چاۋشيەن"
+    },
+    "uk": {
+      "official": "Північна Корея",
+      "common": "Північна Корея"
+    },
+    "ve": {
+      "official": "Korea, Democratic People's Republic of",
+      "common": "Korea, Democratic People's Republic of"
+    },
+    "vi": {
+      "official": "Bắc Hàn, Cộng hoà Nhân dân Dân chủ",
+      "common": "Bắc Hàn, Cộng hoà Nhân dân Dân chủ"
+    },
+    "cy": {
+      "official": "Korea (Gweriniaeth Democrataidd Pobl)",
+      "common": "Korea (Gweriniaeth Democrataidd Pobl)"
+    },
+    "wa": {
+      "official": "Corêye (bijhrece)",
+      "common": "Corêye (bijhrece)"
+    },
+    "wo": {
+      "official": "Koore, Republik Popileer Demokaraatik bu",
+      "common": "Koore, Republik Popileer Demokaraatik bu"
+    },
+    "xh": {
+      "official": "Korea, Democratic People's Republic of",
+      "common": "Korea, Democratic People's Republic of"
+    },
+    "zu": {
+      "official": "Korea, Democratic People's Republic of",
+      "common": "Korea, Democratic People's Republic of"
+    }
+  }
+}

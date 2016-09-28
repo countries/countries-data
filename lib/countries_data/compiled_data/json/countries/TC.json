@@ -1,0 +1,440 @@
+{
+  "continent": "North America",
+  "alpha2": "TC",
+  "alpha3": "TCA",
+  "country_code": "1",
+  "international_prefix": "011",
+  "ioc": null,
+  "gec": "TK",
+  "name": "Turks and Caicos Islands",
+  "national_destination_code_lengths": [
+    3
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "1",
+  "number": "796",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "APAC",
+  "un_locode": "TC",
+  "nationality": "Turks and Caicos Islander",
+  "postal_code": true,
+  "unofficial_names": [
+    "Turks and Caicos Islands",
+    "Turks- und Caicosinseln",
+    "Îles Turks et Caïcos",
+    "Islas Turks y Caicos",
+    "タークス・カイコス諸島",
+    "Turks- en Caicoseilanden",
+    "Turks and Caicos"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 21.694025,
+    "latitude_dec": "21.758726119995117",
+    "longitude": -71.797928,
+    "longitude_dec": "-71.71514892578125",
+    "max_latitude": 21.9623503,
+    "max_longitude": -71.08600349999999,
+    "min_latitude": 21.1921745,
+    "min_longitude": -72.4824716,
+    "bounds": {
+      "northeast": {
+        "lat": 21.9623503,
+        "lng": -71.08600349999999
+      },
+      "southwest": {
+        "lat": 21.1921745,
+        "lng": -72.4824716
+      }
+    }
+  },
+  "currency_code": "USD",
+  "postal_address_data": {
+    "upper": "CZ",
+    "zipex": "TKCA 1ZZ",
+    "name": "TURKS AND CAICOS ISLANDS",
+    "zip": "TKCA 1ZZ",
+    "require": "ACZ",
+    "id": "data/TC",
+    "key": "TC",
+    "fmt": "%N%n%O%n%A%n%C%n%Z"
+  },
+  "translations": {
+    "af": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "sq": {
+      "official": "Ishujt Turke dhe Caicos",
+      "common": "Ishujt Turke dhe Caicos"
+    },
+    "am": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "ar": {
+      "official": "جزر التّرك و الكايكوس",
+      "common": "جزر التّرك و الكايكوس"
+    },
+    "hy": {
+      "official": "Թյորքս և Կայկոս կղզիներ",
+      "common": "Թյորքս և Կայկոս կղզիներ"
+    },
+    "as": {
+      "official": "টুৰ্কছ আৰু কেইকোছ দ্বীপ",
+      "common": "টুৰ্কছ আৰু কেইকোছ দ্বীপ"
+    },
+    "az": {
+      "official": "Türk və Kaykos Adaları",
+      "common": "Türk və Kaykos Adaları"
+    },
+    "eu": {
+      "official": "Turk eta Caicos uharteak",
+      "common": "Turk eta Caicos uharteak"
+    },
+    "be": {
+      "official": "Цёркс і Кайкас",
+      "common": "Цёркс і Кайкас"
+    },
+    "bn": {
+      "official": "টার্কস ও কেইকোস দ্বীপ",
+      "common": "টার্কস ও কেইকোস দ্বীপ"
+    },
+    "bs": {
+      "official": "Turks i Caicos Ostrva",
+      "common": "Turks i Caicos Ostrva"
+    },
+    "br": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "bg": {
+      "official": "Острови Тюрк и Кайкос",
+      "common": "Острови Тюрк и Кайкос"
+    },
+    "ca": {
+      "official": "Illes Turks i Caicos",
+      "common": "Illes Turks i Caicos"
+    },
+    "zh": {
+      "official": "特克斯和凯科斯群岛",
+      "common": "特克斯和凯科斯群岛"
+    },
+    "cs": {
+      "official": "Turks a Caicos",
+      "common": "Turks a Caicos"
+    },
+    "da": {
+      "official": "Turks- og Caicosøerne",
+      "common": "Turks- og Caicosøerne"
+    },
+    "nl": {
+      "official": "Turks- en Caicoseilanden",
+      "common": "Turks- en Caicoseilanden"
+    },
+    "dz": {
+      "official": "ཊརཀསི་ དང་ ཀའི་ཀོསི་ ཨའི་ལེནཌིསི།",
+      "common": "ཊརཀསི་ དང་ ཀའི་ཀོསི་ ཨའི་ལེནཌིསི།"
+    },
+    "en": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "eo": {
+      "official": "Turkoj kaj Kajkoj",
+      "common": "Turkoj kaj Kajkoj"
+    },
+    "et": {
+      "official": "Turksi ja Caicose saarte asumaa",
+      "common": "Turksi ja Caicose saarte asumaa"
+    },
+    "fo": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "fi": {
+      "official": "Turks- ja Caicossaaret",
+      "common": "Turks- ja Caicossaaret"
+    },
+    "fr": {
+      "official": "Turks et Caïques, Îles",
+      "common": "Turks et Caïques, Îles"
+    },
+    "ka": {
+      "official": "ტერკის და კაიკოს კუნძულები",
+      "common": "ტერკის და კაიკოს კუნძულები"
+    },
+    "de": {
+      "official": "Turks- und Caicosinseln",
+      "common": "Turks- und Caicosinseln"
+    },
+    "ga": {
+      "official": "Oileáin Turks agus Caicos",
+      "common": "Oileáin Turks agus Caicos"
+    },
+    "gl": {
+      "official": "Illas Turcos e Caicos",
+      "common": "Illas Turcos e Caicos"
+    },
+    "el": {
+      "official": "Νήσοι Τουρκς και Κάικος",
+      "common": "Νήσοι Τουρκς και Κάικος"
+    },
+    "gu": {
+      "official": "તુર્કસ અને કેઇકોસ ટાપુઓ",
+      "common": "તુર્કસ અને કેઇકોસ ટાપુઓ"
+    },
+    "he": {
+      "official": "איי טורק וקייקוס",
+      "common": "איי טורק וקייקוס"
+    },
+    "hi": {
+      "official": "टर्क्स एन्ड कायकोस आइलैन्ड्स",
+      "common": "टर्क्स एन्ड कायकोस आइलैन्ड्स"
+    },
+    "hr": {
+      "official": "Otoci Turks i Caicos",
+      "common": "Otoci Turks i Caicos"
+    },
+    "hu": {
+      "official": "Turks- és Caicos-szigetek",
+      "common": "Turks- és Caicos-szigetek"
+    },
+    "is": {
+      "official": "Turks og Kaikós eyjar",
+      "common": "Turks og Kaikós eyjar"
+    },
+    "ia": {
+      "official": "Insulas Turks e Caicos",
+      "common": "Insulas Turks e Caicos"
+    },
+    "id": {
+      "official": "Turki & Kepulauan Caicos",
+      "common": "Turki & Kepulauan Caicos"
+    },
+    "it": {
+      "official": "Isole Turks e Caicos",
+      "common": "Isole Turks e Caicos"
+    },
+    "ja": {
+      "official": "タークス及びカイコス諸島",
+      "common": "タークス及びカイコス諸島"
+    },
+    "kn": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "kk": {
+      "official": "Теркс және Кайкос аралдары",
+      "common": "Теркс және Кайкос аралдары"
+    },
+    "km": {
+      "official": "កោះ​ទួក និង កៃកូស",
+      "common": "កោះ​ទួក និង កៃកូស"
+    },
+    "rw": {
+      "official": "Ibirwa bya Takisi na Kayikosi",
+      "common": "Ibirwa bya Takisi na Kayikosi"
+    },
+    "ko": {
+      "official": "터크 스케이커스 제도",
+      "common": "터크 스케이커스 제도"
+    },
+    "ku": {
+      "official": "Giravên Turks û Caicos",
+      "common": "Giravên Turks û Caicos"
+    },
+    "lv": {
+      "official": "Tērksu un Kaikosu salas",
+      "common": "Tērksu un Kaikosu salas"
+    },
+    "lt": {
+      "official": "Terkso ir Kaikoso salos",
+      "common": "Terkso ir Kaikoso salos"
+    },
+    "mk": {
+      "official": "Туркси и Каициски острови",
+      "common": "Туркси и Каициски острови"
+    },
+    "ml": {
+      "official": "തുര്‍ക്ക്സും കൈകോസും ദ്വീപുകള്‍",
+      "common": "തുര്‍ക്ക്സും കൈകോസും ദ്വീപുകള്‍"
+    },
+    "mi": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "mr": {
+      "official": "टर्कस् आणी कैकोस आयलॅंडस्",
+      "common": "टर्कस् आणी कैकोस आयलॅंडस्"
+    },
+    "ms": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "mt": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "mn": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "ne": {
+      "official": "टर्क्स र काइकस टापु",
+      "common": "टर्क्स र काइकस टापु"
+    },
+    "nn": {
+      "official": "Turks- og Caicosøyane",
+      "common": "Turks- og Caicosøyane"
+    },
+    "nb": {
+      "official": "Turks- og Caicosøyene",
+      "common": "Turks- og Caicosøyene"
+    },
+    "oc": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "or": {
+      "official": "ତୁର୍କ ଏବଂ କୈକୋସ ଦ୍ବୀପ",
+      "common": "ତୁର୍କ ଏବଂ କୈକୋସ ଦ୍ବୀପ"
+    },
+    "pa": {
+      "official": "ਤੁਰਕਸ ਅਤੇ ਕੇਈਕੋਸ ਟਾਪੂ",
+      "common": "ਤੁਰਕਸ ਅਤੇ ਕੇਈਕੋਸ ਟਾਪੂ"
+    },
+    "fa": {
+      "official": "جزایر ترک و کایکوس",
+      "common": "جزایر ترک و کایکوس"
+    },
+    "pl": {
+      "official": "Wyspy Turks i Caicos",
+      "common": "Wyspy Turks i Caicos"
+    },
+    "pt": {
+      "official": "Ilhas Turks e Caicos",
+      "common": "Ilhas Turks e Caicos"
+    },
+    "ps": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "ro": {
+      "official": "Insulele Turks și Caicos",
+      "common": "Insulele Turks și Caicos"
+    },
+    "ru": {
+      "official": "Острова Туркс и Каикос",
+      "common": "Острова Туркс и Каикос"
+    },
+    "si": {
+      "official": "තුර්කි හා කායිකෝස් දූපත්",
+      "common": "තුර්කි හා කායිකෝස් දූපත්"
+    },
+    "sk": {
+      "official": "Ostrovy Turks a Caicos",
+      "common": "Ostrovy Turks a Caicos"
+    },
+    "sl": {
+      "official": "Turks in Caicoški otoki",
+      "common": "Turks in Caicoški otoki"
+    },
+    "so": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "es": {
+      "official": "Turks y Caicos, Islas",
+      "common": "Turks y Caicos, Islas"
+    },
+    "sr": {
+      "official": "Острва Туркс и Каикос",
+      "common": "Острва Туркс и Каикос"
+    },
+    "sw": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "sv": {
+      "official": "Turks- och Caicosöarna",
+      "common": "Turks- och Caicosöarna"
+    },
+    "ta": {
+      "official": "துருக்கஸ் மற்றும் கைசோஸ் தீவுகள்",
+      "common": "துருக்கஸ் மற்றும் கைசோஸ் தீவுகள்"
+    },
+    "tt": {
+      "official": "Түркс белән Җаиҗос Утравлары",
+      "common": "Түркс белән Җаиҗос Утравлары"
+    },
+    "te": {
+      "official": "టర్కస్ మరియు కైకోస్ ఐలాండ్స్",
+      "common": "టర్కస్ మరియు కైకోస్ ఐలాండ్స్"
+    },
+    "tl": {
+      "official": "Turks at Caicos Islands",
+      "common": "Turks at Caicos Islands"
+    },
+    "th": {
+      "official": "หมู่เกาะเติกส์และหมู่เกาะเคคอส",
+      "common": "หมู่เกาะเติกส์และหมู่เกาะเคคอส"
+    },
+    "ti": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "tk": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "tr": {
+      "official": "Türk ve Kaykos Adaları",
+      "common": "Türk ve Kaykos Adaları"
+    },
+    "ug": {
+      "official": "تۇركس ۋە كايكوس ئارىلى",
+      "common": "تۇركس ۋە كايكوس ئارىلى"
+    },
+    "uk": {
+      "official": "Острови Теркс і Кайкос",
+      "common": "Острови Теркс і Кайкос"
+    },
+    "ve": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "vi": {
+      "official": "Quần Đảo Tuốc và Cai-cox",
+      "common": "Quần Đảo Tuốc và Cai-cox"
+    },
+    "cy": {
+      "official": "Ynysoedd y Turks a Caicos",
+      "common": "Ynysoedd y Turks a Caicos"
+    },
+    "wa": {
+      "official": "Iyes Turks et Caicos",
+      "common": "Iyes Turks et Caicos"
+    },
+    "wo": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "xh": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "zu": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    }
+  }
+}

@@ -1,0 +1,354 @@
+---
+continent: Africa
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: EG
+alpha3: EGY
+country_code: '20'
+international_prefix: '00'
+ioc: EGY
+gec: EG
+name: Egypt
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: '0'
+number: '818'
+region: Africa
+subregion: Northern Africa
+world_region: EMEA
+un_locode: EG
+nationality: Egyptian
+postal_code: true
+unofficial_names:
+- Egypt
+- مصر
+- Ägypten
+- Égypte
+- Egipto
+- エジプト
+- Egypte
+languages_official:
+- ar
+languages_spoken:
+- ar
+geo:
+  latitude: 26.820553
+  latitude_dec: '26.756103515625'
+  longitude: 30.802498
+  longitude_dec: '29.86229705810547'
+  max_latitude: 31.6715347
+  max_longitude: 36.8945446
+  min_latitude: 21.9999999
+  min_longitude: 24.696775
+  bounds:
+    northeast:
+      lat: 31.6715347
+      lng: 36.8945446
+    southwest:
+      lat: 21.9999999
+      lng: 24.696775
+currency_code: EGP
+postal_address_data:
+  lang: ar
+  sub_zipexs: 81000~71000~21000,23000~41000~85000~84000~22000~12000~35000~43000~44000~31000~63000~11000~13000~32000~61000~72000~62000~42000~46000~34000~82000~45000~83000~33000~51000
+  sub_lnames: Aswan Governorate~Asyut Governorate~Alexandria Governorate~Ismailia
+    Governorate~Luxor Governorate~Red Sea Governorate~El Beheira Governorate~Giza
+    Governorate~Dakahlia Governorate~Suez Governorate~Ash Sharqia Governorate~Gharbia
+    Governorate~Faiyum Governorate~Cairo Governorate~Qalyubia Governorate~Menofia
+    Governorate~Menia Governorate~New Valley Governorate~Beni Suef Governorate~Port
+    Said Governorate~South Sinai Governorate~Damietta Governorate~Sohag Governorate~North
+    Sinai Governorate~Qena Governorate~Kafr El Sheikh Governorate~Matruh Governorate
+  name: EGYPT
+  zip: "\\d{5}"
+  fmt: "%N%n%O%n%A%n%C%n%S%n%Z"
+  languages: ar
+  lfmt: "%N%n%O%n%A%n%C%n%S%n%Z"
+  zipex: '12411,11599'
+  sub_keys: أسوان~أسيوط~الإسكندرية~الإسماعيلية~الأقصر~البحر الأحمر~البحيرة~الجيزة~الدقهلية~السويس~الشرقية~الغربية~الفيوم~القاهرة~القليوبية~المنوفية~المنيا~الوادي
+    الجديد~بني سويف~بورسعيد~جنوب سيناء~دمياط~سوهاج~شمال سيناء~قنا~كفر الشيخ~مطروح
+  key: EG
+  sub_isoids: ASN~AST~ALX~IS~LX~BA~BH~GZ~DK~SUZ~SHR~GH~FYM~C~KB~MNF~MN~WAD~BNS~PTS~JS~DT~SHG~SIN~KN~KFS~MT
+  id: data/EG
+  sub_zips: 81~71~2[13]~41~85~84~22~12~35~43~44~31~63~11~13~32~61~72~62~42~46~34~82~45~83~33~51
+translations:
+  af:
+    official: Egipte
+    common: Egipte
+  sq:
+    official: Egjipti
+    common: Egjipti
+  am:
+    official: ጔብፄ
+    common: ጔብፄ
+  ar:
+    official: مصر
+    common: مصر
+  hy:
+    official: Եգիպտոս
+    common: Եգիպտոս
+  as:
+    official: মিশ্ৰ
+    common: মিশ্ৰ
+  az:
+    official: Misir
+    common: Misir
+  eu:
+    official: Egipto
+    common: Egipto
+  be:
+    official: Егіпет
+    common: Егіпет
+  bn:
+    official: মিশর
+    common: মিশর
+  bs:
+    official: Egipat
+    common: Egipat
+  br:
+    official: Egypt
+    common: Egypt
+  bg:
+    official: Египет
+    common: Египет
+  ca:
+    official: Egipte
+    common: Egipte
+  zh:
+    official: 埃及
+    common: 埃及
+  cs:
+    official: Egypt
+    common: Egypt
+  da:
+    official: Egypten
+    common: Egypten
+  nl:
+    official: Egypte
+    common: Egypte
+  dz:
+    official: ཨི་ཇིབཊི།
+    common: ཨི་ཇིབཊི།
+  en:
+    official: Egypt
+    common: Egypt
+  eo:
+    official: Egiptio
+    common: Egiptio
+  et:
+    official: Egiptus
+    common: Egiptus
+  fo:
+    official: Egyptaland
+    common: Egyptaland
+  fi:
+    official: Egypti
+    common: Egypti
+  fr:
+    official: Égypte
+    common: Égypte
+  ka:
+    official: ეგვიპტე
+    common: ეგვიპტე
+  de:
+    official: Ägypten
+    common: Ägypten
+  ga:
+    official: An Éigipt
+    common: An Éigipt
+  gl:
+    official: Exipto
+    common: Exipto
+  el:
+    official: Αίγυπτος
+    common: Αίγυπτος
+  gu:
+    official: ઇજીપ્ત
+    common: ઇજીપ્ત
+  he:
+    official: מצרים
+    common: מצרים
+  hi:
+    official: मिस्र
+    common: मिस्र
+  hr:
+    official: Egipat
+    common: Egipat
+  hu:
+    official: Egyiptom
+    common: Egyiptom
+  is:
+    official: Egyptaland
+    common: Egyptaland
+  ia:
+    official: Egypto
+    common: Egypto
+  id:
+    official: Mesir
+    common: Mesir
+  it:
+    official: Egitto
+    common: Egitto
+  ja:
+    official: エジプト
+    common: エジプト
+  kn:
+    official: ಈಜಿಪ್ಟ್
+    common: ಈಜಿಪ್ಟ್
+  kk:
+    official: Мысыр
+    common: Мысыр
+  km:
+    official: អេហ្ស៊ីប
+    common: អេហ្ស៊ីប
+  rw:
+    official: Misiri
+    common: Misiri
+  ko:
+    official: 이집트
+    common: 이집트
+  ku:
+    official: Misir
+    common: Misir
+  lv:
+    official: Ēģipte
+    common: Ēģipte
+  lt:
+    official: Egiptas
+    common: Egiptas
+  mk:
+    official: Египет
+    common: Египет
+  ml:
+    official: ഈജിപ്ത്
+    common: ഈജിപ്ത്
+  mi:
+    official: Egypt
+    common: Egypt
+  mr:
+    official: इजिप्त
+    common: इजिप्त
+  ms:
+    official: Mesir
+    common: Mesir
+  mt:
+    official: Konsum
+    common: Konsum
+  mn:
+    official: Египт
+    common: Египт
+  ne:
+    official: इजिप्ट
+    common: इजिप्ट
+  nn:
+    official: Egypt
+    common: Egypt
+  nb:
+    official: Egypt
+    common: Egypt
+  oc:
+    official: Egipte
+    common: Egipte
+  or:
+    official: ମିଶର
+    common: ମିଶର
+  pa:
+    official: ਮਿਸਰ
+    common: ਮਿਸਰ
+  fa:
+    official: مصر
+    common: مصر
+  pl:
+    official: Egipt
+    common: Egipt
+  pt:
+    official: Egipto
+    common: Egipto
+  ps:
+    official: مصر
+    common: مصر
+  ro:
+    official: Egipt
+    common: Egipt
+  ru:
+    official: Египт
+    common: Египт
+  si:
+    official: ඊජිප්තුව
+    common: ඊජිප්තුව
+  sk:
+    official: Egypt
+    common: Egypt
+  sl:
+    official: Egipt
+    common: Egipt
+  so:
+    official: Masar
+    common: Masar
+  es:
+    official: Egipto
+    common: Egipto
+  sr:
+    official: Египат
+    common: Египат
+  sw:
+    official: Egypt
+    common: Egypt
+  sv:
+    official: Egypten
+    common: Egypten
+  ta:
+    official: எகிப்து
+    common: எகிப்து
+  tt:
+    official: Мысыр
+    common: Мысыр
+  te:
+    official: ఈజిప్ట్
+    common: ఈజిప్ట్
+  tl:
+    official: Ehipto
+    common: Ehipto
+  th:
+    official: อียิปต์
+    common: อียิปต์
+  ti:
+    official: ግብጽ
+    common: ግብጽ
+  tk:
+    official: Egypt
+    common: Egypt
+  tr:
+    official: Mısır
+    common: Mısır
+  ug:
+    official: مىسىر
+    common: مىسىر
+  uk:
+    official: Єгипет
+    common: Єгипет
+  ve:
+    official: Egypt
+    common: Egypt
+  vi:
+    official: Ai Cập
+    common: Ai Cập
+  cy:
+    official: Yr Aifft
+    common: Yr Aifft
+  wa:
+    official: Edjipe
+    common: Edjipe
+  wo:
+    official: Ejipt
+    common: Ejipt
+  xh:
+    official: Amandla
+    common: Amandla
+  zu:
+    official: Amandla
+    common: Amandla

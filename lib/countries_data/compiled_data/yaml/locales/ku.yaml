@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: Efxanistan
+    common: Efxanistan
+  AX:
+    official: Giravên Åland
+    common: Giravên Åland
+  AL:
+    official: Arnavût
+    common: Arnavût
+  DZ:
+    official: Cezayîr
+    common: Cezayîr
+  AS:
+    official: Samoya Emerîkî
+    common: Samoya Emerîkî
+  AD:
+    official: Andora
+    common: Andora
+  AO:
+    official: Angola
+    common: Angola
+  AI:
+    official: Angîla
+    common: Angîla
+  AQ:
+    official: Antarktîka
+    common: Antarktîka
+  AG:
+    official: Antîguya û Barbuda
+    common: Antîguya û Barbuda
+  AR:
+    official: Arjantîn
+    common: Arjantîn
+  AM:
+    official: Ermenistan
+    common: Ermenistan
+  AW:
+    official: Aruba
+    common: Aruba
+  AU:
+    official: Awustralya
+    common: Awustralya
+  AT:
+    official: Awusturya
+    common: Awusturya
+  AZ:
+    official: Azerbaycan
+    common: Azerbaycan
+  BS:
+    official: Giravên Bahama
+    common: Giravên Bahama
+  BH:
+    official: Bahrayîn
+    common: Bahrayîn
+  BD:
+    official: Banglades
+    common: Banglades
+  BB:
+    official: Barbados
+    common: Barbados
+  BY:
+    official: Belarus
+    common: Belarus
+  BE:
+    official: Belçîka
+    common: Belçîka
+  BZ:
+    official: Belîze
+    common: Belîze
+  BJ:
+    official: Benîn
+    common: Benîn
+  BM:
+    official: Bermûda
+    common: Bermûda
+  BT:
+    official: Bûtan
+    common: Bûtan
+  BO:
+    official: Bolivia, Plurinational State of
+    common: Bolivia, Plurinational State of
+  BQ:
+    official: Bonaire, Sint Eustatius and Saba
+    common: Bonaire, Sint Eustatius and Saba
+  BA:
+    official: Bosna Hersek
+    common: Bosna Hersek
+  BW:
+    official: Botswana
+    common: Botswana
+  BV:
+    official: Girava Boyuvet
+    common: Girava Boyuvet
+  BR:
+    official: Brezîlya
+    common: Brezîlya
+  IO:
+    official: Herêma Îngîlîz a Deryaya Hindî
+    common: Herêma Îngîlîz a Deryaya Hindî
+  BN:
+    official: Brûney Darûssalam
+    common: Brûney Darûssalam
+  BG:
+    official: Bulgaristan
+    common: Bulgaristan
+  BF:
+    official: Burkîna Faso
+    common: Burkîna Faso
+  BI:
+    official: Bûrûndî
+    common: Bûrûndî
+  KH:
+    official: Kamboca
+    common: Kamboca
+  CM:
+    official: Kamerûn
+    common: Kamerûn
+  CA:
+    official: Kanada
+    common: Kanada
+  CV:
+    official: Kap Verde
+    common: Kap Verde
+  KY:
+    official: Giravên Kayman
+    common: Giravên Kayman
+  CF:
+    official: Komara Afrikaya Navîn
+    common: Komara Afrikaya Navîn
+  TD:
+    official: Çad
+    common: Çad
+  CL:
+    official: Sîlî
+    common: Sîlî
+  CN:
+    official: Çîn
+    common: Çîn
+  CX:
+    official: Girava Noel
+    common: Girava Noel
+  CC:
+    official: Grava Kokos (Kîlîng)
+    common: Grava Kokos (Kîlîng)
+  CO:
+    official: Kolombiya
+    common: Kolombiya
+  KM:
+    official: Komoros
+    common: Komoros
+  CG:
+    official: Kongo
+    common: Kongo
+  CD:
+    official: Komara Demokratîk a Kongo
+    common: Komara Demokratîk a Kongo
+  CK:
+    official: Giravên Cook
+    common: Giravên Cook
+  CR:
+    official: Kosta Rîka
+    common: Kosta Rîka
+  CI:
+    official: Sahila Diranên Fîlan
+    common: Sahila Diranên Fîlan
+  HR:
+    official: Hirvatistan
+    common: Hirvatistan
+  CU:
+    official: Kûba
+    common: Kûba
+  CW:
+    official: Curaçao
+    common: Curaçao
+  CY:
+    official: Kibris
+    common: Kibris
+  CZ:
+    official: Komara Çek
+    common: Komara Çek
+  DK:
+    official: Danîmarka
+    common: Danîmarka
+  DJ:
+    official: Cîbutî
+    common: Cîbutî
+  DM:
+    official: Domînîka
+    common: Domînîka
+  DO:
+    official: Komara Domînîk
+    common: Komara Domînîk
+  EC:
+    official: Ekvator
+    common: Ekvator
+  EG:
+    official: Misir
+    common: Misir
+  SV:
+    official: El Salvador
+    common: El Salvador
+  GQ:
+    official: Gîneya Ekvatorî
+    common: Gîneya Ekvatorî
+  ER:
+    official: Erître
+    common: Erître
+  EE:
+    official: Estonya
+    common: Estonya
+  ET:
+    official: Etîyopya
+    common: Etîyopya
+  FK:
+    official: Giravên Falkland (Malvin)
+    common: Giravên Falkland (Malvin)
+  FO:
+    official: Giravên Faroye
+    common: Giravên Faroye
+  FJ:
+    official: Fîjî
+    common: Fîjî
+  FI:
+    official: Fînlandiya
+    common: Fînlandiya
+  FR:
+    official: Fransa
+    common: Fransa
+  GF:
+    official: Gîneya Fransî
+    common: Gîneya Fransî
+  PF:
+    official: Polînesya Fransî
+    common: Polînesya Fransî
+  TF:
+    official: Herêma Basurî ya Fransî
+    common: Herêma Basurî ya Fransî
+  GA:
+    official: Gabon
+    common: Gabon
+  GM:
+    official: Gambiya
+    common: Gambiya
+  GE:
+    official: Gurcistan
+    common: Gurcistan
+  DE:
+    official: Almanya
+    common: Almanya
+  GH:
+    official: Gana
+    common: Gana
+  GI:
+    official: Cebelîtariq
+    common: Cebelîtariq
+  GR:
+    official: Yewnanistan
+    common: Yewnanistan
+  GL:
+    official: Greenland
+    common: Greenland
+  GD:
+    official: Girava Grenada
+    common: Girava Grenada
+  GP:
+    official: Guadelûp
+    common: Guadelûp
+  GU:
+    official: Guam
+    common: Guam
+  GT:
+    official: Guatemala
+    common: Guatemala
+  GG:
+    official: Guernsey
+    common: Guernsey
+  GN:
+    official: Gîne
+    common: Gîne
+  GW:
+    official: Gîneya Bisoî
+    common: Gîneya Bisoî
+  GY:
+    official: Guyana
+    common: Guyana
+  HT:
+    official: Haîtî
+    common: Haîtî
+  HM:
+    official: Giravên Heard û McDonald
+    common: Giravên Heard û McDonald
+  VA:
+    official: Texta Pîroz (Dewleta Bajarî ya Vatîkan)
+    common: Texta Pîroz (Dewleta Bajarî ya Vatîkan)
+  HN:
+    official: Honduras
+    common: Honduras
+  HK:
+    official: Hong Kong
+    common: Hong Kong
+  HU:
+    official: Macaristan
+    common: Macaristan
+  IS:
+    official: Îzlanda
+    common: Îzlanda
+  IN:
+    official: Hindistan
+    common: Hindistan
+  ID:
+    official: Endonezya
+    common: Endonezya
+  IR:
+    official: Îran, Komara Îslamî ya
+    common: Îran, Komara Îslamî ya
+  IQ:
+    official: Iraq
+    common: Iraq
+  IE:
+    official: Îrlanda
+    common: Îrlanda
+  IM:
+    official: Girava Man
+    common: Girava Man
+  IL:
+    official: Îsraîl
+    common: Îsraîl
+  IT:
+    official: Îtalya
+    common: Îtalya
+  JM:
+    official: Jamayîka
+    common: Jamayîka
+  JP:
+    official: Japonya
+    common: Japonya
+  JE:
+    official: Jersey
+    common: Jersey
+  JO:
+    official: Urdin
+    common: Urdin
+  KZ:
+    official: Kazaxstan
+    common: Kazaxstan
+  KE:
+    official: Kenya
+    common: Kenya
+  KI:
+    official: Kirîbatî
+    common: Kirîbatî
+  KP:
+    official: Kore, Komara Demokratîk a Gelê
+    common: Kore, Komara Demokratîk a Gelê
+  KR:
+    official: Kore, Komara
+    common: Kore, Komara
+  KW:
+    official: Kûveyt
+    common: Kûveyt
+  KG:
+    official: Kirgîsistan
+    common: Kirgîsistan
+  LA:
+    official: Komara Demokratîka Gelê Lao
+    common: Komara Demokratîka Gelê Lao
+  LV:
+    official: Latviya
+    common: Latviya
+  LB:
+    official: Lubnan
+    common: Lubnan
+  LS:
+    official: Lesoto
+    common: Lesoto
+  LR:
+    official: Lîberya
+    common: Lîberya
+  LY:
+    official: Lîberya
+    common: Lîberya
+  LI:
+    official: Lihtenstayn
+    common: Lihtenstayn
+  LT:
+    official: Lîtvanya
+    common: Lîtvanya
+  LU:
+    official: Luksemburg
+    common: Luksemburg
+  MO:
+    official: Makao
+    common: Makao
+  MK:
+    official: Makedonya, Komara
+    common: Makedonya, Komara
+  MG:
+    official: Madagaskar
+    common: Madagaskar
+  MW:
+    official: Malawî
+    common: Malawî
+  MY:
+    official: Malezya
+    common: Malezya
+  MV:
+    official: Giravên Maldiv
+    common: Giravên Maldiv
+  ML:
+    official: Malî
+    common: Malî
+  MT:
+    official: Malta
+    common: Malta
+  MH:
+    official: Giravên Marsal
+    common: Giravên Marsal
+  MQ:
+    official: Martinîk
+    common: Martinîk
+  MR:
+    official: Morîtanya
+    common: Morîtanya
+  MU:
+    official: Morîtiyus
+    common: Morîtiyus
+  YT:
+    official: Mayote
+    common: Mayote
+  MX:
+    official: Mexîko
+    common: Mexîko
+  FM:
+    official: Mîkronesya, Dewletên Federal yên
+    common: Mîkronesya, Dewletên Federal yên
+  MD:
+    official: Makedonya, Komara
+    common: Makedonya, Komara
+  MC:
+    official: Monako
+    common: Monako
+  MN:
+    official: Mongolya
+    common: Mongolya
+  ME:
+    official: Montenegro
+    common: Montenegro
+  MS:
+    official: Montserat
+    common: Montserat
+  MA:
+    official: Fas
+    common: Fas
+  MZ:
+    official: Mozambîk
+    common: Mozambîk
+  MM:
+    official: Miyanmar
+    common: Miyanmar
+  NA:
+    official: Namîbiya
+    common: Namîbiya
+  NR:
+    official: Naûrû
+    common: Naûrû
+  NP:
+    official: Nepal
+    common: Nepal
+  NL:
+    official: Holanda
+    common: Holanda
+  NC:
+    official: Kaledonyaya Nû
+    common: Kaledonyaya Nû
+  NZ:
+    official: Zelandaya Nû
+    common: Zelandaya Nû
+  NI:
+    official: Nîkaragûa
+    common: Nîkaragûa
+  NE:
+    official: Nîjer
+    common: Nîjer
+  NG:
+    official: Nîjerya
+    common: Nîjerya
+  NU:
+    official: Nîûe
+    common: Nîûe
+  NF:
+    official: Girava Norfolk
+    common: Girava Norfolk
+  MP:
+    official: Giravên Marîyana Bakûr
+    common: Giravên Marîyana Bakûr
+  'NO':
+    official: Norweç
+    common: Norweç
+  OM:
+    official: Uman
+    common: Uman
+  PK:
+    official: Pakistan
+    common: Pakistan
+  PW:
+    official: Palawu
+    common: Palawu
+  PS:
+    official: Palestine, State of
+    common: Palestine, State of
+  PA:
+    official: Panama
+    common: Panama
+  PG:
+    official: Papûa Gîneya Nû
+    common: Papûa Gîneya Nû
+  PY:
+    official: Paraguay
+    common: Paraguay
+  PE:
+    official: Perû
+    common: Perû
+  PH:
+    official: Fîlîpîn
+    common: Fîlîpîn
+  PN:
+    official: Pitkayirn
+    common: Pitkayirn
+  PL:
+    official: Polonya
+    common: Polonya
+  PT:
+    official: Portekîz
+    common: Portekîz
+  PR:
+    official: Porto Rîko
+    common: Porto Rîko
+  QA:
+    official: Qatar
+    common: Qatar
+  RE:
+    official: Reûnyon
+    common: Reûnyon
+  RO:
+    official: Romanya
+    common: Romanya
+  RU:
+    official: Federasyona Rûsî
+    common: Federasyona Rûsî
+  RW:
+    official: Rûanda
+    common: Rûanda
+  BL:
+    official: Saint Barthélemy
+    common: Saint Barthélemy
+  SH:
+    official: Saint Helena, Ascension and Tristan da Cunha
+    common: Saint Helena, Ascension and Tristan da Cunha
+  KN:
+    official: Saint Kitts û Nevis
+    common: Saint Kitts û Nevis
+  LC:
+    official: Saint Lucia
+    common: Saint Lucia
+  MF:
+    official: Saint Martin (beşa firansî)
+    common: Saint Martin (beşa firansî)
+  PM:
+    official: Saint Pierre û Miquelon
+    common: Saint Pierre û Miquelon
+  VC:
+    official: Saint Vincent û Grenadines
+    common: Saint Vincent û Grenadines
+  WS:
+    official: Samoa
+    common: Samoa
+  SM:
+    official: San Marîno
+    common: San Marîno
+  ST:
+    official: Sao Tome û Prinsipe
+    common: Sao Tome û Prinsipe
+  SA:
+    official: Si'ûdî Erebistan
+    common: Si'ûdî Erebistan
+  SN:
+    official: Senegal
+    common: Senegal
+  RS:
+    official: Sirbistan
+    common: Sirbistan
+  SC:
+    official: Seyselan
+    common: Seyselan
+  SL:
+    official: Sîera Leone
+    common: Sîera Leone
+  SG:
+    official: Sîngapur
+    common: Sîngapur
+  SX:
+    official: Saint Martin (beşa firansî)
+    common: Saint Martin (beşa firansî)
+  SK:
+    official: Slovakya
+    common: Slovakya
+  SI:
+    official: Slovenya
+    common: Slovenya
+  SB:
+    official: Giravên Solomon
+    common: Giravên Solomon
+  SO:
+    official: Somalî
+    common: Somalî
+  ZA:
+    official: Efrîka Basur
+    common: Efrîka Basur
+  GS:
+    official: Georgiaya Basûr û Giravên Sandwicha Basûr
+    common: Georgiaya Basûr û Giravên Sandwicha Basûr
+  ES:
+    official: Spanya
+    common: Spanya
+  LK:
+    official: Srî Lanka
+    common: Srî Lanka
+  SD:
+    official: Sûdan
+    common: Sûdan
+  SR:
+    official: Surînam
+    common: Surînam
+  SS:
+    official: Komara Sûdan
+    common: Komara Sûdan
+  SJ:
+    official: Svalbard û Jan Mayen
+    common: Svalbard û Jan Mayen
+  SZ:
+    official: Swazîland
+    common: Swazîland
+  SE:
+    official: Swêd
+    common: Swêd
+  CH:
+    official: Swîsre
+    common: Swîsre
+  SY:
+    official: Sûriye
+    common: Sûriye
+  TW:
+    official: Taywan
+    common: Taywan
+  TJ:
+    official: Tacîkistan
+    common: Tacîkistan
+  TZ:
+    official: Tanzanya, Komara Yekbuyî
+    common: Tanzanya, Komara Yekbuyî
+  TH:
+    official: Tayland
+    common: Tayland
+  TL:
+    official: Tîmora Rojhilat
+    common: Tîmora Rojhilat
+  TG:
+    official: Togo
+    common: Togo
+  TK:
+    official: Tokelau
+    common: Tokelau
+  TO:
+    official: Tonga
+    common: Tonga
+  TT:
+    official: Trînîdad û Tobago
+    common: Trînîdad û Tobago
+  TN:
+    official: Tûnis
+    common: Tûnis
+  TR:
+    official: Tirkiye
+    common: Tirkiye
+  TM:
+    official: Tirkmenîstan
+    common: Tirkmenîstan
+  TC:
+    official: Giravên Turks û Caicos
+    common: Giravên Turks û Caicos
+  TV:
+    official: Tûvalû
+    common: Tûvalû
+  UG:
+    official: Ûganda
+    common: Ûganda
+  UA:
+    official: Ukrayna
+    common: Ukrayna
+  AE:
+    official: Mîrtiyên Ereb ên Yekbuyî
+    common: Mîrtiyên Ereb ên Yekbuyî
+  GB:
+    official: Şahitiya Yekbuyî
+    common: Şahitiya Yekbuyî
+  US:
+    official: Dewletên Yekbûyî
+    common: Dewletên Yekbûyî
+  UM:
+    official: Giravên biçûk derve Emerîkayê
+    common: Giravên biçûk derve Emerîkayê
+  UY:
+    official: Uruguay
+    common: Uruguay
+  UZ:
+    official: Ozbekîstan
+    common: Ozbekîstan
+  VU:
+    official: Vanûatû
+    common: Vanûatû
+  VE:
+    official: Komara Bolîvarî ya Venezûela
+    common: Komara Bolîvarî ya Venezûela
+  VN:
+    official: Viyetnam
+    common: Viyetnam
+  VG:
+    official: Giravên Virjin, Brîtanî
+    common: Giravên Virjin, Brîtanî
+  VI:
+    official: Giravên Virjin, D.Y.
+    common: Giravên Virjin, D.Y.
+  WF:
+    official: Walis û Futuna
+    common: Walis û Futuna
+  EH:
+    official: Sehraya Rojava
+    common: Sehraya Rojava
+  YE:
+    official: Yemen
+    common: Yemen
+  ZM:
+    official: Zambiya
+    common: Zambiya
+  ZW:
+    official: Zimbabwe
+    common: Zimbabwe

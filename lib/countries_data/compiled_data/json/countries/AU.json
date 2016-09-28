@@ -1,0 +1,448 @@
+{
+  "continent": "Australia",
+  "address_format": "{{recipient}}\n{{street}}\n{{city}} {{region_short}} {{postalcode}}\n{{country}}",
+  "alpha2": "AU",
+  "alpha3": "AUS",
+  "country_code": "61",
+  "international_prefix": "0011",
+  "ioc": "AUS",
+  "gec": "AS",
+  "name": "Australia",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    9
+  ],
+  "national_prefix": "0",
+  "number": "036",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "world_region": "APAC",
+  "un_locode": "AU",
+  "nationality": "Australian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Australia",
+    "Australien",
+    "Australie",
+    "オーストラリア",
+    "Australië"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": -25.274398,
+    "latitude_dec": "-25.585241317749023",
+    "longitude": 133.775136,
+    "longitude_dec": "134.50411987304688",
+    "max_latitude": -9.2198214,
+    "max_longitude": 159.2557541,
+    "min_latitude": -54.7772185,
+    "min_longitude": 112.9215625,
+    "bounds": {
+      "northeast": {
+        "lat": -9.2198214,
+        "lng": 159.2557541
+      },
+      "southwest": {
+        "lat": -54.7772185,
+        "lng": 112.9215625
+      }
+    }
+  },
+  "currency_code": "AUD",
+  "postal_address_data": {
+    "lang": "en",
+    "upper": "CS",
+    "sub_zipexs": "0200,0299:2540:2600,2618:2620:2900,2999~1000,1999:2000,2999:3500:3585:3586:3644:3707~0800,0999~4000,4999:9000,9999~5000,5999:0872~7000,7999~3000,3999:8000,8999~6000,6999:0872",
+    "zipex": "2060,3171,6430,4000,4006,3001",
+    "name": "AUSTRALIA",
+    "zip": "\\d{4}",
+    "key": "AU",
+    "require": "ACSZ",
+    "state_name_type": "state",
+    "id": "data/AU",
+    "languages": "en",
+    "sub_keys": "ACT~NSW~NT~QLD~SA~TAS~VIC~WA",
+    "posturl": "http://www1.auspost.com.au/postcodes/",
+    "locality_name_type": "suburb",
+    "fmt": "%O%n%N%n%A%n%C %S %Z",
+    "sub_names": "Australian Capital Territory~New South Wales~Northern Territory~Queensland~South Australia~Tasmania~Victoria~Western Australia",
+    "sub_zips": "29|2540|260|261[0-8]|02|2620~1|2[0-57-8]|26[2-9]|261[189]|3500|3585|3586|3644|3707~0[89]~[49]~5|0872~7~[38]~6|0872"
+  },
+  "translations": {
+    "af": {
+      "official": "Australië",
+      "common": "Australië"
+    },
+    "sq": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "am": {
+      "official": "ጐፄስትሳሑ።",
+      "common": "ጐፄስትሳሑ።"
+    },
+    "ar": {
+      "official": "أستراليا",
+      "common": "أستراليا"
+    },
+    "hy": {
+      "official": "Ավստրալիա",
+      "common": "Ավստրալիա"
+    },
+    "as": {
+      "official": "অস্ট্ৰেলিয়া",
+      "common": "অস্ট্ৰেলিয়া"
+    },
+    "az": {
+      "official": "Avstraliya",
+      "common": "Avstraliya"
+    },
+    "eu": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "be": {
+      "official": "Аўстралія",
+      "common": "Аўстралія"
+    },
+    "bn": {
+      "official": "অস্ট্রেলিয়া",
+      "common": "অস্ট্রেলিয়া"
+    },
+    "bs": {
+      "official": "Australija",
+      "common": "Australija"
+    },
+    "br": {
+      "official": "Aostralia",
+      "common": "Aostralia"
+    },
+    "bg": {
+      "official": "Австралия",
+      "common": "Австралия"
+    },
+    "ca": {
+      "official": "Austràlia",
+      "common": "Austràlia"
+    },
+    "zh": {
+      "official": "澳大利亚",
+      "common": "澳大利亚"
+    },
+    "cs": {
+      "official": "Austrálie",
+      "common": "Austrálie"
+    },
+    "da": {
+      "official": "Australien",
+      "common": "Australien"
+    },
+    "nl": {
+      "official": "Australië",
+      "common": "Australië"
+    },
+    "dz": {
+      "official": "ཨཱསི་ཊ་ལི་ཡ།",
+      "common": "ཨཱསི་ཊ་ལི་ཡ།"
+    },
+    "en": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "eo": {
+      "official": "Aŭstralio",
+      "common": "Aŭstralio"
+    },
+    "et": {
+      "official": "Austraalia",
+      "common": "Austraalia"
+    },
+    "fo": {
+      "official": "Avstralia",
+      "common": "Avstralia"
+    },
+    "fi": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "fr": {
+      "official": "Australie",
+      "common": "Australie"
+    },
+    "ka": {
+      "official": "ავსტრალია",
+      "common": "ავსტრალია"
+    },
+    "de": {
+      "official": "Australien",
+      "common": "Australien"
+    },
+    "ga": {
+      "official": "An Astráil",
+      "common": "An Astráil"
+    },
+    "gl": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "el": {
+      "official": "Αυστραλία",
+      "common": "Αυστραλία"
+    },
+    "gu": {
+      "official": "ઓસ્ટ્રેલિયા",
+      "common": "ઓસ્ટ્રેલિયા"
+    },
+    "he": {
+      "official": "אוסטרליה",
+      "common": "אוסטרליה"
+    },
+    "hi": {
+      "official": "ऑस्ट्रेलिया",
+      "common": "ऑस्ट्रेलिया"
+    },
+    "hr": {
+      "official": "Australija",
+      "common": "Australija"
+    },
+    "hu": {
+      "official": "Ausztrália",
+      "common": "Ausztrália"
+    },
+    "is": {
+      "official": "Ástralía",
+      "common": "Ástralía"
+    },
+    "ia": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "id": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "it": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "ja": {
+      "official": "オーストラリア連邦",
+      "common": "オーストラリア連邦"
+    },
+    "kn": {
+      "official": "ಆಸ್ಟ್ರೇಲಿಯ",
+      "common": "ಆಸ್ಟ್ರೇಲಿಯ"
+    },
+    "kk": {
+      "official": "Австралия",
+      "common": "Австралия"
+    },
+    "km": {
+      "official": "អូស្ត្រាលី",
+      "common": "អូស្ត្រាលី"
+    },
+    "rw": {
+      "official": "Ositaraliya",
+      "common": "Ositaraliya"
+    },
+    "ko": {
+      "official": "오스트레일리아",
+      "common": "오스트레일리아"
+    },
+    "ku": {
+      "official": "Awustralya",
+      "common": "Awustralya"
+    },
+    "lv": {
+      "official": "Austrālija",
+      "common": "Austrālija"
+    },
+    "lt": {
+      "official": "Australija",
+      "common": "Australija"
+    },
+    "mk": {
+      "official": "Австралија",
+      "common": "Австралија"
+    },
+    "ml": {
+      "official": "ഓസ്ട്രേലിയ",
+      "common": "ഓസ്ട്രേലിയ"
+    },
+    "mi": {
+      "official": "Ahitereiria",
+      "common": "Ahitereiria"
+    },
+    "mr": {
+      "official": "ऑस्ट्रेलिया",
+      "common": "ऑस्ट्रेलिया"
+    },
+    "ms": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "mt": {
+      "official": "Awstralja",
+      "common": "Awstralja"
+    },
+    "mn": {
+      "official": "Австрали",
+      "common": "Австрали"
+    },
+    "ne": {
+      "official": "अष्ट्रेलिया",
+      "common": "अष्ट्रेलिया"
+    },
+    "nn": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "nb": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "oc": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "or": {
+      "official": "ଅଷ୍ଟ୍ରେଲିୟା",
+      "common": "ଅଷ୍ଟ୍ରେଲିୟା"
+    },
+    "pa": {
+      "official": "ਅਸਟਰੇਲੀਆ",
+      "common": "ਅਸਟਰੇਲੀਆ"
+    },
+    "fa": {
+      "official": "استرالیا",
+      "common": "استرالیا"
+    },
+    "pl": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "pt": {
+      "official": "Austrália",
+      "common": "Austrália"
+    },
+    "ps": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "ro": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "ru": {
+      "official": "Австралия",
+      "common": "Австралия"
+    },
+    "si": {
+      "official": "ඔස්ට්‍රේලියාව",
+      "common": "ඔස්ට්‍රේලියාව"
+    },
+    "sk": {
+      "official": "Austrália",
+      "common": "Austrália"
+    },
+    "sl": {
+      "official": "Avstralija",
+      "common": "Avstralija"
+    },
+    "so": {
+      "official": "Awstraaliya",
+      "common": "Awstraaliya"
+    },
+    "es": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "sr": {
+      "official": "Аустралија",
+      "common": "Аустралија"
+    },
+    "sw": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "sv": {
+      "official": "Australien",
+      "common": "Australien"
+    },
+    "ta": {
+      "official": "ஆஸ்திரேலியா",
+      "common": "ஆஸ்திரேலியா"
+    },
+    "tt": {
+      "official": "Аустралиа",
+      "common": "Аустралиа"
+    },
+    "te": {
+      "official": "ఓస్ట్రేలియా",
+      "common": "ఓస్ట్రేలియా"
+    },
+    "tl": {
+      "official": "Australya",
+      "common": "Australya"
+    },
+    "th": {
+      "official": "ออสเตรเลีย",
+      "common": "ออสเตรเลีย"
+    },
+    "ti": {
+      "official": "አውስትሬሊያ",
+      "common": "አውስትሬሊያ"
+    },
+    "tk": {
+      "official": "Awstraliýa",
+      "common": "Awstraliýa"
+    },
+    "tr": {
+      "official": "Avustralya",
+      "common": "Avustralya"
+    },
+    "ug": {
+      "official": "ئاۋسترالىيە",
+      "common": "ئاۋسترالىيە"
+    },
+    "uk": {
+      "official": "Австралія",
+      "common": "Австралія"
+    },
+    "ve": {
+      "official": "Australia",
+      "common": "Australia"
+    },
+    "vi": {
+      "official": "Úc",
+      "common": "Úc"
+    },
+    "cy": {
+      "official": "Awstralia",
+      "common": "Awstralia"
+    },
+    "wa": {
+      "official": "Ostraleye",
+      "common": "Ostraleye"
+    },
+    "wo": {
+      "official": "Óstraali",
+      "common": "Óstraali"
+    },
+    "xh": {
+      "official": "Australiya",
+      "common": "Australiya"
+    },
+    "zu": {
+      "official": "I-Australiya",
+      "common": "I-Australiya"
+    }
+  }
+}

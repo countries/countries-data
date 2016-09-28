@@ -1,0 +1,446 @@
+{
+  "continent": "North America",
+  "address_format": "{{recipient}}\n{{street}}\n{{city}} {{region_short}} {{postalcode}}\n{{country}}",
+  "alpha2": "CA",
+  "alpha3": "CAN",
+  "country_code": "1",
+  "international_prefix": "011",
+  "ioc": "CAN",
+  "gec": "CA",
+  "name": "Canada",
+  "national_destination_code_lengths": [
+    3
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "1",
+  "number": "124",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "world_region": "AMER",
+  "un_locode": "CA",
+  "nationality": "Canadian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Canada",
+    "Kanada",
+    "Canadá",
+    "カナダ"
+  ],
+  "languages_official": [
+    "en",
+    "fr"
+  ],
+  "languages_spoken": [
+    "en",
+    "fr"
+  ],
+  "geo": {
+    "latitude": 56.130366,
+    "latitude_dec": "62.832908630371094",
+    "longitude": -106.346771,
+    "longitude_dec": "-95.91332244873047",
+    "max_latitude": 83.0956562,
+    "max_longitude": -52.6206965,
+    "min_latitude": 41.6765559,
+    "min_longitude": -141.00187,
+    "bounds": {
+      "northeast": {
+        "lat": 83.0956562,
+        "lng": -52.6206965
+      },
+      "southwest": {
+        "lat": 41.6765559,
+        "lng": -141.00187
+      }
+    }
+  },
+  "currency_code": "CAD",
+  "postal_address_data": {
+    "lang": "en",
+    "upper": "ACNOSZ",
+    "zipex": "H3Z 2Y7,V8X 3X4,T0L 1K0,T0H 1A0,K1A 0B1",
+    "name": "CANADA",
+    "zip": "[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d",
+    "key": "CA",
+    "require": "ACSZ",
+    "id": "data/CA",
+    "languages": "en~fr",
+    "sub_keys": "AB~BC~MB~NB~NL~NT~NS~NU~ON~PE~QC~SK~YT",
+    "posturl": "http://www.canadapost.ca/cpotools/apps/fpc/personal/findByCity?execution=e2s1",
+    "fmt": "%N%n%O%n%A%n%C %S %Z",
+    "sub_names": "Alberta~British Columbia~Manitoba~New Brunswick~Newfoundland and Labrador~Northwest Territories~Nova Scotia~Nunavut~Ontario~Prince Edward Island~Quebec~Saskatchewan~Yukon",
+    "sub_zips": "T~V~R~E~A~X0E|X0G|X1A~B~X0A|X0B|X0C~K|L|M|N|P~C~G|H|J|K1A~S|R8A~Y"
+  },
+  "translations": {
+    "af": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "sq": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "am": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "ar": {
+      "official": "كندا",
+      "common": "كندا"
+    },
+    "hy": {
+      "official": "Կանադա",
+      "common": "Կանադա"
+    },
+    "as": {
+      "official": "কানাডা",
+      "common": "কানাডা"
+    },
+    "az": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "eu": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "be": {
+      "official": "Канада",
+      "common": "Канада"
+    },
+    "bn": {
+      "official": "কানাডা",
+      "common": "কানাডা"
+    },
+    "bs": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "br": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "bg": {
+      "official": "Канада",
+      "common": "Канада"
+    },
+    "ca": {
+      "official": "Canadà",
+      "common": "Canadà"
+    },
+    "zh": {
+      "official": "加拿大",
+      "common": "加拿大"
+    },
+    "cs": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "da": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "nl": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "dz": {
+      "official": "ཀེ་ན་ཌ།",
+      "common": "ཀེ་ན་ཌ།"
+    },
+    "en": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "eo": {
+      "official": "Kanado",
+      "common": "Kanado"
+    },
+    "et": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "fo": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "fi": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "fr": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "ka": {
+      "official": "კანადა",
+      "common": "კანადა"
+    },
+    "de": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "ga": {
+      "official": "Ceanada",
+      "common": "Ceanada"
+    },
+    "gl": {
+      "official": "Canadá",
+      "common": "Canadá"
+    },
+    "el": {
+      "official": "Καναδάς",
+      "common": "Καναδάς"
+    },
+    "gu": {
+      "official": "કેનેડા",
+      "common": "કેનેડા"
+    },
+    "he": {
+      "official": "קנדה",
+      "common": "קנדה"
+    },
+    "hi": {
+      "official": "कनाडा",
+      "common": "कनाडा"
+    },
+    "hr": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "hu": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "is": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "ia": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "id": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "it": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "ja": {
+      "official": "カナダ",
+      "common": "カナダ"
+    },
+    "kn": {
+      "official": "ಕೆನಡ",
+      "common": "ಕೆನಡ"
+    },
+    "kk": {
+      "official": "Канада",
+      "common": "Канада"
+    },
+    "km": {
+      "official": "កាណាដា",
+      "common": "កាណាដា"
+    },
+    "rw": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "ko": {
+      "official": "캐나다",
+      "common": "캐나다"
+    },
+    "ku": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "lv": {
+      "official": "Kanāda",
+      "common": "Kanāda"
+    },
+    "lt": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "mk": {
+      "official": "Канада",
+      "common": "Канада"
+    },
+    "ml": {
+      "official": "കാനഡ",
+      "common": "കാനഡ"
+    },
+    "mi": {
+      "official": "Kānata",
+      "common": "Kānata"
+    },
+    "mr": {
+      "official": "कॅनडा",
+      "common": "कॅनडा"
+    },
+    "ms": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "mt": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "mn": {
+      "official": "Канад",
+      "common": "Канад"
+    },
+    "ne": {
+      "official": "क्यानाडा",
+      "common": "क्यानाडा"
+    },
+    "nn": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "nb": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "oc": {
+      "official": "Canadà",
+      "common": "Canadà"
+    },
+    "or": {
+      "official": "କାନାଡା",
+      "common": "କାନାଡା"
+    },
+    "pa": {
+      "official": "ਕੈਨੇਡਾ",
+      "common": "ਕੈਨੇਡਾ"
+    },
+    "fa": {
+      "official": "کانادا",
+      "common": "کانادا"
+    },
+    "pl": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "pt": {
+      "official": "Canadá",
+      "common": "Canadá"
+    },
+    "ps": {
+      "official": "کاناډا",
+      "common": "کاناډا"
+    },
+    "ro": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "ru": {
+      "official": "Канада",
+      "common": "Канада"
+    },
+    "si": {
+      "official": "කැනඩාව",
+      "common": "කැනඩාව"
+    },
+    "sk": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "sl": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "so": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "es": {
+      "official": "Canadá",
+      "common": "Canadá"
+    },
+    "sr": {
+      "official": "Канада",
+      "common": "Канада"
+    },
+    "sw": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "sv": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "ta": {
+      "official": "கனடா",
+      "common": "கனடா"
+    },
+    "tt": {
+      "official": "Канада",
+      "common": "Канада"
+    },
+    "te": {
+      "official": "కెనడా",
+      "common": "కెనడా"
+    },
+    "tl": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "th": {
+      "official": "แคนาดา",
+      "common": "แคนาดา"
+    },
+    "ti": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "tk": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "tr": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "ug": {
+      "official": "كانادا",
+      "common": "كانادا"
+    },
+    "uk": {
+      "official": "Канада",
+      "common": "Канада"
+    },
+    "ve": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "vi": {
+      "official": "Ca-na-đa",
+      "common": "Ca-na-đa"
+    },
+    "cy": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "wa": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "wo": {
+      "official": "Kanadaa",
+      "common": "Kanadaa"
+    },
+    "xh": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "zu": {
+      "official": "I Khanada",
+      "common": "I Khanada"
+    }
+  }
+}

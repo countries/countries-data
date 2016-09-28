@@ -1,0 +1,332 @@
+---
+continent: Africa
+alpha2: LS
+alpha3: LSO
+alt_currency: ZAR
+country_code: '266'
+international_prefix: '00'
+ioc: LES
+gec: LT
+name: Lesotho
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: None
+number: '426'
+region: Africa
+subregion: Southern Africa
+world_region: EMEA
+un_locode: LS
+nationality: Mosotho
+postal_code: true
+unofficial_names:
+- Lesotho
+- レソト
+languages_official:
+- en
+- st
+languages_spoken:
+- en
+- st
+geo:
+  latitude: -29.609988
+  latitude_dec: "-29.58175277709961"
+  longitude: 28.233608
+  longitude_dec: '28.246612548828125'
+  max_latitude: -28.5708012
+  max_longitude: 29.4557087
+  min_latitude: -30.6755788
+  min_longitude: 27.011231
+  bounds:
+    northeast:
+      lat: -28.5708012
+      lng: 29.4557087
+    southwest:
+      lat: -30.6755788
+      lng: 27.011231
+currency_code: LSL
+postal_address_data:
+  zipex: '100'
+  name: LESOTHO
+  zip: "\\d{3}"
+  fmt: "%N%n%O%n%A%n%C %Z"
+  key: LS
+  id: data/LS
+translations:
+  af:
+    official: Lesotho
+    common: Lesotho
+  sq:
+    official: Lesoto
+    common: Lesoto
+  am:
+    official: Lesotho
+    common: Lesotho
+  ar:
+    official: ليسوتو
+    common: ليسوتو
+  hy:
+    official: Լեսոտո
+    common: Լեսոտո
+  as:
+    official: লেছোথো
+    common: লেছোথো
+  az:
+    official: Lesoto
+    common: Lesoto
+  eu:
+    official: Lesotho
+    common: Lesotho
+  be:
+    official: Лесота
+    common: Лесота
+  bn:
+    official: লেসোথো
+    common: লেসোথো
+  bs:
+    official: Lesoto
+    common: Lesoto
+  br:
+    official: Lesotho
+    common: Lesotho
+  bg:
+    official: Лесото
+    common: Лесото
+  ca:
+    official: Lesotho
+    common: Lesotho
+  zh:
+    official: 莱索托
+    common: 莱索托
+  cs:
+    official: Lesotho
+    common: Lesotho
+  da:
+    official: Lesotho
+    common: Lesotho
+  nl:
+    official: Lesotho
+    common: Lesotho
+  dz:
+    official: ལི་སོ་ཐོ།
+    common: ལི་སོ་ཐོ།
+  en:
+    official: Lesotho
+    common: Lesotho
+  eo:
+    official: Lesoto
+    common: Lesoto
+  et:
+    official: Lesotho
+    common: Lesotho
+  fo:
+    official: Lesoto
+    common: Lesoto
+  fi:
+    official: Lesotho
+    common: Lesotho
+  fr:
+    official: Lesotho
+    common: Lesotho
+  ka:
+    official: ლესოტო
+    common: ლესოტო
+  de:
+    official: Lesotho
+    common: Lesotho
+  ga:
+    official: Leosóta
+    common: Leosóta
+  gl:
+    official: Lesoto
+    common: Lesoto
+  el:
+    official: Λεσόθο
+    common: Λεσόθο
+  gu:
+    official: લેસોથો
+    common: લેસોથો
+  he:
+    official: לסותו
+    common: לסותו
+  hi:
+    official: लेसोोथो
+    common: लेसोोथो
+  hr:
+    official: Lesoto
+    common: Lesoto
+  hu:
+    official: Lesotho
+    common: Lesotho
+  is:
+    official: Lesótó
+    common: Lesótó
+  ia:
+    official: Lesotho
+    common: Lesotho
+  id:
+    official: Lesotho
+    common: Lesotho
+  it:
+    official: Lesotho
+    common: Lesotho
+  ja:
+    official: レソト
+    common: レソト
+  kn:
+    official: ಲೆಸೋಥೋ
+    common: ಲೆಸೋಥೋ
+  kk:
+    official: Лесото
+    common: Лесото
+  km:
+    official: ឡេសូតូ
+    common: ឡេសូតូ
+  rw:
+    official: Lesoto
+    common: Lesoto
+  ko:
+    official: 레소토
+    common: 레소토
+  ku:
+    official: Lesoto
+    common: Lesoto
+  lv:
+    official: Lesoto
+    common: Lesoto
+  lt:
+    official: Lesotas
+    common: Lesotas
+  mk:
+    official: Лесото
+    common: Лесото
+  ml:
+    official: ലെസോത്തോ
+    common: ലെസോത്തോ
+  mi:
+    official: Lesotho
+    common: Lesotho
+  mr:
+    official: लेसोथो
+    common: लेसोथो
+  ms:
+    official: Lesotho
+    common: Lesotho
+  mt:
+    official: Lesoto
+    common: Lesoto
+  mn:
+    official: Lesotho
+    common: Lesotho
+  ne:
+    official: लेसोथो
+    common: लेसोथो
+  nn:
+    official: Lesotho
+    common: Lesotho
+  nb:
+    official: Lesotho
+    common: Lesotho
+  oc:
+    official: Lesoto
+    common: Lesoto
+  or:
+    official: ଲେସୋଥୋ
+    common: ଲେସୋଥୋ
+  pa:
+    official: ਲੀਸੋਥੋ
+    common: ਲੀਸੋਥੋ
+  fa:
+    official: لسوتو
+    common: لسوتو
+  pl:
+    official: Lesoto
+    common: Lesoto
+  pt:
+    official: Lesoto
+    common: Lesoto
+  ps:
+    official: Lesotho
+    common: Lesotho
+  ro:
+    official: Lesotho
+    common: Lesotho
+  ru:
+    official: Лесото
+    common: Лесото
+  si:
+    official: ලෙස්තෝ
+    common: ලෙස්තෝ
+  sk:
+    official: Lesotho
+    common: Lesotho
+  sl:
+    official: Lesoto
+    common: Lesoto
+  so:
+    official: Losooto
+    common: Losooto
+  es:
+    official: Lesoto
+    common: Lesoto
+  sr:
+    official: Лесото
+    common: Лесото
+  sw:
+    official: Lesotho
+    common: Lesotho
+  sv:
+    official: Lesotho
+    common: Lesotho
+  ta:
+    official: லெசோதோ
+    common: லெசோதோ
+  tt:
+    official: Лесото
+    common: Лесото
+  te:
+    official: లెసోథో
+    common: లెసోథో
+  tl:
+    official: Lesotho
+    common: Lesotho
+  th:
+    official: เลโซโท
+    common: เลโซโท
+  ti:
+    official: Lesotho
+    common: Lesotho
+  tk:
+    official: Lesoto
+    common: Lesoto
+  tr:
+    official: Lesoto
+    common: Lesoto
+  ug:
+    official: لېسوتو
+    common: لېسوتو
+  uk:
+    official: Лесото
+    common: Лесото
+  ve:
+    official: Lesotho
+    common: Lesotho
+  vi:
+    official: Lê-xô-thô
+    common: Lê-xô-thô
+  cy:
+    official: Lesotho
+    common: Lesotho
+  wa:
+    official: Lessoto
+    common: Lessoto
+  wo:
+    official: Lesoto
+    common: Lesoto
+  xh:
+    official: Lesotho
+    common: Lesotho
+  zu:
+    official: Lesotho
+    common: Lesotho

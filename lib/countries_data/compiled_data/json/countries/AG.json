@@ -1,0 +1,435 @@
+{
+  "continent": "North America",
+  "alpha2": "AG",
+  "alpha3": "ATG",
+  "country_code": "1",
+  "international_prefix": "011",
+  "ioc": "ANT",
+  "gec": "AC",
+  "name": "Antigua and Barbuda",
+  "national_destination_code_lengths": [
+    3
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "1",
+  "number": "028",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "AMER",
+  "un_locode": "AG",
+  "nationality": "Antiguan, Barbudan",
+  "postal_code": false,
+  "unofficial_names": [
+    "Antigua and Barbuda",
+    "Antigua und Barbuda",
+    "Antigua et Barbuda",
+    "Antigua y Barbuda",
+    "アンティグア・バーブーダ",
+    "Antigua en Barbuda"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 17.060816,
+    "latitude_dec": "17.09273910522461",
+    "longitude": -61.796428,
+    "longitude_dec": "-61.81040954589844",
+    "max_latitude": 17.7291867,
+    "max_longitude": -61.6571681,
+    "min_latitude": 16.932532,
+    "min_longitude": -62.3476571,
+    "bounds": {
+      "northeast": {
+        "lat": 17.7291867,
+        "lng": -61.6571681
+      },
+      "southwest": {
+        "lat": 16.932532,
+        "lng": -62.3476571
+      }
+    }
+  },
+  "currency_code": "XCD",
+  "postal_address_data": {
+    "require": "A",
+    "id": "data/AG",
+    "key": "AG",
+    "name": "ANTIGUA AND BARBUDA"
+  },
+  "translations": {
+    "af": {
+      "official": "Antigue en Barbuda",
+      "common": "Antigue en Barbuda"
+    },
+    "sq": {
+      "official": "Antigua dhe Barbuda",
+      "common": "Antigua dhe Barbuda"
+    },
+    "am": {
+      "official": "Antigua and Barbuda",
+      "common": "Antigua and Barbuda"
+    },
+    "ar": {
+      "official": "أنتيغوا و باربودا",
+      "common": "أنتيغوا و باربودا"
+    },
+    "hy": {
+      "official": "Անտիգուա-Բարբուդա",
+      "common": "Անտիգուա-Բարբուդա"
+    },
+    "as": {
+      "official": "এন্টিগুৱা আৰু বাৰবুডা",
+      "common": "এন্টিগুৱা আৰু বাৰবুডা"
+    },
+    "az": {
+      "official": "Antiq və Barbuda",
+      "common": "Antiq və Barbuda"
+    },
+    "eu": {
+      "official": "Antigua eta Barbuda",
+      "common": "Antigua eta Barbuda"
+    },
+    "be": {
+      "official": "Антыгуа і Барбуда",
+      "common": "Антыгуа і Барбуда"
+    },
+    "bn": {
+      "official": "অ্যান্টিগুয়া ও বারবুডা",
+      "common": "অ্যান্টিগুয়া ও বারবুডা"
+    },
+    "bs": {
+      "official": "Antigua i Barbuda",
+      "common": "Antigua i Barbuda"
+    },
+    "br": {
+      "official": "Antigua ha Barbuda",
+      "common": "Antigua ha Barbuda"
+    },
+    "bg": {
+      "official": "Антигуа и Барбуда",
+      "common": "Антигуа и Барбуда"
+    },
+    "ca": {
+      "official": "Antigua i Barbuda",
+      "common": "Antigua i Barbuda"
+    },
+    "zh": {
+      "official": "安提瓜和巴布达",
+      "common": "安提瓜和巴布达"
+    },
+    "cs": {
+      "official": "Antigua a Barbuda",
+      "common": "Antigua a Barbuda"
+    },
+    "da": {
+      "official": "Antigua og Barbuda",
+      "common": "Antigua og Barbuda"
+    },
+    "nl": {
+      "official": "Antigua en Barbuda",
+      "common": "Antigua en Barbuda"
+    },
+    "dz": {
+      "official": "ཨེན་ཊི་གུའ་དང་ བར་བུ་ཌ།",
+      "common": "ཨེན་ཊི་གུའ་དང་ བར་བུ་ཌ།"
+    },
+    "en": {
+      "official": "Antigua and Barbuda",
+      "common": "Antigua and Barbuda"
+    },
+    "eo": {
+      "official": "Antigvo-Barbudo",
+      "common": "Antigvo-Barbudo"
+    },
+    "et": {
+      "official": "Antigua ja Barbuda",
+      "common": "Antigua ja Barbuda"
+    },
+    "fo": {
+      "official": "Antigua og Barbuda",
+      "common": "Antigua og Barbuda"
+    },
+    "fi": {
+      "official": "Antigua ja Barbuda",
+      "common": "Antigua ja Barbuda"
+    },
+    "fr": {
+      "official": "Antigua-et-Barbuda",
+      "common": "Antigua-et-Barbuda"
+    },
+    "ka": {
+      "official": "ანტიგუა და ბარბუდა",
+      "common": "ანტიგუა და ბარბუდა"
+    },
+    "de": {
+      "official": "Antigua und Barbuda",
+      "common": "Antigua und Barbuda"
+    },
+    "ga": {
+      "official": "Antigua agus Barbuda",
+      "common": "Antigua agus Barbuda"
+    },
+    "gl": {
+      "official": "Antiga e Barbuda",
+      "common": "Antiga e Barbuda"
+    },
+    "el": {
+      "official": "Αντίγκουα και Μπαρμπούντα",
+      "common": "Αντίγκουα και Μπαρμπούντα"
+    },
+    "gu": {
+      "official": "એન્ટિગુઆ અને બાર્બુડા",
+      "common": "એન્ટિગુઆ અને બાર્બુડા"
+    },
+    "he": {
+      "official": "אנטיגואה וברבודה",
+      "common": "אנטיגואה וברבודה"
+    },
+    "hi": {
+      "official": "एंटीगुआ और बर्बूडा",
+      "common": "एंटीगुआ और बर्बूडा"
+    },
+    "hr": {
+      "official": "Antigva i Barbuda",
+      "common": "Antigva i Barbuda"
+    },
+    "hu": {
+      "official": "Antigua és Barbuda",
+      "common": "Antigua és Barbuda"
+    },
+    "is": {
+      "official": "Antigúa og Barbúda",
+      "common": "Antigúa og Barbúda"
+    },
+    "ia": {
+      "official": "Antigua e Barbuda",
+      "common": "Antigua e Barbuda"
+    },
+    "id": {
+      "official": "Antigua dan Barbuda",
+      "common": "Antigua dan Barbuda"
+    },
+    "it": {
+      "official": "Antigua e Barbuda",
+      "common": "Antigua e Barbuda"
+    },
+    "ja": {
+      "official": "アンティグア・バーブーダ",
+      "common": "アンティグア・バーブーダ"
+    },
+    "kn": {
+      "official": "ಆಂಟಿಗ್ವಾ ಮತ್ತು ಬಾರ್ಬುಡಾ",
+      "common": "ಆಂಟಿಗ್ವಾ ಮತ್ತು ಬಾರ್ಬುಡಾ"
+    },
+    "kk": {
+      "official": "Антигуа және Барбуда",
+      "common": "Антигуа және Барбуда"
+    },
+    "km": {
+      "official": "អង់ទីហ្គា និង បារប៊ុយដា",
+      "common": "អង់ទីហ្គា និង បារប៊ុយដា"
+    },
+    "rw": {
+      "official": "Antigwa na Barubida",
+      "common": "Antigwa na Barubida"
+    },
+    "ko": {
+      "official": "안티가 바부다",
+      "common": "안티가 바부다"
+    },
+    "ku": {
+      "official": "Antîguya û Barbuda",
+      "common": "Antîguya û Barbuda"
+    },
+    "lv": {
+      "official": "Antigva un Barbuda",
+      "common": "Antigva un Barbuda"
+    },
+    "lt": {
+      "official": "Antigva ir Barbuda",
+      "common": "Antigva ir Barbuda"
+    },
+    "mk": {
+      "official": "Антика и Барбуда",
+      "common": "Антика и Барбуда"
+    },
+    "ml": {
+      "official": "ആന്റിഗ്വയും ബര്‍മുഡയും",
+      "common": "ആന്റിഗ്വയും ബര്‍മുഡയും"
+    },
+    "mi": {
+      "official": "Antigua and Barbuda",
+      "common": "Antigua and Barbuda"
+    },
+    "mr": {
+      "official": "ऍंटिग्वा आणी बार्बुडा",
+      "common": "ऍंटिग्वा आणी बार्बुडा"
+    },
+    "ms": {
+      "official": "Antigua dan Barbuda",
+      "common": "Antigua dan Barbuda"
+    },
+    "mt": {
+      "official": "Antigwa u Barbuda",
+      "common": "Antigwa u Barbuda"
+    },
+    "mn": {
+      "official": "Antigua and Barbuda",
+      "common": "Antigua and Barbuda"
+    },
+    "ne": {
+      "official": "एन्टिगुआ र बारबूढा",
+      "common": "एन्टिगुआ र बारबूढा"
+    },
+    "nn": {
+      "official": "Antigua og Barbuda",
+      "common": "Antigua og Barbuda"
+    },
+    "nb": {
+      "official": "Antigua og Barbuda",
+      "common": "Antigua og Barbuda"
+    },
+    "oc": {
+      "official": "Antigua e Barbuda",
+      "common": "Antigua e Barbuda"
+    },
+    "or": {
+      "official": "ଏଣ୍ଟିଗୁଆ ଏବଂ ବାର୍ବୁଡା",
+      "common": "ଏଣ୍ଟିଗୁଆ ଏବଂ ବାର୍ବୁଡା"
+    },
+    "pa": {
+      "official": "ਐਟੀਗੂਆ ਤੇ ਬਾਰਬੂਡਾ",
+      "common": "ਐਟੀਗੂਆ ਤੇ ਬਾਰਬੂਡਾ"
+    },
+    "fa": {
+      "official": "آنتیگوا و باربودا",
+      "common": "آنتیگوا و باربودا"
+    },
+    "pl": {
+      "official": "Antigua i Barbuda",
+      "common": "Antigua i Barbuda"
+    },
+    "pt": {
+      "official": "Antígua e Barbuda",
+      "common": "Antígua e Barbuda"
+    },
+    "ps": {
+      "official": "Antigua and Barbuda",
+      "common": "Antigua and Barbuda"
+    },
+    "ro": {
+      "official": "Antigua și Barbuda",
+      "common": "Antigua și Barbuda"
+    },
+    "ru": {
+      "official": "Антигуа и Барбуда",
+      "common": "Антигуа и Барбуда"
+    },
+    "si": {
+      "official": "ඇන්ටිගුවා හා බාබුඩා",
+      "common": "ඇන්ටිගුවා හා බාබුඩා"
+    },
+    "sk": {
+      "official": "Antigua a Barbuda",
+      "common": "Antigua a Barbuda"
+    },
+    "sl": {
+      "official": "Antigva in Barbuda",
+      "common": "Antigva in Barbuda"
+    },
+    "so": {
+      "official": "Antigua and Barbuda",
+      "common": "Antigua and Barbuda"
+    },
+    "es": {
+      "official": "Antigua y Barbuda",
+      "common": "Antigua y Barbuda"
+    },
+    "sr": {
+      "official": "Антигва и Барбуда",
+      "common": "Антигва и Барбуда"
+    },
+    "sw": {
+      "official": "Antigua na Barbuda",
+      "common": "Antigua na Barbuda"
+    },
+    "sv": {
+      "official": "Antigua och Barbuda",
+      "common": "Antigua och Barbuda"
+    },
+    "ta": {
+      "official": "ஆன்டிகுவா மற்றும் பார்புடா",
+      "common": "ஆன்டிகுவா மற்றும் பார்புடா"
+    },
+    "tt": {
+      "official": "Антиgуа белән Барбуда",
+      "common": "Антиgуа белән Барбуда"
+    },
+    "te": {
+      "official": "ఐంటిగ్వా మరియు బార్బుడా",
+      "common": "ఐంటిగ్వా మరియు బార్బుడా"
+    },
+    "tl": {
+      "official": "Antigwa at Barbuda",
+      "common": "Antigwa at Barbuda"
+    },
+    "th": {
+      "official": "แอนติกาและบาร์บูดา",
+      "common": "แอนติกาและบาร์บูดา"
+    },
+    "ti": {
+      "official": "Antigua and Barbuda",
+      "common": "Antigua and Barbuda"
+    },
+    "tk": {
+      "official": "Antigua we Barbuda",
+      "common": "Antigua we Barbuda"
+    },
+    "tr": {
+      "official": "Antigua-Barbuda",
+      "common": "Antigua-Barbuda"
+    },
+    "ug": {
+      "official": "ئانتىگۋا ۋە باربۇدا",
+      "common": "ئانتىگۋا ۋە باربۇدا"
+    },
+    "uk": {
+      "official": "Антигуа і Барбуда",
+      "common": "Антигуа і Барбуда"
+    },
+    "ve": {
+      "official": "Antigua na Barbuda",
+      "common": "Antigua na Barbuda"
+    },
+    "vi": {
+      "official": "Ănh-thí-gua và Ba-bu-đa",
+      "common": "Ănh-thí-gua và Ba-bu-đa"
+    },
+    "cy": {
+      "official": "Antigua ac Barbuda",
+      "common": "Antigua ac Barbuda"
+    },
+    "wa": {
+      "official": "Antigua eyet Barbuda",
+      "common": "Antigua eyet Barbuda"
+    },
+    "wo": {
+      "official": "Antigua ak Barbuda",
+      "common": "Antigua ak Barbuda"
+    },
+    "xh": {
+      "official": "Antigua no Barbuda",
+      "common": "Antigua no Barbuda"
+    },
+    "zu": {
+      "official": "Antigua no Barbuda",
+      "common": "Antigua no Barbuda"
+    }
+  }
+}

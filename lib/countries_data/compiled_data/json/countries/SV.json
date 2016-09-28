@@ -1,0 +1,443 @@
+{
+  "continent": "North America",
+  "alpha2": "SV",
+  "alpha3": "SLV",
+  "country_code": "503",
+  "international_prefix": "00",
+  "ioc": "ESA",
+  "gec": "ES",
+  "name": "El Salvador",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "None",
+  "number": "222",
+  "region": "Americas",
+  "subregion": "Central America",
+  "world_region": "AMER",
+  "un_locode": "SV",
+  "nationality": "Salvadoran",
+  "postal_code": true,
+  "unofficial_names": [
+    "El Salvador",
+    "Salvador",
+    "エルサルバドル"
+  ],
+  "languages_official": [
+    "es"
+  ],
+  "languages_spoken": [
+    "es"
+  ],
+  "geo": {
+    "latitude": 13.794185,
+    "latitude_dec": "13.671636581420898",
+    "longitude": -88.89653,
+    "longitude_dec": "-88.86363220214844",
+    "max_latitude": 14.4505566,
+    "max_longitude": -87.6838623,
+    "min_latitude": 13.1554312,
+    "min_longitude": -90.1268107,
+    "bounds": {
+      "northeast": {
+        "lat": 14.4505566,
+        "lng": -87.6838623
+      },
+      "southwest": {
+        "lat": 13.1554312,
+        "lng": -90.1268107
+      }
+    }
+  },
+  "currency_code": "USD",
+  "postal_address_data": {
+    "lang": "es",
+    "upper": "CSZ",
+    "sub_zipexs": "CP 2101~CP 1201~CP 1301~CP 1401~CP 1501~CP 1601~CP 3101~CP 3201~CP 3301~CP 1101~CP 1701~CP 2201~CP 2301~CP 3401",
+    "zipex": "CP 1101",
+    "name": "EL SALVADOR",
+    "zip": "CP [1-3][1-7][0-2]\\d",
+    "require": "ACS",
+    "id": "data/SV",
+    "languages": "es",
+    "sub_keys": "Ahuachapan~Cabanas~Calatenango~Cuscatlan~La Libertad~La Paz~La Union~Morazan~San Miguel~San Salvador~San Vicente~Santa Ana~Sonsonate~Usulutan",
+    "key": "SV",
+    "sub_isoids": "AH~CA~CH~CU~LI~PA~UN~MO~SM~SS~SV~SA~SO~US",
+    "fmt": "%N%n%O%n%A%n%Z-%C%n%S",
+    "sub_names": "Ahuachapán~Cabañas~Chalatenango~Cuscatlán~La Libertad~La Paz~La Unión~Morazán~San Miguel~San Salvador~San Vicente~Santa Ana~Sonsonate~Usulután",
+    "sub_zips": "CP 21~CP 12~CP 13~CP 14~CP 15~CP 16~CP 31~CP 32~CP 33~CP 11~CP 17~CP 22~CP 23~CP 34"
+  },
+  "translations": {
+    "af": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "sq": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "am": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "ar": {
+      "official": "السّلفادور",
+      "common": "السّلفادور"
+    },
+    "hy": {
+      "official": "Սալվադոր",
+      "common": "Սալվադոր"
+    },
+    "as": {
+      "official": "এল ছেলভেড'ৰ",
+      "common": "এল ছেলভেড'ৰ"
+    },
+    "az": {
+      "official": "Elsalvador",
+      "common": "Elsalvador"
+    },
+    "eu": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "be": {
+      "official": "Эль-Сальвадор",
+      "common": "Эль-Сальвадор"
+    },
+    "bn": {
+      "official": "এল সালভাডোর",
+      "common": "এল সালভাডোর"
+    },
+    "bs": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "br": {
+      "official": "Salvador",
+      "common": "Salvador"
+    },
+    "bg": {
+      "official": "Ел Салвадор",
+      "common": "Ел Салвадор"
+    },
+    "ca": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "zh": {
+      "official": "萨尔瓦多",
+      "common": "萨尔瓦多"
+    },
+    "cs": {
+      "official": "Salvador",
+      "common": "Salvador"
+    },
+    "da": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "nl": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "dz": {
+      "official": "ཨེལ་ སཱལ་བེ་ཌོར།",
+      "common": "ཨེལ་ སཱལ་བེ་ཌོར།"
+    },
+    "en": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "eo": {
+      "official": "Salvadoro",
+      "common": "Salvadoro"
+    },
+    "et": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "fo": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "fi": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "fr": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "ka": {
+      "official": "სალვადორი",
+      "common": "სალვადორი"
+    },
+    "de": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "ga": {
+      "official": "An tSalvadóir",
+      "common": "An tSalvadóir"
+    },
+    "gl": {
+      "official": "O Salvador",
+      "common": "O Salvador"
+    },
+    "el": {
+      "official": "Ελ Σαλβαδόρ",
+      "common": "Ελ Σαλβαδόρ"
+    },
+    "gu": {
+      "official": "અલ સાલ્વાડોર",
+      "common": "અલ સાલ્વાડોર"
+    },
+    "he": {
+      "official": "אל סלבדור",
+      "common": "אל סלבדור"
+    },
+    "hi": {
+      "official": "अल साल्वाडोर",
+      "common": "अल साल्वाडोर"
+    },
+    "hr": {
+      "official": "Salvador",
+      "common": "Salvador"
+    },
+    "hu": {
+      "official": "Salvador",
+      "common": "Salvador"
+    },
+    "is": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "ia": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "id": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "it": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "ja": {
+      "official": "エルサルバドル",
+      "common": "エルサルバドル"
+    },
+    "kn": {
+      "official": "ಎಲ್ ಸಾಲ್ವಡಾರ್‍",
+      "common": "ಎಲ್ ಸಾಲ್ವಡಾರ್‍"
+    },
+    "kk": {
+      "official": "Сальвадор",
+      "common": "Сальвадор"
+    },
+    "km": {
+      "official": "អែលសាល់វ៉ាឌ័រ",
+      "common": "អែលសាល់វ៉ាឌ័រ"
+    },
+    "rw": {
+      "official": "Eli Saluvadoro",
+      "common": "Eli Saluvadoro"
+    },
+    "ko": {
+      "official": "엘 살바도르",
+      "common": "엘 살바도르"
+    },
+    "ku": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "lv": {
+      "official": "Salvadora",
+      "common": "Salvadora"
+    },
+    "lt": {
+      "official": "Salvadoras",
+      "common": "Salvadoras"
+    },
+    "mk": {
+      "official": "Ел Салвадор",
+      "common": "Ел Салвадор"
+    },
+    "ml": {
+      "official": "എല്‍ സാല്‍വഡോര്‍",
+      "common": "എല്‍ സാല്‍വഡോര്‍"
+    },
+    "mi": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "mr": {
+      "official": "अल साल्वॅडॉर",
+      "common": "अल साल्वॅडॉर"
+    },
+    "ms": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "mt": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "mn": {
+      "official": "Эл салвадор",
+      "common": "Эл салвадор"
+    },
+    "ne": {
+      "official": "इल साल्भाडोर",
+      "common": "इल साल्भाडोर"
+    },
+    "nn": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "nb": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "oc": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "or": {
+      "official": "ଅଲ ସଲ୍ଭାଡୋର",
+      "common": "ଅଲ ସଲ୍ଭାଡୋର"
+    },
+    "pa": {
+      "official": "ਈਲ ਸਾਲੇਵਡੋਰ",
+      "common": "ਈਲ ਸਾਲੇਵਡੋਰ"
+    },
+    "fa": {
+      "official": "السالوادور",
+      "common": "السالوادور"
+    },
+    "pl": {
+      "official": "Salwador",
+      "common": "Salwador"
+    },
+    "pt": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "ps": {
+      "official": "سالوېډور",
+      "common": "سالوېډور"
+    },
+    "ro": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "ru": {
+      "official": "Сальвадор",
+      "common": "Сальвадор"
+    },
+    "si": {
+      "official": "එල් සැල්වදෝරය",
+      "common": "එල් සැල්වදෝරය"
+    },
+    "sk": {
+      "official": "Salvádor",
+      "common": "Salvádor"
+    },
+    "sl": {
+      "official": "Salvador",
+      "common": "Salvador"
+    },
+    "so": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "es": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "sr": {
+      "official": "Ел Салвадор",
+      "common": "Ел Салвадор"
+    },
+    "sw": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "sv": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "ta": {
+      "official": "எல் சால்வடார்",
+      "common": "எல் சால்வடார்"
+    },
+    "tt": {
+      "official": "Ел Салвадор",
+      "common": "Ел Салвадор"
+    },
+    "te": {
+      "official": "అల సాల్వడార్",
+      "common": "అల సాల్వడార్"
+    },
+    "tl": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "th": {
+      "official": "เอลซัลวาดอร์",
+      "common": "เอลซัลวาดอร์"
+    },
+    "ti": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "tk": {
+      "official": "Salwador",
+      "common": "Salwador"
+    },
+    "tr": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "ug": {
+      "official": "سالۋادور",
+      "common": "سالۋادور"
+    },
+    "uk": {
+      "official": "Сальвадор",
+      "common": "Сальвадор"
+    },
+    "ve": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "vi": {
+      "official": "En-xan-va-đoa",
+      "common": "En-xan-va-đoa"
+    },
+    "cy": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "wa": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "wo": {
+      "official": "Salbadoor",
+      "common": "Salbadoor"
+    },
+    "xh": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "zu": {
+      "official": "I-El Salvador",
+      "common": "I-El Salvador"
+    }
+  }
+}

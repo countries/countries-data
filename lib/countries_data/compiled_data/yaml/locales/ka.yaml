@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: ავღანეთი
+    common: ავღანეთი
+  AX:
+    official: ალანდის კუნძულები
+    common: ალანდის კუნძულები
+  AL:
+    official: ალბანეთი
+    common: ალბანეთი
+  DZ:
+    official: ალჟირი
+    common: ალჟირი
+  AS:
+    official: ამერიკული სამოა
+    common: ამერიკული სამოა
+  AD:
+    official: ანდორა
+    common: ანდორა
+  AO:
+    official: ანგოლა
+    common: ანგოლა
+  AI:
+    official: ანგილა
+    common: ანგილა
+  AQ:
+    official: ანტარქტიკა
+    common: ანტარქტიკა
+  AG:
+    official: ანტიგუა და ბარბუდა
+    common: ანტიგუა და ბარბუდა
+  AR:
+    official: არგენტინა
+    common: არგენტინა
+  AM:
+    official: სასომხეთი
+    common: სასომხეთი
+  AW:
+    official: არუბა
+    common: არუბა
+  AU:
+    official: ავსტრალია
+    common: ავსტრალია
+  AT:
+    official: ავსტრია
+    common: ავსტრია
+  AZ:
+    official: აზერბაიჯანი
+    common: აზერბაიჯანი
+  BS:
+    official: ბაჰამის კუნძულები
+    common: ბაჰამის კუნძულები
+  BH:
+    official: ბაჰრეინი
+    common: ბაჰრეინი
+  BD:
+    official: ბანგლადეში
+    common: ბანგლადეში
+  BB:
+    official: ბარბადოსი
+    common: ბარბადოსი
+  BY:
+    official: ბელორუსია
+    common: ბელორუსია
+  BE:
+    official: ბელგია
+    common: ბელგია
+  BZ:
+    official: ბელიზი
+    common: ბელიზი
+  BJ:
+    official: ბენინი
+    common: ბენინი
+  BM:
+    official: ბერმუდა
+    common: ბერმუდა
+  BT:
+    official: ბუტანი
+    common: ბუტანი
+  BO:
+    official: Bolivia, Plurinational State of
+    common: Bolivia, Plurinational State of
+  BQ:
+    official: Bonaire, Sint Eustatius and Saba
+    common: Bonaire, Sint Eustatius and Saba
+  BA:
+    official: ბოსნია და ჰერცეგოვინა
+    common: ბოსნია და ჰერცეგოვინა
+  BW:
+    official: ბოტსვანა
+    common: ბოტსვანა
+  BV:
+    official: ბუვეტის კუნძული
+    common: ბუვეტის კუნძული
+  BR:
+    official: ბრაზილია
+    common: ბრაზილია
+  IO:
+    official: ბრიტანეთის ინდოეთის ოკეანის ტერიტორია
+    common: ბრიტანეთის ინდოეთის ოკეანის ტერიტორია
+  BN:
+    official: ბრუნეი დარუსალამი
+    common: ბრუნეი დარუსალამი
+  BG:
+    official: ბულგარეთი
+    common: ბულგარეთი
+  BF:
+    official: ბურკინა-ფასო
+    common: ბურკინა-ფასო
+  BI:
+    official: ბურუნდი
+    common: ბურუნდი
+  KH:
+    official: კამბოჯა
+    common: კამბოჯა
+  CM:
+    official: კამერუნი
+    common: კამერუნი
+  CA:
+    official: კანადა
+    common: კანადა
+  CV:
+    official: კაბო-ვერდე
+    common: კაბო-ვერდე
+  KY:
+    official: კაიამანის კუნძულები
+    common: კაიამანის კუნძულები
+  CF:
+    official: ცენტრალური აფრიკის რესპუბლიკა
+    common: ცენტრალური აფრიკის რესპუბლიკა
+  TD:
+    official: ჩადი
+    common: ჩადი
+  CL:
+    official: ჩილი
+    common: ჩილი
+  CN:
+    official: ჩინეთი
+    common: ჩინეთი
+  CX:
+    official: შობის კუნძული
+    common: შობის კუნძული
+  CC:
+    official: ქოქოსის კუნძული
+    common: ქოქოსის კუნძული
+  CO:
+    official: კოლუმბია
+    common: კოლუმბია
+  KM:
+    official: კომორის კუნძულები
+    common: კომორის კუნძულები
+  CG:
+    official: კონგო
+    common: კონგო
+  CD:
+    official: კონგო, დემოკრატიული რესპუბლიკა
+    common: კონგო, დემოკრატიული რესპუბლიკა
+  CK:
+    official: კუკის კუნძულები
+    common: კუკის კუნძულები
+  CR:
+    official: კოსტა-რიკა
+    common: კოსტა-რიკა
+  CI:
+    official: კოტ-დ'ივუარი
+    common: კოტ-დ'ივუარი
+  HR:
+    official: ჰორვატია
+    common: ჰორვატია
+  CU:
+    official: კუბა
+    common: კუბა
+  CW:
+    official: Curaçao
+    common: Curaçao
+  CY:
+    official: კვიპროსი
+    common: კვიპროსი
+  CZ:
+    official: ჩეხეთის რესპუბლიკა
+    common: ჩეხეთის რესპუბლიკა
+  DK:
+    official: დანია
+    common: დანია
+  DJ:
+    official: ჯიბუტი
+    common: ჯიბუტი
+  DM:
+    official: დომინიკა
+    common: დომინიკა
+  DO:
+    official: დომინიკანის რესპუბლიკა
+    common: დომინიკანის რესპუბლიკა
+  EC:
+    official: ეკვადორი
+    common: ეკვადორი
+  EG:
+    official: ეგვიპტე
+    common: ეგვიპტე
+  SV:
+    official: სალვადორი
+    common: სალვადორი
+  GQ:
+    official: ეკვატორული გვინეა
+    common: ეკვატორული გვინეა
+  ER:
+    official: ერიტრეა
+    common: ერიტრეა
+  EE:
+    official: ესტონეთი
+    common: ესტონეთი
+  ET:
+    official: ეთიოპია
+    common: ეთიოპია
+  FK:
+    official: ფოლკლენდის კუნძულები
+    common: ფოლკლენდის კუნძულები
+  FO:
+    official: ფაროეს კუნძულები
+    common: ფაროეს კუნძულები
+  FJ:
+    official: ფიჯი
+    common: ფიჯი
+  FI:
+    official: ფინეთი
+    common: ფინეთი
+  FR:
+    official: საფრანგეთი
+    common: საფრანგეთი
+  GF:
+    official: ფრანგული გუიანა
+    common: ფრანგული გუიანა
+  PF:
+    official: ფრანგული პოლინეზია
+    common: ფრანგული პოლინეზია
+  TF:
+    official: ფრანგული სამხრეთ ტერიტორიები
+    common: ფრანგული სამხრეთ ტერიტორიები
+  GA:
+    official: გაბონი
+    common: გაბონი
+  GM:
+    official: გამბია
+    common: გამბია
+  GE:
+    official: საქართველო
+    common: საქართველო
+  DE:
+    official: გერმანია
+    common: გერმანია
+  GH:
+    official: განა
+    common: განა
+  GI:
+    official: გიბრალტარი
+    common: გიბრალტარი
+  GR:
+    official: საბერძნეთი
+    common: საბერძნეთი
+  GL:
+    official: გრინლანდია
+    common: გრინლანდია
+  GD:
+    official: გრენადა
+    common: გრენადა
+  GP:
+    official: გვადალუპე
+    common: გვადალუპე
+  GU:
+    official: გუამი
+    common: გუამი
+  GT:
+    official: გვატემალა
+    common: გვატემალა
+  GG:
+    official: გუერნსი
+    common: გუერნსი
+  GN:
+    official: გვინეა
+    common: გვინეა
+  GW:
+    official: გვინეა-ბისაუ
+    common: გვინეა-ბისაუ
+  GY:
+    official: გაიანა
+    common: გაიანა
+  HT:
+    official: ჰაიტი
+    common: ჰაიტი
+  HM:
+    official: ჰერდის და მაკდონალდის კუნძულები
+    common: ჰერდის და მაკდონალდის კუნძულები
+  VA:
+    official: წმიდა საყდარი (ქალაქი-სახელმწიფო ვატიკანი)
+    common: წმიდა საყდარი (ქალაქი-სახელმწიფო ვატიკანი)
+  HN:
+    official: ჰონდურასი
+    common: ჰონდურასი
+  HK:
+    official: ჰონკონგი
+    common: ჰონკონგი
+  HU:
+    official: უნგრეთი
+    common: უნგრეთი
+  IS:
+    official: ისლანდია
+    common: ისლანდია
+  IN:
+    official: ინდოეთი
+    common: ინდოეთი
+  ID:
+    official: ინდონეზია
+    common: ინდონეზია
+  IR:
+    official: ირანის ისლამური რესპუბლიკა
+    common: ირანის ისლამური რესპუბლიკა
+  IQ:
+    official: ერაყი
+    common: ერაყი
+  IE:
+    official: ირლანდია
+    common: ირლანდია
+  IM:
+    official: მენის კუნძული
+    common: მენის კუნძული
+  IL:
+    official: ისრაელი
+    common: ისრაელი
+  IT:
+    official: იტალია
+    common: იტალია
+  JM:
+    official: იამაიკა
+    common: იამაიკა
+  JP:
+    official: იაპონია
+    common: იაპონია
+  JE:
+    official: ჯერსი
+    common: ჯერსი
+  JO:
+    official: იორდანია
+    common: იორდანია
+  KZ:
+    official: ყაზახეთი
+    common: ყაზახეთი
+  KE:
+    official: კენია
+    common: კენია
+  KI:
+    official: კირიბატი
+    common: კირიბატი
+  KP:
+    official: კორეის სახალხო-დემოკრატიული რესპუბლიკა
+    common: კორეის სახალხო-დემოკრატიული რესპუბლიკა
+  KR:
+    official: კორეა, რესპუბლიკა
+    common: კორეა, რესპუბლიკა
+  KW:
+    official: კუვეიტი
+    common: კუვეიტი
+  KG:
+    official: ყირგიზეთი
+    common: ყირგიზეთი
+  LA:
+    official: ლაოს სახალხო დემოკრატიული რესპუბლიკა
+    common: ლაოს სახალხო დემოკრატიული რესპუბლიკა
+  LV:
+    official: ლატვია
+    common: ლატვია
+  LB:
+    official: ლიბანი
+    common: ლიბანი
+  LS:
+    official: ლესოტო
+    common: ლესოტო
+  LR:
+    official: ლიბერია
+    common: ლიბერია
+  LY:
+    official: ლიბერია
+    common: ლიბერია
+  LI:
+    official: ლიხტენშტეინი
+    common: ლიხტენშტეინი
+  LT:
+    official: ლიტვა
+    common: ლიტვა
+  LU:
+    official: ლუქსემბურგი
+    common: ლუქსემბურგი
+  MO:
+    official: მაკაო
+    common: მაკაო
+  MK:
+    official: მაკედონიის რესპუბლიკა
+    common: მაკედონიის რესპუბლიკა
+  MG:
+    official: მადაგასკარი
+    common: მადაგასკარი
+  MW:
+    official: მალავი
+    common: მალავი
+  MY:
+    official: მალაიზია
+    common: მალაიზია
+  MV:
+    official: მალდივის კუნძულები
+    common: მალდივის კუნძულები
+  ML:
+    official: მალი
+    common: მალი
+  MT:
+    official: მალტა
+    common: მალტა
+  MH:
+    official: მარშალის კუნძულები
+    common: მარშალის კუნძულები
+  MQ:
+    official: მარტინიკი
+    common: მარტინიკი
+  MR:
+    official: მავრიტანია
+    common: მავრიტანია
+  MU:
+    official: მავრიკია
+    common: მავრიკია
+  YT:
+    official: მეიოტი
+    common: მეიოტი
+  MX:
+    official: მექსიკა
+    common: მექსიკა
+  FM:
+    official: მიკრონეზიის ფედერალური შტატები
+    common: მიკრონეზიის ფედერალური შტატები
+  MD:
+    official: მაკედონიის რესპუბლიკა
+    common: მაკედონიის რესპუბლიკა
+  MC:
+    official: მონაკო
+    common: მონაკო
+  MN:
+    official: მონღოლეთი
+    common: მონღოლეთი
+  ME:
+    official: მონტენეგრო
+    common: მონტენეგრო
+  MS:
+    official: მონსერატი
+    common: მონსერატი
+  MA:
+    official: მაროკო
+    common: მაროკო
+  MZ:
+    official: მოზამბიკი
+    common: მოზამბიკი
+  MM:
+    official: მიანმარი
+    common: მიანმარი
+  NA:
+    official: ნამიბია
+    common: ნამიბია
+  NR:
+    official: ნაურუ
+    common: ნაურუ
+  NP:
+    official: ნეპალი
+    common: ნეპალი
+  NL:
+    official: ნიდერლანდები
+    common: ნიდერლანდები
+  NC:
+    official: ახალი კალედონია
+    common: ახალი კალედონია
+  NZ:
+    official: ახალი ზელანდია
+    common: ახალი ზელანდია
+  NI:
+    official: ნიკარაგუა
+    common: ნიკარაგუა
+  NE:
+    official: ნიგერი
+    common: ნიგერი
+  NG:
+    official: ნიგერია
+    common: ნიგერია
+  NU:
+    official: ნიუე
+    common: ნიუე
+  NF:
+    official: ნორფოლკის კუნძული
+    common: ნორფოლკის კუნძული
+  MP:
+    official: ჩრდილო მარიანას კუნძულები
+    common: ჩრდილო მარიანას კუნძულები
+  'NO':
+    official: ნორვეგია
+    common: ნორვეგია
+  OM:
+    official: ომანი
+    common: ომანი
+  PK:
+    official: პაკისტანი
+    common: პაკისტანი
+  PW:
+    official: პალაუ
+    common: პალაუ
+  PS:
+    official: Palestine, State of
+    common: Palestine, State of
+  PA:
+    official: პანამა
+    common: პანამა
+  PG:
+    official: პაპუა-ახალი გვინეა
+    common: პაპუა-ახალი გვინეა
+  PY:
+    official: პარაგვაი
+    common: პარაგვაი
+  PE:
+    official: პერუ
+    common: პერუ
+  PH:
+    official: ფილიპინები
+    common: ფილიპინები
+  PN:
+    official: პიტკარინი
+    common: პიტკარინი
+  PL:
+    official: პოლონეთი
+    common: პოლონეთი
+  PT:
+    official: პორტუგალია
+    common: პორტუგალია
+  PR:
+    official: პუერტო-რიკო
+    common: პუერტო-რიკო
+  QA:
+    official: კატარი
+    common: კატარი
+  RE:
+    official: რეუნიონი
+    common: რეუნიონი
+  RO:
+    official: რუმინეთი
+    common: რუმინეთი
+  RU:
+    official: რუსეთის ფედრაცია
+    common: რუსეთის ფედრაცია
+  RW:
+    official: რუანდა
+    common: რუანდა
+  BL:
+    official: სენ-ბართლემი
+    common: სენ-ბართლემი
+  SH:
+    official: Saint Helena, Ascension and Tristan da Cunha
+    common: Saint Helena, Ascension and Tristan da Cunha
+  KN:
+    official: სენტ-კიტსი და ნევისი
+    common: სენტ-კიტსი და ნევისი
+  LC:
+    official: სენტ-ლუსია
+    common: სენტ-ლუსია
+  MF:
+    official: სენ-მარტინი (ფრანგული ნაწილი)
+    common: სენ-მარტინი (ფრანგული ნაწილი)
+  PM:
+    official: სენ-პიერი და მიქელონი
+    common: სენ-პიერი და მიქელონი
+  VC:
+    official: სენტ-ვინსენტი და გრენადინები
+    common: სენტ-ვინსენტი და გრენადინები
+  WS:
+    official: სამოა
+    common: სამოა
+  SM:
+    official: სან-მარინო
+    common: სან-მარინო
+  ST:
+    official: საო-ტომე და პრინსიპი
+    common: საო-ტომე და პრინსიპი
+  SA:
+    official: საუდის არაბეთი
+    common: საუდის არაბეთი
+  SN:
+    official: სენეგალი
+    common: სენეგალი
+  RS:
+    official: სერბია
+    common: სერბია
+  SC:
+    official: სეიშელის კუნძულები
+    common: სეიშელის კუნძულები
+  SL:
+    official: სიერა-ლეონე
+    common: სიერა-ლეონე
+  SG:
+    official: სინგაპური
+    common: სინგაპური
+  SX:
+    official: სენ-მარტინი (ფრანგული ნაწილი)
+    common: სენ-მარტინი (ფრანგული ნაწილი)
+  SK:
+    official: სლოვაკეთი
+    common: სლოვაკეთი
+  SI:
+    official: სლოვენია
+    common: სლოვენია
+  SB:
+    official: სოლომონის კუნძულები
+    common: სოლომონის კუნძულები
+  SO:
+    official: სომალი
+    common: სომალი
+  ZA:
+    official: სამხრეთ აფრიკა
+    common: სამხრეთ აფრიკა
+  GS:
+    official: სამხრეთ ჯორჯია და სამხრეთ სენდვიჩის კუნძულები
+    common: სამხრეთ ჯორჯია და სამხრეთ სენდვიჩის კუნძულები
+  ES:
+    official: ესპანეთი
+    common: ესპანეთი
+  LK:
+    official: შრი-ლანკა
+    common: შრი-ლანკა
+  SD:
+    official: სუდანი
+    common: სუდანი
+  SR:
+    official: სურინამი
+    common: სურინამი
+  SS:
+    official: სუდანის რესპუბლიკა
+    common: სუდანის რესპუბლიკა
+  SJ:
+    official: სვალბარდი და ჟან მაენი
+    common: სვალბარდი და ჟან მაენი
+  SZ:
+    official: სვაზილენდი
+    common: სვაზილენდი
+  SE:
+    official: შვეცია
+    common: შვეცია
+  CH:
+    official: შვეიცარია
+    common: შვეიცარია
+  SY:
+    official: სირიის არაბული რესპუბლიკა
+    common: სირიის არაბული რესპუბლიკა
+  TW:
+    official: ტაივანი
+    common: ტაივანი
+  TJ:
+    official: ტაჯიკეთი
+    common: ტაჯიკეთი
+  TZ:
+    official: ტანზანიის გაერთიანებული რესპუბლიკა
+    common: ტანზანიის გაერთიანებული რესპუბლიკა
+  TH:
+    official: ტაილანდი
+    common: ტაილანდი
+  TL:
+    official: აღმოსავლეთი ტიმორი
+    common: აღმოსავლეთი ტიმორი
+  TG:
+    official: ტოგო
+    common: ტოგო
+  TK:
+    official: ტოკელაუ
+    common: ტოკელაუ
+  TO:
+    official: ტონგა
+    common: ტონგა
+  TT:
+    official: ტრინიდადი და ტობაგო
+    common: ტრინიდადი და ტობაგო
+  TN:
+    official: ტუნისი
+    common: ტუნისი
+  TR:
+    official: თურქეთი
+    common: თურქეთი
+  TM:
+    official: თურქმენეთი
+    common: თურქმენეთი
+  TC:
+    official: ტერკის და კაიკოს კუნძულები
+    common: ტერკის და კაიკოს კუნძულები
+  TV:
+    official: ტუვალუ
+    common: ტუვალუ
+  UG:
+    official: უგანდა
+    common: უგანდა
+  UA:
+    official: უკრაინა
+    common: უკრაინა
+  AE:
+    official: არაბეთის გაერთიანებული ემირატები
+    common: არაბეთის გაერთიანებული ემირატები
+  GB:
+    official: გაერთიანებული სამეფო
+    common: გაერთიანებული სამეფო
+  US:
+    official: ამერიკის შეერთებული შტატები
+    common: ამერიკის შეერთებული შტატები
+  UM:
+    official: შეერთებული შტატების გარე მცირე კუნძულები
+    common: შეერთებული შტატების გარე მცირე კუნძულები
+  UY:
+    official: ურუგვაი
+    common: ურუგვაი
+  UZ:
+    official: უზბაკეთი
+    common: უზბაკეთი
+  VU:
+    official: ვანუატუ
+    common: ვანუატუ
+  VE:
+    official: ვენესუელის ბოლივარული რესპუბლიკა
+    common: ვენესუელის ბოლივარული რესპუბლიკა
+  VN:
+    official: ვიეტ-ნამი
+    common: ვიეტ-ნამი
+  VG:
+    official: ვირჯინის კუნძულები, ბრიტანეთის
+    common: ვირჯინის კუნძულები, ბრიტანეთის
+  VI:
+    official: ვირჯინის კუნძულები, აშშ-ის
+    common: ვირჯინის კუნძულები, აშშ-ის
+  WF:
+    official: ვალისი და ფუტუნა
+    common: ვალისი და ფუტუნა
+  EH:
+    official: დასავლეთი საჰარა
+    common: დასავლეთი საჰარა
+  YE:
+    official: იემენი
+    common: იემენი
+  ZM:
+    official: ზამბია
+    common: ზამბია
+  ZW:
+    official: ზიმბაბვე
+    common: ზიმბაბვე

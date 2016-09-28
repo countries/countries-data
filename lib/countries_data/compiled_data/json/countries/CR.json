@@ -1,0 +1,435 @@
+{
+  "continent": "North America",
+  "alpha2": "CR",
+  "alpha3": "CRI",
+  "country_code": "506",
+  "international_prefix": "00",
+  "ioc": "CRC",
+  "gec": "CS",
+  "name": "Costa Rica",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "None",
+  "number": "188",
+  "region": "Americas",
+  "subregion": "Central America",
+  "world_region": "AMER",
+  "un_locode": "CR",
+  "nationality": "Costa Rican",
+  "postal_code": true,
+  "unofficial_names": [
+    "Costa Rica",
+    "コスタリカ"
+  ],
+  "languages_official": [
+    "es"
+  ],
+  "languages_spoken": [
+    "es"
+  ],
+  "geo": {
+    "latitude": 9.748916999999999,
+    "latitude_dec": "9.884991645812988",
+    "longitude": -83.753428,
+    "longitude_dec": "-84.22723388671875",
+    "max_latitude": 11.2196808,
+    "max_longitude": -82.55265709999999,
+    "min_latitude": 5.4991622,
+    "min_longitude": -87.0944591,
+    "bounds": {
+      "northeast": {
+        "lat": 11.2196808,
+        "lng": -82.55265709999999
+      },
+      "southwest": {
+        "lat": 5.4991622,
+        "lng": -87.0944591
+      }
+    }
+  },
+  "currency_code": "CRC",
+  "postal_address_data": {
+    "key": "CR",
+    "zipex": "1000,2010,1001",
+    "name": "COSTA RICA",
+    "zip": "\\d{4,5}|\\d{3}-\\d{4}",
+    "require": "ACS",
+    "id": "data/CR",
+    "posturl": "https://www.correos.go.cr/nosotros/codigopostal/busqueda.html",
+    "fmt": "%N%n%O%n%A%n%S, %C%n%Z"
+  },
+  "translations": {
+    "af": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "sq": {
+      "official": "Kosta Rika",
+      "common": "Kosta Rika"
+    },
+    "am": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "ar": {
+      "official": "كوستاريكا",
+      "common": "كوستاريكا"
+    },
+    "hy": {
+      "official": "Կոստա-Ռիկա",
+      "common": "Կոստա-Ռիկա"
+    },
+    "as": {
+      "official": "কোস্টা ৰিকা",
+      "common": "কোস্টা ৰিকা"
+    },
+    "az": {
+      "official": "Kosta Rika",
+      "common": "Kosta Rika"
+    },
+    "eu": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "be": {
+      "official": "Коста-Рыка",
+      "common": "Коста-Рыка"
+    },
+    "bn": {
+      "official": "কোস্টা রিকা",
+      "common": "কোস্টা রিকা"
+    },
+    "bs": {
+      "official": "Kostarika",
+      "common": "Kostarika"
+    },
+    "br": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "bg": {
+      "official": "Коста Рика",
+      "common": "Коста Рика"
+    },
+    "ca": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "zh": {
+      "official": "哥斯达黎加",
+      "common": "哥斯达黎加"
+    },
+    "cs": {
+      "official": "Kostarika",
+      "common": "Kostarika"
+    },
+    "da": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "nl": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "dz": {
+      "official": "ཀཱོསི་ཊ་རི་ཀ།",
+      "common": "ཀཱོསི་ཊ་རི་ཀ།"
+    },
+    "en": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "eo": {
+      "official": "Kostariko",
+      "common": "Kostariko"
+    },
+    "et": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "fo": {
+      "official": "Kosta Rika",
+      "common": "Kosta Rika"
+    },
+    "fi": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "fr": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "ka": {
+      "official": "კოსტა-რიკა",
+      "common": "კოსტა-რიკა"
+    },
+    "de": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "ga": {
+      "official": "Cósta Rice",
+      "common": "Cósta Rice"
+    },
+    "gl": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "el": {
+      "official": "Κόστα Ρίκα",
+      "common": "Κόστα Ρίκα"
+    },
+    "gu": {
+      "official": "કોસ્ટા રીકા",
+      "common": "કોસ્ટા રીકા"
+    },
+    "he": {
+      "official": "קוסטה ריקה",
+      "common": "קוסטה ריקה"
+    },
+    "hi": {
+      "official": "कोस्टा रिका",
+      "common": "कोस्टा रिका"
+    },
+    "hr": {
+      "official": "Kostarika",
+      "common": "Kostarika"
+    },
+    "hu": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "is": {
+      "official": "Kosta Ríka",
+      "common": "Kosta Ríka"
+    },
+    "ia": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "id": {
+      "official": "Kosta Rika",
+      "common": "Kosta Rika"
+    },
+    "it": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "ja": {
+      "official": "コスタリカ",
+      "common": "コスタリカ"
+    },
+    "kn": {
+      "official": "ಕೋಸ್ಟಾರಿಕಾ",
+      "common": "ಕೋಸ್ಟಾರಿಕಾ"
+    },
+    "kk": {
+      "official": "Коста-Рика",
+      "common": "Коста-Рика"
+    },
+    "km": {
+      "official": "កូស្តារីកា",
+      "common": "កូស្តារីកា"
+    },
+    "rw": {
+      "official": "Kosita Rika",
+      "common": "Kosita Rika"
+    },
+    "ko": {
+      "official": "코스타리카",
+      "common": "코스타리카"
+    },
+    "ku": {
+      "official": "Kosta Rîka",
+      "common": "Kosta Rîka"
+    },
+    "lv": {
+      "official": "Kostarika",
+      "common": "Kostarika"
+    },
+    "lt": {
+      "official": "Kosta Rika",
+      "common": "Kosta Rika"
+    },
+    "mk": {
+      "official": "Костарика",
+      "common": "Костарика"
+    },
+    "ml": {
+      "official": "കോസ്റ്റ റിക",
+      "common": "കോസ്റ്റ റിക"
+    },
+    "mi": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "mr": {
+      "official": "कोस्टारिका",
+      "common": "कोस्टारिका"
+    },
+    "ms": {
+      "official": "Kosta Rika",
+      "common": "Kosta Rika"
+    },
+    "mt": {
+      "official": "Kosta Rika",
+      "common": "Kosta Rika"
+    },
+    "mn": {
+      "official": "Коста рика",
+      "common": "Коста рика"
+    },
+    "ne": {
+      "official": "कोस्टारिका",
+      "common": "कोस्टारिका"
+    },
+    "nn": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "nb": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "oc": {
+      "official": "Còsta Rica",
+      "common": "Còsta Rica"
+    },
+    "or": {
+      "official": "କୋଷ୍ଟା ରିକା",
+      "common": "କୋଷ୍ଟା ରିକା"
+    },
+    "pa": {
+      "official": "ਕਾਸਟ ਰੀਕਾ",
+      "common": "ਕਾਸਟ ਰੀਕਾ"
+    },
+    "fa": {
+      "official": "کاستاریکا",
+      "common": "کاستاریکا"
+    },
+    "pl": {
+      "official": "Kostaryka",
+      "common": "Kostaryka"
+    },
+    "pt": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "ps": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "ro": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "ru": {
+      "official": "Коста-Рика",
+      "common": "Коста-Рика"
+    },
+    "si": {
+      "official": "කොස්ටා රීකා",
+      "common": "කොස්ටා රීකා"
+    },
+    "sk": {
+      "official": "Kostarika",
+      "common": "Kostarika"
+    },
+    "sl": {
+      "official": "Kostarika",
+      "common": "Kostarika"
+    },
+    "so": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "es": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "sr": {
+      "official": "Костарика",
+      "common": "Костарика"
+    },
+    "sw": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "sv": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "ta": {
+      "official": "கோஸ்டாரிகா",
+      "common": "கோஸ்டாரிகா"
+    },
+    "tt": {
+      "official": "Коста Рика",
+      "common": "Коста Рика"
+    },
+    "te": {
+      "official": "కోస్టా రికా",
+      "common": "కోస్టా రికా"
+    },
+    "tl": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "th": {
+      "official": "คอสตาริกา",
+      "common": "คอสตาริกา"
+    },
+    "ti": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "tk": {
+      "official": "Kosta-Rika",
+      "common": "Kosta-Rika"
+    },
+    "tr": {
+      "official": "Kosta Rika",
+      "common": "Kosta Rika"
+    },
+    "ug": {
+      "official": "كوستارىكا",
+      "common": "كوستارىكا"
+    },
+    "uk": {
+      "official": "Коста-Рика",
+      "common": "Коста-Рика"
+    },
+    "ve": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "vi": {
+      "official": "Cốt-x-tha Ri-ca",
+      "common": "Cốt-x-tha Ri-ca"
+    },
+    "cy": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "wa": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "wo": {
+      "official": "Kosta Riika",
+      "common": "Kosta Riika"
+    },
+    "xh": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    },
+    "zu": {
+      "official": "Costa Rica",
+      "common": "Costa Rica"
+    }
+  }
+}

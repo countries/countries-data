@@ -1,0 +1,338 @@
+---
+continent: Asia
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{region}}
+  {{country}}
+alpha2: KW
+alpha3: KWT
+country_code: '965'
+international_prefix: '00'
+ioc: KUW
+gec: KU
+name: Kuwait
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: None
+number: '414'
+region: Asia
+subregion: Western Asia
+world_region: EMEA
+un_locode: KW
+nationality: Kuwaiti
+postal_code: true
+unofficial_names:
+- Kuwait
+- الكويت
+- Koweït
+- クウェート
+- Koeweit
+languages_official:
+- ar
+languages_spoken:
+- ar
+geo:
+  latitude: 29.31166
+  latitude_dec: '29.321941375732422'
+  longitude: 47.481766
+  longitude_dec: '47.60246658325195'
+  max_latitude: 30.10369919999999
+  max_longitude: 48.4304578
+  min_latitude: 28.5244463
+  min_longitude: 46.55303989999999
+  bounds:
+    northeast:
+      lat: 30.10369919999999
+      lng: 48.4304578
+    southwest:
+      lat: 28.5244463
+      lng: 46.55303989999999
+currency_code: KWD
+postal_address_data:
+  zipex: '54541,54551,54404,13009'
+  name: KUWAIT
+  zip: "\\d{5}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  key: KW
+  id: data/KW
+translations:
+  af:
+    official: Koeweit
+    common: Koeweit
+  sq:
+    official: Kuvajti
+    common: Kuvajti
+  am:
+    official: ጤፃት
+    common: ጤፃት
+  ar:
+    official: الكويت
+    common: الكويت
+  hy:
+    official: Քուվեյթ
+    common: Քուվեյթ
+  as:
+    official: কুৱেইট
+    common: কুৱেইট
+  az:
+    official: Küveyt
+    common: Küveyt
+  eu:
+    official: Kuwait
+    common: Kuwait
+  be:
+    official: Кувейт
+    common: Кувейт
+  bn:
+    official: কুয়েত
+    common: কুয়েত
+  bs:
+    official: Kuvajt
+    common: Kuvajt
+  br:
+    official: Kuwait
+    common: Kuwait
+  bg:
+    official: Кувейт
+    common: Кувейт
+  ca:
+    official: Kuwait
+    common: Kuwait
+  zh:
+    official: 科威特
+    common: 科威特
+  cs:
+    official: Kuvajt
+    common: Kuvajt
+  da:
+    official: Kuwait
+    common: Kuwait
+  nl:
+    official: Koeweit
+    common: Koeweit
+  dz:
+    official: ཀུ་ཝེཊི།
+    common: ཀུ་ཝེཊི།
+  en:
+    official: Kuwait
+    common: Kuwait
+  eo:
+    official: Kuvajto
+    common: Kuvajto
+  et:
+    official: Kuveit
+    common: Kuveit
+  fo:
+    official: Kuvait
+    common: Kuvait
+  fi:
+    official: Kuwait
+    common: Kuwait
+  fr:
+    official: Koweït
+    common: Koweït
+  ka:
+    official: კუვეიტი
+    common: კუვეიტი
+  de:
+    official: Kuwait
+    common: Kuwait
+  ga:
+    official: Cuáit
+    common: Cuáit
+  gl:
+    official: Kuvait
+    common: Kuvait
+  el:
+    official: Κουβέιτ
+    common: Κουβέιτ
+  gu:
+    official: કુવૈત
+    common: કુવૈત
+  he:
+    official: כווית
+    common: כווית
+  hi:
+    official: कुवैत
+    common: कुवैत
+  hr:
+    official: Kuvajt
+    common: Kuvajt
+  hu:
+    official: Kuvait
+    common: Kuvait
+  is:
+    official: Kúveit
+    common: Kúveit
+  ia:
+    official: Kuwait
+    common: Kuwait
+  id:
+    official: Kuwait
+    common: Kuwait
+  it:
+    official: Kuwait
+    common: Kuwait
+  ja:
+    official: クウェート
+    common: クウェート
+  kn:
+    official: ಕುವೈತ್
+    common: ಕುವೈತ್
+  kk:
+    official: Кувейт
+    common: Кувейт
+  km:
+    official: គុយវ៉ែត
+    common: គុយវ៉ែត
+  rw:
+    official: Koweti
+    common: Koweti
+  ko:
+    official: 쿠웨이트
+    common: 쿠웨이트
+  ku:
+    official: Kûveyt
+    common: Kûveyt
+  lv:
+    official: Kuveita
+    common: Kuveita
+  lt:
+    official: Kuveitas
+    common: Kuveitas
+  mk:
+    official: Кувајт
+    common: Кувајт
+  ml:
+    official: കുവൈത്ത്
+    common: കുവൈത്ത്
+  mi:
+    official: Kuwait
+    common: Kuwait
+  mr:
+    official: कुवैत
+    common: कुवैत
+  ms:
+    official: Kuwait
+    common: Kuwait
+  mt:
+    official: Kuwajt
+    common: Kuwajt
+  mn:
+    official: Кувейт
+    common: Кувейт
+  ne:
+    official: कुवेत
+    common: कुवेत
+  nn:
+    official: Kuwait
+    common: Kuwait
+  nb:
+    official: Kuwait
+    common: Kuwait
+  oc:
+    official: Koweit
+    common: Koweit
+  or:
+    official: କୁଏତ
+    common: କୁଏତ
+  pa:
+    official: ਕੁਵੈਤ
+    common: ਕੁਵੈਤ
+  fa:
+    official: کویت
+    common: کویت
+  pl:
+    official: Kuwejt
+    common: Kuwejt
+  pt:
+    official: Kuwait
+    common: Kuwait
+  ps:
+    official: کویټ
+    common: کویټ
+  ro:
+    official: Kuweit
+    common: Kuweit
+  ru:
+    official: Кувейт
+    common: Кувейт
+  si:
+    official: කුවේට්
+    common: කුවේට්
+  sk:
+    official: Kuvajt
+    common: Kuvajt
+  sl:
+    official: Kuvajt
+    common: Kuvajt
+  so:
+    official: Kuwayt
+    common: Kuwayt
+  es:
+    official: Kuwait
+    common: Kuwait
+  sr:
+    official: Кувајт
+    common: Кувајт
+  sw:
+    official: Kuwait
+    common: Kuwait
+  sv:
+    official: Kuwait
+    common: Kuwait
+  ta:
+    official: குவைத்
+    common: குவைத்
+  tt:
+    official: Күвәйт
+    common: Күвәйт
+  te:
+    official: కువైట్
+    common: కువైట్
+  tl:
+    official: Kuwait
+    common: Kuwait
+  th:
+    official: คูเวต
+    common: คูเวต
+  ti:
+    official: ክዌት
+    common: ክዌት
+  tk:
+    official: Kuweýt
+    common: Kuweýt
+  tr:
+    official: Kuveyt
+    common: Kuveyt
+  ug:
+    official: كۇۋەيت
+    common: كۇۋەيت
+  uk:
+    official: Кувейт
+    common: Кувейт
+  ve:
+    official: Kuwait
+    common: Kuwait
+  vi:
+    official: Cu-ouai-thợ
+    common: Cu-ouai-thợ
+  cy:
+    official: Coweit
+    common: Coweit
+  wa:
+    official: Kuweyt
+    common: Kuweyt
+  wo:
+    official: Kuwet
+    common: Kuwet
+  xh:
+    official: Kuwait
+    common: Kuwait
+  zu:
+    official: Kuwait
+    common: Kuwait

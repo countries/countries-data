@@ -1,0 +1,449 @@
+{
+  "continent": "Europe",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}}\n{{country}}",
+  "alpha2": "SK",
+  "alpha3": "SVK",
+  "country_code": "421",
+  "international_prefix": "00",
+  "ioc": "SVK",
+  "gec": "LO",
+  "name": "Slovakia",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    9
+  ],
+  "national_prefix": "0",
+  "number": "703",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "world_region": "EMEA",
+  "un_locode": "SK",
+  "nationality": "Slovak",
+  "eu_member": true,
+  "eea_member": true,
+  "vat_rates": {
+    "standard": 20,
+    "reduced": [
+      10
+    ],
+    "super_reduced": null,
+    "parking": null
+  },
+  "postal_code": true,
+  "unofficial_names": [
+    "Slovakia",
+    "Slowakei",
+    "Slovaquie",
+    "República Eslovaca",
+    "スロバキア",
+    "Slowakije"
+  ],
+  "languages_official": [
+    "sk"
+  ],
+  "languages_spoken": [
+    "sk"
+  ],
+  "geo": {
+    "latitude": 48.669026,
+    "latitude_dec": "48.70748519897461",
+    "longitude": 19.699024,
+    "longitude_dec": "19.48488998413086",
+    "max_latitude": 49.61380510000001,
+    "max_longitude": 22.5589338,
+    "min_latitude": 47.731159,
+    "min_longitude": 16.8331821,
+    "bounds": {
+      "northeast": {
+        "lat": 49.61380510000001,
+        "lng": 22.5589338
+      },
+      "southwest": {
+        "lat": 47.731159,
+        "lng": 16.8331821
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "key": "SK",
+    "zipex": "010 01,023 14,972 48,921 01,975 99",
+    "name": "SLOVAKIA",
+    "zip": "\\d{3} ?\\d{2}",
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "posturl": "http://psc.posta.sk",
+    "id": "data/SK"
+  },
+  "translations": {
+    "af": {
+      "official": "Slowakye",
+      "common": "Slowakye"
+    },
+    "sq": {
+      "official": "Sllovakia",
+      "common": "Sllovakia"
+    },
+    "am": {
+      "official": "ስሕቲጡ።",
+      "common": "ስሕቲጡ።"
+    },
+    "ar": {
+      "official": "سلوفاكيا",
+      "common": "سلوفاكيا"
+    },
+    "hy": {
+      "official": "Սլովակիա",
+      "common": "Սլովակիա"
+    },
+    "as": {
+      "official": "স্লোভাকিয়া",
+      "common": "স্লোভাকিয়া"
+    },
+    "az": {
+      "official": "Slovakiya",
+      "common": "Slovakiya"
+    },
+    "eu": {
+      "official": "Eslovakia",
+      "common": "Eslovakia"
+    },
+    "be": {
+      "official": "Славакія",
+      "common": "Славакія"
+    },
+    "bn": {
+      "official": "স্লোভাকিয়া",
+      "common": "স্লোভাকিয়া"
+    },
+    "bs": {
+      "official": "Slovačka",
+      "common": "Slovačka"
+    },
+    "br": {
+      "official": "Slovakia",
+      "common": "Slovakia"
+    },
+    "bg": {
+      "official": "Словакия",
+      "common": "Словакия"
+    },
+    "ca": {
+      "official": "Eslovàquia",
+      "common": "Eslovàquia"
+    },
+    "zh": {
+      "official": "斯洛伐克",
+      "common": "斯洛伐克"
+    },
+    "cs": {
+      "official": "Slovensko",
+      "common": "Slovensko"
+    },
+    "da": {
+      "official": "Slovakiet",
+      "common": "Slovakiet"
+    },
+    "nl": {
+      "official": "Slowakije, Slovakije",
+      "common": "Slowakije, Slovakije"
+    },
+    "dz": {
+      "official": "སོལོ་བ་ཀི་ཡ།",
+      "common": "སོལོ་བ་ཀི་ཡ།"
+    },
+    "en": {
+      "official": "Slovakia",
+      "common": "Slovakia"
+    },
+    "eo": {
+      "official": "Slovakio",
+      "common": "Slovakio"
+    },
+    "et": {
+      "official": "Slovakkia",
+      "common": "Slovakkia"
+    },
+    "fo": {
+      "official": "Slovakia",
+      "common": "Slovakia"
+    },
+    "fi": {
+      "official": "Slovakia",
+      "common": "Slovakia"
+    },
+    "fr": {
+      "official": "Slovaquie",
+      "common": "Slovaquie"
+    },
+    "ka": {
+      "official": "სლოვაკეთი",
+      "common": "სლოვაკეთი"
+    },
+    "de": {
+      "official": "Slowakei",
+      "common": "Slowakei"
+    },
+    "ga": {
+      "official": "An tSlóvaic",
+      "common": "An tSlóvaic"
+    },
+    "gl": {
+      "official": "Eslovaquia",
+      "common": "Eslovaquia"
+    },
+    "el": {
+      "official": "Σλοβακία",
+      "common": "Σλοβακία"
+    },
+    "gu": {
+      "official": "સ્લોવેકિઆ",
+      "common": "સ્લોવેકિઆ"
+    },
+    "he": {
+      "official": "סלובקיה",
+      "common": "סלובקיה"
+    },
+    "hi": {
+      "official": "स्लोवाकिया",
+      "common": "स्लोवाकिया"
+    },
+    "hr": {
+      "official": "Slovačka",
+      "common": "Slovačka"
+    },
+    "hu": {
+      "official": "Szlovákia",
+      "common": "Szlovákia"
+    },
+    "is": {
+      "official": "Slóvakía",
+      "common": "Slóvakía"
+    },
+    "ia": {
+      "official": "Slovachia",
+      "common": "Slovachia"
+    },
+    "id": {
+      "official": "Slovakia",
+      "common": "Slovakia"
+    },
+    "it": {
+      "official": "Slovacchia",
+      "common": "Slovacchia"
+    },
+    "ja": {
+      "official": "スロバキア",
+      "common": "スロバキア"
+    },
+    "kn": {
+      "official": "ಸ್ಲೋವಾಕಿಯಾ",
+      "common": "ಸ್ಲೋವಾಕಿಯಾ"
+    },
+    "kk": {
+      "official": "Словакия",
+      "common": "Словакия"
+    },
+    "km": {
+      "official": "ស្លូវ៉ាគី",
+      "common": "ស្លូវ៉ាគី"
+    },
+    "rw": {
+      "official": "Silovakiya",
+      "common": "Silovakiya"
+    },
+    "ko": {
+      "official": "슬로바키아",
+      "common": "슬로바키아"
+    },
+    "ku": {
+      "official": "Slovakya",
+      "common": "Slovakya"
+    },
+    "lv": {
+      "official": "Slovākija",
+      "common": "Slovākija"
+    },
+    "lt": {
+      "official": "Slovakija",
+      "common": "Slovakija"
+    },
+    "mk": {
+      "official": "Словачка",
+      "common": "Словачка"
+    },
+    "ml": {
+      "official": "സ്ലോവാക്യ",
+      "common": "സ്ലോവാക്യ"
+    },
+    "mi": {
+      "official": "Horowākia",
+      "common": "Horowākia"
+    },
+    "mr": {
+      "official": "स्लोव्हाकिया",
+      "common": "स्लोव्हाकिया"
+    },
+    "ms": {
+      "official": "Slovakia",
+      "common": "Slovakia"
+    },
+    "mt": {
+      "official": "Slovakk",
+      "common": "Slovakk"
+    },
+    "mn": {
+      "official": "Словак",
+      "common": "Словак"
+    },
+    "ne": {
+      "official": "स्लोभाकिया",
+      "common": "स्लोभाकिया"
+    },
+    "nn": {
+      "official": "Slovakia",
+      "common": "Slovakia"
+    },
+    "nb": {
+      "official": "Slovakia",
+      "common": "Slovakia"
+    },
+    "oc": {
+      "official": "Eslòvac",
+      "common": "Eslòvac"
+    },
+    "or": {
+      "official": "ସ୍ଲୋଭାକିୟା",
+      "common": "ସ୍ଲୋଭାକିୟା"
+    },
+    "pa": {
+      "official": "ਸਲੋਵਾਕੀਆ",
+      "common": "ਸਲੋਵਾਕੀਆ"
+    },
+    "fa": {
+      "official": "اسلواکی",
+      "common": "اسلواکی"
+    },
+    "pl": {
+      "official": "Słowacja",
+      "common": "Słowacja"
+    },
+    "pt": {
+      "official": "Eslováquia",
+      "common": "Eslováquia"
+    },
+    "ps": {
+      "official": "Slovakia",
+      "common": "Slovakia"
+    },
+    "ro": {
+      "official": "Slovacia",
+      "common": "Slovacia"
+    },
+    "ru": {
+      "official": "Словакия",
+      "common": "Словакия"
+    },
+    "si": {
+      "official": "ස්ලෝවැකියාව",
+      "common": "ස්ලෝවැකියාව"
+    },
+    "sk": {
+      "official": "Slovensko",
+      "common": "Slovensko"
+    },
+    "sl": {
+      "official": "Slovaška",
+      "common": "Slovaška"
+    },
+    "so": {
+      "official": "Slovakia",
+      "common": "Slovakia"
+    },
+    "es": {
+      "official": "Eslovaquia",
+      "common": "Eslovaquia"
+    },
+    "sr": {
+      "official": "Словачка",
+      "common": "Словачка"
+    },
+    "sw": {
+      "official": "Slovakia",
+      "common": "Slovakia"
+    },
+    "sv": {
+      "official": "Slovakien",
+      "common": "Slovakien"
+    },
+    "ta": {
+      "official": "சுலோவேக்கியா",
+      "common": "சுலோவேக்கியா"
+    },
+    "tt": {
+      "official": "Словакиа",
+      "common": "Словакиа"
+    },
+    "te": {
+      "official": "స్లోవాకియా",
+      "common": "స్లోవాకియా"
+    },
+    "tl": {
+      "official": "Slovakia",
+      "common": "Slovakia"
+    },
+    "th": {
+      "official": "สโลวะเกีย",
+      "common": "สโลวะเกีย"
+    },
+    "ti": {
+      "official": "ስሎቫኪያ",
+      "common": "ስሎቫኪያ"
+    },
+    "tk": {
+      "official": "Slowak",
+      "common": "Slowak"
+    },
+    "tr": {
+      "official": "Slovakya",
+      "common": "Slovakya"
+    },
+    "ug": {
+      "official": "سىلوۋاكىيە",
+      "common": "سىلوۋاكىيە"
+    },
+    "uk": {
+      "official": "Словаччина",
+      "common": "Словаччина"
+    },
+    "ve": {
+      "official": "Slovakia",
+      "common": "Slovakia"
+    },
+    "vi": {
+      "official": "Xlô-vác",
+      "common": "Xlô-vác"
+    },
+    "cy": {
+      "official": "Slofacia",
+      "common": "Slofacia"
+    },
+    "wa": {
+      "official": "Eslovakeye",
+      "common": "Eslovakeye"
+    },
+    "wo": {
+      "official": "Eslowaaki",
+      "common": "Eslowaaki"
+    },
+    "xh": {
+      "official": "Slovakia",
+      "common": "Slovakia"
+    },
+    "zu": {
+      "official": "Isi-Slovaki",
+      "common": "Isi-Slovaki"
+    }
+  }
+}

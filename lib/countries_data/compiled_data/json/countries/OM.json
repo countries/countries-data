@@ -1,0 +1,436 @@
+{
+  "continent": "Asia",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}}\n{{region}}\n{{country}}",
+  "alpha2": "OM",
+  "alpha3": "OMN",
+  "country_code": "968",
+  "international_prefix": "00",
+  "ioc": "OMA",
+  "gec": "MU",
+  "name": "Oman",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "None",
+  "number": "512",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "world_region": "EMEA",
+  "un_locode": "OM",
+  "nationality": "Omani",
+  "postal_code": true,
+  "unofficial_names": [
+    "Oman",
+    "عمان",
+    "Omán",
+    "オマーン"
+  ],
+  "languages_official": [
+    "ar"
+  ],
+  "languages_spoken": [
+    "ar"
+  ],
+  "geo": {
+    "latitude": 21.4735329,
+    "latitude_dec": "20.566621780395508",
+    "longitude": 55.975413,
+    "longitude_dec": "56.157962799072266",
+    "max_latitude": 26.4053946,
+    "max_longitude": 59.83939729999999,
+    "min_latitude": 16.650336,
+    "min_longitude": 52.0000017,
+    "bounds": {
+      "northeast": {
+        "lat": 26.4053946,
+        "lng": 59.83939729999999
+      },
+      "southwest": {
+        "lat": 16.650336,
+        "lng": 52.0000017
+      }
+    }
+  },
+  "currency_code": "OMR",
+  "postal_address_data": {
+    "zipex": "133,112,111",
+    "name": "OMAN",
+    "zip": "(?:PC )?\\d{3}",
+    "fmt": "%N%n%O%n%A%n%Z%n%C",
+    "key": "OM",
+    "id": "data/OM"
+  },
+  "translations": {
+    "af": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "sq": {
+      "official": "Omani",
+      "common": "Omani"
+    },
+    "am": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "ar": {
+      "official": "عمان",
+      "common": "عمان"
+    },
+    "hy": {
+      "official": "Օման",
+      "common": "Օման"
+    },
+    "as": {
+      "official": "ওমান",
+      "common": "ওমান"
+    },
+    "az": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "eu": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "be": {
+      "official": "Аман",
+      "common": "Аман"
+    },
+    "bn": {
+      "official": "ওমান",
+      "common": "ওমান"
+    },
+    "bs": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "br": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "bg": {
+      "official": "Оман",
+      "common": "Оман"
+    },
+    "ca": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "zh": {
+      "official": "阿曼",
+      "common": "阿曼"
+    },
+    "cs": {
+      "official": "Omán",
+      "common": "Omán"
+    },
+    "da": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "nl": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "dz": {
+      "official": "ཨོ་མཱན།",
+      "common": "ཨོ་མཱན།"
+    },
+    "en": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "eo": {
+      "official": "Omano",
+      "common": "Omano"
+    },
+    "et": {
+      "official": "Omaan",
+      "common": "Omaan"
+    },
+    "fo": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "fi": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "fr": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "ka": {
+      "official": "ომანი",
+      "common": "ომანი"
+    },
+    "de": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "ga": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "gl": {
+      "official": "Omán",
+      "common": "Omán"
+    },
+    "el": {
+      "official": "Ομάν",
+      "common": "Ομάν"
+    },
+    "gu": {
+      "official": "ઓમાન",
+      "common": "ઓમાન"
+    },
+    "he": {
+      "official": "עומן",
+      "common": "עומן"
+    },
+    "hi": {
+      "official": "ओमान",
+      "common": "ओमान"
+    },
+    "hr": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "hu": {
+      "official": "Omán",
+      "common": "Omán"
+    },
+    "is": {
+      "official": "Óman",
+      "common": "Óman"
+    },
+    "ia": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "id": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "it": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "ja": {
+      "official": "オマーン",
+      "common": "オマーン"
+    },
+    "kn": {
+      "official": "ಒಮನ್",
+      "common": "ಒಮನ್"
+    },
+    "kk": {
+      "official": "Оман",
+      "common": "Оман"
+    },
+    "km": {
+      "official": "អូម៉ង់",
+      "common": "អូម៉ង់"
+    },
+    "rw": {
+      "official": "Omani",
+      "common": "Omani"
+    },
+    "ko": {
+      "official": "오만",
+      "common": "오만"
+    },
+    "ku": {
+      "official": "Uman",
+      "common": "Uman"
+    },
+    "lv": {
+      "official": "Omāna",
+      "common": "Omāna"
+    },
+    "lt": {
+      "official": "Omanas",
+      "common": "Omanas"
+    },
+    "mk": {
+      "official": "Оман",
+      "common": "Оман"
+    },
+    "ml": {
+      "official": "ഒമാന്‍",
+      "common": "ഒമാന്‍"
+    },
+    "mi": {
+      "official": "Ōmana",
+      "common": "Ōmana"
+    },
+    "mr": {
+      "official": "ओमान",
+      "common": "ओमान"
+    },
+    "ms": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "mt": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "mn": {
+      "official": "Оман",
+      "common": "Оман"
+    },
+    "ne": {
+      "official": "ओमन",
+      "common": "ओमन"
+    },
+    "nn": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "nb": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "oc": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "or": {
+      "official": "ଓମାନ",
+      "common": "ଓମାନ"
+    },
+    "pa": {
+      "official": "ਓਮਾਨ",
+      "common": "ਓਮਾਨ"
+    },
+    "fa": {
+      "official": "عمان",
+      "common": "عمان"
+    },
+    "pl": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "pt": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "ps": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "ro": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "ru": {
+      "official": "Оман",
+      "common": "Оман"
+    },
+    "si": {
+      "official": "ඕමානය",
+      "common": "ඕමානය"
+    },
+    "sk": {
+      "official": "Omán",
+      "common": "Omán"
+    },
+    "sl": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "so": {
+      "official": "Cumaan",
+      "common": "Cumaan"
+    },
+    "es": {
+      "official": "Omán",
+      "common": "Omán"
+    },
+    "sr": {
+      "official": "Оман",
+      "common": "Оман"
+    },
+    "sw": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "sv": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "ta": {
+      "official": "ஓமான்",
+      "common": "ஓமான்"
+    },
+    "tt": {
+      "official": "Оман",
+      "common": "Оман"
+    },
+    "te": {
+      "official": "ఓమన్",
+      "common": "ఓమన్"
+    },
+    "tl": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "th": {
+      "official": "โอมาน",
+      "common": "โอมาน"
+    },
+    "ti": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "tk": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "tr": {
+      "official": "Umman",
+      "common": "Umman"
+    },
+    "ug": {
+      "official": "ئومان",
+      "common": "ئومان"
+    },
+    "uk": {
+      "official": "Оман",
+      "common": "Оман"
+    },
+    "ve": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "vi": {
+      "official": "Ô-man",
+      "common": "Ô-man"
+    },
+    "cy": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "wa": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "wo": {
+      "official": "Omaan",
+      "common": "Omaan"
+    },
+    "xh": {
+      "official": "Oman",
+      "common": "Oman"
+    },
+    "zu": {
+      "official": "Oman",
+      "common": "Oman"
+    }
+  }
+}

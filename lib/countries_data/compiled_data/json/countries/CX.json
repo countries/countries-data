@@ -1,0 +1,440 @@
+{
+  "continent": "Asia",
+  "alpha2": "CX",
+  "alpha3": "CXR",
+  "country_code": "61",
+  "international_prefix": "0011",
+  "ioc": null,
+  "gec": "KT",
+  "name": "Christmas Island",
+  "national_destination_code_lengths": [
+
+  ],
+  "national_number_lengths": [
+
+  ],
+  "national_prefix": "0",
+  "number": "162",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "world_region": "APAC",
+  "un_locode": "CX",
+  "nationality": "Christmas Island",
+  "postal_code": true,
+  "unofficial_names": [
+    "Christmas Island",
+    "Weihnachtsinsel",
+    "クリスマス島",
+    "Christmaseiland"
+  ],
+  "languages_official": [
+    "en",
+    "zh",
+    "ms"
+  ],
+  "languages_spoken": [
+    "en",
+    "zh",
+    "ms"
+  ],
+  "geo": {
+    "latitude": -10.447525,
+    "latitude_dec": "-10.490290641784668",
+    "longitude": 105.690449,
+    "longitude_dec": "105.63275146484375",
+    "max_latitude": -10.4123743,
+    "max_longitude": 105.7127383,
+    "min_latitude": -10.570362,
+    "min_longitude": 105.5333161,
+    "bounds": {
+      "northeast": {
+        "lat": -10.4123743,
+        "lng": 105.7127383
+      },
+      "southwest": {
+        "lat": -10.570362,
+        "lng": 105.5333161
+      }
+    }
+  },
+  "currency_code": "AUD",
+  "postal_address_data": {
+    "upper": "CS",
+    "zipex": "6798",
+    "name": "CHRISTMAS ISLAND",
+    "zip": "6798",
+    "fmt": "%O%n%N%n%A%n%C %S %Z",
+    "key": "CX",
+    "id": "data/CX"
+  },
+  "translations": {
+    "af": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    },
+    "sq": {
+      "official": "Ishulli i Krishtlindjes",
+      "common": "Ishulli i Krishtlindjes"
+    },
+    "am": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    },
+    "ar": {
+      "official": "جزر الكريسماس",
+      "common": "جزر الكريسماس"
+    },
+    "hy": {
+      "official": "Ծննդյան Կղզի",
+      "common": "Ծննդյան Կղզի"
+    },
+    "as": {
+      "official": "ক্ৰিস্টমাছ দ্বীপপুঞ্জ",
+      "common": "ক্ৰিস্টমাছ দ্বীপপুঞ্জ"
+    },
+    "az": {
+      "official": "Kristmas Adası",
+      "common": "Kristmas Adası"
+    },
+    "eu": {
+      "official": "Christmas uhartea",
+      "common": "Christmas uhartea"
+    },
+    "be": {
+      "official": "Востраў Раства",
+      "common": "Востраў Раства"
+    },
+    "bn": {
+      "official": "ক্রিস্টমাস দ্বীপপুঞ্জ",
+      "common": "ক্রিস্টমাস দ্বীপপুঞ্জ"
+    },
+    "bs": {
+      "official": "Uskršnje ostrvo",
+      "common": "Uskršnje ostrvo"
+    },
+    "br": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    },
+    "bg": {
+      "official": "Коледни острови",
+      "common": "Коледни острови"
+    },
+    "ca": {
+      "official": "Illa Christmas",
+      "common": "Illa Christmas"
+    },
+    "zh": {
+      "official": "圣诞岛",
+      "common": "圣诞岛"
+    },
+    "cs": {
+      "official": "Vánoční ostrov",
+      "common": "Vánoční ostrov"
+    },
+    "da": {
+      "official": "Juleøen",
+      "common": "Juleøen"
+    },
+    "nl": {
+      "official": "Christmaseiland",
+      "common": "Christmaseiland"
+    },
+    "dz": {
+      "official": "ཀིརིསིཊི་མཱསི་ ཨའི་ལེནཌི།",
+      "common": "ཀིརིསིཊི་མཱསི་ ཨའི་ལེནཌི།"
+    },
+    "en": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    },
+    "eo": {
+      "official": "Kristnaskinsulo",
+      "common": "Kristnaskinsulo"
+    },
+    "et": {
+      "official": "Jõulusaar",
+      "common": "Jõulusaar"
+    },
+    "fo": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    },
+    "fi": {
+      "official": "Joulusaari",
+      "common": "Joulusaari"
+    },
+    "fr": {
+      "official": "Christmas, Île",
+      "common": "Christmas, Île"
+    },
+    "ka": {
+      "official": "შობის კუნძული",
+      "common": "შობის კუნძული"
+    },
+    "de": {
+      "official": "Weihnachtsinseln",
+      "common": "Weihnachtsinseln"
+    },
+    "ga": {
+      "official": "Oileán na Nollag",
+      "common": "Oileán na Nollag"
+    },
+    "gl": {
+      "official": "Illa Christmas",
+      "common": "Illa Christmas"
+    },
+    "el": {
+      "official": "Νήσοι Χριστουγέννων",
+      "common": "Νήσοι Χριστουγέννων"
+    },
+    "gu": {
+      "official": "ક્રિસમસ ટાપુઓ",
+      "common": "ક્રિસમસ ટાપુઓ"
+    },
+    "he": {
+      "official": "איי חג המולד",
+      "common": "איי חג המולד"
+    },
+    "hi": {
+      "official": "क्रिसमस आइलैन्ड",
+      "common": "क्रिसमस आइलैन्ड"
+    },
+    "hr": {
+      "official": "Božićni otok",
+      "common": "Božićni otok"
+    },
+    "hu": {
+      "official": "Karácsony-sziget",
+      "common": "Karácsony-sziget"
+    },
+    "is": {
+      "official": "Jólaeyja",
+      "common": "Jólaeyja"
+    },
+    "ia": {
+      "official": "Insula de Natal",
+      "common": "Insula de Natal"
+    },
+    "id": {
+      "official": "Kepulauan Christmas",
+      "common": "Kepulauan Christmas"
+    },
+    "it": {
+      "official": "Isola Christmas",
+      "common": "Isola Christmas"
+    },
+    "ja": {
+      "official": "クリスマス島",
+      "common": "クリスマス島"
+    },
+    "kn": {
+      "official": "ಕ್ರಿಸ್ಮಸ್ ದ್ವೀಪ",
+      "common": "ಕ್ರಿಸ್ಮಸ್ ದ್ವೀಪ"
+    },
+    "kk": {
+      "official": "Рождество аралы",
+      "common": "Рождество аралы"
+    },
+    "km": {
+      "official": "កោះ​គ្រីស្តម៉ាស",
+      "common": "កោះ​គ្រីស្តម៉ាស"
+    },
+    "rw": {
+      "official": "Ikirwa cya Noheli",
+      "common": "Ikirwa cya Noheli"
+    },
+    "ko": {
+      "official": "크리스마스 섬",
+      "common": "크리스마스 섬"
+    },
+    "ku": {
+      "official": "Girava Noel",
+      "common": "Girava Noel"
+    },
+    "lv": {
+      "official": "Ziemsvētku sala",
+      "common": "Ziemsvētku sala"
+    },
+    "lt": {
+      "official": "Kalėdų sala",
+      "common": "Kalėdų sala"
+    },
+    "mk": {
+      "official": "Божиќни острови",
+      "common": "Божиќни острови"
+    },
+    "ml": {
+      "official": "ക്രിസ്തുമസ് ദ്വീപ്",
+      "common": "ക്രിസ്തുമസ് ദ്വീപ്"
+    },
+    "mi": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    },
+    "mr": {
+      "official": "क्रिसमस आयलॅंड",
+      "common": "क्रिसमस आयलॅंड"
+    },
+    "ms": {
+      "official": "Kepulauan Christmas",
+      "common": "Kepulauan Christmas"
+    },
+    "mt": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    },
+    "mn": {
+      "official": "Кристмас исланд",
+      "common": "Кристмас исланд"
+    },
+    "ne": {
+      "official": "क्रिसमस टापु",
+      "common": "क्रिसमस टापु"
+    },
+    "nn": {
+      "official": "Christmasøya",
+      "common": "Christmasøya"
+    },
+    "nb": {
+      "official": "Christmasøya",
+      "common": "Christmasøya"
+    },
+    "oc": {
+      "official": "Illa Cristmas",
+      "common": "Illa Cristmas"
+    },
+    "or": {
+      "official": "କ୍ରିସ୍ଟମାସ ଦ୍ବୀପ",
+      "common": "କ୍ରିସ୍ଟମାସ ଦ୍ବୀପ"
+    },
+    "pa": {
+      "official": "ਕ੍ਰਿਸਮਿਸ ਟਾਪੂ",
+      "common": "ਕ੍ਰਿਸਮਿਸ ਟਾਪੂ"
+    },
+    "fa": {
+      "official": "جزیرهٔ کریسمس",
+      "common": "جزیرهٔ کریسمس"
+    },
+    "pl": {
+      "official": "Wyspa Bożego Narodzenia",
+      "common": "Wyspa Bożego Narodzenia"
+    },
+    "pt": {
+      "official": "Ilha Natal",
+      "common": "Ilha Natal"
+    },
+    "ps": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    },
+    "ro": {
+      "official": "Insula Crăciunului",
+      "common": "Insula Crăciunului"
+    },
+    "ru": {
+      "official": "Остров Рождества",
+      "common": "Остров Рождества"
+    },
+    "si": {
+      "official": "ක්‍රිස්මස් දූපත්",
+      "common": "ක්‍රිස්මස් දූපත්"
+    },
+    "sk": {
+      "official": "Vianočný ostrov",
+      "common": "Vianočný ostrov"
+    },
+    "sl": {
+      "official": "Božični otok",
+      "common": "Božični otok"
+    },
+    "so": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    },
+    "es": {
+      "official": "Isla de Navidad",
+      "common": "Isla de Navidad"
+    },
+    "sr": {
+      "official": "Божићно острво",
+      "common": "Божићно острво"
+    },
+    "sw": {
+      "official": "Kisiwa cha Christmas",
+      "common": "Kisiwa cha Christmas"
+    },
+    "sv": {
+      "official": "Julön",
+      "common": "Julön"
+    },
+    "ta": {
+      "official": "கிறிஸ்துமஸ் தீவு",
+      "common": "கிறிஸ்துமஸ் தீவு"
+    },
+    "tt": {
+      "official": "Җһристмас Утравлары",
+      "common": "Җһристмас Утравлары"
+    },
+    "te": {
+      "official": "క్రిస్‌మస్ ఐలాండ్",
+      "common": "క్రిస్‌మస్ ఐలాండ్"
+    },
+    "tl": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    },
+    "th": {
+      "official": "เกาะคริสต์มาส",
+      "common": "เกาะคริสต์มาส"
+    },
+    "ti": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    },
+    "tk": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    },
+    "tr": {
+      "official": "Christmas Adası",
+      "common": "Christmas Adası"
+    },
+    "ug": {
+      "official": "روژدېستۋو ئارىلى",
+      "common": "روژدېستۋو ئارىلى"
+    },
+    "uk": {
+      "official": "Острів Різдва",
+      "common": "Острів Різдва"
+    },
+    "ve": {
+      "official": "Cayman Islands",
+      "common": "Cayman Islands"
+    },
+    "vi": {
+      "official": "Đảo Kh-ri-xợ-mà-xợ",
+      "common": "Đảo Kh-ri-xợ-mà-xợ"
+    },
+    "cy": {
+      "official": "Ynys y Nadolig",
+      "common": "Ynys y Nadolig"
+    },
+    "wa": {
+      "official": "Iye Christmas",
+      "common": "Iye Christmas"
+    },
+    "wo": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    },
+    "xh": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    },
+    "zu": {
+      "official": "Christmas Island",
+      "common": "Christmas Island"
+    }
+  }
+}

@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: ਅਫਗਾਨਿਸਤਾਨ
+    common: ਅਫਗਾਨਿਸਤਾਨ
+  AX:
+    official: ਏਲੈਂਡ ਟਾਪੂ
+    common: ਏਲੈਂਡ ਟਾਪੂ
+  AL:
+    official: ਅਲਬੀਨਾ
+    common: ਅਲਬੀਨਾ
+  DZ:
+    official: ਅਲਜੀਰੀਆ
+    common: ਅਲਜੀਰੀਆ
+  AS:
+    official: ਅਮਰੀਕੀ ਸਾਮੋਨਾ
+    common: ਅਮਰੀਕੀ ਸਾਮੋਨਾ
+  AD:
+    official: ਅਡੂਰਾ
+    common: ਅਡੂਰਾ
+  AO:
+    official: ਅੰਗੋਲਾ
+    common: ਅੰਗੋਲਾ
+  AI:
+    official: ਅੰਗੂਲੀਆਂ
+    common: ਅੰਗੂਲੀਆਂ
+  AQ:
+    official: ਅੰਟਾਰਿਕਟਾ
+    common: ਅੰਟਾਰਿਕਟਾ
+  AG:
+    official: ਐਟੀਗੂਆ ਤੇ ਬਾਰਬੂਡਾ
+    common: ਐਟੀਗੂਆ ਤੇ ਬਾਰਬੂਡਾ
+  AR:
+    official: ਅਰਜਨਟੀਨਾ
+    common: ਅਰਜਨਟੀਨਾ
+  AM:
+    official: ਅਰਮੀਨਾ
+    common: ਅਰਮੀਨਾ
+  AW:
+    official: ਅਰੂਬਾ
+    common: ਅਰੂਬਾ
+  AU:
+    official: ਅਸਟਰੇਲੀਆ
+    common: ਅਸਟਰੇਲੀਆ
+  AT:
+    official: ਆਸਟਰੀਆ
+    common: ਆਸਟਰੀਆ
+  AZ:
+    official: ਅਜ਼ਰਬਾਈਜਾਨ
+    common: ਅਜ਼ਰਬਾਈਜਾਨ
+  BS:
+    official: ਬਾਹਾਮਾਸ
+    common: ਬਾਹਾਮਾਸ
+  BH:
+    official: ਬਹਿਰਾਨ
+    common: ਬਹਿਰਾਨ
+  BD:
+    official: ਬੰਗਲਾਦੇਸ਼
+    common: ਬੰਗਲਾਦੇਸ਼
+  BB:
+    official: ਬਾਰਬਾਡਾਸ
+    common: ਬਾਰਬਾਡਾਸ
+  BY:
+    official: ਬੇਲਾਰੂਸ
+    common: ਬੇਲਾਰੂਸ
+  BE:
+    official: ਬੈਲਜੀਅਮ
+    common: ਬੈਲਜੀਅਮ
+  BZ:
+    official: ਬੀਲੀਜ਼ੀ
+    common: ਬੀਲੀਜ਼ੀ
+  BJ:
+    official: ਬੀਨਾਨ
+    common: ਬੀਨਾਨ
+  BM:
+    official: ਬਾਰਾਮੂਡਾ
+    common: ਬਾਰਾਮੂਡਾ
+  BT:
+    official: ਭੁਟਾਨ
+    common: ਭੁਟਾਨ
+  BO:
+    official: Bolivia, Plurinational State of
+    common: Bolivia, Plurinational State of
+  BQ:
+    official: Bonaire, Sint Eustatius and Saba
+    common: Bonaire, Sint Eustatius and Saba
+  BA:
+    official: ਬੋਸਨੀਆ ਤੇ ਹਰਜ਼ੀਗੋਨੀਆ
+    common: ਬੋਸਨੀਆ ਤੇ ਹਰਜ਼ੀਗੋਨੀਆ
+  BW:
+    official: ਬੂਟਸਵਾਨਾ
+    common: ਬੂਟਸਵਾਨਾ
+  BV:
+    official: ਬੂਟਵਟ ਟਾਪੂ
+    common: ਬੂਟਵਟ ਟਾਪੂ
+  BR:
+    official: ਬਰਾਜ਼ੀਲ
+    common: ਬਰਾਜ਼ੀਲ
+  IO:
+    official: ਬਰਤਾਨੀਆ ਭਾਰਤੀ ਸਮੁੰਦਰੀ ਖੇਤਰ
+    common: ਬਰਤਾਨੀਆ ਭਾਰਤੀ ਸਮੁੰਦਰੀ ਖੇਤਰ
+  BN:
+    official: ਬਰੂਨਈ ਡਾਰੂਸ਼ਲਾਮ
+    common: ਬਰੂਨਈ ਡਾਰੂਸ਼ਲਾਮ
+  BG:
+    official: ਬੁਲਗਾਰੀਆ
+    common: ਬੁਲਗਾਰੀਆ
+  BF:
+    official: ਬੂਪਕੀਨਾ ਫਾਸੋ
+    common: ਬੂਪਕੀਨਾ ਫਾਸੋ
+  BI:
+    official: ਬੂਰੂਮਾਡੀ
+    common: ਬੂਰੂਮਾਡੀ
+  KH:
+    official: ਕੋਲੰਬੀਆ
+    common: ਕੋਲੰਬੀਆ
+  CM:
+    official: ਕੈਮਰੂਨ
+    common: ਕੈਮਰੂਨ
+  CA:
+    official: ਕੈਨੇਡਾ
+    common: ਕੈਨੇਡਾ
+  CV:
+    official: ਕੇਪ ਵਾਰਡੀ
+    common: ਕੇਪ ਵਾਰਡੀ
+  KY:
+    official: ਕਾਯਮਨ ਟਾਪੂ
+    common: ਕਾਯਮਨ ਟਾਪੂ
+  CF:
+    official: ਕੇਂਦਰੀ ਅਫਰੀਕਾ ਗਣਰਾਜ
+    common: ਕੇਂਦਰੀ ਅਫਰੀਕਾ ਗਣਰਾਜ
+  TD:
+    official: ਚਾਦ
+    common: ਚਾਦ
+  CL:
+    official: ਚਿੱਲੀ
+    common: ਚਿੱਲੀ
+  CN:
+    official: ਚੀਨ
+    common: ਚੀਨ
+  CX:
+    official: ਕ੍ਰਿਸਮਿਸ ਟਾਪੂ
+    common: ਕ੍ਰਿਸਮਿਸ ਟਾਪੂ
+  CC:
+    official: ਕੋਕੋਸ(ਕਿਲਿੰਗ) ਟਾਪੂ
+    common: ਕੋਕੋਸ(ਕਿਲਿੰਗ) ਟਾਪੂ
+  CO:
+    official: ਕੋਲੰਬੀਆ
+    common: ਕੋਲੰਬੀਆ
+  KM:
+    official: ਕੋਮੋਰਸ
+    common: ਕੋਮੋਰਸ
+  CG:
+    official: ਕਾਂਗੋ
+    common: ਕਾਂਗੋ
+  CD:
+    official: ਕੌਂਗੋ, ਇਸ ਦਾ ਜਮਹੂਰੀ ਲੋਕਤੰਤਰ
+    common: ਕੌਂਗੋ, ਇਸ ਦਾ ਜਮਹੂਰੀ ਲੋਕਤੰਤਰ
+  CK:
+    official: ਕੁੱਕ ਟਾਪੂ
+    common: ਕੁੱਕ ਟਾਪੂ
+  CR:
+    official: ਕਾਸਟ ਰੀਕਾ
+    common: ਕਾਸਟ ਰੀਕਾ
+  CI:
+    official: ਕੋਟ ਡੀਵੋਈਰੀ
+    common: ਕੋਟ ਡੀਵੋਈਰੀ
+  HR:
+    official: ਕਰੋਟੀਆ
+    common: ਕਰੋਟੀਆ
+  CU:
+    official: ਕਿਊਬਾ
+    common: ਕਿਊਬਾ
+  CW:
+    official: Curaçao
+    common: Curaçao
+  CY:
+    official: ਕਿਊਰੂਸ
+    common: ਕਿਊਰੂਸ
+  CZ:
+    official: ਚੈੱਕ ਗਣਰਾਜ
+    common: ਚੈੱਕ ਗਣਰਾਜ
+  DK:
+    official: ਡੈਨਮਾਰਕ
+    common: ਡੈਨਮਾਰਕ
+  DJ:
+    official: ਡਜੀਬੂਟੀ
+    common: ਡਜੀਬੂਟੀ
+  DM:
+    official: ਡੋਮੀਨੀਆ
+    common: ਡੋਮੀਨੀਆ
+  DO:
+    official: ਡੋਮੀਨੀਆਨ ਗਣਰਾਜ
+    common: ਡੋਮੀਨੀਆਨ ਗਣਰਾਜ
+  EC:
+    official: ਏਕਵੇਡਰ
+    common: ਏਕਵੇਡਰ
+  EG:
+    official: ਮਿਸਰ
+    common: ਮਿਸਰ
+  SV:
+    official: ਈਲ ਸਾਲੇਵਡੋਰ
+    common: ਈਲ ਸਾਲੇਵਡੋਰ
+  GQ:
+    official: ਭੂ-ਖੰਡੀ ਗੁਆਨਾ
+    common: ਭੂ-ਖੰਡੀ ਗੁਆਨਾ
+  ER:
+    official: ਈਰਟੀਰਆ
+    common: ਈਰਟੀਰਆ
+  EE:
+    official: ਈਸਟੋਨੀਆ
+    common: ਈਸਟੋਨੀਆ
+  ET:
+    official: ਈਥੋਪਈਆ
+    common: ਈਥੋਪਈਆ
+  FK:
+    official: ਫਾਕਲੈਂਡ ਟਾਪੂ (ਮਾਲਵੀਨਸ)
+    common: ਫਾਕਲੈਂਡ ਟਾਪੂ (ਮਾਲਵੀਨਸ)
+  FO:
+    official: ਫਾਰੀਓ ਟਾਪੂ
+    common: ਫਾਰੀਓ ਟਾਪੂ
+  FJ:
+    official: ਫਿਜ਼ੀ
+    common: ਫਿਜ਼ੀ
+  FI:
+    official: ਫ਼ਿਨਲੈਂਡ
+    common: ਫ਼ਿਨਲੈਂਡ
+  FR:
+    official: ਫਰਾਂਸ
+    common: ਫਰਾਂਸ
+  GF:
+    official: ਫਰੈਂਚ ਗੁਆਨਾ
+    common: ਫਰੈਂਚ ਗੁਆਨਾ
+  PF:
+    official: ਫਰੈਚ ਪੋਲੀਸੇਲੇਵੀਆ
+    common: ਫਰੈਚ ਪੋਲੀਸੇਲੇਵੀਆ
+  TF:
+    official: ਫਰੈਂਚ ਦੱਖਣੀ ਖੇਤਰ
+    common: ਫਰੈਂਚ ਦੱਖਣੀ ਖੇਤਰ
+  GA:
+    official: ਗਾਬੋਨ
+    common: ਗਾਬੋਨ
+  GM:
+    official: ਗਾਬੀਆ
+    common: ਗਾਬੀਆ
+  GE:
+    official: ਜਾਰਜੀਆ
+    common: ਜਾਰਜੀਆ
+  DE:
+    official: ਜਰਮਨੀ
+    common: ਜਰਮਨੀ
+  GH:
+    official: ਘਾਨਾ
+    common: ਘਾਨਾ
+  GI:
+    official: ਗੀਬਰਾਲਟਰ
+    common: ਗੀਬਰਾਲਟਰ
+  GR:
+    official: ਗਰੀਸ
+    common: ਗਰੀਸ
+  GL:
+    official: ਗਰੀਨਲੈਂਡ
+    common: ਗਰੀਨਲੈਂਡ
+  GD:
+    official: ਗਰੀਨਾਡਾਆ
+    common: ਗਰੀਨਾਡਾਆ
+  GP:
+    official: ਗੁਆਡੀਲੂਪੀ
+    common: ਗੁਆਡੀਲੂਪੀ
+  GU:
+    official: ਗੁਆਮ
+    common: ਗੁਆਮ
+  GT:
+    official: ਗੁਆਟੇਮਾਲਾ
+    common: ਗੁਆਟੇਮਾਲਾ
+  GG:
+    official: ਗੁਰੀਨਸੇ
+    common: ਗੁਰੀਨਸੇ
+  GN:
+    official: ਗੂਈਨੀਆ
+    common: ਗੂਈਨੀਆ
+  GW:
+    official: ਗੁਨੇਆ-ਬਿਸਾਉ
+    common: ਗੁਨੇਆ-ਬਿਸਾਉ
+  GY:
+    official: ਗੁਆਨਾ
+    common: ਗੁਆਨਾ
+  HT:
+    official: ਹਾਈਟੀ
+    common: ਹਾਈਟੀ
+  HM:
+    official: ਹਾਰਡ ਟਾਪੂ ਅਤੇ ਮੈਕਡਾਨਲਡ ਟਾਪੂ
+    common: ਹਾਰਡ ਟਾਪੂ ਅਤੇ ਮੈਕਡਾਨਲਡ ਟਾਪੂ
+  VA:
+    official: ਹੋਲੀ ਸੀ (ਵੇਟੀਕੈਨ ਸਿਟੀ ਪ੍ਰਾਂਤ)
+    common: ਹੋਲੀ ਸੀ (ਵੇਟੀਕੈਨ ਸਿਟੀ ਪ੍ਰਾਂਤ)
+  HN:
+    official: ਹਾਨਡੂਰਸ
+    common: ਹਾਨਡੂਰਸ
+  HK:
+    official: ਹਾਂਗ ਕਾਂਗ
+    common: ਹਾਂਗ ਕਾਂਗ
+  HU:
+    official: ਹੰਗਰੀ
+    common: ਹੰਗਰੀ
+  IS:
+    official: ਆਈਸਲੈਂਡ
+    common: ਆਈਸਲੈਂਡ
+  IN:
+    official: ਭਾਰਤ
+    common: ਭਾਰਤ
+  ID:
+    official: ਇੰਡੋਨੇਸ਼ੀਆ
+    common: ਇੰਡੋਨੇਸ਼ੀਆ
+  IR:
+    official: ਈਰਾਨ, ਮੁਸਲਮਾਨ ਗਣਰਾਜ
+    common: ਈਰਾਨ, ਮੁਸਲਮਾਨ ਗਣਰਾਜ
+  IQ:
+    official: ਇਰਾਕ
+    common: ਇਰਾਕ
+  IE:
+    official: ਆਈਰਲੈਂਡ
+    common: ਆਈਰਲੈਂਡ
+  IM:
+    official: ਇਸਲੇ ਆਫ ਮੈਨ
+    common: ਇਸਲੇ ਆਫ ਮੈਨ
+  IL:
+    official: ਇਜ਼ਰਾਈਲ
+    common: ਇਜ਼ਰਾਈਲ
+  IT:
+    official: ਇਟਲੀ
+    common: ਇਟਲੀ
+  JM:
+    official: ਜੈਮਾਈਕਾ
+    common: ਜੈਮਾਈਕਾ
+  JP:
+    official: ਜਾਪਾਨ
+    common: ਜਾਪਾਨ
+  JE:
+    official: ਜਰਸੀ
+    common: ਜਰਸੀ
+  JO:
+    official: ਜਾਰਡਨ
+    common: ਜਾਰਡਨ
+  KZ:
+    official: ਕਜ਼ਾਕਸਤਾਨ
+    common: ਕਜ਼ਾਕਸਤਾਨ
+  KE:
+    official: ਕੀਨੀਆ
+    common: ਕੀਨੀਆ
+  KI:
+    official: ਕੀਰੀਬਾਟੀ
+    common: ਕੀਰੀਬਾਟੀ
+  KP:
+    official: ਕੋਰੀਆ, ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ
+    common: ਕੋਰੀਆ, ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ
+  KR:
+    official: ਕੋਰੀਆ ਗਣਰਾਜ
+    common: ਕੋਰੀਆ ਗਣਰਾਜ
+  KW:
+    official: ਕੁਵੈਤ
+    common: ਕੁਵੈਤ
+  KG:
+    official: ਕਿਰਗਸਤਾਨ
+    common: ਕਿਰਗਸਤਾਨ
+  LA:
+    official: ਲਿਓ ਪੀਪਲ ਦਾ ਗਣਰਾਜ
+    common: ਲਿਓ ਪੀਪਲ ਦਾ ਗਣਰਾਜ
+  LV:
+    official: ਲਾਟੀਵਾਆ
+    common: ਲਾਟੀਵਾਆ
+  LB:
+    official: ਲੀਬਨਾਨ
+    common: ਲੀਬਨਾਨ
+  LS:
+    official: ਲੀਸੋਥੋ
+    common: ਲੀਸੋਥੋ
+  LR:
+    official: ਲੀਬਾਰੀਆ
+    common: ਲੀਬਾਰੀਆ
+  LY:
+    official: ਲੀਬਾਰੀਆ
+    common: ਲੀਬਾਰੀਆ
+  LI:
+    official: ਲੀਚਟੀਨੀਆ
+    common: ਲੀਚਟੀਨੀਆ
+  LT:
+    official: ਲੀਥੂਨੀਆ
+    common: ਲੀਥੂਨੀਆ
+  LU:
+    official: ਲ਼ਕਸ਼ਬਰਗ
+    common: ਲ਼ਕਸ਼ਬਰਗ
+  MO:
+    official: ਮੈਕੋ
+    common: ਮੈਕੋ
+  MK:
+    official: ਮੈਕਡੋਨੀਆ ਗਣਰਾਜ
+    common: ਮੈਕਡੋਨੀਆ ਗਣਰਾਜ
+  MG:
+    official: ਮੈਡਾਗਾਸਕਰ
+    common: ਮੈਡਾਗਾਸਕਰ
+  MW:
+    official: ਮਾਲਾਵੀਆ
+    common: ਮਾਲਾਵੀਆ
+  MY:
+    official: ਮਲੇਸ਼ੀਆ
+    common: ਮਲੇਸ਼ੀਆ
+  MV:
+    official: ਮਾਲਦੀਵ
+    common: ਮਾਲਦੀਵ
+  ML:
+    official: ਮਾਲੀ
+    common: ਮਾਲੀ
+  MT:
+    official: ਮਾਲਟਾ
+    common: ਮਾਲਟਾ
+  MH:
+    official: ਮਾਰਸ਼ਲ ਟਾਪੂ
+    common: ਮਾਰਸ਼ਲ ਟਾਪੂ
+  MQ:
+    official: ਮਾਰਟੀਨੀਕਿਊ
+    common: ਮਾਰਟੀਨੀਕਿਊ
+  MR:
+    official: ਮਾਓਰੀਟਆਨਾ
+    common: ਮਾਓਰੀਟਆਨਾ
+  MU:
+    official: ਮਾਓਟੀਸ
+    common: ਮਾਓਟੀਸ
+  YT:
+    official: ਮਾਈਟੀ
+    common: ਮਾਈਟੀ
+  MX:
+    official: ਮੈਕਸੀਕੋ
+    common: ਮੈਕਸੀਕੋ
+  FM:
+    official: ਮਾਈਕਰੋਨੇਸਿਆ, ਸੰਘ
+    common: ਮਾਈਕਰੋਨੇਸਿਆ, ਸੰਘ
+  MD:
+    official: ਮੋਲਡੋਵਾ ਗਣਰਾਜ
+    common: ਮੋਲਡੋਵਾ ਗਣਰਾਜ
+  MC:
+    official: ਮੋਨਕੋ
+    common: ਮੋਨਕੋ
+  MN:
+    official: ਮੰਗੋਲੀਆ
+    common: ਮੰਗੋਲੀਆ
+  ME:
+    official: ਮੋਨਟੇਨੇਗਰੋ
+    common: ਮੋਨਟੇਨੇਗਰੋ
+  MS:
+    official: ਮੋਨਟਸ਼ਟੀਟ
+    common: ਮੋਨਟਸ਼ਟੀਟ
+  MA:
+    official: ਮੋਰੋਸ਼ਸੋ
+    common: ਮੋਰੋਸ਼ਸੋ
+  MZ:
+    official: ਮੋਜ਼ਾਮਬੀਕਿਉ
+    common: ਮੋਜ਼ਾਮਬੀਕਿਉ
+  MM:
+    official: ਮਿਆਂਮਾਰ
+    common: ਮਿਆਂਮਾਰ
+  NA:
+    official: ਨੀਮੀਬੀਆ
+    common: ਨੀਮੀਬੀਆ
+  NR:
+    official: ਨੀਓਰੂ
+    common: ਨੀਓਰੂ
+  NP:
+    official: ਨੇਪਾਲ
+    common: ਨੇਪਾਲ
+  NL:
+    official: ਨੀਂਦਰਲੈਂਡ
+    common: ਨੀਂਦਰਲੈਂਡ
+  NC:
+    official: ਨਵਾਂ ਕਾਲੀਡੋਨੀਆਂ
+    common: ਨਵਾਂ ਕਾਲੀਡੋਨੀਆਂ
+  NZ:
+    official: ਨਿਊਜ਼ੀਲੈਂਡ
+    common: ਨਿਊਜ਼ੀਲੈਂਡ
+  NI:
+    official: ਨਿਕਾਰਗੁਆ
+    common: ਨਿਕਾਰਗੁਆ
+  NE:
+    official: ਨੀਜ਼ਰ
+    common: ਨੀਜ਼ਰ
+  NG:
+    official: ਨੀਜ਼ੀਰਆ
+    common: ਨੀਜ਼ੀਰਆ
+  NU:
+    official: ਨੀਊਈ
+    common: ਨੀਊਈ
+  NF:
+    official: ਨੋਰਫੋਕ ਟਾਪੂ
+    common: ਨੋਰਫੋਕ ਟਾਪੂ
+  MP:
+    official: ਉੱਤਰੀ ਮਰੀਵੀਆਨਾ ਟਾਪੂ
+    common: ਉੱਤਰੀ ਮਰੀਵੀਆਨਾ ਟਾਪੂ
+  'NO':
+    official: ਨਾਰਵੇ
+    common: ਨਾਰਵੇ
+  OM:
+    official: ਓਮਾਨ
+    common: ਓਮਾਨ
+  PK:
+    official: ਪਾਕਿਸਤਾਨ
+    common: ਪਾਕਿਸਤਾਨ
+  PW:
+    official: ਪਲਾਊ
+    common: ਪਲਾਊ
+  PS:
+    official: Palestine, State of
+    common: Palestine, State of
+  PA:
+    official: ਪੈਨਾਮਾ
+    common: ਪੈਨਾਮਾ
+  PG:
+    official: ਪਾਪੂਆ ਨਵਾਂ ਗੂਈਨਿਆ
+    common: ਪਾਪੂਆ ਨਵਾਂ ਗੂਈਨਿਆ
+  PY:
+    official: ਪੇਰੂਗਵੇ
+    common: ਪੇਰੂਗਵੇ
+  PE:
+    official: ਪੇਰੂ
+    common: ਪੇਰੂ
+  PH:
+    official: ਫਿਲਿਪੀਨੀਜ਼
+    common: ਫਿਲਿਪੀਨੀਜ਼
+  PN:
+    official: ਪਿਟਸਾਰਨ
+    common: ਪਿਟਸਾਰਨ
+  PL:
+    official: ਪੋਲੈਂਡ
+    common: ਪੋਲੈਂਡ
+  PT:
+    official: ਪੁਰਤਗਾਲ
+    common: ਪੁਰਤਗਾਲ
+  PR:
+    official: ਪੁਈਰਟੋ ਰੀਸੋ
+    common: ਪੁਈਰਟੋ ਰੀਸੋ
+  QA:
+    official: ਕਤਰ
+    common: ਕਤਰ
+  RE:
+    official: ਰੀਯੁਨੀਅਨ
+    common: ਰੀਯੁਨੀਅਨ
+  RO:
+    official: ਰੋਮਾਨੀਆ
+    common: ਰੋਮਾਨੀਆ
+  RU:
+    official: ਰੂਸੀ ਗਣਰਾਜ
+    common: ਰੂਸੀ ਗਣਰਾਜ
+  RW:
+    official: ਰਵਾਂਡਾ
+    common: ਰਵਾਂਡਾ
+  BL:
+    official: ਸੇਂਟ ਬਰਥੀਲੀਮੇ
+    common: ਸੇਂਟ ਬਰਥੀਲੀਮੇ
+  SH:
+    official: Saint Helena, Ascension and Tristan da Cunha
+    common: Saint Helena, Ascension and Tristan da Cunha
+  KN:
+    official: ਸੇਂਟ ਕਿਟਸ ਅਤੇ ਨੇਵੀਸ
+    common: ਸੇਂਟ ਕਿਟਸ ਅਤੇ ਨੇਵੀਸ
+  LC:
+    official: ਸੇਂਟ ਲੂਸੀਆ
+    common: ਸੇਂਟ ਲੂਸੀਆ
+  MF:
+    official: ਸੇਂਟ ਮਾਰਟਿਨ (ਫਰਾਂਸੀਸੀ ਭਾਗ)
+    common: ਸੇਂਟ ਮਾਰਟਿਨ (ਫਰਾਂਸੀਸੀ ਭਾਗ)
+  PM:
+    official: ਸੇਂਟ ਪਿੱਰੇ ਅਤੇ ਮੀਕੇਲੋਨ
+    common: ਸੇਂਟ ਪਿੱਰੇ ਅਤੇ ਮੀਕੇਲੋਨ
+  VC:
+    official: ਸੇਂਟ ਵਿਨਸਨਟ ਅਤੇ ਗਰੇਨਾਡਾਈਨਸ
+    common: ਸੇਂਟ ਵਿਨਸਨਟ ਅਤੇ ਗਰੇਨਾਡਾਈਨਸ
+  WS:
+    official: ਸਾਮੀਆ
+    common: ਸਾਮੀਆ
+  SM:
+    official: ਸਾਨ ਮਾਰੀਨੂ
+    common: ਸਾਨ ਮਾਰੀਨੂ
+  ST:
+    official: ਸਾਓ ਟੋਮ ਅਤੇ ਪ੍ਰਿਨਸਾਈਪ
+    common: ਸਾਓ ਟੋਮ ਅਤੇ ਪ੍ਰਿਨਸਾਈਪ
+  SA:
+    official: ਸਾਊਦੀ ਅਰਬ
+    common: ਸਾਊਦੀ ਅਰਬ
+  SN:
+    official: ਸੈਨੇਗਾਲ
+    common: ਸੈਨੇਗਾਲ
+  RS:
+    official: ਸੀਰਬੀਆ
+    common: ਸੀਰਬੀਆ
+  SC:
+    official: ਸੀਆਚਿਲਸ
+    common: ਸੀਆਚਿਲਸ
+  SL:
+    official: ਸੀਈਰਆ ਲਿਏਨ
+    common: ਸੀਈਰਆ ਲਿਏਨ
+  SG:
+    official: ਸਿੰਘਾਪੁਰ
+    common: ਸਿੰਘਾਪੁਰ
+  SX:
+    official: ਸੇਂਟ ਮਾਰਟਿਨ (ਫਰਾਂਸੀਸੀ ਭਾਗ)
+    common: ਸੇਂਟ ਮਾਰਟਿਨ (ਫਰਾਂਸੀਸੀ ਭਾਗ)
+  SK:
+    official: ਸਲੋਵਾਕੀਆ
+    common: ਸਲੋਵਾਕੀਆ
+  SI:
+    official: ਸਲੋਵੀਨੀਆ
+    common: ਸਲੋਵੀਨੀਆ
+  SB:
+    official: ਸੋਲੋਮੋਨ ਟਾਪੂ
+    common: ਸੋਲੋਮੋਨ ਟਾਪੂ
+  SO:
+    official: ਸੋਮਾਲੀਆ
+    common: ਸੋਮਾਲੀਆ
+  ZA:
+    official: ਦੱਖਣੀ ਅਫਰੀਕਾ
+    common: ਦੱਖਣੀ ਅਫਰੀਕਾ
+  GS:
+    official: ਦੱਖਣੀ ਜਾਰਜੀਆ ਅਤੇ ਦੱਖਣੀ ਸੈਂਡਵਿਚ ਟਾਪੂ
+    common: ਦੱਖਣੀ ਜਾਰਜੀਆ ਅਤੇ ਦੱਖਣੀ ਸੈਂਡਵਿਚ ਟਾਪੂ
+  ES:
+    official: ਸਪੇਨ
+    common: ਸਪੇਨ
+  LK:
+    official: ਸ੍ਰੀਲੰਕਾ
+    common: ਸ੍ਰੀਲੰਕਾ
+  SD:
+    official: ਸੂਡਾਨ
+    common: ਸੂਡਾਨ
+  SR:
+    official: ਸੂਰੀਨੇਮ
+    common: ਸੂਰੀਨੇਮ
+  SS:
+    official: ਸੂਡਾਨ ਗਣਰਾਜ
+    common: ਸੂਡਾਨ ਗਣਰਾਜ
+  SJ:
+    official: ਸਵਾਲਬਰਡ ਅਤੇ ਜਨ ਮਾਯੀਨ
+    common: ਸਵਾਲਬਰਡ ਅਤੇ ਜਨ ਮਾਯੀਨ
+  SZ:
+    official: ਸਵਰਜ਼ਲੈਂਡ
+    common: ਸਵਰਜ਼ਲੈਂਡ
+  SE:
+    official: ਸਵੀਡਨ
+    common: ਸਵੀਡਨ
+  CH:
+    official: ਸਵਿਟਰਜ਼ਰਲੈਂਡ
+    common: ਸਵਿਟਰਜ਼ਰਲੈਂਡ
+  SY:
+    official: ਸੀਰੀਅਨ ਅਰਬ ਗਣਰਾਜ
+    common: ਸੀਰੀਅਨ ਅਰਬ ਗਣਰਾਜ
+  TW:
+    official: ਤਾਈਵਾਨ
+    common: ਤਾਈਵਾਨ
+  TJ:
+    official: ਤਜ਼ਾਕਸਤਾਨ
+    common: ਤਜ਼ਾਕਸਤਾਨ
+  TZ:
+    official: ਤਨਜ਼ਾਨੀਆ, ਸੰਯੁਕਤ ਗਣਰਾਜ
+    common: ਤਨਜ਼ਾਨੀਆ, ਸੰਯੁਕਤ ਗਣਰਾਜ
+  TH:
+    official: ਥਾਈਲੈਂਡ
+    common: ਥਾਈਲੈਂਡ
+  TL:
+    official: ਟੀਮੁਰ-ਲੀਸਟੀ
+    common: ਟੀਮੁਰ-ਲੀਸਟੀ
+  TG:
+    official: ਟੋਗੋ
+    common: ਟੋਗੋ
+  TK:
+    official: ਟੂਕੀਲਾਊ
+    common: ਟੂਕੀਲਾਊ
+  TO:
+    official: ਟਾਂਗਾ
+    common: ਟਾਂਗਾ
+  TT:
+    official: ਟਰਿਨੀਦਾਦ ਅਤੇ ਟੋਬੇਗੋ
+    common: ਟਰਿਨੀਦਾਦ ਅਤੇ ਟੋਬੇਗੋ
+  TN:
+    official: ਟਿਊਨੀਸ਼ੀਆ
+    common: ਟਿਊਨੀਸ਼ੀਆ
+  TR:
+    official: ਤੁਰਕੀ
+    common: ਤੁਰਕੀ
+  TM:
+    official: ਤੁਰਕਮਸਤਾਨ
+    common: ਤੁਰਕਮਸਤਾਨ
+  TC:
+    official: ਤੁਰਕਸ ਅਤੇ ਕੇਈਕੋਸ ਟਾਪੂ
+    common: ਤੁਰਕਸ ਅਤੇ ਕੇਈਕੋਸ ਟਾਪੂ
+  TV:
+    official: ਟੂਵਾਲੂ
+    common: ਟੂਵਾਲੂ
+  UG:
+    official: ਯੂਗਾਂਡਾ
+    common: ਯੂਗਾਂਡਾ
+  UA:
+    official: ਯੂਕਰੇਨ
+    common: ਯੂਕਰੇਨ
+  AE:
+    official: ਸੰਯੁਕਤ ਰਾਜ ਅਮੀਰਾਤ
+    common: ਸੰਯੁਕਤ ਰਾਜ ਅਮੀਰਾਤ
+  GB:
+    official: ਬਰਤਾਨੀਆ
+    common: ਬਰਤਾਨੀਆ
+  US:
+    official: ਅਮਰੀਕਾ
+    common: ਅਮਰੀਕਾ
+  UM:
+    official: ਅਮਰੀਕਾ ਦੇ ਛੋਟੇ ਟਾਪੂ
+    common: ਅਮਰੀਕਾ ਦੇ ਛੋਟੇ ਟਾਪੂ
+  UY:
+    official: ਉਰੂਗਵੇ
+    common: ਉਰੂਗਵੇ
+  UZ:
+    official: ਉਜ਼ੇਬਕਸਤਾਨ
+    common: ਉਜ਼ੇਬਕਸਤਾਨ
+  VU:
+    official: ਵਾਨੂਟੂ
+    common: ਵਾਨੂਟੂ
+  VE:
+    official: ਵੈਨੂਜੇਏਲਾ, ਬੋਲੀਵਾਰੀਆ ਗਣਰਾਜ
+    common: ਵੈਨੂਜੇਏਲਾ, ਬੋਲੀਵਾਰੀਆ ਗਣਰਾਜ
+  VN:
+    official: ਵੀਅਤਨਾਮ
+    common: ਵੀਅਤਨਾਮ
+  VG:
+    official: ਵਿਰਗਿਨ ਟਾਪੂ ਬਰਤਾਨੀਆ
+    common: ਵਿਰਗਿਨ ਟਾਪੂ ਬਰਤਾਨੀਆ
+  VI:
+    official: ਵਿਰਗਿਨ ਟਾਪੂ, ਅਮਰੀਕਾ
+    common: ਵਿਰਗਿਨ ਟਾਪੂ, ਅਮਰੀਕਾ
+  WF:
+    official: ਵਿੱਲਸ ਅਤੇ ਫੂਟੂਨਾ
+    common: ਵਿੱਲਸ ਅਤੇ ਫੂਟੂਨਾ
+  EH:
+    official: ਦੱਖਣੀ ਸਹਾਰਾ
+    common: ਦੱਖਣੀ ਸਹਾਰਾ
+  YE:
+    official: ਯਮਨ
+    common: ਯਮਨ
+  ZM:
+    official: ਜ਼ੈਬੀਆ
+    common: ਜ਼ੈਬੀਆ
+  ZW:
+    official: ਜਿੰਬਾਬਾਵੇ
+    common: ਜਿੰਬਾਬਾਵੇ

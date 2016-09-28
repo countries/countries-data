@@ -1,0 +1,443 @@
+{
+  "continent": "Asia",
+  "address_format": "{{recipient}}\n{{street}}\n{{city}} {{postalcode}}\n{{country}}",
+  "alpha2": "SG",
+  "alpha3": "SGP",
+  "country_code": "65",
+  "international_prefix": "001",
+  "ioc": "SIN",
+  "gec": "SN",
+  "name": "Singapore",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8,
+    9
+  ],
+  "national_prefix": "None",
+  "number": "702",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "world_region": "APAC",
+  "un_locode": "SG",
+  "nationality": "Singaporean",
+  "postal_code": true,
+  "unofficial_names": [
+    "Singapore",
+    "Singapur",
+    "Singapour",
+    "シンガポール"
+  ],
+  "languages_official": [
+    "en",
+    "ms",
+    "ta"
+  ],
+  "languages_spoken": [
+    "en",
+    "ms",
+    "ta"
+  ],
+  "geo": {
+    "latitude": 1.352083,
+    "latitude_dec": "1.3219958543777466",
+    "longitude": 103.819836,
+    "longitude_dec": "103.8205337524414",
+    "max_latitude": 1.4707591,
+    "max_longitude": 104.0884807,
+    "min_latitude": 1.1587023,
+    "min_longitude": 103.6055575,
+    "bounds": {
+      "northeast": {
+        "lat": 1.4707591,
+        "lng": 104.0884807
+      },
+      "southwest": {
+        "lat": 1.1587023,
+        "lng": 103.6055575
+      }
+    }
+  },
+  "currency_code": "SGD",
+  "postal_address_data": {
+    "key": "SG",
+    "zipex": "546080,308125,408600",
+    "name": "REP. OF SINGAPORE",
+    "zip": "\\d{6}",
+    "require": "AZ",
+    "id": "data/SG",
+    "posturl": "http://www.singpost.com.sg/quick_services/index.htm",
+    "fmt": "%N%n%O%n%A%nSINGAPORE %Z"
+  },
+  "translations": {
+    "af": {
+      "official": "Singapoer",
+      "common": "Singapoer"
+    },
+    "sq": {
+      "official": "Singapori",
+      "common": "Singapori"
+    },
+    "am": {
+      "official": "ሲንጒፖሴ",
+      "common": "ሲንጒፖሴ"
+    },
+    "ar": {
+      "official": "سنغافورة",
+      "common": "سنغافورة"
+    },
+    "hy": {
+      "official": "Սինգապուր",
+      "common": "Սինգապուր"
+    },
+    "as": {
+      "official": "ছিংগাপুৰ",
+      "common": "ছিংগাপুৰ"
+    },
+    "az": {
+      "official": "Sinqapur",
+      "common": "Sinqapur"
+    },
+    "eu": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "be": {
+      "official": "Сінгапур",
+      "common": "Сінгапур"
+    },
+    "bn": {
+      "official": "সিঙ্গাপুর",
+      "common": "সিঙ্গাপুর"
+    },
+    "bs": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "br": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "bg": {
+      "official": "Сингапур",
+      "common": "Сингапур"
+    },
+    "ca": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "zh": {
+      "official": "新加坡",
+      "common": "新加坡"
+    },
+    "cs": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "da": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "nl": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "dz": {
+      "official": "སིང་ག་པོར།",
+      "common": "སིང་ག་པོར།"
+    },
+    "en": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "eo": {
+      "official": "Singapuro",
+      "common": "Singapuro"
+    },
+    "et": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "fo": {
+      "official": "Singapor",
+      "common": "Singapor"
+    },
+    "fi": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "fr": {
+      "official": "Singapour",
+      "common": "Singapour"
+    },
+    "ka": {
+      "official": "სინგაპური",
+      "common": "სინგაპური"
+    },
+    "de": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "ga": {
+      "official": "Singeapór",
+      "common": "Singeapór"
+    },
+    "gl": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "el": {
+      "official": "Σιγκαπούρη",
+      "common": "Σιγκαπούρη"
+    },
+    "gu": {
+      "official": "સિંગાપુર",
+      "common": "સિંગાપુર"
+    },
+    "he": {
+      "official": "סינגפור",
+      "common": "סינגפור"
+    },
+    "hi": {
+      "official": "सिंगापुर",
+      "common": "सिंगापुर"
+    },
+    "hr": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "hu": {
+      "official": "Szingapúr",
+      "common": "Szingapúr"
+    },
+    "is": {
+      "official": "Singapúr",
+      "common": "Singapúr"
+    },
+    "ia": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "id": {
+      "official": "Singapura",
+      "common": "Singapura"
+    },
+    "it": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "ja": {
+      "official": "シンガポール",
+      "common": "シンガポール"
+    },
+    "kn": {
+      "official": "ಸಿಂಗಾಪುರ್",
+      "common": "ಸಿಂಗಾಪುರ್"
+    },
+    "kk": {
+      "official": "Сингапур",
+      "common": "Сингапур"
+    },
+    "km": {
+      "official": "សាំងហ្គាពួរ",
+      "common": "សាំងហ្គាពួរ"
+    },
+    "rw": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "ko": {
+      "official": "싱가포르",
+      "common": "싱가포르"
+    },
+    "ku": {
+      "official": "Sîngapur",
+      "common": "Sîngapur"
+    },
+    "lv": {
+      "official": "Singapūra",
+      "common": "Singapūra"
+    },
+    "lt": {
+      "official": "Singapūras",
+      "common": "Singapūras"
+    },
+    "mk": {
+      "official": "Сингапур",
+      "common": "Сингапур"
+    },
+    "ml": {
+      "official": "സിംഗപ്പൂര്‍",
+      "common": "സിംഗപ്പൂര്‍"
+    },
+    "mi": {
+      "official": "Hingapoa",
+      "common": "Hingapoa"
+    },
+    "mr": {
+      "official": "सिंगापूर",
+      "common": "सिंगापूर"
+    },
+    "ms": {
+      "official": "Singapura",
+      "common": "Singapura"
+    },
+    "mt": {
+      "official": "Singapor",
+      "common": "Singapor"
+    },
+    "mn": {
+      "official": "Сингафур",
+      "common": "Сингафур"
+    },
+    "ne": {
+      "official": "सिंगापुर",
+      "common": "सिंगापुर"
+    },
+    "nn": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "nb": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "oc": {
+      "official": "Singapor",
+      "common": "Singapor"
+    },
+    "or": {
+      "official": "ସିଙ୍ଗାପୁର",
+      "common": "ସିଙ୍ଗାପୁର"
+    },
+    "pa": {
+      "official": "ਸਿੰਘਾਪੁਰ",
+      "common": "ਸਿੰਘਾਪੁਰ"
+    },
+    "fa": {
+      "official": "سنگاپور",
+      "common": "سنگاپور"
+    },
+    "pl": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "pt": {
+      "official": "Singapura",
+      "common": "Singapura"
+    },
+    "ps": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "ro": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "ru": {
+      "official": "Сингапур",
+      "common": "Сингапур"
+    },
+    "si": {
+      "official": "සිංගප්පූරුව",
+      "common": "සිංගප්පූරුව"
+    },
+    "sk": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "sl": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "so": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "es": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "sr": {
+      "official": "Сингапур",
+      "common": "Сингапур"
+    },
+    "sw": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "sv": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "ta": {
+      "official": "சிங்கப்பூர்",
+      "common": "சிங்கப்பூர்"
+    },
+    "tt": {
+      "official": "Синgапур",
+      "common": "Синgапур"
+    },
+    "te": {
+      "official": "సింగపూర్",
+      "common": "సింగపూర్"
+    },
+    "tl": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "th": {
+      "official": "สิงคโปร์",
+      "common": "สิงคโปร์"
+    },
+    "ti": {
+      "official": "ሲንጋፖር",
+      "common": "ሲንጋፖር"
+    },
+    "tk": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "tr": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "ug": {
+      "official": "سىنگاپور",
+      "common": "سىنگاپور"
+    },
+    "uk": {
+      "official": "Сінгапур",
+      "common": "Сінгапур"
+    },
+    "ve": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "vi": {
+      "official": "Xin-ga-po",
+      "common": "Xin-ga-po"
+    },
+    "cy": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "wa": {
+      "official": "Singapour",
+      "common": "Singapour"
+    },
+    "wo": {
+      "official": "Singapoor",
+      "common": "Singapoor"
+    },
+    "xh": {
+      "official": "Singapore",
+      "common": "Singapore"
+    },
+    "zu": {
+      "official": "Singapore",
+      "common": "Singapore"
+    }
+  }
+}

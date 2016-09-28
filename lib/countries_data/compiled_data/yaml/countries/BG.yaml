@@ -1,0 +1,348 @@
+---
+continent: Europe
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: BG
+alpha3: BGR
+country_code: '359'
+international_prefix: '00'
+ioc: BUL
+gec: BU
+name: Bulgaria
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+- 9
+- 10
+national_prefix: '0'
+number: '100'
+region: Europe
+subregion: Eastern Europe
+world_region: EMEA
+un_locode: BG
+nationality: Bulgarian
+eu_member: true
+eea_member: true
+vat_rates:
+  standard: 20
+  reduced:
+  - 9
+  super_reduced: 
+  parking: 
+postal_code: true
+unofficial_names:
+- Bulgaria
+- Bulgarien
+- Bulgarie
+- ブルガリア
+- Bulgarije
+languages_official:
+- bg
+languages_spoken:
+- bg
+geo:
+  latitude: 42.733883
+  latitude_dec: '42.7661018371582'
+  longitude: 25.48583
+  longitude_dec: '25.283733367919922'
+  max_latitude: 44.2152333
+  max_longitude: 28.6092633
+  min_latitude: 41.2354469
+  min_longitude: 22.3573447
+  bounds:
+    northeast:
+      lat: 44.2152333
+      lng: 28.6092633
+    southwest:
+      lat: 41.2354469
+      lng: 22.3573447
+currency_code: BGN
+postal_address_data:
+  key: BG
+  zipex: '1000,1700'
+  name: BULGARIA (REP.)
+  zip: "\\d{4}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  posturl: http://www.bgpost.bg/?cid=5
+  id: data/BG
+translations:
+  af:
+    official: Bulgarye
+    common: Bulgarye
+  sq:
+    official: Bullgaria
+    common: Bullgaria
+  am:
+    official: ቡሔጓሱ።
+    common: ቡሔጓሱ።
+  ar:
+    official: بلغاريا
+    common: بلغاريا
+  hy:
+    official: Բուլղարիա
+    common: Բուլղարիա
+  as:
+    official: বুলগাৰিয়া
+    common: বুলগাৰিয়া
+  az:
+    official: Bolqarıstan
+    common: Bolqarıstan
+  eu:
+    official: Bulgaria
+    common: Bulgaria
+  be:
+    official: Балгарыя
+    common: Балгарыя
+  bn:
+    official: বুলগারিয়া
+    common: বুলগারিয়া
+  bs:
+    official: Bugarska
+    common: Bugarska
+  br:
+    official: Bulgaria
+    common: Bulgaria
+  bg:
+    official: България
+    common: България
+  ca:
+    official: Bulgària
+    common: Bulgària
+  zh:
+    official: 保加利亚
+    common: 保加利亚
+  cs:
+    official: Bulharsko
+    common: Bulharsko
+  da:
+    official: Bulgarien
+    common: Bulgarien
+  nl:
+    official: Bulgarije
+    common: Bulgarije
+  dz:
+    official: བཱལ་ག་རི་ཡ།
+    common: བཱལ་ག་རི་ཡ།
+  en:
+    official: Bulgaria
+    common: Bulgaria
+  eo:
+    official: Bulgario
+    common: Bulgario
+  et:
+    official: Bulgaaria
+    common: Bulgaaria
+  fo:
+    official: Bulgaria
+    common: Bulgaria
+  fi:
+    official: Bulgaria
+    common: Bulgaria
+  fr:
+    official: Bulgarie
+    common: Bulgarie
+  ka:
+    official: ბულგარეთი
+    common: ბულგარეთი
+  de:
+    official: Bulgarien
+    common: Bulgarien
+  ga:
+    official: An Bhulgáir
+    common: An Bhulgáir
+  gl:
+    official: Bulgaria
+    common: Bulgaria
+  el:
+    official: Βουλγαρία
+    common: Βουλγαρία
+  gu:
+    official: બલ્ગેરિયા
+    common: બલ્ગેરિયા
+  he:
+    official: בולגריה
+    common: בולגריה
+  hi:
+    official: बुल्गारिया
+    common: बुल्गारिया
+  hr:
+    official: Bugarska
+    common: Bugarska
+  hu:
+    official: Bulgária
+    common: Bulgária
+  is:
+    official: Búlgaría
+    common: Búlgaría
+  ia:
+    official: Bulgaria
+    common: Bulgaria
+  id:
+    official: Bulgaria
+    common: Bulgaria
+  it:
+    official: Bulgaria
+    common: Bulgaria
+  ja:
+    official: ブルガリア
+    common: ブルガリア
+  kn:
+    official: ಬಲ್ಗೇರಿಯಾ
+    common: ಬಲ್ಗೇರಿಯಾ
+  kk:
+    official: Болгария
+    common: Болгария
+  km:
+    official: ប៊ុលហ្គារី
+    common: ប៊ុលហ្គារី
+  rw:
+    official: Buligariya
+    common: Buligariya
+  ko:
+    official: 불가리아
+    common: 불가리아
+  ku:
+    official: Bulgaristan
+    common: Bulgaristan
+  lv:
+    official: Bulgārija
+    common: Bulgārija
+  lt:
+    official: Bulgarija
+    common: Bulgarija
+  mk:
+    official: Бугарија
+    common: Бугарија
+  ml:
+    official: ബള്‍ഗേറിയ
+    common: ബള്‍ഗേറിയ
+  mi:
+    official: Purukāria
+    common: Purukāria
+  mr:
+    official: बल्गेरिया
+    common: बल्गेरिया
+  ms:
+    official: Bulgaria
+    common: Bulgaria
+  mt:
+    official: Bulgarija
+    common: Bulgarija
+  mn:
+    official: Болгар
+    common: Болгар
+  ne:
+    official: बुलगेरिया
+    common: बुलगेरिया
+  nn:
+    official: Bulgaria
+    common: Bulgaria
+  nb:
+    official: Bulgaria
+    common: Bulgaria
+  oc:
+    official: Bulgaria
+    common: Bulgaria
+  or:
+    official: ବୁଲଗାରିୟା
+    common: ବୁଲଗାରିୟା
+  pa:
+    official: ਬੁਲਗਾਰੀਆ
+    common: ਬੁਲਗਾਰੀਆ
+  fa:
+    official: بلغارستان
+    common: بلغارستان
+  pl:
+    official: Bułgaria
+    common: Bułgaria
+  pt:
+    official: Bulgária
+    common: Bulgária
+  ps:
+    official: بلغاریه
+    common: بلغاریه
+  ro:
+    official: Bulgaria
+    common: Bulgaria
+  ru:
+    official: Болгария
+    common: Болгария
+  si:
+    official: බල්ගේරියා
+    common: බල්ගේරියා
+  sk:
+    official: Bulharsko
+    common: Bulharsko
+  sl:
+    official: Bolgarija
+    common: Bolgarija
+  so:
+    official: Bulgaria
+    common: Bulgaria
+  es:
+    official: Bulgaria
+    common: Bulgaria
+  sr:
+    official: Бугарска
+    common: Бугарска
+  sw:
+    official: Bulgaria
+    common: Bulgaria
+  sv:
+    official: Bulgarien
+    common: Bulgarien
+  ta:
+    official: பல்கேரியா
+    common: பல்கேரியா
+  tt:
+    official: Булgариа
+    common: Булgариа
+  te:
+    official: బల్గేరియా
+    common: బల్గేరియా
+  tl:
+    official: Bulgaria
+    common: Bulgaria
+  th:
+    official: บัลแกเรีย
+    common: บัลแกเรีย
+  ti:
+    official: ቡልጌሪያ
+    common: ቡልጌሪያ
+  tk:
+    official: Bolgariýa
+    common: Bolgariýa
+  tr:
+    official: Bulgaristan
+    common: Bulgaristan
+  ug:
+    official: بۇلغارىيە
+    common: بۇلغارىيە
+  uk:
+    official: Болгарія
+    common: Болгарія
+  ve:
+    official: Bulgaria
+    common: Bulgaria
+  vi:
+    official: Bua-ga-ri
+    common: Bua-ga-ri
+  cy:
+    official: Bwlgaria
+    common: Bwlgaria
+  wa:
+    official: Bulgåreye
+    common: Bulgåreye
+  wo:
+    official: Bulgaari
+    common: Bulgaari
+  xh:
+    official: Bulgaria
+    common: Bulgaria
+  zu:
+    official: I-Buligariya
+    common: I-Buligariya

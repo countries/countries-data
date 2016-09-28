@@ -1,0 +1,349 @@
+---
+continent: Europe
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: RO
+alpha3: ROU
+country_code: '40'
+international_prefix: '00'
+ioc: ROU
+gec: RO
+name: Romania
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: '0'
+number: '642'
+region: Europe
+subregion: Eastern Europe
+world_region: EMEA
+un_locode: RO
+nationality: Romanian
+eu_member: true
+eea_member: true
+vat_rates:
+  standard: 20
+  reduced:
+  - 5
+  - 9
+  super_reduced: 
+  parking: 
+postal_code: true
+unofficial_names:
+- Romania
+- Rumänien
+- Roumanie
+- Rumania
+- ルーマニア
+- Roemenië
+languages_official:
+- ro
+languages_spoken:
+- ro
+geo:
+  latitude: 45.943161
+  latitude_dec: '45.83774185180664'
+  longitude: 24.96676
+  longitude_dec: '25.005935668945312'
+  max_latitude: 48.2652741
+  max_longitude: 29.7571019
+  min_latitude: 43.6232976
+  min_longitude: 20.2617593
+  bounds:
+    northeast:
+      lat: 48.2652741
+      lng: 29.7571019
+    southwest:
+      lat: 43.6232976
+      lng: 20.2617593
+currency_code: RON
+postal_address_data:
+  key: RO
+  upper: AC
+  zipex: '060274,061357,200716'
+  name: ROMANIA
+  zip: "\\d{6}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  posturl: http://www.posta-romana.ro/zip_codes
+  id: data/RO
+translations:
+  af:
+    official: Roemenië
+    common: Roemenië
+  sq:
+    official: Rumania
+    common: Rumania
+  am:
+    official: ስሣኒ።
+    common: ስሣኒ።
+  ar:
+    official: رومانيا
+    common: رومانيا
+  hy:
+    official: Ռումինիա
+    common: Ռումինիա
+  as:
+    official: ৰোমানিয়া
+    common: ৰোমানিয়া
+  az:
+    official: Ruminıya
+    common: Ruminıya
+  eu:
+    official: Errumania
+    common: Errumania
+  be:
+    official: Румынія
+    common: Румынія
+  bn:
+    official: রোমানিয়া
+    common: রোমানিয়া
+  bs:
+    official: Rumunija
+    common: Rumunija
+  br:
+    official: Roumania
+    common: Roumania
+  bg:
+    official: Румъния
+    common: Румъния
+  ca:
+    official: Romania
+    common: Romania
+  zh:
+    official: 罗马尼亚
+    common: 罗马尼亚
+  cs:
+    official: Rumunsko
+    common: Rumunsko
+  da:
+    official: Rumænien
+    common: Rumænien
+  nl:
+    official: Roemenië
+    common: Roemenië
+  dz:
+    official: རོ་མ་ནི་ཡ།
+    common: རོ་མ་ནི་ཡ།
+  en:
+    official: Romania
+    common: Romania
+  eo:
+    official: Rumanio
+    common: Rumanio
+  et:
+    official: Rumeenia
+    common: Rumeenia
+  fo:
+    official: Rumenia
+    common: Rumenia
+  fi:
+    official: Romania
+    common: Romania
+  fr:
+    official: Roumanie
+    common: Roumanie
+  ka:
+    official: რუმინეთი
+    common: რუმინეთი
+  de:
+    official: Rumänien
+    common: Rumänien
+  ga:
+    official: An Rómáin
+    common: An Rómáin
+  gl:
+    official: Romanía
+    common: Romanía
+  el:
+    official: Ρουμανία
+    common: Ρουμανία
+  gu:
+    official: રોમાનિયા
+    common: રોમાનિયા
+  he:
+    official: רומניה
+    common: רומניה
+  hi:
+    official: रोमानिया
+    common: रोमानिया
+  hr:
+    official: Rumunjska
+    common: Rumunjska
+  hu:
+    official: Románia
+    common: Románia
+  is:
+    official: Rúmenía
+    common: Rúmenía
+  ia:
+    official: Romania
+    common: Romania
+  id:
+    official: Romania
+    common: Romania
+  it:
+    official: Romania
+    common: Romania
+  ja:
+    official: ルーマニア
+    common: ルーマニア
+  kn:
+    official: ರೊಮೇನಿಯಾ
+    common: ರೊಮೇನಿಯಾ
+  kk:
+    official: Румыния
+    common: Румыния
+  km:
+    official: រូម៉ានី
+    common: រូម៉ានី
+  rw:
+    official: Romaniya
+    common: Romaniya
+  ko:
+    official: 루마니아
+    common: 루마니아
+  ku:
+    official: Romanya
+    common: Romanya
+  lv:
+    official: Rumānija
+    common: Rumānija
+  lt:
+    official: Rumunija
+    common: Rumunija
+  mk:
+    official: Романија
+    common: Романија
+  ml:
+    official: റൊമാനിയ
+    common: റൊമാനിയ
+  mi:
+    official: Romeinia
+    common: Romeinia
+  mr:
+    official: रोमानिया
+    common: रोमानिया
+  ms:
+    official: Romania
+    common: Romania
+  mt:
+    official: Rumanija
+    common: Rumanija
+  mn:
+    official: Румын
+    common: Румын
+  ne:
+    official: रोमानिया
+    common: रोमानिया
+  nn:
+    official: Romania
+    common: Romania
+  nb:
+    official: Romania
+    common: Romania
+  oc:
+    official: Romania
+    common: Romania
+  or:
+    official: ରୋମାନିୟା
+    common: ରୋମାନିୟା
+  pa:
+    official: ਰੋਮਾਨੀਆ
+    common: ਰੋਮਾਨੀਆ
+  fa:
+    official: رومانی
+    common: رومانی
+  pl:
+    official: Rumunia
+    common: Rumunia
+  pt:
+    official: Roménia
+    common: Roménia
+  ps:
+    official: Romania
+    common: Romania
+  ro:
+    official: România
+    common: România
+  ru:
+    official: Румыния
+    common: Румыния
+  si:
+    official: රොමේනියාව
+    common: රොමේනියාව
+  sk:
+    official: Rumunsko
+    common: Rumunsko
+  sl:
+    official: Romunija
+    common: Romunija
+  so:
+    official: Rumaaniya
+    common: Rumaaniya
+  es:
+    official: Rumanía
+    common: Rumanía
+  sr:
+    official: Румунија
+    common: Румунија
+  sw:
+    official: Romania
+    common: Romania
+  sv:
+    official: Rumänien
+    common: Rumänien
+  ta:
+    official: ரோமானியா
+    common: ரோமானியா
+  tt:
+    official: Романиа
+    common: Романиа
+  te:
+    official: రోమానియా
+    common: రోమానియా
+  tl:
+    official: Romania
+    common: Romania
+  th:
+    official: โรมาเนีย
+    common: โรมาเนีย
+  ti:
+    official: ሮሜኒያ
+    common: ሮሜኒያ
+  tk:
+    official: Rumyniýa
+    common: Rumyniýa
+  tr:
+    official: Romanya
+    common: Romanya
+  ug:
+    official: رۇمىنىيە
+    common: رۇمىنىيە
+  uk:
+    official: Румунія
+    common: Румунія
+  ve:
+    official: Romania
+    common: Romania
+  vi:
+    official: Rô-ma-ni
+    common: Rô-ma-ni
+  cy:
+    official: Rwmania
+    common: Rwmania
+  wa:
+    official: Roumaneye
+    common: Roumaneye
+  wo:
+    official: Romaani
+    common: Romaani
+  xh:
+    official: Romania
+    common: Romania
+  zu:
+    official: I-Romaniya
+    common: I-Romaniya

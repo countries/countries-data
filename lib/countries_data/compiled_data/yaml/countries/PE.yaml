@@ -1,0 +1,333 @@
+---
+continent: South America
+alpha2: PE
+alpha3: PER
+country_code: '51'
+international_prefix: '00'
+ioc: PER
+gec: PE
+name: Peru
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+- 9
+national_prefix: '0'
+number: '604'
+region: Americas
+subregion: South America
+world_region: AMER
+un_locode: PE
+nationality: Peruvian
+postal_code: true
+unofficial_names:
+- Peru
+- Pérou
+- Perú
+- ペルー
+languages_official:
+- es
+languages_spoken:
+- es
+geo:
+  latitude: -9.189967
+  latitude_dec: "-9.212532997131348"
+  longitude: -75.015152
+  longitude_dec: "-74.422119140625"
+  max_latitude: -0.038777
+  max_longitude: -68.652329
+  min_latitude: -18.3515994
+  min_longitude: -81.3285042
+  bounds:
+    northeast:
+      lat: -0.038777
+      lng: -68.652329
+    southwest:
+      lat: -18.3515994
+      lng: -81.3285042
+currency_code: PEN
+postal_address_data:
+  key: PE
+  zipex: LIMA 23,LIMA 42,CALLAO 2,02001
+  name: PERU
+  zip: "(?:LIMA \\d{1,2}|CALLAO 0?\\d)|[0-2]\\d{4}"
+  fmt: "%N%n%O%n%A%n%C %Z%n%S"
+  posturl: http://www.serpost.com.pe/cpostal/codigo
+  id: data/PE
+translations:
+  af:
+    official: Peru
+    common: Peru
+  sq:
+    official: Peru
+    common: Peru
+  am:
+    official: ፔሩ
+    common: ፔሩ
+  ar:
+    official: البيرو
+    common: البيرو
+  hy:
+    official: Պերու
+    common: Պերու
+  as:
+    official: পেৰু
+    common: পেৰু
+  az:
+    official: Peru
+    common: Peru
+  eu:
+    official: Peru
+    common: Peru
+  be:
+    official: Перу
+    common: Перу
+  bn:
+    official: পেরু
+    common: পেরু
+  bs:
+    official: Peru
+    common: Peru
+  br:
+    official: Perou
+    common: Perou
+  bg:
+    official: Перу
+    common: Перу
+  ca:
+    official: Perú
+    common: Perú
+  zh:
+    official: 秘鲁
+    common: 秘鲁
+  cs:
+    official: Peru
+    common: Peru
+  da:
+    official: Peru
+    common: Peru
+  nl:
+    official: Peru
+    common: Peru
+  dz:
+    official: པེ་རུ།
+    common: པེ་རུ།
+  en:
+    official: Peru
+    common: Peru
+  eo:
+    official: Peruo
+    common: Peruo
+  et:
+    official: Peruu
+    common: Peruu
+  fo:
+    official: Perú
+    common: Perú
+  fi:
+    official: Peru
+    common: Peru
+  fr:
+    official: Pérou
+    common: Pérou
+  ka:
+    official: პერუ
+    common: პერუ
+  de:
+    official: Peru
+    common: Peru
+  ga:
+    official: Peiriú
+    common: Peiriú
+  gl:
+    official: Perú
+    common: Perú
+  el:
+    official: Περού
+    common: Περού
+  gu:
+    official: પેરુ
+    common: પેરુ
+  he:
+    official: פרו
+    common: פרו
+  hi:
+    official: पेरू
+    common: पेरू
+  hr:
+    official: Peru
+    common: Peru
+  hu:
+    official: Peru
+    common: Peru
+  is:
+    official: Perú
+    common: Perú
+  ia:
+    official: Peru
+    common: Peru
+  id:
+    official: Peru
+    common: Peru
+  it:
+    official: Perù
+    common: Perù
+  ja:
+    official: ペルー
+    common: ペルー
+  kn:
+    official: ಪೆರು
+    common: ಪೆರು
+  kk:
+    official: Перу
+    common: Перу
+  km:
+    official: ប៉េរ៉ូ
+    common: ប៉េរ៉ូ
+  rw:
+    official: Peru
+    common: Peru
+  ko:
+    official: 페루
+    common: 페루
+  ku:
+    official: Perû
+    common: Perû
+  lv:
+    official: Peru
+    common: Peru
+  lt:
+    official: Peru
+    common: Peru
+  mk:
+    official: Перу
+    common: Перу
+  ml:
+    official: പെറു
+    common: പെറു
+  mi:
+    official: Perū
+    common: Perū
+  mr:
+    official: पेरू
+    common: पेरू
+  ms:
+    official: Peru
+    common: Peru
+  mt:
+    official: Peru
+    common: Peru
+  mn:
+    official: Перу
+    common: Перу
+  ne:
+    official: पेरु
+    common: पेरु
+  nn:
+    official: Peru
+    common: Peru
+  nb:
+    official: Peru
+    common: Peru
+  oc:
+    official: Peró
+    common: Peró
+  or:
+    official: ପେରୁ
+    common: ପେରୁ
+  pa:
+    official: ਪੇਰੂ
+    common: ਪੇਰੂ
+  fa:
+    official: پرو
+    common: پرو
+  pl:
+    official: Peru
+    common: Peru
+  pt:
+    official: Peru
+    common: Peru
+  ps:
+    official: Peru
+    common: Peru
+  ro:
+    official: Peru
+    common: Peru
+  ru:
+    official: Перу
+    common: Перу
+  si:
+    official: පේරු
+    common: පේරු
+  sk:
+    official: Peru
+    common: Peru
+  sl:
+    official: Peru
+    common: Peru
+  so:
+    official: Peru
+    common: Peru
+  es:
+    official: Perú
+    common: Perú
+  sr:
+    official: Перу
+    common: Перу
+  sw:
+    official: Peru
+    common: Peru
+  sv:
+    official: Peru
+    common: Peru
+  ta:
+    official: பெரு
+    common: பெரு
+  tt:
+    official: Перу
+    common: Перу
+  te:
+    official: పెరూ
+    common: పెరూ
+  tl:
+    official: Peru
+    common: Peru
+  th:
+    official: เปรู
+    common: เปรู
+  ti:
+    official: ፔሩ
+    common: ፔሩ
+  tk:
+    official: Peru
+    common: Peru
+  tr:
+    official: Peru
+    common: Peru
+  ug:
+    official: پېرۇ
+    common: پېرۇ
+  uk:
+    official: Перу
+    common: Перу
+  ve:
+    official: Peru
+    common: Peru
+  vi:
+    official: Pê-ru
+    common: Pê-ru
+  cy:
+    official: Periw
+    common: Periw
+  wa:
+    official: Perou
+    common: Perou
+  wo:
+    official: Peru
+    common: Peru
+  xh:
+    official: Peru
+    common: Peru
+  zu:
+    official: I-Peru
+    common: I-Peru

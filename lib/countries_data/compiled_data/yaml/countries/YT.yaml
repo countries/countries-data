@@ -1,0 +1,331 @@
+---
+continent: Africa
+alpha2: YT
+alpha3: MYT
+country_code: '262'
+international_prefix: '00'
+ioc: 
+gec: MF
+name: Mayotte
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: None
+number: '175'
+region: Africa
+subregion: Eastern Africa
+world_region: EMEA
+un_locode: YT
+nationality: French
+postal_code: true
+unofficial_names:
+- Mayotte
+- マヨット
+languages_official:
+- fr
+languages_spoken:
+- fr
+geo:
+  latitude: -12.8275
+  latitude_dec: "-12.79636001586914"
+  longitude: 45.166244
+  longitude_dec: '45.14227294921875'
+  max_latitude: -12.6364115
+  max_longitude: 45.2999739
+  min_latitude: -13.0055279
+  min_longitude: 45.0181707
+  bounds:
+    northeast:
+      lat: -12.6364115
+      lng: 45.2999739
+    southwest:
+      lat: -13.0055279
+      lng: 45.0181707
+currency_code: EUR
+postal_address_data:
+  upper: ACX
+  zipex: '97600'
+  name: MAYOTTE
+  zip: 976\d{2}
+  require: ACZ
+  id: data/YT
+  key: YT
+  fmt: "%O%n%N%n%A%n%Z %C %X"
+translations:
+  af:
+    official: Mayotte
+    common: Mayotte
+  sq:
+    official: Mayotte
+    common: Mayotte
+  am:
+    official: Mayotte
+    common: Mayotte
+  ar:
+    official: مايوت
+    common: مايوت
+  hy:
+    official: Մայոտ
+    common: Մայոտ
+  as:
+    official: মেওতে
+    common: মেওতে
+  az:
+    official: Mayot
+    common: Mayot
+  eu:
+    official: Mayotte
+    common: Mayotte
+  be:
+    official: Маёта
+    common: Маёта
+  bn:
+    official: মেওতে
+    common: মেওতে
+  bs:
+    official: Mayotte
+    common: Mayotte
+  br:
+    official: Mayotte
+    common: Mayotte
+  bg:
+    official: Майот
+    common: Майот
+  ca:
+    official: Mayotte
+    common: Mayotte
+  zh:
+    official: 马约特
+    common: 马约特
+  cs:
+    official: Mayotte
+    common: Mayotte
+  da:
+    official: Mayotte
+    common: Mayotte
+  nl:
+    official: Mayotte
+    common: Mayotte
+  dz:
+    official: མ་ཡོ་ཊི།
+    common: མ་ཡོ་ཊི།
+  en:
+    official: Mayotte
+    common: Mayotte
+  eo:
+    official: Majoto
+    common: Majoto
+  et:
+    official: Mayotte
+    common: Mayotte
+  fo:
+    official: Mayotte
+    common: Mayotte
+  fi:
+    official: Mayotte
+    common: Mayotte
+  fr:
+    official: Mayotte
+    common: Mayotte
+  ka:
+    official: მეიოტი
+    common: მეიოტი
+  de:
+    official: Mayotte
+    common: Mayotte
+  ga:
+    official: Mayotte
+    common: Mayotte
+  gl:
+    official: Maiote
+    common: Maiote
+  el:
+    official: Μαγιότ
+    common: Μαγιότ
+  gu:
+    official: માયોટે
+    common: માયોટે
+  he:
+    official: מאיוט
+    common: מאיוט
+  hi:
+    official: मैयोट्ट
+    common: मैयोट्ट
+  hr:
+    official: Mayotte
+    common: Mayotte
+  hu:
+    official: Mayotte
+    common: Mayotte
+  is:
+    official: Mayott
+    common: Mayott
+  ia:
+    official: Mayotte
+    common: Mayotte
+  id:
+    official: Mayote
+    common: Mayote
+  it:
+    official: Mayotte
+    common: Mayotte
+  ja:
+    official: マヨット
+    common: マヨット
+  kn:
+    official: Mayotte
+    common: Mayotte
+  kk:
+    official: Мариотт
+    common: Мариотт
+  km:
+    official: ម៉ាយុត
+    common: ម៉ាយុត
+  rw:
+    official: Mayoti
+    common: Mayoti
+  ko:
+    official: 마요트
+    common: 마요트
+  ku:
+    official: Mayote
+    common: Mayote
+  lv:
+    official: Majota
+    common: Majota
+  lt:
+    official: Majotas
+    common: Majotas
+  mk:
+    official: Мајоте
+    common: Мајоте
+  ml:
+    official: മയോട്ടെ
+    common: മയോട്ടെ
+  mi:
+    official: Mayotte
+    common: Mayotte
+  mr:
+    official: मायोट
+    common: मायोट
+  ms:
+    official: Mayotte
+    common: Mayotte
+  mt:
+    official: Majotte
+    common: Majotte
+  mn:
+    official: Mayotte
+    common: Mayotte
+  ne:
+    official: मायोट्टे
+    common: मायोट्टे
+  nn:
+    official: Mayotte
+    common: Mayotte
+  nb:
+    official: Mayotte
+    common: Mayotte
+  oc:
+    official: Kanu
+    common: Kanu
+  or:
+    official: ମେୟୋଟ
+    common: ମେୟୋଟ
+  pa:
+    official: ਮਾਈਟੀ
+    common: ਮਾਈਟੀ
+  fa:
+    official: مایوت
+    common: مایوت
+  pl:
+    official: Mayotte
+    common: Mayotte
+  pt:
+    official: Mayotte
+    common: Mayotte
+  ps:
+    official: Mayotte
+    common: Mayotte
+  ro:
+    official: Mayotte
+    common: Mayotte
+  ru:
+    official: Майот
+    common: Майот
+  si:
+    official: මයොට්ටේ
+    common: මයොට්ටේ
+  sk:
+    official: Mayotte
+    common: Mayotte
+  sl:
+    official: Mayotte
+    common: Mayotte
+  so:
+    official: Mayotte
+    common: Mayotte
+  es:
+    official: Mayotte
+    common: Mayotte
+  sr:
+    official: Мајот
+    common: Мајот
+  sw:
+    official: Mayotte
+    common: Mayotte
+  sv:
+    official: Mayotte
+    common: Mayotte
+  ta:
+    official: மயோதி
+    common: மயோதி
+  tt:
+    official: Маётте
+    common: Маётте
+  te:
+    official: మాయోటె
+    common: మాయోటె
+  tl:
+    official: Mayotte
+    common: Mayotte
+  th:
+    official: มายอต
+    common: มายอต
+  ti:
+    official: Mayotte
+    common: Mayotte
+  tk:
+    official: Maýotta
+    common: Maýotta
+  tr:
+    official: Mayotte
+    common: Mayotte
+  ug:
+    official: مايوتتې
+    common: مايوتتې
+  uk:
+    official: Майотта
+    common: Майотта
+  ve:
+    official: Mayotte
+    common: Mayotte
+  vi:
+    official: May-o-thợ
+    common: May-o-thợ
+  cy:
+    official: Mayotte
+    common: Mayotte
+  wa:
+    official: Mayote
+    common: Mayote
+  wo:
+    official: Mayoot
+    common: Mayoot
+  xh:
+    official: Mayotte
+    common: Mayotte
+  zu:
+    official: Mayotte
+    common: Mayotte

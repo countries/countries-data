@@ -1,0 +1,430 @@
+{
+  "continent": "North America",
+  "alpha2": "DM",
+  "alpha3": "DMA",
+  "country_code": "1",
+  "international_prefix": "011",
+  "ioc": "DMA",
+  "gec": "DO",
+  "name": "Dominica",
+  "national_destination_code_lengths": [
+    3
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "1",
+  "number": "212",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "AMER",
+  "un_locode": "DM",
+  "nationality": "Dominican",
+  "postal_code": false,
+  "unofficial_names": [
+    "Dominica",
+    "ドミニカ国"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 15.414999,
+    "latitude_dec": "15.3991060256958",
+    "longitude": -61.37097600000001,
+    "longitude_dec": "-61.33945846557617",
+    "max_latitude": 15.640064,
+    "max_longitude": -61.2403036,
+    "min_latitude": 15.2074514,
+    "min_longitude": -61.47992129999999,
+    "bounds": {
+      "northeast": {
+        "lat": 15.640064,
+        "lng": -61.2403036
+      },
+      "southwest": {
+        "lat": 15.2074514,
+        "lng": -61.47992129999999
+      }
+    }
+  },
+  "currency_code": "XCD",
+  "postal_address_data": {
+    "id": "data/DM",
+    "key": "DM",
+    "name": "DOMINICA"
+  },
+  "translations": {
+    "af": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "sq": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "am": {
+      "official": "፦ሡኒጢ",
+      "common": "፦ሡኒጢ"
+    },
+    "ar": {
+      "official": "دومينيكا",
+      "common": "دومينيكا"
+    },
+    "hy": {
+      "official": "Դոմինիկա",
+      "common": "Դոմինիկա"
+    },
+    "as": {
+      "official": "ডোমিনিকা",
+      "common": "ডোমিনিকা"
+    },
+    "az": {
+      "official": "Dominik",
+      "common": "Dominik"
+    },
+    "eu": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "be": {
+      "official": "Дамініка",
+      "common": "Дамініка"
+    },
+    "bn": {
+      "official": "ডোমিনিকা",
+      "common": "ডোমিনিকা"
+    },
+    "bs": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "br": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "bg": {
+      "official": "Доминика",
+      "common": "Доминика"
+    },
+    "ca": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "zh": {
+      "official": "多米尼克",
+      "common": "多米尼克"
+    },
+    "cs": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "da": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "nl": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "dz": {
+      "official": "ཌོ་མི་ནི་ཀ།",
+      "common": "ཌོ་མི་ནི་ཀ།"
+    },
+    "en": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "eo": {
+      "official": "Dominiko",
+      "common": "Dominiko"
+    },
+    "et": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "fo": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "fi": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "fr": {
+      "official": "Dominique",
+      "common": "Dominique"
+    },
+    "ka": {
+      "official": "დომინიკა",
+      "common": "დომინიკა"
+    },
+    "de": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "ga": {
+      "official": "Doiminice",
+      "common": "Doiminice"
+    },
+    "gl": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "el": {
+      "official": "Ντομίνικα",
+      "common": "Ντομίνικα"
+    },
+    "gu": {
+      "official": "ડોમિનિકા",
+      "common": "ડોમિનિકા"
+    },
+    "he": {
+      "official": "דומיניקה",
+      "common": "דומיניקה"
+    },
+    "hi": {
+      "official": "डोमिनिका",
+      "common": "डोमिनिका"
+    },
+    "hr": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "hu": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "is": {
+      "official": "Dóminíka",
+      "common": "Dóminíka"
+    },
+    "ia": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "id": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "it": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "ja": {
+      "official": "ドミニカ",
+      "common": "ドミニカ"
+    },
+    "kn": {
+      "official": "ಡೊಮಿನಿಕಾ",
+      "common": "ಡೊಮಿನಿಕಾ"
+    },
+    "kk": {
+      "official": "Доминика",
+      "common": "Доминика"
+    },
+    "km": {
+      "official": "ដូមីនីកា",
+      "common": "ដូមីនីកា"
+    },
+    "rw": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "ko": {
+      "official": "도미니카",
+      "common": "도미니카"
+    },
+    "ku": {
+      "official": "Domînîka",
+      "common": "Domînîka"
+    },
+    "lv": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "lt": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "mk": {
+      "official": "Доминикана",
+      "common": "Доминикана"
+    },
+    "ml": {
+      "official": "ഡൊമിനിക",
+      "common": "ഡൊമിനിക"
+    },
+    "mi": {
+      "official": "Tominika",
+      "common": "Tominika"
+    },
+    "mr": {
+      "official": "डॉमिनिका",
+      "common": "डॉमिनिका"
+    },
+    "ms": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "mt": {
+      "official": "Rumanija",
+      "common": "Rumanija"
+    },
+    "mn": {
+      "official": "Доминик",
+      "common": "Доминик"
+    },
+    "ne": {
+      "official": "डोमिनिका",
+      "common": "डोमिनिका"
+    },
+    "nn": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "nb": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "oc": {
+      "official": "Romania",
+      "common": "Romania"
+    },
+    "or": {
+      "official": "ଡୋମିନୀକା",
+      "common": "ଡୋମିନୀକା"
+    },
+    "pa": {
+      "official": "ਡੋਮੀਨੀਆ",
+      "common": "ਡੋਮੀਨੀਆ"
+    },
+    "fa": {
+      "official": "دومینیکا",
+      "common": "دومینیکا"
+    },
+    "pl": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "pt": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "ps": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "ro": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "ru": {
+      "official": "Доминика",
+      "common": "Доминика"
+    },
+    "si": {
+      "official": "ඩොමිනිකාව",
+      "common": "ඩොමිනිකාව"
+    },
+    "sk": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "sl": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "so": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "es": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "sr": {
+      "official": "Доминика",
+      "common": "Доминика"
+    },
+    "sw": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "sv": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "ta": {
+      "official": "டொமினிக்கா",
+      "common": "டொமினிக்கா"
+    },
+    "tt": {
+      "official": "Доминика",
+      "common": "Доминика"
+    },
+    "te": {
+      "official": "డొమినికా",
+      "common": "డొమినికా"
+    },
+    "tl": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "th": {
+      "official": "โดมินิกา",
+      "common": "โดมินิกา"
+    },
+    "ti": {
+      "official": "ዶሚኒካ",
+      "common": "ዶሚኒካ"
+    },
+    "tk": {
+      "official": "Dominiki",
+      "common": "Dominiki"
+    },
+    "tr": {
+      "official": "Dominik",
+      "common": "Dominik"
+    },
+    "ug": {
+      "official": "دومىنىكا",
+      "common": "دومىنىكا"
+    },
+    "uk": {
+      "official": "Домініка",
+      "common": "Домініка"
+    },
+    "ve": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "vi": {
+      "official": "Đô-mi-ni-cạ",
+      "common": "Đô-mi-ni-cạ"
+    },
+    "cy": {
+      "official": "Dominica",
+      "common": "Dominica"
+    },
+    "wa": {
+      "official": "Dominike",
+      "common": "Dominike"
+    },
+    "wo": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "xh": {
+      "official": "Romania",
+      "common": "Romania"
+    },
+    "zu": {
+      "official": "I-Romaniya",
+      "common": "I-Romaniya"
+    }
+  }
+}

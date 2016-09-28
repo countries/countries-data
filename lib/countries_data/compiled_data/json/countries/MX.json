@@ -1,0 +1,451 @@
+{
+  "continent": "North America",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}} {{region_short}}\n{{country}}",
+  "alpha2": "MX",
+  "alpha3": "MEX",
+  "country_code": "52",
+  "international_prefix": "00",
+  "ioc": "MEX",
+  "gec": "MX",
+  "name": "Mexico",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8,
+    9,
+    10
+  ],
+  "national_prefix": "01",
+  "number": "484",
+  "region": "Americas",
+  "subregion": "Central America",
+  "world_region": "AMER",
+  "un_locode": "MX",
+  "nationality": "Mexican",
+  "postal_code": true,
+  "unofficial_names": [
+    "Mexico",
+    "Mexiko",
+    "Mexique",
+    "México",
+    "メキシコ"
+  ],
+  "languages_official": [
+    "es"
+  ],
+  "languages_spoken": [
+    "es"
+  ],
+  "geo": {
+    "latitude": 23.634501,
+    "latitude_dec": "23.909093856811523",
+    "longitude": -102.552784,
+    "longitude_dec": "-102.6333999633789",
+    "max_latitude": 32.7187629,
+    "max_longitude": -86.7105711,
+    "min_latitude": 14.5345486,
+    "min_longitude": -118.3649292,
+    "bounds": {
+      "northeast": {
+        "lat": 32.7187629,
+        "lng": -86.7105711
+      },
+      "southwest": {
+        "lat": 14.5345486,
+        "lng": -118.3649292
+      }
+    }
+  },
+  "currency_code": "MXN",
+  "postal_address_data": {
+    "lang": "es",
+    "upper": "CSZ",
+    "sub_zipexs": "20000,20999~21000,22999~23000,23999~24000,24999~29000,30999~31000,33999~25000,27999~28000,28999~00000,16999~34000,35999~50000,57999~36000,38999~39000,41999~42000,43999~44000,49999~58000,61999~62000,62999~63000,63999~64000,67999~68000,71999~72000,75999~76000,76999~77000,77999~78000,79999~80000,82999~83000,85999~86000,86999~87000,89999~90000,90999~91000,96999~97000,97999~98000,99999",
+    "zipex": "02860,77520,06082",
+    "name": "MEXICO",
+    "zip": "\\d{5}",
+    "sublocality_name_type": "neighborhood",
+    "require": "ACZ",
+    "state_name_type": "state",
+    "id": "data/MX",
+    "languages": "es",
+    "sub_keys": "AGS~BC~BCS~CAMP~CHIS~CHIH~COAH~COL~D.F.~DGO~MEX~GTO~GRO~HGO~JAL~MICH~MOR~NAY~NL~OAX~PUE~QRO~QROO~SLP~SIN~SON~TAB~TAMPS~TLAX~VER~YUC~ZAC",
+    "posturl": "http://www.correosdemexico.gob.mx/ServiciosLinea/Paginas/ccpostales.aspx",
+    "sub_isoids": "AGU~BCN~BCS~CAM~CHP~CHH~COA~COL~DIF~DUR~MEX~GUA~GRO~HID~JAL~MIC~MOR~NAY~NLE~OAX~PUE~QUE~ROO~SLP~SIN~SON~TAB~TAM~TLA~VER~YUC~ZAC",
+    "key": "MX",
+    "fmt": "%N%n%O%n%A%n%D%n%Z %C, %S",
+    "sub_names": "Aguascalientes~Baja California~Baja California Sur~Campeche~Chiapas~Chihuahua~Coahuila~Colima~Distrito Federal~Durango~Estado de México~Guanajuato~Guerrero~Hidalgo~Jalisco~Michoacán~Morelos~Nayarit~Nuevo León~Oaxaca~Puebla~Querétaro~Quintana Roo~San Luís Potosí~Sinalóa~Sonora~Tabasco~Tamaulipas~Tlaxcala~Veracruz~Yucatán~Zacatecas",
+    "sub_zips": "20~2[12]~23~24~29|30~3[1-3]~2[5-7]~28~0|1[0-6]~3[45]~5[0-7]~3[6-8]~39|4[01]~4[23]~4[4-9]~5[89]|6[01]~62~63~6[4-7]~6[89]|7[01]~7[2-5]~76~77~7[89]~8[0-2]~8[3-5]~86~8[7-9]~90~9[1-6]~97~9[89]"
+  },
+  "translations": {
+    "af": {
+      "official": "Meksiko",
+      "common": "Meksiko"
+    },
+    "sq": {
+      "official": "Meksika",
+      "common": "Meksika"
+    },
+    "am": {
+      "official": "ሣጤሲጥ",
+      "common": "ሣጤሲጥ"
+    },
+    "ar": {
+      "official": "المكسيك",
+      "common": "المكسيك"
+    },
+    "hy": {
+      "official": "Մեքսիկա",
+      "common": "Մեքսիկա"
+    },
+    "as": {
+      "official": "মেক্সিকো",
+      "common": "মেক্সিকো"
+    },
+    "az": {
+      "official": "Meksika",
+      "common": "Meksika"
+    },
+    "eu": {
+      "official": "Mexiko",
+      "common": "Mexiko"
+    },
+    "be": {
+      "official": "Мексіка",
+      "common": "Мексіка"
+    },
+    "bn": {
+      "official": "মেক্সিকো",
+      "common": "মেক্সিকো"
+    },
+    "bs": {
+      "official": "Meksiko",
+      "common": "Meksiko"
+    },
+    "br": {
+      "official": "Mec'hiko",
+      "common": "Mec'hiko"
+    },
+    "bg": {
+      "official": "Мексико",
+      "common": "Мексико"
+    },
+    "ca": {
+      "official": "Mèxic",
+      "common": "Mèxic"
+    },
+    "zh": {
+      "official": "墨西哥",
+      "common": "墨西哥"
+    },
+    "cs": {
+      "official": "Mexiko",
+      "common": "Mexiko"
+    },
+    "da": {
+      "official": "Mexico",
+      "common": "Mexico"
+    },
+    "nl": {
+      "official": "Mexico",
+      "common": "Mexico"
+    },
+    "dz": {
+      "official": "མེག་སི་ཀོ།",
+      "common": "མེག་སི་ཀོ།"
+    },
+    "en": {
+      "official": "Mexico",
+      "common": "Mexico"
+    },
+    "eo": {
+      "official": "Meksiko",
+      "common": "Meksiko"
+    },
+    "et": {
+      "official": "Mehhiko",
+      "common": "Mehhiko"
+    },
+    "fo": {
+      "official": "Meksiko",
+      "common": "Meksiko"
+    },
+    "fi": {
+      "official": "Meksiko",
+      "common": "Meksiko"
+    },
+    "fr": {
+      "official": "Mexique",
+      "common": "Mexique"
+    },
+    "ka": {
+      "official": "მექსიკა",
+      "common": "მექსიკა"
+    },
+    "de": {
+      "official": "Mexiko",
+      "common": "Mexiko"
+    },
+    "ga": {
+      "official": "Meicsiceo",
+      "common": "Meicsiceo"
+    },
+    "gl": {
+      "official": "México",
+      "common": "México"
+    },
+    "el": {
+      "official": "Μεξικό",
+      "common": "Μεξικό"
+    },
+    "gu": {
+      "official": "મેક્સિકો",
+      "common": "મેક્સિકો"
+    },
+    "he": {
+      "official": "מקסיקו",
+      "common": "מקסיקו"
+    },
+    "hi": {
+      "official": "मेक्सिको",
+      "common": "मेक्सिको"
+    },
+    "hr": {
+      "official": "Meksiko",
+      "common": "Meksiko"
+    },
+    "hu": {
+      "official": "Mexikó",
+      "common": "Mexikó"
+    },
+    "is": {
+      "official": "Mexíkó",
+      "common": "Mexíkó"
+    },
+    "ia": {
+      "official": "Mexico",
+      "common": "Mexico"
+    },
+    "id": {
+      "official": "Meksiko",
+      "common": "Meksiko"
+    },
+    "it": {
+      "official": "Messico",
+      "common": "Messico"
+    },
+    "ja": {
+      "official": "メキシコ",
+      "common": "メキシコ"
+    },
+    "kn": {
+      "official": "ಹೊಂಡುರಾಸ್",
+      "common": "ಹೊಂಡುರಾಸ್"
+    },
+    "kk": {
+      "official": "Мексика",
+      "common": "Мексика"
+    },
+    "km": {
+      "official": "ម៉ិចស៊ិក",
+      "common": "ម៉ិចស៊ិក"
+    },
+    "rw": {
+      "official": "Megizike",
+      "common": "Megizike"
+    },
+    "ko": {
+      "official": "멕시코",
+      "common": "멕시코"
+    },
+    "ku": {
+      "official": "Mexîko",
+      "common": "Mexîko"
+    },
+    "lv": {
+      "official": "Meksika",
+      "common": "Meksika"
+    },
+    "lt": {
+      "official": "Meksika",
+      "common": "Meksika"
+    },
+    "mk": {
+      "official": "Мексико",
+      "common": "Мексико"
+    },
+    "ml": {
+      "official": "മെക്സികോ",
+      "common": "മെക്സികോ"
+    },
+    "mi": {
+      "official": "Mehiko",
+      "common": "Mehiko"
+    },
+    "mr": {
+      "official": "मेक्सिको",
+      "common": "मेक्सिको"
+    },
+    "ms": {
+      "official": "Meksiko",
+      "common": "Meksiko"
+    },
+    "mt": {
+      "official": "Messiku",
+      "common": "Messiku"
+    },
+    "mn": {
+      "official": "Мексик",
+      "common": "Мексик"
+    },
+    "ne": {
+      "official": "मेक्सिको",
+      "common": "मेक्सिको"
+    },
+    "nn": {
+      "official": "Mexico",
+      "common": "Mexico"
+    },
+    "nb": {
+      "official": "Mexico",
+      "common": "Mexico"
+    },
+    "oc": {
+      "official": "Mèxic",
+      "common": "Mèxic"
+    },
+    "or": {
+      "official": "ମେକ୍ସିକୋ",
+      "common": "ମେକ୍ସିକୋ"
+    },
+    "pa": {
+      "official": "ਮੈਕਸੀਕੋ",
+      "common": "ਮੈਕਸੀਕੋ"
+    },
+    "fa": {
+      "official": "مکزیک",
+      "common": "مکزیک"
+    },
+    "pl": {
+      "official": "Meksyk",
+      "common": "Meksyk"
+    },
+    "pt": {
+      "official": "México",
+      "common": "México"
+    },
+    "ps": {
+      "official": "Mexico",
+      "common": "Mexico"
+    },
+    "ro": {
+      "official": "Mexic",
+      "common": "Mexic"
+    },
+    "ru": {
+      "official": "Мексика",
+      "common": "Мексика"
+    },
+    "si": {
+      "official": "මෙක්සිකෝව",
+      "common": "මෙක්සිකෝව"
+    },
+    "sk": {
+      "official": "Mexiko",
+      "common": "Mexiko"
+    },
+    "sl": {
+      "official": "Mehika",
+      "common": "Mehika"
+    },
+    "so": {
+      "official": "Meksiko",
+      "common": "Meksiko"
+    },
+    "es": {
+      "official": "México",
+      "common": "México"
+    },
+    "sr": {
+      "official": "Мексико",
+      "common": "Мексико"
+    },
+    "sw": {
+      "official": "Mexico",
+      "common": "Mexico"
+    },
+    "sv": {
+      "official": "Mexico",
+      "common": "Mexico"
+    },
+    "ta": {
+      "official": "மெக்ஸிகோ",
+      "common": "மெக்ஸிகோ"
+    },
+    "tt": {
+      "official": "Мексико",
+      "common": "Мексико"
+    },
+    "te": {
+      "official": "మేక్సికో",
+      "common": "మేక్సికో"
+    },
+    "tl": {
+      "official": "Mehiko",
+      "common": "Mehiko"
+    },
+    "th": {
+      "official": "เม็กซิโก",
+      "common": "เม็กซิโก"
+    },
+    "ti": {
+      "official": "ሜክሲኮ",
+      "common": "ሜክሲኮ"
+    },
+    "tk": {
+      "official": "Meksikanyň",
+      "common": "Meksikanyň"
+    },
+    "tr": {
+      "official": "Meksika",
+      "common": "Meksika"
+    },
+    "ug": {
+      "official": "مېكسىكا",
+      "common": "مېكسىكا"
+    },
+    "uk": {
+      "official": "Мексика",
+      "common": "Мексика"
+    },
+    "ve": {
+      "official": "Mexico",
+      "common": "Mexico"
+    },
+    "vi": {
+      "official": "Mê-hi-cô",
+      "common": "Mê-hi-cô"
+    },
+    "cy": {
+      "official": "Mecsico",
+      "common": "Mecsico"
+    },
+    "wa": {
+      "official": "Mecsike",
+      "common": "Mecsike"
+    },
+    "wo": {
+      "official": "Meksik",
+      "common": "Meksik"
+    },
+    "xh": {
+      "official": "Mexico",
+      "common": "Mexico"
+    },
+    "zu": {
+      "official": "I-Mexico",
+      "common": "I-Mexico"
+    }
+  }
+}

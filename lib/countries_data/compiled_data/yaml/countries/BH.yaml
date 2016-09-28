@@ -1,0 +1,337 @@
+---
+continent: Asia
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: BH
+alpha3: BHR
+country_code: '973'
+international_prefix: '00'
+ioc: BRN
+gec: BA
+name: Bahrain
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: None
+number: 048
+region: Asia
+subregion: Western Asia
+world_region: EMEA
+un_locode: BH
+nationality: Bahraini
+postal_code: true
+unofficial_names:
+- Bahrain
+- البحرين
+- Bahreïn
+- Bahrein
+- バーレーン
+languages_official:
+- ar
+languages_spoken:
+- ar
+geo:
+  latitude: 26.0667
+  latitude_dec: '26.094240188598633'
+  longitude: 50.5577
+  longitude_dec: '50.54299545288086'
+  max_latitude: 26.3303934
+  max_longitude: 50.824846
+  min_latitude: 25.5564577
+  min_longitude: 50.37815089999999
+  bounds:
+    northeast:
+      lat: 26.3303934
+      lng: 50.824846
+    southwest:
+      lat: 25.5564577
+      lng: 50.37815089999999
+currency_code: BHD
+postal_address_data:
+  zipex: '317'
+  name: BAHRAIN
+  zip: "(?:\\d|1[0-2])\\d{2}"
+  fmt: "%N%n%O%n%A%n%C %Z"
+  key: BH
+  id: data/BH
+translations:
+  af:
+    official: Bahrein
+    common: Bahrein
+  sq:
+    official: Bahrain
+    common: Bahrain
+  am:
+    official: ባህሳን
+    common: ባህሳን
+  ar:
+    official: البحرين
+    common: البحرين
+  hy:
+    official: Բահրեյն
+    common: Բահրեյն
+  as:
+    official: বাহৰেইন
+    common: বাহৰেইন
+  az:
+    official: Bahreyn
+    common: Bahreyn
+  eu:
+    official: Bahrain
+    common: Bahrain
+  be:
+    official: Бахрэйн
+    common: Бахрэйн
+  bn:
+    official: বাহরেইন
+    common: বাহরেইন
+  bs:
+    official: Bahrein
+    common: Bahrein
+  br:
+    official: Bahrain
+    common: Bahrain
+  bg:
+    official: Бахрейн
+    common: Бахрейн
+  ca:
+    official: Bahrain
+    common: Bahrain
+  zh:
+    official: 巴林
+    common: 巴林
+  cs:
+    official: Bahrajn
+    common: Bahrajn
+  da:
+    official: Bahrain
+    common: Bahrain
+  nl:
+    official: Bahrein
+    common: Bahrein
+  dz:
+    official: བཱ་རེན།
+    common: བཱ་རེན།
+  en:
+    official: Bahrain
+    common: Bahrain
+  eo:
+    official: Barejno
+    common: Barejno
+  et:
+    official: Bahrein
+    common: Bahrein
+  fo:
+    official: Bahrain
+    common: Bahrain
+  fi:
+    official: Bahrain
+    common: Bahrain
+  fr:
+    official: Bahreïn
+    common: Bahreïn
+  ka:
+    official: ბაჰრეინი
+    common: ბაჰრეინი
+  de:
+    official: Bahrain
+    common: Bahrain
+  ga:
+    official: Bairéin
+    common: Bairéin
+  gl:
+    official: Bahrein
+    common: Bahrein
+  el:
+    official: Μπαχρέιν
+    common: Μπαχρέιν
+  gu:
+    official: બહેરિન
+    common: બહેરિન
+  he:
+    official: בחריין
+    common: בחריין
+  hi:
+    official: बहरीन
+    common: बहरीन
+  hr:
+    official: Bahrein
+    common: Bahrein
+  hu:
+    official: Bahrein
+    common: Bahrein
+  is:
+    official: Barein
+    common: Barein
+  ia:
+    official: Bahrein
+    common: Bahrein
+  id:
+    official: Bahrain
+    common: Bahrain
+  it:
+    official: Bahrein
+    common: Bahrein
+  ja:
+    official: バーレーン
+    common: バーレーン
+  kn:
+    official: ಬಹರೈನ್
+    common: ಬಹರೈನ್
+  kk:
+    official: Бахрейн
+    common: Бахрейн
+  km:
+    official: បារ៉ែន
+    common: បារ៉ែន
+  rw:
+    official: Bahirayini
+    common: Bahirayini
+  ko:
+    official: 바레인
+    common: 바레인
+  ku:
+    official: Bahrayîn
+    common: Bahrayîn
+  lv:
+    official: Bahreina
+    common: Bahreina
+  lt:
+    official: Bahreinas
+    common: Bahreinas
+  mk:
+    official: Бахреин
+    common: Бахреин
+  ml:
+    official: ബഹറൈന്‍
+    common: ബഹറൈന്‍
+  mi:
+    official: Bahrain
+    common: Bahrain
+  mr:
+    official: बहारिन
+    common: बहारिन
+  ms:
+    official: Bahrain
+    common: Bahrain
+  mt:
+    official: Brażil
+    common: Brażil
+  mn:
+    official: Bahrain
+    common: Bahrain
+  ne:
+    official: बहराइन
+    common: बहराइन
+  nn:
+    official: Bahrain
+    common: Bahrain
+  nb:
+    official: Bahrain
+    common: Bahrain
+  oc:
+    official: Barein
+    common: Barein
+  or:
+    official: ବାହାରୀନ
+    common: ବାହାରୀନ
+  pa:
+    official: ਬਹਿਰਾਨ
+    common: ਬਹਿਰਾਨ
+  fa:
+    official: بحرین
+    common: بحرین
+  pl:
+    official: Bahrajn
+    common: Bahrajn
+  pt:
+    official: Barein
+    common: Barein
+  ps:
+    official: Bahrain
+    common: Bahrain
+  ro:
+    official: Bahrein
+    common: Bahrein
+  ru:
+    official: Бахрейн
+    common: Бахрейн
+  si:
+    official: බහරේන්
+    common: බහරේන්
+  sk:
+    official: Bahrajn
+    common: Bahrajn
+  sl:
+    official: Bahrajn
+    common: Bahrajn
+  so:
+    official: Baxrayn
+    common: Baxrayn
+  es:
+    official: Bahrein
+    common: Bahrein
+  sr:
+    official: Бахреин
+    common: Бахреин
+  sw:
+    official: Bahrain
+    common: Bahrain
+  sv:
+    official: Bahrain
+    common: Bahrain
+  ta:
+    official: பஹ்ரெயின்
+    common: பஹ்ரெயின்
+  tt:
+    official: Баһрейн
+    common: Баһрейн
+  te:
+    official: బహరిన్
+    common: బహరిన్
+  tl:
+    official: Bahrain
+    common: Bahrain
+  th:
+    official: บาห์เรน
+    common: บาห์เรน
+  ti:
+    official: ባህሬን
+    common: ባህሬን
+  tk:
+    official: Bahreýn
+    common: Bahreýn
+  tr:
+    official: Bahreyn
+    common: Bahreyn
+  ug:
+    official: بەھرەين
+    common: بەھرەين
+  uk:
+    official: Бахрейн
+    common: Бахрейн
+  ve:
+    official: Bahrain
+    common: Bahrain
+  vi:
+    official: Ba-rainh
+    common: Ba-rainh
+  cy:
+    official: Bahrain
+    common: Bahrain
+  wa:
+    official: Bareyn
+    common: Bareyn
+  wo:
+    official: Bahrayin
+    common: Bahrayin
+  xh:
+    official: Brazil
+    common: Brazil
+  zu:
+    official: I Brazili
+    common: I Brazili

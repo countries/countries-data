@@ -1,0 +1,1000 @@
+{
+  "names": {
+    "AF": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "AX": {
+      "official": "Ålandy",
+      "common": "Ålandy"
+    },
+    "AL": {
+      "official": "Albánsko",
+      "common": "Albánsko"
+    },
+    "DZ": {
+      "official": "Alžírsko",
+      "common": "Alžírsko"
+    },
+    "AS": {
+      "official": "Americká Samoa",
+      "common": "Americká Samoa"
+    },
+    "AD": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "AO": {
+      "official": "Angola",
+      "common": "Angola"
+    },
+    "AI": {
+      "official": "Anguilla",
+      "common": "Anguilla"
+    },
+    "AQ": {
+      "official": "Antarktída",
+      "common": "Antarktída"
+    },
+    "AG": {
+      "official": "Antigua a Barbuda",
+      "common": "Antigua a Barbuda"
+    },
+    "AR": {
+      "official": "Argentína",
+      "common": "Argentína"
+    },
+    "AM": {
+      "official": "Arménsko",
+      "common": "Arménsko"
+    },
+    "AW": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "AU": {
+      "official": "Austrália",
+      "common": "Austrália"
+    },
+    "AT": {
+      "official": "Rakúsko",
+      "common": "Rakúsko"
+    },
+    "AZ": {
+      "official": "Azerbajdžan",
+      "common": "Azerbajdžan"
+    },
+    "BS": {
+      "official": "Bahamy",
+      "common": "Bahamy"
+    },
+    "BH": {
+      "official": "Bahrajn",
+      "common": "Bahrajn"
+    },
+    "BD": {
+      "official": "Bangladéš",
+      "common": "Bangladéš"
+    },
+    "BB": {
+      "official": "Barbados",
+      "common": "Barbados"
+    },
+    "BY": {
+      "official": "Bielorusko",
+      "common": "Bielorusko"
+    },
+    "BE": {
+      "official": "Belgicko",
+      "common": "Belgicko"
+    },
+    "BZ": {
+      "official": "Belize",
+      "common": "Belize"
+    },
+    "BJ": {
+      "official": "Benin",
+      "common": "Benin"
+    },
+    "BM": {
+      "official": "Bermudy",
+      "common": "Bermudy"
+    },
+    "BT": {
+      "official": "Bhután",
+      "common": "Bhután"
+    },
+    "BO": {
+      "official": "Bolívijská republika",
+      "common": "Bolívijská republika"
+    },
+    "BQ": {
+      "official": "Bonaire, Sint Eustatius a Saba",
+      "common": "Bonaire, Sint Eustatius a Saba"
+    },
+    "BA": {
+      "official": "Bosna a Hercegovina",
+      "common": "Bosna a Hercegovina"
+    },
+    "BW": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "BV": {
+      "official": "Bouvetov ostrov",
+      "common": "Bouvetov ostrov"
+    },
+    "BR": {
+      "official": "Brazília",
+      "common": "Brazília"
+    },
+    "IO": {
+      "official": "Britské indickooceánske územie",
+      "common": "Britské indickooceánske územie"
+    },
+    "BN": {
+      "official": "Brunejsko-darussalamský štát",
+      "common": "Brunejsko-darussalamský štát"
+    },
+    "BG": {
+      "official": "Bulharsko",
+      "common": "Bulharsko"
+    },
+    "BF": {
+      "official": "Burkina Faso",
+      "common": "Burkina Faso"
+    },
+    "BI": {
+      "official": "Burundi",
+      "common": "Burundi"
+    },
+    "KH": {
+      "official": "Kambodža",
+      "common": "Kambodža"
+    },
+    "CM": {
+      "official": "Kamerun",
+      "common": "Kamerun"
+    },
+    "CA": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "CV": {
+      "official": "Kapverdy",
+      "common": "Kapverdy"
+    },
+    "KY": {
+      "official": "Kajmanie ostrovy",
+      "common": "Kajmanie ostrovy"
+    },
+    "CF": {
+      "official": "Stredoafrická republika",
+      "common": "Stredoafrická republika"
+    },
+    "TD": {
+      "official": "Čad",
+      "common": "Čad"
+    },
+    "CL": {
+      "official": "Čile",
+      "common": "Čile"
+    },
+    "CN": {
+      "official": "Čína",
+      "common": "Čína"
+    },
+    "CX": {
+      "official": "Vianočný ostrov",
+      "common": "Vianočný ostrov"
+    },
+    "CC": {
+      "official": "Kokosové ostrovy",
+      "common": "Kokosové ostrovy"
+    },
+    "CO": {
+      "official": "Kolumbia",
+      "common": "Kolumbia"
+    },
+    "KM": {
+      "official": "Komory",
+      "common": "Komory"
+    },
+    "CG": {
+      "official": "Kongo",
+      "common": "Kongo"
+    },
+    "CD": {
+      "official": "Konžská demokratická republika",
+      "common": "Konžská demokratická republika"
+    },
+    "CK": {
+      "official": "Cookove ostrovy",
+      "common": "Cookove ostrovy"
+    },
+    "CR": {
+      "official": "Kostarika",
+      "common": "Kostarika"
+    },
+    "CI": {
+      "official": "Pobrežie Slonoviny",
+      "common": "Pobrežie Slonoviny"
+    },
+    "HR": {
+      "official": "Chorvátsko",
+      "common": "Chorvátsko"
+    },
+    "CU": {
+      "official": "Kuba",
+      "common": "Kuba"
+    },
+    "CW": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "CY": {
+      "official": "Cyprus",
+      "common": "Cyprus"
+    },
+    "CZ": {
+      "official": "Česká republika",
+      "common": "Česká republika"
+    },
+    "DK": {
+      "official": "Dánsko",
+      "common": "Dánsko"
+    },
+    "DJ": {
+      "official": "Džibutsko",
+      "common": "Džibutsko"
+    },
+    "DM": {
+      "official": "Dominika",
+      "common": "Dominika"
+    },
+    "DO": {
+      "official": "Dominikánska republika",
+      "common": "Dominikánska republika"
+    },
+    "EC": {
+      "official": "Ekvádor",
+      "common": "Ekvádor"
+    },
+    "EG": {
+      "official": "Egypt",
+      "common": "Egypt"
+    },
+    "SV": {
+      "official": "Salvádor",
+      "common": "Salvádor"
+    },
+    "GQ": {
+      "official": "Rovníková Guinea",
+      "common": "Rovníková Guinea"
+    },
+    "ER": {
+      "official": "Eritrea",
+      "common": "Eritrea"
+    },
+    "EE": {
+      "official": "Estónsko",
+      "common": "Estónsko"
+    },
+    "ET": {
+      "official": "Etiópia",
+      "common": "Etiópia"
+    },
+    "FK": {
+      "official": "Falklandy (Malvíny)",
+      "common": "Falklandy (Malvíny)"
+    },
+    "FO": {
+      "official": "Faerské ostrovy",
+      "common": "Faerské ostrovy"
+    },
+    "FJ": {
+      "official": "Fidži",
+      "common": "Fidži"
+    },
+    "FI": {
+      "official": "Fínsko",
+      "common": "Fínsko"
+    },
+    "FR": {
+      "official": "Francúzsko",
+      "common": "Francúzsko"
+    },
+    "GF": {
+      "official": "Francúzska Guyana",
+      "common": "Francúzska Guyana"
+    },
+    "PF": {
+      "official": "Francúzska Polynézia",
+      "common": "Francúzska Polynézia"
+    },
+    "TF": {
+      "official": "Francúzske južné a antarktické územia",
+      "common": "Francúzske južné a antarktické územia"
+    },
+    "GA": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "GM": {
+      "official": "Gambia",
+      "common": "Gambia"
+    },
+    "GE": {
+      "official": "Gruzínsko",
+      "common": "Gruzínsko"
+    },
+    "DE": {
+      "official": "Nemecko",
+      "common": "Nemecko"
+    },
+    "GH": {
+      "official": "Ghana",
+      "common": "Ghana"
+    },
+    "GI": {
+      "official": "Gibraltár",
+      "common": "Gibraltár"
+    },
+    "GR": {
+      "official": "Grécko",
+      "common": "Grécko"
+    },
+    "GL": {
+      "official": "Grónsko",
+      "common": "Grónsko"
+    },
+    "GD": {
+      "official": "Grenada",
+      "common": "Grenada"
+    },
+    "GP": {
+      "official": "Guadeloupe",
+      "common": "Guadeloupe"
+    },
+    "GU": {
+      "official": "Guam",
+      "common": "Guam"
+    },
+    "GT": {
+      "official": "Guatemala",
+      "common": "Guatemala"
+    },
+    "GG": {
+      "official": "Guernsey",
+      "common": "Guernsey"
+    },
+    "GN": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "GW": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "GY": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "HT": {
+      "official": "Haiti",
+      "common": "Haiti"
+    },
+    "HM": {
+      "official": "Heardov ostrov",
+      "common": "Heardov ostrov"
+    },
+    "VA": {
+      "official": "Svätá stolica (Vatikánsky mestský štát)",
+      "common": "Svätá stolica (Vatikánsky mestský štát)"
+    },
+    "HN": {
+      "official": "Honduras",
+      "common": "Honduras"
+    },
+    "HK": {
+      "official": "Hongkong",
+      "common": "Hongkong"
+    },
+    "HU": {
+      "official": "Maďarsko",
+      "common": "Maďarsko"
+    },
+    "IS": {
+      "official": "Island",
+      "common": "Island"
+    },
+    "IN": {
+      "official": "India",
+      "common": "India"
+    },
+    "ID": {
+      "official": "Indonézia",
+      "common": "Indonézia"
+    },
+    "IR": {
+      "official": "Iránska islamská republika",
+      "common": "Iránska islamská republika"
+    },
+    "IQ": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "IE": {
+      "official": "Írsko",
+      "common": "Írsko"
+    },
+    "IM": {
+      "official": "Man",
+      "common": "Man"
+    },
+    "IL": {
+      "official": "Izrael",
+      "common": "Izrael"
+    },
+    "IT": {
+      "official": "Taliansko",
+      "common": "Taliansko"
+    },
+    "JM": {
+      "official": "Jamajka",
+      "common": "Jamajka"
+    },
+    "JP": {
+      "official": "Japonsko",
+      "common": "Japonsko"
+    },
+    "JE": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "JO": {
+      "official": "Jordánsko",
+      "common": "Jordánsko"
+    },
+    "KZ": {
+      "official": "Kazachstan",
+      "common": "Kazachstan"
+    },
+    "KE": {
+      "official": "Keňa",
+      "common": "Keňa"
+    },
+    "KI": {
+      "official": "Kiribati",
+      "common": "Kiribati"
+    },
+    "KP": {
+      "official": "Kórejská ľudovodemokratická republika",
+      "common": "Kórejská ľudovodemokratická republika"
+    },
+    "KR": {
+      "official": "Kórejská republika",
+      "common": "Kórejská republika"
+    },
+    "KW": {
+      "official": "Kuvajt",
+      "common": "Kuvajt"
+    },
+    "KG": {
+      "official": "Kirgizsko",
+      "common": "Kirgizsko"
+    },
+    "LA": {
+      "official": "Laoská ľudovodemokratická republika",
+      "common": "Laoská ľudovodemokratická republika"
+    },
+    "LV": {
+      "official": "Lotyšsko",
+      "common": "Lotyšsko"
+    },
+    "LB": {
+      "official": "Libanon",
+      "common": "Libanon"
+    },
+    "LS": {
+      "official": "Lesotho",
+      "common": "Lesotho"
+    },
+    "LR": {
+      "official": "Libéria",
+      "common": "Libéria"
+    },
+    "LY": {
+      "official": "Líbya",
+      "common": "Líbya"
+    },
+    "LI": {
+      "official": "Lichtenštajnsko",
+      "common": "Lichtenštajnsko"
+    },
+    "LT": {
+      "official": "Litva",
+      "common": "Litva"
+    },
+    "LU": {
+      "official": "Luxembursko",
+      "common": "Luxembursko"
+    },
+    "MO": {
+      "official": "Macao",
+      "common": "Macao"
+    },
+    "MK": {
+      "official": "Macedónska republika",
+      "common": "Macedónska republika"
+    },
+    "MG": {
+      "official": "Madagaskar",
+      "common": "Madagaskar"
+    },
+    "MW": {
+      "official": "Malawi",
+      "common": "Malawi"
+    },
+    "MY": {
+      "official": "Malajzia",
+      "common": "Malajzia"
+    },
+    "MV": {
+      "official": "Maldivy",
+      "common": "Maldivy"
+    },
+    "ML": {
+      "official": "Mali",
+      "common": "Mali"
+    },
+    "MT": {
+      "official": "Malta",
+      "common": "Malta"
+    },
+    "MH": {
+      "official": "Marshallove ostrovy",
+      "common": "Marshallove ostrovy"
+    },
+    "MQ": {
+      "official": "Martinik",
+      "common": "Martinik"
+    },
+    "MR": {
+      "official": "Mauritánia",
+      "common": "Mauritánia"
+    },
+    "MU": {
+      "official": "Maurícius",
+      "common": "Maurícius"
+    },
+    "YT": {
+      "official": "Mayotte",
+      "common": "Mayotte"
+    },
+    "MX": {
+      "official": "Mexiko",
+      "common": "Mexiko"
+    },
+    "FM": {
+      "official": "Mikronézske federatívne štáty",
+      "common": "Mikronézske federatívne štáty"
+    },
+    "MD": {
+      "official": "Moldavská republika",
+      "common": "Moldavská republika"
+    },
+    "MC": {
+      "official": "Monako",
+      "common": "Monako"
+    },
+    "MN": {
+      "official": "Mongolsko",
+      "common": "Mongolsko"
+    },
+    "ME": {
+      "official": "Čierna Hora",
+      "common": "Čierna Hora"
+    },
+    "MS": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "MA": {
+      "official": "Maroko",
+      "common": "Maroko"
+    },
+    "MZ": {
+      "official": "Mozambik",
+      "common": "Mozambik"
+    },
+    "MM": {
+      "official": "Mjanmarsko",
+      "common": "Mjanmarsko"
+    },
+    "NA": {
+      "official": "Namíbia",
+      "common": "Namíbia"
+    },
+    "NR": {
+      "official": "Nauru",
+      "common": "Nauru"
+    },
+    "NP": {
+      "official": "Nepál",
+      "common": "Nepál"
+    },
+    "NL": {
+      "official": "Holandsko",
+      "common": "Holandsko"
+    },
+    "NC": {
+      "official": "Nová Kaledónia",
+      "common": "Nová Kaledónia"
+    },
+    "NZ": {
+      "official": "Nový Zéland",
+      "common": "Nový Zéland"
+    },
+    "NI": {
+      "official": "Nikaragua",
+      "common": "Nikaragua"
+    },
+    "NE": {
+      "official": "Niger",
+      "common": "Niger"
+    },
+    "NG": {
+      "official": "Nigéria",
+      "common": "Nigéria"
+    },
+    "NU": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "NF": {
+      "official": "Norfolk",
+      "common": "Norfolk"
+    },
+    "MP": {
+      "official": "Severné Mariány",
+      "common": "Severné Mariány"
+    },
+    "NO": {
+      "official": "Nórsko",
+      "common": "Nórsko"
+    },
+    "OM": {
+      "official": "Omán",
+      "common": "Omán"
+    },
+    "PK": {
+      "official": "Pakistan",
+      "common": "Pakistan"
+    },
+    "PW": {
+      "official": "Palau",
+      "common": "Palau"
+    },
+    "PS": {
+      "official": "Palestína",
+      "common": "Palestína"
+    },
+    "PA": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "PG": {
+      "official": "Papua - Nová Guinea",
+      "common": "Papua - Nová Guinea"
+    },
+    "PY": {
+      "official": "Paraguaj",
+      "common": "Paraguaj"
+    },
+    "PE": {
+      "official": "Peru",
+      "common": "Peru"
+    },
+    "PH": {
+      "official": "Filipíny",
+      "common": "Filipíny"
+    },
+    "PN": {
+      "official": "Pitcairnove ostrovy",
+      "common": "Pitcairnove ostrovy"
+    },
+    "PL": {
+      "official": "Poľsko",
+      "common": "Poľsko"
+    },
+    "PT": {
+      "official": "Portugalsko",
+      "common": "Portugalsko"
+    },
+    "PR": {
+      "official": "Portoriko",
+      "common": "Portoriko"
+    },
+    "QA": {
+      "official": "Katar",
+      "common": "Katar"
+    },
+    "RE": {
+      "official": "Réunion",
+      "common": "Réunion"
+    },
+    "RO": {
+      "official": "Rumunsko",
+      "common": "Rumunsko"
+    },
+    "RU": {
+      "official": "Ruská federácia",
+      "common": "Ruská federácia"
+    },
+    "RW": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "BL": {
+      "official": "Svätý Bartolomej",
+      "common": "Svätý Bartolomej"
+    },
+    "SH": {
+      "official": "Svätá Helena, Ascension a Tristan da Cunha",
+      "common": "Svätá Helena, Ascension a Tristan da Cunha"
+    },
+    "KN": {
+      "official": "Svätý Krištof a Nevis",
+      "common": "Svätý Krištof a Nevis"
+    },
+    "LC": {
+      "official": "Svätá Lucia",
+      "common": "Svätá Lucia"
+    },
+    "MF": {
+      "official": "Saint Martin (francúzska časť)",
+      "common": "Saint Martin (francúzska časť)"
+    },
+    "PM": {
+      "official": "Saint Pierre a Miquelon",
+      "common": "Saint Pierre a Miquelon"
+    },
+    "VC": {
+      "official": "Svätý Vincent a Grenadíny",
+      "common": "Svätý Vincent a Grenadíny"
+    },
+    "WS": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "SM": {
+      "official": "San Maríno",
+      "common": "San Maríno"
+    },
+    "ST": {
+      "official": "Svätý Tomáš a Princov ostrov",
+      "common": "Svätý Tomáš a Princov ostrov"
+    },
+    "SA": {
+      "official": "Saudská Arábia",
+      "common": "Saudská Arábia"
+    },
+    "SN": {
+      "official": "Senegal",
+      "common": "Senegal"
+    },
+    "RS": {
+      "official": "Srbsko",
+      "common": "Srbsko"
+    },
+    "SC": {
+      "official": "Seychely",
+      "common": "Seychely"
+    },
+    "SL": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "SG": {
+      "official": "Singapur",
+      "common": "Singapur"
+    },
+    "SX": {
+      "official": "Sint Maarten (holandská časť)",
+      "common": "Sint Maarten (holandská časť)"
+    },
+    "SK": {
+      "official": "Slovensko",
+      "common": "Slovensko"
+    },
+    "SI": {
+      "official": "Slovinsko",
+      "common": "Slovinsko"
+    },
+    "SB": {
+      "official": "Šalamúnove ostrovy",
+      "common": "Šalamúnove ostrovy"
+    },
+    "SO": {
+      "official": "Somálsko",
+      "common": "Somálsko"
+    },
+    "ZA": {
+      "official": "Južná Afrika",
+      "common": "Južná Afrika"
+    },
+    "GS": {
+      "official": "Južná Georgia a Južné Sandwichove ostrovy",
+      "common": "Južná Georgia a Južné Sandwichove ostrovy"
+    },
+    "ES": {
+      "official": "Španielsko",
+      "common": "Španielsko"
+    },
+    "LK": {
+      "official": "Srí Lanka",
+      "common": "Srí Lanka"
+    },
+    "SD": {
+      "official": "Sudán",
+      "common": "Sudán"
+    },
+    "SR": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "SS": {
+      "official": "Južný Sudán",
+      "common": "Južný Sudán"
+    },
+    "SJ": {
+      "official": "Svalbard a Jan Mayen",
+      "common": "Svalbard a Jan Mayen"
+    },
+    "SZ": {
+      "official": "Svazijsko",
+      "common": "Svazijsko"
+    },
+    "SE": {
+      "official": "Švédsko",
+      "common": "Švédsko"
+    },
+    "CH": {
+      "official": "Švajčiarsko",
+      "common": "Švajčiarsko"
+    },
+    "SY": {
+      "official": "Sýrska arabská republika",
+      "common": "Sýrska arabská republika"
+    },
+    "TW": {
+      "official": "Taiwan",
+      "common": "Taiwan"
+    },
+    "TJ": {
+      "official": "Tadžikistan",
+      "common": "Tadžikistan"
+    },
+    "TZ": {
+      "official": "Tanzánijská zjednotená republika",
+      "common": "Tanzánijská zjednotená republika"
+    },
+    "TH": {
+      "official": "Thajsko",
+      "common": "Thajsko"
+    },
+    "TL": {
+      "official": "Východný Timor",
+      "common": "Východný Timor"
+    },
+    "TG": {
+      "official": "Togo",
+      "common": "Togo"
+    },
+    "TK": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "TO": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "TT": {
+      "official": "Trinidad a Tobago",
+      "common": "Trinidad a Tobago"
+    },
+    "TN": {
+      "official": "Tunisko",
+      "common": "Tunisko"
+    },
+    "TR": {
+      "official": "Turecko",
+      "common": "Turecko"
+    },
+    "TM": {
+      "official": "Turkménsko",
+      "common": "Turkménsko"
+    },
+    "TC": {
+      "official": "Ostrovy Turks a Caicos",
+      "common": "Ostrovy Turks a Caicos"
+    },
+    "TV": {
+      "official": "Tuvalu",
+      "common": "Tuvalu"
+    },
+    "UG": {
+      "official": "Uganda",
+      "common": "Uganda"
+    },
+    "UA": {
+      "official": "Ukrajina",
+      "common": "Ukrajina"
+    },
+    "AE": {
+      "official": "Spojené arabské emiráty",
+      "common": "Spojené arabské emiráty"
+    },
+    "GB": {
+      "official": "Spojené kráľovstvo",
+      "common": "Spojené kráľovstvo"
+    },
+    "US": {
+      "official": "Spojené štáty",
+      "common": "Spojené štáty"
+    },
+    "UM": {
+      "official": "Menšie odľahlé ostrovy Spojených štátov",
+      "common": "Menšie odľahlé ostrovy Spojených štátov"
+    },
+    "UY": {
+      "official": "Uruguaj",
+      "common": "Uruguaj"
+    },
+    "UZ": {
+      "official": "Uzbekistan",
+      "common": "Uzbekistan"
+    },
+    "VU": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "VE": {
+      "official": "Venezuelská bolívarovská republika",
+      "common": "Venezuelská bolívarovská republika"
+    },
+    "VN": {
+      "official": "Vietnam",
+      "common": "Vietnam"
+    },
+    "VG": {
+      "official": "Panenské ostrovy, Britské",
+      "common": "Panenské ostrovy, Britské"
+    },
+    "VI": {
+      "official": "Panenské ostrovy, Americké",
+      "common": "Panenské ostrovy, Americké"
+    },
+    "WF": {
+      "official": "Wallis a Futuna",
+      "common": "Wallis a Futuna"
+    },
+    "EH": {
+      "official": "Západná Sahara",
+      "common": "Západná Sahara"
+    },
+    "YE": {
+      "official": "Jemen",
+      "common": "Jemen"
+    },
+    "ZM": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "ZW": {
+      "official": "Zimbabwe",
+      "common": "Zimbabwe"
+    }
+  }
+}

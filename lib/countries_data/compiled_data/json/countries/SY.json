@@ -1,0 +1,435 @@
+{
+  "continent": "Asia",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}}\n{{country}}",
+  "alpha2": "SY",
+  "alpha3": "SYR",
+  "country_code": "963",
+  "international_prefix": "00",
+  "ioc": "SYR",
+  "gec": "SY",
+  "name": "Syrian Arab Republic",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7,
+    8
+  ],
+  "national_prefix": "0",
+  "number": "760",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "world_region": "EMEA",
+  "un_locode": "SY",
+  "nationality": "Syrian",
+  "postal_code": false,
+  "unofficial_names": [
+    "Syria",
+    "سوريا",
+    "سورية",
+    "Syrien",
+    "Syrie",
+    "Siria",
+    "シリア・アラブ共和国",
+    "Syrië"
+  ],
+  "languages_official": [
+    "ar"
+  ],
+  "languages_spoken": [
+    "ar"
+  ],
+  "geo": {
+    "latitude": 34.80207499999999,
+    "latitude_dec": "35.03312683105469",
+    "longitude": 38.996815,
+    "longitude_dec": "38.473472595214844",
+    "max_latitude": 37.318693,
+    "max_longitude": 42.376309,
+    "min_latitude": 32.311136,
+    "min_longitude": 35.7165955,
+    "bounds": {
+      "northeast": {
+        "lat": 37.318693,
+        "lng": 42.376309
+      },
+      "southwest": {
+        "lat": 32.311136,
+        "lng": 35.7165955
+      }
+    }
+  },
+  "currency_code": "SYP",
+  "postal_address_data": {
+  },
+  "translations": {
+    "af": {
+      "official": "Siriese Arabiese Republiek",
+      "common": "Siriese Arabiese Republiek"
+    },
+    "sq": {
+      "official": "Republika Arabe e Sirisë",
+      "common": "Republika Arabe e Sirisë"
+    },
+    "am": {
+      "official": "ሲሱ።",
+      "common": "ሲሱ።"
+    },
+    "ar": {
+      "official": "الجمهوريّة العربيّة السّوريّة",
+      "common": "الجمهوريّة العربيّة السّوريّة"
+    },
+    "hy": {
+      "official": "Սիրիայի Արաբական Հանրապետություն",
+      "common": "Սիրիայի Արաբական Հանրապետություն"
+    },
+    "as": {
+      "official": "চিৰিয়ান আৰব প্ৰজাতন্ত্ৰ",
+      "common": "চিৰিয়ান আৰব প্ৰজাতন্ত্ৰ"
+    },
+    "az": {
+      "official": "Mərkəzi Afrika Respublikası",
+      "common": "Mərkəzi Afrika Respublikası"
+    },
+    "eu": {
+      "official": "Siriako Arabiar Errepublika",
+      "common": "Siriako Arabiar Errepublika"
+    },
+    "be": {
+      "official": "Сірыйская Арабская Рэспубліка",
+      "common": "Сірыйская Арабская Рэспубліка"
+    },
+    "bn": {
+      "official": "সিরিয়ান আরব প্রজাতন্ত্র",
+      "common": "সিরিয়ান আরব প্রজাতন্ত্র"
+    },
+    "bs": {
+      "official": "Sirijska Arapska Republika",
+      "common": "Sirijska Arapska Republika"
+    },
+    "br": {
+      "official": "Syrian Arab Republic",
+      "common": "Syrian Arab Republic"
+    },
+    "bg": {
+      "official": "Сирийска арабска република",
+      "common": "Сирийска арабска република"
+    },
+    "ca": {
+      "official": "República Àrab Síria",
+      "common": "República Àrab Síria"
+    },
+    "zh": {
+      "official": "叙利亚",
+      "common": "叙利亚"
+    },
+    "cs": {
+      "official": "Syrská arabská republika",
+      "common": "Syrská arabská republika"
+    },
+    "da": {
+      "official": "Syriske Arabiske Republik",
+      "common": "Syriske Arabiske Republik"
+    },
+    "nl": {
+      "official": "Syrië",
+      "common": "Syrië"
+    },
+    "dz": {
+      "official": "སི་རེན་ ཨ་རབ་ མི་སེར་རྒྱལ་ཁབ།",
+      "common": "སི་རེན་ ཨ་རབ་ མི་སེར་རྒྱལ་ཁབ།"
+    },
+    "en": {
+      "official": "Syrian Arab Republic",
+      "common": "Syrian Arab Republic"
+    },
+    "eo": {
+      "official": "Siria Araba Respubliko",
+      "common": "Siria Araba Respubliko"
+    },
+    "et": {
+      "official": "Süüria Araabia Vabariik",
+      "common": "Süüria Araabia Vabariik"
+    },
+    "fo": {
+      "official": "Syrian Arab Republic",
+      "common": "Syrian Arab Republic"
+    },
+    "fi": {
+      "official": "Syyrian arabitasavalta",
+      "common": "Syyrian arabitasavalta"
+    },
+    "fr": {
+      "official": "Syrienne, République arabe",
+      "common": "Syrienne, République arabe"
+    },
+    "ka": {
+      "official": "სირიის არაბული რესპუბლიკა",
+      "common": "სირიის არაბული რესპუბლიკა"
+    },
+    "de": {
+      "official": "Syrien, Arabische Republik",
+      "common": "Syrien, Arabische Republik"
+    },
+    "ga": {
+      "official": "Poblacht Arabach na Siria",
+      "common": "Poblacht Arabach na Siria"
+    },
+    "gl": {
+      "official": "República Árabe de Siria",
+      "common": "República Árabe de Siria"
+    },
+    "el": {
+      "official": "Αραβική Δημοκρατία της Συρίας",
+      "common": "Αραβική Δημοκρατία της Συρίας"
+    },
+    "gu": {
+      "official": "સીરીયન આરબ રીપબ્લિક",
+      "common": "સીરીયન આરબ રીપબ્લિક"
+    },
+    "he": {
+      "official": "הרפובליקה הערבית הסורית",
+      "common": "הרפובליקה הערבית הסורית"
+    },
+    "hi": {
+      "official": "सीरियन अरब रिपब्लिक",
+      "common": "सीरियन अरब रिपब्लिक"
+    },
+    "hr": {
+      "official": "Sirija",
+      "common": "Sirija"
+    },
+    "hu": {
+      "official": "Szíriai Arab Köztársaság",
+      "common": "Szíriai Arab Köztársaság"
+    },
+    "is": {
+      "official": "Sýrlenska arabalýðveldið",
+      "common": "Sýrlenska arabalýðveldið"
+    },
+    "ia": {
+      "official": "Republica Arabe Syrie",
+      "common": "Republica Arabe Syrie"
+    },
+    "id": {
+      "official": "Republik Arab Syria",
+      "common": "Republik Arab Syria"
+    },
+    "it": {
+      "official": "Siria",
+      "common": "Siria"
+    },
+    "ja": {
+      "official": "シリア・アラブ共和国",
+      "common": "シリア・アラブ共和国"
+    },
+    "kn": {
+      "official": "ಸಿರಿಯನ್ ಅರಬ್ ಗಣರಾಜ್ಯ",
+      "common": "ಸಿರಿಯನ್ ಅರಬ್ ಗಣರಾಜ್ಯ"
+    },
+    "kk": {
+      "official": "Сирия Араб Республикасы",
+      "common": "Сирия Араб Республикасы"
+    },
+    "km": {
+      "official": "សាធារណរដ្ឋ​ស៊ីរីយ៉ា​​អារាប់",
+      "common": "សាធារណរដ្ឋ​ស៊ីរីយ៉ា​​អារាប់"
+    },
+    "rw": {
+      "official": "Repubulika Nyarabu ya Siriya",
+      "common": "Repubulika Nyarabu ya Siriya"
+    },
+    "ko": {
+      "official": "시리아 아랍 공화국",
+      "common": "시리아 아랍 공화국"
+    },
+    "ku": {
+      "official": "Sûriye",
+      "common": "Sûriye"
+    },
+    "lv": {
+      "official": "Sīrija",
+      "common": "Sīrija"
+    },
+    "lt": {
+      "official": "Sirijos Arabų Respublika",
+      "common": "Sirijos Arabų Respublika"
+    },
+    "mk": {
+      "official": "Сирија арапска република",
+      "common": "Сирија арапска република"
+    },
+    "ml": {
+      "official": "സിറിയന്‍ അറബ് റിപ്പബ്ലിക്",
+      "common": "സിറിയന്‍ അറബ് റിപ്പബ്ലിക്"
+    },
+    "mi": {
+      "official": "Syrian Arab Republic",
+      "common": "Syrian Arab Republic"
+    },
+    "mr": {
+      "official": "सिरियन अरब रिपब्लिक",
+      "common": "सिरियन अरब रिपब्लिक"
+    },
+    "ms": {
+      "official": "Syrian Arab Republic",
+      "common": "Syrian Arab Republic"
+    },
+    "mt": {
+      "official": "Repubblika Dominikana",
+      "common": "Repubblika Dominikana"
+    },
+    "mn": {
+      "official": "Төв африкын ард улс",
+      "common": "Төв африкын ард улс"
+    },
+    "ne": {
+      "official": "सिरियन अरब गणराज्य",
+      "common": "सिरियन अरब गणराज्य"
+    },
+    "nn": {
+      "official": "Syria",
+      "common": "Syria"
+    },
+    "nb": {
+      "official": "Den arabiske republikk Syria",
+      "common": "Den arabiske republikk Syria"
+    },
+    "oc": {
+      "official": "Republica Dominicana",
+      "common": "Republica Dominicana"
+    },
+    "or": {
+      "official": "ସିରିଆନ ଆରବ ଗଣତନ୍ତ୍ର",
+      "common": "ସିରିଆନ ଆରବ ଗଣତନ୍ତ୍ର"
+    },
+    "pa": {
+      "official": "ਸੀਰੀਅਨ ਅਰਬ ਗਣਰਾਜ",
+      "common": "ਸੀਰੀਅਨ ਅਰਬ ਗਣਰਾਜ"
+    },
+    "fa": {
+      "official": "جمهوری عربی سوریه",
+      "common": "جمهوری عربی سوریه"
+    },
+    "pl": {
+      "official": "Syryjska Republika Arabska",
+      "common": "Syryjska Republika Arabska"
+    },
+    "pt": {
+      "official": "República Árabe Síria",
+      "common": "República Árabe Síria"
+    },
+    "ps": {
+      "official": "Syrian Arab Republic",
+      "common": "Syrian Arab Republic"
+    },
+    "ro": {
+      "official": "Republica Araba Siria",
+      "common": "Republica Araba Siria"
+    },
+    "ru": {
+      "official": "Сирийская Арабская Республика",
+      "common": "Сирийская Арабская Республика"
+    },
+    "si": {
+      "official": "සිරියානු අරාබි ජනරජය",
+      "common": "සිරියානු අරාබි ජනරජය"
+    },
+    "sk": {
+      "official": "Sýrska arabská republika",
+      "common": "Sýrska arabská republika"
+    },
+    "sl": {
+      "official": "Sirska arabska republika",
+      "common": "Sirska arabska republika"
+    },
+    "so": {
+      "official": "Suuriya",
+      "common": "Suuriya"
+    },
+    "es": {
+      "official": "República árabe de Siria",
+      "common": "República árabe de Siria"
+    },
+    "sr": {
+      "official": "Сиријска Арапска Република",
+      "common": "Сиријска Арапска Република"
+    },
+    "sw": {
+      "official": "Syrian Arab Republic",
+      "common": "Syrian Arab Republic"
+    },
+    "sv": {
+      "official": "Syriska arabrepubliken",
+      "common": "Syriska arabrepubliken"
+    },
+    "ta": {
+      "official": "சிரியன் அரபு குடியரசு",
+      "common": "சிரியன் அரபு குடியரசு"
+    },
+    "tt": {
+      "official": "Гәрәп Сүриә Җөмһүриәте",
+      "common": "Гәрәп Сүриә Җөмһүриәте"
+    },
+    "te": {
+      "official": "సిరియన్ అరబ్ రిపబ్లిక్",
+      "common": "సిరియన్ అరబ్ రిపబ్లిక్"
+    },
+    "tl": {
+      "official": "Syrian Arab Republika",
+      "common": "Syrian Arab Republika"
+    },
+    "th": {
+      "official": "สาธารณรัฐอาหรับซีเรีย",
+      "common": "สาธารณรัฐอาหรับซีเรีย"
+    },
+    "ti": {
+      "official": "Syrian Arab Republic",
+      "common": "Syrian Arab Republic"
+    },
+    "tk": {
+      "official": "Siriýa Arap Respublikasy",
+      "common": "Siriýa Arap Respublikasy"
+    },
+    "tr": {
+      "official": "Suriye Arap Cumhuriyeti",
+      "common": "Suriye Arap Cumhuriyeti"
+    },
+    "ug": {
+      "official": "سۈرىيە ئەرەب جۇمھۇرىيىتى",
+      "common": "سۈرىيە ئەرەب جۇمھۇرىيىتى"
+    },
+    "uk": {
+      "official": "Сирійська Арабська Республіка",
+      "common": "Сирійська Арабська Республіка"
+    },
+    "ve": {
+      "official": "Central African Republic",
+      "common": "Central African Republic"
+    },
+    "vi": {
+      "official": "Cộng hoà A-rập Xi-ri-a",
+      "common": "Cộng hoà A-rập Xi-ri-a"
+    },
+    "cy": {
+      "official": "Gweriniaeth Arabaidd Syria",
+      "common": "Gweriniaeth Arabaidd Syria"
+    },
+    "wa": {
+      "official": "Sireye",
+      "common": "Sireye"
+    },
+    "wo": {
+      "official": "Republik Araab bu Siiri",
+      "common": "Republik Araab bu Siiri"
+    },
+    "xh": {
+      "official": "Ulawulo lokuziphatha kwe Dominican",
+      "common": "Ulawulo lokuziphatha kwe Dominican"
+    },
+    "zu": {
+      "official": "Ulawulo lokuziphatha kwe Dominikhani",
+      "common": "Ulawulo lokuziphatha kwe Dominikhani"
+    }
+  }
+}

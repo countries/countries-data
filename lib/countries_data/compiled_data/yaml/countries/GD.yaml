@@ -1,0 +1,326 @@
+---
+continent: North America
+alpha2: GD
+alpha3: GRD
+country_code: '1'
+international_prefix: '011'
+ioc: GRN
+gec: GJ
+name: Grenada
+national_destination_code_lengths:
+- 3
+national_number_lengths:
+- 10
+national_prefix: '1'
+number: '308'
+region: Americas
+subregion: Caribbean
+world_region: AMER
+un_locode: GD
+nationality: Grenadian
+postal_code: false
+unofficial_names:
+- Grenada
+- グレナダ
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: 12.1165
+  latitude_dec: '12.178866386413574'
+  longitude: -61.67899999999999
+  longitude_dec: "-61.64693069458008"
+  max_latitude: 12.5301829
+  max_longitude: -61.37799750000001
+  min_latitude: 11.9848781
+  min_longitude: -61.80238019999999
+  bounds:
+    northeast:
+      lat: 12.5301829
+      lng: -61.37799750000001
+    southwest:
+      lat: 11.9848781
+      lng: -61.80238019999999
+currency_code: XCD
+postal_address_data:
+  id: data/GD
+  key: GD
+  name: GRENADA (WEST INDIES)
+translations:
+  af:
+    official: Grenada
+    common: Grenada
+  sq:
+    official: Grenada
+    common: Grenada
+  am:
+    official: Grenada
+    common: Grenada
+  ar:
+    official: غرينادا
+    common: غرينادا
+  hy:
+    official: Գրենադա
+    common: Գրենադա
+  as:
+    official: গ্ৰেনাডা
+    common: গ্ৰেনাডা
+  az:
+    official: Qrenada
+    common: Qrenada
+  eu:
+    official: Grenada
+    common: Grenada
+  be:
+    official: Грэнада
+    common: Грэнада
+  bn:
+    official: গ্রেনাডা
+    common: গ্রেনাডা
+  bs:
+    official: Grenada
+    common: Grenada
+  br:
+    official: Grenada
+    common: Grenada
+  bg:
+    official: Гренада
+    common: Гренада
+  ca:
+    official: Grenada
+    common: Grenada
+  zh:
+    official: 格林纳达
+    common: 格林纳达
+  cs:
+    official: Grenada
+    common: Grenada
+  da:
+    official: Grenada
+    common: Grenada
+  nl:
+    official: Grenada
+    common: Grenada
+  dz:
+    official: གིརི་ན་ཌ།
+    common: གིརི་ན་ཌ།
+  en:
+    official: Grenada
+    common: Grenada
+  eo:
+    official: Grenado
+    common: Grenado
+  et:
+    official: Grenada
+    common: Grenada
+  fo:
+    official: Grenada
+    common: Grenada
+  fi:
+    official: Grenada
+    common: Grenada
+  fr:
+    official: Grenade
+    common: Grenade
+  ka:
+    official: გრენადა
+    common: გრენადა
+  de:
+    official: Grenada
+    common: Grenada
+  ga:
+    official: Grenada
+    common: Grenada
+  gl:
+    official: Granada
+    common: Granada
+  el:
+    official: Γρενάδα
+    common: Γρενάδα
+  gu:
+    official: ગ્રેનેડા
+    common: ગ્રેનેડા
+  he:
+    official: גרנדה
+    common: גרנדה
+  hi:
+    official: ग्रेनाडा
+    common: ग्रेनाडा
+  hr:
+    official: Grenada
+    common: Grenada
+  hu:
+    official: Grenada
+    common: Grenada
+  is:
+    official: Grenada
+    common: Grenada
+  ia:
+    official: Grenada
+    common: Grenada
+  id:
+    official: Grenada
+    common: Grenada
+  it:
+    official: Grenada
+    common: Grenada
+  ja:
+    official: グレナダ
+    common: グレナダ
+  kn:
+    official: ಗ್ರೆನಡಾ
+    common: ಗ್ರೆನಡಾ
+  kk:
+    official: Гренада
+    common: Гренада
+  km:
+    official: ហ្គ្រីណាដា
+    common: ហ្គ្រីណាដា
+  rw:
+    official: Gerenada
+    common: Gerenada
+  ko:
+    official: 그레나다
+    common: 그레나다
+  ku:
+    official: Girava Grenada
+    common: Girava Grenada
+  lv:
+    official: Grenāda
+    common: Grenāda
+  lt:
+    official: Grenada
+    common: Grenada
+  mk:
+    official: Гренада
+    common: Гренада
+  ml:
+    official: ഗ്രനഡ
+    common: ഗ്രനഡ
+  mi:
+    official: Grenada
+    common: Grenada
+  mr:
+    official: ग्रेनेडा
+    common: ग्रेनेडा
+  ms:
+    official: Grenada
+    common: Grenada
+  mt:
+    official: Grenada
+    common: Grenada
+  mn:
+    official: Гренда
+    common: Гренда
+  ne:
+    official: ग्रिनाडा
+    common: ग्रिनाडा
+  nn:
+    official: Grenada
+    common: Grenada
+  nb:
+    official: Grenada
+    common: Grenada
+  oc:
+    official: Granada
+    common: Granada
+  or:
+    official: ଗ୍ରେନେଡା
+    common: ଗ୍ରେନେଡା
+  pa:
+    official: ਗਰੀਨਾਡਾਆ
+    common: ਗਰੀਨਾਡਾਆ
+  fa:
+    official: گرانادا
+    common: گرانادا
+  pl:
+    official: Grenada
+    common: Grenada
+  pt:
+    official: Granada
+    common: Granada
+  ps:
+    official: Grenada
+    common: Grenada
+  ro:
+    official: Grenada
+    common: Grenada
+  ru:
+    official: Гренада
+    common: Гренада
+  si:
+    official: ග්‍රෙනාඩා
+    common: ග්‍රෙනාඩා
+  sk:
+    official: Grenada
+    common: Grenada
+  sl:
+    official: Grenada
+    common: Grenada
+  so:
+    official: Giriinaada
+    common: Giriinaada
+  es:
+    official: Granada
+    common: Granada
+  sr:
+    official: Гренада
+    common: Гренада
+  sw:
+    official: Grenada
+    common: Grenada
+  sv:
+    official: Grenada
+    common: Grenada
+  ta:
+    official: கிரனாடா
+    common: கிரனாடா
+  tt:
+    official: Gренада
+    common: Gренада
+  te:
+    official: గ్రేనేడా
+    common: గ్రేనేడా
+  tl:
+    official: Grenada
+    common: Grenada
+  th:
+    official: เกรนาดา
+    common: เกรนาดา
+  ti:
+    official: Grenada
+    common: Grenada
+  tk:
+    official: Grenlandiýa
+    common: Grenlandiýa
+  tr:
+    official: Granada
+    common: Granada
+  ug:
+    official: گىرېنادا
+    common: گىرېنادا
+  uk:
+    official: Гренада
+    common: Гренада
+  ve:
+    official: Grenada
+    common: Grenada
+  vi:
+    official: Gợ-rê-na-đa
+    common: Gợ-rê-na-đa
+  cy:
+    official: Grenada
+    common: Grenada
+  wa:
+    official: Grenåde
+    common: Grenåde
+  wo:
+    official: Grenada
+    common: Grenada
+  xh:
+    official: Grenada
+    common: Grenada
+  zu:
+    official: I-Grenada
+    common: I-Grenada

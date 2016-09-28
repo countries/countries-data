@@ -1,0 +1,332 @@
+---
+continent: Africa
+alpha2: CM
+alpha3: CMR
+country_code: '237'
+international_prefix: '00'
+ioc: CMR
+gec: CM
+name: Cameroon
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: None
+number: '120'
+region: Africa
+subregion: Middle Africa
+world_region: EMEA
+un_locode: CM
+nationality: Cameroonian
+postal_code: false
+unofficial_names:
+- Cameroon
+- Kamerun
+- Cameroun
+- Camerún
+- カメルーン
+- Kameroen
+languages_official:
+- en
+- fr
+languages_spoken:
+- en
+- fr
+geo:
+  latitude: 7.369721999999999
+  latitude_dec: '5.685476779937744'
+  longitude: 12.354722
+  longitude_dec: '12.722877502441406'
+  max_latitude: 13.083335
+  max_longitude: 16.194408
+  min_latitude: 1.6559
+  min_longitude: 8.4947634
+  bounds:
+    northeast:
+      lat: 13.083335
+      lng: 16.194408
+    southwest:
+      lat: 1.6559
+      lng: 8.4947634
+currency_code: XAF
+postal_address_data:
+  id: data/CM
+  key: CM
+  name: CAMEROON
+translations:
+  af:
+    official: Kameroen
+    common: Kameroen
+  sq:
+    official: Kameruni
+    common: Kameruni
+  am:
+    official: ጢሣሩን
+    common: ጢሣሩን
+  ar:
+    official: الكاميرون
+    common: الكاميرون
+  hy:
+    official: Կամերուն
+    common: Կամերուն
+  as:
+    official: কেমেৰুণ
+    common: কেমেৰুণ
+  az:
+    official: Kamerun
+    common: Kamerun
+  eu:
+    official: Kamerun
+    common: Kamerun
+  be:
+    official: Камерун
+    common: Камерун
+  bn:
+    official: ক্যামেরুণ
+    common: ক্যামেরুণ
+  bs:
+    official: Kamerun
+    common: Kamerun
+  br:
+    official: Cameroon
+    common: Cameroon
+  bg:
+    official: Камерун
+    common: Камерун
+  ca:
+    official: Camerun
+    common: Camerun
+  zh:
+    official: 喀麦隆
+    common: 喀麦隆
+  cs:
+    official: Kamerun
+    common: Kamerun
+  da:
+    official: Cameroun
+    common: Cameroun
+  nl:
+    official: Kameroen
+    common: Kameroen
+  dz:
+    official: ཀེ་མི་རཱུན།
+    common: ཀེ་མི་རཱུན།
+  en:
+    official: Cameroon
+    common: Cameroon
+  eo:
+    official: Kameruno
+    common: Kameruno
+  et:
+    official: Kamerun
+    common: Kamerun
+  fo:
+    official: Kamerun
+    common: Kamerun
+  fi:
+    official: Kamerun
+    common: Kamerun
+  fr:
+    official: Cameroun
+    common: Cameroun
+  ka:
+    official: კამერუნი
+    common: კამერუნი
+  de:
+    official: Kamerun
+    common: Kamerun
+  ga:
+    official: Camarún
+    common: Camarún
+  gl:
+    official: Camerún
+    common: Camerún
+  el:
+    official: Καμερούν
+    common: Καμερούν
+  gu:
+    official: કેમેરુન
+    common: કેમેરુન
+  he:
+    official: קמרון
+    common: קמרון
+  hi:
+    official: कैमेरून
+    common: कैमेरून
+  hr:
+    official: Kamerun
+    common: Kamerun
+  hu:
+    official: Kamerun
+    common: Kamerun
+  is:
+    official: Kamerún
+    common: Kamerún
+  ia:
+    official: Camerun
+    common: Camerun
+  id:
+    official: Kamerun
+    common: Kamerun
+  it:
+    official: Camerun
+    common: Camerun
+  ja:
+    official: カメルーン
+    common: カメルーン
+  kn:
+    official: ಕ್ಯಾಮರೂನ್
+    common: ಕ್ಯಾಮರೂನ್
+  kk:
+    official: Камерун
+    common: Камерун
+  km:
+    official: កាមេរ៉ូន
+    common: កាមេរ៉ូន
+  rw:
+    official: Kameruni
+    common: Kameruni
+  ko:
+    official: 카메룬
+    common: 카메룬
+  ku:
+    official: Kamerûn
+    common: Kamerûn
+  lv:
+    official: Kamerūna
+    common: Kamerūna
+  lt:
+    official: Kamerūnas
+    common: Kamerūnas
+  mk:
+    official: Камерун
+    common: Камерун
+  ml:
+    official: കാമറൂണ്‍
+    common: കാമറൂണ്‍
+  mi:
+    official: Kamarūna
+    common: Kamarūna
+  mr:
+    official: कॅमेरून
+    common: कॅमेरून
+  ms:
+    official: Kamerun
+    common: Kamerun
+  mt:
+    official: Kamerun
+    common: Kamerun
+  mn:
+    official: Камерун
+    common: Камерун
+  ne:
+    official: क्यामरुन
+    common: क्यामरुन
+  nn:
+    official: Kamerun
+    common: Kamerun
+  nb:
+    official: Kamerun
+    common: Kamerun
+  oc:
+    official: Cameron
+    common: Cameron
+  or:
+    official: କାମେଋନ
+    common: କାମେଋନ
+  pa:
+    official: ਕੈਮਰੂਨ
+    common: ਕੈਮਰੂਨ
+  fa:
+    official: کامرون
+    common: کامرون
+  pl:
+    official: Kamerun
+    common: Kamerun
+  pt:
+    official: Camarões
+    common: Camarões
+  ps:
+    official: Cameroon
+    common: Cameroon
+  ro:
+    official: Camerun
+    common: Camerun
+  ru:
+    official: Камерун
+    common: Камерун
+  si:
+    official: කැමරූන්
+    common: කැමරූන්
+  sk:
+    official: Kamerun
+    common: Kamerun
+  sl:
+    official: Kamerun
+    common: Kamerun
+  so:
+    official: Kameruun
+    common: Kameruun
+  es:
+    official: Camerún
+    common: Camerún
+  sr:
+    official: Камерун
+    common: Камерун
+  sw:
+    official: Cameroon
+    common: Cameroon
+  sv:
+    official: Kamerun
+    common: Kamerun
+  ta:
+    official: கேமரூன்
+    common: கேமரூன்
+  tt:
+    official: Камероон
+    common: Камероон
+  te:
+    official: కేమరూన్
+    common: కేమరూన్
+  tl:
+    official: Kamerun
+    common: Kamerun
+  th:
+    official: แคเมอรูน
+    common: แคเมอรูน
+  ti:
+    official: ካሜሩን
+    common: ካሜሩን
+  tk:
+    official: Kamerun
+    common: Kamerun
+  tr:
+    official: Kamerun
+    common: Kamerun
+  ug:
+    official: كامېرون
+    common: كامېرون
+  uk:
+    official: Камерун
+    common: Камерун
+  ve:
+    official: Cameroon
+    common: Cameroon
+  vi:
+    official: Ca-mơ-runh
+    common: Ca-mơ-runh
+  cy:
+    official: Cameroon
+    common: Cameroon
+  wa:
+    official: Camrone
+    common: Camrone
+  wo:
+    official: Kameroon
+    common: Kameroon
+  xh:
+    official: Cameroon
+    common: Cameroon
+  zu:
+    official: Cameroon
+    common: Cameroon

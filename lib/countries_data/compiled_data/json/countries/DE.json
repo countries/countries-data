@@ -1,0 +1,458 @@
+{
+  "continent": "Europe",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}}\n{{country}}",
+  "alpha2": "DE",
+  "alpha3": "DEU",
+  "country_code": "49",
+  "international_prefix": "00",
+  "ioc": "GER",
+  "gec": "GM",
+  "name": "Germany",
+  "national_destination_code_lengths": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "national_number_lengths": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "national_prefix": "0",
+  "number": "276",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "world_region": "EMEA",
+  "un_locode": "DE",
+  "nationality": "German",
+  "eu_member": true,
+  "eea_member": true,
+  "vat_rates": {
+    "standard": 19,
+    "reduced": [
+      7
+    ],
+    "super_reduced": null,
+    "parking": null
+  },
+  "postal_code": true,
+  "unofficial_names": [
+    "Germany",
+    "Deutschland",
+    "Allemagne",
+    "Alemania",
+    "ドイツ",
+    "Duitsland"
+  ],
+  "languages_official": [
+    "de"
+  ],
+  "languages_spoken": [
+    "de"
+  ],
+  "geo": {
+    "latitude": 51.165691,
+    "latitude_dec": "51.20246505737305",
+    "longitude": 10.451526,
+    "longitude_dec": "10.382203102111816",
+    "max_latitude": 55.0581235,
+    "max_longitude": 15.0418962,
+    "min_latitude": 47.2701114,
+    "min_longitude": 5.8663425,
+    "bounds": {
+      "northeast": {
+        "lat": 55.0581235,
+        "lng": 15.0418962
+      },
+      "southwest": {
+        "lat": 47.2701114,
+        "lng": 5.8663425
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "key": "DE",
+    "zipex": "26133,53225",
+    "name": "GERMANY",
+    "zip": "\\d{5}",
+    "require": "ACZ",
+    "id": "data/DE",
+    "posturl": "http://www.postdirekt.de/plzserver/",
+    "fmt": "%N%n%O%n%A%n%Z %C"
+  },
+  "translations": {
+    "af": {
+      "official": "Duitsland",
+      "common": "Duitsland"
+    },
+    "sq": {
+      "official": "Gjermania",
+      "common": "Gjermania"
+    },
+    "am": {
+      "official": "ጀሴመን",
+      "common": "ጀሴመን"
+    },
+    "ar": {
+      "official": "ألمانيا",
+      "common": "ألمانيا"
+    },
+    "hy": {
+      "official": "Գերմանիա",
+      "common": "Գերմանիա"
+    },
+    "as": {
+      "official": "জাইচ্‌লামিক্মানী",
+      "common": "জাইচ্‌লামিক্মানী"
+    },
+    "az": {
+      "official": "Almaniya",
+      "common": "Almaniya"
+    },
+    "eu": {
+      "official": "Alemania",
+      "common": "Alemania"
+    },
+    "be": {
+      "official": "Германія",
+      "common": "Германія"
+    },
+    "bn": {
+      "official": "জার্মানি",
+      "common": "জার্মানি"
+    },
+    "bs": {
+      "official": "Njemačka",
+      "common": "Njemačka"
+    },
+    "br": {
+      "official": "Alamagn",
+      "common": "Alamagn"
+    },
+    "bg": {
+      "official": "Германия",
+      "common": "Германия"
+    },
+    "ca": {
+      "official": "Alemanya",
+      "common": "Alemanya"
+    },
+    "zh": {
+      "official": "德国",
+      "common": "德国"
+    },
+    "cs": {
+      "official": "Německo",
+      "common": "Německo"
+    },
+    "da": {
+      "official": "Tyskland",
+      "common": "Tyskland"
+    },
+    "nl": {
+      "official": "Duitsland",
+      "common": "Duitsland"
+    },
+    "dz": {
+      "official": "ཇར་མ་ནི།",
+      "common": "ཇར་མ་ནི།"
+    },
+    "en": {
+      "official": "Germany",
+      "common": "Germany"
+    },
+    "eo": {
+      "official": "Germanio",
+      "common": "Germanio"
+    },
+    "et": {
+      "official": "Saksamaa",
+      "common": "Saksamaa"
+    },
+    "fo": {
+      "official": "Týskland",
+      "common": "Týskland"
+    },
+    "fi": {
+      "official": "Saksa",
+      "common": "Saksa"
+    },
+    "fr": {
+      "official": "Allemagne",
+      "common": "Allemagne"
+    },
+    "ka": {
+      "official": "გერმანია",
+      "common": "გერმანია"
+    },
+    "de": {
+      "official": "Deutschland",
+      "common": "Deutschland"
+    },
+    "ga": {
+      "official": "An Ghearmáin",
+      "common": "An Ghearmáin"
+    },
+    "gl": {
+      "official": "Alemaña",
+      "common": "Alemaña"
+    },
+    "el": {
+      "official": "Γερμανία",
+      "common": "Γερμανία"
+    },
+    "gu": {
+      "official": "જર્મની",
+      "common": "જર્મની"
+    },
+    "he": {
+      "official": "גרמניה",
+      "common": "גרמניה"
+    },
+    "hi": {
+      "official": "जर्मनी",
+      "common": "जर्मनी"
+    },
+    "hr": {
+      "official": "Njemačka",
+      "common": "Njemačka"
+    },
+    "hu": {
+      "official": "Németország",
+      "common": "Németország"
+    },
+    "is": {
+      "official": "Þýskaland",
+      "common": "Þýskaland"
+    },
+    "ia": {
+      "official": "Germania",
+      "common": "Germania"
+    },
+    "id": {
+      "official": "Jerman",
+      "common": "Jerman"
+    },
+    "it": {
+      "official": "Germania",
+      "common": "Germania"
+    },
+    "ja": {
+      "official": "ドイツ",
+      "common": "ドイツ"
+    },
+    "kn": {
+      "official": "ಜರ್ಮನಿ",
+      "common": "ಜರ್ಮನಿ"
+    },
+    "kk": {
+      "official": "Германия",
+      "common": "Германия"
+    },
+    "km": {
+      "official": "អាល្លឺម៉ង់",
+      "common": "អាល្លឺម៉ង់"
+    },
+    "rw": {
+      "official": "Ubudage",
+      "common": "Ubudage"
+    },
+    "ko": {
+      "official": "독일",
+      "common": "독일"
+    },
+    "ku": {
+      "official": "Almanya",
+      "common": "Almanya"
+    },
+    "lv": {
+      "official": "Vācija",
+      "common": "Vācija"
+    },
+    "lt": {
+      "official": "Vokietija",
+      "common": "Vokietija"
+    },
+    "mk": {
+      "official": "Германија",
+      "common": "Германија"
+    },
+    "ml": {
+      "official": "ജര്‍മനി",
+      "common": "ജര്‍മനി"
+    },
+    "mi": {
+      "official": "Tiamana",
+      "common": "Tiamana"
+    },
+    "mr": {
+      "official": "जर्मनी",
+      "common": "जर्मनी"
+    },
+    "ms": {
+      "official": "Jerman",
+      "common": "Jerman"
+    },
+    "mt": {
+      "official": "Ġermanja",
+      "common": "Ġermanja"
+    },
+    "mn": {
+      "official": "Герман",
+      "common": "Герман"
+    },
+    "ne": {
+      "official": "जर्मनी",
+      "common": "जर्मनी"
+    },
+    "nn": {
+      "official": "Tyskland",
+      "common": "Tyskland"
+    },
+    "nb": {
+      "official": "Tyskland",
+      "common": "Tyskland"
+    },
+    "oc": {
+      "official": "Alemanha",
+      "common": "Alemanha"
+    },
+    "or": {
+      "official": "ଜର୍ମାନୀ",
+      "common": "ଜର୍ମାନୀ"
+    },
+    "pa": {
+      "official": "ਜਰਮਨੀ",
+      "common": "ਜਰਮਨੀ"
+    },
+    "fa": {
+      "official": " آلمان",
+      "common": " آلمان"
+    },
+    "pl": {
+      "official": "Niemcy",
+      "common": "Niemcy"
+    },
+    "pt": {
+      "official": "Alemanha",
+      "common": "Alemanha"
+    },
+    "ps": {
+      "official": "المان",
+      "common": "المان"
+    },
+    "ro": {
+      "official": "Germania",
+      "common": "Germania"
+    },
+    "ru": {
+      "official": "Германия",
+      "common": "Германия"
+    },
+    "si": {
+      "official": "ජර්මනිය",
+      "common": "ජර්මනිය"
+    },
+    "sk": {
+      "official": "Nemecko",
+      "common": "Nemecko"
+    },
+    "sl": {
+      "official": "Nemčija",
+      "common": "Nemčija"
+    },
+    "so": {
+      "official": "Jarmal",
+      "common": "Jarmal"
+    },
+    "es": {
+      "official": "Alemania",
+      "common": "Alemania"
+    },
+    "sr": {
+      "official": "Немачка",
+      "common": "Немачка"
+    },
+    "sw": {
+      "official": "Germany",
+      "common": "Germany"
+    },
+    "sv": {
+      "official": "Tyskland",
+      "common": "Tyskland"
+    },
+    "ta": {
+      "official": "ஜெர்மனி",
+      "common": "ஜெர்மனி"
+    },
+    "tt": {
+      "official": "Алманиа",
+      "common": "Алманиа"
+    },
+    "te": {
+      "official": "జర్మనీ",
+      "common": "జర్మనీ"
+    },
+    "tl": {
+      "official": "Alemanya",
+      "common": "Alemanya"
+    },
+    "th": {
+      "official": "เยอรมนี",
+      "common": "เยอรมนี"
+    },
+    "ti": {
+      "official": "ጀርመን",
+      "common": "ጀርመን"
+    },
+    "tk": {
+      "official": "Germaniýa",
+      "common": "Germaniýa"
+    },
+    "tr": {
+      "official": "Almanya",
+      "common": "Almanya"
+    },
+    "ug": {
+      "official": "گېرمانىيە",
+      "common": "گېرمانىيە"
+    },
+    "uk": {
+      "official": "Німеччина",
+      "common": "Німеччина"
+    },
+    "ve": {
+      "official": "Germany",
+      "common": "Germany"
+    },
+    "vi": {
+      "official": "Đức",
+      "common": "Đức"
+    },
+    "cy": {
+      "official": "Yr Almaen",
+      "common": "Yr Almaen"
+    },
+    "wa": {
+      "official": "Almagne",
+      "common": "Almagne"
+    },
+    "wo": {
+      "official": "Almaañ",
+      "common": "Almaañ"
+    },
+    "xh": {
+      "official": "Jamani",
+      "common": "Jamani"
+    },
+    "zu": {
+      "official": "Isi-Jalimani",
+      "common": "Isi-Jalimani"
+    }
+  }
+}

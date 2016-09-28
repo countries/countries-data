@@ -1,0 +1,436 @@
+{
+  "continent": "Australia",
+  "alpha2": "VU",
+  "alpha3": "VUT",
+  "country_code": "678",
+  "international_prefix": "00",
+  "ioc": "VAN",
+  "gec": "NH",
+  "name": "Vanuatu",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    5,
+    6,
+    7
+  ],
+  "national_prefix": "None",
+  "number": "548",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "world_region": "APAC",
+  "un_locode": "VU",
+  "nationality": "Ni-Vanuatu",
+  "postal_code": false,
+  "unofficial_names": [
+    "Vanuatu",
+    "バヌアツ"
+  ],
+  "languages_official": [
+    "bi",
+    "en",
+    "fr"
+  ],
+  "languages_spoken": [
+    "bi",
+    "en",
+    "fr"
+  ],
+  "geo": {
+    "latitude": -15.376706,
+    "latitude_dec": "-16.376684188842773",
+    "longitude": 166.959158,
+    "longitude_dec": "167.5625",
+    "max_latitude": -13.0724554,
+    "max_longitude": 170.2384597,
+    "min_latitude": -20.2522929,
+    "min_longitude": 166.5417588,
+    "bounds": {
+      "northeast": {
+        "lat": -13.0724554,
+        "lng": 170.2384597
+      },
+      "southwest": {
+        "lat": -20.2522929,
+        "lng": 166.5417588
+      }
+    }
+  },
+  "currency_code": "VUV",
+  "postal_address_data": {
+    "id": "data/VU",
+    "key": "VU",
+    "name": "VANUATU"
+  },
+  "translations": {
+    "af": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "sq": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "am": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "ar": {
+      "official": "فانواتو",
+      "common": "فانواتو"
+    },
+    "hy": {
+      "official": "Վանուատու",
+      "common": "Վանուատու"
+    },
+    "as": {
+      "official": "ভানুৱাটুুু",
+      "common": "ভানুৱাটুুু"
+    },
+    "az": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "eu": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "be": {
+      "official": "Вануату",
+      "common": "Вануату"
+    },
+    "bn": {
+      "official": "ভানুয়াটু",
+      "common": "ভানুয়াটু"
+    },
+    "bs": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "br": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "bg": {
+      "official": "Вануату",
+      "common": "Вануату"
+    },
+    "ca": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "zh": {
+      "official": "瓦努阿图",
+      "common": "瓦努阿图"
+    },
+    "cs": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "da": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "nl": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "dz": {
+      "official": "བ་ནུའ་ཊུ།",
+      "common": "བ་ནུའ་ཊུ།"
+    },
+    "en": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "eo": {
+      "official": "Vanuatuo",
+      "common": "Vanuatuo"
+    },
+    "et": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "fo": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "fi": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "fr": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "ka": {
+      "official": "ვანუატუ",
+      "common": "ვანუატუ"
+    },
+    "de": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "ga": {
+      "official": "Vanuatú",
+      "common": "Vanuatú"
+    },
+    "gl": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "el": {
+      "official": "Βανουάτου",
+      "common": "Βανουάτου"
+    },
+    "gu": {
+      "official": "વાનુટુ",
+      "common": "વાનુટુ"
+    },
+    "he": {
+      "official": "ואנואטו",
+      "common": "ואנואטו"
+    },
+    "hi": {
+      "official": "वनुआतू",
+      "common": "वनुआतू"
+    },
+    "hr": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "hu": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "is": {
+      "official": "Vanuatú",
+      "common": "Vanuatú"
+    },
+    "ia": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "id": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "it": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "ja": {
+      "official": "バヌアツ",
+      "common": "バヌアツ"
+    },
+    "kn": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "kk": {
+      "official": "Вануату",
+      "common": "Вануату"
+    },
+    "km": {
+      "official": "វ៉ានុយអាទុយ",
+      "common": "វ៉ានុយអាទុយ"
+    },
+    "rw": {
+      "official": "Vanuwatu",
+      "common": "Vanuwatu"
+    },
+    "ko": {
+      "official": "바누아투",
+      "common": "바누아투"
+    },
+    "ku": {
+      "official": "Vanûatû",
+      "common": "Vanûatû"
+    },
+    "lv": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "lt": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "mk": {
+      "official": "Вануату",
+      "common": "Вануату"
+    },
+    "ml": {
+      "official": "വന്വാട്ടു",
+      "common": "വന്വാട്ടു"
+    },
+    "mi": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "mr": {
+      "official": "व्हांतू",
+      "common": "व्हांतू"
+    },
+    "ms": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "mt": {
+      "official": "Vanwatu",
+      "common": "Vanwatu"
+    },
+    "mn": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "ne": {
+      "official": "वानुआटु",
+      "common": "वानुआटु"
+    },
+    "nn": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "nb": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "oc": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "or": {
+      "official": "ଭାନେତୁ",
+      "common": "ଭାନେତୁ"
+    },
+    "pa": {
+      "official": "ਵਾਨੂਟੂ",
+      "common": "ਵਾਨੂਟੂ"
+    },
+    "fa": {
+      "official": "وانواتو",
+      "common": "وانواتو"
+    },
+    "pl": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "pt": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "ps": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "ro": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "ru": {
+      "official": "Вануату",
+      "common": "Вануату"
+    },
+    "si": {
+      "official": "වනවාටු",
+      "common": "වනවාටු"
+    },
+    "sk": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "sl": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "so": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "es": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "sr": {
+      "official": "Вануату",
+      "common": "Вануату"
+    },
+    "sw": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "sv": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "ta": {
+      "official": "வனாட்டு",
+      "common": "வனாட்டு"
+    },
+    "tt": {
+      "official": "Вануату",
+      "common": "Вануату"
+    },
+    "te": {
+      "official": "వనౌతు",
+      "common": "వనౌతు"
+    },
+    "tl": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "th": {
+      "official": "วานูอาตู",
+      "common": "วานูอาตู"
+    },
+    "ti": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "tk": {
+      "official": "Wanuatu",
+      "common": "Wanuatu"
+    },
+    "tr": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "ug": {
+      "official": "ۋانۇئاتۇ",
+      "common": "ۋانۇئاتۇ"
+    },
+    "uk": {
+      "official": "Вануату",
+      "common": "Вануату"
+    },
+    "ve": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "vi": {
+      "official": "Va-nu-a-tu",
+      "common": "Va-nu-a-tu"
+    },
+    "cy": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "wa": {
+      "official": "Vanouatou",
+      "common": "Vanouatou"
+    },
+    "wo": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "xh": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "zu": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    }
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "continent": "North America",
+  "alpha2": "CW",
+  "alpha3": "CUW",
+  "country_code": "599",
+  "international_prefix": "00",
+  "ioc": null,
+  "gec": "UC",
+  "name": "Curaçao",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7
+  ],
+  "national_prefix": "0",
+  "number": "531",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "AMER",
+  "un_locode": "CW",
+  "nationality": "Dutch",
+  "postal_code": true,
+  "unofficial_names": [
+    "Curaçao",
+    "キュラソー島"
+  ],
+  "languages_official": [
+    "nl"
+  ],
+  "languages_spoken": [
+    "nl"
+  ],
+  "geo": {
+    "latitude": 12.16957,
+    "latitude_dec": "12.163220405578613",
+    "longitude": -68.99002,
+    "longitude_dec": "-68.94505310058594",
+    "max_latitude": 12.3927182,
+    "max_longitude": -68.6398315,
+    "min_latitude": 11.9780354,
+    "min_longitude": -69.1624547,
+    "bounds": {
+      "northeast": {
+        "lat": 12.3927182,
+        "lng": -68.6398315
+      },
+      "southwest": {
+        "lat": 11.9780354,
+        "lng": -69.1624547
+      }
+    }
+  },
+  "currency_code": "ANG",
+  "postal_address_data": {
+    "id": "data/CW",
+    "key": "CW",
+    "name": "CURACAO"
+  },
+  "translations": {
+    "af": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "sq": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "am": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "ar": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "hy": {
+      "official": "Կուրակաո",
+      "common": "Կուրակաո"
+    },
+    "as": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "az": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "eu": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "be": {
+      "official": "Кюрасаа",
+      "common": "Кюрасаа"
+    },
+    "bn": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "bs": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "br": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "bg": {
+      "official": "Кюрасао",
+      "common": "Кюрасао"
+    },
+    "ca": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "zh": {
+      "official": "库拉索",
+      "common": "库拉索"
+    },
+    "cs": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "da": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "nl": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "dz": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "en": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "eo": {
+      "official": "Kuracao",
+      "common": "Kuracao"
+    },
+    "et": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "fo": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "fi": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "fr": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "ka": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "de": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "ga": {
+      "official": "Curasao",
+      "common": "Curasao"
+    },
+    "gl": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "el": {
+      "official": "Κουρακάο",
+      "common": "Κουρακάο"
+    },
+    "gu": {
+      "official": "કુરાકાઓ",
+      "common": "કુરાકાઓ"
+    },
+    "he": {
+      "official": "קוראסאו",
+      "common": "קוראסאו"
+    },
+    "hi": {
+      "official": "कुराकाओ",
+      "common": "कुराकाओ"
+    },
+    "hr": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "hu": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "is": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "ia": {
+      "official": "Curasao",
+      "common": "Curasao"
+    },
+    "id": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "it": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "ja": {
+      "official": "キュラソー",
+      "common": "キュラソー"
+    },
+    "kn": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "kk": {
+      "official": "Курасао",
+      "common": "Курасао"
+    },
+    "km": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "rw": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "ko": {
+      "official": "퀴라소",
+      "common": "퀴라소"
+    },
+    "ku": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "lv": {
+      "official": "Kirasao",
+      "common": "Kirasao"
+    },
+    "lt": {
+      "official": "Kiurasao",
+      "common": "Kiurasao"
+    },
+    "mk": {
+      "official": "Куракао",
+      "common": "Куракао"
+    },
+    "ml": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "mi": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "mr": {
+      "official": "कुराकाओ",
+      "common": "कुराकाओ"
+    },
+    "ms": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "mt": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "mn": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "ne": {
+      "official": "कुराकाव",
+      "common": "कुराकाव"
+    },
+    "nn": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "nb": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "oc": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "or": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "pa": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "fa": {
+      "official": "کوراسائو",
+      "common": "کوراسائو"
+    },
+    "pl": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "pt": {
+      "official": "Curação",
+      "common": "Curação"
+    },
+    "ps": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "ro": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "ru": {
+      "official": "Кюрасао",
+      "common": "Кюрасао"
+    },
+    "si": {
+      "official": "කුරාකෝ",
+      "common": "කුරාකෝ"
+    },
+    "sk": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "sl": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "so": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "es": {
+      "official": "Curasao",
+      "common": "Curasao"
+    },
+    "sr": {
+      "official": "Курасао",
+      "common": "Курасао"
+    },
+    "sw": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "sv": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "ta": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "tt": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "te": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "tl": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "th": {
+      "official": "คิวราเซา",
+      "common": "คิวราเซา"
+    },
+    "ti": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "tk": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "tr": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "ug": {
+      "official": "كۇراسو",
+      "common": "كۇراسو"
+    },
+    "uk": {
+      "official": "Кюрасао",
+      "common": "Кюрасао"
+    },
+    "ve": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "vi": {
+      "official": "Cu-ra-cao",
+      "common": "Cu-ra-cao"
+    },
+    "cy": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "wa": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "wo": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "xh": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "zu": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    }
+  }
+}

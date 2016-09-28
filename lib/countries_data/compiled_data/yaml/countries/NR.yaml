@@ -1,0 +1,337 @@
+---
+continent: Australia
+alpha2: NR
+alpha3: NRU
+country_code: '674'
+international_prefix: '00'
+ioc: NRU
+gec: NR
+name: Nauru
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: '0'
+number: '520'
+region: Oceania
+subregion: Micronesia
+world_region: APAC
+un_locode: NR
+nationality: Nauruan
+postal_code: false
+unofficial_names:
+- Nauru
+- ナウル
+languages_official:
+- en
+- na
+languages_spoken:
+- en
+- na
+geo:
+  latitude: -0.522778
+  latitude_dec: "-0.5316064953804016"
+  longitude: 166.931503
+  longitude_dec: '166.9364013671875'
+  max_latitude: -0.5026395
+  max_longitude: 166.9589281
+  min_latitude: -0.5541893
+  min_longitude: 166.9095486
+  bounds:
+    northeast:
+      lat: -0.5026395
+      lng: 166.9589281
+    southwest:
+      lat: -0.5541893
+      lng: 166.9095486
+currency_code: AUD
+postal_address_data:
+  lang: en
+  name: NAURU CENTRAL PACIFIC
+  require: AS
+  state_name_type: district
+  id: data/NR
+  languages: en
+  sub_keys: Aiwo District~Anabar District~Anetan District~Anibare District~Baiti District~Boe
+    District~Buada District~Denigomodu District~Ewa District~Ijuw District~Meneng
+    District~Nibok District~Uaboe District~Yaren District
+  key: NR
+  sub_isoids: 01~02~03~04~05~06~07~08~09~10~11~12~13~14
+  fmt: "%N%n%O%n%A%n%S"
+translations:
+  af:
+    official: Naoeroe
+    common: Naoeroe
+  sq:
+    official: Nauru
+    common: Nauru
+  am:
+    official: Nauru
+    common: Nauru
+  ar:
+    official: ناورو
+    common: ناورو
+  hy:
+    official: Նաուրու
+    common: Նաուրու
+  as:
+    official: নাউৰু
+    common: নাউৰু
+  az:
+    official: Nauru
+    common: Nauru
+  eu:
+    official: Nauru
+    common: Nauru
+  be:
+    official: Науру
+    common: Науру
+  bn:
+    official: নাউরু
+    common: নাউরু
+  bs:
+    official: Nauru
+    common: Nauru
+  br:
+    official: Nauru
+    common: Nauru
+  bg:
+    official: Науру
+    common: Науру
+  ca:
+    official: Nauru
+    common: Nauru
+  zh:
+    official: 瑙鲁
+    common: 瑙鲁
+  cs:
+    official: Nauru
+    common: Nauru
+  da:
+    official: Nauru
+    common: Nauru
+  nl:
+    official: Nauru
+    common: Nauru
+  dz:
+    official: ནའུ་རུ།
+    common: ནའུ་རུ།
+  en:
+    official: Nauru
+    common: Nauru
+  eo:
+    official: Nauro
+    common: Nauro
+  et:
+    official: Nauru
+    common: Nauru
+  fo:
+    official: Nauru
+    common: Nauru
+  fi:
+    official: Nauru
+    common: Nauru
+  fr:
+    official: Nauru
+    common: Nauru
+  ka:
+    official: ნაურუ
+    common: ნაურუ
+  de:
+    official: Nauru
+    common: Nauru
+  ga:
+    official: Nárú
+    common: Nárú
+  gl:
+    official: Nauru
+    common: Nauru
+  el:
+    official: Ναουρού
+    common: Ναουρού
+  gu:
+    official: નાઉરુ
+    common: નાઉરુ
+  he:
+    official: נאורו
+    common: נאורו
+  hi:
+    official: नाउरु
+    common: नाउरु
+  hr:
+    official: Nauru
+    common: Nauru
+  hu:
+    official: Nauru
+    common: Nauru
+  is:
+    official: Nárú
+    common: Nárú
+  ia:
+    official: Nauru
+    common: Nauru
+  id:
+    official: Nauru
+    common: Nauru
+  it:
+    official: Nauru
+    common: Nauru
+  ja:
+    official: ナウル
+    common: ナウル
+  kn:
+    official: Nauru
+    common: Nauru
+  kk:
+    official: Науру
+    common: Науру
+  km:
+    official: ណូរុ
+    common: ណូរុ
+  rw:
+    official: Nawuru
+    common: Nawuru
+  ko:
+    official: 나우루
+    common: 나우루
+  ku:
+    official: Naûrû
+    common: Naûrû
+  lv:
+    official: Nauru
+    common: Nauru
+  lt:
+    official: Nauru
+    common: Nauru
+  mk:
+    official: Науру
+    common: Науру
+  ml:
+    official: നൌറു
+    common: നൌറു
+  mi:
+    official: Nauru
+    common: Nauru
+  mr:
+    official: नौरु
+    common: नौरु
+  ms:
+    official: Nauru
+    common: Nauru
+  mt:
+    official: Nauru
+    common: Nauru
+  mn:
+    official: Nauru
+    common: Nauru
+  ne:
+    official: नाउरु
+    common: नाउरु
+  nn:
+    official: Nauru
+    common: Nauru
+  nb:
+    official: Nauru
+    common: Nauru
+  oc:
+    official: Nauru
+    common: Nauru
+  or:
+    official: ନୌରୁ
+    common: ନୌରୁ
+  pa:
+    official: ਨੀਓਰੂ
+    common: ਨੀਓਰੂ
+  fa:
+    official: نائورو
+    common: نائورو
+  pl:
+    official: Nauru
+    common: Nauru
+  pt:
+    official: Nauru
+    common: Nauru
+  ps:
+    official: Nauru
+    common: Nauru
+  ro:
+    official: Nauru
+    common: Nauru
+  ru:
+    official: Науру
+    common: Науру
+  si:
+    official: නාවුරු
+    common: නාවුරු
+  sk:
+    official: Nauru
+    common: Nauru
+  sl:
+    official: Nauru
+    common: Nauru
+  so:
+    official: Nauru
+    common: Nauru
+  es:
+    official: Nauru
+    common: Nauru
+  sr:
+    official: Науру
+    common: Науру
+  sw:
+    official: Nauru
+    common: Nauru
+  sv:
+    official: Nauru
+    common: Nauru
+  ta:
+    official: நௌரு
+    common: நௌரு
+  tt:
+    official: Науру
+    common: Науру
+  te:
+    official: नौरु
+    common: नौरु
+  tl:
+    official: Nauru
+    common: Nauru
+  th:
+    official: นาอูรู
+    common: นาอูรู
+  ti:
+    official: Nauru
+    common: Nauru
+  tk:
+    official: Nauru
+    common: Nauru
+  tr:
+    official: Nauru
+    common: Nauru
+  ug:
+    official: ناۋرۇ
+    common: ناۋرۇ
+  uk:
+    official: Науру
+    common: Науру
+  ve:
+    official: Nauru
+    common: Nauru
+  vi:
+    official: Nau-ru
+    common: Nau-ru
+  cy:
+    official: Nauru
+    common: Nauru
+  wa:
+    official: Nawouro
+    common: Nawouro
+  wo:
+    official: Nauru
+    common: Nauru
+  xh:
+    official: Nauru
+    common: Nauru
+  zu:
+    official: Nauru
+    common: Nauru

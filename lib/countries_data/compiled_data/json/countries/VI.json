@@ -1,0 +1,444 @@
+{
+  "continent": "North America",
+  "alpha2": "VI",
+  "alpha3": "VIR",
+  "country_code": "1",
+  "international_prefix": "011",
+  "ioc": "ISV",
+  "gec": "VQ",
+  "name": "Virgin Islands, U.S.",
+  "national_destination_code_lengths": [
+    3
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "1",
+  "number": "850",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "AMER",
+  "un_locode": "VI",
+  "nationality": "Virgin Islander",
+  "postal_code": true,
+  "unofficial_names": [
+    "Virgin Islands of the United States",
+    "Amerikanische Jungferninseln",
+    "Îles Vierges américaines",
+    "Islas Vírgenes de los Estados Unidos",
+    "アメリカ領ヴァージン諸島",
+    "Amerikaanse Maagdeneilanden",
+    "Virgin Islands (U.S.)",
+    "United States Virgin Islands"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 18.335765,
+    "latitude_dec": "17.75262451171875",
+    "longitude": -64.896335,
+    "longitude_dec": "-64.73542022705078",
+    "max_latitude": 18.4129501,
+    "max_longitude": -64.5654945,
+    "min_latitude": 17.6738839,
+    "min_longitude": -65.0854569,
+    "bounds": {
+      "northeast": {
+        "lat": 18.4129501,
+        "lng": -64.5654945
+      },
+      "southwest": {
+        "lat": 17.6738839,
+        "lng": -65.0854569
+      }
+    }
+  },
+  "currency_code": "USD",
+  "postal_address_data": {
+    "key": "VI",
+    "upper": "ACNOS",
+    "zipex": "00802-1222,00850-9802",
+    "name": "VIRGIN ISLANDS (U.S.)",
+    "zip": "(008(?:(?:[0-4]\\d)|(?:5[01])))(?:[ \\-](\\d{4}))?",
+    "zip_name_type": "zip",
+    "require": "ACSZ",
+    "state_name_type": "state",
+    "id": "data/VI",
+    "posturl": "http://zip4.usps.com/zip4/welcome.jsp",
+    "fmt": "%N%n%O%n%A%n%C %S %Z"
+  },
+  "translations": {
+    "af": {
+      "official": "Virgin Islands, U.S.",
+      "common": "Virgin Islands, U.S."
+    },
+    "sq": {
+      "official": "Ishujt Virgin, U.S.",
+      "common": "Ishujt Virgin, U.S."
+    },
+    "am": {
+      "official": "ፘጐሣሱጢ ቨሴጂን ፠ሴቶኄ",
+      "common": "ፘጐሣሱጢ ቨሴጂን ፠ሴቶኄ"
+    },
+    "ar": {
+      "official": "فيرجن، جزر فيرجن الأميركيّة",
+      "common": "فيرجن، جزر فيرجن الأميركيّة"
+    },
+    "hy": {
+      "official": "Վիրջինյան կղզիներ, ՄՆ",
+      "common": "Վիրջինյան կղզիներ, ՄՆ"
+    },
+    "as": {
+      "official": "মাৰ্কিন যুক্তৰাষ্ট্ৰ ভাৰ্জিন দ্বীপ",
+      "common": "মাৰ্কিন যুক্তৰাষ্ট্ৰ ভাৰ্জিন দ্বীপ"
+    },
+    "az": {
+      "official": "Virgin Adaları, ABŞ",
+      "common": "Virgin Adaları, ABŞ"
+    },
+    "eu": {
+      "official": "Birjina uharteak, A.E.B.",
+      "common": "Birjina uharteak, A.E.B."
+    },
+    "be": {
+      "official": "Віргінскія астравы ЗША",
+      "common": "Віргінскія астравы ЗША"
+    },
+    "bn": {
+      "official": "মার্কিন যুক্তরাষ্ট্র ভার্জিন দ্বীপ",
+      "common": "মার্কিন যুক্তরাষ্ট্র ভার্জিন দ্বীপ"
+    },
+    "bs": {
+      "official": "Djevičanska Ostrva (Američka)",
+      "common": "Djevičanska Ostrva (Američka)"
+    },
+    "br": {
+      "official": "Virgin Islands, U.S.",
+      "common": "Virgin Islands, U.S."
+    },
+    "bg": {
+      "official": "Вирджински острови, САЩ",
+      "common": "Вирджински острови, САЩ"
+    },
+    "ca": {
+      "official": "Illes Verges, EUA",
+      "common": "Illes Verges, EUA"
+    },
+    "zh": {
+      "official": "美属维京群岛",
+      "common": "美属维京群岛"
+    },
+    "cs": {
+      "official": "Panenské ostrovy, americké",
+      "common": "Panenské ostrovy, americké"
+    },
+    "da": {
+      "official": "Amerikanske Jomfruøer, De",
+      "common": "Amerikanske Jomfruøer, De"
+    },
+    "nl": {
+      "official": "Amerikaanse Maagdeneilanden",
+      "common": "Amerikaanse Maagdeneilanden"
+    },
+    "dz": {
+      "official": "ཝར་ཇིན་ ཨའི་ལེནཌིསི་ ཡུ་ཨེསི།",
+      "common": "ཝར་ཇིན་ ཨའི་ལེནཌིསི་ ཡུ་ཨེསི།"
+    },
+    "en": {
+      "official": "Virgin Islands, U.S.",
+      "common": "Virgin Islands, U.S."
+    },
+    "eo": {
+      "official": "Virgulininsuloj, Usonaj",
+      "common": "Virgulininsuloj, Usonaj"
+    },
+    "et": {
+      "official": "USA Neitsisaared",
+      "common": "USA Neitsisaared"
+    },
+    "fo": {
+      "official": "Virgin Islands, U.S.",
+      "common": "Virgin Islands, U.S."
+    },
+    "fi": {
+      "official": "Neitsytsaaret, Yhdysvaltain",
+      "common": "Neitsytsaaret, Yhdysvaltain"
+    },
+    "fr": {
+      "official": "Îles Vierges des États-Unis",
+      "common": "Îles Vierges des États-Unis"
+    },
+    "ka": {
+      "official": "ვირჯინის კუნძულები, აშშ-ის",
+      "common": "ვირჯინის კუნძულები, აშშ-ის"
+    },
+    "de": {
+      "official": "Amerikanische Jungferninseln",
+      "common": "Amerikanische Jungferninseln"
+    },
+    "ga": {
+      "official": "Oileáin na Maighdean, S.A.M.",
+      "common": "Oileáin na Maighdean, S.A.M."
+    },
+    "gl": {
+      "official": "Illas Virxes, EE.UU.",
+      "common": "Illas Virxes, EE.UU."
+    },
+    "el": {
+      "official": "Παρθένοι Νήσοι, Η.Π.Α.",
+      "common": "Παρθένοι Νήσοι, Η.Π.Α."
+    },
+    "gu": {
+      "official": "વર્જીન ટાપુઓ, યુ.એસ.",
+      "common": "વર્જીન ટાપુઓ, યુ.એસ."
+    },
+    "he": {
+      "official": "איי הבתולה (ארה\\",
+      "common": "איי הבתולה (ארה\\"
+    },
+    "hi": {
+      "official": "वर्जिन आइलैंड्स, यू.एस.",
+      "common": "वर्जिन आइलैंड्स, यू.एस."
+    },
+    "hr": {
+      "official": "Američki Djevičanski otoci",
+      "common": "Američki Djevičanski otoci"
+    },
+    "hu": {
+      "official": "Virgin-szigetek (USA)",
+      "common": "Virgin-szigetek (USA)"
+    },
+    "is": {
+      "official": "Jómfrúareyjar, BNA",
+      "common": "Jómfrúareyjar, BNA"
+    },
+    "ia": {
+      "official": "Insulas Virgine, S.U.",
+      "common": "Insulas Virgine, S.U."
+    },
+    "id": {
+      "official": "Kepulauan Virgin Amerika Serikat",
+      "common": "Kepulauan Virgin Amerika Serikat"
+    },
+    "it": {
+      "official": "Isole Vergini, U.S.",
+      "common": "Isole Vergini, U.S."
+    },
+    "ja": {
+      "official": "米領ヴァージン諸島",
+      "common": "米領ヴァージン諸島"
+    },
+    "kn": {
+      "official": "ವರ್ಜಿನ್ ಐಲಂಡ್ಸ್,ಯೂಎಸ್",
+      "common": "ವರ್ಜಿನ್ ಐಲಂಡ್ಸ್,ಯೂಎಸ್"
+    },
+    "kk": {
+      "official": "Виргин аралдары (АҚШ)",
+      "common": "Виргин аралдары (АҚШ)"
+    },
+    "km": {
+      "official": "កោះវីជីន ​សហរដ្ឋ​អាមេរិក",
+      "common": "កោះវីជីន ​សហរដ្ឋ​អាមេរិក"
+    },
+    "rw": {
+      "official": "Ibirwa bya Virigini, Leta Zunze Ubumwe",
+      "common": "Ibirwa bya Virigini, Leta Zunze Ubumwe"
+    },
+    "ko": {
+      "official": "버진 제도, 미국령",
+      "common": "버진 제도, 미국령"
+    },
+    "ku": {
+      "official": "Giravên Virjin, D.Y.",
+      "common": "Giravên Virjin, D.Y."
+    },
+    "lv": {
+      "official": "ASV Virdžīnas",
+      "common": "ASV Virdžīnas"
+    },
+    "lt": {
+      "official": "Mergelių salos (JAV)",
+      "common": "Mergelių salos (JAV)"
+    },
+    "mk": {
+      "official": "Девствени острови, САД",
+      "common": "Девствени острови, САД"
+    },
+    "ml": {
+      "official": "വിര്‍ജിന്‍ ദ്വീപുകള്‍, യു.എസ്.",
+      "common": "വിര്‍ജിന്‍ ദ്വീപുകള്‍, യു.എസ്."
+    },
+    "mi": {
+      "official": "Whinarana",
+      "common": "Whinarana"
+    },
+    "mr": {
+      "official": "व्हर्जिन आयलॅंडस्, यू.एस.",
+      "common": "व्हर्जिन आयलॅंडस्, यू.एस."
+    },
+    "ms": {
+      "official": "Virgin Islands, U.S.",
+      "common": "Virgin Islands, U.S."
+    },
+    "mt": {
+      "official": "Finlandja",
+      "common": "Finlandja"
+    },
+    "mn": {
+      "official": "Виржиний АНУ арлууд",
+      "common": "Виржиний АНУ арлууд"
+    },
+    "ne": {
+      "official": "भर्जिन टापु, संयुक्त राज्य",
+      "common": "भर्जिन टापु, संयुक्त राज्य"
+    },
+    "nn": {
+      "official": "Jomfruøyane (USA)",
+      "common": "Jomfruøyane (USA)"
+    },
+    "nb": {
+      "official": "Jomfruøyene (USA)",
+      "common": "Jomfruøyene (USA)"
+    },
+    "oc": {
+      "official": "Finlandia",
+      "common": "Finlandia"
+    },
+    "or": {
+      "official": "ଭର୍ଜିନ ଦ୍ବୀପପୁଞ୍ଜ, ଯୁକ୍ତରାଷ୍ଟ୍ର",
+      "common": "ଭର୍ଜିନ ଦ୍ବୀପପୁଞ୍ଜ, ଯୁକ୍ତରାଷ୍ଟ୍ର"
+    },
+    "pa": {
+      "official": "ਵਿਰਗਿਨ ਟਾਪੂ, ਅਮਰੀਕਾ",
+      "common": "ਵਿਰਗਿਨ ਟਾਪੂ, ਅਮਰੀਕਾ"
+    },
+    "fa": {
+      "official": "جزایر ویرجین ایالات متحده",
+      "common": "جزایر ویرجین ایالات متحده"
+    },
+    "pl": {
+      "official": "Wyspy Dziewicze Stanów Zjednoczonych",
+      "common": "Wyspy Dziewicze Stanów Zjednoczonych"
+    },
+    "pt": {
+      "official": "Ilhas Virgens, Estados Unidos",
+      "common": "Ilhas Virgens, Estados Unidos"
+    },
+    "ps": {
+      "official": "Virgin Islands, U.S.",
+      "common": "Virgin Islands, U.S."
+    },
+    "ro": {
+      "official": "Insulele virgine (SUA)",
+      "common": "Insulele virgine (SUA)"
+    },
+    "ru": {
+      "official": "Виргинские острова (США)",
+      "common": "Виргинские острова (США)"
+    },
+    "si": {
+      "official": "එ.ජ වර්ජින් දූපත්",
+      "common": "එ.ජ වර්ජින් දූපත්"
+    },
+    "sk": {
+      "official": "Panenské ostrovy, Americké",
+      "common": "Panenské ostrovy, Americké"
+    },
+    "sl": {
+      "official": "Ameriški Deviški otoki",
+      "common": "Ameriški Deviški otoki"
+    },
+    "so": {
+      "official": "Virgin Islands, U.S.",
+      "common": "Virgin Islands, U.S."
+    },
+    "es": {
+      "official": "Islas Vírgenes, de EEUU",
+      "common": "Islas Vírgenes, de EEUU"
+    },
+    "sr": {
+      "official": "Девичанска острва, Америчка",
+      "common": "Девичанска острва, Америчка"
+    },
+    "sw": {
+      "official": "Virgin Islands, U.S.",
+      "common": "Virgin Islands, U.S."
+    },
+    "sv": {
+      "official": "Jungfruöarna, amerikanska",
+      "common": "Jungfruöarna, amerikanska"
+    },
+    "ta": {
+      "official": "வெர்ஜின் தீவுகள் , யு.எஸ்",
+      "common": "வெர்ஜின் தீவுகள் , யு.எஸ்"
+    },
+    "tt": {
+      "official": "Вирgин Утравлары, АКШ",
+      "common": "Вирgин Утравлары, АКШ"
+    },
+    "te": {
+      "official": "వర్జిన్ ఐలాండ్స్, యూ.ఏస.",
+      "common": "వర్జిన్ ఐలాండ్స్, యూ.ఏస."
+    },
+    "tl": {
+      "official": "Pulong Birhen, Estados Unidos",
+      "common": "Pulong Birhen, Estados Unidos"
+    },
+    "th": {
+      "official": "หมู่เกาะเวอร์จินของสหรัฐอเมริกา",
+      "common": "หมู่เกาะเวอร์จินของสหรัฐอเมริกา"
+    },
+    "ti": {
+      "official": "Virgin Islands, U.S.",
+      "common": "Virgin Islands, U.S."
+    },
+    "tk": {
+      "official": "Wirgin adalary, ABŞ",
+      "common": "Wirgin adalary, ABŞ"
+    },
+    "tr": {
+      "official": "Amerikan Virgin Adaları",
+      "common": "Amerikan Virgin Adaları"
+    },
+    "ug": {
+      "official": "ئامېرىكىغا قاراشلىق ۋىرجىن تاقىم ئاراللىرى",
+      "common": "ئامېرىكىغا قاراشلىق ۋىرجىن تاقىم ئاراللىرى"
+    },
+    "uk": {
+      "official": "Віргінські острови (США)",
+      "common": "Віргінські острови (США)"
+    },
+    "ve": {
+      "official": "Virgin Islands, U.S.",
+      "common": "Virgin Islands, U.S."
+    },
+    "vi": {
+      "official": "Quần Đảo Vơ-chin Mỹ",
+      "common": "Quần Đảo Vơ-chin Mỹ"
+    },
+    "cy": {
+      "official": "Ynysoedd Virgin, U.D.A.",
+      "common": "Ynysoedd Virgin, U.D.A."
+    },
+    "wa": {
+      "official": "Iyes Viedjes etazunyinnes",
+      "common": "Iyes Viedjes etazunyinnes"
+    },
+    "wo": {
+      "official": "Virgin Islands, U.S.",
+      "common": "Virgin Islands, U.S."
+    },
+    "xh": {
+      "official": "Finland",
+      "common": "Finland"
+    },
+    "zu": {
+      "official": "I-Finilandi",
+      "common": "I-Finilandi"
+    }
+  }
+}

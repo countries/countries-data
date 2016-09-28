@@ -1,0 +1,336 @@
+---
+continent: North America
+alpha2: JM
+alpha3: JAM
+country_code: '1'
+international_prefix: '011'
+ioc: JAM
+gec: JM
+name: Jamaica
+national_destination_code_lengths:
+- 3
+national_number_lengths:
+- 10
+national_prefix: '1'
+number: '388'
+region: Americas
+subregion: Caribbean
+world_region: AMER
+un_locode: JM
+nationality: Jamaican
+postal_code: false
+unofficial_names:
+- Jamaica
+- Jamaika
+- Jamaïque
+- ジャマイカ
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: 18.109581
+  latitude_dec: '18.143444061279297'
+  longitude: -77.297508
+  longitude_dec: "-77.34654998779297"
+  max_latitude: 18.5253104
+  max_longitude: -76.183159
+  min_latitude: 17.7057243
+  min_longitude: -78.3688461
+  bounds:
+    northeast:
+      lat: 18.5253104
+      lng: -76.183159
+    southwest:
+      lat: 17.7057243
+      lng: -78.3688461
+currency_code: JMD
+postal_address_data:
+  lang: en
+  name: JAMAICA
+  require: ACS
+  state_name_type: parish
+  id: data/JM
+  languages: en
+  sub_keys: Clarendon~Hanover~Kingston~Manchester~Portland~St. Andrew~St. Ann~St.
+    Catherine~St. Elizabeth~St. James~St. Mary~St. Thomas~Trelawny~Westmoreland
+  key: JM
+  sub_isoids: 13~09~01~12~04~02~06~14~11~08~05~03~07~10
+  fmt: "%N%n%O%n%A%n%C%n%S %X"
+translations:
+  af:
+    official: Jamaika
+    common: Jamaika
+  sq:
+    official: Xhamajka
+    common: Xhamajka
+  am:
+    official: ጃሢ፤ጢ
+    common: ጃሢ፤ጢ
+  ar:
+    official: جامايكا
+    common: جامايكا
+  hy:
+    official: Ջամայկա
+    common: Ջամայկա
+  as:
+    official: জামাইকা
+    common: জামাইকা
+  az:
+    official: Yamayka
+    common: Yamayka
+  eu:
+    official: Jamaika
+    common: Jamaika
+  be:
+    official: Ямайка
+    common: Ямайка
+  bn:
+    official: জামাইকা
+    common: জামাইকা
+  bs:
+    official: Jamajka
+    common: Jamajka
+  br:
+    official: Jamaika
+    common: Jamaika
+  bg:
+    official: Ямайка
+    common: Ямайка
+  ca:
+    official: Jamaica
+    common: Jamaica
+  zh:
+    official: 牙买加
+    common: 牙买加
+  cs:
+    official: Jamajka
+    common: Jamajka
+  da:
+    official: Jamaica
+    common: Jamaica
+  nl:
+    official: Jamaica
+    common: Jamaica
+  dz:
+    official: ཇ་མའི་ཀ
+    common: ཇ་མའི་ཀ
+  en:
+    official: Jamaica
+    common: Jamaica
+  eo:
+    official: Jamajko
+    common: Jamajko
+  et:
+    official: Jamaica
+    common: Jamaica
+  fo:
+    official: Jameika
+    common: Jameika
+  fi:
+    official: Jamaika
+    common: Jamaika
+  fr:
+    official: Jamaïque
+    common: Jamaïque
+  ka:
+    official: იამაიკა
+    common: იამაიკა
+  de:
+    official: Jamaika
+    common: Jamaika
+  ga:
+    official: Iamáice
+    common: Iamáice
+  gl:
+    official: Xamaica
+    common: Xamaica
+  el:
+    official: Ιαμαϊκή
+    common: Ιαμαϊκή
+  gu:
+    official: જમૈકા
+    common: જમૈકા
+  he:
+    official: ג'מייקה
+    common: ג'מייקה
+  hi:
+    official: जमैका
+    common: जमैका
+  hr:
+    official: Jamajka
+    common: Jamajka
+  hu:
+    official: Jamaica
+    common: Jamaica
+  is:
+    official: Jamaíka
+    common: Jamaíka
+  ia:
+    official: Jamaica
+    common: Jamaica
+  id:
+    official: Jamaica
+    common: Jamaica
+  it:
+    official: Giamaica
+    common: Giamaica
+  ja:
+    official: ジャマイカ
+    common: ジャマイカ
+  kn:
+    official: ಜಮೈಕ
+    common: ಜಮೈಕ
+  kk:
+    official: Ямайка
+    common: Ямайка
+  km:
+    official: ចាម៉ៃកា
+    common: ចាម៉ៃកា
+  rw:
+    official: Jamayika
+    common: Jamayika
+  ko:
+    official: 자메이카
+    common: 자메이카
+  ku:
+    official: Jamayîka
+    common: Jamayîka
+  lv:
+    official: Jamaika
+    common: Jamaika
+  lt:
+    official: Jamaika
+    common: Jamaika
+  mk:
+    official: Јамајка
+    common: Јамајка
+  ml:
+    official: ജമൈക്ക
+    common: ജമൈക്ക
+  mi:
+    official: Jamaica
+    common: Jamaica
+  mr:
+    official: जमैका
+    common: जमैका
+  ms:
+    official: Jamaika
+    common: Jamaika
+  mt:
+    official: Ġamajka
+    common: Ġamajka
+  mn:
+    official: Ямайк
+    common: Ямайк
+  ne:
+    official: जमैका
+    common: जमैका
+  nn:
+    official: Jamaica
+    common: Jamaica
+  nb:
+    official: Jamaica
+    common: Jamaica
+  oc:
+    official: Jamaïca
+    common: Jamaïca
+  or:
+    official: ଜାମୈକା
+    common: ଜାମୈକା
+  pa:
+    official: ਜੈਮਾਈਕਾ
+    common: ਜੈਮਾਈਕਾ
+  fa:
+    official: جاماییکا
+    common: جاماییکا
+  pl:
+    official: Jamajka
+    common: Jamajka
+  pt:
+    official: Jamaica
+    common: Jamaica
+  ps:
+    official: جمیکا
+    common: جمیکا
+  ro:
+    official: Jamaica
+    common: Jamaica
+  ru:
+    official: Ямайка
+    common: Ямайка
+  si:
+    official: ජැමෙයිකාව
+    common: ජැමෙයිකාව
+  sk:
+    official: Jamajka
+    common: Jamajka
+  sl:
+    official: Jamajka
+    common: Jamajka
+  so:
+    official: Jameyka
+    common: Jameyka
+  es:
+    official: Jamaica
+    common: Jamaica
+  sr:
+    official: Јамајка
+    common: Јамајка
+  sw:
+    official: Jamaica
+    common: Jamaica
+  sv:
+    official: Jamaica
+    common: Jamaica
+  ta:
+    official: ஜமைக்கா
+    common: ஜமைக்கா
+  tt:
+    official: Жамайка
+    common: Жамайка
+  te:
+    official: జమైకా
+    common: జమైకా
+  tl:
+    official: Jamaica
+    common: Jamaica
+  th:
+    official: จาเมกา
+    common: จาเมกา
+  ti:
+    official: ጃማይካ
+    common: ጃማይካ
+  tk:
+    official: Ýamaýka
+    common: Ýamaýka
+  tr:
+    official: Jamaika
+    common: Jamaika
+  ug:
+    official: يامايكا
+    common: يامايكا
+  uk:
+    official: Ямайка
+    common: Ямайка
+  ve:
+    official: Jamaica
+    common: Jamaica
+  vi:
+    official: Gia-mê-ca
+    common: Gia-mê-ca
+  cy:
+    official: Jamaica
+    common: Jamaica
+  wa:
+    official: Djamayike
+    common: Djamayike
+  wo:
+    official: Jamayka
+    common: Jamayka
+  xh:
+    official: Jamaica
+    common: Jamaica
+  zu:
+    official: I Jamayikha
+    common: I Jamayikha

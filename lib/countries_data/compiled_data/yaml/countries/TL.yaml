@@ -1,0 +1,330 @@
+---
+continent: Asia
+alpha2: TL
+alpha3: TLS
+country_code: '670'
+international_prefix: None
+ioc: TLS
+gec: TT
+name: Timor-Leste
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: None
+number: '626'
+region: Asia
+subregion: South-Eastern Asia
+world_region: APAC
+un_locode: 
+nationality: East Timorese
+postal_code: false
+unofficial_names:
+- East Timor
+- Timor-Leste
+- Timor oriental
+- Timor Oriental
+- 東ティモール
+- Oost-Timor
+languages_official:
+- pt
+languages_spoken:
+- pt
+geo:
+  latitude: -8.874217
+  latitude_dec: "-8.804786682128906"
+  longitude: 125.727539
+  longitude_dec: '126.07902526855469'
+  max_latitude: -8.1268458
+  max_longitude: 127.3430436
+  min_latitude: -9.504195
+  min_longitude: 124.0417379
+  bounds:
+    northeast:
+      lat: -8.1268458
+      lng: 127.3430436
+    southwest:
+      lat: -9.504195
+      lng: 124.0417379
+currency_code: IDR
+postal_address_data:
+  id: data/TL
+  key: TL
+  name: TIMOR-LESTE
+translations:
+  af:
+    official: Timor-Leste
+    common: Timor-Leste
+  sq:
+    official: Timor-Leste
+    common: Timor-Leste
+  am:
+    official: ሤስሲቅ ቲሥሴ
+    common: ሤስሲቅ ቲሥሴ
+  ar:
+    official: تيمور-ليستي
+    common: تيمور-ليستي
+  hy:
+    official: Թիմոր - Լեստե
+    common: Թիմոր - Լեստե
+  as:
+    official: টিমোৰ-লেস্তে
+    common: টিমোৰ-লেস্তে
+  az:
+    official: Timor Leste
+    common: Timor Leste
+  eu:
+    official: Ekialdeko Timor
+    common: Ekialdeko Timor
+  be:
+    official: Усходні Тымор
+    common: Усходні Тымор
+  bn:
+    official: টিমোর-লেস্তে
+    common: টিমোর-লেস্তে
+  bs:
+    official: Istočni Timor
+    common: Istočni Timor
+  br:
+    official: Timor-Leste
+    common: Timor-Leste
+  bg:
+    official: Тимор-Лест
+    common: Тимор-Лест
+  ca:
+    official: Timor Oriental
+    common: Timor Oriental
+  zh:
+    official: 东帝汶
+    common: 东帝汶
+  cs:
+    official: Východní Timor
+    common: Východní Timor
+  da:
+    official: Timor-Leste
+    common: Timor-Leste
+  nl:
+    official: Oost-Timor
+    common: Oost-Timor
+  dz:
+    official: ཊི་མོར་-ལིསི་ཏི།
+    common: ཊི་མོར་-ལིསི་ཏི།
+  en:
+    official: Timor-Leste
+    common: Timor-Leste
+  eo:
+    official: Orienta Timoro
+    common: Orienta Timoro
+  et:
+    official: Ida-Timor (Timor-Leste)
+    common: Ida-Timor (Timor-Leste)
+  fo:
+    official: Timor-Leste
+    common: Timor-Leste
+  fi:
+    official: Itä-Timor
+    common: Itä-Timor
+  fr:
+    official: Timor-Leste
+    common: Timor-Leste
+  ka:
+    official: აღმოსავლეთი ტიმორი
+    common: აღმოსავლეთი ტიმორი
+  de:
+    official: Timor-Leste
+    common: Timor-Leste
+  ga:
+    official: Tíomór Thoir
+    common: Tíomór Thoir
+  gl:
+    official: Timor Leste
+    common: Timor Leste
+  el:
+    official: Τιμόρ-Λέστε
+    common: Τιμόρ-Λέστε
+  gu:
+    official: તિમોર-લેસ્ટે
+    common: તિમોર-લેસ્ટે
+  he:
+    official: טימור מזרח
+    common: טימור מזרח
+  hi:
+    official: तिमोर-लेस्टे
+    common: तिमोर-लेस्टे
+  hr:
+    official: Istočni Timor
+    common: Istočni Timor
+  hu:
+    official: Kelet-Timor
+    common: Kelet-Timor
+  is:
+    official: Tímor-Leste
+    common: Tímor-Leste
+  ia:
+    official: Timor Oriental
+    common: Timor Oriental
+  id:
+    official: Timor Timur
+    common: Timor Timur
+  it:
+    official: Timor orientale
+    common: Timor orientale
+  ja:
+    official: 東ティモール
+    common: 東ティモール
+  kn:
+    official: Timor-Leste
+    common: Timor-Leste
+  kk:
+    official: Тимор-Лесте
+    common: Тимор-Лесте
+  km:
+    official: ទីម័រ
+    common: ទីម័រ
+  rw:
+    official: Timoro-Lesite
+    common: Timoro-Lesite
+  ko:
+    official: 동티모르
+    common: 동티모르
+  ku:
+    official: Tîmora Rojhilat
+    common: Tîmora Rojhilat
+  lv:
+    official: Austrumtimora
+    common: Austrumtimora
+  lt:
+    official: Rytų Timoras
+    common: Rytų Timoras
+  mk:
+    official: Тимор-Лесте
+    common: Тимор-Лесте
+  ml:
+    official: തിമൂര്‍-ലെസ്തെ
+    common: തിമൂര്‍-ലെസ്തെ
+  mi:
+    official: Timor-Leste
+    common: Timor-Leste
+  mr:
+    official: तिमोर-लेस्ते
+    common: तिमोर-लेस्ते
+  ms:
+    official: Timor-Leste
+    common: Timor-Leste
+  mt:
+    official: Timor tal-Lvant
+    common: Timor tal-Lvant
+  mn:
+    official: Timor-Leste
+    common: Timor-Leste
+  ne:
+    official: टिमोर-लेस्टे
+    common: टिमोर-लेस्टे
+  nn:
+    official: Aust-Timor
+    common: Aust-Timor
+  nb:
+    official: Øst-Timor
+    common: Øst-Timor
+  oc:
+    official: Timor-Leste
+    common: Timor-Leste
+  or:
+    official: ତିମୋର-ଲେଷ୍ଟେ
+    common: ତିମୋର-ଲେଷ୍ଟେ
+  pa:
+    official: ਟੀਮੁਰ-ਲੀਸਟੀ
+    common: ਟੀਮੁਰ-ਲੀਸਟੀ
+  fa:
+    official: تیمور شرقی
+    common: تیمور شرقی
+  pl:
+    official: Timor Wschodni
+    common: Timor Wschodni
+  pt:
+    official: Timor-Leste
+    common: Timor-Leste
+  ps:
+    official: Timor-Leste
+    common: Timor-Leste
+  ro:
+    official: Timorul de Est
+    common: Timorul de Est
+  ru:
+    official: Восточный Тимор
+    common: Восточный Тимор
+  si:
+    official: ටිමෝර්-ලෙස්ටේ
+    common: ටිමෝර්-ලෙස්ටේ
+  sk:
+    official: Východný Timor
+    common: Východný Timor
+  sl:
+    official: Vzhodni Timor
+    common: Vzhodni Timor
+  so:
+    official: Timor-Leste
+    common: Timor-Leste
+  es:
+    official: Timor Oriental
+    common: Timor Oriental
+  sr:
+    official: Источни Тимор
+    common: Источни Тимор
+  sw:
+    official: Timor-Leste
+    common: Timor-Leste
+  sv:
+    official: Östtimor
+    common: Östtimor
+  ta:
+    official: திமோர்-லெஸ்டி
+    common: திமோர்-லெஸ்டி
+  tt:
+    official: Тимор-Лесте
+    common: Тимор-Лесте
+  te:
+    official: తిమోర్-లేస్తే
+    common: తిమోర్-లేస్తే
+  tl:
+    official: Timor-Leste
+    common: Timor-Leste
+  th:
+    official: ติมอร์-เลสเต
+    common: ติมอร์-เลสเต
+  ti:
+    official: ምስራቅ ቲሞር
+    common: ምስራቅ ቲሞር
+  tk:
+    official: Timor-Leste
+    common: Timor-Leste
+  tr:
+    official: Timor-Leste
+    common: Timor-Leste
+  ug:
+    official: شەرقىي تىمور
+    common: شەرقىي تىمور
+  uk:
+    official: Східний Тимор
+    common: Східний Тимор
+  ve:
+    official: Thoho
+    common: Thoho
+  vi:
+    official: Thi-moa Le-xợ-te
+    common: Thi-moa Le-xợ-te
+  cy:
+    official: Timor-Leste
+    common: Timor-Leste
+  wa:
+    official: Timor Ess
+    common: Timor Ess
+  wo:
+    official: Timor-Leste
+    common: Timor-Leste
+  xh:
+    official: Timor-Leste
+    common: Timor-Leste
+  zu:
+    official: Timor-Leste
+    common: Timor-Leste

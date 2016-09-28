@@ -1,0 +1,329 @@
+---
+continent: North America
+alpha2: BZ
+alpha3: BLZ
+country_code: '501'
+international_prefix: '00'
+ioc: BIZ
+gec: BH
+name: Belize
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: '0'
+number: 084
+region: Americas
+subregion: Central America
+world_region: AMER
+un_locode: BZ
+nationality: Belizean
+postal_code: false
+unofficial_names:
+- Belize
+- Belice
+- ベリーズ
+languages_official:
+- en
+- es
+languages_spoken:
+- en
+- es
+geo:
+  latitude: 17.189877
+  latitude_dec: '17.225292205810547'
+  longitude: -88.49765
+  longitude_dec: "-88.66973876953125"
+  max_latitude: 18.495942
+  max_longitude: -87.49172689999999
+  min_latitude: 15.885619
+  min_longitude: -89.227588
+  bounds:
+    northeast:
+      lat: 18.495942
+      lng: -87.49172689999999
+    southwest:
+      lat: 15.885619
+      lng: -89.227588
+currency_code: BZD
+postal_address_data:
+  id: data/BZ
+  key: BZ
+  name: BELIZE
+translations:
+  af:
+    official: Belize
+    common: Belize
+  sq:
+    official: Belize
+    common: Belize
+  am:
+    official: ቤሑፈ
+    common: ቤሑፈ
+  ar:
+    official: بيليز
+    common: بيليز
+  hy:
+    official: Բելիզ
+    common: Բելիզ
+  as:
+    official: বেলিজ
+    common: বেলিজ
+  az:
+    official: Beliz
+    common: Beliz
+  eu:
+    official: Belize
+    common: Belize
+  be:
+    official: Беліз
+    common: Беліз
+  bn:
+    official: বেলিজে
+    common: বেলিজে
+  bs:
+    official: Belize
+    common: Belize
+  br:
+    official: Belize
+    common: Belize
+  bg:
+    official: Белиз
+    common: Белиз
+  ca:
+    official: Belize
+    common: Belize
+  zh:
+    official: 伯利兹
+    common: 伯利兹
+  cs:
+    official: Belize
+    common: Belize
+  da:
+    official: Belize
+    common: Belize
+  nl:
+    official: Belize
+    common: Belize
+  dz:
+    official: བེ་ལིཛི།
+    common: བེ་ལིཛི།
+  en:
+    official: Belize
+    common: Belize
+  eo:
+    official: Belizo
+    common: Belizo
+  et:
+    official: Belize
+    common: Belize
+  fo:
+    official: Belis
+    common: Belis
+  fi:
+    official: Belize
+    common: Belize
+  fr:
+    official: Belize
+    common: Belize
+  ka:
+    official: ბელიზი
+    common: ბელიზი
+  de:
+    official: Belize
+    common: Belize
+  ga:
+    official: An Bheilís
+    common: An Bheilís
+  gl:
+    official: Belice
+    common: Belice
+  el:
+    official: Μπελίζ
+    common: Μπελίζ
+  gu:
+    official: બેલિઝ
+    common: બેલિઝ
+  he:
+    official: בליז
+    common: בליז
+  hi:
+    official: बेलीज़
+    common: बेलीज़
+  hr:
+    official: Belize
+    common: Belize
+  hu:
+    official: Belize
+    common: Belize
+  is:
+    official: Belís
+    common: Belís
+  ia:
+    official: Belize
+    common: Belize
+  id:
+    official: Belize
+    common: Belize
+  it:
+    official: Belize
+    common: Belize
+  ja:
+    official: ベリーズ
+    common: ベリーズ
+  kn:
+    official: ಬೆಲಿಜಿ
+    common: ಬೆಲಿಜಿ
+  kk:
+    official: Белиз
+    common: Белиз
+  km:
+    official: បេលីហ្ស
+    common: បេលីហ្ស
+  rw:
+    official: Belize
+    common: Belize
+  ko:
+    official: 벨리즈
+    common: 벨리즈
+  ku:
+    official: Belîze
+    common: Belîze
+  lv:
+    official: Beliza
+    common: Beliza
+  lt:
+    official: Belizas
+    common: Belizas
+  mk:
+    official: Белизе
+    common: Белизе
+  ml:
+    official: ബെലൈസ്
+    common: ബെലൈസ്
+  mi:
+    official: Belize
+    common: Belize
+  mr:
+    official: बेलिझ
+    common: बेलिझ
+  ms:
+    official: Belize
+    common: Belize
+  mt:
+    official: Belġju
+    common: Belġju
+  mn:
+    official: Belize
+    common: Belize
+  ne:
+    official: बेलिज
+    common: बेलिज
+  nn:
+    official: Belize
+    common: Belize
+  nb:
+    official: Belize
+    common: Belize
+  oc:
+    official: Bèlgica
+    common: Bèlgica
+  or:
+    official: ବେଲିଜ
+    common: ବେଲିଜ
+  pa:
+    official: ਬੀਲੀਜ਼ੀ
+    common: ਬੀਲੀਜ਼ੀ
+  fa:
+    official: بلیز
+    common: بلیز
+  pl:
+    official: Belize
+    common: Belize
+  pt:
+    official: Belize
+    common: Belize
+  ps:
+    official: Belize
+    common: Belize
+  ro:
+    official: Belize
+    common: Belize
+  ru:
+    official: Белиз
+    common: Белиз
+  si:
+    official: බිලිසේ
+    common: බිලිසේ
+  sk:
+    official: Belize
+    common: Belize
+  sl:
+    official: Belize
+    common: Belize
+  so:
+    official: Belize
+    common: Belize
+  es:
+    official: Belice
+    common: Belice
+  sr:
+    official: Белизе
+    common: Белизе
+  sw:
+    official: Belize
+    common: Belize
+  sv:
+    official: Belize
+    common: Belize
+  ta:
+    official: பெலிஸ்
+    common: பெலிஸ்
+  tt:
+    official: Белиз
+    common: Белиз
+  te:
+    official: బేలిఝ
+    common: బేలిఝ
+  tl:
+    official: Belize
+    common: Belize
+  th:
+    official: เบลีซ
+    common: เบลีซ
+  ti:
+    official: ቤሊዘ
+    common: ቤሊዘ
+  tk:
+    official: Beliz
+    common: Beliz
+  tr:
+    official: Belize
+    common: Belize
+  ug:
+    official: بېلىز
+    common: بېلىز
+  uk:
+    official: Беліз
+    common: Беліз
+  ve:
+    official: Belize
+    common: Belize
+  vi:
+    official: Bê-li-xê
+    common: Bê-li-xê
+  cy:
+    official: Belîs
+    common: Belîs
+  wa:
+    official: Belize
+    common: Belize
+  wo:
+    official: Beliis
+    common: Beliis
+  xh:
+    official: Belgium
+    common: Belgium
+  zu:
+    official: Isi-Bhelijiyamu
+    common: Isi-Bhelijiyamu

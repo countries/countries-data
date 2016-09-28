@@ -1,0 +1,439 @@
+{
+  "continent": "Asia",
+  "alpha2": "IQ",
+  "alpha3": "IRQ",
+  "country_code": "964",
+  "international_prefix": "00",
+  "ioc": "IRQ",
+  "gec": "IZ",
+  "name": "Iraq",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8,
+    9,
+    10
+  ],
+  "national_prefix": "None",
+  "number": "368",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "world_region": "EMEA",
+  "un_locode": "IQ",
+  "nationality": "Iraqi",
+  "postal_code": true,
+  "unofficial_names": [
+    "Iraq",
+    "العراق",
+    "Irak",
+    "イラク"
+  ],
+  "languages_official": [
+    "ar"
+  ],
+  "languages_spoken": [
+    "ar"
+  ],
+  "geo": {
+    "latitude": 33.223191,
+    "latitude_dec": "33.044586181640625",
+    "longitude": 43.679291,
+    "longitude_dec": "43.77495574951172",
+    "max_latitude": 37.380645,
+    "max_longitude": 48.61126549999999,
+    "min_latitude": 29.0612079,
+    "min_longitude": 38.7936028,
+    "bounds": {
+      "northeast": {
+        "lat": 37.380645,
+        "lng": 48.61126549999999
+      },
+      "southwest": {
+        "lat": 29.0612079,
+        "lng": 38.7936028
+      }
+    }
+  },
+  "currency_code": "IQD",
+  "postal_address_data": {
+    "upper": "CS",
+    "zipex": "31001",
+    "name": "IRAQ",
+    "zip": "\\d{5}",
+    "require": "ACS",
+    "id": "data/IQ",
+    "key": "IQ",
+    "fmt": "%O%n%N%n%A%n%C, %S%n%Z"
+  },
+  "translations": {
+    "af": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "sq": {
+      "official": "Iraku",
+      "common": "Iraku"
+    },
+    "am": {
+      "official": "ጒሲቅ",
+      "common": "ጒሲቅ"
+    },
+    "ar": {
+      "official": "العراق",
+      "common": "العراق"
+    },
+    "hy": {
+      "official": "Իրաք",
+      "common": "Իրաք"
+    },
+    "as": {
+      "official": "ইৰাক",
+      "common": "ইৰাক"
+    },
+    "az": {
+      "official": "İraq",
+      "common": "İraq"
+    },
+    "eu": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "be": {
+      "official": "Ірак",
+      "common": "Ірак"
+    },
+    "bn": {
+      "official": "ইরাক",
+      "common": "ইরাক"
+    },
+    "bs": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "br": {
+      "official": "Iraq",
+      "common": "Iraq"
+    },
+    "bg": {
+      "official": "Ирак",
+      "common": "Ирак"
+    },
+    "ca": {
+      "official": "Iraq",
+      "common": "Iraq"
+    },
+    "zh": {
+      "official": "伊拉克",
+      "common": "伊拉克"
+    },
+    "cs": {
+      "official": "Irák",
+      "common": "Irák"
+    },
+    "da": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "nl": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "dz": {
+      "official": "ཨི་རཀ།",
+      "common": "ཨི་རཀ།"
+    },
+    "en": {
+      "official": "Iraq",
+      "common": "Iraq"
+    },
+    "eo": {
+      "official": "Irako",
+      "common": "Irako"
+    },
+    "et": {
+      "official": "Iraak",
+      "common": "Iraak"
+    },
+    "fo": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "fi": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "fr": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "ka": {
+      "official": "ერაყი",
+      "common": "ერაყი"
+    },
+    "de": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "ga": {
+      "official": "An Iaráic",
+      "common": "An Iaráic"
+    },
+    "gl": {
+      "official": "Iraq",
+      "common": "Iraq"
+    },
+    "el": {
+      "official": "Ιράκ",
+      "common": "Ιράκ"
+    },
+    "gu": {
+      "official": "ઇરાક",
+      "common": "ઇરાક"
+    },
+    "he": {
+      "official": "עירק",
+      "common": "עירק"
+    },
+    "hi": {
+      "official": "इराक",
+      "common": "इराक"
+    },
+    "hr": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "hu": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "is": {
+      "official": "Írak",
+      "common": "Írak"
+    },
+    "ia": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "id": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "it": {
+      "official": "Iraq",
+      "common": "Iraq"
+    },
+    "ja": {
+      "official": "イラク",
+      "common": "イラク"
+    },
+    "kn": {
+      "official": "ಇರಾಕ್",
+      "common": "ಇರಾಕ್"
+    },
+    "kk": {
+      "official": "Ирак",
+      "common": "Ирак"
+    },
+    "km": {
+      "official": "អ៊ីរ៉ាក់",
+      "common": "អ៊ីរ៉ាក់"
+    },
+    "rw": {
+      "official": "Irake",
+      "common": "Irake"
+    },
+    "ko": {
+      "official": "이라크",
+      "common": "이라크"
+    },
+    "ku": {
+      "official": "Iraq",
+      "common": "Iraq"
+    },
+    "lv": {
+      "official": "Irāka",
+      "common": "Irāka"
+    },
+    "lt": {
+      "official": "Irakas",
+      "common": "Irakas"
+    },
+    "mk": {
+      "official": "Ирак",
+      "common": "Ирак"
+    },
+    "ml": {
+      "official": "ഇറാഖ്",
+      "common": "ഇറാഖ്"
+    },
+    "mi": {
+      "official": "Īrāki",
+      "common": "Īrāki"
+    },
+    "mr": {
+      "official": "इराक",
+      "common": "इराक"
+    },
+    "ms": {
+      "official": "Iraq",
+      "common": "Iraq"
+    },
+    "mt": {
+      "official": "Iżrael",
+      "common": "Iżrael"
+    },
+    "mn": {
+      "official": "Ирак",
+      "common": "Ирак"
+    },
+    "ne": {
+      "official": "इराक",
+      "common": "इराक"
+    },
+    "nn": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "nb": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "oc": {
+      "official": "Israel",
+      "common": "Israel"
+    },
+    "or": {
+      "official": "ଇରାକ",
+      "common": "ଇରାକ"
+    },
+    "pa": {
+      "official": "ਇਰਾਕ",
+      "common": "ਇਰਾਕ"
+    },
+    "fa": {
+      "official": "عراق",
+      "common": "عراق"
+    },
+    "pl": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "pt": {
+      "official": "Iraque",
+      "common": "Iraque"
+    },
+    "ps": {
+      "official": "عراق",
+      "common": "عراق"
+    },
+    "ro": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "ru": {
+      "official": "Ирак",
+      "common": "Ирак"
+    },
+    "si": {
+      "official": "ඉරාකය",
+      "common": "ඉරාකය"
+    },
+    "sk": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "sl": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "so": {
+      "official": "Ciraaq",
+      "common": "Ciraaq"
+    },
+    "es": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "sr": {
+      "official": "Ирак",
+      "common": "Ирак"
+    },
+    "sw": {
+      "official": "Iraq",
+      "common": "Iraq"
+    },
+    "sv": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "ta": {
+      "official": "ஈராக்",
+      "common": "ஈராக்"
+    },
+    "tt": {
+      "official": "Гырак",
+      "common": "Гырак"
+    },
+    "te": {
+      "official": "ఇరాక్",
+      "common": "ఇరాక్"
+    },
+    "tl": {
+      "official": "Iraq",
+      "common": "Iraq"
+    },
+    "th": {
+      "official": "อิรัก",
+      "common": "อิรัก"
+    },
+    "ti": {
+      "official": "ኢራቅ",
+      "common": "ኢራቅ"
+    },
+    "tk": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "tr": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "ug": {
+      "official": "ئىراق",
+      "common": "ئىراق"
+    },
+    "uk": {
+      "official": "Ірак",
+      "common": "Ірак"
+    },
+    "ve": {
+      "official": "Iraq",
+      "common": "Iraq"
+    },
+    "vi": {
+      "official": "I-rắc",
+      "common": "I-rắc"
+    },
+    "cy": {
+      "official": "Irac",
+      "common": "Irac"
+    },
+    "wa": {
+      "official": "Irak",
+      "common": "Irak"
+    },
+    "wo": {
+      "official": "Iraak",
+      "common": "Iraak"
+    },
+    "xh": {
+      "official": "Sirayeli",
+      "common": "Sirayeli"
+    },
+    "zu": {
+      "official": "I-Sirayeli",
+      "common": "I-Sirayeli"
+    }
+  }
+}

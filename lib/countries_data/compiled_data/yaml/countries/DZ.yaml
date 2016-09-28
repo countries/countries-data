@@ -1,0 +1,334 @@
+---
+continent: Africa
+alpha2: DZ
+alpha3: DZA
+country_code: '213'
+international_prefix: '00'
+ioc: ALG
+gec: AG
+name: Algeria
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: '7'
+number: '012'
+region: Africa
+subregion: Northern Africa
+world_region: EMEA
+un_locode: DZ
+nationality: Algerian
+postal_code: true
+unofficial_names:
+- Algeria
+- الجزائر
+- Algerien
+- Algérie
+- Argelia
+- アルジェリア
+- Algerije
+languages_official:
+- ar
+languages_spoken:
+- ar
+geo:
+  latitude: 28.033886
+  latitude_dec: '28.213645935058594'
+  longitude: 1.659626
+  longitude_dec: '2.6547281742095947'
+  max_latitude: 37.0898204
+  max_longitude: 11.999999
+  min_latitude: 18.968147
+  min_longitude: -8.667611299999999
+  bounds:
+    northeast:
+      lat: 37.0898204
+      lng: 11.999999
+    southwest:
+      lat: 18.968147
+      lng: -8.667611299999999
+currency_code: DZD
+postal_address_data:
+  zipex: '40304,16027'
+  name: ALGERIA
+  zip: "\\d{5}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  key: DZ
+  id: data/DZ
+translations:
+  af:
+    official: Algerië
+    common: Algerië
+  sq:
+    official: Algjeria
+    common: Algjeria
+  am:
+    official: ጐሔጄሱ።
+    common: ጐሔጄሱ።
+  ar:
+    official: الجزائر
+    common: الجزائر
+  hy:
+    official: Ալժիր
+    common: Ալժիր
+  as:
+    official: আলজেৰিযা
+    common: আলজেৰিযা
+  az:
+    official: Əlcəzair
+    common: Əlcəzair
+  eu:
+    official: Aljeria
+    common: Aljeria
+  be:
+    official: Алжыр
+    common: Алжыр
+  bn:
+    official: অ্যালজিরিয়া
+    common: অ্যালজিরিয়া
+  bs:
+    official: Alžir
+    common: Alžir
+  br:
+    official: Algeria
+    common: Algeria
+  bg:
+    official: Алжир
+    common: Алжир
+  ca:
+    official: Algèria
+    common: Algèria
+  zh:
+    official: 阿尔及利亚
+    common: 阿尔及利亚
+  cs:
+    official: Alžírsko
+    common: Alžírsko
+  da:
+    official: Algeriet
+    common: Algeriet
+  nl:
+    official: Algerije
+    common: Algerije
+  dz:
+    official: ཨཱལ་ཇི་རི་ཡ།
+    common: ཨཱལ་ཇི་རི་ཡ།
+  en:
+    official: Algeria
+    common: Algeria
+  eo:
+    official: Alĝerio
+    common: Alĝerio
+  et:
+    official: Alžeeria
+    common: Alžeeria
+  fo:
+    official: Algeria
+    common: Algeria
+  fi:
+    official: Algeria
+    common: Algeria
+  fr:
+    official: Algérie
+    common: Algérie
+  ka:
+    official: ალჟირი
+    common: ალჟირი
+  de:
+    official: Algerien
+    common: Algerien
+  ga:
+    official: An Ailgéir
+    common: An Ailgéir
+  gl:
+    official: Alxeria
+    common: Alxeria
+  el:
+    official: Αλγερία
+    common: Αλγερία
+  gu:
+    official: અલ્જેરિયા
+    common: અલ્જેરિયા
+  he:
+    official: אלג'יריה
+    common: אלג'יריה
+  hi:
+    official: अल्जीरिया
+    common: अल्जीरिया
+  hr:
+    official: Alžir
+    common: Alžir
+  hu:
+    official: Algéria
+    common: Algéria
+  is:
+    official: Alsír
+    common: Alsír
+  ia:
+    official: Algeria
+    common: Algeria
+  id:
+    official: Algeria
+    common: Algeria
+  it:
+    official: Algeria
+    common: Algeria
+  ja:
+    official: アルジェリア
+    common: アルジェリア
+  kn:
+    official: ಅಲ್ಜೀರಿಯ
+    common: ಅಲ್ಜೀರಿಯ
+  kk:
+    official: Алжир
+    common: Алжир
+  km:
+    official: អាល់ហ្សេរី
+    common: អាល់ហ្សេរី
+  rw:
+    official: Aligeriya
+    common: Aligeriya
+  ko:
+    official: 알제리
+    common: 알제리
+  ku:
+    official: Cezayîr
+    common: Cezayîr
+  lv:
+    official: Alžīrija
+    common: Alžīrija
+  lt:
+    official: Alžyras
+    common: Alžyras
+  mk:
+    official: Алжир
+    common: Алжир
+  ml:
+    official: അള്‍ജീരിയ
+    common: അള്‍ജീരിയ
+  mi:
+    official: Algeria
+    common: Algeria
+  mr:
+    official: अल्जिरिया
+    common: अल्जिरिया
+  ms:
+    official: Algeria
+    common: Algeria
+  mt:
+    official: Bulgarija
+    common: Bulgarija
+  mn:
+    official: Алжир
+    common: Алжир
+  ne:
+    official: अल्जेरिया
+    common: अल्जेरिया
+  nn:
+    official: Algerie
+    common: Algerie
+  nb:
+    official: Algerie
+    common: Algerie
+  oc:
+    official: Algeria
+    common: Algeria
+  or:
+    official: ଆଲଜେରିୟା
+    common: ଆଲଜେରିୟା
+  pa:
+    official: ਅਲਜੀਰੀਆ
+    common: ਅਲਜੀਰੀਆ
+  fa:
+    official: الجزایر
+    common: الجزایر
+  pl:
+    official: Algieria
+    common: Algieria
+  pt:
+    official: Argélia
+    common: Argélia
+  ps:
+    official: الجزایر
+    common: الجزایر
+  ro:
+    official: Algeria
+    common: Algeria
+  ru:
+    official: Алжир
+    common: Алжир
+  si:
+    official: ඇල්ජීරියා
+    common: ඇල්ජීරියා
+  sk:
+    official: Alžírsko
+    common: Alžírsko
+  sl:
+    official: Alžirija
+    common: Alžirija
+  so:
+    official: Algeria
+    common: Algeria
+  es:
+    official: Algeria
+    common: Algeria
+  sr:
+    official: Алжир
+    common: Алжир
+  sw:
+    official: Aljeria
+    common: Aljeria
+  sv:
+    official: Algeriet
+    common: Algeriet
+  ta:
+    official: அல்ஜீரியா
+    common: அல்ஜீரியா
+  tt:
+    official: Алжыр
+    common: Алжыр
+  te:
+    official: అల్జిరియా
+    common: అల్జిరియా
+  tl:
+    official: Alheriya
+    common: Alheriya
+  th:
+    official: แอลจีเรีย
+    common: แอลจีเรีย
+  ti:
+    official: አልጄሪያ
+    common: አልጄሪያ
+  tk:
+    official: Algerýa
+    common: Algerýa
+  tr:
+    official: Cezayir
+    common: Cezayir
+  ug:
+    official: ئالجىرىيە
+    common: ئالجىرىيە
+  uk:
+    official: Алжир
+    common: Алжир
+  ve:
+    official: Algeria
+    common: Algeria
+  vi:
+    official: An-giê-ri
+    common: An-giê-ri
+  cy:
+    official: Algeria
+    common: Algeria
+  wa:
+    official: Aldjereye
+    common: Aldjereye
+  wo:
+    official: Aljeeri
+    common: Aljeeri
+  xh:
+    official: Bulgaria
+    common: Bulgaria
+  zu:
+    official: I-Buligariya
+    common: I-Buligariya

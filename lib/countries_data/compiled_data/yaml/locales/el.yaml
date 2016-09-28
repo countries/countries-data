@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: Αφγανιστάν
+    common: Αφγανιστάν
+  AX:
+    official: Νήσοι Ώλαντ
+    common: Νήσοι Ώλαντ
+  AL:
+    official: Αλβανία
+    common: Αλβανία
+  DZ:
+    official: Αλγερία
+    common: Αλγερία
+  AS:
+    official: Αμερικανική Σαμόα
+    common: Αμερικανική Σαμόα
+  AD:
+    official: Ανδόρρα
+    common: Ανδόρρα
+  AO:
+    official: Αγκόλα
+    common: Αγκόλα
+  AI:
+    official: Ανγκουίλα
+    common: Ανγκουίλα
+  AQ:
+    official: Ανταρκτική
+    common: Ανταρκτική
+  AG:
+    official: Αντίγκουα και Μπαρμπούντα
+    common: Αντίγκουα και Μπαρμπούντα
+  AR:
+    official: Αργεντινή
+    common: Αργεντινή
+  AM:
+    official: Αρμενία
+    common: Αρμενία
+  AW:
+    official: Αρούμπα
+    common: Αρούμπα
+  AU:
+    official: Αυστραλία
+    common: Αυστραλία
+  AT:
+    official: Αυστρία
+    common: Αυστρία
+  AZ:
+    official: Αζερμπαϊτζάν
+    common: Αζερμπαϊτζάν
+  BS:
+    official: Μπαχάμες
+    common: Μπαχάμες
+  BH:
+    official: Μπαχρέιν
+    common: Μπαχρέιν
+  BD:
+    official: Μπανγκλαντές
+    common: Μπανγκλαντές
+  BB:
+    official: Μπαρμπάντος
+    common: Μπαρμπάντος
+  BY:
+    official: Λευκορωσία
+    common: Λευκορωσία
+  BE:
+    official: Βέλγιο
+    common: Βέλγιο
+  BZ:
+    official: Μπελίζ
+    common: Μπελίζ
+  BJ:
+    official: Μπενίν
+    common: Μπενίν
+  BM:
+    official: Βερμούδες
+    common: Βερμούδες
+  BT:
+    official: Μπουτάν
+    common: Μπουτάν
+  BO:
+    official: Βολιβία, Πολυεθνική Πολιτεία της
+    common: Βολιβία, Πολυεθνική Πολιτεία της
+  BQ:
+    official: Μποναίρ, Άγιος Ευστράτιος και Σάμπα
+    common: Μποναίρ, Άγιος Ευστράτιος και Σάμπα
+  BA:
+    official: Βοσνία-Ερζεγοβίνη
+    common: Βοσνία-Ερζεγοβίνη
+  BW:
+    official: Μποτσουάνα
+    common: Μποτσουάνα
+  BV:
+    official: Νήσος Μπουβέ
+    common: Νήσος Μπουβέ
+  BR:
+    official: Βραζιλία
+    common: Βραζιλία
+  IO:
+    official: Βρετανικά Εδάφη του Ινδικού Ωκεανού
+    common: Βρετανικά Εδάφη του Ινδικού Ωκεανού
+  BN:
+    official: Μπρουνέι Νταρουσαλάμ
+    common: Μπρουνέι Νταρουσαλάμ
+  BG:
+    official: Βουλγαρία
+    common: Βουλγαρία
+  BF:
+    official: Μπουρκίνα Φάσο
+    common: Μπουρκίνα Φάσο
+  BI:
+    official: Μπουρούντι
+    common: Μπουρούντι
+  KH:
+    official: Καμπότζη
+    common: Καμπότζη
+  CM:
+    official: Καμερούν
+    common: Καμερούν
+  CA:
+    official: Καναδάς
+    common: Καναδάς
+  CV:
+    official: Πράσινο Ακρωτήριο
+    common: Πράσινο Ακρωτήριο
+  KY:
+    official: Νήσοι Καϋμάν
+    common: Νήσοι Καϋμάν
+  CF:
+    official: Δημοκρατία Κεντρικής Αφρικής
+    common: Δημοκρατία Κεντρικής Αφρικής
+  TD:
+    official: Τσαντ
+    common: Τσαντ
+  CL:
+    official: Χιλή
+    common: Χιλή
+  CN:
+    official: Κίνα
+    common: Κίνα
+  CX:
+    official: Νήσοι Χριστουγέννων
+    common: Νήσοι Χριστουγέννων
+  CC:
+    official: Νήσοι Κόκος (Κήλινγκ)
+    common: Νήσοι Κόκος (Κήλινγκ)
+  CO:
+    official: Κολομβία
+    common: Κολομβία
+  KM:
+    official: Κομόρες
+    common: Κομόρες
+  CG:
+    official: Κονγκό
+    common: Κονγκό
+  CD:
+    official: Κονγκό, Λαϊκή Δημοκρατία του
+    common: Κονγκό, Λαϊκή Δημοκρατία του
+  CK:
+    official: Νήσοι Κουκ
+    common: Νήσοι Κουκ
+  CR:
+    official: Κόστα Ρίκα
+    common: Κόστα Ρίκα
+  CI:
+    official: Ακτή Ελεφαντοστού
+    common: Ακτή Ελεφαντοστού
+  HR:
+    official: Κροατία
+    common: Κροατία
+  CU:
+    official: Κούβα
+    common: Κούβα
+  CW:
+    official: Κουρακάο
+    common: Κουρακάο
+  CY:
+    official: Κύπρος
+    common: Κύπρος
+  CZ:
+    official: Τσεχική Δημοκρατία
+    common: Τσεχική Δημοκρατία
+  DK:
+    official: Δανία
+    common: Δανία
+  DJ:
+    official: Τζιμπουτί
+    common: Τζιμπουτί
+  DM:
+    official: Ντομίνικα
+    common: Ντομίνικα
+  DO:
+    official: Δομινικανή Δημοκρατία
+    common: Δομινικανή Δημοκρατία
+  EC:
+    official: Ισημερινός
+    common: Ισημερινός
+  EG:
+    official: Αίγυπτος
+    common: Αίγυπτος
+  SV:
+    official: Ελ Σαλβαδόρ
+    common: Ελ Σαλβαδόρ
+  GQ:
+    official: Ισημερινή Γουινέα
+    common: Ισημερινή Γουινέα
+  ER:
+    official: Ερυθραία
+    common: Ερυθραία
+  EE:
+    official: Εσθονία
+    common: Εσθονία
+  ET:
+    official: Αιθιοπία
+    common: Αιθιοπία
+  FK:
+    official: Νήσοι Φώκλαντ (Μαλβίνες)
+    common: Νήσοι Φώκλαντ (Μαλβίνες)
+  FO:
+    official: Νήσοι Φερόε
+    common: Νήσοι Φερόε
+  FJ:
+    official: Φίτζι
+    common: Φίτζι
+  FI:
+    official: Φινλανδία
+    common: Φινλανδία
+  FR:
+    official: Γαλλία
+    common: Γαλλία
+  GF:
+    official: Γαλλική Γουιάνα
+    common: Γαλλική Γουιάνα
+  PF:
+    official: Γαλλική Πολυνησία
+    common: Γαλλική Πολυνησία
+  TF:
+    official: Γαλλικά Νότια Εδάφη
+    common: Γαλλικά Νότια Εδάφη
+  GA:
+    official: Γκαμπόν
+    common: Γκαμπόν
+  GM:
+    official: Γκάμπια
+    common: Γκάμπια
+  GE:
+    official: Γεωργία
+    common: Γεωργία
+  DE:
+    official: Γερμανία
+    common: Γερμανία
+  GH:
+    official: Γκάνα
+    common: Γκάνα
+  GI:
+    official: Γιβραλτάρ
+    common: Γιβραλτάρ
+  GR:
+    official: Ελλάδα
+    common: Ελλάδα
+  GL:
+    official: Γροιλανδία
+    common: Γροιλανδία
+  GD:
+    official: Γρενάδα
+    common: Γρενάδα
+  GP:
+    official: Γουαδελούπη
+    common: Γουαδελούπη
+  GU:
+    official: Γκουάμ
+    common: Γκουάμ
+  GT:
+    official: Γουατεμάλα
+    common: Γουατεμάλα
+  GG:
+    official: Γκέρνσεϋ
+    common: Γκέρνσεϋ
+  GN:
+    official: Γουϊνέα
+    common: Γουϊνέα
+  GW:
+    official: Γουινέα-Μπισσάου
+    common: Γουινέα-Μπισσάου
+  GY:
+    official: Γουιάνα
+    common: Γουιάνα
+  HT:
+    official: Αϊτή
+    common: Αϊτή
+  HM:
+    official: Νήσος Χερντ και Νήσοι ΜακΝτόναλντ
+    common: Νήσος Χερντ και Νήσοι ΜακΝτόναλντ
+  VA:
+    official: Αγία Έδρα (το Κράτος της Πόλεως του Βατικανού)
+    common: Αγία Έδρα (το Κράτος της Πόλεως του Βατικανού)
+  HN:
+    official: Ονδούρα
+    common: Ονδούρα
+  HK:
+    official: Χονγκ Κονγκ
+    common: Χονγκ Κονγκ
+  HU:
+    official: Ουγγαρία
+    common: Ουγγαρία
+  IS:
+    official: Ισλανδία
+    common: Ισλανδία
+  IN:
+    official: Ινδία
+    common: Ινδία
+  ID:
+    official: Ινδονησία
+    common: Ινδονησία
+  IR:
+    official: Ιράν, Ισλαμική Δημοκρατία του
+    common: Ιράν, Ισλαμική Δημοκρατία του
+  IQ:
+    official: Ιράκ
+    common: Ιράκ
+  IE:
+    official: Ιρλανδία
+    common: Ιρλανδία
+  IM:
+    official: Νήσος του Μαν
+    common: Νήσος του Μαν
+  IL:
+    official: Ισραήλ
+    common: Ισραήλ
+  IT:
+    official: Ιταλία
+    common: Ιταλία
+  JM:
+    official: Ιαμαϊκή
+    common: Ιαμαϊκή
+  JP:
+    official: Ιαπωνία
+    common: Ιαπωνία
+  JE:
+    official: Τζέρσεϋ
+    common: Τζέρσεϋ
+  JO:
+    official: Ιορδανία
+    common: Ιορδανία
+  KZ:
+    official: Καζακστάν
+    common: Καζακστάν
+  KE:
+    official: Κένυα
+    common: Κένυα
+  KI:
+    official: Κιριμπάτι
+    common: Κιριμπάτι
+  KP:
+    official: Κορέα, Λαοκρατική Δημοκρατία της
+    common: Κορέα, Λαοκρατική Δημοκρατία της
+  KR:
+    official: Κορέα, Δημοκρατία της
+    common: Κορέα, Δημοκρατία της
+  KW:
+    official: Κουβέιτ
+    common: Κουβέιτ
+  KG:
+    official: Κιργιζία
+    common: Κιργιζία
+  LA:
+    official: Λαϊκή Δημοκρατία του Λάος
+    common: Λαϊκή Δημοκρατία του Λάος
+  LV:
+    official: Λεττονία
+    common: Λεττονία
+  LB:
+    official: Λίβανος
+    common: Λίβανος
+  LS:
+    official: Λεσόθο
+    common: Λεσόθο
+  LR:
+    official: Λιβερία
+    common: Λιβερία
+  LY:
+    official: Λιβύη
+    common: Λιβύη
+  LI:
+    official: Λιχτενστάιν
+    common: Λιχτενστάιν
+  LT:
+    official: Λιθουανία
+    common: Λιθουανία
+  LU:
+    official: Λουξεμβούργο
+    common: Λουξεμβούργο
+  MO:
+    official: Μακάο
+    common: Μακάο
+  MK:
+    official: Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας
+    common: Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας
+  MG:
+    official: Μαδαγασκάρη
+    common: Μαδαγασκάρη
+  MW:
+    official: Μαλάουι
+    common: Μαλάουι
+  MY:
+    official: Μαλαισία
+    common: Μαλαισία
+  MV:
+    official: Μαλδίβες
+    common: Μαλδίβες
+  ML:
+    official: Μάλι
+    common: Μάλι
+  MT:
+    official: Μάλτα
+    common: Μάλτα
+  MH:
+    official: Νήσοι Μάρσαλ
+    common: Νήσοι Μάρσαλ
+  MQ:
+    official: Μαρτινίκα
+    common: Μαρτινίκα
+  MR:
+    official: Μαυριτανία
+    common: Μαυριτανία
+  MU:
+    official: Μαυρίκιος
+    common: Μαυρίκιος
+  YT:
+    official: Μαγιότ
+    common: Μαγιότ
+  MX:
+    official: Μεξικό
+    common: Μεξικό
+  FM:
+    official: Μικρονησία, Ομόσπονδες Πολιτείες της
+    common: Μικρονησία, Ομόσπονδες Πολιτείες της
+  MD:
+    official: Μολδαβίας, Δημοκρατία της
+    common: Μολδαβίας, Δημοκρατία της
+  MC:
+    official: Μονακό
+    common: Μονακό
+  MN:
+    official: Μογγολία
+    common: Μογγολία
+  ME:
+    official: Μαυροβούνιο
+    common: Μαυροβούνιο
+  MS:
+    official: Μονσεράτ
+    common: Μονσεράτ
+  MA:
+    official: Μαρόκο
+    common: Μαρόκο
+  MZ:
+    official: Μοζαμβίκη
+    common: Μοζαμβίκη
+  MM:
+    official: Μιανμάρ
+    common: Μιανμάρ
+  NA:
+    official: Ναμίμπια
+    common: Ναμίμπια
+  NR:
+    official: Ναουρού
+    common: Ναουρού
+  NP:
+    official: Νεπάλ
+    common: Νεπάλ
+  NL:
+    official: Ολλανδία
+    common: Ολλανδία
+  NC:
+    official: Νέα Καληδονία
+    common: Νέα Καληδονία
+  NZ:
+    official: Νέα Ζηλανδία
+    common: Νέα Ζηλανδία
+  NI:
+    official: Νικαράγουα
+    common: Νικαράγουα
+  NE:
+    official: Νίγηρας
+    common: Νίγηρας
+  NG:
+    official: Νιγηρία
+    common: Νιγηρία
+  NU:
+    official: Νίουε
+    common: Νίουε
+  NF:
+    official: Νήσος Νόρφολκ
+    common: Νήσος Νόρφολκ
+  MP:
+    official: Νήσοι Βορείων Μαριάννων
+    common: Νήσοι Βορείων Μαριάννων
+  'NO':
+    official: Νορβηγία
+    common: Νορβηγία
+  OM:
+    official: Ομάν
+    common: Ομάν
+  PK:
+    official: Πακιστάν
+    common: Πακιστάν
+  PW:
+    official: Παλάου
+    common: Παλάου
+  PS:
+    official: Παλαιστίνη
+    common: Παλαιστίνη
+  PA:
+    official: Παναμάς
+    common: Παναμάς
+  PG:
+    official: Παπούα-Νέα Γουινέα
+    common: Παπούα-Νέα Γουινέα
+  PY:
+    official: Παραγουάη
+    common: Παραγουάη
+  PE:
+    official: Περού
+    common: Περού
+  PH:
+    official: Φιλιππίνες
+    common: Φιλιππίνες
+  PN:
+    official: Πίτκαϊρν
+    common: Πίτκαϊρν
+  PL:
+    official: Πολωνία
+    common: Πολωνία
+  PT:
+    official: Πορτογαλία
+    common: Πορτογαλία
+  PR:
+    official: Πουέρτο Ρίκο
+    common: Πουέρτο Ρίκο
+  QA:
+    official: Κατάρ
+    common: Κατάρ
+  RE:
+    official: Ρεουνιόν
+    common: Ρεουνιόν
+  RO:
+    official: Ρουμανία
+    common: Ρουμανία
+  RU:
+    official: Ρωσική Ομοσπονδία
+    common: Ρωσική Ομοσπονδία
+  RW:
+    official: Ρουάντα
+    common: Ρουάντα
+  BL:
+    official: Άγιος Βαρθολομαίος
+    common: Άγιος Βαρθολομαίος
+  SH:
+    official: Αγία Ελένη, Ascension και Tristan da Cunha
+    common: Αγία Ελένη, Ascension και Tristan da Cunha
+  KN:
+    official: Άγιος Χριστόφορος και Νέβις
+    common: Άγιος Χριστόφορος και Νέβις
+  LC:
+    official: Αγία Λουκία
+    common: Αγία Λουκία
+  MF:
+    official: Άγιος Μαρτίνος (Γαλλικό τμήμα)
+    common: Άγιος Μαρτίνος (Γαλλικό τμήμα)
+  PM:
+    official: Άγιος Πέτρος και Μικελόν
+    common: Άγιος Πέτρος και Μικελόν
+  VC:
+    official: Άγιος Βικέντιος και Γρεναδίνες
+    common: Άγιος Βικέντιος και Γρεναδίνες
+  WS:
+    official: Σαμόα
+    common: Σαμόα
+  SM:
+    official: Άγιος Μαρίνος
+    common: Άγιος Μαρίνος
+  ST:
+    official: Σάο Τομέ και Πρίνσιπε
+    common: Σάο Τομέ και Πρίνσιπε
+  SA:
+    official: Σαουδική Αραβία
+    common: Σαουδική Αραβία
+  SN:
+    official: Σενεγάλη
+    common: Σενεγάλη
+  RS:
+    official: Σερβία
+    common: Σερβία
+  SC:
+    official: Σεϋχέλλες
+    common: Σεϋχέλλες
+  SL:
+    official: Σιέρρα Λεόνε
+    common: Σιέρρα Λεόνε
+  SG:
+    official: Σιγκαπούρη
+    common: Σιγκαπούρη
+  SX:
+    official: Άγιος Μαρτίνος (Ολλανδικό τμήμα)
+    common: Άγιος Μαρτίνος (Ολλανδικό τμήμα)
+  SK:
+    official: Σλοβακία
+    common: Σλοβακία
+  SI:
+    official: Σλοβενία
+    common: Σλοβενία
+  SB:
+    official: Νήσοι Σολομώντος
+    common: Νήσοι Σολομώντος
+  SO:
+    official: Σομαλία
+    common: Σομαλία
+  ZA:
+    official: Νότια Αφρική
+    common: Νότια Αφρική
+  GS:
+    official: Νότια Γεωργία και Νήσοι Νότιες Σάντουιτς
+    common: Νότια Γεωργία και Νήσοι Νότιες Σάντουιτς
+  ES:
+    official: Ισπανία
+    common: Ισπανία
+  LK:
+    official: Σρι Λάνκα
+    common: Σρι Λάνκα
+  SD:
+    official: Σουδάν
+    common: Σουδάν
+  SR:
+    official: Σουρινάμ
+    common: Σουρινάμ
+  SS:
+    official: Νότιο Σουδάν
+    common: Νότιο Σουδάν
+  SJ:
+    official: Σβάλμπαρντ και Γιαν Μαγέν
+    common: Σβάλμπαρντ και Γιαν Μαγέν
+  SZ:
+    official: Σουαζιλάνδη
+    common: Σουαζιλάνδη
+  SE:
+    official: Σουηδία
+    common: Σουηδία
+  CH:
+    official: Ελβετία
+    common: Ελβετία
+  SY:
+    official: Αραβική Δημοκρατία της Συρίας
+    common: Αραβική Δημοκρατία της Συρίας
+  TW:
+    official: Ταϊβάν
+    common: Ταϊβάν
+  TJ:
+    official: Τατζικιστάν
+    common: Τατζικιστάν
+  TZ:
+    official: Τανζανία, Ενωμένη Δημοκρατία της
+    common: Τανζανία, Ενωμένη Δημοκρατία της
+  TH:
+    official: Ταϊλάνδη
+    common: Ταϊλάνδη
+  TL:
+    official: Τιμόρ-Λέστε
+    common: Τιμόρ-Λέστε
+  TG:
+    official: Τόγκο
+    common: Τόγκο
+  TK:
+    official: Τοκελάου
+    common: Τοκελάου
+  TO:
+    official: Τόνγκα
+    common: Τόνγκα
+  TT:
+    official: Τρινιδάδ και Τομπάγκο
+    common: Τρινιδάδ και Τομπάγκο
+  TN:
+    official: Τυνησία
+    common: Τυνησία
+  TR:
+    official: Τουρκία
+    common: Τουρκία
+  TM:
+    official: Τουρκμενιστάν
+    common: Τουρκμενιστάν
+  TC:
+    official: Νήσοι Τουρκς και Κάικος
+    common: Νήσοι Τουρκς και Κάικος
+  TV:
+    official: Τουβαλού
+    common: Τουβαλού
+  UG:
+    official: Ουγκάντα
+    common: Ουγκάντα
+  UA:
+    official: Ουκρανία
+    common: Ουκρανία
+  AE:
+    official: Ηνωμένα Αραβικά Εμιράτα
+    common: Ηνωμένα Αραβικά Εμιράτα
+  GB:
+    official: Ηνωμένο Βασίλειο
+    common: Ηνωμένο Βασίλειο
+  US:
+    official: Ηνωμένες Πολιτείες
+    common: Ηνωμένες Πολιτείες
+  UM:
+    official: Μικρές Νήσοι απομεμακρυσμένες από τις Ηνωμένες Πολιτείες
+    common: Μικρές Νήσοι απομεμακρυσμένες από τις Ηνωμένες Πολιτείες
+  UY:
+    official: Ουρουγουάη
+    common: Ουρουγουάη
+  UZ:
+    official: Ουζμπεκιστάν
+    common: Ουζμπεκιστάν
+  VU:
+    official: Βανουάτου
+    common: Βανουάτου
+  VE:
+    official: Βενεζουέλα, Βολιβαριανή Δημοκρατία της
+    common: Βενεζουέλα, Βολιβαριανή Δημοκρατία της
+  VN:
+    official: Βιετνάμ
+    common: Βιετνάμ
+  VG:
+    official: Παρθένοι Νήσοι, Βρετανικές
+    common: Παρθένοι Νήσοι, Βρετανικές
+  VI:
+    official: Παρθένοι Νήσοι, Η.Π.Α.
+    common: Παρθένοι Νήσοι, Η.Π.Α.
+  WF:
+    official: Ουώλλις και Φουτούνα
+    common: Ουώλλις και Φουτούνα
+  EH:
+    official: Δυτική Σαχάρα
+    common: Δυτική Σαχάρα
+  YE:
+    official: Υεμένη
+    common: Υεμένη
+  ZM:
+    official: Ζάμπια
+    common: Ζάμπια
+  ZW:
+    official: Ζιμπάμπουε
+    common: Ζιμπάμπουε

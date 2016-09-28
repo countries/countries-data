@@ -1,0 +1,333 @@
+---
+continent: Australia
+alpha2: TV
+alpha3: TUV
+country_code: '688'
+international_prefix: '00'
+ioc: TUV
+gec: TV
+name: Tuvalu
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 5
+national_prefix: None
+number: '798'
+region: Oceania
+subregion: Polynesia
+world_region: APAC
+un_locode: TV
+nationality: Tuvaluan
+postal_code: false
+unofficial_names:
+- Tuvalu
+- ツバル
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: -7.4784206
+  latitude_dec: "-7.471305847167969"
+  longitude: 178.679924
+  longitude_dec: '178.6740264892578'
+  max_latitude: -5.64223
+  max_longitude: 179.8710608
+  min_latitude: -10.7916584
+  min_longitude: 176.0588907
+  bounds:
+    northeast:
+      lat: -5.64223
+      lng: 179.8710608
+    southwest:
+      lat: -10.7916584
+      lng: 176.0588907
+currency_code: TVD
+postal_address_data:
+  lang: tyv
+  upper: ACS
+  name: TUVALU
+  fmt: "%N%n%O%n%A%n%C%n%S"
+  state_name_type: island
+  languages: tyv
+  sub_keys: Funafuti~Nanumanga~Nanumea~Niulakita~Niutao~Nui~Nukufetau~Nukulaelae~Vaitupu
+  key: TV
+  sub_isoids: FUN~NMG~NMA~~NIT~NUI~NKF~NKL~VAI
+  id: data/TV
+translations:
+  af:
+    official: Toewaloe
+    common: Toewaloe
+  sq:
+    official: Tuvalu
+    common: Tuvalu
+  am:
+    official: Tuvalu
+    common: Tuvalu
+  ar:
+    official: توفالو
+    common: توفالو
+  hy:
+    official: Տուվալու
+    common: Տուվալու
+  as:
+    official: টুভালু
+    common: টুভালু
+  az:
+    official: Tuvalu
+    common: Tuvalu
+  eu:
+    official: Tuvalu
+    common: Tuvalu
+  be:
+    official: Тувалу
+    common: Тувалу
+  bn:
+    official: টুভালু
+    common: টুভালু
+  bs:
+    official: Tuvalu
+    common: Tuvalu
+  br:
+    official: Tuvalu
+    common: Tuvalu
+  bg:
+    official: Тувалу
+    common: Тувалу
+  ca:
+    official: Tuvalu
+    common: Tuvalu
+  zh:
+    official: 图瓦鲁
+    common: 图瓦鲁
+  cs:
+    official: Tuvalu
+    common: Tuvalu
+  da:
+    official: Tuvalu
+    common: Tuvalu
+  nl:
+    official: Tuvalu
+    common: Tuvalu
+  dz:
+    official: ཊུ་བ་ལུ།
+    common: ཊུ་བ་ལུ།
+  en:
+    official: Tuvalu
+    common: Tuvalu
+  eo:
+    official: Tuvalo
+    common: Tuvalo
+  et:
+    official: Tuvalu
+    common: Tuvalu
+  fo:
+    official: Tuvalu
+    common: Tuvalu
+  fi:
+    official: Tuvalu
+    common: Tuvalu
+  fr:
+    official: Tuvalu
+    common: Tuvalu
+  ka:
+    official: ტუვალუ
+    common: ტუვალუ
+  de:
+    official: Tuvalu
+    common: Tuvalu
+  ga:
+    official: Tuvalú
+    common: Tuvalú
+  gl:
+    official: Tuvalu
+    common: Tuvalu
+  el:
+    official: Τουβαλού
+    common: Τουβαλού
+  gu:
+    official: ટુવાલુ
+    common: ટુવાલુ
+  he:
+    official: טובלו
+    common: טובלו
+  hi:
+    official: तुवालु
+    common: तुवालु
+  hr:
+    official: Tuvalu
+    common: Tuvalu
+  hu:
+    official: Tuvalu
+    common: Tuvalu
+  is:
+    official: Túvalú
+    common: Túvalú
+  ia:
+    official: Tuvalu
+    common: Tuvalu
+  id:
+    official: Tuvalu
+    common: Tuvalu
+  it:
+    official: Tuvalu
+    common: Tuvalu
+  ja:
+    official: ツバル
+    common: ツバル
+  kn:
+    official: Tuvalu
+    common: Tuvalu
+  kk:
+    official: Тувалу
+    common: Тувалу
+  km:
+    official: ទុយវ៉ាលុយ
+    common: ទុយវ៉ាលុយ
+  rw:
+    official: Tuvalu
+    common: Tuvalu
+  ko:
+    official: 투발루
+    common: 투발루
+  ku:
+    official: Tûvalû
+    common: Tûvalû
+  lv:
+    official: Tuvalu
+    common: Tuvalu
+  lt:
+    official: Tuvalu
+    common: Tuvalu
+  mk:
+    official: Тувалу
+    common: Тувалу
+  ml:
+    official: ടുവാലു
+    common: ടുവാലു
+  mi:
+    official: Tūwaru
+    common: Tūwaru
+  mr:
+    official: तुव्हालु
+    common: तुव्हालु
+  ms:
+    official: Tuvalu
+    common: Tuvalu
+  mt:
+    official: Tuvalu
+    common: Tuvalu
+  mn:
+    official: Тували
+    common: Тували
+  ne:
+    official: टुवालु
+    common: टुवालु
+  nn:
+    official: Tuvalu
+    common: Tuvalu
+  nb:
+    official: Tuvalu
+    common: Tuvalu
+  oc:
+    official: Tuvalu
+    common: Tuvalu
+  or:
+    official: ତୁଭାଲୂ
+    common: ତୁଭାଲୂ
+  pa:
+    official: ਟੂਵਾਲੂ
+    common: ਟੂਵਾਲੂ
+  fa:
+    official: تووالو
+    common: تووالو
+  pl:
+    official: Tuvalu
+    common: Tuvalu
+  pt:
+    official: Tuvalu
+    common: Tuvalu
+  ps:
+    official: Tuvalu
+    common: Tuvalu
+  ro:
+    official: Tuvalu
+    common: Tuvalu
+  ru:
+    official: Тувалу
+    common: Тувалу
+  si:
+    official: ටුවාලු
+    common: ටුවාලු
+  sk:
+    official: Tuvalu
+    common: Tuvalu
+  sl:
+    official: Tuvalu
+    common: Tuvalu
+  so:
+    official: Tuvalu
+    common: Tuvalu
+  es:
+    official: Tuvalu
+    common: Tuvalu
+  sr:
+    official: Тувалу
+    common: Тувалу
+  sw:
+    official: Tuvalu
+    common: Tuvalu
+  sv:
+    official: Tuvalu
+    common: Tuvalu
+  ta:
+    official: துவாலு
+    common: துவாலு
+  tt:
+    official: Тувалуча
+    common: Тувалуча
+  te:
+    official: तुव्हालु
+    common: तुव्हालु
+  tl:
+    official: Tuvalu
+    common: Tuvalu
+  th:
+    official: ตูวาลู
+    common: ตูวาลู
+  ti:
+    official: Tuvalu
+    common: Tuvalu
+  tk:
+    official: Tuwalu
+    common: Tuwalu
+  tr:
+    official: Tuvalu
+    common: Tuvalu
+  ug:
+    official: تۇۋالۇ
+    common: تۇۋالۇ
+  uk:
+    official: Тувалу
+    common: Тувалу
+  ve:
+    official: Tuvalu
+    common: Tuvalu
+  vi:
+    official: Tu-va-lu
+    common: Tu-va-lu
+  cy:
+    official: Tuvalu
+    common: Tuvalu
+  wa:
+    official: Touvalou
+    common: Touvalou
+  wo:
+    official: Tuvalu
+    common: Tuvalu
+  xh:
+    official: Tuvalu
+    common: Tuvalu
+  zu:
+    official: Tuvalu
+    common: Tuvalu

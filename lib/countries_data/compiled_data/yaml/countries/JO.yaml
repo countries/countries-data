@@ -1,0 +1,340 @@
+---
+continent: Asia
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: JO
+alpha3: JOR
+country_code: '962'
+international_prefix: '00'
+ioc: JOR
+gec: JO
+name: Jordan
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+- 9
+national_prefix: '0'
+number: '400'
+region: Asia
+subregion: Western Asia
+world_region: EMEA
+un_locode: JO
+nationality: Jordanian
+postal_code: true
+unofficial_names:
+- Jordan
+- الأردن
+- Jordanien
+- Jordanie
+- Jordania
+- ヨルダン
+- Jordanië
+languages_official:
+- ar
+languages_spoken:
+- ar
+geo:
+  latitude: 30.585164
+  latitude_dec: '31.2757625579834'
+  longitude: 36.238414
+  longitude_dec: '36.82838821411133'
+  max_latitude: 33.3746878
+  max_longitude: 39.301154
+  min_latitude: 29.1850361
+  min_longitude: 34.9583399
+  bounds:
+    northeast:
+      lat: 33.3746878
+      lng: 39.301154
+    southwest:
+      lat: 29.1850361
+      lng: 34.9583399
+currency_code: JOD
+postal_address_data:
+  zipex: '11937,11190'
+  name: JORDAN
+  zip: "\\d{5}"
+  fmt: "%N%n%O%n%A%n%C %Z"
+  key: JO
+  id: data/JO
+translations:
+  af:
+    official: Jordanië
+    common: Jordanië
+  sq:
+    official: Jordania
+    common: Jordania
+  am:
+    official: ጆሴ፣ን
+    common: ጆሴ፣ን
+  ar:
+    official: الأردن
+    common: الأردن
+  hy:
+    official: Հորդանան
+    common: Հորդանան
+  as:
+    official: জৰ্ডান
+    common: জৰ্ডান
+  az:
+    official: İordaniya
+    common: İordaniya
+  eu:
+    official: Jordania
+    common: Jordania
+  be:
+    official: Іярданія
+    common: Іярданія
+  bn:
+    official: জর্ডান
+    common: জর্ডান
+  bs:
+    official: Jordan
+    common: Jordan
+  br:
+    official: Jordan
+    common: Jordan
+  bg:
+    official: Йордания
+    common: Йордания
+  ca:
+    official: Jordània
+    common: Jordània
+  zh:
+    official: 约旦
+    common: 约旦
+  cs:
+    official: Jordánsko
+    common: Jordánsko
+  da:
+    official: Jordan
+    common: Jordan
+  nl:
+    official: Jordanië
+    common: Jordanië
+  dz:
+    official: ཇོར་ཌན།
+    common: ཇོར་ཌན།
+  en:
+    official: Jordan
+    common: Jordan
+  eo:
+    official: Jordanio
+    common: Jordanio
+  et:
+    official: Jordaania
+    common: Jordaania
+  fo:
+    official: Jordan
+    common: Jordan
+  fi:
+    official: Jordania
+    common: Jordania
+  fr:
+    official: Jordanie
+    common: Jordanie
+  ka:
+    official: იორდანია
+    common: იორდანია
+  de:
+    official: Jordanien
+    common: Jordanien
+  ga:
+    official: An Iordáin
+    common: An Iordáin
+  gl:
+    official: Xordania
+    common: Xordania
+  el:
+    official: Ιορδανία
+    common: Ιορδανία
+  gu:
+    official: જોર્ડન
+    common: જોર્ડન
+  he:
+    official: ירדן
+    common: ירדן
+  hi:
+    official: जॉर्डन
+    common: जॉर्डन
+  hr:
+    official: Jordan
+    common: Jordan
+  hu:
+    official: Jordánia
+    common: Jordánia
+  is:
+    official: Jórdanía
+    common: Jórdanía
+  ia:
+    official: Jordania
+    common: Jordania
+  id:
+    official: Yordania
+    common: Yordania
+  it:
+    official: Giordania
+    common: Giordania
+  ja:
+    official: ヨルダン
+    common: ヨルダン
+  kn:
+    official: ಜೋರ್ಡಾನ್
+    common: ಜೋರ್ಡಾನ್
+  kk:
+    official: Иордания
+    common: Иордания
+  km:
+    official: ហ្ស៊កដង់
+    common: ហ្ស៊កដង់
+  rw:
+    official: Yorudani
+    common: Yorudani
+  ko:
+    official: 요르단
+    common: 요르단
+  ku:
+    official: Urdin
+    common: Urdin
+  lv:
+    official: Jordānija
+    common: Jordānija
+  lt:
+    official: Jordanija
+    common: Jordanija
+  mk:
+    official: Џордан
+    common: Џордан
+  ml:
+    official: ജോര്‍ഡാന്‍
+    common: ജോര്‍ഡാന്‍
+  mi:
+    official: Jordan
+    common: Jordan
+  mr:
+    official: जॉर्डन
+    common: जॉर्डन
+  ms:
+    official: Jordan
+    common: Jordan
+  mt:
+    official: Korean
+    common: Korean
+  mn:
+    official: Ёрдан
+    common: Ёрдан
+  ne:
+    official: जोर्डन
+    common: जोर्डन
+  nn:
+    official: Jordan
+    common: Jordan
+  nb:
+    official: Jordan
+    common: Jordan
+  oc:
+    official: Còrean
+    common: Còrean
+  or:
+    official: ଜୋର୍ଡାନ
+    common: ଜୋର୍ଡାନ
+  pa:
+    official: ਜਾਰਡਨ
+    common: ਜਾਰਡਨ
+  fa:
+    official: اردن
+    common: اردن
+  pl:
+    official: Jordania
+    common: Jordania
+  pt:
+    official: Jordânia
+    common: Jordânia
+  ps:
+    official: Jordan
+    common: Jordan
+  ro:
+    official: Iordania
+    common: Iordania
+  ru:
+    official: Иордания
+    common: Иордания
+  si:
+    official: ජෝර්දානය
+    common: ජෝර්දානය
+  sk:
+    official: Jordánsko
+    common: Jordánsko
+  sl:
+    official: Jordanija
+    common: Jordanija
+  so:
+    official: Urdun
+    common: Urdun
+  es:
+    official: Jordania
+    common: Jordania
+  sr:
+    official: Јордан
+    common: Јордан
+  sw:
+    official: Jordan
+    common: Jordan
+  sv:
+    official: Jordanien
+    common: Jordanien
+  ta:
+    official: ஜோர்டான்
+    common: ஜோர்டான்
+  tt:
+    official: Жордан
+    common: Жордан
+  te:
+    official: జోర్డాన్
+    common: జోర్డాన్
+  tl:
+    official: Jordan
+    common: Jordan
+  th:
+    official: จอร์แดน
+    common: จอร์แดน
+  ti:
+    official: ጆርዳን
+    common: ጆርዳን
+  tk:
+    official: Iordan
+    common: Iordan
+  tr:
+    official: Ürdün
+    common: Ürdün
+  ug:
+    official: ئىيوردانىيە
+    common: ئىيوردانىيە
+  uk:
+    official: Йорданія
+    common: Йорданія
+  ve:
+    official: Jordan
+    common: Jordan
+  vi:
+    official: Gi-oa-đanh
+    common: Gi-oa-đanh
+  cy:
+    official: Gwlad Yr Iorddonen
+    common: Gwlad Yr Iorddonen
+  wa:
+    official: Djordaneye
+    common: Djordaneye
+  wo:
+    official: Jordaani
+    common: Jordaani
+  xh:
+    official: isiKorea
+    common: isiKorea
+  zu:
+    official: Isi-Koreyani
+    common: Isi-Koreyani

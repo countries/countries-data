@@ -1,0 +1,335 @@
+---
+continent: Africa
+alpha2: SZ
+alpha3: SWZ
+country_code: '268'
+international_prefix: '00'
+ioc: SWZ
+gec: WZ
+name: Swaziland
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: None
+number: '748'
+region: Africa
+subregion: Southern Africa
+world_region: EMEA
+un_locode: SZ
+nationality: Swazi
+postal_code: true
+unofficial_names:
+- Swaziland
+- Swasiland
+- Suazilandia
+- スワジランド
+languages_official:
+- en
+- ss
+languages_spoken:
+- en
+- ss
+geo:
+  latitude: -26.522503
+  latitude_dec: "-26.565134048461914"
+  longitude: 31.465866
+  longitude_dec: '31.49811363220215'
+  max_latitude: -25.7179201
+  max_longitude: 32.1349066
+  min_latitude: -27.317402
+  min_longitude: 30.79064
+  bounds:
+    northeast:
+      lat: -25.7179201
+      lng: 32.1349066
+    southwest:
+      lat: -27.317402
+      lng: 30.79064
+currency_code: SZL
+postal_address_data:
+  key: SZ
+  upper: ACZ
+  zipex: H100
+  name: SWAZILAND
+  zip: "[HLMS]\\d{3}"
+  fmt: "%N%n%O%n%A%n%C%n%Z"
+  posturl: http://www.sptc.co.sz/swazipost/codes.php
+  id: data/SZ
+translations:
+  af:
+    official: Swaziland
+    common: Swaziland
+  sq:
+    official: Svaziland
+    common: Svaziland
+  am:
+    official: Swaziland
+    common: Swaziland
+  ar:
+    official: سوازيلاند
+    common: سوازيلاند
+  hy:
+    official: Սվազիլենդ
+    common: Սվազիլենդ
+  as:
+    official: স্বাজিলেণ্ড
+    common: স্বাজিলেণ্ড
+  az:
+    official: Svaziland
+    common: Svaziland
+  eu:
+    official: Swazilandia
+    common: Swazilandia
+  be:
+    official: Свазіленд
+    common: Свазіленд
+  bn:
+    official: সোয়াজিল্যান্ড
+    common: সোয়াজিল্যান্ড
+  bs:
+    official: Svazilend
+    common: Svazilend
+  br:
+    official: Swaziland
+    common: Swaziland
+  bg:
+    official: Свазиленд
+    common: Свазиленд
+  ca:
+    official: Swazilàndia
+    common: Swazilàndia
+  zh:
+    official: 斯威士兰
+    common: 斯威士兰
+  cs:
+    official: Svazijsko
+    common: Svazijsko
+  da:
+    official: Swaziland
+    common: Swaziland
+  nl:
+    official: Swaziland
+    common: Swaziland
+  dz:
+    official: ས་ཝ་ཛི་ལེནཌི།
+    common: ས་ཝ་ཛི་ལེནཌི།
+  en:
+    official: Swaziland
+    common: Swaziland
+  eo:
+    official: Svazilando
+    common: Svazilando
+  et:
+    official: Svaasimaa
+    common: Svaasimaa
+  fo:
+    official: Svasiland
+    common: Svasiland
+  fi:
+    official: Swazimaa
+    common: Swazimaa
+  fr:
+    official: Swaziland
+    common: Swaziland
+  ka:
+    official: სვაზილენდი
+    common: სვაზილენდი
+  de:
+    official: Swasiland
+    common: Swasiland
+  ga:
+    official: An tSuasalainn
+    common: An tSuasalainn
+  gl:
+    official: Suacilandia
+    common: Suacilandia
+  el:
+    official: Σουαζιλάνδη
+    common: Σουαζιλάνδη
+  gu:
+    official: સ્વાઝિલેન્ડ
+    common: સ્વાઝિલેન્ડ
+  he:
+    official: סווזילנד
+    common: סווזילנד
+  hi:
+    official: स्वाज़ीलैंड
+    common: स्वाज़ीलैंड
+  hr:
+    official: Svazi
+    common: Svazi
+  hu:
+    official: Szváziföld
+    common: Szváziföld
+  is:
+    official: Svasíland
+    common: Svasíland
+  ia:
+    official: Swaziland
+    common: Swaziland
+  id:
+    official: Swaziland
+    common: Swaziland
+  it:
+    official: Swaziland
+    common: Swaziland
+  ja:
+    official: スワジランド
+    common: スワジランド
+  kn:
+    official: ಸ್ವಾಜಿಲ್ಯಾಂಡ್
+    common: ಸ್ವಾಜಿಲ್ಯಾಂಡ್
+  kk:
+    official: Свазиленд
+    common: Свазиленд
+  km:
+    official: ស្វាហ្ស៊ីឡង់
+    common: ស្វាហ្ស៊ីឡង់
+  rw:
+    official: Swazilande
+    common: Swazilande
+  ko:
+    official: 스와질란드
+    common: 스와질란드
+  ku:
+    official: Swazîland
+    common: Swazîland
+  lv:
+    official: Svazilenda
+    common: Svazilenda
+  lt:
+    official: Svazilandas
+    common: Svazilandas
+  mk:
+    official: Свациленд
+    common: Свациленд
+  ml:
+    official: സ്വാസിലാന്‍ഡ്
+    common: സ്വാസിലാന്‍ഡ്
+  mi:
+    official: Swaziland
+    common: Swaziland
+  mr:
+    official: स्वाझिलंड
+    common: स्वाझिलंड
+  ms:
+    official: Swaziland
+    common: Swaziland
+  mt:
+    official: Tajlandja
+    common: Tajlandja
+  mn:
+    official: Швецарь
+    common: Швецарь
+  ne:
+    official: स्वजिल्याण्ड
+    common: स्वजिल्याण्ड
+  nn:
+    official: Swaziland
+    common: Swaziland
+  nb:
+    official: Swaziland
+    common: Swaziland
+  oc:
+    official: Swaziland
+    common: Swaziland
+  or:
+    official: ସ୍ବାଜୀଲ୍ଯାଣ୍ଡ
+    common: ସ୍ବାଜୀଲ୍ଯାଣ୍ଡ
+  pa:
+    official: ਸਵਰਜ਼ਲੈਂਡ
+    common: ਸਵਰਜ਼ਲੈਂਡ
+  fa:
+    official: سوازیلند
+    common: سوازیلند
+  pl:
+    official: Suazi
+    common: Suazi
+  pt:
+    official: Suazilândia
+    common: Suazilândia
+  ps:
+    official: Swaziland
+    common: Swaziland
+  ro:
+    official: Swaziland
+    common: Swaziland
+  ru:
+    official: Свазиленд
+    common: Свазиленд
+  si:
+    official: ස්වාසිලන්තය
+    common: ස්වාසිලන්තය
+  sk:
+    official: Svazijsko
+    common: Svazijsko
+  sl:
+    official: Svazi
+    common: Svazi
+  so:
+    official: Swaziland
+    common: Swaziland
+  es:
+    official: Swazilandia
+    common: Swazilandia
+  sr:
+    official: Свазиленд
+    common: Свазиленд
+  sw:
+    official: Swaziland
+    common: Swaziland
+  sv:
+    official: Swaziland
+    common: Swaziland
+  ta:
+    official: சுவாசிலாந்து
+    common: சுவாசிலாந்து
+  tt:
+    official: Свазиланд
+    common: Свазиланд
+  te:
+    official: స్వాజిలాండ్
+    common: స్వాజిలాండ్
+  tl:
+    official: Swaziland
+    common: Swaziland
+  th:
+    official: สวาซิแลนด์
+    common: สวาซิแลนด์
+  ti:
+    official: Swaziland
+    common: Swaziland
+  tk:
+    official: Swazilend
+    common: Swazilend
+  tr:
+    official: Svaziland
+    common: Svaziland
+  ug:
+    official: سىۋېزىلاند
+    common: سىۋېزىلاند
+  uk:
+    official: Свазіленд
+    common: Свазіленд
+  ve:
+    official: Swaziland
+    common: Swaziland
+  vi:
+    official: Xouă-xi-lan
+    common: Xouă-xi-lan
+  cy:
+    official: Swaziland
+    common: Swaziland
+  wa:
+    official: Suwazilande
+    common: Suwazilande
+  wo:
+    official: Suwaasilaand
+    common: Suwaasilaand
+  xh:
+    official: Thailand
+    common: Thailand
+  zu:
+    official: I-Thayilandi
+    common: I-Thayilandi

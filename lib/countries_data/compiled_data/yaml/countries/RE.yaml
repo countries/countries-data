@@ -1,0 +1,334 @@
+---
+continent: Africa
+alpha2: RE
+alpha3: REU
+country_code: '262'
+international_prefix: '00'
+ioc: 
+gec: RE
+name: Réunion
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 10
+national_prefix: None
+number: '638'
+region: Africa
+subregion: Eastern Africa
+world_region: EMEA
+un_locode: RE
+nationality: French
+postal_code: true
+unofficial_names:
+- Réunion
+- Reunión
+- Reunion
+- レユニオン
+languages_official:
+- fr
+languages_spoken:
+- fr
+geo:
+  latitude: -21.115141
+  latitude_dec: "-21.146299362182617"
+  longitude: 55.536384
+  longitude_dec: '55.631248474121094'
+  max_latitude: -20.8717557
+  max_longitude: 55.83655359999999
+  min_latitude: -21.389622
+  min_longitude: 55.2164053
+  bounds:
+    northeast:
+      lat: -20.8717557
+      lng: 55.83655359999999
+    southwest:
+      lat: -21.389622
+      lng: 55.2164053
+currency_code: EUR
+postal_address_data:
+  key: RE
+  upper: ACX
+  zipex: '97400'
+  name: REUNION
+  zip: 9[78]4\d{2}
+  require: ACZ
+  id: data/RE
+  posturl: http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal
+  fmt: "%O%n%N%n%A%n%Z %C %X"
+translations:
+  af:
+    official: Réunion
+    common: Réunion
+  sq:
+    official: Réunion
+    common: Réunion
+  am:
+    official: Réunion
+    common: Réunion
+  ar:
+    official: ريونيون
+    common: ريونيون
+  hy:
+    official: Ռեյունյոն
+    common: Ռեյունյոն
+  as:
+    official: ৰিইউনিয়ান
+    common: ৰিইউনিয়ান
+  az:
+    official: Reyunion
+    common: Reyunion
+  eu:
+    official: Réunion
+    common: Réunion
+  be:
+    official: Рэюньён
+    common: Рэюньён
+  bn:
+    official: রিইউনিয়ান
+    common: রিইউনিয়ান
+  bs:
+    official: Réunion
+    common: Réunion
+  br:
+    official: Réunion
+    common: Réunion
+  bg:
+    official: Риюниън
+    common: Риюниън
+  ca:
+    official: Reunió
+    common: Reunió
+  zh:
+    official: 留尼汪
+    common: 留尼汪
+  cs:
+    official: Réunion
+    common: Réunion
+  da:
+    official: Réunion
+    common: Réunion
+  nl:
+    official: Réunion
+    common: Réunion
+  dz:
+    official: སླར་བསྡོམ།
+    common: སླར་བསྡོམ།
+  en:
+    official: Réunion
+    common: Réunion
+  eo:
+    official: Reunio
+    common: Reunio
+  et:
+    official: Réunion
+    common: Réunion
+  fo:
+    official: Réunion
+    common: Réunion
+  fi:
+    official: Réunion
+    common: Réunion
+  fr:
+    official: Réunion, Île de la
+    common: Réunion, Île de la
+  ka:
+    official: რეუნიონი
+    common: რეუნიონი
+  de:
+    official: Réunion
+    common: Réunion
+  ga:
+    official: Réunion
+    common: Réunion
+  gl:
+    official: Reunión
+    common: Reunión
+  el:
+    official: Ρεουνιόν
+    common: Ρεουνιόν
+  gu:
+    official: રીયુનિયન
+    common: રીયુનિયન
+  he:
+    official: ראוניון
+    common: ראוניון
+  hi:
+    official: रीयूनियन
+    common: रीयूनियन
+  hr:
+    official: Réunion
+    common: Réunion
+  hu:
+    official: Réunion
+    common: Réunion
+  is:
+    official: Réunion
+    common: Réunion
+  ia:
+    official: Reunion
+    common: Reunion
+  id:
+    official: Réunion
+    common: Réunion
+  it:
+    official: Riunione
+    common: Riunione
+  ja:
+    official: レユニオン
+    common: レユニオン
+  kn:
+    official: Réunion
+    common: Réunion
+  kk:
+    official: Реюньон
+    common: Реюньон
+  km:
+    official: រេអុយញ៉ុង
+    common: រេអុយញ៉ុង
+  rw:
+    official: Reyiniyo
+    common: Reyiniyo
+  ko:
+    official: 레위니옹
+    common: 레위니옹
+  ku:
+    official: Reûnyon
+    common: Reûnyon
+  lv:
+    official: Reinjona
+    common: Reinjona
+  lt:
+    official: Reunjonas
+    common: Reunjonas
+  mk:
+    official: Реунион
+    common: Реунион
+  ml:
+    official: റീയൂണിയന്‍
+    common: റീയൂണിയന്‍
+  mi:
+    official: Réunion
+    common: Réunion
+  mr:
+    official: रियुनियन
+    common: रियुनियन
+  ms:
+    official: Réunion
+    common: Réunion
+  mt:
+    official: Réunion
+    common: Réunion
+  mn:
+    official: Réunion
+    common: Réunion
+  ne:
+    official: रियूनियन
+    common: रियूनियन
+  nn:
+    official: Réunion
+    common: Réunion
+  nb:
+    official: Réunion
+    common: Réunion
+  oc:
+    official: Réunion
+    common: Réunion
+  or:
+    official: ରିୟୁନିୟନ
+    common: ରିୟୁନିୟନ
+  pa:
+    official: ਰੀਯੁਨੀਅਨ
+    common: ਰੀਯੁਨੀਅਨ
+  fa:
+    official: رئونیون
+    common: رئونیون
+  pl:
+    official: Reunion
+    common: Reunion
+  pt:
+    official: Ilha Reunião
+    common: Ilha Reunião
+  ps:
+    official: Réunion
+    common: Réunion
+  ro:
+    official: Réunion
+    common: Réunion
+  ru:
+    official: Реюньон
+    common: Реюньон
+  si:
+    official: ප්‍රතිසංවිධානය
+    common: ප්‍රතිසංවිධානය
+  sk:
+    official: Réunion
+    common: Réunion
+  sl:
+    official: Reunion
+    common: Reunion
+  so:
+    official: Réunion
+    common: Réunion
+  es:
+    official: Reunión
+    common: Reunión
+  sr:
+    official: Реунион
+    common: Реунион
+  sw:
+    official: Réunion
+    common: Réunion
+  sv:
+    official: Réunion
+    common: Réunion
+  ta:
+    official: ரீயூனியன்
+    common: ரீயூனியன்
+  tt:
+    official: Рéунион
+    common: Рéунион
+  te:
+    official: రియూనియన్
+    common: రియూనియన్
+  tl:
+    official: Réunion
+    common: Réunion
+  th:
+    official: เรอูนียง
+    common: เรอูนียง
+  ti:
+    official: Réunion
+    common: Réunion
+  tk:
+    official: Reýunon
+    common: Reýunon
+  tr:
+    official: Réunion
+    common: Réunion
+  ug:
+    official: رېئونىيون
+    common: رېئونىيون
+  uk:
+    official: Реюньйон
+    common: Реюньйон
+  ve:
+    official: 'Fhethu:'
+    common: 'Fhethu:'
+  vi:
+    official: Rê-u-ni-ợnh
+    common: Rê-u-ni-ợnh
+  cy:
+    official: Réunion
+    common: Réunion
+  wa:
+    official: Reyunion
+    common: Reyunion
+  wo:
+    official: Reiñõo
+    common: Reiñõo
+  xh:
+    official: Réunion
+    common: Réunion
+  zu:
+    official: Réunion
+    common: Réunion

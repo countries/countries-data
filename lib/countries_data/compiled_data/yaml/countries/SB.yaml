@@ -1,0 +1,330 @@
+---
+continent: Australia
+alpha2: SB
+alpha3: SLB
+country_code: '677'
+international_prefix: '00'
+ioc: SOL
+gec: BP
+name: Solomon Islands
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 5
+national_prefix: None
+number: 090
+region: Oceania
+subregion: Melanesia
+world_region: APAC
+un_locode: SB
+nationality: Solomon Islander
+postal_code: false
+unofficial_names:
+- Solomon Islands
+- Salomonen
+- Îles Salomon
+- Islas Salomón
+- ソロモン諸島
+- Salomonseilanden
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: -9.64571
+  latitude_dec: "-9.548112869262695"
+  longitude: 160.156194
+  longitude_dec: '160.01930236816406'
+  max_latitude: -6.5892402
+  max_longitude: 167.1929455
+  min_latitude: -11.881386
+  min_longitude: 155.4862404
+  bounds:
+    northeast:
+      lat: -6.5892402
+      lng: 167.1929455
+    southwest:
+      lat: -11.881386
+      lng: 155.4862404
+currency_code: SBD
+postal_address_data:
+  id: data/SB
+  key: SB
+  name: SOLOMON ISLANDS
+translations:
+  af:
+    official: Solomon Eilande
+    common: Solomon Eilande
+  sq:
+    official: Ishujt Solomon
+    common: Ishujt Solomon
+  am:
+    official: Solomon Islands
+    common: Solomon Islands
+  ar:
+    official: جزر سولومن
+    common: جزر سولومن
+  hy:
+    official: Սոլոմոնյան կղզիներ
+    common: Սոլոմոնյան կղզիներ
+  as:
+    official: ছলোমন দ্বীপ
+    common: ছলোমন দ্বীপ
+  az:
+    official: Solomon Adaları
+    common: Solomon Adaları
+  eu:
+    official: Salomon uharteak
+    common: Salomon uharteak
+  be:
+    official: Саламонавы Астравы
+    common: Саламонавы Астравы
+  bn:
+    official: সলোমান দ্বীপপুঞ্জ
+    common: সলোমান দ্বীপপুঞ্জ
+  bs:
+    official: Solomoska ostrva
+    common: Solomoska ostrva
+  br:
+    official: Solomon Islands
+    common: Solomon Islands
+  bg:
+    official: Соломонови острови
+    common: Соломонови острови
+  ca:
+    official: Illes Salomó
+    common: Illes Salomó
+  zh:
+    official: 所罗门群岛
+    common: 所罗门群岛
+  cs:
+    official: Šalamounovy ostrovy
+    common: Šalamounovy ostrovy
+  da:
+    official: Salomonøerne
+    common: Salomonøerne
+  nl:
+    official: Salomonseilanden
+    common: Salomonseilanden
+  dz:
+    official: སོ་ལོ་མཱོན་ ཨའི་ལེནཌིསི།
+    common: སོ་ལོ་མཱོན་ ཨའི་ལེནཌིསི།
+  en:
+    official: Solomon Islands
+    common: Solomon Islands
+  eo:
+    official: Salomonoj
+    common: Salomonoj
+  et:
+    official: Saalomoni Saared
+    common: Saalomoni Saared
+  fo:
+    official: Sálomonoyggjarnar
+    common: Sálomonoyggjarnar
+  fi:
+    official: Salomonsaaret
+    common: Salomonsaaret
+  fr:
+    official: Salomon, Îles
+    common: Salomon, Îles
+  ka:
+    official: სოლომონის კუნძულები
+    common: სოლომონის კუნძულები
+  de:
+    official: Salomoninseln
+    common: Salomoninseln
+  ga:
+    official: Oileán Solomon
+    common: Oileán Solomon
+  gl:
+    official: Illas Salomón
+    common: Illas Salomón
+  el:
+    official: Νήσοι Σολομώντος
+    common: Νήσοι Σολομώντος
+  gu:
+    official: સોલોમન ટાપુઓ
+    common: સોલોમન ટાપુઓ
+  he:
+    official: איי שלמה
+    common: איי שלמה
+  hi:
+    official: सोलोमन आइलैंड्स
+    common: सोलोमन आइलैंड्स
+  hr:
+    official: Solomonski otoci
+    common: Solomonski otoci
+  hu:
+    official: Salamon-szigetek
+    common: Salamon-szigetek
+  is:
+    official: Salómonseyjar
+    common: Salómonseyjar
+  ia:
+    official: Insulas Solomon
+    common: Insulas Solomon
+  id:
+    official: Kepulauan Solomon
+    common: Kepulauan Solomon
+  it:
+    official: Isole Salomone
+    common: Isole Salomone
+  ja:
+    official: ソロモン諸島
+    common: ソロモン諸島
+  kn:
+    official: ಸೋಲೋಮನ್ ದ್ವೀಪಗಳು
+    common: ಸೋಲೋಮನ್ ದ್ವೀಪಗಳು
+  kk:
+    official: Соломон аралдары
+    common: Соломон аралдары
+  km:
+    official: កោះ​សូឡូម៉ូន
+    common: កោះ​សូឡូម៉ូន
+  rw:
+    official: Ibirwa bya Solomoni
+    common: Ibirwa bya Solomoni
+  ko:
+    official: 솔로몬 제도
+    common: 솔로몬 제도
+  ku:
+    official: Giravên Solomon
+    common: Giravên Solomon
+  lv:
+    official: Zālamana salas
+    common: Zālamana salas
+  lt:
+    official: Saliamono salos
+    common: Saliamono salos
+  mk:
+    official: Соломонски острови
+    common: Соломонски острови
+  ml:
+    official: സോളമന്‍ ദ്വീപുകള്‍
+    common: സോളമന്‍ ദ്വീപുകള്‍
+  mi:
+    official: Solomon Islands
+    common: Solomon Islands
+  mr:
+    official: सॉलोमन आयलॅंडस्
+    common: सॉलोमन आयलॅंडस्
+  ms:
+    official: Kepulauan Solomon
+    common: Kepulauan Solomon
+  mt:
+    official: Solomon Islands
+    common: Solomon Islands
+  mn:
+    official: Соломоны арлууд
+    common: Соломоны арлууд
+  ne:
+    official: सोलोमन टापु
+    common: सोलोमन टापु
+  nn:
+    official: Salomonøyane
+    common: Salomonøyane
+  nb:
+    official: Salomonøyene
+    common: Salomonøyene
+  oc:
+    official: Illas Salomon
+    common: Illas Salomon
+  or:
+    official: ସୋଲୋମୋନ ଦ୍ବୀପ
+    common: ସୋଲୋମୋନ ଦ୍ବୀପ
+  pa:
+    official: ਸੋਲੋਮੋਨ ਟਾਪੂ
+    common: ਸੋਲੋਮੋਨ ਟਾਪੂ
+  fa:
+    official: جزایر سلیمان
+    common: جزایر سلیمان
+  pl:
+    official: Wyspy Salomona
+    common: Wyspy Salomona
+  pt:
+    official: Ilhas Salomão
+    common: Ilhas Salomão
+  ps:
+    official: Solomon Islands
+    common: Solomon Islands
+  ro:
+    official: Insulele Solomon
+    common: Insulele Solomon
+  ru:
+    official: Соломоновы Острова
+    common: Соломоновы Острова
+  si:
+    official: සොලමන් දූපත්
+    common: සොලමන් දූපත්
+  sk:
+    official: Šalamúnove ostrovy
+    common: Šalamúnove ostrovy
+  sl:
+    official: Solomonovi otoki
+    common: Solomonovi otoki
+  so:
+    official: Solomon Islands
+    common: Solomon Islands
+  es:
+    official: Islas Salomón
+    common: Islas Salomón
+  sr:
+    official: Острва Соломон
+    common: Острва Соломон
+  sw:
+    official: Solomon Islands
+    common: Solomon Islands
+  sv:
+    official: Salomonöarna
+    common: Salomonöarna
+  ta:
+    official: சாலமன் தீவுகள்
+    common: சாலமன் தீவுகள்
+  tt:
+    official: Соломон Утравлары
+    common: Соломон Утравлары
+  te:
+    official: సాలోమన్ ఐలాండ్స్
+    common: సాలోమన్ ఐలాండ్స్
+  tl:
+    official: Solomon Islands
+    common: Solomon Islands
+  th:
+    official: หมู่เกาะโซโลมอน
+    common: หมู่เกาะโซโลมอน
+  ti:
+    official: Solomon Islands
+    common: Solomon Islands
+  tk:
+    official: Solomonowlar adasy
+    common: Solomonowlar adasy
+  tr:
+    official: Solomon Adaları
+    common: Solomon Adaları
+  ug:
+    official: سولومون ئارىلى
+    common: سولومون ئارىلى
+  uk:
+    official: Соломонові Острови
+    common: Соломонові Острови
+  ve:
+    official: Solomon Islands
+    common: Solomon Islands
+  vi:
+    official: Quần đảo Xô-lô-mông
+    common: Quần đảo Xô-lô-mông
+  cy:
+    official: Ynysoedd Solomon
+    common: Ynysoedd Solomon
+  wa:
+    official: Iyes Solomon
+    common: Iyes Solomon
+  wo:
+    official: Iil yu Solomon
+    common: Iil yu Solomon
+  xh:
+    official: Solomon Islands
+    common: Solomon Islands
+  zu:
+    official: Solomon Islands
+    common: Solomon Islands

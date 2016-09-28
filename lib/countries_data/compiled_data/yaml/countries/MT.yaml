@@ -1,0 +1,343 @@
+---
+continent: Europe
+alpha2: MT
+alpha3: MLT
+country_code: '356'
+international_prefix: '00'
+ioc: MLT
+gec: MT
+name: Malta
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: '21'
+number: '470'
+region: Europe
+subregion: Southern Europe
+world_region: EMEA
+un_locode: MT
+nationality: Maltese
+eu_member: true
+eea_member: true
+vat_rates:
+  standard: 18
+  reduced:
+  - 5
+  - 7
+  super_reduced: 
+  parking: 
+postal_code: true
+unofficial_names:
+- Malta
+- Malte
+- マルタ
+languages_official:
+- mt
+- en
+languages_spoken:
+- mt
+- en
+geo:
+  latitude: 35.937496
+  latitude_dec: '35.93336486816406'
+  longitude: 14.375416
+  longitude_dec: '14.381033897399902'
+  max_latitude: 36.082227
+  max_longitude: 14.5765028
+  min_latitude: 35.8062364
+  min_longitude: 14.1835484
+  bounds:
+    northeast:
+      lat: 36.082227
+      lng: 14.5765028
+    southwest:
+      lat: 35.8062364
+      lng: 14.1835484
+currency_code: EUR
+postal_address_data:
+  key: MT
+  upper: CZ
+  zipex: NXR 01,ZTN 05,GPO 01,BZN 1130,SPB 6031,VCT 1753
+  name: MALTA
+  zip: "[A-Z]{3} ?\\d{2,4}"
+  fmt: "%N%n%O%n%A%n%C %Z"
+  posturl: http://postcodes.maltapost.com/
+  id: data/MT
+translations:
+  af:
+    official: Malta
+    common: Malta
+  sq:
+    official: Malta
+    common: Malta
+  am:
+    official: ሢሔታ
+    common: ሢሔታ
+  ar:
+    official: مالطة
+    common: مالطة
+  hy:
+    official: Մալթա
+    common: Մալթա
+  as:
+    official: মাল্টা
+    common: মাল্টা
+  az:
+    official: Malta
+    common: Malta
+  eu:
+    official: Malta
+    common: Malta
+  be:
+    official: Мальта
+    common: Мальта
+  bn:
+    official: মল্টা
+    common: মল্টা
+  bs:
+    official: Malta
+    common: Malta
+  br:
+    official: Malta
+    common: Malta
+  bg:
+    official: Малта
+    common: Малта
+  ca:
+    official: Malta
+    common: Malta
+  zh:
+    official: 马尔他
+    common: 马尔他
+  cs:
+    official: Malta
+    common: Malta
+  da:
+    official: Malta
+    common: Malta
+  nl:
+    official: Malta
+    common: Malta
+  dz:
+    official: མཱལ་ཊ་ མི་སེར་རྒྱལ་ཁབ།
+    common: མཱལ་ཊ་ མི་སེར་རྒྱལ་ཁབ།
+  en:
+    official: Malta
+    common: Malta
+  eo:
+    official: Malto
+    common: Malto
+  et:
+    official: Malta
+    common: Malta
+  fo:
+    official: Malta
+    common: Malta
+  fi:
+    official: Malta
+    common: Malta
+  fr:
+    official: Malte
+    common: Malte
+  ka:
+    official: მალტა
+    common: მალტა
+  de:
+    official: Malta
+    common: Malta
+  ga:
+    official: Málta
+    common: Málta
+  gl:
+    official: Malta
+    common: Malta
+  el:
+    official: Μάλτα
+    common: Μάλτα
+  gu:
+    official: માલ્ટા
+    common: માલ્ટા
+  he:
+    official: מלטה
+    common: מלטה
+  hi:
+    official: माल्टा
+    common: माल्टा
+  hr:
+    official: Malta
+    common: Malta
+  hu:
+    official: Málta
+    common: Málta
+  is:
+    official: Malta
+    common: Malta
+  ia:
+    official: Malta
+    common: Malta
+  id:
+    official: Malta
+    common: Malta
+  it:
+    official: Malta
+    common: Malta
+  ja:
+    official: マルタ
+    common: マルタ
+  kn:
+    official: ಮಾಲ್ಟಾ
+    common: ಮಾಲ್ಟಾ
+  kk:
+    official: Мальта
+    common: Мальта
+  km:
+    official: ម៉ាល់តា
+    common: ម៉ាល់តា
+  rw:
+    official: Malita
+    common: Malita
+  ko:
+    official: 몰타
+    common: 몰타
+  ku:
+    official: Malta
+    common: Malta
+  lv:
+    official: Malta
+    common: Malta
+  lt:
+    official: Malta
+    common: Malta
+  mk:
+    official: Малта
+    common: Малта
+  ml:
+    official: മാള്‍ട്ട
+    common: മാള്‍ട്ട
+  mi:
+    official: Mārata
+    common: Mārata
+  mr:
+    official: माल्टा
+    common: माल्टा
+  ms:
+    official: Malta
+    common: Malta
+  mt:
+    official: Malta
+    common: Malta
+  mn:
+    official: Малта
+    common: Малта
+  ne:
+    official: माल्टा
+    common: माल्टा
+  nn:
+    official: Malta
+    common: Malta
+  nb:
+    official: Malta
+    common: Malta
+  oc:
+    official: Malta
+    common: Malta
+  or:
+    official: ମାଲ୍ଟା
+    common: ମାଲ୍ଟା
+  pa:
+    official: ਮਾਲਟਾ
+    common: ਮਾਲਟਾ
+  fa:
+    official: جزیره مالت
+    common: جزیره مالت
+  pl:
+    official: Malta
+    common: Malta
+  pt:
+    official: Malta
+    common: Malta
+  ps:
+    official: Malta
+    common: Malta
+  ro:
+    official: Malta
+    common: Malta
+  ru:
+    official: Мальта
+    common: Мальта
+  si:
+    official: මෝල්ටා
+    common: මෝල්ටා
+  sk:
+    official: Malta
+    common: Malta
+  sl:
+    official: Malta
+    common: Malta
+  so:
+    official: Maalda
+    common: Maalda
+  es:
+    official: Malta
+    common: Malta
+  sr:
+    official: Малта
+    common: Малта
+  sw:
+    official: Malta
+    common: Malta
+  sv:
+    official: Malta
+    common: Malta
+  ta:
+    official: மால்டா
+    common: மால்டா
+  tt:
+    official: Малта
+    common: Малта
+  te:
+    official: మాల్టా
+    common: మాల్టా
+  tl:
+    official: Malta
+    common: Malta
+  th:
+    official: มอลตา
+    common: มอลตา
+  ti:
+    official: ማልታ
+    common: ማልታ
+  tk:
+    official: Malta
+    common: Malta
+  tr:
+    official: Malta
+    common: Malta
+  ug:
+    official: مالتا
+    common: مالتا
+  uk:
+    official: Мальта
+    common: Мальта
+  ve:
+    official: Malta
+    common: Malta
+  vi:
+    official: Moa-ta
+    common: Moa-ta
+  cy:
+    official: Malta
+    common: Malta
+  wa:
+    official: Male
+    common: Male
+  wo:
+    official: Malt
+    common: Malt
+  xh:
+    official: Malta
+    common: Malta
+  zu:
+    official: I-Malta
+    common: I-Malta

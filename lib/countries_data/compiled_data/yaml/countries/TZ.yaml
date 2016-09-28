@@ -1,0 +1,327 @@
+---
+continent: Africa
+alpha2: TZ
+alpha3: TZA
+country_code: '255'
+international_prefix: '000'
+ioc: TAN
+gec: TZ
+name: Tanzania, United Republic of
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: '0'
+number: '834'
+region: Africa
+subregion: Eastern Africa
+world_region: EMEA
+un_locode: TZ
+nationality: Tanzanian
+postal_code: false
+unofficial_names:
+- Tanzania
+- Tansania
+- Tanzanie
+- タンザニア
+- Tanzania United Republic
+languages_official:
+- sw
+- en
+languages_spoken:
+- sw
+- en
+geo:
+  latitude: -6.369028
+  latitude_dec: "-6.306897163391113"
+  longitude: 34.888822
+  longitude_dec: '34.85392761230469'
+  max_latitude: -0.984397
+  max_longitude: 40.4449653
+  min_latitude: -11.761254
+  min_longitude: 29.3399999
+currency_code: TZS
+postal_address_data:
+  zipex: '6090,34413'
+  name: TANZANIA (UNITED REP.)
+  zip: "\\d{4,5}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  key: TZ
+  id: data/TZ
+translations:
+  af:
+    official: Tanzanië
+    common: Tanzanië
+  sq:
+    official: Republika e Bashkuar e Tanzanisë
+    common: Republika e Bashkuar e Tanzanisë
+  am:
+    official: ታንፒኒ።
+    common: ታንፒኒ።
+  ar:
+    official: تنزانيا، جمهوريّة تنزانيا المتّحدة
+    common: تنزانيا، جمهوريّة تنزانيا المتّحدة
+  hy:
+    official: Տանզանիա, Միացյալ Հանրապետություն
+    common: Տանզանիա, Միացյալ Հանրապետություն
+  as:
+    official: তাঞ্জানিয়া, সংযুক্ত প্ৰজাতন্ত্ৰ
+    common: তাঞ্জানিয়া, সংযুক্ত প্ৰজাতন্ত্ৰ
+  az:
+    official: Koreya, Respublika
+    common: Koreya, Respublika
+  eu:
+    official: Tanzania, Errepublika Batua
+    common: Tanzania, Errepublika Batua
+  be:
+    official: Танзанія, Аб'яднаная Рэспубліка
+    common: Танзанія, Аб'яднаная Рэспубліка
+  bn:
+    official: তানজানিয়া, সংযুক্ত প্রজাতন্ত্র
+    common: তানজানিয়া, সংযুক্ত প্রজাতন্ত্র
+  bs:
+    official: Ujedinjena Republika Tanzanija
+    common: Ujedinjena Republika Tanzanija
+  br:
+    official: Tanzania, United Republic of
+    common: Tanzania, United Republic of
+  bg:
+    official: Танзания, Обединена република
+    common: Танзания, Обединена република
+  ca:
+    official: Tanzània, República Unida de
+    common: Tanzània, República Unida de
+  zh:
+    official: 坦桑尼亚
+    common: 坦桑尼亚
+  cs:
+    official: Tanzanie, sjednocená republika
+    common: Tanzanie, sjednocená republika
+  da:
+    official: Tanzania, Den Forenede Republik
+    common: Tanzania, Den Forenede Republik
+  nl:
+    official: Tanzania
+    common: Tanzania
+  dz:
+    official: ཏཱན་ཛ་ནི་ཡ། ཡུ་ན་ཡེ་ཊེཊི་ རི་པཔ་ལིཀ་ ཨོཕ་
+    common: ཏཱན་ཛ་ནི་ཡ། ཡུ་ན་ཡེ་ཊེཊི་ རི་པཔ་ལིཀ་ ཨོཕ་
+  en:
+    official: Tanzania, United Republic of
+    common: Tanzania, United Republic of
+  eo:
+    official: Tanzanio, Unuiĝinta Respubliko
+    common: Tanzanio, Unuiĝinta Respubliko
+  et:
+    official: Tansaania
+    common: Tansaania
+  fo:
+    official: Tanzania, United Republic of
+    common: Tanzania, United Republic of
+  fi:
+    official: Tansanian yhdistynyt tasavalta
+    common: Tansanian yhdistynyt tasavalta
+  fr:
+    official: Tanzanie, République unie de
+    common: Tanzanie, République unie de
+  ka:
+    official: ტანზანიის გაერთიანებული რესპუბლიკა
+    common: ტანზანიის გაერთიანებული რესპუბლიკა
+  de:
+    official: Tansania, Vereinigte Republik
+    common: Tansania, Vereinigte Republik
+  ga:
+    official: An Tansáin
+    common: An Tansáin
+  gl:
+    official: Tanzania, República Unida de
+    common: Tanzania, República Unida de
+  el:
+    official: Τανζανία, Ενωμένη Δημοκρατία της
+    common: Τανζανία, Ενωμένη Δημοκρατία της
+  gu:
+    official: ટાન્ઝાનિયા, યુનાઇટેડ રીપબ્લિક ઓફ
+    common: ટાન્ઝાનિયા, યુનાઇટેડ રીપબ્લિક ઓફ
+  he:
+    official: טנזניה, הרפובליקה המאוחדת של
+    common: טנזניה, הרפובליקה המאוחדת של
+  hi:
+    official: तंज़ानिया, यूनाइटेड रिपब्लिक ऑफ
+    common: तंज़ानिया, यूनाइटेड रिपब्लिक ऑफ
+  hr:
+    official: Tanzanija
+    common: Tanzanija
+  hu:
+    official: Tanzánia
+    common: Tanzánia
+  is:
+    official: Tansanía, sameinaða lýðveldið
+    common: Tansanía, sameinaða lýðveldið
+  ia:
+    official: Tanzania
+    common: Tanzania
+  id:
+    official: Tanzania
+    common: Tanzania
+  it:
+    official: Tanzania
+    common: Tanzania
+  ja:
+    official: タニザニア連合共和国
+    common: タニザニア連合共和国
+  kn:
+    official: ತಾಂಜಾನಿಯಾ ಸಂಯುಕ್ತ ಗಣರಾಜ್ಯ
+    common: ತಾಂಜಾನಿಯಾ ಸಂಯುಕ್ತ ಗಣರಾಜ್ಯ
+  kk:
+    official: Танзания
+    common: Танзания
+  km:
+    official: "​តង់ហ្សានី​សាធារណ​រដ្ឋ​រួម​នៃ"
+    common: "​តង់ហ្សានី​សាធារណ​រដ្ឋ​រួម​នៃ"
+  rw:
+    official: Tanzaniya, Repubulika Yunze Ubumwe ya
+    common: Tanzaniya, Repubulika Yunze Ubumwe ya
+  ko:
+    official: 탄자니아 연방 공화국
+    common: 탄자니아 연방 공화국
+  ku:
+    official: Tanzanya, Komara Yekbuyî
+    common: Tanzanya, Komara Yekbuyî
+  lv:
+    official: Tanzānija
+    common: Tanzānija
+  lt:
+    official: Tanzanijos Jungtinė Respublika
+    common: Tanzanijos Jungtinė Respublika
+  mk:
+    official: Танзанија
+    common: Танзанија
+  ml:
+    official: ടാന്‍സാനിയ, യുണൈറ്റഡ് റിപ്പബ്ലിക് ഓഫ്
+    common: ടാന്‍സാനിയ, യുണൈറ്റഡ് റിപ്പബ്ലിക് ഓഫ്
+  mi:
+    official: Tānahia
+    common: Tānahia
+  mr:
+    official: टांझानिया, युनायटेड रिपब्लिक ऑफ
+    common: टांझानिया, युनायटेड रिपब्लिक ऑफ
+  ms:
+    official: Tanzania, United Republic of
+    common: Tanzania, United Republic of
+  mt:
+    official: Repubblika Dominikana
+    common: Repubblika Dominikana
+  mn:
+    official: Солонгос ард улс
+    common: Солонгос ард улс
+  ne:
+    official: तान्जानियाको संयक्त गणराज्यज्य
+    common: तान्जानियाको संयक्त गणराज्यज्य
+  nn:
+    official: Tanzania
+    common: Tanzania
+  nb:
+    official: Tanzania, Forbundsrepublikken
+    common: Tanzania, Forbundsrepublikken
+  oc:
+    official: Republica Dominicana
+    common: Republica Dominicana
+  or:
+    official: ତାଞ୍ଜାନିଆ, ୟୁକ୍ରେନ ସଂଯୁକ୍ତ
+    common: ତାଞ୍ଜାନିଆ, ୟୁକ୍ରେନ ସଂଯୁକ୍ତ
+  pa:
+    official: ਤਨਜ਼ਾਨੀਆ, ਸੰਯੁਕਤ ਗਣਰਾਜ
+    common: ਤਨਜ਼ਾਨੀਆ, ਸੰਯੁਕਤ ਗਣਰਾਜ
+  fa:
+    official: تانزانیا، جمهوری متحده
+    common: تانزانیا، جمهوری متحده
+  pl:
+    official: Tanzania
+    common: Tanzania
+  pt:
+    official: Tanzânia, República Unida da
+    common: Tanzânia, República Unida da
+  ps:
+    official: Tanzania, United Republic of
+    common: Tanzania, United Republic of
+  ro:
+    official: Republica Unită Tanzania
+    common: Republica Unită Tanzania
+  ru:
+    official: Танзания
+    common: Танзания
+  si:
+    official: ටැන්සානියා එක්සත් ජනරජය
+    common: ටැන්සානියා එක්සත් ජනරජය
+  sk:
+    official: Tanzánijská zjednotená republika
+    common: Tanzánijská zjednotená republika
+  sl:
+    official: Tanzanija
+    common: Tanzanija
+  so:
+    official: Tansaaniya
+    common: Tansaaniya
+  es:
+    official: Tanzania, República unida de
+    common: Tanzania, República unida de
+  sr:
+    official: Танзанија, Уједињена Република
+    common: Танзанија, Уједињена Република
+  sw:
+    official: Tanzania, United Republic of
+    common: Tanzania, United Republic of
+  sv:
+    official: Tanzania, förenade republiken
+    common: Tanzania, förenade republiken
+  ta:
+    official: டான்ஸானியா ஐக்கிய குடியரசு
+    common: டான்ஸானியா ஐக்கிய குடியரசு
+  tt:
+    official: Танзаниа, Берләшкән Җөмһүриәтләре
+    common: Танзаниа, Берләшкән Җөмһүриәтләре
+  te:
+    official: టాంజానియా, యునైటెడ్ రిపబ్లిక్ ఆఫ్
+    common: టాంజానియా, యునైటెడ్ రిపబ్లిక్ ఆఫ్
+  tl:
+    official: Tanzania, Nagkaisang Republika ng
+    common: Tanzania, Nagkaisang Republika ng
+  th:
+    official: แทนซาเนีย, สหสาธารณรัฐ
+    common: แทนซาเนีย, สหสาธารณรัฐ
+  ti:
+    official: Tanzania, United Republic of
+    common: Tanzania, United Republic of
+  tk:
+    official: Tanzaniýa
+    common: Tanzaniýa
+  tr:
+    official: Tanzanya Birleşik Cumhuriyeti
+    common: Tanzanya Birleşik Cumhuriyeti
+  ug:
+    official: تانزانىيە قوشما جۇمھۇرىيىتى
+    common: تانزانىيە قوشما جۇمھۇرىيىتى
+  uk:
+    official: Танзанія
+    common: Танзанія
+  ve:
+    official: Czech Republic
+    common: Czech Republic
+  vi:
+    official: Nước Cộng Hoà Thống Nhất Than-xa-ni-a
+    common: Nước Cộng Hoà Thống Nhất Than-xa-ni-a
+  cy:
+    official: Tanzania, Gweriniaeth Unedig
+    common: Tanzania, Gweriniaeth Unedig
+  wa:
+    official: Tanzaneye
+    common: Tanzaneye
+  wo:
+    official: Taansaani, Republik bu bennoo bu
+    common: Taansaani, Republik bu bennoo bu
+  xh:
+    official: Ulawulo lokuziphatha kwe Dominican
+    common: Ulawulo lokuziphatha kwe Dominican
+  zu:
+    official: Ulawulo lokuziphatha kwe Dominikhani
+    common: Ulawulo lokuziphatha kwe Dominikhani

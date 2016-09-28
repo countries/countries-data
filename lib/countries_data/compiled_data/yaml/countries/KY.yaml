@@ -1,0 +1,339 @@
+---
+continent: North America
+alpha2: KY
+alpha3: CYM
+country_code: '1'
+international_prefix: '011'
+ioc: CAY
+gec: CJ
+name: Cayman Islands
+national_destination_code_lengths:
+- 3
+national_number_lengths:
+- 10
+national_prefix: '1'
+number: '136'
+region: Americas
+subregion: Caribbean
+world_region: AMER
+un_locode: KY
+nationality: Caymanian
+postal_code: true
+unofficial_names:
+- Cayman Islands
+- Kaimaninseln
+- Îles Caïmans
+- Islas Caimán
+- ケイマン諸島
+- Caymaneilanden
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: 19.3133
+  latitude_dec: '19.308862686157227'
+  longitude: -81.2546
+  longitude_dec: "-81.25680541992188"
+  max_latitude: 19.7568976
+  max_longitude: -79.7229158
+  min_latitude: 19.2629371
+  min_longitude: -81.420203
+  bounds:
+    northeast:
+      lat: 19.7568976
+      lng: -79.7229158
+    southwest:
+      lat: 19.2629371
+      lng: -81.420203
+currency_code: KYD
+postal_address_data:
+  lang: en
+  key: KY
+  zipex: KY1-1100,KY1-1702,KY2-2101
+  name: CAYMAN ISLANDS
+  zip: KY\d-\d{4}
+  require: AS
+  state_name_type: island
+  id: data/KY
+  languages: en
+  sub_keys: Cayman Brac~Grand Cayman~Little Cayman
+  posturl: http://www.caymanpost.gov.ky/portal/page?_pageid=3561,1&_dad=portal&_schema=PORTAL
+  fmt: "%N%n%O%n%A%n%S %Z"
+translations:
+  af:
+    official: Kaaimanseilande
+    common: Kaaimanseilande
+  sq:
+    official: Ishujt Kajman
+    common: Ishujt Kajman
+  am:
+    official: Cayman Islands
+    common: Cayman Islands
+  ar:
+    official: جزر الكيمان
+    common: جزر الكيمان
+  hy:
+    official: Կայմանյան Կղզիներ
+    common: Կայմանյան Կղզիներ
+  as:
+    official: কেমেন দ্বীপ
+    common: কেমেন দ্বীপ
+  az:
+    official: Kayman Adaları
+    common: Kayman Adaları
+  eu:
+    official: Kaiman uharteak
+    common: Kaiman uharteak
+  be:
+    official: Кайманскія астравы
+    common: Кайманскія астравы
+  bn:
+    official: কেম্যান দ্বীপপুঞ্জ
+    common: কেম্যান দ্বীপপুঞ্জ
+  bs:
+    official: Kajmanska ostrva
+    common: Kajmanska ostrva
+  br:
+    official: Cayman Islands
+    common: Cayman Islands
+  bg:
+    official: Кайманови острови
+    common: Кайманови острови
+  ca:
+    official: Illes Caiman
+    common: Illes Caiman
+  zh:
+    official: 开曼群岛
+    common: 开曼群岛
+  cs:
+    official: Kajmanské ostrovy
+    common: Kajmanské ostrovy
+  da:
+    official: Caymanøerne
+    common: Caymanøerne
+  nl:
+    official: Caymaneilanden
+    common: Caymaneilanden
+  dz:
+    official: ཀེ་མཱན་ ཨའི་ལེནཌིསི།
+    common: ཀེ་མཱན་ ཨའི་ལེནཌིསི།
+  en:
+    official: Cayman Islands
+    common: Cayman Islands
+  eo:
+    official: Kejmanoj
+    common: Kejmanoj
+  et:
+    official: Kaimanisaared
+    common: Kaimanisaared
+  fo:
+    official: Cayman Islands
+    common: Cayman Islands
+  fi:
+    official: Caymansaaret
+    common: Caymansaaret
+  fr:
+    official: Caïman, Îles
+    common: Caïman, Îles
+  ka:
+    official: კაიამანის კუნძულები
+    common: კაიამანის კუნძულები
+  de:
+    official: Cayman-Inseln
+    common: Cayman-Inseln
+  ga:
+    official: Oileáin Cayman
+    common: Oileáin Cayman
+  gl:
+    official: Illas Caimán
+    common: Illas Caimán
+  el:
+    official: Νήσοι Καϋμάν
+    common: Νήσοι Καϋμάν
+  gu:
+    official: કેમેન ટાપુઓ
+    common: કેમેન ટાપુઓ
+  he:
+    official: איי קימן
+    common: איי קימן
+  hi:
+    official: केमैन आइलैंड्स
+    common: केमैन आइलैंड्स
+  hr:
+    official: Kajmanski otoci
+    common: Kajmanski otoci
+  hu:
+    official: Kajmán-szigetek
+    common: Kajmán-szigetek
+  is:
+    official: Cayman-eyjar
+    common: Cayman-eyjar
+  ia:
+    official: Insulas Caiman
+    common: Insulas Caiman
+  id:
+    official: Kepulauan Cayman
+    common: Kepulauan Cayman
+  it:
+    official: Isole Cayman
+    common: Isole Cayman
+  ja:
+    official: ケイマン諸島
+    common: ケイマン諸島
+  kn:
+    official: ಕೇಮನ್ ದ್ವೀಪಗಳು
+    common: ಕೇಮನ್ ದ್ವೀಪಗಳು
+  kk:
+    official: Кайман аралдары
+    common: Кайман аралдары
+  km:
+    official: កោះ​កៃម៉ាន
+    common: កោះ​កៃម៉ាន
+  rw:
+    official: Ibirwa bya Kayimani
+    common: Ibirwa bya Kayimani
+  ko:
+    official: 케이만 제도
+    common: 케이만 제도
+  ku:
+    official: Giravên Kayman
+    common: Giravên Kayman
+  lv:
+    official: Kaimanu salas
+    common: Kaimanu salas
+  lt:
+    official: Kaimanų salos
+    common: Kaimanų salos
+  mk:
+    official: Кајмански острови
+    common: Кајмански острови
+  ml:
+    official: കയ്‌മാന്‍ ദ്വീപുകള്‍
+    common: കയ്‌മാന്‍ ദ്വീപുകള്‍
+  mi:
+    official: Cayman Islands
+    common: Cayman Islands
+  mr:
+    official: केमेन आयलॅंडस्
+    common: केमेन आयलॅंडस्
+  ms:
+    official: Cayman Islands
+    common: Cayman Islands
+  mt:
+    official: Cayman Islands
+    common: Cayman Islands
+  mn:
+    official: Cayman Islands
+    common: Cayman Islands
+  ne:
+    official: सैम्यान टापु
+    common: सैम्यान टापु
+  nn:
+    official: Caymanøyane
+    common: Caymanøyane
+  nb:
+    official: Caymanøyene
+    common: Caymanøyene
+  oc:
+    official: Illas Caiman
+    common: Illas Caiman
+  or:
+    official: କୈମେନ ଦ୍ବୀପ
+    common: କୈମେନ ଦ୍ବୀପ
+  pa:
+    official: ਕਾਯਮਨ ਟਾਪੂ
+    common: ਕਾਯਮਨ ਟਾਪੂ
+  fa:
+    official: جزایر کِیمن
+    common: جزایر کِیمن
+  pl:
+    official: Kajmany
+    common: Kajmany
+  pt:
+    official: Ilhas Caimão
+    common: Ilhas Caimão
+  ps:
+    official: Cayman Islands
+    common: Cayman Islands
+  ro:
+    official: Insulele Caiman
+    common: Insulele Caiman
+  ru:
+    official: Каймановы острова
+    common: Каймановы острова
+  si:
+    official: සයිමන් දූපත්
+    common: සයිමන් දූපත්
+  sk:
+    official: Kajmanie ostrovy
+    common: Kajmanie ostrovy
+  sl:
+    official: Kajmanski otoki
+    common: Kajmanski otoki
+  so:
+    official: Cayman Islands
+    common: Cayman Islands
+  es:
+    official: Islas Caimán
+    common: Islas Caimán
+  sr:
+    official: Острва Кајман
+    common: Острва Кајман
+  sw:
+    official: Visiwa vya Cayman
+    common: Visiwa vya Cayman
+  sv:
+    official: Caymanöarna
+    common: Caymanöarna
+  ta:
+    official: கேமான் தீவுகள்
+    common: கேமான் தீவுகள்
+  tt:
+    official: Кайман Утравлары
+    common: Кайман Утравлары
+  te:
+    official: కేమేన్ ఐలాండ్స్
+    common: కేమేన్ ఐలాండ్స్
+  tl:
+    official: Pulong Cayman
+    common: Pulong Cayman
+  th:
+    official: หมู่เกาะเคย์แมน
+    common: หมู่เกาะเคย์แมน
+  ti:
+    official: Cayman Islands
+    common: Cayman Islands
+  tk:
+    official: Cayman Islands
+    common: Cayman Islands
+  tr:
+    official: Seyman Adaları
+    common: Seyman Adaları
+  ug:
+    official: كايمان تاقىم ئاراللىرى
+    common: كايمان تاقىم ئاراللىرى
+  uk:
+    official: Кайманові острови
+    common: Кайманові острови
+  ve:
+    official: Cayman Islands
+    common: Cayman Islands
+  vi:
+    official: Quần đảo Cay-man
+    common: Quần đảo Cay-man
+  cy:
+    official: Ynysoedd y Cayman
+    common: Ynysoedd y Cayman
+  wa:
+    official: Iyes Cayman
+    common: Iyes Cayman
+  wo:
+    official: Iil yu Kaymaan
+    common: Iil yu Kaymaan
+  xh:
+    official: Cayman Islands
+    common: Cayman Islands
+  zu:
+    official: Cayman Islands
+    common: Cayman Islands

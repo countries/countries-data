@@ -1,0 +1,326 @@
+---
+continent: Africa
+alpha2: GM
+alpha3: GMB
+country_code: '220'
+international_prefix: '00'
+ioc: GAM
+gec: GA
+name: Gambia
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: None
+number: '270'
+region: Africa
+subregion: Western Africa
+world_region: EMEA
+un_locode: GM
+nationality: Gambian
+postal_code: false
+unofficial_names:
+- Gambia
+- ガンビア
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: 13.443182
+  latitude_dec: '13.440265655517578'
+  longitude: -15.310139
+  longitude_dec: "-15.490884780883789"
+  max_latitude: 13.8249496
+  max_longitude: -13.7928726
+  min_latitude: 13.0379673
+  min_longitude: -16.8136312
+  bounds:
+    northeast:
+      lat: 13.8249496
+      lng: -13.7928726
+    southwest:
+      lat: 13.0379673
+      lng: -16.8136312
+currency_code: GMD
+postal_address_data:
+  id: data/GM
+  key: GM
+  name: GAMBIA
+translations:
+  af:
+    official: Gambië
+    common: Gambië
+  sq:
+    official: Gambia
+    common: Gambia
+  am:
+    official: ጒሤቢ።
+    common: ጒሤቢ።
+  ar:
+    official: غامبيا
+    common: غامبيا
+  hy:
+    official: Գամբիա
+    common: Գամբիա
+  as:
+    official: গাম্বিয়া
+    common: গাম্বিয়া
+  az:
+    official: Qambiya
+    common: Qambiya
+  eu:
+    official: Gambia
+    common: Gambia
+  be:
+    official: Гамбія
+    common: Гамбія
+  bn:
+    official: গাম্বিয়া
+    common: গাম্বিয়া
+  bs:
+    official: Gambija
+    common: Gambija
+  br:
+    official: Gambia
+    common: Gambia
+  bg:
+    official: Гамбия
+    common: Гамбия
+  ca:
+    official: Gàmbia
+    common: Gàmbia
+  zh:
+    official: 冈比亚
+    common: 冈比亚
+  cs:
+    official: Gambie
+    common: Gambie
+  da:
+    official: Gambia
+    common: Gambia
+  nl:
+    official: Gambia
+    common: Gambia
+  dz:
+    official: གམ་བོ་ནི་ཡ།
+    common: གམ་བོ་ནི་ཡ།
+  en:
+    official: Gambia
+    common: Gambia
+  eo:
+    official: Gambio
+    common: Gambio
+  et:
+    official: Gambia
+    common: Gambia
+  fo:
+    official: Gambia
+    common: Gambia
+  fi:
+    official: Gambia
+    common: Gambia
+  fr:
+    official: Gambie
+    common: Gambie
+  ka:
+    official: გამბია
+    common: გამბია
+  de:
+    official: Gambia
+    common: Gambia
+  ga:
+    official: An Ghaimbia
+    common: An Ghaimbia
+  gl:
+    official: Gambia
+    common: Gambia
+  el:
+    official: Γκάμπια
+    common: Γκάμπια
+  gu:
+    official: ગામ્બિયા
+    common: ગામ્બિયા
+  he:
+    official: גמביה
+    common: גמביה
+  hi:
+    official: गाम्बिया
+    common: गाम्बिया
+  hr:
+    official: Gambija
+    common: Gambija
+  hu:
+    official: Gambia
+    common: Gambia
+  is:
+    official: Gambía
+    common: Gambía
+  ia:
+    official: Gambia
+    common: Gambia
+  id:
+    official: Gambia
+    common: Gambia
+  it:
+    official: Gambia
+    common: Gambia
+  ja:
+    official: ガンビア
+    common: ガンビア
+  kn:
+    official: ಗ್ಯಾಂಬಿಯಾ
+    common: ಗ್ಯಾಂಬಿಯಾ
+  kk:
+    official: Гамбия
+    common: Гамбия
+  km:
+    official: ហ្គាំប៊ី
+    common: ហ្គាំប៊ី
+  rw:
+    official: Gambiya
+    common: Gambiya
+  ko:
+    official: 잠비아
+    common: 잠비아
+  ku:
+    official: Gambiya
+    common: Gambiya
+  lv:
+    official: Gambija
+    common: Gambija
+  lt:
+    official: Gambija
+    common: Gambija
+  mk:
+    official: Гамбија
+    common: Гамбија
+  ml:
+    official: ഗാംബിയ
+    common: ഗാംബിയ
+  mi:
+    official: Gambia
+    common: Gambia
+  mr:
+    official: गॅंबिया
+    common: गॅंबिया
+  ms:
+    official: Gambia
+    common: Gambia
+  mt:
+    official: Ġamajka
+    common: Ġamajka
+  mn:
+    official: Гамби
+    common: Гамби
+  ne:
+    official: गाम्बीया
+    common: गाम्बीया
+  nn:
+    official: Gambia
+    common: Gambia
+  nb:
+    official: Gambia
+    common: Gambia
+  oc:
+    official: Gambia
+    common: Gambia
+  or:
+    official: ଗାମ୍ବିୟା
+    common: ଗାମ୍ବିୟା
+  pa:
+    official: ਗਾਬੀਆ
+    common: ਗਾਬੀਆ
+  fa:
+    official: گامبیا
+    common: گامبیا
+  pl:
+    official: Gambia
+    common: Gambia
+  pt:
+    official: Gâmbia
+    common: Gâmbia
+  ps:
+    official: Gambia
+    common: Gambia
+  ro:
+    official: Gambia
+    common: Gambia
+  ru:
+    official: Гамбия
+    common: Гамбия
+  si:
+    official: ගැම්බියාව
+    common: ගැම්බියාව
+  sk:
+    official: Gambia
+    common: Gambia
+  sl:
+    official: Gambija
+    common: Gambija
+  so:
+    official: Gambia
+    common: Gambia
+  es:
+    official: Gambia
+    common: Gambia
+  sr:
+    official: Гамбија
+    common: Гамбија
+  sw:
+    official: Gambia
+    common: Gambia
+  sv:
+    official: Gambia
+    common: Gambia
+  ta:
+    official: கம்பியா
+    common: கம்பியா
+  tt:
+    official: Gамбиа
+    common: Gамбиа
+  te:
+    official: గాంబియా
+    common: గాంబియా
+  tl:
+    official: Gambia
+    common: Gambia
+  th:
+    official: แกมเบีย
+    common: แกมเบีย
+  ti:
+    official: ጋምቢያ
+    common: ጋምቢያ
+  tk:
+    official: Gambiýa
+    common: Gambiýa
+  tr:
+    official: Gambiya
+    common: Gambiya
+  ug:
+    official: گامبىيە
+    common: گامبىيە
+  uk:
+    official: Гамбія
+    common: Гамбія
+  ve:
+    official: Gambia
+    common: Gambia
+  vi:
+    official: Găm-bi-a
+    common: Găm-bi-a
+  cy:
+    official: Gambia
+    common: Gambia
+  wa:
+    official: Gambeye
+    common: Gambeye
+  wo:
+    official: Gaambi
+    common: Gaambi
+  xh:
+    official: Jamaica
+    common: Jamaica
+  zu:
+    official: I Jamayikha
+    common: I Jamayikha

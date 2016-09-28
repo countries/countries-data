@@ -1,0 +1,331 @@
+---
+continent: Africa
+alpha2: CG
+alpha3: COG
+country_code: '242'
+international_prefix: '00'
+ioc: CGO
+gec: CF
+name: Congo
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: None
+number: '178'
+region: Africa
+subregion: Middle Africa
+world_region: EMEA
+un_locode: CG
+nationality: Congolese
+postal_code: false
+unofficial_names:
+- Congo
+- Kongo
+- コンゴ共和国
+- Congo [Republiek]
+- Congo, Republic of
+languages_official:
+- fr
+- ln
+languages_spoken:
+- fr
+- ln
+geo:
+  latitude: -0.228021
+  latitude_dec: "-2.879866123199463"
+  longitude: 15.827659
+  longitude_dec: '23.6563777923584'
+  max_latitude: 3.707791
+  max_longitude: 18.6436109
+  min_latitude: -5.0289719
+  min_longitude: 11.1530037
+  bounds:
+    northeast:
+      lat: 3.707791
+      lng: 18.6436109
+    southwest:
+      lat: -5.0289719
+      lng: 11.1530037
+currency_code: XAF
+postal_address_data:
+  id: data/CG
+  key: CG
+  name: CONGO (REP.)
+translations:
+  af:
+    official: Kongo
+    common: Kongo
+  sq:
+    official: Kongo
+    common: Kongo
+  am:
+    official: ኮንጎ
+    common: ኮንጎ
+  ar:
+    official: الكونغو
+    common: الكونغو
+  hy:
+    official: Կոնգո
+    common: Կոնգո
+  as:
+    official: কঙ্গো
+    common: কঙ্গো
+  az:
+    official: Konqo
+    common: Konqo
+  eu:
+    official: Kongo
+    common: Kongo
+  be:
+    official: Конга
+    common: Конга
+  bn:
+    official: কঙ্গো
+    common: কঙ্গো
+  bs:
+    official: Kongo
+    common: Kongo
+  br:
+    official: Congo
+    common: Congo
+  bg:
+    official: Конго
+    common: Конго
+  ca:
+    official: Congo
+    common: Congo
+  zh:
+    official: 刚果
+    common: 刚果
+  cs:
+    official: Kongo
+    common: Kongo
+  da:
+    official: Congo
+    common: Congo
+  nl:
+    official: Congo
+    common: Congo
+  dz:
+    official: ཀོང་གོ།
+    common: ཀོང་གོ།
+  en:
+    official: Congo
+    common: Congo
+  eo:
+    official: Kongo
+    common: Kongo
+  et:
+    official: Kongo Vabariik
+    common: Kongo Vabariik
+  fo:
+    official: Kongo
+    common: Kongo
+  fi:
+    official: Kongo
+    common: Kongo
+  fr:
+    official: Congo
+    common: Congo
+  ka:
+    official: კონგო
+    common: კონგო
+  de:
+    official: Kongo
+    common: Kongo
+  ga:
+    official: An Congó
+    common: An Congó
+  gl:
+    official: Congo
+    common: Congo
+  el:
+    official: Κονγκό
+    common: Κονγκό
+  gu:
+    official: કોન્ગો
+    common: કોન્ગો
+  he:
+    official: קונגו
+    common: קונגו
+  hi:
+    official: कॉंगो
+    common: कॉंगो
+  hr:
+    official: Kongo
+    common: Kongo
+  hu:
+    official: Kongó
+    common: Kongó
+  is:
+    official: Kongó
+    common: Kongó
+  ia:
+    official: Congo
+    common: Congo
+  id:
+    official: Congo
+    common: Congo
+  it:
+    official: Congo
+    common: Congo
+  ja:
+    official: コンゴ
+    common: コンゴ
+  kn:
+    official: ಕಾಂಗೋ
+    common: ಕಾಂಗೋ
+  kk:
+    official: Конго
+    common: Конго
+  km:
+    official: កុងហ្គោ
+    common: កុងហ្គោ
+  rw:
+    official: Kongo
+    common: Kongo
+  ko:
+    official: 콩고
+    common: 콩고
+  ku:
+    official: Kongo
+    common: Kongo
+  lv:
+    official: Kongo
+    common: Kongo
+  lt:
+    official: Kongas
+    common: Kongas
+  mk:
+    official: Конго
+    common: Конго
+  ml:
+    official: കോംഗോ
+    common: കോംഗോ
+  mi:
+    official: Kōngo
+    common: Kōngo
+  mr:
+    official: कॉंगो
+    common: कॉंगो
+  ms:
+    official: Kongo
+    common: Kongo
+  mt:
+    official: Kongo
+    common: Kongo
+  mn:
+    official: Конго
+    common: Конго
+  ne:
+    official: कोङ्गो
+    common: कोङ्गो
+  nn:
+    official: Kongo
+    common: Kongo
+  nb:
+    official: Kongo
+    common: Kongo
+  oc:
+    official: Congò
+    common: Congò
+  or:
+    official: କଙ୍ଗୋ
+    common: କଙ୍ଗୋ
+  pa:
+    official: ਕਾਂਗੋ
+    common: ਕਾਂਗੋ
+  fa:
+    official: کونگو
+    common: کونگو
+  pl:
+    official: Kongo
+    common: Kongo
+  pt:
+    official: Congo
+    common: Congo
+  ps:
+    official: Congo
+    common: Congo
+  ro:
+    official: Congo
+    common: Congo
+  ru:
+    official: Конго
+    common: Конго
+  si:
+    official: කොන්ගෝව
+    common: කොන්ගෝව
+  sk:
+    official: Kongo
+    common: Kongo
+  sl:
+    official: Kongo
+    common: Kongo
+  so:
+    official: Congo
+    common: Congo
+  es:
+    official: Congo
+    common: Congo
+  sr:
+    official: Конго
+    common: Конго
+  sw:
+    official: Congo
+    common: Congo
+  sv:
+    official: Kongo
+    common: Kongo
+  ta:
+    official: காங்கோ
+    common: காங்கோ
+  tt:
+    official: Конgо
+    common: Конgо
+  te:
+    official: కాంగో
+    common: కాంగో
+  tl:
+    official: Congo
+    common: Congo
+  th:
+    official: คองโก
+    common: คองโก
+  ti:
+    official: Congo
+    common: Congo
+  tk:
+    official: Kongo
+    common: Kongo
+  tr:
+    official: Kongo
+    common: Kongo
+  ug:
+    official: كونگو
+    common: كونگو
+  uk:
+    official: Конго
+    common: Конго
+  ve:
+    official: Congo
+    common: Congo
+  vi:
+    official: Công-gô
+    common: Công-gô
+  cy:
+    official: Congo
+    common: Congo
+  wa:
+    official: Congo-Brazza
+    common: Congo-Brazza
+  wo:
+    official: Kongóo
+    common: Kongóo
+  xh:
+    official: Congo
+    common: Congo
+  zu:
+    official: Congo
+    common: Congo

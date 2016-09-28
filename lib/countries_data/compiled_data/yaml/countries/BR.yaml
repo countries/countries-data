@@ -1,0 +1,354 @@
+---
+continent: South America
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}} {{region_short}}
+  {{country}}
+alpha2: BR
+alpha3: BRA
+country_code: '55'
+international_prefix: '0014'
+ioc: BRA
+gec: BR
+name: Brazil
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 10
+- 11
+national_prefix: '014'
+number: '076'
+region: Americas
+subregion: South America
+world_region: AMER
+un_locode: BR
+nationality: Brazilian
+postal_code: true
+unofficial_names:
+- Brazil
+- Brasilien
+- Brésil
+- Brasil
+- ブラジル
+- Brazilië
+languages_official:
+- pt-BR
+languages_spoken:
+- pt-BR
+geo:
+  latitude: -14.235004
+  latitude_dec: "-10.81045150756836"
+  longitude: -51.92528
+  longitude_dec: "-52.97311782836914"
+  max_latitude: 5.2717863
+  max_longitude: -29.3449961
+  min_latitude: -33.7506241
+  min_longitude: -73.98281709999999
+  bounds:
+    northeast:
+      lat: 5.2717863
+      lng: -29.3449961
+    southwest:
+      lat: -33.7506241
+      lng: -73.98281709999999
+currency_code: BRL
+postal_address_data:
+  lang: pt
+  upper: CS
+  sub_zipexs: 69900-000,69999-999~57000-000,57999-999~68900-000,68999-999~69000-000,69299-999:69400-000,69899-999~40000-000,48999-999~60000-000,63999-999~70000-000,72799-999:73000-000,73699-999~29000-000,29999-999~72800-000,72999-999:73700-000,76999-999~65000-000,65999-999~78000-000,78899-999~79000-000,79999-999~30000-000,39999-999~66000-000,68899-999~58000-000,58999-999~80000-000,87999-999~50000-000,56999-999~64000-000,64999-999~20000-000,28999-999~59000-000,59999-999~90000-000,99999-999~76800-000,78900-000,78999-999~69300-000,69399-999~88000-000,89999-999~01000-000,09999-999:11000-000,19999-999~49000-000,49999-999~77000-000,77999-999
+  zipex: 40301-110,70002-900
+  name: BRAZIL
+  zip: "\\d{5}-?\\d{3}"
+  sublocality_name_type: neighborhood
+  sub_mores: true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true
+  require: ASCZ
+  state_name_type: state
+  id: data/BR
+  languages: pt
+  sub_keys: AC~AL~AP~AM~BA~CE~DF~ES~GO~MA~MT~MS~MG~PA~PB~PR~PE~PI~RJ~RN~RS~RO~RR~SC~SP~SE~TO
+  posturl: http://www.buscacep.correios.com.br/
+  key: BR
+  fmt: "%O%n%N%n%A%n%D%n%C-%S%n%Z"
+  sub_names: Acre~Alagoas~Amapá~Amazonas~Bahia~Ceará~Distrito Federal~Espírito Santo~Goiás~Maranhão~Mato
+    Grosso~Mato Grosso do Sul~Minas Gerais~Pará~Paraíba~Paraná~Pernambuco~Piauí~Rio
+    de Janeiro~Rio Grande do Norte~Rio Grande do Sul~Rondônia~Roraima~Santa Catarina~São
+    Paulo~Sergipe~Tocantins
+  sub_zips: 699~57~689~69[0-24-8]~4[0-8]~6[0-3]~7[0-1]|72[0-7]|73[0-6]~29~72[89]|73[7-9]|7[4-6]~65~78[0-8]~79~3~6[6-7]|68[0-8]~58~8[0-7]~5[0-6]~64~2[0-8]~59~9~76[89]|789~693~8[89]~[01][1-9]~49~77
+translations:
+  af:
+    official: Brasilië
+    common: Brasilië
+  sq:
+    official: Brazil
+    common: Brazil
+  am:
+    official: ብሲፑሔ
+    common: ብሲፑሔ
+  ar:
+    official: البرازيل
+    common: البرازيل
+  hy:
+    official: Բրազիլիա
+    common: Բրազիլիա
+  as:
+    official: ব্ৰাজিল
+    common: ব্ৰাজিল
+  az:
+    official: Braziliya
+    common: Braziliya
+  eu:
+    official: Brasil
+    common: Brasil
+  be:
+    official: Бразілія
+    common: Бразілія
+  bn:
+    official: ব্রাজিল
+    common: ব্রাজিল
+  bs:
+    official: Brazil
+    common: Brazil
+  br:
+    official: Brazil
+    common: Brazil
+  bg:
+    official: Бразилия
+    common: Бразилия
+  ca:
+    official: Brasil
+    common: Brasil
+  zh:
+    official: 巴西
+    common: 巴西
+  cs:
+    official: Brazílie
+    common: Brazílie
+  da:
+    official: Brasilien
+    common: Brasilien
+  nl:
+    official: Brazilië
+    common: Brazilië
+  dz:
+    official: བ་ར་ཛིལ།
+    common: བ་ར་ཛིལ།
+  en:
+    official: Brazil
+    common: Brazil
+  eo:
+    official: Brazilo
+    common: Brazilo
+  et:
+    official: Brasiilia
+    common: Brasiilia
+  fo:
+    official: Brasilia
+    common: Brasilia
+  fi:
+    official: Brasilia
+    common: Brasilia
+  fr:
+    official: Brésil
+    common: Brésil
+  ka:
+    official: ბრაზილია
+    common: ბრაზილია
+  de:
+    official: Brasilien
+    common: Brasilien
+  ga:
+    official: An Bhrasaíl
+    common: An Bhrasaíl
+  gl:
+    official: Brasil
+    common: Brasil
+  el:
+    official: Βραζιλία
+    common: Βραζιλία
+  gu:
+    official: બ્રાઝિલ
+    common: બ્રાઝિલ
+  he:
+    official: ברזיל
+    common: ברזיל
+  hi:
+    official: ब्राज़ील
+    common: ब्राज़ील
+  hr:
+    official: Brazil
+    common: Brazil
+  hu:
+    official: Brazília
+    common: Brazília
+  is:
+    official: Brasilía
+    common: Brasilía
+  ia:
+    official: Brasil
+    common: Brasil
+  id:
+    official: Brasil
+    common: Brasil
+  it:
+    official: Brasile
+    common: Brasile
+  ja:
+    official: ブラジル
+    common: ブラジル
+  kn:
+    official: ಬ್ರಾಝಿಲ್
+    common: ಬ್ರಾಝಿಲ್
+  kk:
+    official: Бразилия
+    common: Бразилия
+  km:
+    official: ប្រេស៊ីល
+    common: ប្រេស៊ីល
+  rw:
+    official: Burezile
+    common: Burezile
+  ko:
+    official: 브라질
+    common: 브라질
+  ku:
+    official: Brezîlya
+    common: Brezîlya
+  lv:
+    official: Brazīlija
+    common: Brazīlija
+  lt:
+    official: Brazilija
+    common: Brazilija
+  mk:
+    official: Бразил
+    common: Бразил
+  ml:
+    official: ബ്രസീല്‍
+    common: ബ്രസീല്‍
+  mi:
+    official: Parīhi
+    common: Parīhi
+  mr:
+    official: ब्राझिल
+    common: ब्राझिल
+  ms:
+    official: Brazil
+    common: Brazil
+  mt:
+    official: Brażil
+    common: Brażil
+  mn:
+    official: Бразил
+    common: Бразил
+  ne:
+    official: ब्राजिल
+    common: ब्राजिल
+  nn:
+    official: Brasil
+    common: Brasil
+  nb:
+    official: Brasil
+    common: Brasil
+  oc:
+    official: Brasil
+    common: Brasil
+  or:
+    official: ବ୍ରାଜୀଲ
+    common: ବ୍ରାଜୀଲ
+  pa:
+    official: ਬਰਾਜ਼ੀਲ
+    common: ਬਰਾਜ਼ੀਲ
+  fa:
+    official: برزیل
+    common: برزیل
+  pl:
+    official: Brazylia
+    common: Brazylia
+  pt:
+    official: Brasil
+    common: Brasil
+  ps:
+    official: Brazil
+    common: Brazil
+  ro:
+    official: Brazilia
+    common: Brazilia
+  ru:
+    official: Бразилия
+    common: Бразилия
+  si:
+    official: බ්‍රසිලය
+    common: බ්‍රසිලය
+  sk:
+    official: Brazília
+    common: Brazília
+  sl:
+    official: Brazilija
+    common: Brazilija
+  so:
+    official: Braasiil
+    common: Braasiil
+  es:
+    official: Brasil
+    common: Brasil
+  sr:
+    official: Бразил
+    common: Бразил
+  sw:
+    official: Brazil
+    common: Brazil
+  sv:
+    official: Brasilien
+    common: Brasilien
+  ta:
+    official: பிரேசில்
+    common: பிரேசில்
+  tt:
+    official: Бразил
+    common: Бразил
+  te:
+    official: బ్రెజిల్
+    common: బ్రెజిల్
+  tl:
+    official: Brasil
+    common: Brasil
+  th:
+    official: บราซิล
+    common: บราซิล
+  ti:
+    official: ብራዚል
+    common: ብራዚል
+  tk:
+    official: Braziliýa
+    common: Braziliýa
+  tr:
+    official: Brezilya
+    common: Brezilya
+  ug:
+    official: بىرازىلىيە
+    common: بىرازىلىيە
+  uk:
+    official: Бразилія
+    common: Бразилія
+  ve:
+    official: Brazil
+    common: Brazil
+  vi:
+    official: Bra-xin
+    common: Bra-xin
+  cy:
+    official: Brasil
+    common: Brasil
+  wa:
+    official: Braezi
+    common: Braezi
+  wo:
+    official: Bareesil
+    common: Bareesil
+  xh:
+    official: Brazil
+    common: Brazil
+  zu:
+    official: I Brazili
+    common: I Brazili

@@ -1,0 +1,454 @@
+{
+  "continent": "Europe",
+  "address_format": "{{recipient}}\n{{street}}\n{{city}}\n{{region}}\n{{postalcode}}\n{{country}}",
+  "alpha2": "GB",
+  "alpha3": "GBR",
+  "country_code": "44",
+  "international_prefix": "00",
+  "ioc": "GBR",
+  "gec": "UK",
+  "name": "United Kingdom",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    10,
+    11
+  ],
+  "national_prefix": "0",
+  "number": "826",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "world_region": "EMEA",
+  "un_locode": "GB",
+  "nationality": "British",
+  "eu_member": true,
+  "eea_member": true,
+  "vat_rates": {
+    "standard": 20,
+    "reduced": [
+      5
+    ],
+    "super_reduced": null,
+    "parking": null
+  },
+  "postal_code": true,
+  "unofficial_names": [
+    "United Kingdom",
+    "Vereinigtes Königreich",
+    "Royaume-Uni",
+    "Reino Unido",
+    "イギリス",
+    "Verenigd Koninkrijk",
+    "Great Britain (UK)"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 55.378051,
+    "latitude_dec": "54.56088638305664",
+    "longitude": -3.435973,
+    "longitude_dec": "-2.2125117778778076",
+    "max_latitude": 60.8608663,
+    "max_longitude": 33.9165549,
+    "min_latitude": 34.5626609,
+    "min_longitude": -8.649357199999999,
+    "bounds": {
+      "northeast": {
+        "lat": 60.8608663,
+        "lng": 33.9165549
+      },
+      "southwest": {
+        "lat": 34.5626609,
+        "lng": -8.649357199999999
+      }
+    }
+  },
+  "currency_code": "GBP",
+  "postal_address_data": {
+    "key": "GB",
+    "upper": "CZ",
+    "zipex": "EC1Y 8SY,GIR 0AA,M2 5BQ,M34 4AB,CR0 2YR,DN16 9AA,W1A 4ZZ,EC1A 1HQ,OX14 4PG,BS18 8HF,NR25 7HG,RH6 0NP,BH23 6AA,B6 5BA,SO23 9AP,PO1 3AX,BFPO 61",
+    "name": "UNITED KINGDOM",
+    "zip": "GIR ?0AA|(?:(?:AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(?:\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}))|BFPO ?\\d{1,4}",
+    "require": "ACZ",
+    "id": "data/GB",
+    "posturl": "http://www.royalmail.com/postcode-finder",
+    "locality_name_type": "post_town",
+    "fmt": "%N%n%O%n%A%n%C%n%Z"
+  },
+  "translations": {
+    "af": {
+      "official": "Verenidge Koninkryk",
+      "common": "Verenidge Koninkryk"
+    },
+    "sq": {
+      "official": "Mbretëria e Bashkuar",
+      "common": "Mbretëria e Bashkuar"
+    },
+    "am": {
+      "official": "ጕንጔሑፔ",
+      "common": "ጕንጔሑፔ"
+    },
+    "ar": {
+      "official": "المملكة المتّحدة",
+      "common": "المملكة المتّحدة"
+    },
+    "hy": {
+      "official": "Մեծ Բրիտանիա",
+      "common": "Մեծ Բրիտանիա"
+    },
+    "as": {
+      "official": "যুক্তৰাজ্য",
+      "common": "যুক্তৰাজ্য"
+    },
+    "az": {
+      "official": "United Kingdom",
+      "common": "United Kingdom"
+    },
+    "eu": {
+      "official": "Erresuma Batua",
+      "common": "Erresuma Batua"
+    },
+    "be": {
+      "official": "Злучанае Каралеўства",
+      "common": "Злучанае Каралеўства"
+    },
+    "bn": {
+      "official": "যুক্তরাজ্য",
+      "common": "যুক্তরাজ্য"
+    },
+    "bs": {
+      "official": "Velika Britanija",
+      "common": "Velika Britanija"
+    },
+    "br": {
+      "official": "United Kingdom",
+      "common": "United Kingdom"
+    },
+    "bg": {
+      "official": "Обединено кралство",
+      "common": "Обединено кралство"
+    },
+    "ca": {
+      "official": "Regne Unit",
+      "common": "Regne Unit"
+    },
+    "zh": {
+      "official": "英国",
+      "common": "英国"
+    },
+    "cs": {
+      "official": "Spojené království",
+      "common": "Spojené království"
+    },
+    "da": {
+      "official": "Storbritannien",
+      "common": "Storbritannien"
+    },
+    "nl": {
+      "official": "Verenigd Koninkrijk",
+      "common": "Verenigd Koninkrijk"
+    },
+    "dz": {
+      "official": "ཡུ་ནའི་ཊེཊ་ ཀིང་ཌོམ།",
+      "common": "ཡུ་ནའི་ཊེཊ་ ཀིང་ཌོམ།"
+    },
+    "en": {
+      "official": "United Kingdom",
+      "common": "United Kingdom"
+    },
+    "eo": {
+      "official": "Britio",
+      "common": "Britio"
+    },
+    "et": {
+      "official": "Suurbritannia",
+      "common": "Suurbritannia"
+    },
+    "fo": {
+      "official": "United Kingdom",
+      "common": "United Kingdom"
+    },
+    "fi": {
+      "official": "Yhdistynyt kuningaskunta",
+      "common": "Yhdistynyt kuningaskunta"
+    },
+    "fr": {
+      "official": "Royaume-Uni",
+      "common": "Royaume-Uni"
+    },
+    "ka": {
+      "official": "გაერთიანებული სამეფო",
+      "common": "გაერთიანებული სამეფო"
+    },
+    "de": {
+      "official": "Vereinigtes Königreich",
+      "common": "Vereinigtes Königreich"
+    },
+    "ga": {
+      "official": "An Ríocht Aontaithe",
+      "common": "An Ríocht Aontaithe"
+    },
+    "gl": {
+      "official": "Reino Unido",
+      "common": "Reino Unido"
+    },
+    "el": {
+      "official": "Ηνωμένο Βασίλειο",
+      "common": "Ηνωμένο Βασίλειο"
+    },
+    "gu": {
+      "official": "યુનાઇટેડ કિંગડમ",
+      "common": "યુનાઇટેડ કિંગડમ"
+    },
+    "he": {
+      "official": "הממלכה המאוחדת",
+      "common": "הממלכה המאוחדת"
+    },
+    "hi": {
+      "official": "यूनाइटेड किंगडम",
+      "common": "यूनाइटेड किंगडम"
+    },
+    "hr": {
+      "official": "Ujedinjeno Kraljevstvo",
+      "common": "Ujedinjeno Kraljevstvo"
+    },
+    "hu": {
+      "official": "Nagy-Britannia (Egyesült Királyság)",
+      "common": "Nagy-Britannia (Egyesült Királyság)"
+    },
+    "is": {
+      "official": "Breska samveldið",
+      "common": "Breska samveldið"
+    },
+    "ia": {
+      "official": "Regno Unite",
+      "common": "Regno Unite"
+    },
+    "id": {
+      "official": "Inggris",
+      "common": "Inggris"
+    },
+    "it": {
+      "official": "Regno Unito",
+      "common": "Regno Unito"
+    },
+    "ja": {
+      "official": "英国",
+      "common": "英国"
+    },
+    "kn": {
+      "official": "ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡಮ್",
+      "common": "ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡಮ್"
+    },
+    "kk": {
+      "official": "Ұлыбритания",
+      "common": "Ұлыбритания"
+    },
+    "km": {
+      "official": "ចក្រភព​អង់គ្លេស",
+      "common": "ចក្រភព​អង់គ្លេស"
+    },
+    "rw": {
+      "official": "Ubwongereza (UK)",
+      "common": "Ubwongereza (UK)"
+    },
+    "ko": {
+      "official": "영국",
+      "common": "영국"
+    },
+    "ku": {
+      "official": "Şahitiya Yekbuyî",
+      "common": "Şahitiya Yekbuyî"
+    },
+    "lv": {
+      "official": "Lielbritānija",
+      "common": "Lielbritānija"
+    },
+    "lt": {
+      "official": "Jungtinė Karalystė",
+      "common": "Jungtinė Karalystė"
+    },
+    "mk": {
+      "official": "Велика Британија",
+      "common": "Велика Британија"
+    },
+    "ml": {
+      "official": "യുണൈറ്റഡ് കിങ്ഡം",
+      "common": "യുണൈറ്റഡ് കിങ്ഡം"
+    },
+    "mi": {
+      "official": "Kīngitanga Kotahi",
+      "common": "Kīngitanga Kotahi"
+    },
+    "mr": {
+      "official": "युनायटेड किंगडम",
+      "common": "युनायटेड किंगडम"
+    },
+    "ms": {
+      "official": "United Kingdom",
+      "common": "United Kingdom"
+    },
+    "mt": {
+      "official": "Ingilterra",
+      "common": "Ingilterra"
+    },
+    "mn": {
+      "official": "United Kingdom",
+      "common": "United Kingdom"
+    },
+    "ne": {
+      "official": "संयुक्त अधिराज्य",
+      "common": "संयुक्त अधिराज्य"
+    },
+    "nn": {
+      "official": "Storbritannia",
+      "common": "Storbritannia"
+    },
+    "nb": {
+      "official": "Storbritannia",
+      "common": "Storbritannia"
+    },
+    "oc": {
+      "official": "Reialme Unit",
+      "common": "Reialme Unit"
+    },
+    "or": {
+      "official": "ଯୁକ୍ତ ରାଜ୍ଯ",
+      "common": "ଯୁକ୍ତ ରାଜ୍ଯ"
+    },
+    "pa": {
+      "official": "ਬਰਤਾਨੀਆ",
+      "common": "ਬਰਤਾਨੀਆ"
+    },
+    "fa": {
+      "official": "انگلستان",
+      "common": "انگلستان"
+    },
+    "pl": {
+      "official": "Wielka Brytania",
+      "common": "Wielka Brytania"
+    },
+    "pt": {
+      "official": "Reino Unido",
+      "common": "Reino Unido"
+    },
+    "ps": {
+      "official": "برتانیه",
+      "common": "برتانیه"
+    },
+    "ro": {
+      "official": "Regatul Unit al Marii Britanii",
+      "common": "Regatul Unit al Marii Britanii"
+    },
+    "ru": {
+      "official": "Соединённое Королевство",
+      "common": "Соединённое Королевство"
+    },
+    "si": {
+      "official": "එක්සත් රාජධානිය",
+      "common": "එක්සත් රාජධානිය"
+    },
+    "sk": {
+      "official": "Spojené kráľovstvo",
+      "common": "Spojené kráľovstvo"
+    },
+    "sl": {
+      "official": "Združeno kraljestvo",
+      "common": "Združeno kraljestvo"
+    },
+    "so": {
+      "official": "United Kingdom",
+      "common": "United Kingdom"
+    },
+    "es": {
+      "official": "Reino Unido",
+      "common": "Reino Unido"
+    },
+    "sr": {
+      "official": "Уједињено Краљевство",
+      "common": "Уједињено Краљевство"
+    },
+    "sw": {
+      "official": "United Kingdom",
+      "common": "United Kingdom"
+    },
+    "sv": {
+      "official": "Förenade kungariket",
+      "common": "Förenade kungariket"
+    },
+    "ta": {
+      "official": "ஐக்கிய இராஜ்ஜியம்",
+      "common": "ஐக்கிய இராஜ்ஜியம்"
+    },
+    "tt": {
+      "official": "Берләшкән Падшаһлык",
+      "common": "Берләшкән Падшаһлык"
+    },
+    "te": {
+      "official": "యునైటెడ్ కింగ్‌డమ్",
+      "common": "యునైటెడ్ కింగ్‌డమ్"
+    },
+    "tl": {
+      "official": "Nagkaisang Kaharian",
+      "common": "Nagkaisang Kaharian"
+    },
+    "th": {
+      "official": "สหราชอาณาจักร",
+      "common": "สหราชอาณาจักร"
+    },
+    "ti": {
+      "official": "እንግሊዝ",
+      "common": "እንግሊዝ"
+    },
+    "tk": {
+      "official": "United Kingdom",
+      "common": "United Kingdom"
+    },
+    "tr": {
+      "official": "Birleşik Krallık",
+      "common": "Birleşik Krallık"
+    },
+    "ug": {
+      "official": "ئەنگلىيە",
+      "common": "ئەنگلىيە"
+    },
+    "uk": {
+      "official": "Великобританія",
+      "common": "Великобританія"
+    },
+    "ve": {
+      "official": "United Kingdom",
+      "common": "United Kingdom"
+    },
+    "vi": {
+      "official": "Vương Quốc Anh Thống Nhất",
+      "common": "Vương Quốc Anh Thống Nhất"
+    },
+    "cy": {
+      "official": "Y Deyrnas Unedig",
+      "common": "Y Deyrnas Unedig"
+    },
+    "wa": {
+      "official": "Rweyåme Uni",
+      "common": "Rweyåme Uni"
+    },
+    "wo": {
+      "official": "Ruwaayom bu Bennoo",
+      "common": "Ruwaayom bu Bennoo"
+    },
+    "xh": {
+      "official": "United Kingdom",
+      "common": "United Kingdom"
+    },
+    "zu": {
+      "official": "United Kingdom",
+      "common": "United Kingdom"
+    }
+  }
+}

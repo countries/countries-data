@@ -1,0 +1,439 @@
+{
+  "continent": "Europe",
+  "alpha2": "MD",
+  "alpha3": "MDA",
+  "country_code": "373",
+  "international_prefix": "00",
+  "ioc": "MDA",
+  "gec": "MD",
+  "name": "Moldova, Republic of",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "0",
+  "number": "498",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "world_region": "EMEA",
+  "un_locode": "MD",
+  "nationality": "Moldovan",
+  "postal_code": true,
+  "unofficial_names": [
+    "Moldova",
+    "Moldawien",
+    "Moldavie",
+    "Moldavia",
+    "the Republic of Moldova",
+    "モルドバ共和国",
+    "Moldavië"
+  ],
+  "languages_official": [
+    "ro"
+  ],
+  "languages_spoken": [
+    "ro"
+  ],
+  "geo": {
+    "latitude": 46.9821667,
+    "latitude_dec": "47.203704833984375",
+    "longitude": 28.8365339,
+    "longitude_dec": "28.46834373474121",
+    "max_latitude": 46.9824299,
+    "max_longitude": 28.8369332,
+    "min_latitude": 46.98189199999999,
+    "min_longitude": 28.8362253,
+    "bounds": {
+      "northeast": {
+        "lat": 46.9824299,
+        "lng": 28.8369332
+      },
+      "southwest": {
+        "lat": 46.98189199999999,
+        "lng": 28.8362253
+      }
+    }
+  },
+  "currency_code": "MDL",
+  "postal_address_data": {
+    "postprefix": "MD-",
+    "zipex": "2012,2019",
+    "name": "Rep. MOLDOVA",
+    "zip": "\\d{4}",
+    "fmt": "%N%n%O%n%A%nMD-%Z %C",
+    "key": "MD",
+    "id": "data/MD"
+  },
+  "translations": {
+    "af": {
+      "official": "Moldova, Republic of",
+      "common": "Moldova, Republic of"
+    },
+    "sq": {
+      "official": "Maqedonisë, Republika",
+      "common": "Maqedonisë, Republika"
+    },
+    "am": {
+      "official": "ሥሔ፦ቲ",
+      "common": "ሥሔ፦ቲ"
+    },
+    "ar": {
+      "official": "جمهورية مولدوفا",
+      "common": "جمهورية مولدوفا"
+    },
+    "hy": {
+      "official": "Մոլդովա, Հանրապետություն",
+      "common": "Մոլդովա, Հանրապետություն"
+    },
+    "as": {
+      "official": "মোলডোভা, প্ৰজাতন্ত্ৰ",
+      "common": "মোলডোভা, প্ৰজাতন্ত্ৰ"
+    },
+    "az": {
+      "official": "Koreya, Respublika",
+      "common": "Koreya, Respublika"
+    },
+    "eu": {
+      "official": "Moldavia, Errepublika",
+      "common": "Moldavia, Errepublika"
+    },
+    "be": {
+      "official": "Малдова, Рэспубліка",
+      "common": "Малдова, Рэспубліка"
+    },
+    "bn": {
+      "official": "মোলডোভা, প্রজাতন্ত্র",
+      "common": "মোলডোভা, প্রজাতন্ত্র"
+    },
+    "bs": {
+      "official": "Moldova, Republika",
+      "common": "Moldova, Republika"
+    },
+    "br": {
+      "official": "Republik Volta-Uhel",
+      "common": "Republik Volta-Uhel"
+    },
+    "bg": {
+      "official": "Молдова, Република",
+      "common": "Молдова, Република"
+    },
+    "ca": {
+      "official": "Moldàvia, República de",
+      "common": "Moldàvia, República de"
+    },
+    "zh": {
+      "official": "摩尔多瓦共和国",
+      "common": "摩尔多瓦共和国"
+    },
+    "cs": {
+      "official": "Moldavská republika",
+      "common": "Moldavská republika"
+    },
+    "da": {
+      "official": "Moldova, Republikken",
+      "common": "Moldova, Republikken"
+    },
+    "nl": {
+      "official": "Moldavië, Republiek",
+      "common": "Moldavië, Republiek"
+    },
+    "dz": {
+      "official": "མོལ་ཌོ་བ་ མི་སེར་རྒྱལ་ཁབ་ཀྱི་",
+      "common": "མོལ་ཌོ་བ་ མི་སེར་རྒྱལ་ཁབ་ཀྱི་"
+    },
+    "en": {
+      "official": "Moldova, Republic of",
+      "common": "Moldova, Republic of"
+    },
+    "eo": {
+      "official": "Moldavio, Respubliko",
+      "common": "Moldavio, Respubliko"
+    },
+    "et": {
+      "official": "Moldova Vabariik",
+      "common": "Moldova Vabariik"
+    },
+    "fo": {
+      "official": "Domingo lýðveldið",
+      "common": "Domingo lýðveldið"
+    },
+    "fi": {
+      "official": "Moldovan tasavalta",
+      "common": "Moldovan tasavalta"
+    },
+    "fr": {
+      "official": "Moldova, République de",
+      "common": "Moldova, République de"
+    },
+    "ka": {
+      "official": "მაკედონიის რესპუბლიკა",
+      "common": "მაკედონიის რესპუბლიკა"
+    },
+    "de": {
+      "official": "Moldau, Republik",
+      "common": "Moldau, Republik"
+    },
+    "ga": {
+      "official": "Moldóive, Poblacht na",
+      "common": "Moldóive, Poblacht na"
+    },
+    "gl": {
+      "official": "Moldavia, República de",
+      "common": "Moldavia, República de"
+    },
+    "el": {
+      "official": "Μολδαβίας, Δημοκρατία της",
+      "common": "Μολδαβίας, Δημοκρατία της"
+    },
+    "gu": {
+      "official": "મોલ્ડોવા, રિપબ્લિક ઑફ",
+      "common": "મોલ્ડોવા, રિપબ્લિક ઑફ"
+    },
+    "he": {
+      "official": "מולדובה, הרפובליקה של",
+      "common": "מולדובה, הרפובליקה של"
+    },
+    "hi": {
+      "official": "मोल्डोवा, रिपब्लिक ऑफ",
+      "common": "मोल्डोवा, रिपब्लिक ऑफ"
+    },
+    "hr": {
+      "official": "Republika Moldova",
+      "common": "Republika Moldova"
+    },
+    "hu": {
+      "official": "Moldova",
+      "common": "Moldova"
+    },
+    "is": {
+      "official": "Moldóvíska lýðveldið",
+      "common": "Moldóvíska lýðveldið"
+    },
+    "ia": {
+      "official": "Moldova, Republica de",
+      "common": "Moldova, Republica de"
+    },
+    "id": {
+      "official": "Moldova, Republik",
+      "common": "Moldova, Republik"
+    },
+    "it": {
+      "official": "Moldavia",
+      "common": "Moldavia"
+    },
+    "ja": {
+      "official": "モルドバ共和国",
+      "common": "モルドバ共和国"
+    },
+    "kn": {
+      "official": "ಮ್ಯಾಸೆಡೋನಿಯಾ ಗಣರಾಜ್ಯ",
+      "common": "ಮ್ಯಾಸೆಡೋನಿಯಾ ಗಣರಾಜ್ಯ"
+    },
+    "kk": {
+      "official": "Молдова Республикасы",
+      "common": "Молдова Республикасы"
+    },
+    "km": {
+      "official": "សាធារណ​រដ្ឋ​​ម៉ាសេដូនី",
+      "common": "សាធារណ​រដ្ឋ​​ម៉ាសេដូនី"
+    },
+    "rw": {
+      "official": "Masedoniya, Repubulika ya",
+      "common": "Masedoniya, Repubulika ya"
+    },
+    "ko": {
+      "official": "몰도바 공화국",
+      "common": "몰도바 공화국"
+    },
+    "ku": {
+      "official": "Makedonya, Komara",
+      "common": "Makedonya, Komara"
+    },
+    "lv": {
+      "official": "Moldova",
+      "common": "Moldova"
+    },
+    "lt": {
+      "official": "Moldovos Respublika",
+      "common": "Moldovos Respublika"
+    },
+    "mk": {
+      "official": "Република Молдавија",
+      "common": "Република Молдавија"
+    },
+    "ml": {
+      "official": "മാസിഡോണിയ, റിപ്പബ്ലിക് ഓഫ്",
+      "common": "മാസിഡോണിയ, റിപ്പബ്ലിക് ഓഫ്"
+    },
+    "mi": {
+      "official": "Morotawa",
+      "common": "Morotawa"
+    },
+    "mr": {
+      "official": "मोल्डोवा, रिपब्लिक ऑफ",
+      "common": "मोल्डोवा, रिपब्लिक ऑफ"
+    },
+    "ms": {
+      "official": "Republik Dominican",
+      "common": "Republik Dominican"
+    },
+    "mt": {
+      "official": "Repubblika Dominikana",
+      "common": "Repubblika Dominikana"
+    },
+    "mn": {
+      "official": "Солонгос ард улс",
+      "common": "Солонгос ард улс"
+    },
+    "ne": {
+      "official": "गणराज्य, मोल्डोभा",
+      "common": "गणराज्य, मोल्डोभा"
+    },
+    "nn": {
+      "official": "Republikken Moldova",
+      "common": "Republikken Moldova"
+    },
+    "nb": {
+      "official": "Moldova, Republikken",
+      "common": "Moldova, Republikken"
+    },
+    "oc": {
+      "official": "Republica Dominicana",
+      "common": "Republica Dominicana"
+    },
+    "or": {
+      "official": "ମାଲଡୋଭା, ଗଣତନ୍ତ୍ର",
+      "common": "ମାଲଡୋଭା, ଗଣତନ୍ତ୍ର"
+    },
+    "pa": {
+      "official": "ਮੋਲਡੋਵਾ ਗਣਰਾਜ",
+      "common": "ਮੋਲਡੋਵਾ ਗਣਰਾਜ"
+    },
+    "fa": {
+      "official": "مولداوی، جمهوری",
+      "common": "مولداوی، جمهوری"
+    },
+    "pl": {
+      "official": "Mołdawia - Republika",
+      "common": "Mołdawia - Republika"
+    },
+    "pt": {
+      "official": "Moldávia, República da",
+      "common": "Moldávia, República da"
+    },
+    "ps": {
+      "official": "Moldova, Republic of",
+      "common": "Moldova, Republic of"
+    },
+    "ro": {
+      "official": "Moldova, Republica",
+      "common": "Moldova, Republica"
+    },
+    "ru": {
+      "official": "Республика Молдова",
+      "common": "Республика Молдова"
+    },
+    "si": {
+      "official": "මෝල්ඩ්වා ජනරජය",
+      "common": "මෝල්ඩ්වා ජනරජය"
+    },
+    "sk": {
+      "official": "Moldavská republika",
+      "common": "Moldavská republika"
+    },
+    "sl": {
+      "official": "Moldavija",
+      "common": "Moldavija"
+    },
+    "so": {
+      "official": "Makadooniya",
+      "common": "Makadooniya"
+    },
+    "es": {
+      "official": "Moldavia, República de",
+      "common": "Moldavia, República de"
+    },
+    "sr": {
+      "official": "Молдавија, Република",
+      "common": "Молдавија, Република"
+    },
+    "sw": {
+      "official": "Moldova",
+      "common": "Moldova"
+    },
+    "sv": {
+      "official": "Moldavien, republiken",
+      "common": "Moldavien, republiken"
+    },
+    "ta": {
+      "official": "மெசிடோனியா குடியரசு",
+      "common": "மெசிடோனியா குடியரசு"
+    },
+    "tt": {
+      "official": "Македониа Җөмһүриәте",
+      "common": "Македониа Җөмһүриәте"
+    },
+    "te": {
+      "official": "మాల్డోవా, రిపబ్లిక్ ఆఫ్",
+      "common": "మాల్డోవా, రిపబ్లిక్ ఆఫ్"
+    },
+    "tl": {
+      "official": "Macedonia, Republika ng",
+      "common": "Macedonia, Republika ng"
+    },
+    "th": {
+      "official": "มอลโดวา, สาธารณรัฐ",
+      "common": "มอลโดวา, สาธารณรัฐ"
+    },
+    "ti": {
+      "official": "ዶሚኒክ ሪፑብሊክ",
+      "common": "ዶሚኒክ ሪፑብሊክ"
+    },
+    "tk": {
+      "official": "Moldawiýa, Respublikasy",
+      "common": "Moldawiýa, Respublikasy"
+    },
+    "tr": {
+      "official": "Moldova Cumhuriyeti",
+      "common": "Moldova Cumhuriyeti"
+    },
+    "ug": {
+      "official": "مولدوۋا جۇمھۇرىيىتى",
+      "common": "مولدوۋا جۇمھۇرىيىتى"
+    },
+    "uk": {
+      "official": "Республіка Молдова",
+      "common": "Республіка Молдова"
+    },
+    "ve": {
+      "official": "Czech Republic",
+      "common": "Czech Republic"
+    },
+    "vi": {
+      "official": "Nước Cộng Hoà Mổ-đô-vạ",
+      "common": "Nước Cộng Hoà Mổ-đô-vạ"
+    },
+    "cy": {
+      "official": "Moldofa, Gweriniaeth",
+      "common": "Moldofa, Gweriniaeth"
+    },
+    "wa": {
+      "official": "Moldova",
+      "common": "Moldova"
+    },
+    "wo": {
+      "official": "Masedwaan, Republik bu",
+      "common": "Masedwaan, Republik bu"
+    },
+    "xh": {
+      "official": "Ulawulo lokuziphatha kwe Dominican",
+      "common": "Ulawulo lokuziphatha kwe Dominican"
+    },
+    "zu": {
+      "official": "Ulawulo lokuziphatha kwe Dominikhani",
+      "common": "Ulawulo lokuziphatha kwe Dominikhani"
+    }
+  }
+}

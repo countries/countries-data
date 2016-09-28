@@ -1,0 +1,345 @@
+---
+continent: Europe
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: TR
+alpha3: TUR
+country_code: '90'
+international_prefix: '00'
+ioc: TUR
+gec: TU
+name: Turkey
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 10
+national_prefix: '0'
+number: '792'
+region: Asia
+subregion: Western Asia
+world_region: EMEA
+un_locode: TR
+nationality: Turkish
+postal_code: true
+unofficial_names:
+- Turkey
+- Türkei
+- Turquie
+- Turquía
+- トルコ
+- Turkije
+languages_official:
+- tr
+languages_spoken:
+- tr
+geo:
+  latitude: 38.963745
+  latitude_dec: '39.05101013183594'
+  longitude: 35.243322
+  longitude_dec: '34.93033981323242'
+  max_latitude: 42.106239
+  max_longitude: 44.8178449
+  min_latitude: 35.808592
+  min_longitude: 25.6655486
+  bounds:
+    northeast:
+      lat: 42.106239
+      lng: 44.8178449
+    southwest:
+      lat: 35.808592
+      lng: 25.6655486
+currency_code: TRY
+postal_address_data:
+  lang: tr
+  key: TR
+  zipex: 01960,06101
+  name: TURKEY
+  zip: "\\d{5}"
+  require: ACZ
+  id: data/TR
+  languages: tr
+  sub_isoids: 01~02~03~04~68~05~06~07~75~08~09~10~74~72~69~11~12~13~14~15~16~17~18~19~20~21~81~22~23~24~25~26~27~28~29~30~31~76~32~34~35~46~78~70~36~37~38~71~39~40~79~41~42~43~44~45~47~33~48~49~50~51~52~80~53~54~55~56~57~58~63~73~59~60~61~62~64~65~77~66~67
+  sub_keys: Adana~Adıyaman~Afyon~Ağrı~Aksaray~Amasya~Ankara~Antalya~Ardahan~Artvin~Aydın~Balıkesir~Bartın~Batman~Bayburt~Bilecik~Bingöl~Bitlis~Bolu~Burdur~Bursa~Çanakkale~Çankırı~Çorum~Denizli~Diyarbakır~Düzce~Edirne~Elazığ~Erzincan~Erzurum~Eskişehir~Gaziantep~Giresun~Gümüşhane~Hakkari~Hatay~Iğdır~Isparta~İstanbul~İzmir~Kahramanmaraş~Karabük~Karaman~Kars~Kastamonu~Kayseri~Kırıkkale~Kırklareli~Kırşehir~Kilis~Kocaeli~Konya~Kütahya~Malatya~Manisa~Mardin~Mersin~Muğla~Muş~Nevşehir~Niğde~Ordu~Osmaniye~Rize~Sakarya~Samsun~Siirt~Sinop~Sivas~Şanlıurfa~Şırnak~Tekirdağ~Tokat~Trabzon~Tunceli~Uşak~Van~Yalova~Yozgat~Zonguldak
+  posturl: http://postakodu.ptt.gov.tr/
+  locality_name_type: district
+  fmt: "%N%n%O%n%A%n%Z %C/%S"
+translations:
+  af:
+    official: Turkye
+    common: Turkye
+  sq:
+    official: Turqia
+    common: Turqia
+  am:
+    official: ቱሴጤ
+    common: ቱሴጤ
+  ar:
+    official: تركيّا
+    common: تركيّا
+  hy:
+    official: Թուրքիա
+    common: Թուրքիա
+  as:
+    official: তুৰস্ক
+    common: তুৰস্ক
+  az:
+    official: Türkiyə
+    common: Türkiyə
+  eu:
+    official: Turkia
+    common: Turkia
+  be:
+    official: Турцыя
+    common: Турцыя
+  bn:
+    official: তুর্কি
+    common: তুর্কি
+  bs:
+    official: Turska
+    common: Turska
+  br:
+    official: Turkia
+    common: Turkia
+  bg:
+    official: Турция
+    common: Турция
+  ca:
+    official: Turquia
+    common: Turquia
+  zh:
+    official: 土耳其
+    common: 土耳其
+  cs:
+    official: Turecko
+    common: Turecko
+  da:
+    official: Tyrkiet
+    common: Tyrkiet
+  nl:
+    official: Turkije
+    common: Turkije
+  dz:
+    official: ཊར་ཀི།
+    common: ཊར་ཀི།
+  en:
+    official: Turkey
+    common: Turkey
+  eo:
+    official: Turkio
+    common: Turkio
+  et:
+    official: Türgi
+    common: Türgi
+  fo:
+    official: Turkaland
+    common: Turkaland
+  fi:
+    official: Turkki
+    common: Turkki
+  fr:
+    official: Turquie
+    common: Turquie
+  ka:
+    official: თურქეთი
+    common: თურქეთი
+  de:
+    official: Türkei
+    common: Türkei
+  ga:
+    official: An Tuirc
+    common: An Tuirc
+  gl:
+    official: Turquía
+    common: Turquía
+  el:
+    official: Τουρκία
+    common: Τουρκία
+  gu:
+    official: તુર્કી
+    common: તુર્કી
+  he:
+    official: טורקיה
+    common: טורקיה
+  hi:
+    official: तुर्की
+    common: तुर्की
+  hr:
+    official: Turska
+    common: Turska
+  hu:
+    official: Törökország
+    common: Törökország
+  is:
+    official: Tyrkland
+    common: Tyrkland
+  ia:
+    official: Turchia
+    common: Turchia
+  id:
+    official: Turki
+    common: Turki
+  it:
+    official: Turchia
+    common: Turchia
+  ja:
+    official: トルコ
+    common: トルコ
+  kn:
+    official: ಟರ್ಕಿ
+    common: ಟರ್ಕಿ
+  kk:
+    official: Түркия
+    common: Түркия
+  km:
+    official: ទួរគី
+    common: ទួរគី
+  rw:
+    official: Turukiya
+    common: Turukiya
+  ko:
+    official: 터키
+    common: 터키
+  ku:
+    official: Tirkiye
+    common: Tirkiye
+  lv:
+    official: Turcija
+    common: Turcija
+  lt:
+    official: Turkija
+    common: Turkija
+  mk:
+    official: Турција
+    common: Турција
+  ml:
+    official: തുര്‍ക്കി
+    common: തുര്‍ക്കി
+  mi:
+    official: Tākei
+    common: Tākei
+  mr:
+    official: तुर्की
+    common: तुर्की
+  ms:
+    official: Turki
+    common: Turki
+  mt:
+    official: Turkija
+    common: Turkija
+  mn:
+    official: Турк
+    common: Турк
+  ne:
+    official: टर्की
+    common: टर्की
+  nn:
+    official: Tyrkia
+    common: Tyrkia
+  nb:
+    official: Tyrkia
+    common: Tyrkia
+  oc:
+    official: Turquia
+    common: Turquia
+  or:
+    official: ତୁର୍କୀ
+    common: ତୁର୍କୀ
+  pa:
+    official: ਤੁਰਕੀ
+    common: ਤੁਰਕੀ
+  fa:
+    official: ترکیه
+    common: ترکیه
+  pl:
+    official: Turcja
+    common: Turcja
+  pt:
+    official: Turquia
+    common: Turquia
+  ps:
+    official: Turkey
+    common: Turkey
+  ro:
+    official: Turcia
+    common: Turcia
+  ru:
+    official: Турция
+    common: Турция
+  si:
+    official: තුර්කිය
+    common: තුර්කිය
+  sk:
+    official: Turecko
+    common: Turecko
+  sl:
+    official: Turčija
+    common: Turčija
+  so:
+    official: Turki
+    common: Turki
+  es:
+    official: Turquía
+    common: Turquía
+  sr:
+    official: Турска
+    common: Турска
+  sw:
+    official: Turkey
+    common: Turkey
+  sv:
+    official: Turkiet
+    common: Turkiet
+  ta:
+    official: துருக்கி
+    common: துருக்கி
+  tt:
+    official: Төркиә
+    common: Төркиә
+  te:
+    official: టర్కీ
+    common: టర్కీ
+  tl:
+    official: Turkey
+    common: Turkey
+  th:
+    official: ตุรกี
+    common: ตุรกี
+  ti:
+    official: ቱርክ
+    common: ቱርክ
+  tk:
+    official: Türk
+    common: Türk
+  tr:
+    official: Türkiye
+    common: Türkiye
+  ug:
+    official: تۈركىيە
+    common: تۈركىيە
+  uk:
+    official: Туреччина
+    common: Туреччина
+  ve:
+    official: Turkey
+    common: Turkey
+  vi:
+    official: Thổ Nhĩ Kỳ
+    common: Thổ Nhĩ Kỳ
+  cy:
+    official: Twrci
+    common: Twrci
+  wa:
+    official: Turkeye
+    common: Turkeye
+  wo:
+    official: Turki
+    common: Turki
+  xh:
+    official: Turkey
+    common: Turkey
+  zu:
+    official: I-Turkey
+    common: I-Turkey

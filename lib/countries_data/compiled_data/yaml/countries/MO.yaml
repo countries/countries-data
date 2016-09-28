@@ -1,0 +1,332 @@
+---
+continent: Asia
+alpha2: MO
+alpha3: MAC
+country_code: '853'
+international_prefix: '00'
+ioc: 
+gec: MC
+name: Macao
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: '0'
+number: '446'
+region: Asia
+subregion: Eastern Asia
+world_region: APAC
+un_locode: MO
+nationality: Chinese
+postal_code: false
+unofficial_names:
+- Macao
+- Macau
+- マカオ
+languages_official:
+- zh
+- pt
+languages_spoken:
+- zh
+- pt
+geo:
+  latitude: 22.198745
+  latitude_dec: '22.140748977661133'
+  longitude: 113.543873
+  longitude_dec: '113.56034088134766'
+  max_latitude: 22.2170639
+  max_longitude: 113.5981886
+  min_latitude: 22.1097693
+  min_longitude: 113.5287411
+  bounds:
+    northeast:
+      lat: 22.2170639
+      lng: 113.5981886
+    southwest:
+      lat: 22.1097693
+      lng: 113.5287411
+currency_code: MOP
+postal_address_data:
+  name: MACAO
+  require: A
+  fmt: "%A%n%O%n%N"
+  lfmt: "%N%n%O%n%A"
+  key: MO
+  id: data/MO
+translations:
+  af:
+    official: Macao
+    common: Macao
+  sq:
+    official: Makao
+    common: Makao
+  am:
+    official: ሢጢፅ
+    common: ሢጢፅ
+  ar:
+    official: مكّاو
+    common: مكّاو
+  hy:
+    official: Աոմին
+    common: Աոմին
+  as:
+    official: মেকাও
+    common: মেকাও
+  az:
+    official: Makao
+    common: Makao
+  eu:
+    official: Macau
+    common: Macau
+  be:
+    official: Макаа
+    common: Макаа
+  bn:
+    official: ম্যাকাও
+    common: ম্যাকাও
+  bs:
+    official: Makau
+    common: Makau
+  br:
+    official: Macao
+    common: Macao
+  bg:
+    official: Макао
+    common: Макао
+  ca:
+    official: Macau
+    common: Macau
+  zh:
+    official: 澳门
+    common: 澳门
+  cs:
+    official: Macao
+    common: Macao
+  da:
+    official: Macao
+    common: Macao
+  nl:
+    official: Macau
+    common: Macau
+  dz:
+    official: མ་ཀའོ།
+    common: མ་ཀའོ།
+  en:
+    official: Macao
+    common: Macao
+  eo:
+    official: Makao
+    common: Makao
+  et:
+    official: Aomen
+    common: Aomen
+  fo:
+    official: Macao
+    common: Macao
+  fi:
+    official: Macao
+    common: Macao
+  fr:
+    official: Macau
+    common: Macau
+  ka:
+    official: მაკაო
+    common: მაკაო
+  de:
+    official: Macao
+    common: Macao
+  ga:
+    official: Macao
+    common: Macao
+  gl:
+    official: Macau
+    common: Macau
+  el:
+    official: Μακάο
+    common: Μακάο
+  gu:
+    official: મકાઉ
+    common: મકાઉ
+  he:
+    official: מאקאו
+    common: מאקאו
+  hi:
+    official: मकाउ
+    common: मकाउ
+  hr:
+    official: Makao
+    common: Makao
+  hu:
+    official: Makaó
+    common: Makaó
+  is:
+    official: Makaó
+    common: Makaó
+  ia:
+    official: Macao
+    common: Macao
+  id:
+    official: Macao
+    common: Macao
+  it:
+    official: Macao
+    common: Macao
+  ja:
+    official: マカオ
+    common: マカオ
+  kn:
+    official: ಮಕಾವು
+    common: ಮಕಾವು
+  kk:
+    official: Макао
+    common: Макао
+  km:
+    official: ម៉ាកាវ
+    common: ម៉ាកាវ
+  rw:
+    official: Makawo
+    common: Makawo
+  ko:
+    official: 마카오
+    common: 마카오
+  ku:
+    official: Makao
+    common: Makao
+  lv:
+    official: Makao
+    common: Makao
+  lt:
+    official: Makao
+    common: Makao
+  mk:
+    official: Макао
+    common: Макао
+  ml:
+    official: മകാവോ
+    common: മകാവോ
+  mi:
+    official: Macao
+    common: Macao
+  mr:
+    official: मॅकाव्ह
+    common: मॅकाव्ह
+  ms:
+    official: Macao
+    common: Macao
+  mt:
+    official: Malta
+    common: Malta
+  mn:
+    official: Макао
+    common: Макао
+  ne:
+    official: मकाओ
+    common: मकाओ
+  nn:
+    official: Macao
+    common: Macao
+  nb:
+    official: Macao
+    common: Macao
+  oc:
+    official: Kanu
+    common: Kanu
+  or:
+    official: ମାକାଓ
+    common: ମାକାଓ
+  pa:
+    official: ਮੈਕੋ
+    common: ਮੈਕੋ
+  fa:
+    official: ماکائو
+    common: ماکائو
+  pl:
+    official: Makau
+    common: Makau
+  pt:
+    official: Macau
+    common: Macau
+  ps:
+    official: Macao
+    common: Macao
+  ro:
+    official: Macao
+    common: Macao
+  ru:
+    official: Аомынь
+    common: Аомынь
+  si:
+    official: මැකාවෝ
+    common: මැකාවෝ
+  sk:
+    official: Macao
+    common: Macao
+  sl:
+    official: Makao
+    common: Makao
+  so:
+    official: Macao
+    common: Macao
+  es:
+    official: Macao
+    common: Macao
+  sr:
+    official: Макао
+    common: Макао
+  sw:
+    official: Macao
+    common: Macao
+  sv:
+    official: Macao
+    common: Macao
+  ta:
+    official: மகாவோ
+    common: மகாவோ
+  tt:
+    official: Макао
+    common: Макао
+  te:
+    official: మకో
+    common: మకో
+  tl:
+    official: Makaw
+    common: Makaw
+  th:
+    official: มาเก๊า
+    common: มาเก๊า
+  ti:
+    official: Macao
+    common: Macao
+  tk:
+    official: Makao
+    common: Makao
+  tr:
+    official: Makao
+    common: Makao
+  ug:
+    official: ئاۋمېن
+    common: ئاۋمېن
+  uk:
+    official: Макао
+    common: Макао
+  ve:
+    official: Macau
+    common: Macau
+  vi:
+    official: Ma-cao
+    common: Ma-cao
+  cy:
+    official: Macao
+    common: Macao
+  wa:
+    official: Macao
+    common: Macao
+  wo:
+    official: Makaaw
+    common: Makaaw
+  xh:
+    official: Malta
+    common: Malta
+  zu:
+    official: I-Malta
+    common: I-Malta

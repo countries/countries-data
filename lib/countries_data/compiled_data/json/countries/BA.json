@@ -1,0 +1,444 @@
+{
+  "continent": "Europe",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}}\n{{country}}",
+  "alpha2": "BA",
+  "alpha3": "BIH",
+  "country_code": "387",
+  "international_prefix": "00",
+  "ioc": "BIH",
+  "gec": "BK",
+  "name": "Bosnia and Herzegovina",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "0",
+  "number": "070",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "world_region": "EMEA",
+  "un_locode": "BA",
+  "nationality": "Bosnian, Herzegovinian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Bosnia and Herzegovina",
+    "Bosnien und Herzegowina",
+    "Bosnie et Herzégovine",
+    "Bosnia y Herzegovina",
+    "ボスニア・ヘルツェゴビナ",
+    "Bosnië en Herzegovina",
+    "Bosnia Herzegovina"
+  ],
+  "languages_official": [
+    "bs",
+    "hr",
+    "sr"
+  ],
+  "languages_spoken": [
+    "bs",
+    "hr",
+    "sr"
+  ],
+  "geo": {
+    "latitude": 43.915886,
+    "latitude_dec": "44.16533279418945",
+    "longitude": 17.679076,
+    "longitude_dec": "17.790241241455078",
+    "max_latitude": 45.2766262,
+    "max_longitude": 19.621935,
+    "min_latitude": 42.5564516,
+    "min_longitude": 15.7223666,
+    "bounds": {
+      "northeast": {
+        "lat": 45.2766262,
+        "lng": 19.621935
+      },
+      "southwest": {
+        "lat": 42.5564516,
+        "lng": 15.7223666
+      }
+    }
+  },
+  "currency_code": "BAM",
+  "postal_address_data": {
+    "key": "BA",
+    "zipex": "71000",
+    "name": "BOSNIA AND HERZEGOVINA",
+    "zip": "\\d{5}",
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "posturl": "http://www.post.ba/postanski_brojevi.php",
+    "id": "data/BA"
+  },
+  "translations": {
+    "af": {
+      "official": "Bosnië en Herzegowina",
+      "common": "Bosnië en Herzegowina"
+    },
+    "sq": {
+      "official": "Bosnja dhe Herzegovina",
+      "common": "Bosnja dhe Herzegovina"
+    },
+    "am": {
+      "official": "ቦስኒ። ጕና ሄሴፕጕቱኒ።",
+      "common": "ቦስኒ። ጕና ሄሴፕጕቱኒ።"
+    },
+    "ar": {
+      "official": "البوسنة و الهرسك",
+      "common": "البوسنة و الهرسك"
+    },
+    "hy": {
+      "official": "Բոսնիա-Հերցեգովինա",
+      "common": "Բոսնիա-Հերցեգովինա"
+    },
+    "as": {
+      "official": "বোছনীযা আৰু হাৰজেগোইনা",
+      "common": "বোছনীযা আৰু হাৰজেগোইনা"
+    },
+    "az": {
+      "official": "Bosniya və Herzoqovina",
+      "common": "Bosniya və Herzoqovina"
+    },
+    "eu": {
+      "official": "Bosnia eta Herzegovina",
+      "common": "Bosnia eta Herzegovina"
+    },
+    "be": {
+      "official": "Боснія і Герцагавіна",
+      "common": "Боснія і Герцагавіна"
+    },
+    "bn": {
+      "official": "বসনিয়া ও হার্জগোভিনা",
+      "common": "বসনিয়া ও হার্জগোভিনা"
+    },
+    "bs": {
+      "official": "Bosna i Hercegovina",
+      "common": "Bosna i Hercegovina"
+    },
+    "br": {
+      "official": "Bosnia and Herzegovina",
+      "common": "Bosnia and Herzegovina"
+    },
+    "bg": {
+      "official": "Босна и Херцеговина",
+      "common": "Босна и Херцеговина"
+    },
+    "ca": {
+      "official": "Bòsnia i Hercegovina",
+      "common": "Bòsnia i Hercegovina"
+    },
+    "zh": {
+      "official": "波斯尼亚和黑塞哥维那",
+      "common": "波斯尼亚和黑塞哥维那"
+    },
+    "cs": {
+      "official": "Bosna a Hercegovina",
+      "common": "Bosna a Hercegovina"
+    },
+    "da": {
+      "official": "Bosnien-Herzegovina",
+      "common": "Bosnien-Herzegovina"
+    },
+    "nl": {
+      "official": "Bosnië en Herzegovina",
+      "common": "Bosnië en Herzegovina"
+    },
+    "dz": {
+      "official": "བཱོས་ནི་ཡ་དང་ཧར་ཟི་གཱོ་བཱི་ནཱ།",
+      "common": "བཱོས་ནི་ཡ་དང་ཧར་ཟི་གཱོ་བཱི་ནཱ།"
+    },
+    "en": {
+      "official": "Bosnia and Herzegovina",
+      "common": "Bosnia and Herzegovina"
+    },
+    "eo": {
+      "official": "Bosnio kaj Hercegovino",
+      "common": "Bosnio kaj Hercegovino"
+    },
+    "et": {
+      "official": "Bosnia ja Hertsegoviina",
+      "common": "Bosnia ja Hertsegoviina"
+    },
+    "fo": {
+      "official": "Bosnia-Hersegovina",
+      "common": "Bosnia-Hersegovina"
+    },
+    "fi": {
+      "official": "Bosnia-Hertsegovina",
+      "common": "Bosnia-Hertsegovina"
+    },
+    "fr": {
+      "official": "Bosnie-Herzégovine",
+      "common": "Bosnie-Herzégovine"
+    },
+    "ka": {
+      "official": "ბოსნია და ჰერცეგოვინა",
+      "common": "ბოსნია და ჰერცეგოვინა"
+    },
+    "de": {
+      "official": "Bosnien und Herzegowina",
+      "common": "Bosnien und Herzegowina"
+    },
+    "ga": {
+      "official": "An Bhoisnia-Heirseagaivéin",
+      "common": "An Bhoisnia-Heirseagaivéin"
+    },
+    "gl": {
+      "official": "Bosnia e Hercegovina",
+      "common": "Bosnia e Hercegovina"
+    },
+    "el": {
+      "official": "Βοσνία-Ερζεγοβίνη",
+      "common": "Βοσνία-Ερζεγοβίνη"
+    },
+    "gu": {
+      "official": "બોસ્નિયા અને હર્ઝેગોવીનીઆ",
+      "common": "બોસ્નિયા અને હર્ઝેગોવીનીઆ"
+    },
+    "he": {
+      "official": "בוסניה הרצגובינה",
+      "common": "בוסניה הרצגובינה"
+    },
+    "hi": {
+      "official": "बोस्निया और हर्ज़ेगोविना",
+      "common": "बोस्निया और हर्ज़ेगोविना"
+    },
+    "hr": {
+      "official": "Bosna i Hercegovina",
+      "common": "Bosna i Hercegovina"
+    },
+    "hu": {
+      "official": "Bosznia-Hercegovina",
+      "common": "Bosznia-Hercegovina"
+    },
+    "is": {
+      "official": "Bosnía og Herzegóvína",
+      "common": "Bosnía og Herzegóvína"
+    },
+    "ia": {
+      "official": "Bosnia e Herzegovina",
+      "common": "Bosnia e Herzegovina"
+    },
+    "id": {
+      "official": "Bosnia-Herzegovina",
+      "common": "Bosnia-Herzegovina"
+    },
+    "it": {
+      "official": "Bosnia-Erzegovina",
+      "common": "Bosnia-Erzegovina"
+    },
+    "ja": {
+      "official": "ボスニア・ヘルツェゴビナ",
+      "common": "ボスニア・ヘルツェゴビナ"
+    },
+    "kn": {
+      "official": "ಭೊಸ್ನಿಯಾ ಮತ್ತು ಹೆರ್ಜೆಗೋವಿನಾ",
+      "common": "ಭೊಸ್ನಿಯಾ ಮತ್ತು ಹೆರ್ಜೆಗೋವಿನಾ"
+    },
+    "kk": {
+      "official": "Босния және Герцеговина",
+      "common": "Босния және Герцеговина"
+    },
+    "km": {
+      "official": "បូស្ន៊ី និង ​ហឺហ្ស៊េហ្គោវីណា",
+      "common": "បូស្ន៊ី និង ​ហឺហ្ស៊េហ្គោវីណា"
+    },
+    "rw": {
+      "official": "Bosiniya na Herizegovina",
+      "common": "Bosiniya na Herizegovina"
+    },
+    "ko": {
+      "official": "보스니아 헤르체코비나",
+      "common": "보스니아 헤르체코비나"
+    },
+    "ku": {
+      "official": "Bosna Hersek",
+      "common": "Bosna Hersek"
+    },
+    "lv": {
+      "official": "Bosnija un Hercegovina",
+      "common": "Bosnija un Hercegovina"
+    },
+    "lt": {
+      "official": "Bosnija ir Hercegovina",
+      "common": "Bosnija ir Hercegovina"
+    },
+    "mk": {
+      "official": "Босна и Херцеговина",
+      "common": "Босна и Херцеговина"
+    },
+    "ml": {
+      "official": "ബോസ്നിയയും ഹെര്‍സഗോവിനയും",
+      "common": "ബോസ്നിയയും ഹെര്‍സഗോവിനയും"
+    },
+    "mi": {
+      "official": "Pōngia-Herekōmina",
+      "common": "Pōngia-Herekōmina"
+    },
+    "mr": {
+      "official": "बोस्निया आणी हर्झेगोव्हिना",
+      "common": "बोस्निया आणी हर्झेगोव्हिना"
+    },
+    "ms": {
+      "official": "Bosnia dan Herzegovina",
+      "common": "Bosnia dan Herzegovina"
+    },
+    "mt": {
+      "official": "Bożnija Ħerżegovina",
+      "common": "Bożnija Ħerżegovina"
+    },
+    "mn": {
+      "official": "Босний ба Нерцеговин",
+      "common": "Босний ба Нерцеговин"
+    },
+    "ne": {
+      "official": "बोस्नीया र हर्जगोभिना",
+      "common": "बोस्नीया र हर्जगोभिना"
+    },
+    "nn": {
+      "official": "Bosnia-Hercegovina",
+      "common": "Bosnia-Hercegovina"
+    },
+    "nb": {
+      "official": "Bosnia-Hercegovina",
+      "common": "Bosnia-Hercegovina"
+    },
+    "oc": {
+      "official": "Bòsnia e Ercegovina",
+      "common": "Bòsnia e Ercegovina"
+    },
+    "or": {
+      "official": "ବୋସନିଆ ଏବଂ ହର୍ଜେଗୋଭିନା",
+      "common": "ବୋସନିଆ ଏବଂ ହର୍ଜେଗୋଭିନା"
+    },
+    "pa": {
+      "official": "ਬੋਸਨੀਆ ਤੇ ਹਰਜ਼ੀਗੋਨੀਆ",
+      "common": "ਬੋਸਨੀਆ ਤੇ ਹਰਜ਼ੀਗੋਨੀਆ"
+    },
+    "fa": {
+      "official": "بوسنی و هرزگوین",
+      "common": "بوسنی و هرزگوین"
+    },
+    "pl": {
+      "official": "Bośnia i Hercegowina",
+      "common": "Bośnia i Hercegowina"
+    },
+    "pt": {
+      "official": "Bósnia-Herzegóvina",
+      "common": "Bósnia-Herzegóvina"
+    },
+    "ps": {
+      "official": "Bosnia and Herzegovina",
+      "common": "Bosnia and Herzegovina"
+    },
+    "ro": {
+      "official": "Bosnia și Herțegovina",
+      "common": "Bosnia și Herțegovina"
+    },
+    "ru": {
+      "official": "Босния и Герцеговина",
+      "common": "Босния и Герцеговина"
+    },
+    "si": {
+      "official": "බොස්නියාව හා හර්සගෝවිනියාව",
+      "common": "බොස්නියාව හා හර්සගෝවිනියාව"
+    },
+    "sk": {
+      "official": "Bosna a Hercegovina",
+      "common": "Bosna a Hercegovina"
+    },
+    "sl": {
+      "official": "Bosna in Hercegovina",
+      "common": "Bosna in Hercegovina"
+    },
+    "so": {
+      "official": "Boosniya Heersigoviina",
+      "common": "Boosniya Heersigoviina"
+    },
+    "es": {
+      "official": "Bosnia y Herzegovina",
+      "common": "Bosnia y Herzegovina"
+    },
+    "sr": {
+      "official": "Босна и Херцеговина",
+      "common": "Босна и Херцеговина"
+    },
+    "sw": {
+      "official": "Bosnia na Herzegovina",
+      "common": "Bosnia na Herzegovina"
+    },
+    "sv": {
+      "official": "Bosnien-Hercegovina",
+      "common": "Bosnien-Hercegovina"
+    },
+    "ta": {
+      "official": "போஸ்னியா ஹெர்ஸிகோவினா",
+      "common": "போஸ்னியா ஹெர்ஸிகோவினா"
+    },
+    "tt": {
+      "official": "Босниа белән Һерзеgовина",
+      "common": "Босниа белән Һерзеgовина"
+    },
+    "te": {
+      "official": "బోస్నియా మరియు హర్ఝేగోవ్హినా",
+      "common": "బోస్నియా మరియు హర్ఝేగోవ్హినా"
+    },
+    "tl": {
+      "official": "Bosnia at Herzegovina",
+      "common": "Bosnia at Herzegovina"
+    },
+    "th": {
+      "official": "บอสเนียและเฮอร์เซโกวีนา",
+      "common": "บอสเนียและเฮอร์เซโกวีนา"
+    },
+    "ti": {
+      "official": "ቦስኒያ እና ሄርዞጎቪኒያ",
+      "common": "ቦስኒያ እና ሄርዞጎቪኒያ"
+    },
+    "tk": {
+      "official": "Bosniýa we Gersogowina",
+      "common": "Bosniýa we Gersogowina"
+    },
+    "tr": {
+      "official": "Bosna-Hersek",
+      "common": "Bosna-Hersek"
+    },
+    "ug": {
+      "official": "بوسنىيە گېرتسېگوۋىنا",
+      "common": "بوسنىيە گېرتسېگوۋىنا"
+    },
+    "uk": {
+      "official": "Боснія та Герцеговина",
+      "common": "Боснія та Герцеговина"
+    },
+    "ve": {
+      "official": "Bosnia na Herzegovina",
+      "common": "Bosnia na Herzegovina"
+    },
+    "vi": {
+      "official": "Bô-xni-a và Hẻ-xê-gô-vi-na",
+      "common": "Bô-xni-a và Hẻ-xê-gô-vi-na"
+    },
+    "cy": {
+      "official": "Bosnia a Herzegovina",
+      "common": "Bosnia a Herzegovina"
+    },
+    "wa": {
+      "official": "Bosneye",
+      "common": "Bosneye"
+    },
+    "wo": {
+      "official": "Bosni Hersegowin",
+      "common": "Bosni Hersegowin"
+    },
+    "xh": {
+      "official": "Bosnia and Herzegovina",
+      "common": "Bosnia and Herzegovina"
+    },
+    "zu": {
+      "official": "Bosnia and Herzegovina",
+      "common": "Bosnia and Herzegovina"
+    }
+  }
+}

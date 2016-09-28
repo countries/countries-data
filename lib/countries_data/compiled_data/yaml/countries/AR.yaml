@@ -1,0 +1,353 @@
+---
+continent: South America
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{region}}
+  {{country}}
+alpha2: AR
+alpha3: ARG
+country_code: '54'
+international_prefix: '00'
+ioc: ARG
+gec: AR
+name: Argentina
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+- 9
+national_prefix: '0'
+number: '032'
+region: Americas
+subregion: South America
+world_region: AMER
+un_locode: AR
+nationality: Argentinean
+postal_code: true
+unofficial_names:
+- Argentina
+- Argentinien
+- Argentine
+- アルゼンチン
+- Argentinië
+languages_official:
+- es
+- gn
+languages_spoken:
+- es
+- gn
+geo:
+  latitude: -38.416097
+  latitude_dec: "-37.071964263916016"
+  longitude: -63.61667199999999
+  longitude_dec: "-64.85450744628906"
+  max_latitude: -21.7810459
+  max_longitude: -53.6374811
+  min_latitude: -55.05727899999999
+  min_longitude: -73.56036019999999
+  bounds:
+    northeast:
+      lat: -21.7810459
+      lng: -53.6374811
+    southwest:
+      lat: -55.05727899999999
+      lng: -73.56036019999999
+currency_code: ARS
+postal_address_data:
+  lang: es
+  upper: ACZ
+  zipex: C1070AAM,C1000WAM,B1000TBU,X5187XAB
+  name: ARGENTINA
+  zip: "((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?"
+  key: AR
+  fmt: "%N%n%O%n%A%n%Z %C%n%S"
+  languages: es
+  sub_keys: Buenos Aires~Catamarca~Chaco~Chubut~Ciudad Autónoma de Buenos Aires~Córdoba~Corrientes~Entre
+    Ríos~Formosa~Jujuy~La Pampa~La Rioja~Mendoza~Misiones~Neuquén~Río Negro~Salta~San
+    Juan~San Luis~Santa Cruz~Santa Fe~Santiago del Estero~Tierra del Fuego~Tucumán
+  posturl: http://www.correoargentino.com.ar/formularios/cpa
+  sub_isoids: B~K~H~U~C~X~W~E~P~Y~L~F~M~N~Q~R~A~J~D~Z~S~G~V~T
+  id: data/AR
+  sub_names: Buenos Aires~Catamarca~Chaco~Chubut~Ciudad Autónoma de Buenos Aires~Córdoba~Corrientes~Entre
+    Ríos~Formosa~Jujuy~La Pampa~La Rioja~Mendoza~Misiones~Neuquén~Río Negro~Salta~San
+    Juan~San Luis~Santa Cruz~Santa Fe~Santiago del Estero~Tierra del Fuego~Tucumán
+  sub_zips: B?[1-36-8]~K?[45]~H?3~U?[89]~C?1~X?[235-8]~W?3~E?[1-3]~P?[37]~Y?4~L?[3568]~F?5~M?[56]~N?3~Q?[38]~R?[89]~A?[34]~J?5~D?[4-6]~Z?[89]~S?[2368]~G?[2-5]~V?9~T?[45]
+translations:
+  af:
+    official: Argentinië
+    common: Argentinië
+  sq:
+    official: Argjentina
+    common: Argjentina
+  am:
+    official: ጐሴጀንቲና
+    common: ጐሴጀንቲና
+  ar:
+    official: الأرجنتين
+    common: الأرجنتين
+  hy:
+    official: Արգենտինա
+    common: Արգենտինա
+  as:
+    official: আৰ্জেনটিনা
+    common: আৰ্জেনটিনা
+  az:
+    official: Argentina
+    common: Argentina
+  eu:
+    official: Argentina
+    common: Argentina
+  be:
+    official: Аргенціна
+    common: Аргенціна
+  bn:
+    official: আর্জেনটিনা
+    common: আর্জেনটিনা
+  bs:
+    official: Argentina
+    common: Argentina
+  br:
+    official: Arc'hantina
+    common: Arc'hantina
+  bg:
+    official: Аржентина
+    common: Аржентина
+  ca:
+    official: Argentina
+    common: Argentina
+  zh:
+    official: 阿根廷
+    common: 阿根廷
+  cs:
+    official: Argentina
+    common: Argentina
+  da:
+    official: Argentina
+    common: Argentina
+  nl:
+    official: Argentinië
+    common: Argentinië
+  dz:
+    official: ཨར་ཇེན་ཊི་ན།
+    common: ཨར་ཇེན་ཊི་ན།
+  en:
+    official: Argentina
+    common: Argentina
+  eo:
+    official: Argentino
+    common: Argentino
+  et:
+    official: Argentina
+    common: Argentina
+  fo:
+    official: Argentina
+    common: Argentina
+  fi:
+    official: Argentiina
+    common: Argentiina
+  fr:
+    official: Argentine
+    common: Argentine
+  ka:
+    official: არგენტინა
+    common: არგენტინა
+  de:
+    official: Argentinien
+    common: Argentinien
+  ga:
+    official: An Airgintín
+    common: An Airgintín
+  gl:
+    official: Arxentina
+    common: Arxentina
+  el:
+    official: Αργεντινή
+    common: Αργεντινή
+  gu:
+    official: આર્જેન્ટિના
+    common: આર્જેન્ટિના
+  he:
+    official: ארגנטינה
+    common: ארגנטינה
+  hi:
+    official: अर्जेन्टीना
+    common: अर्जेन्टीना
+  hr:
+    official: Argentina
+    common: Argentina
+  hu:
+    official: Argentína
+    common: Argentína
+  is:
+    official: Argentína
+    common: Argentína
+  ia:
+    official: Argentina
+    common: Argentina
+  id:
+    official: Argentina
+    common: Argentina
+  it:
+    official: Argentina
+    common: Argentina
+  ja:
+    official: アルゼンチン
+    common: アルゼンチン
+  kn:
+    official: ಅರ್ಜೆಂಟೈನಾ
+    common: ಅರ್ಜೆಂಟೈನಾ
+  kk:
+    official: Аргентина
+    common: Аргентина
+  km:
+    official: អាហ្សង់ទីន
+    common: អាហ្សង់ទីន
+  rw:
+    official: Arijantina
+    common: Arijantina
+  ko:
+    official: 아르헨티나
+    common: 아르헨티나
+  ku:
+    official: Arjantîn
+    common: Arjantîn
+  lv:
+    official: Argentīna
+    common: Argentīna
+  lt:
+    official: Argentina
+    common: Argentina
+  mk:
+    official: Аргентина
+    common: Аргентина
+  ml:
+    official: അര്‍ജന്റീന
+    common: അര്‍ജന്റീന
+  mi:
+    official: Āketina
+    common: Āketina
+  mr:
+    official: अर्जेंर्टिना
+    common: अर्जेंर्टिना
+  ms:
+    official: Argentina
+    common: Argentina
+  mt:
+    official: Arġentina
+    common: Arġentina
+  mn:
+    official: Аргентин
+    common: Аргентин
+  ne:
+    official: अरजेनटिना
+    common: अरजेनटिना
+  nn:
+    official: Argentina
+    common: Argentina
+  nb:
+    official: Argentina
+    common: Argentina
+  oc:
+    official: Argentina
+    common: Argentina
+  or:
+    official: ଅାର୍ଜେଣ୍ଟୀନା
+    common: ଅାର୍ଜେଣ୍ଟୀନା
+  pa:
+    official: ਅਰਜਨਟੀਨਾ
+    common: ਅਰਜਨਟੀਨਾ
+  fa:
+    official: آرژانتین
+    common: آرژانتین
+  pl:
+    official: Argentyna
+    common: Argentyna
+  pt:
+    official: Argentina
+    common: Argentina
+  ps:
+    official: Argentina
+    common: Argentina
+  ro:
+    official: Argentina
+    common: Argentina
+  ru:
+    official: Аргентина
+    common: Аргентина
+  si:
+    official: ආජන්ටිනාව
+    common: ආජන්ටිනාව
+  sk:
+    official: Argentína
+    common: Argentína
+  sl:
+    official: Argentina
+    common: Argentina
+  so:
+    official: Argentina
+    common: Argentina
+  es:
+    official: Argentina
+    common: Argentina
+  sr:
+    official: Аргентина
+    common: Аргентина
+  sw:
+    official: Argentina
+    common: Argentina
+  sv:
+    official: Argentina
+    common: Argentina
+  ta:
+    official: அர்ஜென்டினா
+    common: அர்ஜென்டினா
+  tt:
+    official: Арgентина
+    common: Арgентина
+  te:
+    official: అర్జేంర్టినా
+    common: అర్జేంర్టినా
+  tl:
+    official: Arhentina
+    common: Arhentina
+  th:
+    official: อาร์เจนตินา
+    common: อาร์เจนตินา
+  ti:
+    official: አርጀንቲና
+    common: አርጀንቲና
+  tk:
+    official: Argentina
+    common: Argentina
+  tr:
+    official: Arjantin
+    common: Arjantin
+  ug:
+    official: ئارگېنتىنا
+    common: ئارگېنتىنا
+  uk:
+    official: Аргентина
+    common: Аргентина
+  ve:
+    official: Argentina
+    common: Argentina
+  vi:
+    official: Á-căn-đình
+    common: Á-căn-đình
+  cy:
+    official: Yr Ariannin
+    common: Yr Ariannin
+  wa:
+    official: Årdjintene
+    common: Årdjintene
+  wo:
+    official: Argentiin
+    common: Argentiin
+  xh:
+    official: Argentina
+    common: Argentina
+  zu:
+    official: I-Argentina
+    common: I-Argentina

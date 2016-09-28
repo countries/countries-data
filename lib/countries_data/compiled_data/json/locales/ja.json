@@ -1,0 +1,1000 @@
+{
+  "names": {
+    "AF": {
+      "official": "アフガニスタン",
+      "common": "アフガニスタン"
+    },
+    "AX": {
+      "official": "オーランド諸島",
+      "common": "オーランド諸島"
+    },
+    "AL": {
+      "official": "アルバニア",
+      "common": "アルバニア"
+    },
+    "DZ": {
+      "official": "アルジェリア",
+      "common": "アルジェリア"
+    },
+    "AS": {
+      "official": "米領サモア",
+      "common": "米領サモア"
+    },
+    "AD": {
+      "official": "アンドラ",
+      "common": "アンドラ"
+    },
+    "AO": {
+      "official": "アンゴラ",
+      "common": "アンゴラ"
+    },
+    "AI": {
+      "official": "アングイラ",
+      "common": "アングイラ"
+    },
+    "AQ": {
+      "official": "南極大陸",
+      "common": "南極大陸"
+    },
+    "AG": {
+      "official": "アンティグア・バーブーダ",
+      "common": "アンティグア・バーブーダ"
+    },
+    "AR": {
+      "official": "アルゼンチン",
+      "common": "アルゼンチン"
+    },
+    "AM": {
+      "official": "アルメニア",
+      "common": "アルメニア"
+    },
+    "AW": {
+      "official": "アルーバ",
+      "common": "アルーバ"
+    },
+    "AU": {
+      "official": "オーストラリア連邦",
+      "common": "オーストラリア連邦"
+    },
+    "AT": {
+      "official": "オーストリア",
+      "common": "オーストリア"
+    },
+    "AZ": {
+      "official": "アゼルバイジャン",
+      "common": "アゼルバイジャン"
+    },
+    "BS": {
+      "official": "バハマ",
+      "common": "バハマ"
+    },
+    "BH": {
+      "official": "バーレーン",
+      "common": "バーレーン"
+    },
+    "BD": {
+      "official": "バングラデシュ",
+      "common": "バングラデシュ"
+    },
+    "BB": {
+      "official": "バルバドス",
+      "common": "バルバドス"
+    },
+    "BY": {
+      "official": "ベラルーシ",
+      "common": "ベラルーシ"
+    },
+    "BE": {
+      "official": "ベルギー",
+      "common": "ベルギー"
+    },
+    "BZ": {
+      "official": "ベリーズ",
+      "common": "ベリーズ"
+    },
+    "BJ": {
+      "official": "ベナン",
+      "common": "ベナン"
+    },
+    "BM": {
+      "official": "バーミューダ",
+      "common": "バーミューダ"
+    },
+    "BT": {
+      "official": "ブータン",
+      "common": "ブータン"
+    },
+    "BO": {
+      "official": "ボリビア多民族国",
+      "common": "ボリビア多民族国"
+    },
+    "BQ": {
+      "official": "ボネール、シントユースタティウス及びサバ",
+      "common": "ボネール、シントユースタティウス及びサバ"
+    },
+    "BA": {
+      "official": "ボスニア・ヘルツェゴビナ",
+      "common": "ボスニア・ヘルツェゴビナ"
+    },
+    "BW": {
+      "official": "ボツワナ",
+      "common": "ボツワナ"
+    },
+    "BV": {
+      "official": "ブーベ島",
+      "common": "ブーベ島"
+    },
+    "BR": {
+      "official": "ブラジル",
+      "common": "ブラジル"
+    },
+    "IO": {
+      "official": "英国インド洋領土",
+      "common": "英国インド洋領土"
+    },
+    "BN": {
+      "official": "ブルネイ・ダルサラーム国",
+      "common": "ブルネイ・ダルサラーム国"
+    },
+    "BG": {
+      "official": "ブルガリア",
+      "common": "ブルガリア"
+    },
+    "BF": {
+      "official": "ブルキナファソ",
+      "common": "ブルキナファソ"
+    },
+    "BI": {
+      "official": "ブルンジ",
+      "common": "ブルンジ"
+    },
+    "KH": {
+      "official": "カンボジア",
+      "common": "カンボジア"
+    },
+    "CM": {
+      "official": "カメルーン",
+      "common": "カメルーン"
+    },
+    "CA": {
+      "official": "カナダ",
+      "common": "カナダ"
+    },
+    "CV": {
+      "official": "カーボヴェルデ",
+      "common": "カーボヴェルデ"
+    },
+    "KY": {
+      "official": "ケイマン諸島",
+      "common": "ケイマン諸島"
+    },
+    "CF": {
+      "official": "中央アフリカ共和国",
+      "common": "中央アフリカ共和国"
+    },
+    "TD": {
+      "official": "チャド",
+      "common": "チャド"
+    },
+    "CL": {
+      "official": "チリ",
+      "common": "チリ"
+    },
+    "CN": {
+      "official": "中国",
+      "common": "中国"
+    },
+    "CX": {
+      "official": "クリスマス島",
+      "common": "クリスマス島"
+    },
+    "CC": {
+      "official": "ココス (キーリング) 諸島",
+      "common": "ココス (キーリング) 諸島"
+    },
+    "CO": {
+      "official": "コロンビア",
+      "common": "コロンビア"
+    },
+    "KM": {
+      "official": "コモロ",
+      "common": "コモロ"
+    },
+    "CG": {
+      "official": "コンゴ",
+      "common": "コンゴ"
+    },
+    "CD": {
+      "official": "コンゴ民主共和国",
+      "common": "コンゴ民主共和国"
+    },
+    "CK": {
+      "official": "クック諸島",
+      "common": "クック諸島"
+    },
+    "CR": {
+      "official": "コスタリカ",
+      "common": "コスタリカ"
+    },
+    "CI": {
+      "official": "コートジボワール",
+      "common": "コートジボワール"
+    },
+    "HR": {
+      "official": "クロアチア",
+      "common": "クロアチア"
+    },
+    "CU": {
+      "official": "キューバ",
+      "common": "キューバ"
+    },
+    "CW": {
+      "official": "キュラソー",
+      "common": "キュラソー"
+    },
+    "CY": {
+      "official": "キプロス",
+      "common": "キプロス"
+    },
+    "CZ": {
+      "official": "チェコ共和国",
+      "common": "チェコ共和国"
+    },
+    "DK": {
+      "official": "デンマーク",
+      "common": "デンマーク"
+    },
+    "DJ": {
+      "official": "ジブチ",
+      "common": "ジブチ"
+    },
+    "DM": {
+      "official": "ドミニカ",
+      "common": "ドミニカ"
+    },
+    "DO": {
+      "official": "ドミニカ共和国",
+      "common": "ドミニカ共和国"
+    },
+    "EC": {
+      "official": "エクアドル",
+      "common": "エクアドル"
+    },
+    "EG": {
+      "official": "エジプト",
+      "common": "エジプト"
+    },
+    "SV": {
+      "official": "エルサルバドル",
+      "common": "エルサルバドル"
+    },
+    "GQ": {
+      "official": "赤道ギニア",
+      "common": "赤道ギニア"
+    },
+    "ER": {
+      "official": "エリトリア国",
+      "common": "エリトリア国"
+    },
+    "EE": {
+      "official": "エストニア",
+      "common": "エストニア"
+    },
+    "ET": {
+      "official": "エチオピア",
+      "common": "エチオピア"
+    },
+    "FK": {
+      "official": "フォークランド諸島 (マルビナス)",
+      "common": "フォークランド諸島 (マルビナス)"
+    },
+    "FO": {
+      "official": "フェロー諸島",
+      "common": "フェロー諸島"
+    },
+    "FJ": {
+      "official": "フィジー",
+      "common": "フィジー"
+    },
+    "FI": {
+      "official": "フィンランド",
+      "common": "フィンランド"
+    },
+    "FR": {
+      "official": "フランス",
+      "common": "フランス"
+    },
+    "GF": {
+      "official": "仏領ギアナ",
+      "common": "仏領ギアナ"
+    },
+    "PF": {
+      "official": "仏領ポリネシア",
+      "common": "仏領ポリネシア"
+    },
+    "TF": {
+      "official": "フランス南方領土",
+      "common": "フランス南方領土"
+    },
+    "GA": {
+      "official": "ガボン",
+      "common": "ガボン"
+    },
+    "GM": {
+      "official": "ガンビア",
+      "common": "ガンビア"
+    },
+    "GE": {
+      "official": "グルジア",
+      "common": "グルジア"
+    },
+    "DE": {
+      "official": "ドイツ",
+      "common": "ドイツ"
+    },
+    "GH": {
+      "official": "ガーナ",
+      "common": "ガーナ"
+    },
+    "GI": {
+      "official": "ジブラルタル",
+      "common": "ジブラルタル"
+    },
+    "GR": {
+      "official": "ギリシャ",
+      "common": "ギリシャ"
+    },
+    "GL": {
+      "official": "グリーンランド",
+      "common": "グリーンランド"
+    },
+    "GD": {
+      "official": "グレナダ",
+      "common": "グレナダ"
+    },
+    "GP": {
+      "official": "グアドループ",
+      "common": "グアドループ"
+    },
+    "GU": {
+      "official": "グアム",
+      "common": "グアム"
+    },
+    "GT": {
+      "official": "グアテマラ",
+      "common": "グアテマラ"
+    },
+    "GG": {
+      "official": "ガーンジー",
+      "common": "ガーンジー"
+    },
+    "GN": {
+      "official": "ギニア",
+      "common": "ギニア"
+    },
+    "GW": {
+      "official": "ギニアビサウ",
+      "common": "ギニアビサウ"
+    },
+    "GY": {
+      "official": "ガイアナ",
+      "common": "ガイアナ"
+    },
+    "HT": {
+      "official": "ハイチ",
+      "common": "ハイチ"
+    },
+    "HM": {
+      "official": "ハード島及びマクドナルド諸島",
+      "common": "ハード島及びマクドナルド諸島"
+    },
+    "VA": {
+      "official": "聖庁 (バチカン市国)",
+      "common": "聖庁 (バチカン市国)"
+    },
+    "HN": {
+      "official": "ホンジュラス",
+      "common": "ホンジュラス"
+    },
+    "HK": {
+      "official": "香港",
+      "common": "香港"
+    },
+    "HU": {
+      "official": "ハンガリー",
+      "common": "ハンガリー"
+    },
+    "IS": {
+      "official": "アイスランド",
+      "common": "アイスランド"
+    },
+    "IN": {
+      "official": "インド",
+      "common": "インド"
+    },
+    "ID": {
+      "official": "インドネシア",
+      "common": "インドネシア"
+    },
+    "IR": {
+      "official": "イラン・イスラム共和国",
+      "common": "イラン・イスラム共和国"
+    },
+    "IQ": {
+      "official": "イラク",
+      "common": "イラク"
+    },
+    "IE": {
+      "official": "アイルランド",
+      "common": "アイルランド"
+    },
+    "IM": {
+      "official": "マン島",
+      "common": "マン島"
+    },
+    "IL": {
+      "official": "イスラエル",
+      "common": "イスラエル"
+    },
+    "IT": {
+      "official": "イタリア",
+      "common": "イタリア"
+    },
+    "JM": {
+      "official": "ジャマイカ",
+      "common": "ジャマイカ"
+    },
+    "JP": {
+      "official": "日本",
+      "common": "日本"
+    },
+    "JE": {
+      "official": "ジャージー",
+      "common": "ジャージー"
+    },
+    "JO": {
+      "official": "ヨルダン",
+      "common": "ヨルダン"
+    },
+    "KZ": {
+      "official": "カザフスタン",
+      "common": "カザフスタン"
+    },
+    "KE": {
+      "official": "ケニア",
+      "common": "ケニア"
+    },
+    "KI": {
+      "official": "キリバス",
+      "common": "キリバス"
+    },
+    "KP": {
+      "official": "朝鮮民主主義人民共和国",
+      "common": "朝鮮民主主義人民共和国"
+    },
+    "KR": {
+      "official": "大韓民国 (韓国)",
+      "common": "大韓民国 (韓国)"
+    },
+    "KW": {
+      "official": "クウェート",
+      "common": "クウェート"
+    },
+    "KG": {
+      "official": "キルギスタン",
+      "common": "キルギスタン"
+    },
+    "LA": {
+      "official": "ラオス人民民主共和国",
+      "common": "ラオス人民民主共和国"
+    },
+    "LV": {
+      "official": "ラトビア",
+      "common": "ラトビア"
+    },
+    "LB": {
+      "official": "レバノン",
+      "common": "レバノン"
+    },
+    "LS": {
+      "official": "レソト",
+      "common": "レソト"
+    },
+    "LR": {
+      "official": "リベリア",
+      "common": "リベリア"
+    },
+    "LY": {
+      "official": "リビア",
+      "common": "リビア"
+    },
+    "LI": {
+      "official": "リヒテンシュタイン",
+      "common": "リヒテンシュタイン"
+    },
+    "LT": {
+      "official": "リトアニア",
+      "common": "リトアニア"
+    },
+    "LU": {
+      "official": "ルクセンブルク",
+      "common": "ルクセンブルク"
+    },
+    "MO": {
+      "official": "マカオ",
+      "common": "マカオ"
+    },
+    "MK": {
+      "official": "マケドニア共和国",
+      "common": "マケドニア共和国"
+    },
+    "MG": {
+      "official": "マダガスカル",
+      "common": "マダガスカル"
+    },
+    "MW": {
+      "official": "マラウイ",
+      "common": "マラウイ"
+    },
+    "MY": {
+      "official": "マレーシア",
+      "common": "マレーシア"
+    },
+    "MV": {
+      "official": "モルディブ",
+      "common": "モルディブ"
+    },
+    "ML": {
+      "official": "マリ",
+      "common": "マリ"
+    },
+    "MT": {
+      "official": "マルタ",
+      "common": "マルタ"
+    },
+    "MH": {
+      "official": "マーシャル諸島",
+      "common": "マーシャル諸島"
+    },
+    "MQ": {
+      "official": "マルティニーク",
+      "common": "マルティニーク"
+    },
+    "MR": {
+      "official": "モーリタニア",
+      "common": "モーリタニア"
+    },
+    "MU": {
+      "official": "モーリシャス",
+      "common": "モーリシャス"
+    },
+    "YT": {
+      "official": "マヨット",
+      "common": "マヨット"
+    },
+    "MX": {
+      "official": "メキシコ",
+      "common": "メキシコ"
+    },
+    "FM": {
+      "official": "ミクロネシア連邦",
+      "common": "ミクロネシア連邦"
+    },
+    "MD": {
+      "official": "モルドバ共和国",
+      "common": "モルドバ共和国"
+    },
+    "MC": {
+      "official": "モナコ",
+      "common": "モナコ"
+    },
+    "MN": {
+      "official": "モンゴル国",
+      "common": "モンゴル国"
+    },
+    "ME": {
+      "official": "モンテネグロ",
+      "common": "モンテネグロ"
+    },
+    "MS": {
+      "official": "モントセラト",
+      "common": "モントセラト"
+    },
+    "MA": {
+      "official": "モロッコ",
+      "common": "モロッコ"
+    },
+    "MZ": {
+      "official": "モザンビーク",
+      "common": "モザンビーク"
+    },
+    "MM": {
+      "official": "ミャンマー",
+      "common": "ミャンマー"
+    },
+    "NA": {
+      "official": "ナミビア",
+      "common": "ナミビア"
+    },
+    "NR": {
+      "official": "ナウル",
+      "common": "ナウル"
+    },
+    "NP": {
+      "official": "ネパール",
+      "common": "ネパール"
+    },
+    "NL": {
+      "official": "オランダ",
+      "common": "オランダ"
+    },
+    "NC": {
+      "official": "ニューカレドニア",
+      "common": "ニューカレドニア"
+    },
+    "NZ": {
+      "official": "ニュージーランド",
+      "common": "ニュージーランド"
+    },
+    "NI": {
+      "official": "ニカラグア",
+      "common": "ニカラグア"
+    },
+    "NE": {
+      "official": "ニジェール",
+      "common": "ニジェール"
+    },
+    "NG": {
+      "official": "ナイジェリア",
+      "common": "ナイジェリア"
+    },
+    "NU": {
+      "official": "ニウエ",
+      "common": "ニウエ"
+    },
+    "NF": {
+      "official": "ノーフォーク島",
+      "common": "ノーフォーク島"
+    },
+    "MP": {
+      "official": "北マリアナ諸島",
+      "common": "北マリアナ諸島"
+    },
+    "NO": {
+      "official": "ノルウェー",
+      "common": "ノルウェー"
+    },
+    "OM": {
+      "official": "オマーン",
+      "common": "オマーン"
+    },
+    "PK": {
+      "official": "パキスタン",
+      "common": "パキスタン"
+    },
+    "PW": {
+      "official": "パラオ",
+      "common": "パラオ"
+    },
+    "PS": {
+      "official": "パレスチナ",
+      "common": "パレスチナ"
+    },
+    "PA": {
+      "official": "パナマ",
+      "common": "パナマ"
+    },
+    "PG": {
+      "official": "パプアニューギニア",
+      "common": "パプアニューギニア"
+    },
+    "PY": {
+      "official": "パラグアイ",
+      "common": "パラグアイ"
+    },
+    "PE": {
+      "official": "ペルー",
+      "common": "ペルー"
+    },
+    "PH": {
+      "official": "フィリピン",
+      "common": "フィリピン"
+    },
+    "PN": {
+      "official": "ピトケアン",
+      "common": "ピトケアン"
+    },
+    "PL": {
+      "official": "ポーランド",
+      "common": "ポーランド"
+    },
+    "PT": {
+      "official": "ポルトガル",
+      "common": "ポルトガル"
+    },
+    "PR": {
+      "official": "プエルトリコ",
+      "common": "プエルトリコ"
+    },
+    "QA": {
+      "official": "カタール",
+      "common": "カタール"
+    },
+    "RE": {
+      "official": "レユニオン",
+      "common": "レユニオン"
+    },
+    "RO": {
+      "official": "ルーマニア",
+      "common": "ルーマニア"
+    },
+    "RU": {
+      "official": "ロシア連邦",
+      "common": "ロシア連邦"
+    },
+    "RW": {
+      "official": "ルワンダ",
+      "common": "ルワンダ"
+    },
+    "BL": {
+      "official": "サンバルテルミ",
+      "common": "サンバルテルミ"
+    },
+    "SH": {
+      "official": "セントヘレナ、アセンション及びトリスタン・ダ・クーニャ",
+      "common": "セントヘレナ、アセンション及びトリスタン・ダ・クーニャ"
+    },
+    "KN": {
+      "official": "セントクリストファー・ネーヴィス",
+      "common": "セントクリストファー・ネーヴィス"
+    },
+    "LC": {
+      "official": "セントルシア",
+      "common": "セントルシア"
+    },
+    "MF": {
+      "official": "サンマルタン (仏領)",
+      "common": "サンマルタン (仏領)"
+    },
+    "PM": {
+      "official": "サンピエール及びミクロン",
+      "common": "サンピエール及びミクロン"
+    },
+    "VC": {
+      "official": "セントビンセント及びグレナディーン諸島",
+      "common": "セントビンセント及びグレナディーン諸島"
+    },
+    "WS": {
+      "official": "サモア",
+      "common": "サモア"
+    },
+    "SM": {
+      "official": "サンマリノ",
+      "common": "サンマリノ"
+    },
+    "ST": {
+      "official": "サントメ・プリンシペ",
+      "common": "サントメ・プリンシペ"
+    },
+    "SA": {
+      "official": "サウジアラビア",
+      "common": "サウジアラビア"
+    },
+    "SN": {
+      "official": "セネガル",
+      "common": "セネガル"
+    },
+    "RS": {
+      "official": "セルビア",
+      "common": "セルビア"
+    },
+    "SC": {
+      "official": "セーシェル",
+      "common": "セーシェル"
+    },
+    "SL": {
+      "official": "シエラレオネ",
+      "common": "シエラレオネ"
+    },
+    "SG": {
+      "official": "シンガポール",
+      "common": "シンガポール"
+    },
+    "SX": {
+      "official": "サンマルタン (オランダ領)",
+      "common": "サンマルタン (オランダ領)"
+    },
+    "SK": {
+      "official": "スロバキア",
+      "common": "スロバキア"
+    },
+    "SI": {
+      "official": "スロベニア",
+      "common": "スロベニア"
+    },
+    "SB": {
+      "official": "ソロモン諸島",
+      "common": "ソロモン諸島"
+    },
+    "SO": {
+      "official": "ソマリア",
+      "common": "ソマリア"
+    },
+    "ZA": {
+      "official": "南アフリカ",
+      "common": "南アフリカ"
+    },
+    "GS": {
+      "official": "サウスジョージア及びサウスサンドウィッチ諸島",
+      "common": "サウスジョージア及びサウスサンドウィッチ諸島"
+    },
+    "ES": {
+      "official": "スペイン",
+      "common": "スペイン"
+    },
+    "LK": {
+      "official": "スリランカ",
+      "common": "スリランカ"
+    },
+    "SD": {
+      "official": "スーダン",
+      "common": "スーダン"
+    },
+    "SR": {
+      "official": "スリナム",
+      "common": "スリナム"
+    },
+    "SS": {
+      "official": "南スーダン",
+      "common": "南スーダン"
+    },
+    "SJ": {
+      "official": "スヴァールバル及びヤンマイエン",
+      "common": "スヴァールバル及びヤンマイエン"
+    },
+    "SZ": {
+      "official": "スワジランド",
+      "common": "スワジランド"
+    },
+    "SE": {
+      "official": "スウェーデン",
+      "common": "スウェーデン"
+    },
+    "CH": {
+      "official": "スイス",
+      "common": "スイス"
+    },
+    "SY": {
+      "official": "シリア・アラブ共和国",
+      "common": "シリア・アラブ共和国"
+    },
+    "TW": {
+      "official": "台湾",
+      "common": "台湾"
+    },
+    "TJ": {
+      "official": "タジキスタン",
+      "common": "タジキスタン"
+    },
+    "TZ": {
+      "official": "タニザニア連合共和国",
+      "common": "タニザニア連合共和国"
+    },
+    "TH": {
+      "official": "タイ",
+      "common": "タイ"
+    },
+    "TL": {
+      "official": "東ティモール",
+      "common": "東ティモール"
+    },
+    "TG": {
+      "official": "トーゴ",
+      "common": "トーゴ"
+    },
+    "TK": {
+      "official": "トケラウ",
+      "common": "トケラウ"
+    },
+    "TO": {
+      "official": "トンガ",
+      "common": "トンガ"
+    },
+    "TT": {
+      "official": "トリニダード・トバゴ",
+      "common": "トリニダード・トバゴ"
+    },
+    "TN": {
+      "official": "チュニジア",
+      "common": "チュニジア"
+    },
+    "TR": {
+      "official": "トルコ",
+      "common": "トルコ"
+    },
+    "TM": {
+      "official": "トルクメニスタン",
+      "common": "トルクメニスタン"
+    },
+    "TC": {
+      "official": "タークス及びカイコス諸島",
+      "common": "タークス及びカイコス諸島"
+    },
+    "TV": {
+      "official": "ツバル",
+      "common": "ツバル"
+    },
+    "UG": {
+      "official": "ウガンダ",
+      "common": "ウガンダ"
+    },
+    "UA": {
+      "official": "ウクライナ",
+      "common": "ウクライナ"
+    },
+    "AE": {
+      "official": "アラブ首長国連邦",
+      "common": "アラブ首長国連邦"
+    },
+    "GB": {
+      "official": "英国",
+      "common": "英国"
+    },
+    "US": {
+      "official": "米国",
+      "common": "米国"
+    },
+    "UM": {
+      "official": "アメリカ合衆国外諸島",
+      "common": "アメリカ合衆国外諸島"
+    },
+    "UY": {
+      "official": "ウルグアイ",
+      "common": "ウルグアイ"
+    },
+    "UZ": {
+      "official": "ウズベキスタン",
+      "common": "ウズベキスタン"
+    },
+    "VU": {
+      "official": "バヌアツ",
+      "common": "バヌアツ"
+    },
+    "VE": {
+      "official": "ベネズエラ・ボリバル共和国",
+      "common": "ベネズエラ・ボリバル共和国"
+    },
+    "VN": {
+      "official": "ベトナム",
+      "common": "ベトナム"
+    },
+    "VG": {
+      "official": "英領ヴァージン諸島",
+      "common": "英領ヴァージン諸島"
+    },
+    "VI": {
+      "official": "米領ヴァージン諸島",
+      "common": "米領ヴァージン諸島"
+    },
+    "WF": {
+      "official": "ワリー及びフテュナ",
+      "common": "ワリー及びフテュナ"
+    },
+    "EH": {
+      "official": "西サハラ",
+      "common": "西サハラ"
+    },
+    "YE": {
+      "official": "イエメン",
+      "common": "イエメン"
+    },
+    "ZM": {
+      "official": "ザンビア",
+      "common": "ザンビア"
+    },
+    "ZW": {
+      "official": "ジンバブエ",
+      "common": "ジンバブエ"
+    }
+  }
+}

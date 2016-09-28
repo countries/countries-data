@@ -1,0 +1,432 @@
+{
+  "continent": "Australia",
+  "alpha2": "TK",
+  "alpha3": "TKL",
+  "country_code": "690",
+  "international_prefix": "00",
+  "ioc": null,
+  "gec": "TL",
+  "name": "Tokelau",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    4
+  ],
+  "national_prefix": "None",
+  "number": "772",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "world_region": "APAC",
+  "un_locode": "TK",
+  "nationality": "Tokelauan",
+  "postal_code": false,
+  "unofficial_names": [
+    "Tokelau",
+    "Îles Tokelau",
+    "Islas Tokelau",
+    "トケラウ"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": -9.200199999999999,
+    "latitude_dec": "-8.979207992553711",
+    "longitude": -171.8484,
+    "longitude_dec": "-172.2017059326172",
+    "max_latitude": -8.531453899999999,
+    "max_longitude": -171.1811113,
+    "min_latitude": -9.4448708,
+    "min_longitude": -172.5207405,
+    "bounds": {
+      "northeast": {
+        "lat": -8.531453899999999,
+        "lng": -171.1811113
+      },
+      "southwest": {
+        "lat": -9.4448708,
+        "lng": -172.5207405
+      }
+    }
+  },
+  "currency_code": "NZD",
+  "postal_address_data": {
+    "id": "data/TK",
+    "key": "TK",
+    "name": "TOKELAU"
+  },
+  "translations": {
+    "af": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "sq": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "am": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "ar": {
+      "official": "توكيلاو",
+      "common": "توكيلاو"
+    },
+    "hy": {
+      "official": "Տոկելաու",
+      "common": "Տոկելաու"
+    },
+    "as": {
+      "official": "টকেলাউ",
+      "common": "টকেলাউ"
+    },
+    "az": {
+      "official": "Tokelo",
+      "common": "Tokelo"
+    },
+    "eu": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "be": {
+      "official": "Такелау",
+      "common": "Такелау"
+    },
+    "bn": {
+      "official": "টোকেলাউ",
+      "common": "টোকেলাউ"
+    },
+    "bs": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "br": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "bg": {
+      "official": "Токелау",
+      "common": "Токелау"
+    },
+    "ca": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "zh": {
+      "official": "托克劳群岛",
+      "common": "托克劳群岛"
+    },
+    "cs": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "da": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "nl": {
+      "official": "Tokelau-eilanden",
+      "common": "Tokelau-eilanden"
+    },
+    "dz": {
+      "official": "ཊོ་ཀི་ལའོ།",
+      "common": "ཊོ་ཀི་ལའོ།"
+    },
+    "en": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "eo": {
+      "official": "Tokelao",
+      "common": "Tokelao"
+    },
+    "et": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "fo": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "fi": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "fr": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "ka": {
+      "official": "ტოკელაუ",
+      "common": "ტოკელაუ"
+    },
+    "de": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "ga": {
+      "official": "Tócalá",
+      "common": "Tócalá"
+    },
+    "gl": {
+      "official": "Toquelau",
+      "common": "Toquelau"
+    },
+    "el": {
+      "official": "Τοκελάου",
+      "common": "Τοκελάου"
+    },
+    "gu": {
+      "official": "ટોકેલાઉ",
+      "common": "ટોકેલાઉ"
+    },
+    "he": {
+      "official": "טוקלאו",
+      "common": "טוקלאו"
+    },
+    "hi": {
+      "official": "टोकेलाऊ",
+      "common": "टोकेलाऊ"
+    },
+    "hr": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "hu": {
+      "official": "Tokelau-szigetek",
+      "common": "Tokelau-szigetek"
+    },
+    "is": {
+      "official": "Tókelá",
+      "common": "Tókelá"
+    },
+    "ia": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "id": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "it": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "ja": {
+      "official": "トケラウ",
+      "common": "トケラウ"
+    },
+    "kn": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "kk": {
+      "official": "Токелау",
+      "common": "Токелау"
+    },
+    "km": {
+      "official": "តូកេឡាអ៊ូ",
+      "common": "តូកេឡាអ៊ូ"
+    },
+    "rw": {
+      "official": "Tokelawu",
+      "common": "Tokelawu"
+    },
+    "ko": {
+      "official": "토켈로",
+      "common": "토켈로"
+    },
+    "ku": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "lv": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "lt": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "mk": {
+      "official": "Токелау",
+      "common": "Токелау"
+    },
+    "ml": {
+      "official": "ടെകേലു",
+      "common": "ടെകേലു"
+    },
+    "mi": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "mr": {
+      "official": "टोकेलाव",
+      "common": "टोकेलाव"
+    },
+    "ms": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "mt": {
+      "official": "Tokelaw",
+      "common": "Tokelaw"
+    },
+    "mn": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "ne": {
+      "official": "टोकेलाउ",
+      "common": "टोकेलाउ"
+    },
+    "nn": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "nb": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "oc": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "or": {
+      "official": "ଟୋକେଲୋ",
+      "common": "ଟୋକେଲୋ"
+    },
+    "pa": {
+      "official": "ਟੂਕੀਲਾਊ",
+      "common": "ਟੂਕੀਲਾਊ"
+    },
+    "fa": {
+      "official": "توکلائو",
+      "common": "توکلائو"
+    },
+    "pl": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "pt": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "ps": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "ro": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "ru": {
+      "official": "Токелау",
+      "common": "Токелау"
+    },
+    "si": {
+      "official": "ටොකෙලාවෝ",
+      "common": "ටොකෙලාවෝ"
+    },
+    "sk": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "sl": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "so": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "es": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "sr": {
+      "official": "Токелау",
+      "common": "Токелау"
+    },
+    "sw": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "sv": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "ta": {
+      "official": "டோகெலௌ",
+      "common": "டோகெலௌ"
+    },
+    "tt": {
+      "official": "Токелауча",
+      "common": "Токелауча"
+    },
+    "te": {
+      "official": "टोकेलाव",
+      "common": "टोकेलाव"
+    },
+    "tl": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "th": {
+      "official": "โตเกเลา",
+      "common": "โตเกเลา"
+    },
+    "ti": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "tk": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "tr": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "ug": {
+      "official": "توكېلاۋ",
+      "common": "توكېلاۋ"
+    },
+    "uk": {
+      "official": "Токелау",
+      "common": "Токелау"
+    },
+    "ve": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "vi": {
+      "official": "To-ke-lau",
+      "common": "To-ke-lau"
+    },
+    "cy": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "wa": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "wo": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "xh": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "zu": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    }
+  }
+}

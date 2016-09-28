@@ -1,0 +1,432 @@
+{
+  "continent": "North America",
+  "alpha2": "BQ",
+  "alpha3": "BES",
+  "country_code": "599",
+  "international_prefix": "00",
+  "name": "Bonaire, Sint Eustatius and Saba",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7
+  ],
+  "national_prefix": "0",
+  "number": "535",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "APAC",
+  "un_locode": "BQ",
+  "nationality": "Dutch",
+  "postal_code": true,
+  "unofficial_names": [
+    "Bonaire, Sint Eustatius and Saba",
+    "Caribbean Netherlands",
+    "Caribisch Nederland",
+    "ボネール、シント・ユースタティウスおよびサバ"
+  ],
+  "languages_official": [
+    "nl",
+    "en"
+  ],
+  "languages_spoken": [
+    "nl",
+    "en"
+  ],
+  "geo": {
+    "latitude": 12.1783611,
+    "latitude_dec": "12.178361",
+    "longitude": -68.2385339,
+    "longitude_dec": "-68.238534",
+    "max_latitude": 17.6502945,
+    "max_longitude": -62.9457768,
+    "min_latitude": 12.0245042,
+    "min_longitude": -68.4209633,
+    "bounds": {
+      "northeast": {
+        "lat": 17.6502945,
+        "lng": -62.9457768
+      },
+      "southwest": {
+        "lat": 12.0245042,
+        "lng": -68.4209633
+      }
+    }
+  },
+  "currency_code": "USD",
+  "postal_address_data": {
+    "id": "data/BQ",
+    "key": "BQ",
+    "name": "BONAIRE, SINT EUSTATIUS, AND SABA"
+  },
+  "translations": {
+    "af": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "sq": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "am": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "ar": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "hy": {
+      "official": "Բոնեյրե, Սինտ Էվստատիուս և Սաբա",
+      "common": "Բոնեյրե, Սինտ Էվստատիուս և Սաբա"
+    },
+    "as": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "az": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "eu": {
+      "official": "Bonaire, Sint Eustatius eta Saba",
+      "common": "Bonaire, Sint Eustatius eta Saba"
+    },
+    "be": {
+      "official": "Банэйр, Сінт-Эстатыус і Саба",
+      "common": "Банэйр, Сінт-Эстатыус і Саба"
+    },
+    "bn": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "bs": {
+      "official": "Bonaire, Sint Eustatius i Saba",
+      "common": "Bonaire, Sint Eustatius i Saba"
+    },
+    "br": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "bg": {
+      "official": "О-ви Бонер, Св. Евстатий и Саба",
+      "common": "О-ви Бонер, Св. Евстатий и Саба"
+    },
+    "ca": {
+      "official": "Bonaire, Sint Eustatius i Saba",
+      "common": "Bonaire, Sint Eustatius i Saba"
+    },
+    "zh": {
+      "official": "博奈尔、圣尤斯特歇斯岛和萨巴",
+      "common": "博奈尔、圣尤斯特歇斯岛和萨巴"
+    },
+    "cs": {
+      "official": "Bonaire, Svatý Eustach a Saba",
+      "common": "Bonaire, Svatý Eustach a Saba"
+    },
+    "da": {
+      "official": "Bonaire, Sint Eustatius og Saba",
+      "common": "Bonaire, Sint Eustatius og Saba"
+    },
+    "nl": {
+      "official": "Bonaire, Sint Eustatius en Saba",
+      "common": "Bonaire, Sint Eustatius en Saba"
+    },
+    "dz": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "en": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "eo": {
+      "official": "Bonero, Sankta-Eŭstakio kaj Sabo",
+      "common": "Bonero, Sankta-Eŭstakio kaj Sabo"
+    },
+    "et": {
+      "official": "Bonaire, Sint Eustatius ja Saba",
+      "common": "Bonaire, Sint Eustatius ja Saba"
+    },
+    "fo": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "fi": {
+      "official": "Bonaire, Sint Eustatius ja Saba",
+      "common": "Bonaire, Sint Eustatius ja Saba"
+    },
+    "fr": {
+      "official": "Bonaire, Saint-Eustache et Saba",
+      "common": "Bonaire, Saint-Eustache et Saba"
+    },
+    "ka": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "de": {
+      "official": "Bonaire, Sint Eustatius und Saba",
+      "common": "Bonaire, Sint Eustatius und Saba"
+    },
+    "ga": {
+      "official": "Bonaire, San Eustatius agus Saba",
+      "common": "Bonaire, San Eustatius agus Saba"
+    },
+    "gl": {
+      "official": "Bonaire, San Eustaquio e Saba",
+      "common": "Bonaire, San Eustaquio e Saba"
+    },
+    "el": {
+      "official": "Μποναίρ, Άγιος Ευστράτιος και Σάμπα",
+      "common": "Μποναίρ, Άγιος Ευστράτιος και Σάμπα"
+    },
+    "gu": {
+      "official": "બોનાએર, સિન્ટ ઈસ્ટાટિસુસ એન્ડ સાબા",
+      "common": "બોનાએર, સિન્ટ ઈસ્ટાટિસુસ એન્ડ સાબા"
+    },
+    "he": {
+      "official": "בונייר, סנט אוסטתיוס וסאבא",
+      "common": "בונייר, סנט אוסטתיוס וסאבא"
+    },
+    "hi": {
+      "official": "बोनैर, सिंट यूस्टेटीयस एंड साबा",
+      "common": "बोनैर, सिंट यूस्टेटीयस एंड साबा"
+    },
+    "hr": {
+      "official": "Bonaire, Sveti Eustahije i Saba",
+      "common": "Bonaire, Sveti Eustahije i Saba"
+    },
+    "hu": {
+      "official": "Bonaire, Saint Eustatius és Saba",
+      "common": "Bonaire, Saint Eustatius és Saba"
+    },
+    "is": {
+      "official": "Bonaire, Sankti Eustatius og Saba",
+      "common": "Bonaire, Sankti Eustatius og Saba"
+    },
+    "ia": {
+      "official": "Bonaire, Sint Eustatius e Saba",
+      "common": "Bonaire, Sint Eustatius e Saba"
+    },
+    "id": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "it": {
+      "official": "Bonaire, Saint Eustatius e Saba",
+      "common": "Bonaire, Saint Eustatius e Saba"
+    },
+    "ja": {
+      "official": "ボネール、シントユースタティウス及びサバ",
+      "common": "ボネール、シントユースタティウス及びサバ"
+    },
+    "kn": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "kk": {
+      "official": "Бонайре, Синт-Эстатиус және Саба",
+      "common": "Бонайре, Синт-Эстатиус және Саба"
+    },
+    "km": {
+      "official": "បូស្នី ស៊ីន អ៊ីស្តាំធូស និង​សាបា",
+      "common": "បូស្នី ស៊ីន អ៊ីស្តាំធូស និង​សាបា"
+    },
+    "rw": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "ko": {
+      "official": "보네르, 신트외스타티위스, 사바 섬",
+      "common": "보네르, 신트외스타티위스, 사바 섬"
+    },
+    "ku": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "lv": {
+      "official": "Bonaire, Sintēstatiusa un Saba",
+      "common": "Bonaire, Sintēstatiusa un Saba"
+    },
+    "lt": {
+      "official": "Bonairė, Sint Eustatijus ir Saba",
+      "common": "Bonairė, Sint Eustatijus ir Saba"
+    },
+    "mk": {
+      "official": "Бониаре, Св. Еустатиус и Саба",
+      "common": "Бониаре, Св. Еустатиус и Саба"
+    },
+    "ml": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "mi": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "mr": {
+      "official": "बोनेअस, सिंट युस्टेशिअस आणि साबा",
+      "common": "बोनेअस, सिंट युस्टेशिअस आणि साबा"
+    },
+    "ms": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "mt": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "mn": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "ne": {
+      "official": "बोनाइर, सेन्ट ईयुस्टासस् र साबा",
+      "common": "बोनाइर, सेन्ट ईयुस्टासस् र साबा"
+    },
+    "nn": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "nb": {
+      "official": "Bonaire, Sint Eustatius og Saba",
+      "common": "Bonaire, Sint Eustatius og Saba"
+    },
+    "oc": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "or": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "pa": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "fa": {
+      "official": "بنیر، سنت یوستتیوس",
+      "common": "بنیر، سنت یوستتیوس"
+    },
+    "pl": {
+      "official": "Bonaire, Sint Eustatius i Saba",
+      "common": "Bonaire, Sint Eustatius i Saba"
+    },
+    "pt": {
+      "official": "Bonaire, Santo Eustáquio e Saba",
+      "common": "Bonaire, Santo Eustáquio e Saba"
+    },
+    "ps": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "ro": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "ru": {
+      "official": "Бонайре, Синт-Эстатиус и Саба",
+      "common": "Бонайре, Синт-Эстатиус и Саба"
+    },
+    "si": {
+      "official": "බොනාරේ. සිනෙට් එස්ටාටියස් හා සාබා",
+      "common": "බොනාරේ. සිනෙට් එස්ටාටියස් හා සාබා"
+    },
+    "sk": {
+      "official": "Bonaire, Sint Eustatius a Saba",
+      "common": "Bonaire, Sint Eustatius a Saba"
+    },
+    "sl": {
+      "official": "Bonaire, Sint Eustatius in Saba",
+      "common": "Bonaire, Sint Eustatius in Saba"
+    },
+    "so": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "es": {
+      "official": "Islas BES (Caribe Neerlandés)",
+      "common": "Islas BES (Caribe Neerlandés)"
+    },
+    "sr": {
+      "official": "Бонер, Свети Еустахије и Саба",
+      "common": "Бонер, Свети Еустахије и Саба"
+    },
+    "sw": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "sv": {
+      "official": "Bonaire, Sint Eustatius och Saba",
+      "common": "Bonaire, Sint Eustatius och Saba"
+    },
+    "ta": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "tt": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "te": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "tl": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "th": {
+      "official": "บอแนร์, เซนต์ยูสเตเชียส และ เซบา",
+      "common": "บอแนร์, เซนต์ยูสเตเชียส และ เซบา"
+    },
+    "ti": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "tk": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "tr": {
+      "official": "Bonaire, Sint Eustatius ve Saba",
+      "common": "Bonaire, Sint Eustatius ve Saba"
+    },
+    "ug": {
+      "official": "بونەر، ساينىت يۇستىفەس ۋە سابا",
+      "common": "بونەر، ساينىت يۇستىفەس ۋە سابا"
+    },
+    "uk": {
+      "official": "Бонайре, Сінт-Естатіус і Саба",
+      "common": "Бонайре, Сінт-Естатіус і Саба"
+    },
+    "ve": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "vi": {
+      "official": "Bông-Ne, Xin E-u-xờ-ta-ti-tút và Xa-ba",
+      "common": "Bông-Ne, Xin E-u-xờ-ta-ti-tút và Xa-ba"
+    },
+    "cy": {
+      "official": "Bonaire, Sint Eustatius a Saba",
+      "common": "Bonaire, Sint Eustatius a Saba"
+    },
+    "wa": {
+      "official": "Bonaire, Sint Eustatius & Saba",
+      "common": "Bonaire, Sint Eustatius & Saba"
+    },
+    "wo": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "xh": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "zu": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    }
+  }
+}

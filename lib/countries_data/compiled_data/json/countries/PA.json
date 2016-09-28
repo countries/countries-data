@@ -1,0 +1,434 @@
+{
+  "continent": "North America",
+  "alpha2": "PA",
+  "alpha3": "PAN",
+  "alt_currency": "USD",
+  "country_code": "507",
+  "international_prefix": "00",
+  "ioc": "PAN",
+  "gec": "PM",
+  "name": "Panama",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7
+  ],
+  "national_prefix": "None",
+  "number": "591",
+  "region": "Americas",
+  "subregion": "Central America",
+  "world_region": "AMER",
+  "un_locode": "PA",
+  "nationality": "Panamanian",
+  "postal_code": false,
+  "unofficial_names": [
+    "Panama",
+    "Panamá",
+    "パナマ"
+  ],
+  "languages_official": [
+    "es"
+  ],
+  "languages_spoken": [
+    "es"
+  ],
+  "geo": {
+    "latitude": 8.537981,
+    "latitude_dec": "8.646247863769531",
+    "longitude": -80.782127,
+    "longitude_dec": "-80.50607299804688",
+    "max_latitude": 9.6477793,
+    "max_longitude": -77.1584881,
+    "min_latitude": 7.2035565,
+    "min_longitude": -83.05224109999999,
+    "bounds": {
+      "northeast": {
+        "lat": 9.6477793,
+        "lng": -77.1584881
+      },
+      "southwest": {
+        "lat": 7.2035565,
+        "lng": -83.05224109999999
+      }
+    }
+  },
+  "currency_code": "PAB",
+  "postal_address_data": {
+    "upper": "CS",
+    "fmt": "%N%n%O%n%A%n%C%n%S",
+    "id": "data/PA",
+    "key": "PA",
+    "name": "PANAMA (REP.)"
+  },
+  "translations": {
+    "af": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "sq": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "am": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "ar": {
+      "official": "بنما",
+      "common": "بنما"
+    },
+    "hy": {
+      "official": "Պանամա",
+      "common": "Պանամա"
+    },
+    "as": {
+      "official": "পানামা",
+      "common": "পানামা"
+    },
+    "az": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "eu": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "be": {
+      "official": "Панама",
+      "common": "Панама"
+    },
+    "bn": {
+      "official": "পানামা",
+      "common": "পানামা"
+    },
+    "bs": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "br": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "bg": {
+      "official": "Панама",
+      "common": "Панама"
+    },
+    "ca": {
+      "official": "Panamà",
+      "common": "Panamà"
+    },
+    "zh": {
+      "official": "巴拿马",
+      "common": "巴拿马"
+    },
+    "cs": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "da": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "nl": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "dz": {
+      "official": "པ་ན་མ།",
+      "common": "པ་ན་མ།"
+    },
+    "en": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "eo": {
+      "official": "Panamo",
+      "common": "Panamo"
+    },
+    "et": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "fo": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "fi": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "fr": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "ka": {
+      "official": "პანამა",
+      "common": "პანამა"
+    },
+    "de": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "ga": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "gl": {
+      "official": "Panamá",
+      "common": "Panamá"
+    },
+    "el": {
+      "official": "Παναμάς",
+      "common": "Παναμάς"
+    },
+    "gu": {
+      "official": "પનામા",
+      "common": "પનામા"
+    },
+    "he": {
+      "official": "פנמה",
+      "common": "פנמה"
+    },
+    "hi": {
+      "official": "पनामा",
+      "common": "पनामा"
+    },
+    "hr": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "hu": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "is": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "ia": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "id": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "it": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "ja": {
+      "official": "パナマ",
+      "common": "パナマ"
+    },
+    "kn": {
+      "official": "ಪನಾಮಾ",
+      "common": "ಪನಾಮಾ"
+    },
+    "kk": {
+      "official": "Панама",
+      "common": "Панама"
+    },
+    "km": {
+      "official": "ប៉ាណាម៉ា",
+      "common": "ប៉ាណាម៉ា"
+    },
+    "rw": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "ko": {
+      "official": "파나마",
+      "common": "파나마"
+    },
+    "ku": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "lv": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "lt": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "mk": {
+      "official": "Панама",
+      "common": "Панама"
+    },
+    "ml": {
+      "official": "പനാമ",
+      "common": "പനാമ"
+    },
+    "mi": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "mr": {
+      "official": "पनामा",
+      "common": "पनामा"
+    },
+    "ms": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "mt": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "mn": {
+      "official": "Панама",
+      "common": "Панама"
+    },
+    "ne": {
+      "official": "पानामा",
+      "common": "पानामा"
+    },
+    "nn": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "nb": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "oc": {
+      "official": "Panamà",
+      "common": "Panamà"
+    },
+    "or": {
+      "official": "ପାନାମା",
+      "common": "ପାନାମା"
+    },
+    "pa": {
+      "official": "ਪੈਨਾਮਾ",
+      "common": "ਪੈਨਾਮਾ"
+    },
+    "fa": {
+      "official": "پاناما",
+      "common": "پاناما"
+    },
+    "pl": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "pt": {
+      "official": "Panamá",
+      "common": "Panamá"
+    },
+    "ps": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "ro": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "ru": {
+      "official": "Панама",
+      "common": "Панама"
+    },
+    "si": {
+      "official": "පැනමාව",
+      "common": "පැනමාව"
+    },
+    "sk": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "sl": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "so": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "es": {
+      "official": "Panamá",
+      "common": "Panamá"
+    },
+    "sr": {
+      "official": "Панама",
+      "common": "Панама"
+    },
+    "sw": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "sv": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "ta": {
+      "official": "பனாமா",
+      "common": "பனாமா"
+    },
+    "tt": {
+      "official": "Панама",
+      "common": "Панама"
+    },
+    "te": {
+      "official": "పనామా",
+      "common": "పనామా"
+    },
+    "tl": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "th": {
+      "official": "ปานามา",
+      "common": "ปานามา"
+    },
+    "ti": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "tk": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "tr": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "ug": {
+      "official": "پاناما",
+      "common": "پاناما"
+    },
+    "uk": {
+      "official": "Панама",
+      "common": "Панама"
+    },
+    "ve": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "vi": {
+      "official": "Pa-na-ma",
+      "common": "Pa-na-ma"
+    },
+    "cy": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "wa": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "wo": {
+      "official": "Panamaa",
+      "common": "Panamaa"
+    },
+    "xh": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "zu": {
+      "official": "I-Panama",
+      "common": "I-Panama"
+    }
+  }
+}

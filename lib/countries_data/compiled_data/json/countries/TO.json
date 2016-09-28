@@ -1,0 +1,434 @@
+{
+  "continent": "Australia",
+  "alpha2": "TO",
+  "alpha3": "TON",
+  "country_code": "676",
+  "international_prefix": "00",
+  "ioc": "TGA",
+  "gec": "TN",
+  "name": "Tonga",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    5,
+    6,
+    7
+  ],
+  "national_prefix": "None",
+  "number": "776",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "world_region": "APAC",
+  "un_locode": "TO",
+  "nationality": "Tongan",
+  "postal_code": false,
+  "unofficial_names": [
+    "Tonga",
+    "トンガ"
+  ],
+  "languages_official": [
+    "en",
+    "to"
+  ],
+  "languages_spoken": [
+    "en",
+    "to"
+  ],
+  "geo": {
+    "latitude": -21.178986,
+    "latitude_dec": "-21.147611618041992",
+    "longitude": -175.198242,
+    "longitude_dec": "-175.25067138671875",
+    "max_latitude": -15.5663347,
+    "max_longitude": -173.7365061,
+    "min_latitude": -21.4733919,
+    "min_longitude": -175.6796157,
+    "bounds": {
+      "northeast": {
+        "lat": -15.5663347,
+        "lng": -173.7365061
+      },
+      "southwest": {
+        "lat": -21.4733919,
+        "lng": -175.6796157
+      }
+    }
+  },
+  "currency_code": "TOP",
+  "postal_address_data": {
+    "id": "data/TO",
+    "key": "TO",
+    "name": "TONGA"
+  },
+  "translations": {
+    "af": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "sq": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "am": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "ar": {
+      "official": "تونغا",
+      "common": "تونغا"
+    },
+    "hy": {
+      "official": "Տոնգա",
+      "common": "Տոնգա"
+    },
+    "as": {
+      "official": "টোঙ্গা",
+      "common": "টোঙ্গা"
+    },
+    "az": {
+      "official": "Tonqa",
+      "common": "Tonqa"
+    },
+    "eu": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "be": {
+      "official": "Тонга",
+      "common": "Тонга"
+    },
+    "bn": {
+      "official": "টোঙ্গা",
+      "common": "টোঙ্গা"
+    },
+    "bs": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "br": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "bg": {
+      "official": "Тонга",
+      "common": "Тонга"
+    },
+    "ca": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "zh": {
+      "official": "汤加",
+      "common": "汤加"
+    },
+    "cs": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "da": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "nl": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "dz": {
+      "official": "ཊོང་ག།",
+      "common": "ཊོང་ག།"
+    },
+    "en": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "eo": {
+      "official": "Tongo",
+      "common": "Tongo"
+    },
+    "et": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "fo": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "fi": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "fr": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "ka": {
+      "official": "ტონგა",
+      "common": "ტონგა"
+    },
+    "de": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "ga": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "gl": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "el": {
+      "official": "Τόνγκα",
+      "common": "Τόνγκα"
+    },
+    "gu": {
+      "official": "ટોંગા",
+      "common": "ટોંગા"
+    },
+    "he": {
+      "official": "טונגה",
+      "common": "טונגה"
+    },
+    "hi": {
+      "official": "टौंगा",
+      "common": "टौंगा"
+    },
+    "hr": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "hu": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "is": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "ia": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "id": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "it": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "ja": {
+      "official": "トンガ",
+      "common": "トンガ"
+    },
+    "kn": {
+      "official": "ಟೋಂಗಾ",
+      "common": "ಟೋಂಗಾ"
+    },
+    "kk": {
+      "official": "Тонга",
+      "common": "Тонга"
+    },
+    "km": {
+      "official": "តុងហ្គោ",
+      "common": "តុងហ្គោ"
+    },
+    "rw": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "ko": {
+      "official": "통가",
+      "common": "통가"
+    },
+    "ku": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "lv": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "lt": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "mk": {
+      "official": "Тонга",
+      "common": "Тонга"
+    },
+    "ml": {
+      "official": "ടോങ്ക",
+      "common": "ടോങ്ക"
+    },
+    "mi": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "mr": {
+      "official": "टोंगा",
+      "common": "टोंगा"
+    },
+    "ms": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "mt": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "mn": {
+      "official": "Тонга",
+      "common": "Тонга"
+    },
+    "ne": {
+      "official": "टोङ्गा",
+      "common": "टोङ्गा"
+    },
+    "nn": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "nb": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "oc": {
+      "official": "Tònga",
+      "common": "Tònga"
+    },
+    "or": {
+      "official": "ଟୋଙ୍ଗା",
+      "common": "ଟୋଙ୍ଗା"
+    },
+    "pa": {
+      "official": "ਟਾਂਗਾ",
+      "common": "ਟਾਂਗਾ"
+    },
+    "fa": {
+      "official": "تونگا",
+      "common": "تونگا"
+    },
+    "pl": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "pt": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "ps": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "ro": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "ru": {
+      "official": "Тонга",
+      "common": "Тонга"
+    },
+    "si": {
+      "official": "ටොන්ගා",
+      "common": "ටොන්ගා"
+    },
+    "sk": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "sl": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "so": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "es": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "sr": {
+      "official": "Тонга",
+      "common": "Тонга"
+    },
+    "sw": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "sv": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "ta": {
+      "official": "டொங்கா",
+      "common": "டொங்கா"
+    },
+    "tt": {
+      "official": "Тонgа",
+      "common": "Тонgа"
+    },
+    "te": {
+      "official": "టోంగా",
+      "common": "టోంగా"
+    },
+    "tl": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "th": {
+      "official": "ตองกา",
+      "common": "ตองกา"
+    },
+    "ti": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "tk": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "tr": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "ug": {
+      "official": "تونگا",
+      "common": "تونگا"
+    },
+    "uk": {
+      "official": "Тонга",
+      "common": "Тонга"
+    },
+    "ve": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "vi": {
+      "official": "Tông-ga",
+      "common": "Tông-ga"
+    },
+    "cy": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "wa": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "wo": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "xh": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "zu": {
+      "official": "Tonga",
+      "common": "Tonga"
+    }
+  }
+}

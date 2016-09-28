@@ -1,0 +1,358 @@
+---
+continent: Europe
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{region}}
+  {{country}}
+alpha2: ES
+alpha3: ESP
+country_code: '34'
+international_prefix: '00'
+ioc: ESP
+gec: SP
+name: Spain
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: None
+number: '724'
+region: Europe
+subregion: Southern Europe
+world_region: EMEA
+un_locode: ES
+nationality: Spanish
+eu_member: true
+eea_member: true
+vat_rates:
+  standard: 21
+  reduced:
+  - 10
+  super_reduced: 4
+  parking: 
+postal_code: true
+unofficial_names:
+- Spain
+- Spanien
+- Espagne
+- España
+- スペイン
+- Spanje
+languages_official:
+- es
+languages_spoken:
+- es
+geo:
+  latitude: 40.46366700000001
+  latitude_dec: '40.396026611328125'
+  longitude: -3.74922
+  longitude_dec: "-3.550692558288574"
+  max_latitude: 43.7913218
+  max_longitude: 4.3277839
+  min_latitude: 27.6378936
+  min_longitude: -18.160788
+  bounds:
+    northeast:
+      lat: 43.7913218
+      lng: 4.3277839
+    southwest:
+      lat: 27.6378936
+      lng: -18.160788
+currency_code: EUR
+postal_address_data:
+  lang: es
+  upper: CS
+  zipex: '28039,28300,28070'
+  name: SPAIN
+  zip: "\\d{5}"
+  key: ES
+  require: ACSZ
+  id: data/ES
+  languages: es
+  sub_keys: A Coruña~Álava~Albacete~Alicante~Almería~Asturias~Ávila~Badajoz~Barcelona~Burgos~Cáceres~Cádiz~Cantabria~Castellón~Ceuta~Ciudad
+    Real~Córdoba~Cuenca~Girona~Granada~Guadalajara~Guipúzcoa~Huelva~Huesca~Islas Baleares~Jaén~La
+    Rioja~Las Palmas~León~Lleida~Lugo~Madrid~Málaga~Melilla~Murcia~Navarra~Ourense~Palencia~Pontevedra~Salamanca~Santa
+    Cruz de Tenerife~Segovia~Sevilla~Soria~Tarragona~Teruel~Toledo~Valencia~Valladolid~Vizcaya~Zamora~Zaragoza
+  posturl: http://www.correos.es/contenido/13-MenuRec2/04-MenuRec24/1010_s-CodPostal.asp
+  sub_isoids: C~VI~AB~A~AL~O~AV~BA~B~BU~CC~CA~S~CS~CE~CR~CO~CU~GI~GR~GU~SS~H~HU~PM~J~LO~GC~LE~L~LU~M~MA~ML~MU~NA~OR~P~PO~SA~TF~SG~SE~SO~T~TE~TO~V~VA~BI~ZA~Z
+  fmt: "%N%n%O%n%A%n%Z %C %S"
+  sub_zips: 15~01~02~03~04~33~05~06~08~09~10~11~39~12~51~13~14~16~17~18~19~20~21~22~07~23~26~35~24~25~27~28~29~52~30~31~32~34~36~37~38~40~41~42~43~44~45~46~47~48~49~50
+translations:
+  af:
+    official: Spanje
+    common: Spanje
+  sq:
+    official: Spanja
+    common: Spanja
+  am:
+    official: ስፔን
+    common: ስፔን
+  ar:
+    official: إسبانيا
+    common: إسبانيا
+  hy:
+    official: Իսպանիա
+    common: Իսպանիա
+  as:
+    official: স্পেইন
+    common: স্পেইন
+  az:
+    official: İspaniya
+    common: İspaniya
+  eu:
+    official: Espainia
+    common: Espainia
+  be:
+    official: Іспанія
+    common: Іспанія
+  bn:
+    official: স্পেন
+    common: স্পেন
+  bs:
+    official: Španija
+    common: Španija
+  br:
+    official: Spagn
+    common: Spagn
+  bg:
+    official: Испания
+    common: Испания
+  ca:
+    official: Espanya
+    common: Espanya
+  zh:
+    official: 西班牙
+    common: 西班牙
+  cs:
+    official: Španělsko
+    common: Španělsko
+  da:
+    official: Spanien
+    common: Spanien
+  nl:
+    official: Spanje
+    common: Spanje
+  dz:
+    official: སིཔེན།
+    common: སིཔེན།
+  en:
+    official: Spain
+    common: Spain
+  eo:
+    official: Hispanio
+    common: Hispanio
+  et:
+    official: Hispaania
+    common: Hispaania
+  fo:
+    official: Spania
+    common: Spania
+  fi:
+    official: Espanja
+    common: Espanja
+  fr:
+    official: Espagne
+    common: Espagne
+  ka:
+    official: ესპანეთი
+    common: ესპანეთი
+  de:
+    official: Spanien
+    common: Spanien
+  ga:
+    official: An Spáinn
+    common: An Spáinn
+  gl:
+    official: España
+    common: España
+  el:
+    official: Ισπανία
+    common: Ισπανία
+  gu:
+    official: સ્પેન
+    common: સ્પેન
+  he:
+    official: ספרד
+    common: ספרד
+  hi:
+    official: स्पेन
+    common: स्पेन
+  hr:
+    official: Španjolska
+    common: Španjolska
+  hu:
+    official: Spanyolország
+    common: Spanyolország
+  is:
+    official: Spánn
+    common: Spánn
+  ia:
+    official: Espania
+    common: Espania
+  id:
+    official: Spanyol
+    common: Spanyol
+  it:
+    official: Spagna
+    common: Spagna
+  ja:
+    official: スペイン
+    common: スペイン
+  kn:
+    official: ಸ್ಪೇನ್
+    common: ಸ್ಪೇನ್
+  kk:
+    official: Испания
+    common: Испания
+  km:
+    official: អេស្ប៉ាញ
+    common: អេស្ប៉ាញ
+  rw:
+    official: Esipanye
+    common: Esipanye
+  ko:
+    official: 스페인
+    common: 스페인
+  ku:
+    official: Spanya
+    common: Spanya
+  lv:
+    official: Spānija
+    common: Spānija
+  lt:
+    official: Ispanija
+    common: Ispanija
+  mk:
+    official: Шпанија
+    common: Шпанија
+  ml:
+    official: സ്പെയിന്‍
+    common: സ്പെയിന്‍
+  mi:
+    official: Pāniora
+    common: Pāniora
+  mr:
+    official: स्पेन
+    common: स्पेन
+  ms:
+    official: Sepanyol
+    common: Sepanyol
+  mt:
+    official: Spanja
+    common: Spanja
+  mn:
+    official: Испани
+    common: Испани
+  ne:
+    official: स्पेन
+    common: स्पेन
+  nn:
+    official: Spania
+    common: Spania
+  nb:
+    official: Spania
+    common: Spania
+  oc:
+    official: Espanha
+    common: Espanha
+  or:
+    official: ସ୍ପେନ
+    common: ସ୍ପେନ
+  pa:
+    official: ਸਪੇਨ
+    common: ਸਪੇਨ
+  fa:
+    official: اسپانیا
+    common: اسپانیا
+  pl:
+    official: Hiszpania
+    common: Hiszpania
+  pt:
+    official: Espanha
+    common: Espanha
+  ps:
+    official: هسپانیه
+    common: هسپانیه
+  ro:
+    official: Spania
+    common: Spania
+  ru:
+    official: Испания
+    common: Испания
+  si:
+    official: ස්පාඤ්ඤය
+    common: ස්පාඤ්ඤය
+  sk:
+    official: Španielsko
+    common: Španielsko
+  sl:
+    official: Španija
+    common: Španija
+  so:
+    official: Isbeyn
+    common: Isbeyn
+  es:
+    official: España
+    common: España
+  sr:
+    official: Шпанија
+    common: Шпанија
+  sw:
+    official: Spain
+    common: Spain
+  sv:
+    official: Spanien
+    common: Spanien
+  ta:
+    official: ஸ்பெயின்
+    common: ஸ்பெயின்
+  tt:
+    official: İспаниа
+    common: İспаниа
+  te:
+    official: స్పెయిన్
+    common: స్పెయిన్
+  tl:
+    official: Espanya
+    common: Espanya
+  th:
+    official: สเปน
+    common: สเปน
+  ti:
+    official: ስፔን
+    common: ስፔን
+  tk:
+    official: Ispaniýa
+    common: Ispaniýa
+  tr:
+    official: İspanya
+    common: İspanya
+  ug:
+    official: ئىسپانىيە
+    common: ئىسپانىيە
+  uk:
+    official: Іспанія
+    common: Іспанія
+  ve:
+    official: Spain
+    common: Spain
+  vi:
+    official: Tây Ban Nha
+    common: Tây Ban Nha
+  cy:
+    official: Sbaen
+    common: Sbaen
+  wa:
+    official: Espagne
+    common: Espagne
+  wo:
+    official: Ispaañ
+    common: Ispaañ
+  xh:
+    official: Spain
+    common: Spain
+  zu:
+    official: Isi-Spayini
+    common: Isi-Spayini

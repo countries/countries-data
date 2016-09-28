@@ -1,0 +1,360 @@
+---
+continent: Africa
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{city}}
+  {{region}}
+  {{postalcode}}
+  {{country}}
+alpha2: ZA
+alpha3: ZAF
+country_code: '27'
+international_prefix: 09
+ioc: RSA
+gec: SF
+name: South Africa
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: '0'
+number: '710'
+region: Africa
+subregion: Southern Africa
+world_region: EMEA
+un_locode: ZA
+nationality: South African
+postal_code: false
+unofficial_names:
+- South Africa
+- Republik Südafrika
+- Afrique du Sud
+- República de Sudáfrica
+- 南アフリカ
+- Zuid-Afrika
+languages_official:
+- af
+- en
+- nr
+- st
+- ss
+- tn
+- ts
+- ve
+- xh
+- zu
+languages_spoken:
+- af
+- en
+- nr
+- st
+- ss
+- tn
+- ts
+- ve
+- xh
+- zu
+geo:
+  latitude: -30.559482
+  latitude_dec: "-29.046184539794922"
+  longitude: 22.937506
+  longitude_dec: '25.06287956237793'
+  max_latitude: -22.1254241
+  max_longitude: 38.0032997
+  min_latitude: -46.9767945
+  min_longitude: 16.4535919
+  bounds:
+    northeast:
+      lat: -22.1254241
+      lng: 38.0032997
+    southwest:
+      lat: -46.9767945
+      lng: 16.4535919
+currency_code: ZAR
+postal_address_data:
+  key: ZA
+  zipex: 0083,1451,0001
+  name: SOUTH AFRICA
+  zip: "\\d{4}"
+  require: ACZ
+  id: data/ZA
+  posturl: http://www.postoffice.co.za/tools/postalcode.html
+  fmt: "%N%n%O%n%A%n%D%n%C%n%Z"
+translations:
+  af:
+    official: Suid-Afrika
+    common: Suid-Afrika
+  sq:
+    official: Afrika e Jugut
+    common: Afrika e Jugut
+  am:
+    official: "፠ቡብ ጐፔሱጢ"
+    common: "፠ቡብ ጐፔሱጢ"
+  ar:
+    official: جنوب إفريقيا
+    common: جنوب إفريقيا
+  hy:
+    official: Հարավային Աֆրիկա
+    common: Հարավային Աֆրիկա
+  as:
+    official: দক্ষিণ আফ্ৰিকা
+    common: দক্ষিণ আফ্ৰিকা
+  az:
+    official: Cənubi Afrika
+    common: Cənubi Afrika
+  eu:
+    official: Hegoafrika
+    common: Hegoafrika
+  be:
+    official: Паўднёва-Афрыканская Рэспубліка
+    common: Паўднёва-Афрыканская Рэспубліка
+  bn:
+    official: দক্ষিণ আফ্রিকা
+    common: দক্ষিণ আফ্রিকা
+  bs:
+    official: Južna Afrika
+    common: Južna Afrika
+  br:
+    official: Suafrika
+    common: Suafrika
+  bg:
+    official: Южна Африка
+    common: Южна Африка
+  ca:
+    official: Sudàfrica
+    common: Sudàfrica
+  zh:
+    official: 南非
+    common: 南非
+  cs:
+    official: Jihoafrická republika
+    common: Jihoafrická republika
+  da:
+    official: Sydafrika
+    common: Sydafrika
+  nl:
+    official: Zuid-Afrika
+    common: Zuid-Afrika
+  dz:
+    official: ལྷོ་ཨཕ་རི་ཀ
+    common: ལྷོ་ཨཕ་རི་ཀ
+  en:
+    official: South Africa
+    common: South Africa
+  eo:
+    official: Sud-Afriko
+    common: Sud-Afriko
+  et:
+    official: Lõuna-Aafrika Vabariik
+    common: Lõuna-Aafrika Vabariik
+  fo:
+    official: Suðurafrika
+    common: Suðurafrika
+  fi:
+    official: Etelä-Afrikka
+    common: Etelä-Afrikka
+  fr:
+    official: Afrique du Sud
+    common: Afrique du Sud
+  ka:
+    official: სამხრეთ აფრიკა
+    common: სამხრეთ აფრიკა
+  de:
+    official: Südafrika
+    common: Südafrika
+  ga:
+    official: An Afraic Theas
+    common: An Afraic Theas
+  gl:
+    official: África do Sur
+    common: África do Sur
+  el:
+    official: Νότια Αφρική
+    common: Νότια Αφρική
+  gu:
+    official: દક્ષિણ આફ્રિકા
+    common: દક્ષિણ આફ્રિકા
+  he:
+    official: דרום אפריקה
+    common: דרום אפריקה
+  hi:
+    official: दक्षिण अफ्रीका
+    common: दक्षिण अफ्रीका
+  hr:
+    official: Južna Afrika
+    common: Južna Afrika
+  hu:
+    official: Dél-Afrika
+    common: Dél-Afrika
+  is:
+    official: Suður Afríka
+    common: Suður Afríka
+  ia:
+    official: Africa del Sud
+    common: Africa del Sud
+  id:
+    official: Afrika Selatan
+    common: Afrika Selatan
+  it:
+    official: Sud Africa
+    common: Sud Africa
+  ja:
+    official: 南アフリカ
+    common: 南アフリカ
+  kn:
+    official: ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ
+    common: ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ
+  kk:
+    official: Оңтүстік Африка
+    common: Оңтүстік Африка
+  km:
+    official: អាហ្វ្រិក​ខាងត្បូង
+    common: អាហ្វ្រិក​ខាងត្បូង
+  rw:
+    official: Afurika yepfo
+    common: Afurika yepfo
+  ko:
+    official: 남아프리카
+    common: 남아프리카
+  ku:
+    official: Efrîka Basur
+    common: Efrîka Basur
+  lv:
+    official: Dienvidāfrika
+    common: Dienvidāfrika
+  lt:
+    official: Pietų Afrika
+    common: Pietų Afrika
+  mk:
+    official: Јужна Африка
+    common: Јужна Африка
+  ml:
+    official: സൌത്ത് ആഫ്രിക്ക
+    common: സൌത്ത് ആഫ്രിക്ക
+  mi:
+    official: Āwherika-ki-te-tonga
+    common: Āwherika-ki-te-tonga
+  mr:
+    official: साउथ आफ्रिका
+    common: साउथ आफ्रिका
+  ms:
+    official: Afrika Selatan
+    common: Afrika Selatan
+  mt:
+    official: Afrika t'Isfel
+    common: Afrika t'Isfel
+  mn:
+    official: Өмнөд африк
+    common: Өмнөд африк
+  ne:
+    official: दक्षिण अफ्रिका
+    common: दक्षिण अफ्रिका
+  nn:
+    official: Sør-Afrika
+    common: Sør-Afrika
+  nb:
+    official: Sør-Afrika
+    common: Sør-Afrika
+  oc:
+    official: Sudafrica
+    common: Sudafrica
+  or:
+    official: ଦକ୍ଷିଣ ଆଫ୍ରିକା
+    common: ଦକ୍ଷିଣ ଆଫ୍ରିକା
+  pa:
+    official: ਦੱਖਣੀ ਅਫਰੀਕਾ
+    common: ਦੱਖਣੀ ਅਫਰੀਕਾ
+  fa:
+    official: آفریقای جنوبی
+    common: آفریقای جنوبی
+  pl:
+    official: Republika Południowej Afryki
+    common: Republika Południowej Afryki
+  pt:
+    official: África do Sul
+    common: África do Sul
+  ps:
+    official: South Africa
+    common: South Africa
+  ro:
+    official: Africa de sud
+    common: Africa de sud
+  ru:
+    official: Южная Африка
+    common: Южная Африка
+  si:
+    official: දකුණු අප්‍රිකාව
+    common: දකුණු අප්‍රිකාව
+  sk:
+    official: Južná Afrika
+    common: Južná Afrika
+  sl:
+    official: Južna Afrika
+    common: Južna Afrika
+  so:
+    official: Koonfur Afrika
+    common: Koonfur Afrika
+  es:
+    official: Suráfrica
+    common: Suráfrica
+  sr:
+    official: Јужна Африка
+    common: Јужна Африка
+  sw:
+    official: South Africa
+    common: South Africa
+  sv:
+    official: Sydafrika
+    common: Sydafrika
+  ta:
+    official: தென் ஆப்ரிக்கா
+    common: தென் ஆப்ரிக்கா
+  tt:
+    official: Көняк Африка
+    common: Көняк Африка
+  te:
+    official: సౌత్ ఆఫ్రికా
+    common: సౌత్ ఆఫ్రికా
+  tl:
+    official: Timog Aprika
+    common: Timog Aprika
+  th:
+    official: แอฟริกาใต้
+    common: แอฟริกาใต้
+  ti:
+    official: ደቡብ አፍሪካ
+    common: ደቡብ አፍሪካ
+  tk:
+    official: South Africa
+    common: South Africa
+  tr:
+    official: Güney Afrika
+    common: Güney Afrika
+  ug:
+    official: جەنۇبىي ئافرىقا
+    common: جەنۇبىي ئافرىقا
+  uk:
+    official: Південна Африка
+    common: Південна Африка
+  ve:
+    official: South Africa
+    common: South Africa
+  vi:
+    official: Nam Phi
+    common: Nam Phi
+  cy:
+    official: De Affrica
+    common: De Affrica
+  wa:
+    official: Nonne Afrike
+    common: Nonne Afrike
+  wo:
+    official: Afrik di Sid
+    common: Afrik di Sid
+  xh:
+    official: Mzantsi Afrika
+    common: Mzantsi Afrika
+  zu:
+    official: I-Mzantsi Afrika
+    common: I-Mzantsi Afrika

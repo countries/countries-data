@@ -1,0 +1,435 @@
+{
+  "continent": "Africa",
+  "alpha2": "MZ",
+  "alpha3": "MOZ",
+  "country_code": "258",
+  "international_prefix": "00",
+  "ioc": "MOZ",
+  "gec": "MZ",
+  "name": "Mozambique",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8,
+    9
+  ],
+  "national_prefix": "0",
+  "number": "508",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "world_region": "EMEA",
+  "un_locode": "MZ",
+  "nationality": "Mozambican",
+  "postal_code": true,
+  "unofficial_names": [
+    "Mozambique",
+    "Mosambik",
+    "モザンビーク"
+  ],
+  "languages_official": [
+    "pt"
+  ],
+  "languages_spoken": [
+    "pt"
+  ],
+  "geo": {
+    "latitude": -18.665695,
+    "latitude_dec": "-17.555864334106445",
+    "longitude": 35.529562,
+    "longitude_dec": "35.955692291259766",
+    "max_latitude": -10.4712022,
+    "max_longitude": 40.8391213,
+    "min_latitude": -26.8681621,
+    "min_longitude": 30.21555,
+    "bounds": {
+      "northeast": {
+        "lat": -10.4712022,
+        "lng": 40.8391213
+      },
+      "southwest": {
+        "lat": -26.8681621,
+        "lng": 30.21555
+      }
+    }
+  },
+  "currency_code": "MZN",
+  "postal_address_data": {
+    "zipex": "1102,1119,3212",
+    "name": "MOZAMBIQUE",
+    "zip": "\\d{4}",
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "key": "MZ",
+    "id": "data/MZ"
+  },
+  "translations": {
+    "af": {
+      "official": "Mosambiek",
+      "common": "Mosambiek"
+    },
+    "sq": {
+      "official": "Mozambiku",
+      "common": "Mozambiku"
+    },
+    "am": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    },
+    "ar": {
+      "official": "موزمبيق",
+      "common": "موزمبيق"
+    },
+    "hy": {
+      "official": "Մոզամբիկ",
+      "common": "Մոզամբիկ"
+    },
+    "as": {
+      "official": "মোজাম্বিক",
+      "common": "মোজাম্বিক"
+    },
+    "az": {
+      "official": "Mozambiq",
+      "common": "Mozambiq"
+    },
+    "eu": {
+      "official": "Mozanbike",
+      "common": "Mozanbike"
+    },
+    "be": {
+      "official": "Мазамбік",
+      "common": "Мазамбік"
+    },
+    "bn": {
+      "official": "মোজাম্বিক",
+      "common": "মোজাম্বিক"
+    },
+    "bs": {
+      "official": "Mozambik",
+      "common": "Mozambik"
+    },
+    "br": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    },
+    "bg": {
+      "official": "Мозамбик",
+      "common": "Мозамбик"
+    },
+    "ca": {
+      "official": "Moçambic",
+      "common": "Moçambic"
+    },
+    "zh": {
+      "official": "莫桑比克",
+      "common": "莫桑比克"
+    },
+    "cs": {
+      "official": "Mosambik",
+      "common": "Mosambik"
+    },
+    "da": {
+      "official": "Mocambique",
+      "common": "Mocambique"
+    },
+    "nl": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    },
+    "dz": {
+      "official": "མོ་ཛམ་བིཀ།",
+      "common": "མོ་ཛམ་བིཀ།"
+    },
+    "en": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    },
+    "eo": {
+      "official": "Mozambiko",
+      "common": "Mozambiko"
+    },
+    "et": {
+      "official": "Mosambiik",
+      "common": "Mosambiik"
+    },
+    "fo": {
+      "official": "Mosambik",
+      "common": "Mosambik"
+    },
+    "fi": {
+      "official": "Mosambik",
+      "common": "Mosambik"
+    },
+    "fr": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    },
+    "ka": {
+      "official": "მოზამბიკი",
+      "common": "მოზამბიკი"
+    },
+    "de": {
+      "official": "Mosambik",
+      "common": "Mosambik"
+    },
+    "ga": {
+      "official": "Mósaimbíc",
+      "common": "Mósaimbíc"
+    },
+    "gl": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    },
+    "el": {
+      "official": "Μοζαμβίκη",
+      "common": "Μοζαμβίκη"
+    },
+    "gu": {
+      "official": "મોઝામ્બિક",
+      "common": "મોઝામ્બિક"
+    },
+    "he": {
+      "official": "מוזמביק",
+      "common": "מוזמביק"
+    },
+    "hi": {
+      "official": "मोज़ाम्बिक",
+      "common": "मोज़ाम्बिक"
+    },
+    "hr": {
+      "official": "Mozambik",
+      "common": "Mozambik"
+    },
+    "hu": {
+      "official": "Mozambik",
+      "common": "Mozambik"
+    },
+    "is": {
+      "official": "Mósambík",
+      "common": "Mósambík"
+    },
+    "ia": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    },
+    "id": {
+      "official": "Mozambik",
+      "common": "Mozambik"
+    },
+    "it": {
+      "official": "Mozambico",
+      "common": "Mozambico"
+    },
+    "ja": {
+      "official": "モザンビーク",
+      "common": "モザンビーク"
+    },
+    "kn": {
+      "official": "ಮೋಝಾಂಬಿಕ್",
+      "common": "ಮೋಝಾಂಬಿಕ್"
+    },
+    "kk": {
+      "official": "Мозамбик",
+      "common": "Мозамбик"
+    },
+    "km": {
+      "official": "ម៉ូហ្សាំប៊ិក",
+      "common": "ម៉ូហ្សាំប៊ិក"
+    },
+    "rw": {
+      "official": "Mozambike",
+      "common": "Mozambike"
+    },
+    "ko": {
+      "official": "모잠비크",
+      "common": "모잠비크"
+    },
+    "ku": {
+      "official": "Mozambîk",
+      "common": "Mozambîk"
+    },
+    "lv": {
+      "official": "Mozambika",
+      "common": "Mozambika"
+    },
+    "lt": {
+      "official": "Mozambikas",
+      "common": "Mozambikas"
+    },
+    "mk": {
+      "official": "Мозамбик",
+      "common": "Мозамбик"
+    },
+    "ml": {
+      "official": "മൊസാമ്പിക്",
+      "common": "മൊസാമ്പിക്"
+    },
+    "mi": {
+      "official": "Mohapiki",
+      "common": "Mohapiki"
+    },
+    "mr": {
+      "official": "मोझेंबिक",
+      "common": "मोझेंबिक"
+    },
+    "ms": {
+      "official": "Mozambik",
+      "common": "Mozambik"
+    },
+    "mt": {
+      "official": "Możambik",
+      "common": "Możambik"
+    },
+    "mn": {
+      "official": "Мозамбайк",
+      "common": "Мозамбайк"
+    },
+    "ne": {
+      "official": "मोजाम्बिक",
+      "common": "मोजाम्बिक"
+    },
+    "nn": {
+      "official": "Mosambik",
+      "common": "Mosambik"
+    },
+    "nb": {
+      "official": "Mosambik",
+      "common": "Mosambik"
+    },
+    "oc": {
+      "official": "Moçambic",
+      "common": "Moçambic"
+    },
+    "or": {
+      "official": "ମୋଜାମ୍ବିକ",
+      "common": "ମୋଜାମ୍ବିକ"
+    },
+    "pa": {
+      "official": "ਮੋਜ਼ਾਮਬੀਕਿਉ",
+      "common": "ਮੋਜ਼ਾਮਬੀਕਿਉ"
+    },
+    "fa": {
+      "official": "موزامبیک",
+      "common": "موزامبیک"
+    },
+    "pl": {
+      "official": "Mozambik",
+      "common": "Mozambik"
+    },
+    "pt": {
+      "official": "Moçambique",
+      "common": "Moçambique"
+    },
+    "ps": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    },
+    "ro": {
+      "official": "Mozambic",
+      "common": "Mozambic"
+    },
+    "ru": {
+      "official": "Мозамбик",
+      "common": "Мозамбик"
+    },
+    "si": {
+      "official": "මොසැම්බික්",
+      "common": "මොසැම්බික්"
+    },
+    "sk": {
+      "official": "Mozambik",
+      "common": "Mozambik"
+    },
+    "sl": {
+      "official": "Mozambik",
+      "common": "Mozambik"
+    },
+    "so": {
+      "official": "Musambiig",
+      "common": "Musambiig"
+    },
+    "es": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    },
+    "sr": {
+      "official": "Мозамбик",
+      "common": "Мозамбик"
+    },
+    "sw": {
+      "official": "Msumbiji",
+      "common": "Msumbiji"
+    },
+    "sv": {
+      "official": "Moçambique",
+      "common": "Moçambique"
+    },
+    "ta": {
+      "official": "மொசாம்பிக்",
+      "common": "மொசாம்பிக்"
+    },
+    "tt": {
+      "official": "Мозамбик",
+      "common": "Мозамбик"
+    },
+    "te": {
+      "official": "మోజాంబిక్",
+      "common": "మోజాంబిక్"
+    },
+    "tl": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    },
+    "th": {
+      "official": "โมซัมบิก",
+      "common": "โมซัมบิก"
+    },
+    "ti": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    },
+    "tk": {
+      "official": "Mozambik",
+      "common": "Mozambik"
+    },
+    "tr": {
+      "official": "Mozambik",
+      "common": "Mozambik"
+    },
+    "ug": {
+      "official": "موزامبىك",
+      "common": "موزامبىك"
+    },
+    "uk": {
+      "official": "Мозамбік",
+      "common": "Мозамбік"
+    },
+    "ve": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    },
+    "vi": {
+      "official": "Mô-xam-bí-khợ",
+      "common": "Mô-xam-bí-khợ"
+    },
+    "cy": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    },
+    "wa": {
+      "official": "Mozambike",
+      "common": "Mozambike"
+    },
+    "wo": {
+      "official": "Mosaambik",
+      "common": "Mosaambik"
+    },
+    "xh": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    },
+    "zu": {
+      "official": "Mozambique",
+      "common": "Mozambique"
+    }
+  }
+}

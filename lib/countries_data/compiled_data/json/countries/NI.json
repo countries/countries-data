@@ -1,0 +1,441 @@
+{
+  "continent": "North America",
+  "alpha2": "NI",
+  "alpha3": "NIC",
+  "country_code": "505",
+  "international_prefix": "00",
+  "ioc": "NCA",
+  "gec": "NU",
+  "name": "Nicaragua",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "None",
+  "number": "558",
+  "region": "Americas",
+  "subregion": "Central America",
+  "world_region": "AMER",
+  "un_locode": "NI",
+  "nationality": "Nicaraguan",
+  "postal_code": true,
+  "unofficial_names": [
+    "Nicaragua",
+    "ニカラグア"
+  ],
+  "languages_official": [
+    "es"
+  ],
+  "languages_spoken": [
+    "es"
+  ],
+  "geo": {
+    "latitude": 12.865416,
+    "latitude_dec": "12.903773307800293",
+    "longitude": -85.207229,
+    "longitude_dec": "-84.92182159423828",
+    "max_latitude": 15.0302756,
+    "max_longitude": -82.5920716,
+    "min_latitude": 10.708055,
+    "min_longitude": -87.69030769999999,
+    "bounds": {
+      "northeast": {
+        "lat": 15.0302756,
+        "lng": -82.5920716
+      },
+      "southwest": {
+        "lat": 10.708055,
+        "lng": -87.69030769999999
+      }
+    }
+  },
+  "currency_code": "NIO",
+  "postal_address_data": {
+    "lang": "es",
+    "upper": "CS",
+    "zipex": "52000",
+    "name": "NICARAGUA",
+    "zip": "\\d{5}",
+    "key": "NI",
+    "fmt": "%N%n%O%n%A%n%Z%n%C, %S",
+    "state_name_type": "department",
+    "languages": "es",
+    "sub_keys": "Boaco~Carazo~Chinandega~Chontales~Esteli~Granada~Jinotega~Leon~Madriz~Managua~Masaya~Matagalpa~Nueva Segovia~Raan~Raas~Rio San Juan~Rivas",
+    "posturl": "http://www.correos.gob.ni/index.php/codigo-postal-2",
+    "sub_isoids": "BO~CA~CI~CO~ES~GR~JI~LE~MD~MN~MS~MT~NS~AN~AS~SJ~RI",
+    "id": "data/NI",
+    "sub_zips": "5[12]~4[56]~2[5-7]~5[56]~3[12]~4[34]~6[56]~2[12]~3[45]~1[0-6]~4[12]~6[1-3]~3[7-9]~7[12]~8[1-3]~9[12]~4[78]"
+  },
+  "translations": {
+    "af": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "sq": {
+      "official": "Nikaragua",
+      "common": "Nikaragua"
+    },
+    "am": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "ar": {
+      "official": "نيكاراجوا",
+      "common": "نيكاراجوا"
+    },
+    "hy": {
+      "official": "Նիկարագուա",
+      "common": "Նիկարագուա"
+    },
+    "as": {
+      "official": "নিকৰ্গুৱা",
+      "common": "নিকৰ্গুৱা"
+    },
+    "az": {
+      "official": "Nikaraqua",
+      "common": "Nikaraqua"
+    },
+    "eu": {
+      "official": "Nikaragua",
+      "common": "Nikaragua"
+    },
+    "be": {
+      "official": "Нікарагуа",
+      "common": "Нікарагуа"
+    },
+    "bn": {
+      "official": "নিকারাগুয়া",
+      "common": "নিকারাগুয়া"
+    },
+    "bs": {
+      "official": "Nikaragva",
+      "common": "Nikaragva"
+    },
+    "br": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "bg": {
+      "official": "Никарагуа",
+      "common": "Никарагуа"
+    },
+    "ca": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "zh": {
+      "official": "尼加拉瓜",
+      "common": "尼加拉瓜"
+    },
+    "cs": {
+      "official": "Nikaragua",
+      "common": "Nikaragua"
+    },
+    "da": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "nl": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "dz": {
+      "official": "ནི་ཀ་ར་གུ་ཝ།",
+      "common": "ནི་ཀ་ར་གུ་ཝ།"
+    },
+    "en": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "eo": {
+      "official": "Nikaragvo",
+      "common": "Nikaragvo"
+    },
+    "et": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "fo": {
+      "official": "Nikaragua",
+      "common": "Nikaragua"
+    },
+    "fi": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "fr": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "ka": {
+      "official": "ნიკარაგუა",
+      "common": "ნიკარაგუა"
+    },
+    "de": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "ga": {
+      "official": "Nicearagua",
+      "common": "Nicearagua"
+    },
+    "gl": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "el": {
+      "official": "Νικαράγουα",
+      "common": "Νικαράγουα"
+    },
+    "gu": {
+      "official": "નિકારાગુઆ",
+      "common": "નિકારાગુઆ"
+    },
+    "he": {
+      "official": "ניקרגואה",
+      "common": "ניקרגואה"
+    },
+    "hi": {
+      "official": "निकारागुआ",
+      "common": "निकारागुआ"
+    },
+    "hr": {
+      "official": "Nikaragva",
+      "common": "Nikaragva"
+    },
+    "hu": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "is": {
+      "official": "Níkaragva",
+      "common": "Níkaragva"
+    },
+    "ia": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "id": {
+      "official": "Nikaragua",
+      "common": "Nikaragua"
+    },
+    "it": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "ja": {
+      "official": "ニカラグア",
+      "common": "ニカラグア"
+    },
+    "kn": {
+      "official": "ನಿಕರಾಗುವಾ",
+      "common": "ನಿಕರಾಗುವಾ"
+    },
+    "kk": {
+      "official": "Никарагуа",
+      "common": "Никарагуа"
+    },
+    "km": {
+      "official": "នីការ៉ាហ្គ័រ",
+      "common": "នីការ៉ាហ្គ័រ"
+    },
+    "rw": {
+      "official": "Nikaragwa",
+      "common": "Nikaragwa"
+    },
+    "ko": {
+      "official": "니카라과",
+      "common": "니카라과"
+    },
+    "ku": {
+      "official": "Nîkaragûa",
+      "common": "Nîkaragûa"
+    },
+    "lv": {
+      "official": "Nikaragva",
+      "common": "Nikaragva"
+    },
+    "lt": {
+      "official": "Nikaragva",
+      "common": "Nikaragva"
+    },
+    "mk": {
+      "official": "Никарагва",
+      "common": "Никарагва"
+    },
+    "ml": {
+      "official": "നികരാഗ്വ",
+      "common": "നികരാഗ്വ"
+    },
+    "mi": {
+      "official": "Nikarāhua",
+      "common": "Nikarāhua"
+    },
+    "mr": {
+      "official": "निकाराग्वा",
+      "common": "निकाराग्वा"
+    },
+    "ms": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "mt": {
+      "official": "Paragwaj",
+      "common": "Paragwaj"
+    },
+    "mn": {
+      "official": "Никрагуа",
+      "common": "Никрагуа"
+    },
+    "ne": {
+      "official": "निकारागुवा",
+      "common": "निकारागुवा"
+    },
+    "nn": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "nb": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "oc": {
+      "official": "Paraguai",
+      "common": "Paraguai"
+    },
+    "or": {
+      "official": "ନିକାରାଗୁଆ",
+      "common": "ନିକାରାଗୁଆ"
+    },
+    "pa": {
+      "official": "ਨਿਕਾਰਗੁਆ",
+      "common": "ਨਿਕਾਰਗੁਆ"
+    },
+    "fa": {
+      "official": "نیکاراگوئه",
+      "common": "نیکاراگوئه"
+    },
+    "pl": {
+      "official": "Nikaragua",
+      "common": "Nikaragua"
+    },
+    "pt": {
+      "official": "Nicarágua",
+      "common": "Nicarágua"
+    },
+    "ps": {
+      "official": "نکاراګوا",
+      "common": "نکاراګوا"
+    },
+    "ro": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "ru": {
+      "official": "Никарагуа",
+      "common": "Никарагуа"
+    },
+    "si": {
+      "official": "නිකරගුවා",
+      "common": "නිකරගුවා"
+    },
+    "sk": {
+      "official": "Nikaragua",
+      "common": "Nikaragua"
+    },
+    "sl": {
+      "official": "Nikaragva",
+      "common": "Nikaragva"
+    },
+    "so": {
+      "official": "Nikaraaguwa",
+      "common": "Nikaraaguwa"
+    },
+    "es": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "sr": {
+      "official": "Никарагва",
+      "common": "Никарагва"
+    },
+    "sw": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "sv": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "ta": {
+      "official": "நிகராகுவா",
+      "common": "நிகராகுவா"
+    },
+    "tt": {
+      "official": "Никараgуа",
+      "common": "Никараgуа"
+    },
+    "te": {
+      "official": "నికారాగ్వా",
+      "common": "నికారాగ్వా"
+    },
+    "tl": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "th": {
+      "official": "นิการากัว",
+      "common": "นิการากัว"
+    },
+    "ti": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "tk": {
+      "official": "Nikaragua",
+      "common": "Nikaragua"
+    },
+    "tr": {
+      "official": "Nikaragua",
+      "common": "Nikaragua"
+    },
+    "ug": {
+      "official": "نىكاراگۇئا",
+      "common": "نىكاراگۇئا"
+    },
+    "uk": {
+      "official": "Нікарагуа",
+      "common": "Нікарагуа"
+    },
+    "ve": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "vi": {
+      "official": "Ni-ca-ra-gua",
+      "common": "Ni-ca-ra-gua"
+    },
+    "cy": {
+      "official": "Nicaragua",
+      "common": "Nicaragua"
+    },
+    "wa": {
+      "official": "Nicaragwa",
+      "common": "Nicaragwa"
+    },
+    "wo": {
+      "official": "Nikaraaguwa",
+      "common": "Nikaraaguwa"
+    },
+    "xh": {
+      "official": "Paraguay",
+      "common": "Paraguay"
+    },
+    "zu": {
+      "official": "I-Paraguwayi",
+      "common": "I-Paraguwayi"
+    }
+  }
+}

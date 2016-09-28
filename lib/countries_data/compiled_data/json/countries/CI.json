@@ -1,0 +1,436 @@
+{
+  "continent": "Africa",
+  "alpha2": "CI",
+  "alpha3": "CIV",
+  "country_code": "225",
+  "international_prefix": "00",
+  "ioc": "CIV",
+  "gec": "IV",
+  "name": "Côte D'Ivoire",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "0",
+  "number": "384",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "world_region": "EMEA",
+  "un_locode": "CI",
+  "nationality": "Ivorian",
+  "postal_code": false,
+  "unofficial_names": [
+    "Côte D'Ivoire",
+    "Elfenbeinküste",
+    "コートジボワール",
+    "Ivoorkust",
+    "Cote D'Ivoire (Ivory Coast)",
+    "Cote d Ivoire (Ivory Coast)",
+    "Ivory Coast"
+  ],
+  "languages_official": [
+    "fr"
+  ],
+  "languages_spoken": [
+    "fr"
+  ],
+  "geo": {
+    "latitude": 7.539988999999999,
+    "latitude_dec": "7.598755359649658",
+    "longitude": -5.547079999999999,
+    "longitude_dec": "-5.552574634552002",
+    "max_latitude": 10.740015,
+    "max_longitude": -2.493031,
+    "min_latitude": 4.3617552,
+    "min_longitude": -8.602058999999999,
+    "bounds": {
+      "northeast": {
+        "lat": 10.740015,
+        "lng": -2.493031
+      },
+      "southwest": {
+        "lat": 4.3617552,
+        "lng": -8.602058999999999
+      }
+    }
+  },
+  "currency_code": "XOF",
+  "postal_address_data": {
+    "fmt": "%N%n%O%n%X %A %C %X",
+    "id": "data/CI",
+    "key": "CI",
+    "name": "COTE D'IVOIRE"
+  },
+  "translations": {
+    "af": {
+      "official": "Ivoorkus",
+      "common": "Ivoorkus"
+    },
+    "sq": {
+      "official": "Kepi i Fildishtë",
+      "common": "Kepi i Fildishtë"
+    },
+    "am": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "ar": {
+      "official": "ساحل العاج",
+      "common": "ساحل العاج"
+    },
+    "hy": {
+      "official": "Կոտ դ'Իվուար",
+      "common": "Կոտ դ'Իվուար"
+    },
+    "as": {
+      "official": "আইভৰি কোস্ট",
+      "common": "আইভৰি কোস্ট"
+    },
+    "az": {
+      "official": "Kot Divuar",
+      "common": "Kot Divuar"
+    },
+    "eu": {
+      "official": "Boli Kosta",
+      "common": "Boli Kosta"
+    },
+    "be": {
+      "official": "Кот д'Івуар",
+      "common": "Кот д'Івуар"
+    },
+    "bn": {
+      "official": "আইভরি কোস্ট",
+      "common": "আইভরি কোস্ট"
+    },
+    "bs": {
+      "official": "Obala Slonovače",
+      "common": "Obala Slonovače"
+    },
+    "br": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "bg": {
+      "official": "Кот д'Ивоар",
+      "common": "Кот д'Ивоар"
+    },
+    "ca": {
+      "official": "Costa de Vori",
+      "common": "Costa de Vori"
+    },
+    "zh": {
+      "official": "科特迪瓦",
+      "common": "科特迪瓦"
+    },
+    "cs": {
+      "official": "Pobřeží slonoviny",
+      "common": "Pobřeží slonoviny"
+    },
+    "da": {
+      "official": "Elfenbenskysten",
+      "common": "Elfenbenskysten"
+    },
+    "nl": {
+      "official": "Ivoorkust",
+      "common": "Ivoorkust"
+    },
+    "dz": {
+      "official": "ཀོཊི་ ཌི་ཨའི་བོ་རི།",
+      "common": "ཀོཊི་ ཌི་ཨའི་བོ་རི།"
+    },
+    "en": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "eo": {
+      "official": "Ebur-Bordo",
+      "common": "Ebur-Bordo"
+    },
+    "et": {
+      "official": "Elevandiluurannik (Côte d'Ivoire)",
+      "common": "Elevandiluurannik (Côte d'Ivoire)"
+    },
+    "fo": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "fi": {
+      "official": "Norsunluurannikko",
+      "common": "Norsunluurannikko"
+    },
+    "fr": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "ka": {
+      "official": "კოტ-დ'ივუარი",
+      "common": "კოტ-დ'ივუარი"
+    },
+    "de": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "ga": {
+      "official": "An Cósta Eabhair",
+      "common": "An Cósta Eabhair"
+    },
+    "gl": {
+      "official": "Costa de Marfín",
+      "common": "Costa de Marfín"
+    },
+    "el": {
+      "official": "Ακτή Ελεφαντοστού",
+      "common": "Ακτή Ελεφαντοστού"
+    },
+    "gu": {
+      "official": "કોટે ડીઆઇવરી",
+      "common": "કોટે ડીઆઇવરી"
+    },
+    "he": {
+      "official": "חוף השנהב",
+      "common": "חוף השנהב"
+    },
+    "hi": {
+      "official": "कोयटे डी वोयरे",
+      "common": "कोयटे डी वोयरे"
+    },
+    "hr": {
+      "official": "Obala Bjelokosti",
+      "common": "Obala Bjelokosti"
+    },
+    "hu": {
+      "official": "Elefántcsontpart",
+      "common": "Elefántcsontpart"
+    },
+    "is": {
+      "official": "Fílabeinsströnd",
+      "common": "Fílabeinsströnd"
+    },
+    "ia": {
+      "official": "Costa de Ebore",
+      "common": "Costa de Ebore"
+    },
+    "id": {
+      "official": "Pantai Gading",
+      "common": "Pantai Gading"
+    },
+    "it": {
+      "official": "Costa d'Avorio",
+      "common": "Costa d'Avorio"
+    },
+    "ja": {
+      "official": "コートジボワール",
+      "common": "コートジボワール"
+    },
+    "kn": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "kk": {
+      "official": "Кот д'Ивуар",
+      "common": "Кот д'Ивуар"
+    },
+    "km": {
+      "official": "កូតេឌីវ័រ",
+      "common": "កូតេឌីវ័រ"
+    },
+    "rw": {
+      "official": "Kote Divuwari",
+      "common": "Kote Divuwari"
+    },
+    "ko": {
+      "official": "코트 디브와르",
+      "common": "코트 디브와르"
+    },
+    "ku": {
+      "official": "Sahila Diranên Fîlan",
+      "common": "Sahila Diranên Fîlan"
+    },
+    "lv": {
+      "official": "Kotdivuāra",
+      "common": "Kotdivuāra"
+    },
+    "lt": {
+      "official": "Dramblio Kaulo Krantas",
+      "common": "Dramblio Kaulo Krantas"
+    },
+    "mk": {
+      "official": "Брег на слонова коста",
+      "common": "Брег на слонова коста"
+    },
+    "ml": {
+      "official": "കോട്ടെ ഡി ലവര്‍",
+      "common": "കോട്ടെ ഡി ലവര്‍"
+    },
+    "mi": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "mr": {
+      "official": "कोत द आयव्होर",
+      "common": "कोत द आयव्होर"
+    },
+    "ms": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "mt": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "mn": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "ne": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "nn": {
+      "official": "Elfenbeinskysten",
+      "common": "Elfenbeinskysten"
+    },
+    "nb": {
+      "official": "Elfenbenskysten",
+      "common": "Elfenbenskysten"
+    },
+    "oc": {
+      "official": "Còsta d'Evòri",
+      "common": "Còsta d'Evòri"
+    },
+    "or": {
+      "official": "କୋଟ ଡି'ଭୋର",
+      "common": "କୋଟ ଡି'ଭୋର"
+    },
+    "pa": {
+      "official": "ਕੋਟ ਡੀਵੋਈਰੀ",
+      "common": "ਕੋਟ ਡੀਵੋਈਰੀ"
+    },
+    "fa": {
+      "official": "ساحل عاج",
+      "common": "ساحل عاج"
+    },
+    "pl": {
+      "official": "Wybrzeże Kości Słoniowej",
+      "common": "Wybrzeże Kości Słoniowej"
+    },
+    "pt": {
+      "official": "Costa do Marfim",
+      "common": "Costa do Marfim"
+    },
+    "ps": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "ro": {
+      "official": "Coasta de Fildeș",
+      "common": "Coasta de Fildeș"
+    },
+    "ru": {
+      "official": "Кот-д'Ивуар",
+      "common": "Кот-д'Ивуар"
+    },
+    "si": {
+      "official": "කෝටේ ඩ්ලවොයිරා",
+      "common": "කෝටේ ඩ්ලවොයිරා"
+    },
+    "sk": {
+      "official": "Pobrežie Slonoviny",
+      "common": "Pobrežie Slonoviny"
+    },
+    "sl": {
+      "official": "Slonokoščena obala",
+      "common": "Slonokoščena obala"
+    },
+    "so": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "es": {
+      "official": "Costa de Marfíl",
+      "common": "Costa de Marfíl"
+    },
+    "sr": {
+      "official": "Обала Слоноваче",
+      "common": "Обала Слоноваче"
+    },
+    "sw": {
+      "official": "Ivorycoast",
+      "common": "Ivorycoast"
+    },
+    "sv": {
+      "official": "Elfenbenskusten",
+      "common": "Elfenbenskusten"
+    },
+    "ta": {
+      "official": "கோத் ட்லவோர்",
+      "common": "கோத் ட்லவோர்"
+    },
+    "tt": {
+      "official": "Җôте д'Ивоире",
+      "common": "Җôте д'Ивоире"
+    },
+    "te": {
+      "official": "కోత్ ద ఆయవ్హోర",
+      "common": "కోత్ ద ఆయవ్హోర"
+    },
+    "tl": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "th": {
+      "official": "โกตดิวัวร์",
+      "common": "โกตดิวัวร์"
+    },
+    "ti": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "tk": {
+      "official": "Kot-D’’iwuar",
+      "common": "Kot-D’’iwuar"
+    },
+    "tr": {
+      "official": "Fildişi Sahili",
+      "common": "Fildişi Sahili"
+    },
+    "ug": {
+      "official": "كوتىدىۋور",
+      "common": "كوتىدىۋور"
+    },
+    "uk": {
+      "official": "Кот-д'Івуар",
+      "common": "Кот-д'Івуар"
+    },
+    "ve": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "vi": {
+      "official": "Cốt đi-vouă",
+      "common": "Cốt đi-vouă"
+    },
+    "cy": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "wa": {
+      "official": "Coisse d' Ivwere",
+      "common": "Coisse d' Ivwere"
+    },
+    "wo": {
+      "official": "Kot diwaar",
+      "common": "Kot diwaar"
+    },
+    "xh": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "zu": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    }
+  }
+}

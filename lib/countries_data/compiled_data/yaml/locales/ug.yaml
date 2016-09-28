@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: ئافغانىستان
+    common: ئافغانىستان
+  AX:
+    official: ئالاند تاقىم ئاراللىرى
+    common: ئالاند تاقىم ئاراللىرى
+  AL:
+    official: ئالبانىيە
+    common: ئالبانىيە
+  DZ:
+    official: ئالجىرىيە
+    common: ئالجىرىيە
+  AS:
+    official: ئامېرىكىغا قاراشلىق ساموئا
+    common: ئامېرىكىغا قاراشلىق ساموئا
+  AD:
+    official: ئاندوررا
+    common: ئاندوررا
+  AO:
+    official: ئانگولا
+    common: ئانگولا
+  AI:
+    official: ئانگۋىللا
+    common: ئانگۋىللا
+  AQ:
+    official: ئانتاركتىكا
+    common: ئانتاركتىكا
+  AG:
+    official: ئانتىگۋا ۋە باربۇدا
+    common: ئانتىگۋا ۋە باربۇدا
+  AR:
+    official: ئارگېنتىنا
+    common: ئارگېنتىنا
+  AM:
+    official: ئەرمېنىيە
+    common: ئەرمېنىيە
+  AW:
+    official: ئارۇبا
+    common: ئارۇبا
+  AU:
+    official: ئاۋسترالىيە
+    common: ئاۋسترالىيە
+  AT:
+    official: ئاۋسترىيە
+    common: ئاۋسترىيە
+  AZ:
+    official: ئەزەربەيجان
+    common: ئەزەربەيجان
+  BS:
+    official: باھاما ئاراللىرى
+    common: باھاما ئاراللىرى
+  BH:
+    official: بەھرەين
+    common: بەھرەين
+  BD:
+    official: باڭلادىش
+    common: باڭلادىش
+  BB:
+    official: باربادوس
+    common: باربادوس
+  BY:
+    official: بېلارۇسىيە
+    common: بېلارۇسىيە
+  BE:
+    official: بېلگىيە
+    common: بېلگىيە
+  BZ:
+    official: بېلىز
+    common: بېلىز
+  BJ:
+    official: بېنىن
+    common: بېنىن
+  BM:
+    official: بېرمۇدا
+    common: بېرمۇدا
+  BT:
+    official: بۇتان
+    common: بۇتان
+  BO:
+    official: بولىۋىيە كۆپ مىللەتلىك دۆلەت
+    common: بولىۋىيە كۆپ مىللەتلىك دۆلەت
+  BQ:
+    official: بونەر، ساينىت يۇستىفەس ۋە سابا
+    common: بونەر، ساينىت يۇستىفەس ۋە سابا
+  BA:
+    official: بوسنىيە گېرتسېگوۋىنا
+    common: بوسنىيە گېرتسېگوۋىنا
+  BW:
+    official: بوتسۋانا
+    common: بوتسۋانا
+  BV:
+    official: بۇۋېت ئارىلى
+    common: بۇۋېت ئارىلى
+  BR:
+    official: بىرازىلىيە
+    common: بىرازىلىيە
+  IO:
+    official: ئەنگلىيەنىڭ ھىندى ئوكياندىكى زېمىنى
+    common: ئەنگلىيەنىڭ ھىندى ئوكياندىكى زېمىنى
+  BN:
+    official: بىرۇنېي دارېسسالام
+    common: بىرۇنېي دارېسسالام
+  BG:
+    official: بۇلغارىيە
+    common: بۇلغارىيە
+  BF:
+    official: بۇركىنا-فاسو
+    common: بۇركىنا-فاسو
+  BI:
+    official: بۇرۇندى
+    common: بۇرۇندى
+  KH:
+    official: كامبودژا
+    common: كامبودژا
+  CM:
+    official: كامېرون
+    common: كامېرون
+  CA:
+    official: كانادا
+    common: كانادا
+  CV:
+    official: يېشىل تۇمشۇق
+    common: يېشىل تۇمشۇق
+  KY:
+    official: كايمان تاقىم ئاراللىرى
+    common: كايمان تاقىم ئاراللىرى
+  CF:
+    official: ئوتتۇرا ئافرىقا جۇمھۇرىيىتى
+    common: ئوتتۇرا ئافرىقا جۇمھۇرىيىتى
+  TD:
+    official: چاد
+    common: چاد
+  CL:
+    official: چىلى
+    common: چىلى
+  CN:
+    official: جۇڭگو
+    common: جۇڭگو
+  CX:
+    official: روژدېستۋو ئارىلى
+    common: روژدېستۋو ئارىلى
+  CC:
+    official: كوكۇس (كېلىڭ)ئارىلى
+    common: كوكۇس (كېلىڭ)ئارىلى
+  CO:
+    official: كولومبىيە
+    common: كولومبىيە
+  KM:
+    official: كوموروس
+    common: كوموروس
+  CG:
+    official: كونگو
+    common: كونگو
+  CD:
+    official: كونگو دېموكراتىك جۇمھۇرىيىتى
+    common: كونگو دېموكراتىك جۇمھۇرىيىتى
+  CK:
+    official: كۇك ئارىلى
+    common: كۇك ئارىلى
+  CR:
+    official: كوستارىكا
+    common: كوستارىكا
+  CI:
+    official: كوتىدىۋور
+    common: كوتىدىۋور
+  HR:
+    official: كىرودىيە
+    common: كىرودىيە
+  CU:
+    official: كۇبا
+    common: كۇبا
+  CW:
+    official: كۇراسو
+    common: كۇراسو
+  CY:
+    official: سىپرۇس
+    common: سىپرۇس
+  CZ:
+    official: چېخ جۇمھۇرىيىتى
+    common: چېخ جۇمھۇرىيىتى
+  DK:
+    official: دانىيە
+    common: دانىيە
+  DJ:
+    official: جىبۇتى
+    common: جىبۇتى
+  DM:
+    official: دومىنىكا
+    common: دومىنىكا
+  DO:
+    official: دومىنىكا جۇمھۇرىيىتى
+    common: دومىنىكا جۇمھۇرىيىتى
+  EC:
+    official: ئېكۋادور
+    common: ئېكۋادور
+  EG:
+    official: مىسىر
+    common: مىسىر
+  SV:
+    official: سالۋادور
+    common: سالۋادور
+  GQ:
+    official: ئېكۋاتور گىۋىنېيەسى
+    common: ئېكۋاتور گىۋىنېيەسى
+  ER:
+    official: ئېرىترېيە
+    common: ئېرىترېيە
+  EE:
+    official: ئېستونىيە
+    common: ئېستونىيە
+  ET:
+    official: ئېفىيوپىيە
+    common: ئېفىيوپىيە
+  FK:
+    official: فالكلاند تاقىم ئاراللىرى (مالۋىناس)
+    common: فالكلاند تاقىم ئاراللىرى (مالۋىناس)
+  FO:
+    official: فائېرو تاقىم ئاراللىرى (دانىيە)
+    common: فائېرو تاقىم ئاراللىرى (دانىيە)
+  FJ:
+    official: فىجى
+    common: فىجى
+  FI:
+    official: فىنلاندىيە
+    common: فىنلاندىيە
+  FR:
+    official: فىرانسىيە
+    common: فىرانسىيە
+  GF:
+    official: فىرانسىيەگە قاراشلىق گىۋىيانا
+    common: فىرانسىيەگە قاراشلىق گىۋىيانا
+  PF:
+    official: فىرانسىيەگە قاراشلىق پولىنېزىيە
+    common: فىرانسىيەگە قاراشلىق پولىنېزىيە
+  TF:
+    official: فىرانسىيەگە قاراشلىق جەنۇبىي زېمىن
+    common: فىرانسىيەگە قاراشلىق جەنۇبىي زېمىن
+  GA:
+    official: گابون
+    common: گابون
+  GM:
+    official: گامبىيە
+    common: گامبىيە
+  GE:
+    official: گىرۇزىيە
+    common: گىرۇزىيە
+  DE:
+    official: گېرمانىيە
+    common: گېرمانىيە
+  GH:
+    official: گانا
+    common: گانا
+  GI:
+    official: جەبىلتارىق
+    common: جەبىلتارىق
+  GR:
+    official: گىرېتسىيە
+    common: گىرېتسىيە
+  GL:
+    official: گىرېنلاند
+    common: گىرېنلاند
+  GD:
+    official: گىرېنادا
+    common: گىرېنادا
+  GP:
+    official: گىۋادېلۇپ
+    common: گىۋادېلۇپ
+  GU:
+    official: گۇئام
+    common: گۇئام
+  GT:
+    official: گىۋاتېمالا
+    common: گىۋاتېمالا
+  GG:
+    official: گېرىنسى
+    common: گېرىنسى
+  GN:
+    official: گىۋىنېيە
+    common: گىۋىنېيە
+  GW:
+    official: گىۋىنېيە بىسسائۇ
+    common: گىۋىنېيە بىسسائۇ
+  GY:
+    official: گىۋىيانا
+    common: گىۋىيانا
+  HT:
+    official: ھايتى
+    common: ھايتى
+  HM:
+    official: خېرد ئارىلى ۋە ماك-دونالد ئارىلى
+    common: خېرد ئارىلى ۋە ماك-دونالد ئارىلى
+  VA:
+    official: ۋاتىكان
+    common: ۋاتىكان
+  HN:
+    official: ھوندۇراس
+    common: ھوندۇراس
+  HK:
+    official: شياڭگاڭ
+    common: شياڭگاڭ
+  HU:
+    official: ۋېنگىرىيە
+    common: ۋېنگىرىيە
+  IS:
+    official: ئىسلاندىيە
+    common: ئىسلاندىيە
+  IN:
+    official: ھىندىستان
+    common: ھىندىستان
+  ID:
+    official: ھىندونېزىيە
+    common: ھىندونېزىيە
+  IR:
+    official: ئىران ئىسلام جۇمھۇرىيىتى
+    common: ئىران ئىسلام جۇمھۇرىيىتى
+  IQ:
+    official: ئىراق
+    common: ئىراق
+  IE:
+    official: ئىرېلاندىيە
+    common: ئىرېلاندىيە
+  IM:
+    official: مەن ئارىلى
+    common: مەن ئارىلى
+  IL:
+    official: ئىسرائىلىيە
+    common: ئىسرائىلىيە
+  IT:
+    official: ئىتالىيە
+    common: ئىتالىيە
+  JM:
+    official: يامايكا
+    common: يامايكا
+  JP:
+    official: ياپونىيە
+    common: ياپونىيە
+  JE:
+    official: جېرسېي
+    common: جېرسېي
+  JO:
+    official: ئىيوردانىيە
+    common: ئىيوردانىيە
+  KZ:
+    official: قازاقىستان
+    common: قازاقىستان
+  KE:
+    official: كېنىيە
+    common: كېنىيە
+  KI:
+    official: كىرىباتى
+    common: كىرىباتى
+  KP:
+    official: چاۋشيەن
+    common: چاۋشيەن
+  KR:
+    official: كورېيە
+    common: كورېيە
+  KW:
+    official: كۇۋەيت
+    common: كۇۋەيت
+  KG:
+    official: قىرغىزىستان
+    common: قىرغىزىستان
+  LA:
+    official: لائوس خەلق دېموكراتىك جۇمھۇرىيىتى
+    common: لائوس خەلق دېموكراتىك جۇمھۇرىيىتى
+  LV:
+    official: لاتۋىيە
+    common: لاتۋىيە
+  LB:
+    official: لىۋان
+    common: لىۋان
+  LS:
+    official: لېسوتو
+    common: لېسوتو
+  LR:
+    official: لىبېرىيە
+    common: لىبېرىيە
+  LY:
+    official: لىۋىيە
+    common: لىۋىيە
+  LI:
+    official: لىچتېنشتېين
+    common: لىچتېنشتېين
+  LT:
+    official: لىتۋانىيە
+    common: لىتۋانىيە
+  LU:
+    official: لىيۇكسېمبۇرگ
+    common: لىيۇكسېمبۇرگ
+  MO:
+    official: ئاۋمېن
+    common: ئاۋمېن
+  MK:
+    official: ماكېدونىيە جۇمھۇرىيىتى
+    common: ماكېدونىيە جۇمھۇرىيىتى
+  MG:
+    official: ماداغاسقار
+    common: ماداغاسقار
+  MW:
+    official: مالاۋى
+    common: مالاۋى
+  MY:
+    official: مالايشىيا
+    common: مالايشىيا
+  MV:
+    official: مالدىۋې
+    common: مالدىۋې
+  ML:
+    official: مالى
+    common: مالى
+  MT:
+    official: مالتا
+    common: مالتا
+  MH:
+    official: مارشال تاقىم ئارىلى
+    common: مارشال تاقىم ئارىلى
+  MQ:
+    official: مارتىنىكا
+    common: مارتىنىكا
+  MR:
+    official: ماۋرىتانىيە
+    common: ماۋرىتانىيە
+  MU:
+    official: ماۋرىتىئۇس
+    common: ماۋرىتىئۇس
+  YT:
+    official: مايوتتې
+    common: مايوتتې
+  MX:
+    official: مېكسىكا
+    common: مېكسىكا
+  FM:
+    official: مىكرونېزىيە فېدېراتسىيەسى
+    common: مىكرونېزىيە فېدېراتسىيەسى
+  MD:
+    official: مولدوۋا جۇمھۇرىيىتى
+    common: مولدوۋا جۇمھۇرىيىتى
+  MC:
+    official: موناكو
+    common: موناكو
+  MN:
+    official: موڭغۇلىيە
+    common: موڭغۇلىيە
+  ME:
+    official: مونتېنېگرو
+    common: مونتېنېگرو
+  MS:
+    official: مونتسېررات
+    common: مونتسېررات
+  MA:
+    official: ماراكەش
+    common: ماراكەش
+  MZ:
+    official: موزامبىك
+    common: موزامبىك
+  MM:
+    official: بىرما
+    common: بىرما
+  NA:
+    official: نامىبىيە
+    common: نامىبىيە
+  NR:
+    official: ناۋرۇ
+    common: ناۋرۇ
+  NP:
+    official: نېپال
+    common: نېپال
+  NL:
+    official: گوللاندىيە
+    common: گوللاندىيە
+  NC:
+    official: يېڭى كالېدونىيە
+    common: يېڭى كالېدونىيە
+  NZ:
+    official: يېڭى زېلاندىيە
+    common: يېڭى زېلاندىيە
+  NI:
+    official: نىكاراگۇئا
+    common: نىكاراگۇئا
+  NE:
+    official: نىگېر
+    common: نىگېر
+  NG:
+    official: نىگېرىيە
+    common: نىگېرىيە
+  NU:
+    official: نىيۇئې
+    common: نىيۇئې
+  NF:
+    official: نورفولك ئارىلى
+    common: نورفولك ئارىلى
+  MP:
+    official: شىمالىي مارىيانا ئارىلى
+    common: شىمالىي مارىيانا ئارىلى
+  'NO':
+    official: نورۋېگىيە
+    common: نورۋېگىيە
+  OM:
+    official: ئومان
+    common: ئومان
+  PK:
+    official: پاكىستان
+    common: پاكىستان
+  PW:
+    official: پالاۋ
+    common: پالاۋ
+  PS:
+    official: پەلەستىن دۆلىتى
+    common: پەلەستىن دۆلىتى
+  PA:
+    official: پاناما
+    common: پاناما
+  PG:
+    official: پاپۇئا يېڭى گىۋىنېيەسى
+    common: پاپۇئا يېڭى گىۋىنېيەسى
+  PY:
+    official: پاراگۋاي
+    common: پاراگۋاي
+  PE:
+    official: پېرۇ
+    common: پېرۇ
+  PH:
+    official: فىلىپپىن
+    common: فىلىپپىن
+  PN:
+    official: پىتكاير
+    common: پىتكاير
+  PL:
+    official: پولشا
+    common: پولشا
+  PT:
+    official: پورتۇگالىيە
+    common: پورتۇگالىيە
+  PR:
+    official: پۇئېرتو-رىكو
+    common: پۇئېرتو-رىكو
+  QA:
+    official: قاتار
+    common: قاتار
+  RE:
+    official: رېئونىيون
+    common: رېئونىيون
+  RO:
+    official: رۇمىنىيە
+    common: رۇمىنىيە
+  RU:
+    official: رۇسىيە فېدېراتسىيەسى
+    common: رۇسىيە فېدېراتسىيەسى
+  RW:
+    official: رىۋاندا
+    common: رىۋاندا
+  BL:
+    official: ساينىت-بارتھېلەمي
+    common: ساينىت-بارتھېلەمي
+  SH:
+    official: ساينىت ھېلېنا ۋە ئاسسېنسىيون تىرىستان دا كۇنخا
+    common: ساينىت ھېلېنا ۋە ئاسسېنسىيون تىرىستان دا كۇنخا
+  KN:
+    official: ساينىت-كىرىستوفېر ۋە نېۋىس
+    common: ساينىت-كىرىستوفېر ۋە نېۋىس
+  LC:
+    official: ساينىت-لۇسىيە
+    common: ساينىت-لۇسىيە
+  MF:
+    official: ساينىت-مارتېن
+    common: ساينىت-مارتېن
+  PM:
+    official: ساينىت-پىئېر ئارىلى ۋە مىكېلون تاقىم ئاراللىرى
+    common: ساينىت-پىئېر ئارىلى ۋە مىكېلون تاقىم ئاراللىرى
+  VC:
+    official: ساينىت-ۋىنسېنت ۋە گىرېنادىنېس
+    common: ساينىت-ۋىنسېنت ۋە گىرېنادىنېس
+  WS:
+    official: غەربىي ساموئا
+    common: غەربىي ساموئا
+  SM:
+    official: سان-مارىنو
+    common: سان-مارىنو
+  ST:
+    official: سان-تومې ۋە پىرىنسىپى
+    common: سان-تومې ۋە پىرىنسىپى
+  SA:
+    official: سەئۇدى ئەرەبىستان
+    common: سەئۇدى ئەرەبىستان
+  SN:
+    official: سېنېگال
+    common: سېنېگال
+  RS:
+    official: سېربىيە
+    common: سېربىيە
+  SC:
+    official: سېيشېل
+    common: سېيشېل
+  SL:
+    official: سېررالېئون
+    common: سېررالېئون
+  SG:
+    official: سىنگاپور
+    common: سىنگاپور
+  SX:
+    official: سىنت مارتېن(گوللاندىيە بۆلىكى)
+    common: سىنت مارتېن(گوللاندىيە بۆلىكى)
+  SK:
+    official: سىلوۋاكىيە
+    common: سىلوۋاكىيە
+  SI:
+    official: سىلوۋېنىيە
+    common: سىلوۋېنىيە
+  SB:
+    official: سولومون ئارىلى
+    common: سولومون ئارىلى
+  SO:
+    official: سومالى
+    common: سومالى
+  ZA:
+    official: جەنۇبىي ئافرىقا
+    common: جەنۇبىي ئافرىقا
+  GS:
+    official: جەنۇبىي جورجىيە ۋە جەنۇبىي ساندىۋىچ ئارىلى
+    common: جەنۇبىي جورجىيە ۋە جەنۇبىي ساندىۋىچ ئارىلى
+  ES:
+    official: ئىسپانىيە
+    common: ئىسپانىيە
+  LK:
+    official: سىرىلانكا
+    common: سىرىلانكا
+  SD:
+    official: سۇدان
+    common: سۇدان
+  SR:
+    official: سۇرىنام
+    common: سۇرىنام
+  SS:
+    official: جەنۇبىي سۇدان
+    common: جەنۇبىي سۇدان
+  SJ:
+    official: سىۋالبارد تاقىم ئاراللىرى ۋە يان-مايېن ئارىلى
+    common: سىۋالبارد تاقىم ئاراللىرى ۋە يان-مايېن ئارىلى
+  SZ:
+    official: سىۋېزىلاند
+    common: سىۋېزىلاند
+  SE:
+    official: شىۋېتسىيە
+    common: شىۋېتسىيە
+  CH:
+    official: شىۋېيىتسارىيە
+    common: شىۋېيىتسارىيە
+  SY:
+    official: سۈرىيە ئەرەب جۇمھۇرىيىتى
+    common: سۈرىيە ئەرەب جۇمھۇرىيىتى
+  TW:
+    official: تەيۋەن
+    common: تەيۋەن
+  TJ:
+    official: تاجىكىستان
+    common: تاجىكىستان
+  TZ:
+    official: تانزانىيە قوشما جۇمھۇرىيىتى
+    common: تانزانىيە قوشما جۇمھۇرىيىتى
+  TH:
+    official: تايلاند
+    common: تايلاند
+  TL:
+    official: شەرقىي تىمور
+    common: شەرقىي تىمور
+  TG:
+    official: توگو
+    common: توگو
+  TK:
+    official: توكېلاۋ
+    common: توكېلاۋ
+  TO:
+    official: تونگا
+    common: تونگا
+  TT:
+    official: تىرىنىداد ۋە توباگو
+    common: تىرىنىداد ۋە توباگو
+  TN:
+    official: تۇنىس
+    common: تۇنىس
+  TR:
+    official: تۈركىيە
+    common: تۈركىيە
+  TM:
+    official: تۈركمەنىستان
+    common: تۈركمەنىستان
+  TC:
+    official: تۇركس ۋە كايكوس ئارىلى
+    common: تۇركس ۋە كايكوس ئارىلى
+  TV:
+    official: تۇۋالۇ
+    common: تۇۋالۇ
+  UG:
+    official: ئۇگاندا
+    common: ئۇگاندا
+  UA:
+    official: ئۇكرائىنا
+    common: ئۇكرائىنا
+  AE:
+    official: ئەرەب بىرلەشمە خەلىپىلىكى
+    common: ئەرەب بىرلەشمە خەلىپىلىكى
+  GB:
+    official: ئەنگلىيە
+    common: ئەنگلىيە
+  US:
+    official: ئامېرىكا
+    common: ئامېرىكا
+  UM:
+    official: ئامېرىكا قوشما شتاتلىرى سىرتىدىكى ئاراللار
+    common: ئامېرىكا قوشما شتاتلىرى سىرتىدىكى ئاراللار
+  UY:
+    official: ئۇرۇگۋاي
+    common: ئۇرۇگۋاي
+  UZ:
+    official: ئۆزبېكىستان
+    common: ئۆزبېكىستان
+  VU:
+    official: ۋانۇئاتۇ
+    common: ۋانۇئاتۇ
+  VE:
+    official: ۋېنېزۇئېلا جۇمھۇرىيىتى
+    common: ۋېنېزۇئېلا جۇمھۇرىيىتى
+  VN:
+    official: ۋىيېتنام
+    common: ۋىيېتنام
+  VG:
+    official: ئەنگلىيەگە قاراشلىق ۋىرجىن تاقىم ئاراللىرى
+    common: ئەنگلىيەگە قاراشلىق ۋىرجىن تاقىم ئاراللىرى
+  VI:
+    official: ئامېرىكىغا قاراشلىق ۋىرجىن تاقىم ئاراللىرى
+    common: ئامېرىكىغا قاراشلىق ۋىرجىن تاقىم ئاراللىرى
+  WF:
+    official: ۋالىس ۋە فۇتۇنا
+    common: ۋالىس ۋە فۇتۇنا
+  EH:
+    official: غەربىي ساخارا
+    common: غەربىي ساخارا
+  YE:
+    official: يەمەن
+    common: يەمەن
+  ZM:
+    official: زامبىيە
+    common: زامبىيە
+  ZW:
+    official: زىمبابۋې
+    common: زىمبابۋې

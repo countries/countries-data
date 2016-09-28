@@ -1,0 +1,334 @@
+---
+continent: Asia
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: QA
+alpha3: QAT
+country_code: '974'
+international_prefix: '00'
+ioc: QAT
+gec: QA
+name: Qatar
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: None
+number: '634'
+region: Asia
+subregion: Western Asia
+world_region: EMEA
+un_locode: QA
+nationality: Qatari
+postal_code: false
+unofficial_names:
+- Qatar
+- قطر
+- Katar
+- カタール
+languages_official:
+- ar
+languages_spoken:
+- ar
+geo:
+  latitude: 25.354826
+  latitude_dec: '25.413625717163086'
+  longitude: 51.183884
+  longitude_dec: '51.2602653503418'
+  max_latitude: 26.1830926
+  max_longitude: 51.656519
+  min_latitude: 24.471118
+  min_longitude: 50.7327986
+  bounds:
+    northeast:
+      lat: 26.1830926
+      lng: 51.656519
+    southwest:
+      lat: 24.471118
+      lng: 50.7327986
+currency_code: QAR
+postal_address_data:
+  upper: AC
+  id: data/QA
+  key: QA
+  name: QATAR
+translations:
+  af:
+    official: Katar
+    common: Katar
+  sq:
+    official: Katari
+    common: Katari
+  am:
+    official: Qatar
+    common: Qatar
+  ar:
+    official: قطر
+    common: قطر
+  hy:
+    official: Կատար
+    common: Կատար
+  as:
+    official: কাটাৰ
+    common: কাটাৰ
+  az:
+    official: Katar
+    common: Katar
+  eu:
+    official: Qatar
+    common: Qatar
+  be:
+    official: Катар
+    common: Катар
+  bn:
+    official: কাতার
+    common: কাতার
+  bs:
+    official: Katar
+    common: Katar
+  br:
+    official: Qatar
+    common: Qatar
+  bg:
+    official: Катар
+    common: Катар
+  ca:
+    official: Qatar
+    common: Qatar
+  zh:
+    official: 卡塔尔
+    common: 卡塔尔
+  cs:
+    official: Katar
+    common: Katar
+  da:
+    official: Qatar
+    common: Qatar
+  nl:
+    official: Qatar
+    common: Qatar
+  dz:
+    official: ཀ་ཊར།
+    common: ཀ་ཊར།
+  en:
+    official: Qatar
+    common: Qatar
+  eo:
+    official: Kataro
+    common: Kataro
+  et:
+    official: Katar
+    common: Katar
+  fo:
+    official: Katar
+    common: Katar
+  fi:
+    official: Qatar
+    common: Qatar
+  fr:
+    official: Qatar
+    common: Qatar
+  ka:
+    official: კატარი
+    common: კატარი
+  de:
+    official: Katar
+    common: Katar
+  ga:
+    official: Catar
+    common: Catar
+  gl:
+    official: Qatar
+    common: Qatar
+  el:
+    official: Κατάρ
+    common: Κατάρ
+  gu:
+    official: કતાર
+    common: કતાર
+  he:
+    official: קטר
+    common: קטר
+  hi:
+    official: क़तर
+    common: क़तर
+  hr:
+    official: Katar
+    common: Katar
+  hu:
+    official: Katar
+    common: Katar
+  is:
+    official: Katar
+    common: Katar
+  ia:
+    official: Qatar
+    common: Qatar
+  id:
+    official: Qatar
+    common: Qatar
+  it:
+    official: Qatar
+    common: Qatar
+  ja:
+    official: カタール
+    common: カタール
+  kn:
+    official: ಕತಾರ್
+    common: ಕತಾರ್
+  kk:
+    official: Катар
+    common: Катар
+  km:
+    official: កាតារ
+    common: កាតារ
+  rw:
+    official: Katari
+    common: Katari
+  ko:
+    official: 카타르
+    common: 카타르
+  ku:
+    official: Qatar
+    common: Qatar
+  lv:
+    official: Katara
+    common: Katara
+  lt:
+    official: Kataras
+    common: Kataras
+  mk:
+    official: Катар
+    common: Катар
+  ml:
+    official: ഖത്തര്‍
+    common: ഖത്തര്‍
+  mi:
+    official: Qatar
+    common: Qatar
+  mr:
+    official: कतार
+    common: कतार
+  ms:
+    official: Qatar
+    common: Qatar
+  mt:
+    official: Malta
+    common: Malta
+  mn:
+    official: Qatar
+    common: Qatar
+  ne:
+    official: कतार
+    common: कतार
+  nn:
+    official: Qatar
+    common: Qatar
+  nb:
+    official: Qatar
+    common: Qatar
+  oc:
+    official: Qatar
+    common: Qatar
+  or:
+    official: କତାର
+    common: କତାର
+  pa:
+    official: ਕਤਰ
+    common: ਕਤਰ
+  fa:
+    official: قطر
+    common: قطر
+  pl:
+    official: Katar
+    common: Katar
+  pt:
+    official: Quatar
+    common: Quatar
+  ps:
+    official: Qatar
+    common: Qatar
+  ro:
+    official: Qatar
+    common: Qatar
+  ru:
+    official: Катар
+    common: Катар
+  si:
+    official: කටාර්
+    common: කටාර්
+  sk:
+    official: Katar
+    common: Katar
+  sl:
+    official: Katar
+    common: Katar
+  so:
+    official: Qadar
+    common: Qadar
+  es:
+    official: Qatar
+    common: Qatar
+  sr:
+    official: Катар
+    common: Катар
+  sw:
+    official: Qatar
+    common: Qatar
+  sv:
+    official: Qatar
+    common: Qatar
+  ta:
+    official: கதார்
+    common: கதார்
+  tt:
+    official: Катар
+    common: Катар
+  te:
+    official: కతార్
+    common: కతార్
+  tl:
+    official: Qatar
+    common: Qatar
+  th:
+    official: กาตาร์
+    common: กาตาร์
+  ti:
+    official: Qatar
+    common: Qatar
+  tk:
+    official: Katar
+    common: Katar
+  tr:
+    official: Katar
+    common: Katar
+  ug:
+    official: قاتار
+    common: قاتار
+  uk:
+    official: Катар
+    common: Катар
+  ve:
+    official: Qatar
+    common: Qatar
+  vi:
+    official: Ca-tă
+    common: Ca-tă
+  cy:
+    official: Qatar
+    common: Qatar
+  wa:
+    official: Katar
+    common: Katar
+  wo:
+    official: Xatar
+    common: Xatar
+  xh:
+    official: Malta
+    common: Malta
+  zu:
+    official: I-Malta
+    common: I-Malta

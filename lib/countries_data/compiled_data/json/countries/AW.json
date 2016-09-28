@@ -1,0 +1,430 @@
+{
+  "continent": "North America",
+  "alpha2": "AW",
+  "alpha3": "ABW",
+  "country_code": "297",
+  "international_prefix": "00",
+  "ioc": "ARU",
+  "gec": "AA",
+  "name": "Aruba",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7
+  ],
+  "national_prefix": "None",
+  "number": "533",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "AMER",
+  "un_locode": "AW",
+  "nationality": "Aruban",
+  "postal_code": false,
+  "unofficial_names": [
+    "Aruba",
+    "アルバ"
+  ],
+  "languages_official": [
+    "nl"
+  ],
+  "languages_spoken": [
+    "nl"
+  ],
+  "geo": {
+    "latitude": 12.52111,
+    "latitude_dec": "12.506523132324219",
+    "longitude": -69.968338,
+    "longitude_dec": "-69.96931457519531",
+    "max_latitude": 12.623363,
+    "max_longitude": -69.8656548,
+    "min_latitude": 12.4117656,
+    "min_longitude": -70.0660257,
+    "bounds": {
+      "northeast": {
+        "lat": 12.623363,
+        "lng": -69.8656548
+      },
+      "southwest": {
+        "lat": 12.4117656,
+        "lng": -70.0660257
+      }
+    }
+  },
+  "currency_code": "AWG",
+  "postal_address_data": {
+    "id": "data/AW",
+    "key": "AW",
+    "name": "ARUBA"
+  },
+  "translations": {
+    "af": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "sq": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "am": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "ar": {
+      "official": "أروبا",
+      "common": "أروبا"
+    },
+    "hy": {
+      "official": "Արուբա",
+      "common": "Արուբա"
+    },
+    "as": {
+      "official": "আৰুবা",
+      "common": "আৰুবা"
+    },
+    "az": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "eu": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "be": {
+      "official": "Аруба",
+      "common": "Аруба"
+    },
+    "bn": {
+      "official": "আরুবা",
+      "common": "আরুবা"
+    },
+    "bs": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "br": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "bg": {
+      "official": "Аруба",
+      "common": "Аруба"
+    },
+    "ca": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "zh": {
+      "official": "阿鲁巴",
+      "common": "阿鲁巴"
+    },
+    "cs": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "da": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "nl": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "dz": {
+      "official": "ཨ་རུ་བ།",
+      "common": "ཨ་རུ་བ།"
+    },
+    "en": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "eo": {
+      "official": "Arubo",
+      "common": "Arubo"
+    },
+    "et": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "fo": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "fi": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "fr": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "ka": {
+      "official": "არუბა",
+      "common": "არუბა"
+    },
+    "de": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "ga": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "gl": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "el": {
+      "official": "Αρούμπα",
+      "common": "Αρούμπα"
+    },
+    "gu": {
+      "official": "અરૂબા",
+      "common": "અરૂબા"
+    },
+    "he": {
+      "official": "ארובה",
+      "common": "ארובה"
+    },
+    "hi": {
+      "official": "अरूबा",
+      "common": "अरूबा"
+    },
+    "hr": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "hu": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "is": {
+      "official": "Arúba",
+      "common": "Arúba"
+    },
+    "ia": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "id": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "it": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "ja": {
+      "official": "アルーバ",
+      "common": "アルーバ"
+    },
+    "kn": {
+      "official": "ಅರುಬಾ",
+      "common": "ಅರುಬಾ"
+    },
+    "kk": {
+      "official": "Аруба аралдары",
+      "common": "Аруба аралдары"
+    },
+    "km": {
+      "official": "អារូបា",
+      "common": "អារូបា"
+    },
+    "rw": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "ko": {
+      "official": "아루바",
+      "common": "아루바"
+    },
+    "ku": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "lv": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "lt": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "mk": {
+      "official": "Аруба",
+      "common": "Аруба"
+    },
+    "ml": {
+      "official": "അറൂബ",
+      "common": "അറൂബ"
+    },
+    "mi": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "mr": {
+      "official": "अरुबा",
+      "common": "अरुबा"
+    },
+    "ms": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "mt": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "mn": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "ne": {
+      "official": "अरुबा",
+      "common": "अरुबा"
+    },
+    "nn": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "nb": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "oc": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "or": {
+      "official": "ଆଋବା",
+      "common": "ଆଋବା"
+    },
+    "pa": {
+      "official": "ਅਰੂਬਾ",
+      "common": "ਅਰੂਬਾ"
+    },
+    "fa": {
+      "official": "آروبا",
+      "common": "آروبا"
+    },
+    "pl": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "pt": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "ps": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "ro": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "ru": {
+      "official": "Аруба",
+      "common": "Аруба"
+    },
+    "si": {
+      "official": "ඇරූබා",
+      "common": "ඇරූබා"
+    },
+    "sk": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "sl": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "so": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "es": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "sr": {
+      "official": "Аруба",
+      "common": "Аруба"
+    },
+    "sw": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "sv": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "ta": {
+      "official": "அரூபா",
+      "common": "அரூபா"
+    },
+    "tt": {
+      "official": "Аруба",
+      "common": "Аруба"
+    },
+    "te": {
+      "official": "అరుబా",
+      "common": "అరుబా"
+    },
+    "tl": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "th": {
+      "official": "อารูบา",
+      "common": "อารูบา"
+    },
+    "ti": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "tk": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "tr": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "ug": {
+      "official": "ئارۇبا",
+      "common": "ئارۇبا"
+    },
+    "uk": {
+      "official": "Аруба",
+      "common": "Аруба"
+    },
+    "ve": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "vi": {
+      "official": "Ă-ru-ba",
+      "common": "Ă-ru-ba"
+    },
+    "cy": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "wa": {
+      "official": "Arouba",
+      "common": "Arouba"
+    },
+    "wo": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "xh": {
+      "official": "Aruba",
+      "common": "Aruba"
+    },
+    "zu": {
+      "official": "Aruba",
+      "common": "Aruba"
+    }
+  }
+}

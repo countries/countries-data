@@ -1,0 +1,333 @@
+---
+continent: Asia
+alpha2: KH
+alpha3: KHM
+country_code: '855'
+international_prefix: '00'
+ioc: CAM
+gec: CB
+name: Cambodia
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: '0'
+number: '116'
+region: Asia
+subregion: South-Eastern Asia
+world_region: APAC
+un_locode: KH
+nationality: Cambodian
+postal_code: true
+unofficial_names:
+- Cambodia
+- Kambodscha
+- Cambodge
+- Camboya
+- カンボジア
+- Cambodja
+languages_official:
+- km
+languages_spoken:
+- km
+geo:
+  latitude: 12.565679
+  latitude_dec: '12.570423126220703'
+  longitude: 104.990963
+  longitude_dec: '104.81391143798828'
+  max_latitude: 14.690179
+  max_longitude: 107.627687
+  min_latitude: 9.9100275
+  min_longitude: 102.3335419
+  bounds:
+    northeast:
+      lat: 14.690179
+      lng: 107.627687
+    southwest:
+      lat: 9.9100275
+      lng: 102.3335419
+currency_code: KHR
+postal_address_data:
+  zipex: '12203,14206,12000'
+  name: CAMBODIA
+  zip: "\\d{5}"
+  fmt: "%N%n%O%n%A%n%C %Z"
+  key: KH
+  id: data/KH
+translations:
+  af:
+    official: Kambodja
+    common: Kambodja
+  sq:
+    official: Kamboxhia
+    common: Kamboxhia
+  am:
+    official: ጢሤቦ።።
+    common: ጢሤቦ።።
+  ar:
+    official: كمبوديا
+    common: كمبوديا
+  hy:
+    official: Կամբոջա
+    common: Կամբոջա
+  as:
+    official: কম্বোডিয়া
+    common: কম্বোডিয়া
+  az:
+    official: Kambodja
+    common: Kambodja
+  eu:
+    official: Kanbodia
+    common: Kanbodia
+  be:
+    official: Камбоджыя
+    common: Камбоджыя
+  bn:
+    official: ক্যাম্বোডিয়া
+    common: ক্যাম্বোডিয়া
+  bs:
+    official: Kambodža
+    common: Kambodža
+  br:
+    official: Cambodia
+    common: Cambodia
+  bg:
+    official: Камбоджа
+    common: Камбоджа
+  ca:
+    official: Cambodja
+    common: Cambodja
+  zh:
+    official: 柬埔塞
+    common: 柬埔塞
+  cs:
+    official: Kambodža
+    common: Kambodža
+  da:
+    official: Cambodja
+    common: Cambodja
+  nl:
+    official: Cambodja
+    common: Cambodja
+  dz:
+    official: ཀམ་བོ་ཌི་ཡ།
+    common: ཀམ་བོ་ཌི་ཡ།
+  en:
+    official: Cambodia
+    common: Cambodia
+  eo:
+    official: Kamboĝo
+    common: Kamboĝo
+  et:
+    official: Kambodža
+    common: Kambodža
+  fo:
+    official: Kambodja
+    common: Kambodja
+  fi:
+    official: Kambodža
+    common: Kambodža
+  fr:
+    official: Cambodge
+    common: Cambodge
+  ka:
+    official: კამბოჯა
+    common: კამბოჯა
+  de:
+    official: Kambodscha
+    common: Kambodscha
+  ga:
+    official: An Chambóid
+    common: An Chambóid
+  gl:
+    official: Camboxa
+    common: Camboxa
+  el:
+    official: Καμπότζη
+    common: Καμπότζη
+  gu:
+    official: કંબોડિઆ
+    common: કંબોડિઆ
+  he:
+    official: קמבודיה
+    common: קמבודיה
+  hi:
+    official: कम्बोडिया
+    common: कम्बोडिया
+  hr:
+    official: Kambodža
+    common: Kambodža
+  hu:
+    official: Kambodzsa
+    common: Kambodzsa
+  is:
+    official: Kambódía
+    common: Kambódía
+  ia:
+    official: Cambodgia
+    common: Cambodgia
+  id:
+    official: Kamboja
+    common: Kamboja
+  it:
+    official: Cambogia
+    common: Cambogia
+  ja:
+    official: カンボジア
+    common: カンボジア
+  kn:
+    official: ಕಾಂಬೋಡಿಯಾ
+    common: ಕಾಂಬೋಡಿಯಾ
+  kk:
+    official: Камбоджа
+    common: Камбоджа
+  km:
+    official: កម្ពុជា
+    common: កម្ពុជា
+  rw:
+    official: Kambodiya
+    common: Kambodiya
+  ko:
+    official: 캄보디아
+    common: 캄보디아
+  ku:
+    official: Kamboca
+    common: Kamboca
+  lv:
+    official: Kambodža
+    common: Kambodža
+  lt:
+    official: Kambodža
+    common: Kambodža
+  mk:
+    official: Камбоџа
+    common: Камбоџа
+  ml:
+    official: കമ്പോഡിയ
+    common: കമ്പോഡിയ
+  mi:
+    official: Kamapōtia
+    common: Kamapōtia
+  mr:
+    official: कंबोडिया
+    common: कंबोडिया
+  ms:
+    official: Kemboja
+    common: Kemboja
+  mt:
+    official: Kolumbja
+    common: Kolumbja
+  mn:
+    official: Cambodia
+    common: Cambodia
+  ne:
+    official: क्याम्बोडिया
+    common: क्याम्बोडिया
+  nn:
+    official: Kambodsja
+    common: Kambodsja
+  nb:
+    official: Kambodsja
+    common: Kambodsja
+  oc:
+    official: Colòmbia
+    common: Colòmbia
+  or:
+    official: କାମ୍ବୋଡିୟା
+    common: କାମ୍ବୋଡିୟା
+  pa:
+    official: ਕੋਲੰਬੀਆ
+    common: ਕੋਲੰਬੀਆ
+  fa:
+    official: کامبوج
+    common: کامبوج
+  pl:
+    official: Kambodża
+    common: Kambodża
+  pt:
+    official: Cambodja
+    common: Cambodja
+  ps:
+    official: کمبودیا
+    common: کمبودیا
+  ro:
+    official: Cambogia
+    common: Cambogia
+  ru:
+    official: Камбоджа
+    common: Камбоджа
+  si:
+    official: කාම්බෝජියාව
+    common: කාම්බෝජියාව
+  sk:
+    official: Kambodža
+    common: Kambodža
+  sl:
+    official: Kambodža
+    common: Kambodža
+  so:
+    official: Kamboodiya
+    common: Kamboodiya
+  es:
+    official: Camboya
+    common: Camboya
+  sr:
+    official: Камбоџа
+    common: Камбоџа
+  sw:
+    official: Cambodia
+    common: Cambodia
+  sv:
+    official: Kambodja
+    common: Kambodja
+  ta:
+    official: கம்போடியா
+    common: கம்போடியா
+  tt:
+    official: Камбодиа
+    common: Камбодиа
+  te:
+    official: కంబోడియా
+    common: కంబోడియా
+  tl:
+    official: Kambodya
+    common: Kambodya
+  th:
+    official: กัมพูชา
+    common: กัมพูชา
+  ti:
+    official: ካምቦዲያ
+    common: ካምቦዲያ
+  tk:
+    official: Cambodia
+    common: Cambodia
+  tr:
+    official: Kamboçya
+    common: Kamboçya
+  ug:
+    official: كامبودژا
+    common: كامبودژا
+  uk:
+    official: Камбоджа
+    common: Камбоджа
+  ve:
+    official: Cambodia
+    common: Cambodia
+  vi:
+    official: Căm Bốt
+    common: Căm Bốt
+  cy:
+    official: Cambodia
+    common: Cambodia
+  wa:
+    official: Cambodje
+    common: Cambodje
+  wo:
+    official: Kambodia
+    common: Kambodia
+  xh:
+    official: Columbia
+    common: Columbia
+  zu:
+    official: I Kholombiya
+    common: I Kholombiya

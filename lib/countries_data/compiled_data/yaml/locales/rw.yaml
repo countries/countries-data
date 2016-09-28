@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: Afuganisita
+    common: Afuganisita
+  AX:
+    official: Ibirwa by'Alande
+    common: Ibirwa by'Alande
+  AL:
+    official: Alubaniya
+    common: Alubaniya
+  DZ:
+    official: Aligeriya
+    common: Aligeriya
+  AS:
+    official: Samowa Nyamerika
+    common: Samowa Nyamerika
+  AD:
+    official: Andora
+    common: Andora
+  AO:
+    official: Angola
+    common: Angola
+  AI:
+    official: Angwiya
+    common: Angwiya
+  AQ:
+    official: Antarigitika
+    common: Antarigitika
+  AG:
+    official: Antigwa na Barubida
+    common: Antigwa na Barubida
+  AR:
+    official: Arijantina
+    common: Arijantina
+  AM:
+    official: Arumeniya
+    common: Arumeniya
+  AW:
+    official: Aruba
+    common: Aruba
+  AU:
+    official: Ositaraliya
+    common: Ositaraliya
+  AT:
+    official: Ositiriya
+    common: Ositiriya
+  AZ:
+    official: Azeribayijani
+    common: Azeribayijani
+  BS:
+    official: Bahamasi
+    common: Bahamasi
+  BH:
+    official: Bahirayini
+    common: Bahirayini
+  BD:
+    official: Bangaladeshi
+    common: Bangaladeshi
+  BB:
+    official: Barubadosi
+    common: Barubadosi
+  BY:
+    official: Belarusi
+    common: Belarusi
+  BE:
+    official: Ububiligi
+    common: Ububiligi
+  BZ:
+    official: Belize
+    common: Belize
+  BJ:
+    official: Bene
+    common: Bene
+  BM:
+    official: Berimuda
+    common: Berimuda
+  BT:
+    official: Butani
+    common: Butani
+  BO:
+    official: Bolivia, Plurinational State of
+    common: Bolivia, Plurinational State of
+  BQ:
+    official: Bonaire, Sint Eustatius and Saba
+    common: Bonaire, Sint Eustatius and Saba
+  BA:
+    official: Bosiniya na Herizegovina
+    common: Bosiniya na Herizegovina
+  BW:
+    official: Botswana
+    common: Botswana
+  BV:
+    official: Ikirwa cya Bouve
+    common: Ikirwa cya Bouve
+  BR:
+    official: Burezile
+    common: Burezile
+  IO:
+    official: Teritwari y'Inyanja y'Abahinde Nyongereza
+    common: Teritwari y'Inyanja y'Abahinde Nyongereza
+  BN:
+    official: Buruneyi Darisalamu
+    common: Buruneyi Darisalamu
+  BG:
+    official: Buligariya
+    common: Buligariya
+  BF:
+    official: Burukina Faso
+    common: Burukina Faso
+  BI:
+    official: Uburundi
+    common: Uburundi
+  KH:
+    official: Kambodiya
+    common: Kambodiya
+  CM:
+    official: Kameruni
+    common: Kameruni
+  CA:
+    official: Kanada
+    common: Kanada
+  CV:
+    official: Kapu Veri
+    common: Kapu Veri
+  KY:
+    official: Ibirwa bya Kayimani
+    common: Ibirwa bya Kayimani
+  CF:
+    official: Repubulika ya Santara Afurika
+    common: Repubulika ya Santara Afurika
+  TD:
+    official: Cade
+    common: Cade
+  CL:
+    official: Shili
+    common: Shili
+  CN:
+    official: Ubushinwa
+    common: Ubushinwa
+  CX:
+    official: Ikirwa cya Noheli
+    common: Ikirwa cya Noheli
+  CC:
+    official: Ibirwa bya Koko
+    common: Ibirwa bya Koko
+  CO:
+    official: Kolombiya
+    common: Kolombiya
+  KM:
+    official: Komore
+    common: Komore
+  CG:
+    official: Kongo
+    common: Kongo
+  CD:
+    official: Repubulika Iharanira Demokarasi ya Kongo
+    common: Repubulika Iharanira Demokarasi ya Kongo
+  CK:
+    official: Ibirwa bya Kuke
+    common: Ibirwa bya Kuke
+  CR:
+    official: Kosita Rika
+    common: Kosita Rika
+  CI:
+    official: Kote Divuwari
+    common: Kote Divuwari
+  HR:
+    official: Korowatiya
+    common: Korowatiya
+  CU:
+    official: Kiba
+    common: Kiba
+  CW:
+    official: Curaçao
+    common: Curaçao
+  CY:
+    official: Shipure
+    common: Shipure
+  CZ:
+    official: Repubulika ya Ceke
+    common: Repubulika ya Ceke
+  DK:
+    official: Danimarike
+    common: Danimarike
+  DJ:
+    official: Jibuti
+    common: Jibuti
+  DM:
+    official: Dominika
+    common: Dominika
+  DO:
+    official: Repubulika ya Dominikani
+    common: Repubulika ya Dominikani
+  EC:
+    official: Ekwadoro
+    common: Ekwadoro
+  EG:
+    official: Misiri
+    common: Misiri
+  SV:
+    official: Eli Saluvadoro
+    common: Eli Saluvadoro
+  GQ:
+    official: Gineya Ekwatoriyale
+    common: Gineya Ekwatoriyale
+  ER:
+    official: Eritereya
+    common: Eritereya
+  EE:
+    official: Esitoniya
+    common: Esitoniya
+  ET:
+    official: Etiyopiya
+    common: Etiyopiya
+  FK:
+    official: Ibirwa bya Folukilande (Maluvinasi)
+    common: Ibirwa bya Folukilande (Maluvinasi)
+  FO:
+    official: Ibirwa bya Farowe
+    common: Ibirwa bya Farowe
+  FJ:
+    official: Fiji
+    common: Fiji
+  FI:
+    official: Finilande
+    common: Finilande
+  FR:
+    official: Ubufaransa
+    common: Ubufaransa
+  GF:
+    official: Guyane Nyamfaransa
+    common: Guyane Nyamfaransa
+  PF:
+    official: Polinesiya Nyamfaransa
+    common: Polinesiya Nyamfaransa
+  TF:
+    official: Ibihugu by'Amajyepfo Nyamfaransa
+    common: Ibihugu by'Amajyepfo Nyamfaransa
+  GA:
+    official: Gabo
+    common: Gabo
+  GM:
+    official: Gambiya
+    common: Gambiya
+  GE:
+    official: Geworigiya
+    common: Geworigiya
+  DE:
+    official: Ubudage
+    common: Ubudage
+  GH:
+    official: Gana
+    common: Gana
+  GI:
+    official: Giburalitari
+    common: Giburalitari
+  GR:
+    official: Ikigereki
+    common: Ikigereki
+  GL:
+    official: Goronulande
+    common: Goronulande
+  GD:
+    official: Gerenada
+    common: Gerenada
+  GP:
+    official: Gwadelupe
+    common: Gwadelupe
+  GU:
+    official: Gwami
+    common: Gwami
+  GT:
+    official: Gwatemala
+    common: Gwatemala
+  GG:
+    official: Ubudage
+    common: Ubudage
+  GN:
+    official: Gineya
+    common: Gineya
+  GW:
+    official: Guneya-Biso
+    common: Guneya-Biso
+  GY:
+    official: Giyana
+    common: Giyana
+  HT:
+    official: Hayiti
+    common: Hayiti
+  HM:
+    official: Icyirwa Hadi n'Ibirwa MakeDonalidi
+    common: Icyirwa Hadi n'Ibirwa MakeDonalidi
+  VA:
+    official: Inyanja Ntagatifu(Leta y'Umujyi wa Vatikani)
+    common: Inyanja Ntagatifu(Leta y'Umujyi wa Vatikani)
+  HN:
+    official: Hondurasi
+    common: Hondurasi
+  HK:
+    official: Hongo Kongo
+    common: Hongo Kongo
+  HU:
+    official: Hongiriya
+    common: Hongiriya
+  IS:
+    official: Isilande
+    common: Isilande
+  IN:
+    official: Ubuhinde
+    common: Ubuhinde
+  ID:
+    official: Indonesiya
+    common: Indonesiya
+  IR:
+    official: Iran, Repubulika ya Kisilimu
+    common: Iran, Repubulika ya Kisilimu
+  IQ:
+    official: Irake
+    common: Irake
+  IE:
+    official: Irilande
+    common: Irilande
+  IM:
+    official: Isle of Man
+    common: Isle of Man
+  IL:
+    official: Isirayeli
+    common: Isirayeli
+  IT:
+    official: Ubutariyani
+    common: Ubutariyani
+  JM:
+    official: Jamayika
+    common: Jamayika
+  JP:
+    official: Ubuyapani
+    common: Ubuyapani
+  JE:
+    official: Jersey
+    common: Jersey
+  JO:
+    official: Yorudani
+    common: Yorudani
+  KZ:
+    official: Kazakisitani
+    common: Kazakisitani
+  KE:
+    official: Kenya
+    common: Kenya
+  KI:
+    official: Kiribati
+    common: Kiribati
+  KP:
+    official: Koreya, Repubulika Iharanira Demokarasi ya Rubanda ya
+    common: Koreya, Repubulika Iharanira Demokarasi ya Rubanda ya
+  KR:
+    official: Koreya, Repubulika ya
+    common: Koreya, Repubulika ya
+  KW:
+    official: Koweti
+    common: Koweti
+  KG:
+    official: Kirigizasitani
+    common: Kirigizasitani
+  LA:
+    official: Repubulika Iharanira Demokorasi ya Lawosi
+    common: Repubulika Iharanira Demokorasi ya Lawosi
+  LV:
+    official: Lativiya
+    common: Lativiya
+  LB:
+    official: Libani
+    common: Libani
+  LS:
+    official: Lesoto
+    common: Lesoto
+  LR:
+    official: Liberiya
+    common: Liberiya
+  LY:
+    official: Liberiya
+    common: Liberiya
+  LI:
+    official: Liyeshitensiteyine
+    common: Liyeshitensiteyine
+  LT:
+    official: Lituwaniya
+    common: Lituwaniya
+  LU:
+    official: Lugizamburu
+    common: Lugizamburu
+  MO:
+    official: Makawo
+    common: Makawo
+  MK:
+    official: Masedoniya, Repubulika ya
+    common: Masedoniya, Repubulika ya
+  MG:
+    official: Madagasikari
+    common: Madagasikari
+  MW:
+    official: Malawi
+    common: Malawi
+  MY:
+    official: Malesiya
+    common: Malesiya
+  MV:
+    official: Malidivezi
+    common: Malidivezi
+  ML:
+    official: Mali
+    common: Mali
+  MT:
+    official: Malita
+    common: Malita
+  MH:
+    official: Ibirwa bya Marishali
+    common: Ibirwa bya Marishali
+  MQ:
+    official: Maritike
+    common: Maritike
+  MR:
+    official: Moritaniya
+    common: Moritaniya
+  MU:
+    official: Ibirwa bya Morise
+    common: Ibirwa bya Morise
+  YT:
+    official: Mayoti
+    common: Mayoti
+  MX:
+    official: Megizike
+    common: Megizike
+  FM:
+    official: Mikoronesiya, Leta Zishyizehamwe za
+    common: Mikoronesiya, Leta Zishyizehamwe za
+  MD:
+    official: Masedoniya, Repubulika ya
+    common: Masedoniya, Repubulika ya
+  MC:
+    official: Monako
+    common: Monako
+  MN:
+    official: Mongoliya
+    common: Mongoliya
+  ME:
+    official: Seribiya  na Montenegoro
+    common: Seribiya  na Montenegoro
+  MS:
+    official: Monserati
+    common: Monserati
+  MA:
+    official: Maroke
+    common: Maroke
+  MZ:
+    official: Mozambike
+    common: Mozambike
+  MM:
+    official: Mayanimari
+    common: Mayanimari
+  NA:
+    official: Namibiya
+    common: Namibiya
+  NR:
+    official: Nawuru
+    common: Nawuru
+  NP:
+    official: Nepali
+    common: Nepali
+  NL:
+    official: Nederilande
+    common: Nederilande
+  NC:
+    official: Nuveli Kalidoniya
+    common: Nuveli Kalidoniya
+  NZ:
+    official: Nuveli Zelande
+    common: Nuveli Zelande
+  NI:
+    official: Nikaragwa
+    common: Nikaragwa
+  NE:
+    official: Nigeri
+    common: Nigeri
+  NG:
+    official: Nigeriya
+    common: Nigeriya
+  NU:
+    official: Niyuwe
+    common: Niyuwe
+  NF:
+    official: Ibirwa bya Norufoluki
+    common: Ibirwa bya Norufoluki
+  MP:
+    official: Ibirwa bya Mariyana y'Amajyaruguru
+    common: Ibirwa bya Mariyana y'Amajyaruguru
+  'NO':
+    official: Noruveje
+    common: Noruveje
+  OM:
+    official: Omani
+    common: Omani
+  PK:
+    official: Pakisitani
+    common: Pakisitani
+  PW:
+    official: Palawu
+    common: Palawu
+  PS:
+    official: Palestine, State of
+    common: Palestine, State of
+  PA:
+    official: Panama
+    common: Panama
+  PG:
+    official: Papuwa Nuveli Gineya
+    common: Papuwa Nuveli Gineya
+  PY:
+    official: Paragwe
+    common: Paragwe
+  PE:
+    official: Peru
+    common: Peru
+  PH:
+    official: Filipine
+    common: Filipine
+  PN:
+    official: Piticayirine
+    common: Piticayirine
+  PL:
+    official: Polonye
+    common: Polonye
+  PT:
+    official: Porutigali
+    common: Porutigali
+  PR:
+    official: Puwerito Riko
+    common: Puwerito Riko
+  QA:
+    official: Katari
+    common: Katari
+  RE:
+    official: Reyiniyo
+    common: Reyiniyo
+  RO:
+    official: Romaniya
+    common: Romaniya
+  RU:
+    official: Ukwishyirahamwe kw'Uburusiya
+    common: Ukwishyirahamwe kw'Uburusiya
+  RW:
+    official: Rwanda
+    common: Rwanda
+  BL:
+    official: Saint Barthélemy
+    common: Saint Barthélemy
+  SH:
+    official: Saint Helena, Ascension and Tristan da Cunha
+    common: Saint Helena, Ascension and Tristan da Cunha
+  KN:
+    official: Mutagatifu Kitsi na Nevisi
+    common: Mutagatifu Kitsi na Nevisi
+  LC:
+    official: Mutagatifu Lusiya
+    common: Mutagatifu Lusiya
+  MF:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  PM:
+    official: Mutagatifu Petero na Mikeloni
+    common: Mutagatifu Petero na Mikeloni
+  VC:
+    official: Mutagatifu Visenti na Gerenadine
+    common: Mutagatifu Visenti na Gerenadine
+  WS:
+    official: Samowa
+    common: Samowa
+  SM:
+    official: Mutagatifu Marino
+    common: Mutagatifu Marino
+  ST:
+    official: Sawo Tome na Purensipe
+    common: Sawo Tome na Purensipe
+  SA:
+    official: Arabiya Sawudite
+    common: Arabiya Sawudite
+  SN:
+    official: Senegali
+    common: Senegali
+  RS:
+    official: Azeribayijani
+    common: Azeribayijani
+  SC:
+    official: Seyishele
+    common: Seyishele
+  SL:
+    official: Siyera Lewone
+    common: Siyera Lewone
+  SG:
+    official: Singapore
+    common: Singapore
+  SX:
+    official: Sint Maarten (Dutch part)
+    common: Sint Maarten (Dutch part)
+  SK:
+    official: Silovakiya
+    common: Silovakiya
+  SI:
+    official: Siloveniya
+    common: Siloveniya
+  SB:
+    official: Ibirwa bya Solomoni
+    common: Ibirwa bya Solomoni
+  SO:
+    official: Somaliya
+    common: Somaliya
+  ZA:
+    official: Afurika yepfo
+    common: Afurika yepfo
+  GS:
+    official: Geworugiya y'Epfo n'Ibirwa bya Sanduwice y'Epfo
+    common: Geworugiya y'Epfo n'Ibirwa bya Sanduwice y'Epfo
+  ES:
+    official: Esipanye
+    common: Esipanye
+  LK:
+    official: Siri Lanka
+    common: Siri Lanka
+  SD:
+    official: Sudani
+    common: Sudani
+  SR:
+    official: Surinamu
+    common: Surinamu
+  SS:
+    official: Repubulika ya Sudani
+    common: Repubulika ya Sudani
+  SJ:
+    official: Sivalibadi na Jani Mayeni
+    common: Sivalibadi na Jani Mayeni
+  SZ:
+    official: Swazilande
+    common: Swazilande
+  SE:
+    official: Suwede
+    common: Suwede
+  CH:
+    official: Ubusuwisi
+    common: Ubusuwisi
+  SY:
+    official: Repubulika Nyarabu ya Siriya
+    common: Repubulika Nyarabu ya Siriya
+  TW:
+    official: Tayiwani
+    common: Tayiwani
+  TJ:
+    official: Tajikisitani
+    common: Tajikisitani
+  TZ:
+    official: Tanzaniya, Repubulika Yunze Ubumwe ya
+    common: Tanzaniya, Repubulika Yunze Ubumwe ya
+  TH:
+    official: Tayilande
+    common: Tayilande
+  TL:
+    official: Timoro-Lesite
+    common: Timoro-Lesite
+  TG:
+    official: Togo
+    common: Togo
+  TK:
+    official: Tokelawu
+    common: Tokelawu
+  TO:
+    official: Tonga
+    common: Tonga
+  TT:
+    official: Tirinida na Tobago
+    common: Tirinida na Tobago
+  TN:
+    official: Tunisiya
+    common: Tunisiya
+  TR:
+    official: Turukiya
+    common: Turukiya
+  TM:
+    official: Turikimenisitani
+    common: Turikimenisitani
+  TC:
+    official: Ibirwa bya Takisi na Kayikosi
+    common: Ibirwa bya Takisi na Kayikosi
+  TV:
+    official: Tuvalu
+    common: Tuvalu
+  UG:
+    official: Yuganda
+    common: Yuganda
+  UA:
+    official: Ikerene
+    common: Ikerene
+  AE:
+    official: Repubulika Nyarabu Zunze Ubumwe
+    common: Repubulika Nyarabu Zunze Ubumwe
+  GB:
+    official: Ubwongereza (UK)
+    common: Ubwongereza (UK)
+  US:
+    official: Leta Zunze Ubumwe
+    common: Leta Zunze Ubumwe
+  UM:
+    official: Ibirwa Bito Bikikije Leta Zunze Ubumwe
+    common: Ibirwa Bito Bikikije Leta Zunze Ubumwe
+  UY:
+    official: Irigwe
+    common: Irigwe
+  UZ:
+    official: Uzubekisitani
+    common: Uzubekisitani
+  VU:
+    official: Vanuwatu
+    common: Vanuwatu
+  VE:
+    official: Repubulika ya Venezuwela
+    common: Repubulika ya Venezuwela
+  VN:
+    official: Viyetinamu
+    common: Viyetinamu
+  VG:
+    official: Ibirwa bya Virigini, Nyongereza
+    common: Ibirwa bya Virigini, Nyongereza
+  VI:
+    official: Ibirwa bya Virigini, Leta Zunze Ubumwe
+    common: Ibirwa bya Virigini, Leta Zunze Ubumwe
+  WF:
+    official: Walisi na Fatuna
+    common: Walisi na Fatuna
+  EH:
+    official: Sahara y'Uburengerazuba
+    common: Sahara y'Uburengerazuba
+  YE:
+    official: Yemeni
+    common: Yemeni
+  ZM:
+    official: Zambiya
+    common: Zambiya
+  ZW:
+    official: Zimbabwe
+    common: Zimbabwe

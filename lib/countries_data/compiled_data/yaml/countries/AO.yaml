@@ -1,0 +1,326 @@
+---
+continent: Africa
+alpha2: AO
+alpha3: AGO
+country_code: '244'
+international_prefix: '00'
+ioc: ANG
+gec: AO
+name: Angola
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: '0'
+number: '024'
+region: Africa
+subregion: Middle Africa
+world_region: EMEA
+un_locode: AO
+nationality: Angolan
+postal_code: false
+unofficial_names:
+- Angola
+- アンゴラ
+languages_official:
+- pt
+languages_spoken:
+- pt
+geo:
+  latitude: -11.202692
+  latitude_dec: "-12.333555221557617"
+  longitude: 17.873887
+  longitude_dec: '17.539464950561523'
+  max_latitude: -4.387944000000001
+  max_longitude: 24.0878855
+  min_latitude: -18.039104
+  min_longitude: 11.6695619
+  bounds:
+    northeast:
+      lat: -4.387944000000001
+      lng: 24.0878855
+    southwest:
+      lat: -18.039104
+      lng: 11.6695619
+currency_code: AOA
+postal_address_data:
+  id: data/AO
+  key: AO
+  name: ANGOLA
+translations:
+  af:
+    official: Angola
+    common: Angola
+  sq:
+    official: Angola
+    common: Angola
+  am:
+    official: Angola
+    common: Angola
+  ar:
+    official: أنغولا
+    common: أنغولا
+  hy:
+    official: Անգոլա
+    common: Անգոլա
+  as:
+    official: এংগোলা
+    common: এংগোলা
+  az:
+    official: Anqola
+    common: Anqola
+  eu:
+    official: Angola
+    common: Angola
+  be:
+    official: Ангола
+    common: Ангола
+  bn:
+    official: অ্যাঙ্গোলা
+    common: অ্যাঙ্গোলা
+  bs:
+    official: Angola
+    common: Angola
+  br:
+    official: Angola
+    common: Angola
+  bg:
+    official: Ангола
+    common: Ангола
+  ca:
+    official: Angola
+    common: Angola
+  zh:
+    official: 安哥拉
+    common: 安哥拉
+  cs:
+    official: Angola
+    common: Angola
+  da:
+    official: Angola
+    common: Angola
+  nl:
+    official: Angola
+    common: Angola
+  dz:
+    official: ཨེང་གོ་ལ།
+    common: ཨེང་གོ་ལ།
+  en:
+    official: Angola
+    common: Angola
+  eo:
+    official: Angolo
+    common: Angolo
+  et:
+    official: Angola
+    common: Angola
+  fo:
+    official: Angola
+    common: Angola
+  fi:
+    official: Angola
+    common: Angola
+  fr:
+    official: Angola
+    common: Angola
+  ka:
+    official: ანგოლა
+    common: ანგოლა
+  de:
+    official: Angola
+    common: Angola
+  ga:
+    official: Angóla
+    common: Angóla
+  gl:
+    official: Angola
+    common: Angola
+  el:
+    official: Αγκόλα
+    common: Αγκόλα
+  gu:
+    official: અંગોલા
+    common: અંગોલા
+  he:
+    official: אנגולה
+    common: אנגולה
+  hi:
+    official: अंगोला
+    common: अंगोला
+  hr:
+    official: Angola
+    common: Angola
+  hu:
+    official: Angola
+    common: Angola
+  is:
+    official: Angóla
+    common: Angóla
+  ia:
+    official: Angola
+    common: Angola
+  id:
+    official: Angola
+    common: Angola
+  it:
+    official: Angola
+    common: Angola
+  ja:
+    official: アンゴラ
+    common: アンゴラ
+  kn:
+    official: ಅಂಗೋಲಾ
+    common: ಅಂಗೋಲಾ
+  kk:
+    official: Ангола
+    common: Ангола
+  km:
+    official: អង់ហ្គោឡា
+    common: អង់ហ្គោឡា
+  rw:
+    official: Angola
+    common: Angola
+  ko:
+    official: 앙골라
+    common: 앙골라
+  ku:
+    official: Angola
+    common: Angola
+  lv:
+    official: Angola
+    common: Angola
+  lt:
+    official: Angola
+    common: Angola
+  mk:
+    official: Ангола
+    common: Ангола
+  ml:
+    official: അംഗോള
+    common: അംഗോള
+  mi:
+    official: Anakora
+    common: Anakora
+  mr:
+    official: अंगोला
+    common: अंगोला
+  ms:
+    official: Angola
+    common: Angola
+  mt:
+    official: Angola
+    common: Angola
+  mn:
+    official: Ангол
+    common: Ангол
+  ne:
+    official: एनगोला
+    common: एनगोला
+  nn:
+    official: Angola
+    common: Angola
+  nb:
+    official: Angola
+    common: Angola
+  oc:
+    official: Angòla
+    common: Angòla
+  or:
+    official: ଆଙ୍ଗୋଲା
+    common: ଆଙ୍ଗୋଲା
+  pa:
+    official: ਅੰਗੋਲਾ
+    common: ਅੰਗੋਲਾ
+  fa:
+    official: آنگولا
+    common: آنگولا
+  pl:
+    official: Angola
+    common: Angola
+  pt:
+    official: Angola
+    common: Angola
+  ps:
+    official: انګولا
+    common: انګولا
+  ro:
+    official: Angola
+    common: Angola
+  ru:
+    official: Ангола
+    common: Ангола
+  si:
+    official: ඇන්ගෝලාව
+    common: ඇන්ගෝලාව
+  sk:
+    official: Angola
+    common: Angola
+  sl:
+    official: Angola
+    common: Angola
+  so:
+    official: Angoola
+    common: Angoola
+  es:
+    official: Angola
+    common: Angola
+  sr:
+    official: Ангола
+    common: Ангола
+  sw:
+    official: Angola
+    common: Angola
+  sv:
+    official: Angola
+    common: Angola
+  ta:
+    official: அங்கோலா
+    common: அங்கோலா
+  tt:
+    official: Анgола
+    common: Анgола
+  te:
+    official: అంగోలా
+    common: అంగోలా
+  tl:
+    official: Anggola
+    common: Anggola
+  th:
+    official: แองโกลา
+    common: แองโกลา
+  ti:
+    official: Angola
+    common: Angola
+  tk:
+    official: Angola
+    common: Angola
+  tr:
+    official: Angola
+    common: Angola
+  ug:
+    official: ئانگولا
+    common: ئانگولا
+  uk:
+    official: Ангола
+    common: Ангола
+  ve:
+    official: Angola
+    common: Angola
+  vi:
+    official: Ăng-gô-la
+    common: Ăng-gô-la
+  cy:
+    official: Angola
+    common: Angola
+  wa:
+    official: Angola
+    common: Angola
+  wo:
+    official: Angoolaa
+    common: Angoolaa
+  xh:
+    official: Angola
+    common: Angola
+  zu:
+    official: Angola
+    common: Angola

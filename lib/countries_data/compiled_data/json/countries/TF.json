@@ -1,0 +1,435 @@
+{
+  "continent": "Antarctica",
+  "alpha2": "TF",
+  "alpha3": "ATF",
+  "country_code": "",
+  "international_prefix": "",
+  "ioc": null,
+  "gec": "FS",
+  "name": "French Southern Territories",
+  "national_destination_code_lengths": [
+
+  ],
+  "national_number_lengths": [
+
+  ],
+  "national_prefix": "",
+  "number": "260",
+  "region": "",
+  "subregion": "",
+  "un_locode": null,
+  "nationality": "French",
+  "postal_code": false,
+  "world_region": "APAC",
+  "unofficial_names": [
+    "French Southern Territories",
+    "Französische Süd- und Antarktisgebiete",
+    "Terres Australes Françaises",
+    "Territorios Franceses del Sur",
+    "フランス領南方・南極地域",
+    "Franse Gebieden in de zuidelijke Indische Oceaan",
+    "French Southern and Antarctic Lands"
+  ],
+  "languages_official": [
+    "fr"
+  ],
+  "languages_spoken": [
+    "fr"
+  ],
+  "geo": {
+    "latitude": -49.280366,
+    "latitude_dec": "-49.563865661621094",
+    "longitude": 69.348557,
+    "longitude_dec": "69.54277801513672",
+    "max_latitude": -48.4497414,
+    "max_longitude": 70.5566024,
+    "min_latitude": -49.8116117,
+    "min_longitude": 68.6020661,
+    "bounds": {
+      "northeast": {
+        "lat": -48.4497414,
+        "lng": 70.5566024
+      },
+      "southwest": {
+        "lat": -49.8116117,
+        "lng": 68.6020661
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "id": "data/TF",
+    "key": "TF",
+    "name": "FRENCH SOUTHERN TERRITORIES"
+  },
+  "translations": {
+    "af": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "sq": {
+      "official": "Territoret Jugore Franceze",
+      "common": "Territoret Jugore Franceze"
+    },
+    "am": {
+      "official": "ፘፈረንሳ፤ ፠ቡባፁ ጔፒቶኄ",
+      "common": "ፘፈረንሳ፤ ፠ቡባፁ ጔፒቶኄ"
+    },
+    "ar": {
+      "official": "المقاطعات الفرنسيّة الجنوبيّة",
+      "common": "المقاطعات الفرنسيّة الجنوبيّة"
+    },
+    "hy": {
+      "official": "Ֆրանսիական Հարավային Տարածքներ",
+      "common": "Ֆրանսիական Հարավային Տարածքներ"
+    },
+    "as": {
+      "official": "ফ্ৰেঞ্চ দক্ষিণ অঞ্চল",
+      "common": "ফ্ৰেঞ্চ দক্ষিণ অঞ্চল"
+    },
+    "az": {
+      "official": "Cənubi Fransız Sahələri",
+      "common": "Cənubi Fransız Sahələri"
+    },
+    "eu": {
+      "official": "Hegoaldeko Lurralde Frantsesak",
+      "common": "Hegoaldeko Lurralde Frantsesak"
+    },
+    "be": {
+      "official": "Французскія Паўднёвыя Тэрыторыі",
+      "common": "Французскія Паўднёвыя Тэрыторыі"
+    },
+    "bn": {
+      "official": "ফ্রেঞ্চ দক্ষিণ অঞ্চল",
+      "common": "ফ্রেঞ্চ দক্ষিণ অঞ্চল"
+    },
+    "bs": {
+      "official": "Francuske Južne Teritorije",
+      "common": "Francuske Južne Teritorije"
+    },
+    "br": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "bg": {
+      "official": "Френски южни територии",
+      "common": "Френски южни територии"
+    },
+    "ca": {
+      "official": "Territoris Francesos del Sud",
+      "common": "Territoris Francesos del Sud"
+    },
+    "zh": {
+      "official": "法属南半球领地",
+      "common": "法属南半球领地"
+    },
+    "cs": {
+      "official": "Francouzská jižní území",
+      "common": "Francouzská jižní území"
+    },
+    "da": {
+      "official": "Sydlige Franske Territorier",
+      "common": "Sydlige Franske Territorier"
+    },
+    "nl": {
+      "official": "Franse Zuidelijke Gebieden",
+      "common": "Franse Zuidelijke Gebieden"
+    },
+    "dz": {
+      "official": "ཕེརེནཆི་ ལྷོ་ཕྱོགས་དབང་བསྒྱུར་ས་ཁོངས།",
+      "common": "ཕེརེནཆི་ ལྷོ་ཕྱོགས་དབང་བསྒྱུར་ས་ཁོངས།"
+    },
+    "en": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "eo": {
+      "official": "Francaj Sudaj Teritorioj",
+      "common": "Francaj Sudaj Teritorioj"
+    },
+    "et": {
+      "official": "Prantsuse Lõunaalad",
+      "common": "Prantsuse Lõunaalad"
+    },
+    "fo": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "fi": {
+      "official": "Ranskan eteläiset alueet",
+      "common": "Ranskan eteläiset alueet"
+    },
+    "fr": {
+      "official": "Terres australes françaises",
+      "common": "Terres australes françaises"
+    },
+    "ka": {
+      "official": "ფრანგული სამხრეთ ტერიტორიები",
+      "common": "ფრანგული სამხრეთ ტერიტორიები"
+    },
+    "de": {
+      "official": "Französische Süd- und Antarktisgebiete",
+      "common": "Französische Süd- und Antarktisgebiete"
+    },
+    "ga": {
+      "official": "Críocha Francacha Theas",
+      "common": "Críocha Francacha Theas"
+    },
+    "gl": {
+      "official": "Territorios Franceses do Sul",
+      "common": "Territorios Franceses do Sul"
+    },
+    "el": {
+      "official": "Γαλλικά Νότια Εδάφη",
+      "common": "Γαλλικά Νότια Εδάφη"
+    },
+    "gu": {
+      "official": "ફ્રેન્ચ સર્થન ટેરિટરીસ",
+      "common": "ફ્રેન્ચ સર્થન ટેરિટરીસ"
+    },
+    "he": {
+      "official": "הטריטוריות הדרומיות של צרפת",
+      "common": "הטריטוריות הדרומיות של צרפת"
+    },
+    "hi": {
+      "official": "फ्रेंच साउदर्न टेरीटरीज़",
+      "common": "फ्रेंच साउदर्न टेरीटरीज़"
+    },
+    "hr": {
+      "official": "Francuski Južni Teritoriji",
+      "common": "Francuski Južni Teritoriji"
+    },
+    "hu": {
+      "official": "Francia déli területek",
+      "common": "Francia déli területek"
+    },
+    "is": {
+      "official": "Frönsku suðurhafshéruðin",
+      "common": "Frönsku suðurhafshéruðin"
+    },
+    "ia": {
+      "official": "Territorios Austral Francese",
+      "common": "Territorios Austral Francese"
+    },
+    "id": {
+      "official": "Perancis, Wilayah Bagian Selatan",
+      "common": "Perancis, Wilayah Bagian Selatan"
+    },
+    "it": {
+      "official": "Territori meridionali francesi",
+      "common": "Territori meridionali francesi"
+    },
+    "ja": {
+      "official": "フランス南方領土",
+      "common": "フランス南方領土"
+    },
+    "kn": {
+      "official": "ಫ್ರೆಂಚ್ ಸದರ್ನ್ ಟೆರಿಟರೀಸ್",
+      "common": "ಫ್ರೆಂಚ್ ಸದರ್ನ್ ಟೆರಿಟರೀಸ್"
+    },
+    "kk": {
+      "official": "Францияның Солтүстік Аймақтары",
+      "common": "Францияның Солтүстік Аймақтары"
+    },
+    "km": {
+      "official": "អាណាចក្រ​ខាង​ត្បូង​បារាំង",
+      "common": "អាណាចក្រ​ខាង​ត្បូង​បារាំង"
+    },
+    "rw": {
+      "official": "Ibihugu by'Amajyepfo Nyamfaransa",
+      "common": "Ibihugu by'Amajyepfo Nyamfaransa"
+    },
+    "ko": {
+      "official": "프랑스령 남 자치구역",
+      "common": "프랑스령 남 자치구역"
+    },
+    "ku": {
+      "official": "Herêma Basurî ya Fransî",
+      "common": "Herêma Basurî ya Fransî"
+    },
+    "lv": {
+      "official": "Francijas Dienvidjūru Zemes",
+      "common": "Francijas Dienvidjūru Zemes"
+    },
+    "lt": {
+      "official": "Prancūzijos Pietų Sritys",
+      "common": "Prancūzijos Pietų Sritys"
+    },
+    "mk": {
+      "official": "Јужни француски територии",
+      "common": "Јужни француски територии"
+    },
+    "ml": {
+      "official": "ഫ്രഞ്ച് തെക്കന്‍ പ്രദേശങ്ങള്‍",
+      "common": "ഫ്രഞ്ച് തെക്കന്‍ പ്രദേശങ്ങള്‍"
+    },
+    "mi": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "mr": {
+      "official": "फ्रेंच सदर्न टेरिटरीज्",
+      "common": "फ्रेंच सदर्न टेरिटरीज्"
+    },
+    "ms": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "mt": {
+      "official": "Territorji Franċiżi ta' Nofsinhar",
+      "common": "Territorji Franċiżi ta' Nofsinhar"
+    },
+    "mn": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "ne": {
+      "official": "फ्रेन्च दक्षिणी क्षेत्रहरू",
+      "common": "फ्रेन्च दक्षिणी क्षेत्रहरू"
+    },
+    "nn": {
+      "official": "Franske sørlege territorium",
+      "common": "Franske sørlege territorium"
+    },
+    "nb": {
+      "official": "Franske sørlige territorier",
+      "common": "Franske sørlige territorier"
+    },
+    "oc": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "or": {
+      "official": "ଫ୍ରେଞ୍ଚ ଦାକ୍ଷିଣାତ୍ମକ କ୍ଷେତ୍ର",
+      "common": "ଫ୍ରେଞ୍ଚ ଦାକ୍ଷିଣାତ୍ମକ କ୍ଷେତ୍ର"
+    },
+    "pa": {
+      "official": "ਫਰੈਂਚ ਦੱਖਣੀ ਖੇਤਰ",
+      "common": "ਫਰੈਂਚ ਦੱਖਣੀ ਖੇਤਰ"
+    },
+    "fa": {
+      "official": "مستعمره‌های جنوبی فرانسه",
+      "common": "مستعمره‌های جنوبی فرانسه"
+    },
+    "pl": {
+      "official": "Francuskie Terytoria Południowe",
+      "common": "Francuskie Terytoria Południowe"
+    },
+    "pt": {
+      "official": "Territórios Franceses do Sul",
+      "common": "Territórios Franceses do Sul"
+    },
+    "ps": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "ro": {
+      "official": "Teritoriile franceze de sud",
+      "common": "Teritoriile franceze de sud"
+    },
+    "ru": {
+      "official": "Французские южные территории",
+      "common": "Французские южные территории"
+    },
+    "si": {
+      "official": "ප්‍රංශ දකුණු ප්‍රදේශ",
+      "common": "ප්‍රංශ දකුණු ප්‍රදේශ"
+    },
+    "sk": {
+      "official": "Francúzske južné a antarktické územia",
+      "common": "Francúzske južné a antarktické územia"
+    },
+    "sl": {
+      "official": "Francoska južna ozemlja",
+      "common": "Francoska južna ozemlja"
+    },
+    "so": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "es": {
+      "official": "Territorios Franceses del Sur",
+      "common": "Territorios Franceses del Sur"
+    },
+    "sr": {
+      "official": "Француске Јужне Територије",
+      "common": "Француске Јужне Територије"
+    },
+    "sw": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "sv": {
+      "official": "Franska sydterritorierna",
+      "common": "Franska sydterritorierna"
+    },
+    "ta": {
+      "official": "ஃப்ரெஞ்ச் தெற்கு பிரதேசம்",
+      "common": "ஃப்ரெஞ்ச் தெற்கு பிரதேசம்"
+    },
+    "tt": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "te": {
+      "official": "ఫ్రెంచ్ సదర్న టేరిటరీజ్",
+      "common": "ఫ్రెంచ్ సదర్న టేరిటరీజ్"
+    },
+    "tl": {
+      "official": "Teritoryong Hilagang Pranses",
+      "common": "Teritoryong Hilagang Pranses"
+    },
+    "th": {
+      "official": "เฟรนช์เซาเทิร์นเทร์ริทอรีส์",
+      "common": "เฟรนช์เซาเทิร์นเทร์ริทอรีส์"
+    },
+    "ti": {
+      "official": "የፈረንሳይ ደቡባዊ ግዛቶች",
+      "common": "የፈረንሳይ ደቡባዊ ግዛቶች"
+    },
+    "tk": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "tr": {
+      "official": "Fransız Güney Bölgeleri",
+      "common": "Fransız Güney Bölgeleri"
+    },
+    "ug": {
+      "official": "فىرانسىيەگە قاراشلىق جەنۇبىي زېمىن",
+      "common": "فىرانسىيەگە قاراشلىق جەنۇبىي زېمىن"
+    },
+    "uk": {
+      "official": "Французькі Південні Території",
+      "common": "Французькі Південні Території"
+    },
+    "ve": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "vi": {
+      "official": "Miền Nam Pháp",
+      "common": "Miền Nam Pháp"
+    },
+    "cy": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "wa": {
+      "official": "Teritweres francès do sud",
+      "common": "Teritweres francès do sud"
+    },
+    "wo": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "xh": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    },
+    "zu": {
+      "official": "French Southern Territories",
+      "common": "French Southern Territories"
+    }
+  }
+}

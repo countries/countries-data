@@ -1,0 +1,343 @@
+---
+continent: Africa
+alpha2: SO
+alpha3: SOM
+country_code: '252'
+international_prefix: '00'
+ioc: SOM
+gec: SO
+name: Somalia
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+- 8
+national_prefix: None
+number: '706'
+region: Africa
+subregion: Eastern Africa
+world_region: EMEA
+un_locode: SO
+nationality: Somali
+postal_code: false
+unofficial_names:
+- Somalia
+- الصومال
+- ソマリア
+- Somalië
+languages_official:
+- so
+- ar
+languages_spoken:
+- so
+- ar
+geo:
+  latitude: 5.152149
+  latitude_dec: '5.948267459869385'
+  longitude: 46.199616
+  longitude_dec: '47.47360610961914'
+  max_latitude: 11.9886143
+  max_longitude: 51.4130287
+  min_latitude: -1.6620658
+  min_longitude: 40.994373
+  bounds:
+    northeast:
+      lat: 11.9886143
+      lng: 51.4130287
+    southwest:
+      lat: -1.6620658
+      lng: 40.994373
+currency_code: SOS
+postal_address_data:
+  lang: so
+  upper: ACS
+  zipex: JH 09010,AD 11010
+  name: SOMALIA
+  zip: "[A-Z]{2} ?\\d{5}"
+  require: ACS
+  id: data/SO
+  languages: so
+  sub_keys: AD~BK~BN~BR~BY~GG~GD~HR~JD~JH~MD~NG~SG~SD~SH~SL~TG~WG
+  key: SO
+  sub_isoids: AW~BK~BN~BR~BY~GA~GE~HI~JD~JH~MU~NU~SA~SD~SH~SO~TO~WO
+  fmt: "%N%n%O%n%A%n%C, %S %Z"
+  sub_names: Awdal~Bakool~Banaadir~Bari~Bay~Galguduud~Gedo~Hiiraan~Jubbada Dhexe~Jubbada
+    Hoose~Mudug~Nugaal~Sanaag~Shabeellaha Dhexe~Shabeellaha Hoose~Sool~Togdheer~Woqooyi
+    Galbeed
+translations:
+  af:
+    official: Somalië
+    common: Somalië
+  sq:
+    official: Somalia
+    common: Somalia
+  am:
+    official: ሱሢሓ
+    common: ሱሢሓ
+  ar:
+    official: الصّومال
+    common: الصّومال
+  hy:
+    official: Սոմալի
+    common: Սոմալի
+  as:
+    official: ছোমালিয়া
+    common: ছোমালিয়া
+  az:
+    official: Somali
+    common: Somali
+  eu:
+    official: Somalia
+    common: Somalia
+  be:
+    official: Самалі
+    common: Самалі
+  bn:
+    official: সোমালিয়া
+    common: সোমালিয়া
+  bs:
+    official: Somalija
+    common: Somalija
+  br:
+    official: Somalia
+    common: Somalia
+  bg:
+    official: Сомалия
+    common: Сомалия
+  ca:
+    official: Somàlia
+    common: Somàlia
+  zh:
+    official: 索马里
+    common: 索马里
+  cs:
+    official: Somálsko
+    common: Somálsko
+  da:
+    official: Somalia
+    common: Somalia
+  nl:
+    official: Somalië
+    common: Somalië
+  dz:
+    official: སོ་མ་ལི་ཡ།
+    common: སོ་མ་ལི་ཡ།
+  en:
+    official: Somalia
+    common: Somalia
+  eo:
+    official: Somalio
+    common: Somalio
+  et:
+    official: Somaalia
+    common: Somaalia
+  fo:
+    official: Somalia
+    common: Somalia
+  fi:
+    official: Somalia
+    common: Somalia
+  fr:
+    official: Somalie
+    common: Somalie
+  ka:
+    official: სომალი
+    common: სომალი
+  de:
+    official: Somalia
+    common: Somalia
+  ga:
+    official: An tSomáil
+    common: An tSomáil
+  gl:
+    official: Somalia
+    common: Somalia
+  el:
+    official: Σομαλία
+    common: Σομαλία
+  gu:
+    official: સોમાલિયા
+    common: સોમાલિયા
+  he:
+    official: סומליה
+    common: סומליה
+  hi:
+    official: सोमालिया
+    common: सोमालिया
+  hr:
+    official: Somalija
+    common: Somalija
+  hu:
+    official: Szomália
+    common: Szomália
+  is:
+    official: Sómalía
+    common: Sómalía
+  ia:
+    official: Somalia
+    common: Somalia
+  id:
+    official: Somalia
+    common: Somalia
+  it:
+    official: Somalia
+    common: Somalia
+  ja:
+    official: ソマリア
+    common: ソマリア
+  kn:
+    official: ಸೋಮಾಲಿಯಾ
+    common: ಸೋಮಾಲಿಯಾ
+  kk:
+    official: Сомали
+    common: Сомали
+  km:
+    official: សូម៉ាលី
+    common: សូម៉ាលី
+  rw:
+    official: Somaliya
+    common: Somaliya
+  ko:
+    official: 소말리아
+    common: 소말리아
+  ku:
+    official: Somalî
+    common: Somalî
+  lv:
+    official: Somālija
+    common: Somālija
+  lt:
+    official: Somalis
+    common: Somalis
+  mk:
+    official: Сомалија
+    common: Сомалија
+  ml:
+    official: സോമാലിയ
+    common: സോമാലിയ
+  mi:
+    official: Somalia
+    common: Somalia
+  mr:
+    official: सोमालिया
+    common: सोमालिया
+  ms:
+    official: Somalia
+    common: Somalia
+  mt:
+    official: Rumanija
+    common: Rumanija
+  mn:
+    official: Сомали
+    common: Сомали
+  ne:
+    official: सोमालिया
+    common: सोमालिया
+  nn:
+    official: Somalia
+    common: Somalia
+  nb:
+    official: Somalia
+    common: Somalia
+  oc:
+    official: Somalia
+    common: Somalia
+  or:
+    official: ସୋମାଲିୟା
+    common: ସୋମାଲିୟା
+  pa:
+    official: ਸੋਮਾਲੀਆ
+    common: ਸੋਮਾਲੀਆ
+  fa:
+    official: سومالی
+    common: سومالی
+  pl:
+    official: Somalia
+    common: Somalia
+  pt:
+    official: Somália
+    common: Somália
+  ps:
+    official: Somalia
+    common: Somalia
+  ro:
+    official: Somalia
+    common: Somalia
+  ru:
+    official: Сомали
+    common: Сомали
+  si:
+    official: සෝමාලියාව
+    common: සෝමාලියාව
+  sk:
+    official: Somálsko
+    common: Somálsko
+  sl:
+    official: Somalija
+    common: Somalija
+  so:
+    official: Soomaaliya
+    common: Soomaaliya
+  es:
+    official: Somalia
+    common: Somalia
+  sr:
+    official: Сомалија
+    common: Сомалија
+  sw:
+    official: Somalia
+    common: Somalia
+  sv:
+    official: Somalia
+    common: Somalia
+  ta:
+    official: சோமாலியா
+    common: சோமாலியா
+  tt:
+    official: Сомалиа
+    common: Сомалиа
+  te:
+    official: సోమాలియా
+    common: సోమాలియా
+  tl:
+    official: Somalia
+    common: Somalia
+  th:
+    official: โซมาเลีย
+    common: โซมาเลีย
+  ti:
+    official: ሱማሌ
+    common: ሱማሌ
+  tk:
+    official: Somalia
+    common: Somalia
+  tr:
+    official: Somali
+    common: Somali
+  ug:
+    official: سومالى
+    common: سومالى
+  uk:
+    official: Сомалі
+    common: Сомалі
+  ve:
+    official: Somalia
+    common: Somalia
+  vi:
+    official: Xo-ma-li
+    common: Xo-ma-li
+  cy:
+    official: Somalia
+    common: Somalia
+  wa:
+    official: Somaleye
+    common: Somaleye
+  wo:
+    official: Somaali
+    common: Somaali
+  xh:
+    official: Romania
+    common: Romania
+  zu:
+    official: I-Romaniya
+    common: I-Romaniya

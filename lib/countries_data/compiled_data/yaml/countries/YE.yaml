@@ -1,0 +1,336 @@
+---
+continent: Asia
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: YE
+alpha3: YEM
+country_code: '967'
+international_prefix: '00'
+ioc: YEM
+gec: YM
+name: Yemen
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+- 8
+- 9
+national_prefix: '0'
+number: '887'
+region: Asia
+subregion: Western Asia
+world_region: EMEA
+un_locode: YE
+nationality: Yemeni
+postal_code: false
+unofficial_names:
+- Yemen
+- اليمن
+- Jemen
+- Yémen
+- イエメン
+languages_official:
+- ar
+languages_spoken:
+- ar
+geo:
+  latitude: 15.552727
+  latitude_dec: '15.888387680053711'
+  longitude: 48.516388
+  longitude_dec: '47.48988723754883'
+  max_latitude: 18.999633
+  max_longitude: 54.5341245
+  min_latitude: 12.1081762
+  min_longitude: 41.8160552
+  bounds:
+    northeast:
+      lat: 18.999633
+      lng: 54.5341245
+    southwest:
+      lat: 12.1081762
+      lng: 41.8160552
+currency_code: YER
+postal_address_data:
+  id: data/YE
+  key: YE
+  name: YEMEN
+translations:
+  af:
+    official: Jemen
+    common: Jemen
+  sq:
+    official: Yemen
+    common: Yemen
+  am:
+    official: ፘመን
+    common: ፘመን
+  ar:
+    official: اليمن
+    common: اليمن
+  hy:
+    official: Եմեն
+    common: Եմեն
+  as:
+    official: য়েমেন
+    common: য়েমেন
+  az:
+    official: Yəmən
+    common: Yəmən
+  eu:
+    official: Yemen
+    common: Yemen
+  be:
+    official: Емен
+    common: Емен
+  bn:
+    official: ইয়েমেন
+    common: ইয়েমেন
+  bs:
+    official: Jemen
+    common: Jemen
+  br:
+    official: Yemen
+    common: Yemen
+  bg:
+    official: Йемен
+    common: Йемен
+  ca:
+    official: Iemen
+    common: Iemen
+  zh:
+    official: 也门
+    common: 也门
+  cs:
+    official: Jemen
+    common: Jemen
+  da:
+    official: Yemen
+    common: Yemen
+  nl:
+    official: Jemen
+    common: Jemen
+  dz:
+    official: ཡེ་མེན།
+    common: ཡེ་མེན།
+  en:
+    official: Yemen
+    common: Yemen
+  eo:
+    official: Jemeno
+    common: Jemeno
+  et:
+    official: Jeemen
+    common: Jeemen
+  fo:
+    official: Jemen
+    common: Jemen
+  fi:
+    official: Jemen
+    common: Jemen
+  fr:
+    official: Yémen
+    common: Yémen
+  ka:
+    official: იემენი
+    common: იემენი
+  de:
+    official: Jemen
+    common: Jemen
+  ga:
+    official: Éimin
+    common: Éimin
+  gl:
+    official: Iemen
+    common: Iemen
+  el:
+    official: Υεμένη
+    common: Υεμένη
+  gu:
+    official: યમન
+    common: યમન
+  he:
+    official: תימן
+    common: תימן
+  hi:
+    official: यमन
+    common: यमन
+  hr:
+    official: Jemen
+    common: Jemen
+  hu:
+    official: Jemen
+    common: Jemen
+  is:
+    official: Jemen
+    common: Jemen
+  ia:
+    official: Yemen
+    common: Yemen
+  id:
+    official: Yaman
+    common: Yaman
+  it:
+    official: Yemen
+    common: Yemen
+  ja:
+    official: イエメン
+    common: イエメン
+  kn:
+    official: ಯೆಮೆನ್
+    common: ಯೆಮೆನ್
+  kk:
+    official: Йемен
+    common: Йемен
+  km:
+    official: យេមែន
+    common: យេមែន
+  rw:
+    official: Yemeni
+    common: Yemeni
+  ko:
+    official: 예멘
+    common: 예멘
+  ku:
+    official: Yemen
+    common: Yemen
+  lv:
+    official: Jemena
+    common: Jemena
+  lt:
+    official: Jemenas
+    common: Jemenas
+  mk:
+    official: Јемен
+    common: Јемен
+  ml:
+    official: യെമന്‍
+    common: യെമന്‍
+  mi:
+    official: Yemen
+    common: Yemen
+  mr:
+    official: येमेन
+    common: येमेन
+  ms:
+    official: Yaman
+    common: Yaman
+  mt:
+    official: Jemen
+    common: Jemen
+  mn:
+    official: Иемэн
+    common: Иемэн
+  ne:
+    official: येमेन
+    common: येमेन
+  nn:
+    official: Jemen
+    common: Jemen
+  nb:
+    official: Jemen
+    common: Jemen
+  oc:
+    official: Iemèn
+    common: Iemèn
+  or:
+    official: ୟମନ
+    common: ୟମନ
+  pa:
+    official: ਯਮਨ
+    common: ਯਮਨ
+  fa:
+    official: یمن
+    common: یمن
+  pl:
+    official: Jemen
+    common: Jemen
+  pt:
+    official: Yémen
+    common: Yémen
+  ps:
+    official: یمن
+    common: یمن
+  ro:
+    official: Yemen
+    common: Yemen
+  ru:
+    official: Йемен
+    common: Йемен
+  si:
+    official: යේමනය
+    common: යේමනය
+  sk:
+    official: Jemen
+    common: Jemen
+  sl:
+    official: Jemen
+    common: Jemen
+  so:
+    official: Yaman
+    common: Yaman
+  es:
+    official: Yemen
+    common: Yemen
+  sr:
+    official: Јемен
+    common: Јемен
+  sw:
+    official: Yemen
+    common: Yemen
+  sv:
+    official: Yemen
+    common: Yemen
+  ta:
+    official: யேமன்
+    common: யேமன்
+  tt:
+    official: Йемен
+    common: Йемен
+  te:
+    official: యెమెన్
+    common: యెమెన్
+  tl:
+    official: Yemen
+    common: Yemen
+  th:
+    official: เยเมน
+    common: เยเมน
+  ti:
+    official: የመን
+    common: የመን
+  tk:
+    official: Ýemen
+    common: Ýemen
+  tr:
+    official: Yemen
+    common: Yemen
+  ug:
+    official: يەمەن
+    common: يەمەن
+  uk:
+    official: Ємен
+    common: Ємен
+  ve:
+    official: Yemen
+    common: Yemen
+  vi:
+    official: Y-ê-men
+    common: Y-ê-men
+  cy:
+    official: Yemen
+    common: Yemen
+  wa:
+    official: Yemen
+    common: Yemen
+  wo:
+    official: Yaman
+    common: Yaman
+  xh:
+    official: Yemen
+    common: Yemen
+  zu:
+    official: Yemen
+    common: Yemen

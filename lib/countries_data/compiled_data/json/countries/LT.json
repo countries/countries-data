@@ -1,0 +1,451 @@
+{
+  "continent": "Europe",
+  "alpha2": "LT",
+  "alpha3": "LTU",
+  "country_code": "370",
+  "international_prefix": "00",
+  "ioc": "LTU",
+  "gec": "LH",
+  "name": "Lithuania",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "8",
+  "number": "440",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "world_region": "EMEA",
+  "un_locode": "LT",
+  "nationality": "Lithuanian",
+  "eu_member": true,
+  "eea_member": true,
+  "vat_rates": {
+    "standard": 21,
+    "reduced": [
+      5,
+      9
+    ],
+    "super_reduced": null,
+    "parking": null
+  },
+  "postal_code": true,
+  "unofficial_names": [
+    "Lithuania",
+    "Litauen",
+    "Lituanie",
+    "Lituania",
+    "リトアニア",
+    "Litouwen",
+    "Літва"
+  ],
+  "languages_official": [
+    "lt"
+  ],
+  "languages_spoken": [
+    "lt"
+  ],
+  "geo": {
+    "latitude": 55.169438,
+    "latitude_dec": "55.33871841430664",
+    "longitude": 23.881275,
+    "longitude_dec": "23.87092399597168",
+    "max_latitude": 56.45032089999999,
+    "max_longitude": 26.8355914,
+    "min_latitude": 53.89687869999999,
+    "min_longitude": 20.9540118,
+    "bounds": {
+      "northeast": {
+        "lat": 56.45032089999999,
+        "lng": 26.8355914
+      },
+      "southwest": {
+        "lat": 53.89687869999999,
+        "lng": 20.9540118
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "postprefix": "LT-",
+    "zipex": "04340,03500",
+    "name": "LITHUANIA",
+    "zip": "\\d{5}",
+    "fmt": "%O%n%N%n%A%nLT-%Z %C",
+    "key": "LT",
+    "posturl": "http://www.post.lt/lt/?id=316",
+    "id": "data/LT"
+  },
+  "translations": {
+    "af": {
+      "official": "Litoue",
+      "common": "Litoue"
+    },
+    "sq": {
+      "official": "Lituania",
+      "common": "Lituania"
+    },
+    "am": {
+      "official": "ሑቱፃኒ።",
+      "common": "ሑቱፃኒ።"
+    },
+    "ar": {
+      "official": "لثوانيا",
+      "common": "لثوانيا"
+    },
+    "hy": {
+      "official": "Լիտվա",
+      "common": "Լիտվա"
+    },
+    "as": {
+      "official": "লিথুৱানিয়া",
+      "common": "লিথুৱানিয়া"
+    },
+    "az": {
+      "official": "Litva",
+      "common": "Litva"
+    },
+    "eu": {
+      "official": "Lituania",
+      "common": "Lituania"
+    },
+    "be": {
+      "official": "Літва",
+      "common": "Літва"
+    },
+    "bn": {
+      "official": "লিথুয়ানিয়া",
+      "common": "লিথুয়ানিয়া"
+    },
+    "bs": {
+      "official": "Litvanija",
+      "common": "Litvanija"
+    },
+    "br": {
+      "official": "Lithuania",
+      "common": "Lithuania"
+    },
+    "bg": {
+      "official": "Литва",
+      "common": "Литва"
+    },
+    "ca": {
+      "official": "Lituània",
+      "common": "Lituània"
+    },
+    "zh": {
+      "official": "立陶宛",
+      "common": "立陶宛"
+    },
+    "cs": {
+      "official": "Litva",
+      "common": "Litva"
+    },
+    "da": {
+      "official": "Litauen",
+      "common": "Litauen"
+    },
+    "nl": {
+      "official": "Litouwen",
+      "common": "Litouwen"
+    },
+    "dz": {
+      "official": "ལི་ཐུ་ནི་ཡ།",
+      "common": "ལི་ཐུ་ནི་ཡ།"
+    },
+    "en": {
+      "official": "Lithuania",
+      "common": "Lithuania"
+    },
+    "eo": {
+      "official": "Litovio",
+      "common": "Litovio"
+    },
+    "et": {
+      "official": "Leedu",
+      "common": "Leedu"
+    },
+    "fo": {
+      "official": "Litava",
+      "common": "Litava"
+    },
+    "fi": {
+      "official": "Liettua",
+      "common": "Liettua"
+    },
+    "fr": {
+      "official": "Lituanie",
+      "common": "Lituanie"
+    },
+    "ka": {
+      "official": "ლიტვა",
+      "common": "ლიტვა"
+    },
+    "de": {
+      "official": "Litauen",
+      "common": "Litauen"
+    },
+    "ga": {
+      "official": "An Liotuáin",
+      "common": "An Liotuáin"
+    },
+    "gl": {
+      "official": "Lituania",
+      "common": "Lituania"
+    },
+    "el": {
+      "official": "Λιθουανία",
+      "common": "Λιθουανία"
+    },
+    "gu": {
+      "official": "લિથુઆનીઆ",
+      "common": "લિથુઆનીઆ"
+    },
+    "he": {
+      "official": "ליטא",
+      "common": "ליטא"
+    },
+    "hi": {
+      "official": "लिथुआनिया",
+      "common": "लिथुआनिया"
+    },
+    "hr": {
+      "official": "Litva",
+      "common": "Litva"
+    },
+    "hu": {
+      "official": "Litvánia",
+      "common": "Litvánia"
+    },
+    "is": {
+      "official": "Litháen",
+      "common": "Litháen"
+    },
+    "ia": {
+      "official": "Lituania",
+      "common": "Lituania"
+    },
+    "id": {
+      "official": "Lituania",
+      "common": "Lituania"
+    },
+    "it": {
+      "official": "Lituania",
+      "common": "Lituania"
+    },
+    "ja": {
+      "official": "リトアニア",
+      "common": "リトアニア"
+    },
+    "kn": {
+      "official": "ಲಿಥುವೇನಿಯಾ",
+      "common": "ಲಿಥುವೇನಿಯಾ"
+    },
+    "kk": {
+      "official": "Литва",
+      "common": "Литва"
+    },
+    "km": {
+      "official": "លីទុយអានី",
+      "common": "លីទុយអានី"
+    },
+    "rw": {
+      "official": "Lituwaniya",
+      "common": "Lituwaniya"
+    },
+    "ko": {
+      "official": "리투아니아",
+      "common": "리투아니아"
+    },
+    "ku": {
+      "official": "Lîtvanya",
+      "common": "Lîtvanya"
+    },
+    "lv": {
+      "official": "Lietuva",
+      "common": "Lietuva"
+    },
+    "lt": {
+      "official": "Lietuva",
+      "common": "Lietuva"
+    },
+    "mk": {
+      "official": "Литванија",
+      "common": "Литванија"
+    },
+    "ml": {
+      "official": "ലിത്വാനിയ",
+      "common": "ലിത്വാനിയ"
+    },
+    "mi": {
+      "official": "Rituānia",
+      "common": "Rituānia"
+    },
+    "mr": {
+      "official": "लिथुआनिया",
+      "common": "लिथुआनिया"
+    },
+    "ms": {
+      "official": "Lithuania",
+      "common": "Lithuania"
+    },
+    "mt": {
+      "official": "Litwanja",
+      "common": "Litwanja"
+    },
+    "mn": {
+      "official": "Lithuania",
+      "common": "Lithuania"
+    },
+    "ne": {
+      "official": "लिथुआनिया",
+      "common": "लिथुआनिया"
+    },
+    "nn": {
+      "official": "Litauen",
+      "common": "Litauen"
+    },
+    "nb": {
+      "official": "Litauen",
+      "common": "Litauen"
+    },
+    "oc": {
+      "official": "Lituània",
+      "common": "Lituània"
+    },
+    "or": {
+      "official": "ଲିଥୁଆନିୟା",
+      "common": "ଲିଥୁଆନିୟା"
+    },
+    "pa": {
+      "official": "ਲੀਥੂਨੀਆ",
+      "common": "ਲੀਥੂਨੀਆ"
+    },
+    "fa": {
+      "official": "لیتوانی",
+      "common": "لیتوانی"
+    },
+    "pl": {
+      "official": "Litwa",
+      "common": "Litwa"
+    },
+    "pt": {
+      "official": "Lituânia",
+      "common": "Lituânia"
+    },
+    "ps": {
+      "official": "Lithuania",
+      "common": "Lithuania"
+    },
+    "ro": {
+      "official": "Lituania",
+      "common": "Lituania"
+    },
+    "ru": {
+      "official": "Литва",
+      "common": "Литва"
+    },
+    "si": {
+      "official": "ලිතුවේනියාව",
+      "common": "ලිතුවේනියාව"
+    },
+    "sk": {
+      "official": "Litva",
+      "common": "Litva"
+    },
+    "sl": {
+      "official": "Litva",
+      "common": "Litva"
+    },
+    "so": {
+      "official": "Lithuania",
+      "common": "Lithuania"
+    },
+    "es": {
+      "official": "Lituania",
+      "common": "Lituania"
+    },
+    "sr": {
+      "official": "Литванија",
+      "common": "Литванија"
+    },
+    "sw": {
+      "official": "Lithuania",
+      "common": "Lithuania"
+    },
+    "sv": {
+      "official": "Litauen",
+      "common": "Litauen"
+    },
+    "ta": {
+      "official": "லிதுவேனியா",
+      "common": "லிதுவேனியா"
+    },
+    "tt": {
+      "official": "Литуаниа",
+      "common": "Литуаниа"
+    },
+    "te": {
+      "official": "లిథుఆనియా",
+      "common": "లిథుఆనియా"
+    },
+    "tl": {
+      "official": "Lithuania",
+      "common": "Lithuania"
+    },
+    "th": {
+      "official": "ลิทัวเนีย",
+      "common": "ลิทัวเนีย"
+    },
+    "ti": {
+      "official": "ሊቱዌኒያ",
+      "common": "ሊቱዌኒያ"
+    },
+    "tk": {
+      "official": "Litwiýa",
+      "common": "Litwiýa"
+    },
+    "tr": {
+      "official": "Litvanya",
+      "common": "Litvanya"
+    },
+    "ug": {
+      "official": "لىتۋانىيە",
+      "common": "لىتۋانىيە"
+    },
+    "uk": {
+      "official": "Литва",
+      "common": "Литва"
+    },
+    "ve": {
+      "official": "Lithuania",
+      "common": "Lithuania"
+    },
+    "vi": {
+      "official": "Li-tu-a-ni-a",
+      "common": "Li-tu-a-ni-a"
+    },
+    "cy": {
+      "official": "Lithwania",
+      "common": "Lithwania"
+    },
+    "wa": {
+      "official": "Litwaneye",
+      "common": "Litwaneye"
+    },
+    "wo": {
+      "official": "Lituwaani",
+      "common": "Lituwaani"
+    },
+    "xh": {
+      "official": "Lithuania",
+      "common": "Lithuania"
+    },
+    "zu": {
+      "official": "I-Lithuwaniya",
+      "common": "I-Lithuwaniya"
+    }
+  }
+}

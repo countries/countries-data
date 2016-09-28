@@ -1,0 +1,1000 @@
+{
+  "names": {
+    "AF": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "AX": {
+      "official": "Álandseyjar",
+      "common": "Álandseyjar"
+    },
+    "AL": {
+      "official": "Albanía",
+      "common": "Albanía"
+    },
+    "DZ": {
+      "official": "Alsír",
+      "common": "Alsír"
+    },
+    "AS": {
+      "official": "Bandarísku Samóaeyjar",
+      "common": "Bandarísku Samóaeyjar"
+    },
+    "AD": {
+      "official": "Andorra",
+      "common": "Andorra"
+    },
+    "AO": {
+      "official": "Angóla",
+      "common": "Angóla"
+    },
+    "AI": {
+      "official": "Angvíla",
+      "common": "Angvíla"
+    },
+    "AQ": {
+      "official": "Suðurskautslandið",
+      "common": "Suðurskautslandið"
+    },
+    "AG": {
+      "official": "Antigúa og Barbúda",
+      "common": "Antigúa og Barbúda"
+    },
+    "AR": {
+      "official": "Argentína",
+      "common": "Argentína"
+    },
+    "AM": {
+      "official": "Armenía",
+      "common": "Armenía"
+    },
+    "AW": {
+      "official": "Arúba",
+      "common": "Arúba"
+    },
+    "AU": {
+      "official": "Ástralía",
+      "common": "Ástralía"
+    },
+    "AT": {
+      "official": "Austurríki",
+      "common": "Austurríki"
+    },
+    "AZ": {
+      "official": "Aserbaídsjan",
+      "common": "Aserbaídsjan"
+    },
+    "BS": {
+      "official": "Bahamaeyjar",
+      "common": "Bahamaeyjar"
+    },
+    "BH": {
+      "official": "Barein",
+      "common": "Barein"
+    },
+    "BD": {
+      "official": "Bangladess",
+      "common": "Bangladess"
+    },
+    "BB": {
+      "official": "Barbados",
+      "common": "Barbados"
+    },
+    "BY": {
+      "official": "Hvítarússland",
+      "common": "Hvítarússland"
+    },
+    "BE": {
+      "official": "Belgía",
+      "common": "Belgía"
+    },
+    "BZ": {
+      "official": "Belís",
+      "common": "Belís"
+    },
+    "BJ": {
+      "official": "Benín",
+      "common": "Benín"
+    },
+    "BM": {
+      "official": "Bermúda",
+      "common": "Bermúda"
+    },
+    "BT": {
+      "official": "Bútan",
+      "common": "Bútan"
+    },
+    "BO": {
+      "official": "Bólivía, fjölþjóðaríkið",
+      "common": "Bólivía, fjölþjóðaríkið"
+    },
+    "BQ": {
+      "official": "Bonaire, Sankti Eustatius og Saba",
+      "common": "Bonaire, Sankti Eustatius og Saba"
+    },
+    "BA": {
+      "official": "Bosnía og Herzegóvína",
+      "common": "Bosnía og Herzegóvína"
+    },
+    "BW": {
+      "official": "Botsvana",
+      "common": "Botsvana"
+    },
+    "BV": {
+      "official": "Bouvet eyja",
+      "common": "Bouvet eyja"
+    },
+    "BR": {
+      "official": "Brasilía",
+      "common": "Brasilía"
+    },
+    "IO": {
+      "official": "Bresku Indlandshafseyjar",
+      "common": "Bresku Indlandshafseyjar"
+    },
+    "BN": {
+      "official": "Brúnei Darussalam",
+      "common": "Brúnei Darussalam"
+    },
+    "BG": {
+      "official": "Búlgaría",
+      "common": "Búlgaría"
+    },
+    "BF": {
+      "official": "Búrkína Fasó",
+      "common": "Búrkína Fasó"
+    },
+    "BI": {
+      "official": "Búrúndí",
+      "common": "Búrúndí"
+    },
+    "KH": {
+      "official": "Kambódía",
+      "common": "Kambódía"
+    },
+    "CM": {
+      "official": "Kamerún",
+      "common": "Kamerún"
+    },
+    "CA": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "CV": {
+      "official": "Grænhöfðaeyjar",
+      "common": "Grænhöfðaeyjar"
+    },
+    "KY": {
+      "official": "Cayman-eyjar",
+      "common": "Cayman-eyjar"
+    },
+    "CF": {
+      "official": "Miðafríkulýðveldið",
+      "common": "Miðafríkulýðveldið"
+    },
+    "TD": {
+      "official": "Tsjad",
+      "common": "Tsjad"
+    },
+    "CL": {
+      "official": "Síle",
+      "common": "Síle"
+    },
+    "CN": {
+      "official": "Kína",
+      "common": "Kína"
+    },
+    "CX": {
+      "official": "Jólaeyja",
+      "common": "Jólaeyja"
+    },
+    "CC": {
+      "official": "Kókoseyjar (Keeling-eyjar)",
+      "common": "Kókoseyjar (Keeling-eyjar)"
+    },
+    "CO": {
+      "official": "Kólumbía",
+      "common": "Kólumbía"
+    },
+    "KM": {
+      "official": "Kómoreyjar",
+      "common": "Kómoreyjar"
+    },
+    "CG": {
+      "official": "Kongó",
+      "common": "Kongó"
+    },
+    "CD": {
+      "official": "Kongó, sambandslýðveldið",
+      "common": "Kongó, sambandslýðveldið"
+    },
+    "CK": {
+      "official": "Cook-eyjar",
+      "common": "Cook-eyjar"
+    },
+    "CR": {
+      "official": "Kosta Ríka",
+      "common": "Kosta Ríka"
+    },
+    "CI": {
+      "official": "Fílabeinsströnd",
+      "common": "Fílabeinsströnd"
+    },
+    "HR": {
+      "official": "Króatía",
+      "common": "Króatía"
+    },
+    "CU": {
+      "official": "Kúba",
+      "common": "Kúba"
+    },
+    "CW": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "CY": {
+      "official": "Kýpur",
+      "common": "Kýpur"
+    },
+    "CZ": {
+      "official": "Lýðveldið Tékkland",
+      "common": "Lýðveldið Tékkland"
+    },
+    "DK": {
+      "official": "Danmörk",
+      "common": "Danmörk"
+    },
+    "DJ": {
+      "official": "Djíbútí",
+      "common": "Djíbútí"
+    },
+    "DM": {
+      "official": "Dóminíka",
+      "common": "Dóminíka"
+    },
+    "DO": {
+      "official": "Lýðveldið Dóminíka",
+      "common": "Lýðveldið Dóminíka"
+    },
+    "EC": {
+      "official": "Ekvador",
+      "common": "Ekvador"
+    },
+    "EG": {
+      "official": "Egyptaland",
+      "common": "Egyptaland"
+    },
+    "SV": {
+      "official": "El Salvador",
+      "common": "El Salvador"
+    },
+    "GQ": {
+      "official": "Miðbaugs-Gínea",
+      "common": "Miðbaugs-Gínea"
+    },
+    "ER": {
+      "official": "Erítrea",
+      "common": "Erítrea"
+    },
+    "EE": {
+      "official": "Eistland",
+      "common": "Eistland"
+    },
+    "ET": {
+      "official": "Eþíópía",
+      "common": "Eþíópía"
+    },
+    "FK": {
+      "official": "Falklandseyjar (Malvinaeyjar)",
+      "common": "Falklandseyjar (Malvinaeyjar)"
+    },
+    "FO": {
+      "official": "Færeyjar",
+      "common": "Færeyjar"
+    },
+    "FJ": {
+      "official": "Fídjieyjar",
+      "common": "Fídjieyjar"
+    },
+    "FI": {
+      "official": "Finnland",
+      "common": "Finnland"
+    },
+    "FR": {
+      "official": "Frakkland",
+      "common": "Frakkland"
+    },
+    "GF": {
+      "official": "Franska Gvæjana",
+      "common": "Franska Gvæjana"
+    },
+    "PF": {
+      "official": "Franska Pólýnesía",
+      "common": "Franska Pólýnesía"
+    },
+    "TF": {
+      "official": "Frönsku suðurhafshéruðin",
+      "common": "Frönsku suðurhafshéruðin"
+    },
+    "GA": {
+      "official": "Gabon",
+      "common": "Gabon"
+    },
+    "GM": {
+      "official": "Gambía",
+      "common": "Gambía"
+    },
+    "GE": {
+      "official": "Georgía",
+      "common": "Georgía"
+    },
+    "DE": {
+      "official": "Þýskaland",
+      "common": "Þýskaland"
+    },
+    "GH": {
+      "official": "Gana",
+      "common": "Gana"
+    },
+    "GI": {
+      "official": "Gíbraltar",
+      "common": "Gíbraltar"
+    },
+    "GR": {
+      "official": "Grikkland",
+      "common": "Grikkland"
+    },
+    "GL": {
+      "official": "Grænland",
+      "common": "Grænland"
+    },
+    "GD": {
+      "official": "Grenada",
+      "common": "Grenada"
+    },
+    "GP": {
+      "official": "Gvadalúp",
+      "common": "Gvadalúp"
+    },
+    "GU": {
+      "official": "Gvam",
+      "common": "Gvam"
+    },
+    "GT": {
+      "official": "Gvatemala",
+      "common": "Gvatemala"
+    },
+    "GG": {
+      "official": "Guernsey",
+      "common": "Guernsey"
+    },
+    "GN": {
+      "official": "Gínea",
+      "common": "Gínea"
+    },
+    "GW": {
+      "official": "Gínea-Bissá",
+      "common": "Gínea-Bissá"
+    },
+    "GY": {
+      "official": "Gvæjana",
+      "common": "Gvæjana"
+    },
+    "HT": {
+      "official": "Haítí",
+      "common": "Haítí"
+    },
+    "HM": {
+      "official": "Heard-eyja og McDonald-eyjur",
+      "common": "Heard-eyja og McDonald-eyjur"
+    },
+    "VA": {
+      "official": "Borgríkið Vatíkanið",
+      "common": "Borgríkið Vatíkanið"
+    },
+    "HN": {
+      "official": "Hondúras",
+      "common": "Hondúras"
+    },
+    "HK": {
+      "official": "Hong Kong",
+      "common": "Hong Kong"
+    },
+    "HU": {
+      "official": "Ungverjaland",
+      "common": "Ungverjaland"
+    },
+    "IS": {
+      "official": "Ísland",
+      "common": "Ísland"
+    },
+    "IN": {
+      "official": "Indland",
+      "common": "Indland"
+    },
+    "ID": {
+      "official": "Indónesía",
+      "common": "Indónesía"
+    },
+    "IR": {
+      "official": "Íran, íslamska lýðveldið",
+      "common": "Íran, íslamska lýðveldið"
+    },
+    "IQ": {
+      "official": "Írak",
+      "common": "Írak"
+    },
+    "IE": {
+      "official": "Írland",
+      "common": "Írland"
+    },
+    "IM": {
+      "official": "Eyjan Mön",
+      "common": "Eyjan Mön"
+    },
+    "IL": {
+      "official": "Ísrael",
+      "common": "Ísrael"
+    },
+    "IT": {
+      "official": "Ítalía",
+      "common": "Ítalía"
+    },
+    "JM": {
+      "official": "Jamaíka",
+      "common": "Jamaíka"
+    },
+    "JP": {
+      "official": "Japan",
+      "common": "Japan"
+    },
+    "JE": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "JO": {
+      "official": "Jórdanía",
+      "common": "Jórdanía"
+    },
+    "KZ": {
+      "official": "Kasakstan",
+      "common": "Kasakstan"
+    },
+    "KE": {
+      "official": "Kenía",
+      "common": "Kenía"
+    },
+    "KI": {
+      "official": "Kíribatí",
+      "common": "Kíribatí"
+    },
+    "KP": {
+      "official": "Norður-Kórea, sambandsalþýðulýðveldið",
+      "common": "Norður-Kórea, sambandsalþýðulýðveldið"
+    },
+    "KR": {
+      "official": "Lýðveldið Suður-Kórea",
+      "common": "Lýðveldið Suður-Kórea"
+    },
+    "KW": {
+      "official": "Kúveit",
+      "common": "Kúveit"
+    },
+    "KG": {
+      "official": "Kirgisistan",
+      "common": "Kirgisistan"
+    },
+    "LA": {
+      "official": "Alþýðulýðveldið Laó",
+      "common": "Alþýðulýðveldið Laó"
+    },
+    "LV": {
+      "official": "Lettland",
+      "common": "Lettland"
+    },
+    "LB": {
+      "official": "Líbanon",
+      "common": "Líbanon"
+    },
+    "LS": {
+      "official": "Lesótó",
+      "common": "Lesótó"
+    },
+    "LR": {
+      "official": "Líbería",
+      "common": "Líbería"
+    },
+    "LY": {
+      "official": "Líbýa",
+      "common": "Líbýa"
+    },
+    "LI": {
+      "official": "Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "LT": {
+      "official": "Litháen",
+      "common": "Litháen"
+    },
+    "LU": {
+      "official": "Lúxemborg",
+      "common": "Lúxemborg"
+    },
+    "MO": {
+      "official": "Makaó",
+      "common": "Makaó"
+    },
+    "MK": {
+      "official": "Lýðveldið Makedónía",
+      "common": "Lýðveldið Makedónía"
+    },
+    "MG": {
+      "official": "Madagaskar",
+      "common": "Madagaskar"
+    },
+    "MW": {
+      "official": "Malaví",
+      "common": "Malaví"
+    },
+    "MY": {
+      "official": "Malasía",
+      "common": "Malasía"
+    },
+    "MV": {
+      "official": "Maldíveyjar",
+      "common": "Maldíveyjar"
+    },
+    "ML": {
+      "official": "Malí",
+      "common": "Malí"
+    },
+    "MT": {
+      "official": "Malta",
+      "common": "Malta"
+    },
+    "MH": {
+      "official": "Marshalleyjar",
+      "common": "Marshalleyjar"
+    },
+    "MQ": {
+      "official": "Martiník",
+      "common": "Martiník"
+    },
+    "MR": {
+      "official": "Máritanía",
+      "common": "Máritanía"
+    },
+    "MU": {
+      "official": "Máritus",
+      "common": "Máritus"
+    },
+    "YT": {
+      "official": "Mayott",
+      "common": "Mayott"
+    },
+    "MX": {
+      "official": "Mexíkó",
+      "common": "Mexíkó"
+    },
+    "FM": {
+      "official": "Míkrónesía, Sambandsríki",
+      "common": "Míkrónesía, Sambandsríki"
+    },
+    "MD": {
+      "official": "Moldóvíska lýðveldið",
+      "common": "Moldóvíska lýðveldið"
+    },
+    "MC": {
+      "official": "Mónakó",
+      "common": "Mónakó"
+    },
+    "MN": {
+      "official": "Mongólía",
+      "common": "Mongólía"
+    },
+    "ME": {
+      "official": "Svartfjallaland",
+      "common": "Svartfjallaland"
+    },
+    "MS": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "MA": {
+      "official": "Marokkó",
+      "common": "Marokkó"
+    },
+    "MZ": {
+      "official": "Mósambík",
+      "common": "Mósambík"
+    },
+    "MM": {
+      "official": "Mjanmar",
+      "common": "Mjanmar"
+    },
+    "NA": {
+      "official": "Namibía",
+      "common": "Namibía"
+    },
+    "NR": {
+      "official": "Nárú",
+      "common": "Nárú"
+    },
+    "NP": {
+      "official": "Nepal",
+      "common": "Nepal"
+    },
+    "NL": {
+      "official": "Holland",
+      "common": "Holland"
+    },
+    "NC": {
+      "official": "Nýja Kaledónía",
+      "common": "Nýja Kaledónía"
+    },
+    "NZ": {
+      "official": "Nýja Sjáland",
+      "common": "Nýja Sjáland"
+    },
+    "NI": {
+      "official": "Níkaragva",
+      "common": "Níkaragva"
+    },
+    "NE": {
+      "official": "Níger",
+      "common": "Níger"
+    },
+    "NG": {
+      "official": "Nígería",
+      "common": "Nígería"
+    },
+    "NU": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "NF": {
+      "official": "Norfolkeyja",
+      "common": "Norfolkeyja"
+    },
+    "MP": {
+      "official": "Norður-Maríanaeyjar",
+      "common": "Norður-Maríanaeyjar"
+    },
+    "NO": {
+      "official": "Noregur",
+      "common": "Noregur"
+    },
+    "OM": {
+      "official": "Óman",
+      "common": "Óman"
+    },
+    "PK": {
+      "official": "Pakistan",
+      "common": "Pakistan"
+    },
+    "PW": {
+      "official": "Palá",
+      "common": "Palá"
+    },
+    "PS": {
+      "official": "Palestína",
+      "common": "Palestína"
+    },
+    "PA": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "PG": {
+      "official": "Papúa Nýja-Gínea",
+      "common": "Papúa Nýja-Gínea"
+    },
+    "PY": {
+      "official": "Paragvæ",
+      "common": "Paragvæ"
+    },
+    "PE": {
+      "official": "Perú",
+      "common": "Perú"
+    },
+    "PH": {
+      "official": "Filippseyjar",
+      "common": "Filippseyjar"
+    },
+    "PN": {
+      "official": "Pitkairn-eyja",
+      "common": "Pitkairn-eyja"
+    },
+    "PL": {
+      "official": "Pólland",
+      "common": "Pólland"
+    },
+    "PT": {
+      "official": "Portúgal",
+      "common": "Portúgal"
+    },
+    "PR": {
+      "official": "Puerto Ríko",
+      "common": "Puerto Ríko"
+    },
+    "QA": {
+      "official": "Katar",
+      "common": "Katar"
+    },
+    "RE": {
+      "official": "Réunion",
+      "common": "Réunion"
+    },
+    "RO": {
+      "official": "Rúmenía",
+      "common": "Rúmenía"
+    },
+    "RU": {
+      "official": "Rússneska sambandið",
+      "common": "Rússneska sambandið"
+    },
+    "RW": {
+      "official": "Rúanda",
+      "common": "Rúanda"
+    },
+    "BL": {
+      "official": "Sankti Bartelemí",
+      "common": "Sankti Bartelemí"
+    },
+    "SH": {
+      "official": "Sankti Helena, Ascension og Tristan da Cunha",
+      "common": "Sankti Helena, Ascension og Tristan da Cunha"
+    },
+    "KN": {
+      "official": "Sankti Kitts og Neviseyjur",
+      "common": "Sankti Kitts og Neviseyjur"
+    },
+    "LC": {
+      "official": "Sankti Lúsía",
+      "common": "Sankti Lúsía"
+    },
+    "MF": {
+      "official": "Sankti Martin (franski hluti)",
+      "common": "Sankti Martin (franski hluti)"
+    },
+    "PM": {
+      "official": "Sankti Pierre og Miquelon",
+      "common": "Sankti Pierre og Miquelon"
+    },
+    "VC": {
+      "official": "Sankti Vincent og Grenadineeyjar",
+      "common": "Sankti Vincent og Grenadineeyjar"
+    },
+    "WS": {
+      "official": "Samóa",
+      "common": "Samóa"
+    },
+    "SM": {
+      "official": "San Marínó",
+      "common": "San Marínó"
+    },
+    "ST": {
+      "official": "Saó Tóme og Prinsípe",
+      "common": "Saó Tóme og Prinsípe"
+    },
+    "SA": {
+      "official": "Sádí-Arabía",
+      "common": "Sádí-Arabía"
+    },
+    "SN": {
+      "official": "Senegal",
+      "common": "Senegal"
+    },
+    "RS": {
+      "official": "Serbía",
+      "common": "Serbía"
+    },
+    "SC": {
+      "official": "Seychelles-eyjar",
+      "common": "Seychelles-eyjar"
+    },
+    "SL": {
+      "official": "Síerra Leóne",
+      "common": "Síerra Leóne"
+    },
+    "SG": {
+      "official": "Singapúr",
+      "common": "Singapúr"
+    },
+    "SX": {
+      "official": "Sankti Maarten (hollenski hluti)",
+      "common": "Sankti Maarten (hollenski hluti)"
+    },
+    "SK": {
+      "official": "Slóvakía",
+      "common": "Slóvakía"
+    },
+    "SI": {
+      "official": "Slóvenía",
+      "common": "Slóvenía"
+    },
+    "SB": {
+      "official": "Salómonseyjar",
+      "common": "Salómonseyjar"
+    },
+    "SO": {
+      "official": "Sómalía",
+      "common": "Sómalía"
+    },
+    "ZA": {
+      "official": "Suður Afríka",
+      "common": "Suður Afríka"
+    },
+    "GS": {
+      "official": "Suður-Georgía og Suður-Sandwich eyjar",
+      "common": "Suður-Georgía og Suður-Sandwich eyjar"
+    },
+    "ES": {
+      "official": "Spánn",
+      "common": "Spánn"
+    },
+    "LK": {
+      "official": "Srí Lanka",
+      "common": "Srí Lanka"
+    },
+    "SD": {
+      "official": "Súdan",
+      "common": "Súdan"
+    },
+    "SR": {
+      "official": "Súrínam",
+      "common": "Súrínam"
+    },
+    "SS": {
+      "official": "Suður-súdan",
+      "common": "Suður-súdan"
+    },
+    "SJ": {
+      "official": "Svalbarði og Jan Mayen",
+      "common": "Svalbarði og Jan Mayen"
+    },
+    "SZ": {
+      "official": "Svasíland",
+      "common": "Svasíland"
+    },
+    "SE": {
+      "official": "Svíþjóð",
+      "common": "Svíþjóð"
+    },
+    "CH": {
+      "official": "Sviss",
+      "common": "Sviss"
+    },
+    "SY": {
+      "official": "Sýrlenska arabalýðveldið",
+      "common": "Sýrlenska arabalýðveldið"
+    },
+    "TW": {
+      "official": "Tævan",
+      "common": "Tævan"
+    },
+    "TJ": {
+      "official": "Tadsíkistan",
+      "common": "Tadsíkistan"
+    },
+    "TZ": {
+      "official": "Tansanía, sameinaða lýðveldið",
+      "common": "Tansanía, sameinaða lýðveldið"
+    },
+    "TH": {
+      "official": "Tæland",
+      "common": "Tæland"
+    },
+    "TL": {
+      "official": "Tímor-Leste",
+      "common": "Tímor-Leste"
+    },
+    "TG": {
+      "official": "Tógó",
+      "common": "Tógó"
+    },
+    "TK": {
+      "official": "Tókelá",
+      "common": "Tókelá"
+    },
+    "TO": {
+      "official": "Tonga",
+      "common": "Tonga"
+    },
+    "TT": {
+      "official": "Trínidad og Tóbagó",
+      "common": "Trínidad og Tóbagó"
+    },
+    "TN": {
+      "official": "Túnis",
+      "common": "Túnis"
+    },
+    "TR": {
+      "official": "Tyrkland",
+      "common": "Tyrkland"
+    },
+    "TM": {
+      "official": "Túrkmenistan",
+      "common": "Túrkmenistan"
+    },
+    "TC": {
+      "official": "Turks og Kaikós eyjar",
+      "common": "Turks og Kaikós eyjar"
+    },
+    "TV": {
+      "official": "Túvalú",
+      "common": "Túvalú"
+    },
+    "UG": {
+      "official": "Úganda",
+      "common": "Úganda"
+    },
+    "UA": {
+      "official": "Úkraína",
+      "common": "Úkraína"
+    },
+    "AE": {
+      "official": "Sameinuðu arabísku furstadæmin",
+      "common": "Sameinuðu arabísku furstadæmin"
+    },
+    "GB": {
+      "official": "Breska samveldið",
+      "common": "Breska samveldið"
+    },
+    "US": {
+      "official": "Bandaríkin",
+      "common": "Bandaríkin"
+    },
+    "UM": {
+      "official": "Ytri-smáeyjar Bandaríkjanna",
+      "common": "Ytri-smáeyjar Bandaríkjanna"
+    },
+    "UY": {
+      "official": "Úrúgvæ",
+      "common": "Úrúgvæ"
+    },
+    "UZ": {
+      "official": "Úsbekistan",
+      "common": "Úsbekistan"
+    },
+    "VU": {
+      "official": "Vanuatú",
+      "common": "Vanuatú"
+    },
+    "VE": {
+      "official": "Venesúela, bólívaríska lýðveldið",
+      "common": "Venesúela, bólívaríska lýðveldið"
+    },
+    "VN": {
+      "official": "Víetnam",
+      "common": "Víetnam"
+    },
+    "VG": {
+      "official": "Jómfrúareyjar, bresku",
+      "common": "Jómfrúareyjar, bresku"
+    },
+    "VI": {
+      "official": "Jómfrúareyjar, BNA",
+      "common": "Jómfrúareyjar, BNA"
+    },
+    "WF": {
+      "official": "Wallis- og Fútúnaeyjar",
+      "common": "Wallis- og Fútúnaeyjar"
+    },
+    "EH": {
+      "official": "Vestur-Sahara",
+      "common": "Vestur-Sahara"
+    },
+    "YE": {
+      "official": "Jemen",
+      "common": "Jemen"
+    },
+    "ZM": {
+      "official": "Sambía",
+      "common": "Sambía"
+    },
+    "ZW": {
+      "official": "Simbabve",
+      "common": "Simbabve"
+    }
+  }
+}

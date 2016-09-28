@@ -1,0 +1,335 @@
+---
+continent: North America
+alpha2: MF
+alpha3: MAF
+country_code: '590'
+international_prefix: ''
+ioc: 
+gec: RN
+name: Saint Martin
+national_destination_code_lengths: []
+national_number_lengths: []
+national_prefix: ''
+number: '663'
+region: Americas
+subregion: Caribbean
+world_region: AMER
+un_locode: 
+nationality: Saint Martin Islander
+postal_code: true
+unofficial_names:
+- Saint Martin
+- サン・マルタン（フランス領）
+- Saint-Martin
+languages_official:
+- en
+- fr
+- nl
+languages_spoken:
+- en
+- fr
+- nl
+geo:
+  latitude: 18.08255
+  latitude_dec: '18.042224884033203'
+  longitude: -63.05225100000001
+  longitude_dec: "-63.06623458862305"
+  max_latitude: 18.1251674
+  max_longitude: -62.9705335
+  min_latitude: 18.0465858
+  min_longitude: -63.15359
+  bounds:
+    northeast:
+      lat: 18.1251674
+      lng: -62.9705335
+    southwest:
+      lat: 18.0465858
+      lng: -63.15359
+currency_code: EUR
+postal_address_data:
+  key: MF
+  upper: ACX
+  zipex: '97100'
+  name: SAINT MARTIN
+  zip: 9[78][01]\d{2}
+  require: ACZ
+  id: data/MF
+  posturl: http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal
+  fmt: "%O%n%N%n%A%n%Z %C %X"
+translations:
+  af:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  sq:
+    official: Saint Martin (pjesa Franceze)
+    common: Saint Martin (pjesa Franceze)
+  am:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  ar:
+    official: سانت مارتين (القطاع الفرنسي)
+    common: سانت مارتين (القطاع الفرنسي)
+  hy:
+    official: Սուրբ Մարտին (Ֆրանսիական Մաս)
+    common: Սուրբ Մարտին (Ֆրանսիական Մաս)
+  as:
+    official: চেন্ট মাৰ্টিন (ফ্ৰেঞ্চ অংশ)
+    common: চেন্ট মাৰ্টিন (ফ্ৰেঞ্চ অংশ)
+  az:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  eu:
+    official: Saint Martin (Frantziar zatia)
+    common: Saint Martin (Frantziar zatia)
+  be:
+    official: Востраў Святога Марціна (французская частка)
+    common: Востраў Святога Марціна (французская частка)
+  bn:
+    official: সেন্ট মার্টিন (ফ্রেঞ্চ অংশ)
+    common: সেন্ট মার্টিন (ফ্রেঞ্চ অংশ)
+  bs:
+    official: Sveti Martin (Francuski dio)
+    common: Sveti Martin (Francuski dio)
+  br:
+    official: Sant Marzhin (rann gallek)
+    common: Sant Marzhin (rann gallek)
+  bg:
+    official: Свети Мартин (френска част)
+    common: Свети Мартин (френска част)
+  ca:
+    official: Saint Martin (part francesa)
+    common: Saint Martin (part francesa)
+  zh:
+    official: 法属圣马丁
+    common: 法属圣马丁
+  cs:
+    official: Svatý Martin (francouzská část)
+    common: Svatý Martin (francouzská část)
+  da:
+    official: Sankt Martin (Fransk del)
+    common: Sankt Martin (Fransk del)
+  nl:
+    official: Sint-Maarten
+    common: Sint-Maarten
+  dz:
+    official: སེནཊི་མར་ཊིན (ཕརེནཆི་གི་ཡན་ལག)།
+    common: སེནཊི་མར་ཊིན (ཕརེནཆི་གི་ཡན་ལག)།
+  en:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  eo:
+    official: Sankta-Marteno (franca parto)
+    common: Sankta-Marteno (franca parto)
+  et:
+    official: Saint Martin (Prantsuse osa)
+    common: Saint Martin (Prantsuse osa)
+  fo:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  fi:
+    official: Saint-Martin (ranskalainen osa)
+    common: Saint-Martin (ranskalainen osa)
+  fr:
+    official: Saint-Martin (partie française)
+    common: Saint-Martin (partie française)
+  ka:
+    official: სენ-მარტინი (ფრანგული ნაწილი)
+    common: სენ-მარტინი (ფრანგული ნაწილი)
+  de:
+    official: Saint Martin (Französischer Teil)
+    common: Saint Martin (Französischer Teil)
+  ga:
+    official: Saint Martin (An Fhrainc)
+    common: Saint Martin (An Fhrainc)
+  gl:
+    official: San Martiño (parte francesa)
+    common: San Martiño (parte francesa)
+  el:
+    official: Άγιος Μαρτίνος (Γαλλικό τμήμα)
+    common: Άγιος Μαρτίνος (Γαλλικό τμήμα)
+  gu:
+    official: સેન્ટ માર્ટિન (ફ્રેન્ચ વિસ્તાર)
+    common: સેન્ટ માર્ટિન (ફ્રેન્ચ વિસ્તાર)
+  he:
+    official: סן מרטן
+    common: סן מרטן
+  hi:
+    official: सेंट मार्टिन (फ्रेंच भाग)
+    common: सेंट मार्टिन (फ्रेंच भाग)
+  hr:
+    official: Sveti Martin (francuski dio)
+    common: Sveti Martin (francuski dio)
+  hu:
+    official: Saint Martin (francia oldal)
+    common: Saint Martin (francia oldal)
+  is:
+    official: Sankti Martin (franski hluti)
+    common: Sankti Martin (franski hluti)
+  ia:
+    official: Sancte Martin (parte francese)
+    common: Sancte Martin (parte francese)
+  id:
+    official: Saint Martin (wilayah Prancis)
+    common: Saint Martin (wilayah Prancis)
+  it:
+    official: Saint-Martin (Francia)
+    common: Saint-Martin (Francia)
+  ja:
+    official: サンマルタン (仏領)
+    common: サンマルタン (仏領)
+  kn:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  kk:
+    official: Сен-Мартин (Франция аймағы)
+    common: Сен-Мартин (Франция аймағы)
+  km:
+    official: សាន​ម៉ាទីន (ផ្នែក​របស់​បារាំង)
+    common: សាន​ម៉ាទីន (ផ្នែក​របស់​បារាំង)
+  rw:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  ko:
+    official: 쌩 마르텡 (프랑스령)
+    common: 쌩 마르텡 (프랑스령)
+  ku:
+    official: Saint Martin (beşa firansî)
+    common: Saint Martin (beşa firansî)
+  lv:
+    official: Senmartēna
+    common: Senmartēna
+  lt:
+    official: San Martenas (Prancūzijos dalis)
+    common: San Martenas (Prancūzijos dalis)
+  mk:
+    official: Св. Мартин (Француски дел)
+    common: Св. Мартин (Француски дел)
+  ml:
+    official: സെയിന്റ് മാര്‍ട്ടിന്‍ (ഫ്രഞ്ച് ഭാഗം)
+    common: സെയിന്റ് മാര്‍ട്ടിന്‍ (ഫ്രഞ്ച് ഭാഗം)
+  mi:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  mr:
+    official: सेंट मार्टिन (फ्रेंच भाग)
+    common: सेंट मार्टिन (फ्रेंच भाग)
+  ms:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  mt:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  mn:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  ne:
+    official: शन्त Martin (French तर्फ)
+    common: शन्त Martin (French तर्फ)
+  nn:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  nb:
+    official: Saint Martin (fransk del)
+    common: Saint Martin (fransk del)
+  oc:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  or:
+    official: ସେଣ୍ଟ ମାର୍ଟିନ (ଫରାସୀ ଅଂଶ)
+    common: ସେଣ୍ଟ ମାର୍ଟିନ (ଫରାସୀ ଅଂଶ)
+  pa:
+    official: ਸੇਂਟ ਮਾਰਟਿਨ (ਫਰਾਂਸੀਸੀ ਭਾਗ)
+    common: ਸੇਂਟ ਮਾਰਟਿਨ (ਫਰਾਂਸੀਸੀ ਭਾਗ)
+  fa:
+    official: سنت مارتین (بخش فرانسوی)
+    common: سنت مارتین (بخش فرانسوی)
+  pl:
+    official: Saint-Martin (część francuska)
+    common: Saint-Martin (część francuska)
+  pt:
+    official: São Martin (Território Francês)
+    common: São Martin (Território Francês)
+  ps:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  ro:
+    official: Sfântul Martin (partea franceză)
+    common: Sfântul Martin (partea franceză)
+  ru:
+    official: Сен-Мартен (Франция)
+    common: Сен-Мартен (Франция)
+  si:
+    official: ශාන්ත මාටින් (ප්‍රංශ කොටස)
+    common: ශාන්ත මාටින් (ප්‍රංශ කොටස)
+  sk:
+    official: Saint Martin (francúzska časť)
+    common: Saint Martin (francúzska časť)
+  sl:
+    official: Saint Martin (francoski del)
+    common: Saint Martin (francoski del)
+  so:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  es:
+    official: San Martín (zona francesa)
+    common: San Martín (zona francesa)
+  sr:
+    official: Свети Мартин (француски део)
+    common: Свети Мартин (француски део)
+  sw:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  sv:
+    official: Saint Martin (franska delen)
+    common: Saint Martin (franska delen)
+  ta:
+    official: செயின் மார்டின் (பிரெஞ்சு பகுதி)
+    common: செயின் மார்டின் (பிரெஞ்சு பகுதி)
+  tt:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  te:
+    official: సైంట్ మార్టిన్ (ఫ్రెంచ్ భాగము)
+    common: సైంట్ మార్టిన్ (ఫ్రెంచ్ భాగము)
+  tl:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  th:
+    official: แซงมาร์แตง (ส่วนของฝรั่งเศส)
+    common: แซงมาร์แตง (ส่วนของฝรั่งเศส)
+  ti:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  tk:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  tr:
+    official: Sen Martin (Fransız kısmı)
+    common: Sen Martin (Fransız kısmı)
+  ug:
+    official: ساينىت-مارتېن
+    common: ساينىت-مارتېن
+  uk:
+    official: Сен-Мартен (французька частина)
+    common: Сен-Мартен (французька частина)
+  ve:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  vi:
+    official: Saint Martin (vùng Pháp)
+    common: Saint Martin (vùng Pháp)
+  cy:
+    official: Saint Martin (rhan Ffrengig)
+    common: Saint Martin (rhan Ffrengig)
+  wa:
+    official: Sint Mårtén (boket francès)
+    common: Sint Mårtén (boket francès)
+  wo:
+    official: Saint Martin (Français)
+    common: Saint Martin (Français)
+  xh:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)
+  zu:
+    official: Saint Martin (French part)
+    common: Saint Martin (French part)

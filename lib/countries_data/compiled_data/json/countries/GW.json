@@ -1,0 +1,436 @@
+{
+  "continent": "Africa",
+  "alpha2": "GW",
+  "alpha3": "GNB",
+  "country_code": "245",
+  "international_prefix": "00",
+  "ioc": "GBS",
+  "gec": "PU",
+  "name": "Guinea-Bissau",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7
+  ],
+  "national_prefix": "None",
+  "number": "624",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "world_region": "EMEA",
+  "un_locode": "GW",
+  "nationality": "Guinea-Bissauan",
+  "postal_code": true,
+  "unofficial_names": [
+    "Guinea-Bissau",
+    "Guinée-Bissau",
+    "ギニアビサウ",
+    "Guinee-Bissau",
+    "Guinea Bissau"
+  ],
+  "languages_official": [
+    "pt"
+  ],
+  "languages_spoken": [
+    "pt"
+  ],
+  "geo": {
+    "latitude": 11.803749,
+    "latitude_dec": "12.115862846374512",
+    "longitude": -15.180413,
+    "longitude_dec": "-14.748136520385742",
+    "max_latitude": 12.6869467,
+    "max_longitude": -13.6265235,
+    "min_latitude": 10.8599701,
+    "min_longitude": -16.7151341,
+    "bounds": {
+      "northeast": {
+        "lat": 12.6869467,
+        "lng": -13.6265235
+      },
+      "southwest": {
+        "lat": 10.8599701,
+        "lng": -16.7151341
+      }
+    }
+  },
+  "currency_code": "XOF",
+  "postal_address_data": {
+    "zipex": "1000,1011",
+    "name": "GUINEA-BISSAU",
+    "zip": "\\d{4}",
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "key": "GW",
+    "id": "data/GW"
+  },
+  "translations": {
+    "af": {
+      "official": "Guinee-Bissau",
+      "common": "Guinee-Bissau"
+    },
+    "sq": {
+      "official": "Guinea Bissau",
+      "common": "Guinea Bissau"
+    },
+    "am": {
+      "official": "ቢሳፅ",
+      "common": "ቢሳፅ"
+    },
+    "ar": {
+      "official": "غينيا بيساو",
+      "common": "غينيا بيساو"
+    },
+    "hy": {
+      "official": "Գվինեա-Բիսաու",
+      "common": "Գվինեա-Բիսաու"
+    },
+    "as": {
+      "official": "গিনি-বিছাউ",
+      "common": "গিনি-বিছাউ"
+    },
+    "az": {
+      "official": "Qvineya Bissau",
+      "common": "Qvineya Bissau"
+    },
+    "eu": {
+      "official": "Ginea Bissau",
+      "common": "Ginea Bissau"
+    },
+    "be": {
+      "official": "Гвінея-Бісау",
+      "common": "Гвінея-Бісау"
+    },
+    "bn": {
+      "official": "গিনি-বিসাউ",
+      "common": "গিনি-বিসাউ"
+    },
+    "bs": {
+      "official": "Gvineja Bisau",
+      "common": "Gvineja Bisau"
+    },
+    "br": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "bg": {
+      "official": "Гвинея-Бисау",
+      "common": "Гвинея-Бисау"
+    },
+    "ca": {
+      "official": "Guinea Bissau",
+      "common": "Guinea Bissau"
+    },
+    "zh": {
+      "official": "几内亚比绍",
+      "common": "几内亚比绍"
+    },
+    "cs": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "da": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "nl": {
+      "official": "Guinee-Bissau",
+      "common": "Guinee-Bissau"
+    },
+    "dz": {
+      "official": "གི་ནི་-བི་སའོ།",
+      "common": "གི་ནི་-བི་སའོ།"
+    },
+    "en": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "eo": {
+      "official": "Gvineo Bisaŭa",
+      "common": "Gvineo Bisaŭa"
+    },
+    "et": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "fo": {
+      "official": "Guinea Bissau",
+      "common": "Guinea Bissau"
+    },
+    "fi": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "fr": {
+      "official": "Guinée-Bissau",
+      "common": "Guinée-Bissau"
+    },
+    "ka": {
+      "official": "გვინეა-ბისაუ",
+      "common": "გვინეა-ბისაუ"
+    },
+    "de": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "ga": {
+      "official": "An Ghuine-Bhissau",
+      "common": "An Ghuine-Bhissau"
+    },
+    "gl": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "el": {
+      "official": "Γουινέα-Μπισσάου",
+      "common": "Γουινέα-Μπισσάου"
+    },
+    "gu": {
+      "official": "ગિએના-બિસાઉ",
+      "common": "ગિએના-બિસાઉ"
+    },
+    "he": {
+      "official": "גינאה ביסאו",
+      "common": "גינאה ביסאו"
+    },
+    "hi": {
+      "official": "गिनी-बिसाउ",
+      "common": "गिनी-बिसाउ"
+    },
+    "hr": {
+      "official": "Gvineja Bisau",
+      "common": "Gvineja Bisau"
+    },
+    "hu": {
+      "official": "Bissau-Guinea",
+      "common": "Bissau-Guinea"
+    },
+    "is": {
+      "official": "Gínea-Bissá",
+      "common": "Gínea-Bissá"
+    },
+    "ia": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "id": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "it": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "ja": {
+      "official": "ギニアビサウ",
+      "common": "ギニアビサウ"
+    },
+    "kn": {
+      "official": "ಗಿನೀ-ಬಿಸ್ಸೋ",
+      "common": "ಗಿನೀ-ಬಿಸ್ಸೋ"
+    },
+    "kk": {
+      "official": "Гвинея-Бисау",
+      "common": "Гвинея-Бисау"
+    },
+    "km": {
+      "official": "ហ្គីណេប៊ីសៅ",
+      "common": "ហ្គីណេប៊ីសៅ"
+    },
+    "rw": {
+      "official": "Guneya-Biso",
+      "common": "Guneya-Biso"
+    },
+    "ko": {
+      "official": "기니비사우",
+      "common": "기니비사우"
+    },
+    "ku": {
+      "official": "Gîneya Bisoî",
+      "common": "Gîneya Bisoî"
+    },
+    "lv": {
+      "official": "Gvineja-Bisava",
+      "common": "Gvineja-Bisava"
+    },
+    "lt": {
+      "official": "Bisau Gvinėja",
+      "common": "Bisau Gvinėja"
+    },
+    "mk": {
+      "official": "Гвинеја-Бисау",
+      "common": "Гвинеја-Бисау"
+    },
+    "ml": {
+      "official": "ഗിനിയ-ബിസ്സാവു",
+      "common": "ഗിനിയ-ബിസ്സാവു"
+    },
+    "mi": {
+      "official": "Kini Pihō",
+      "common": "Kini Pihō"
+    },
+    "mr": {
+      "official": "गिनी-बिसाव",
+      "common": "गिनी-बिसाव"
+    },
+    "ms": {
+      "official": "Guinea Bissau",
+      "common": "Guinea Bissau"
+    },
+    "mt": {
+      "official": "Ginea-Bissaw",
+      "common": "Ginea-Bissaw"
+    },
+    "mn": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "ne": {
+      "official": "गिइनि बिसाउ",
+      "common": "गिइनि बिसाउ"
+    },
+    "nn": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "nb": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "oc": {
+      "official": "Guinèa-Bissau",
+      "common": "Guinèa-Bissau"
+    },
+    "or": {
+      "official": "ଗିନୀ-ବିସୁ",
+      "common": "ଗିନୀ-ବିସୁ"
+    },
+    "pa": {
+      "official": "ਗੁਨੇਆ-ਬਿਸਾਉ",
+      "common": "ਗੁਨੇਆ-ਬਿਸਾਉ"
+    },
+    "fa": {
+      "official": "گینهٔ بیسائو",
+      "common": "گینهٔ بیسائو"
+    },
+    "pl": {
+      "official": "Gwinea Bissau",
+      "common": "Gwinea Bissau"
+    },
+    "pt": {
+      "official": "Guiné-Bissáu",
+      "common": "Guiné-Bissáu"
+    },
+    "ps": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "ro": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "ru": {
+      "official": "Гвинея-Бисау",
+      "common": "Гвинея-Бисау"
+    },
+    "si": {
+      "official": "ගිනියා-බිසව්",
+      "common": "ගිනියා-බිසව්"
+    },
+    "sk": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "sl": {
+      "official": "Gvineja Bissau",
+      "common": "Gvineja Bissau"
+    },
+    "so": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "es": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "sr": {
+      "official": "Гвинеја-Бисао",
+      "common": "Гвинеја-Бисао"
+    },
+    "sw": {
+      "official": "Guinea",
+      "common": "Guinea"
+    },
+    "sv": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "ta": {
+      "official": "கினி-பீசோ",
+      "common": "கினி-பீசோ"
+    },
+    "tt": {
+      "official": "Gуинеа-Биссау",
+      "common": "Gуинеа-Биссау"
+    },
+    "te": {
+      "official": "గినీ-బిసావ",
+      "common": "గినీ-బిసావ"
+    },
+    "tl": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "th": {
+      "official": "กินีบิสเซา",
+      "common": "กินีบิสเซา"
+    },
+    "ti": {
+      "official": "ቢሳዎ",
+      "common": "ቢሳዎ"
+    },
+    "tk": {
+      "official": "Gwineýa-Bisau",
+      "common": "Gwineýa-Bisau"
+    },
+    "tr": {
+      "official": "Gine-Bissau",
+      "common": "Gine-Bissau"
+    },
+    "ug": {
+      "official": "گىۋىنېيە بىسسائۇ",
+      "common": "گىۋىنېيە بىسسائۇ"
+    },
+    "uk": {
+      "official": "Гвінея-Бісау",
+      "common": "Гвінея-Бісау"
+    },
+    "ve": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "vi": {
+      "official": "Ghi-nê Bi-xau",
+      "common": "Ghi-nê Bi-xau"
+    },
+    "cy": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "wa": {
+      "official": "Guinêye-Bissaw",
+      "common": "Guinêye-Bissaw"
+    },
+    "wo": {
+      "official": "Ginne Bisaawóo",
+      "common": "Ginne Bisaawóo"
+    },
+    "xh": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "zu": {
+      "official": "Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    }
+  }
+}

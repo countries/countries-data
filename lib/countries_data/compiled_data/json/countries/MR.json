@@ -1,0 +1,437 @@
+{
+  "continent": "Africa",
+  "alpha2": "MR",
+  "alpha3": "MRT",
+  "country_code": "222",
+  "international_prefix": "00",
+  "ioc": "MTN",
+  "gec": "MR",
+  "name": "Mauritania",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7
+  ],
+  "national_prefix": "0",
+  "number": "478",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "world_region": "EMEA",
+  "un_locode": "MR",
+  "nationality": "Mauritanian",
+  "postal_code": false,
+  "unofficial_names": [
+    "Mauritania",
+    "موريتانيا",
+    "Mauretanien",
+    "Mauritanie",
+    "モーリタニア",
+    "Mauritanië"
+  ],
+  "languages_official": [
+    "ar",
+    "fr"
+  ],
+  "languages_spoken": [
+    "ar",
+    "fr"
+  ],
+  "geo": {
+    "latitude": 21.00789,
+    "latitude_dec": "20.258995056152344",
+    "longitude": -10.940835,
+    "longitude_dec": "-10.364437103271484",
+    "max_latitude": 27.3158916,
+    "max_longitude": -4.8336009,
+    "min_latitude": 14.721273,
+    "min_longitude": -17.0687276,
+    "bounds": {
+      "northeast": {
+        "lat": 27.3158916,
+        "lng": -4.8336009
+      },
+      "southwest": {
+        "lat": 14.721273,
+        "lng": -17.0687276
+      }
+    }
+  },
+  "currency_code": "MRO",
+  "postal_address_data": {
+    "upper": "AC",
+    "id": "data/MR",
+    "key": "MR",
+    "name": "MAURITANIA"
+  },
+  "translations": {
+    "af": {
+      "official": "Mouritanië",
+      "common": "Mouritanië"
+    },
+    "sq": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "am": {
+      "official": "ሥሱቴኒ።",
+      "common": "ሥሱቴኒ።"
+    },
+    "ar": {
+      "official": "موريتانيا",
+      "common": "موريتانيا"
+    },
+    "hy": {
+      "official": "Մավրիտանիա",
+      "common": "Մավրիտանիա"
+    },
+    "as": {
+      "official": "ম'ৰিটানিয়া",
+      "common": "ম'ৰিটানিয়া"
+    },
+    "az": {
+      "official": "Mavritaniya",
+      "common": "Mavritaniya"
+    },
+    "eu": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "be": {
+      "official": "Маўрытанія",
+      "common": "Маўрытанія"
+    },
+    "bn": {
+      "official": "মরিটানিয়া",
+      "common": "মরিটানিয়া"
+    },
+    "bs": {
+      "official": "Mauritanija",
+      "common": "Mauritanija"
+    },
+    "br": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "bg": {
+      "official": "Мавритания",
+      "common": "Мавритания"
+    },
+    "ca": {
+      "official": "Mauritània",
+      "common": "Mauritània"
+    },
+    "zh": {
+      "official": "毛里塔尼亚",
+      "common": "毛里塔尼亚"
+    },
+    "cs": {
+      "official": "Mauritánie",
+      "common": "Mauritánie"
+    },
+    "da": {
+      "official": "Mauretanien",
+      "common": "Mauretanien"
+    },
+    "nl": {
+      "official": "Mauritanië",
+      "common": "Mauritanië"
+    },
+    "dz": {
+      "official": "མའུ་རི་ཊ་ནི་ཡ།",
+      "common": "མའུ་རི་ཊ་ནི་ཡ།"
+    },
+    "en": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "eo": {
+      "official": "Maŭritanio",
+      "common": "Maŭritanio"
+    },
+    "et": {
+      "official": "Mauritaania",
+      "common": "Mauritaania"
+    },
+    "fo": {
+      "official": "Móritania",
+      "common": "Móritania"
+    },
+    "fi": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "fr": {
+      "official": "Mauritanie",
+      "common": "Mauritanie"
+    },
+    "ka": {
+      "official": "მავრიტანია",
+      "common": "მავრიტანია"
+    },
+    "de": {
+      "official": "Mauretanien",
+      "common": "Mauretanien"
+    },
+    "ga": {
+      "official": "An Mháratáin",
+      "common": "An Mháratáin"
+    },
+    "gl": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "el": {
+      "official": "Μαυριτανία",
+      "common": "Μαυριτανία"
+    },
+    "gu": {
+      "official": "મોરિશિઆના",
+      "common": "મોરિશિઆના"
+    },
+    "he": {
+      "official": "מאוריטניה",
+      "common": "מאוריטניה"
+    },
+    "hi": {
+      "official": "मॉरिटानिय",
+      "common": "मॉरिटानिय"
+    },
+    "hr": {
+      "official": "Mauritanija",
+      "common": "Mauritanija"
+    },
+    "hu": {
+      "official": "Mauritánia",
+      "common": "Mauritánia"
+    },
+    "is": {
+      "official": "Máritanía",
+      "common": "Máritanía"
+    },
+    "ia": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "id": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "it": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "ja": {
+      "official": "モーリタニア",
+      "common": "モーリタニア"
+    },
+    "kn": {
+      "official": "ಮಾರಿಟೇನಿಯಾ",
+      "common": "ಮಾರಿಟೇನಿಯಾ"
+    },
+    "kk": {
+      "official": "Мавритания",
+      "common": "Мавритания"
+    },
+    "km": {
+      "official": "ម៉ូរីតានី",
+      "common": "ម៉ូរីតានី"
+    },
+    "rw": {
+      "official": "Moritaniya",
+      "common": "Moritaniya"
+    },
+    "ko": {
+      "official": "모리타니아",
+      "common": "모리타니아"
+    },
+    "ku": {
+      "official": "Morîtanya",
+      "common": "Morîtanya"
+    },
+    "lv": {
+      "official": "Mauritānija",
+      "common": "Mauritānija"
+    },
+    "lt": {
+      "official": "Mauritanija",
+      "common": "Mauritanija"
+    },
+    "mk": {
+      "official": "Мавританија",
+      "common": "Мавританија"
+    },
+    "ml": {
+      "official": "മൌറിട്ടാനിയ",
+      "common": "മൌറിട്ടാനിയ"
+    },
+    "mi": {
+      "official": "Mauritānia",
+      "common": "Mauritānia"
+    },
+    "mr": {
+      "official": "मॉरिटानिया",
+      "common": "मॉरिटानिया"
+    },
+    "ms": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "mt": {
+      "official": "Litwanja",
+      "common": "Litwanja"
+    },
+    "mn": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "ne": {
+      "official": "माउरिटानिया",
+      "common": "माउरिटानिया"
+    },
+    "nn": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "nb": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "oc": {
+      "official": "Mauritània",
+      "common": "Mauritània"
+    },
+    "or": {
+      "official": "ମାରୀଟୋନିୟା",
+      "common": "ମାରୀଟୋନିୟା"
+    },
+    "pa": {
+      "official": "ਮਾਓਰੀਟਆਨਾ",
+      "common": "ਮਾਓਰੀਟਆਨਾ"
+    },
+    "fa": {
+      "official": "موریتانی",
+      "common": "موریتانی"
+    },
+    "pl": {
+      "official": "Mauretania",
+      "common": "Mauretania"
+    },
+    "pt": {
+      "official": "Mauritânia",
+      "common": "Mauritânia"
+    },
+    "ps": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "ro": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "ru": {
+      "official": "Мавритания",
+      "common": "Мавритания"
+    },
+    "si": {
+      "official": "මෝරිටානියා",
+      "common": "මෝරිටානියා"
+    },
+    "sk": {
+      "official": "Mauritánia",
+      "common": "Mauritánia"
+    },
+    "sl": {
+      "official": "Mavretanija",
+      "common": "Mavretanija"
+    },
+    "so": {
+      "official": "Muritaaniya",
+      "common": "Muritaaniya"
+    },
+    "es": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "sr": {
+      "official": "Мауританија",
+      "common": "Мауританија"
+    },
+    "sw": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "sv": {
+      "official": "Mauretanien",
+      "common": "Mauretanien"
+    },
+    "ta": {
+      "official": "மொரிசியேனியா",
+      "common": "மொரிசியேனியா"
+    },
+    "tt": {
+      "official": "Мауританиа",
+      "common": "Мауританиа"
+    },
+    "te": {
+      "official": "మౌరిటానియా",
+      "common": "మౌరిటానియా"
+    },
+    "tl": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "th": {
+      "official": "มอริเตเนีย",
+      "common": "มอริเตเนีย"
+    },
+    "ti": {
+      "official": "ሞሪቴኒያ",
+      "common": "ሞሪቴኒያ"
+    },
+    "tk": {
+      "official": "Mawritaniýa",
+      "common": "Mawritaniýa"
+    },
+    "tr": {
+      "official": "Moritanya",
+      "common": "Moritanya"
+    },
+    "ug": {
+      "official": "ماۋرىتانىيە",
+      "common": "ماۋرىتانىيە"
+    },
+    "uk": {
+      "official": "Мавританія",
+      "common": "Мавританія"
+    },
+    "ve": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "vi": {
+      "official": "Mô-ri-ta-ni-a",
+      "common": "Mô-ri-ta-ni-a"
+    },
+    "cy": {
+      "official": "Mauritania",
+      "common": "Mauritania"
+    },
+    "wa": {
+      "official": "Moritanreye",
+      "common": "Moritanreye"
+    },
+    "wo": {
+      "official": "Móritaani",
+      "common": "Móritaani"
+    },
+    "xh": {
+      "official": "Lithuania",
+      "common": "Lithuania"
+    },
+    "zu": {
+      "official": "I-Lithuwaniya",
+      "common": "I-Lithuwaniya"
+    }
+  }
+}

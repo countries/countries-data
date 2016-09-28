@@ -1,0 +1,452 @@
+{
+  "continent": "Europe",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}}\n{{country}}",
+  "alpha2": "HR",
+  "alpha3": "HRV",
+  "country_code": "385",
+  "international_prefix": "00",
+  "ioc": "CRO",
+  "gec": "HR",
+  "name": "Croatia",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "0",
+  "number": "191",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "world_region": "EMEA",
+  "un_locode": "HR",
+  "nationality": "Croatian",
+  "eu_member": true,
+  "eea_member": true,
+  "vat_rates": {
+    "standard": 25,
+    "reduced": [
+      5,
+      13
+    ],
+    "super_reduced": null,
+    "parking": null
+  },
+  "postal_code": true,
+  "unofficial_names": [
+    "Croatia",
+    "Kroatien",
+    "Croatie",
+    "Croacia",
+    "クロアチア",
+    "Kroatië",
+    "Croatia (Hrvatska)"
+  ],
+  "languages_official": [
+    "hr"
+  ],
+  "languages_spoken": [
+    "hr"
+  ],
+  "geo": {
+    "latitude": 45.1,
+    "latitude_dec": "45.444305419921875",
+    "longitude": 15.2,
+    "longitude_dec": "15.734503746032715",
+    "max_latitude": 46.5552234,
+    "max_longitude": 19.4480523,
+    "min_latitude": 42.3776701,
+    "min_longitude": 13.4896913,
+    "bounds": {
+      "northeast": {
+        "lat": 46.5552234,
+        "lng": 19.4480523
+      },
+      "southwest": {
+        "lat": 42.3776701,
+        "lng": 13.4896913
+      }
+    }
+  },
+  "currency_code": "HRK",
+  "postal_address_data": {
+    "postprefix": "HR-",
+    "zipex": "10000,21001,10002",
+    "name": "CROATIA",
+    "zip": "\\d{5}",
+    "fmt": "%N%n%O%n%A%nHR-%Z %C",
+    "key": "HR",
+    "posturl": "http://www.posta.hr/default.aspx?pretpum",
+    "id": "data/HR"
+  },
+  "translations": {
+    "af": {
+      "official": "Kroasië",
+      "common": "Kroasië"
+    },
+    "sq": {
+      "official": "Kroacia",
+      "common": "Kroacia"
+    },
+    "am": {
+      "official": "ጤስጔቄ።",
+      "common": "ጤስጔቄ።"
+    },
+    "ar": {
+      "official": "كرواتيا",
+      "common": "كرواتيا"
+    },
+    "hy": {
+      "official": "Խորվաթիա",
+      "common": "Խորվաթիա"
+    },
+    "as": {
+      "official": "ক্ৰোয়েছিয়া",
+      "common": "ক্ৰোয়েছিয়া"
+    },
+    "az": {
+      "official": "Xırvatıstan",
+      "common": "Xırvatıstan"
+    },
+    "eu": {
+      "official": "Kroazia",
+      "common": "Kroazia"
+    },
+    "be": {
+      "official": "Харватыя",
+      "common": "Харватыя"
+    },
+    "bn": {
+      "official": "ক্রোয়েশিয়া",
+      "common": "ক্রোয়েশিয়া"
+    },
+    "bs": {
+      "official": "Hrvatska",
+      "common": "Hrvatska"
+    },
+    "br": {
+      "official": "Kroatia",
+      "common": "Kroatia"
+    },
+    "bg": {
+      "official": "Хърватия",
+      "common": "Хърватия"
+    },
+    "ca": {
+      "official": "Croàcia",
+      "common": "Croàcia"
+    },
+    "zh": {
+      "official": "克罗地亚",
+      "common": "克罗地亚"
+    },
+    "cs": {
+      "official": "Chorvatsko",
+      "common": "Chorvatsko"
+    },
+    "da": {
+      "official": "Kroatien",
+      "common": "Kroatien"
+    },
+    "nl": {
+      "official": "Kroatië",
+      "common": "Kroatië"
+    },
+    "dz": {
+      "official": "ཀོརོ་ཤི་ཡ།",
+      "common": "ཀོརོ་ཤི་ཡ།"
+    },
+    "en": {
+      "official": "Croatia",
+      "common": "Croatia"
+    },
+    "eo": {
+      "official": "Kroatio",
+      "common": "Kroatio"
+    },
+    "et": {
+      "official": "Horvaatia",
+      "common": "Horvaatia"
+    },
+    "fo": {
+      "official": "Kroatia",
+      "common": "Kroatia"
+    },
+    "fi": {
+      "official": "Kroatia",
+      "common": "Kroatia"
+    },
+    "fr": {
+      "official": "Croatie",
+      "common": "Croatie"
+    },
+    "ka": {
+      "official": "ჰორვატია",
+      "common": "ჰორვატია"
+    },
+    "de": {
+      "official": "Kroatien",
+      "common": "Kroatien"
+    },
+    "ga": {
+      "official": "An Chróit",
+      "common": "An Chróit"
+    },
+    "gl": {
+      "official": "Croacia",
+      "common": "Croacia"
+    },
+    "el": {
+      "official": "Κροατία",
+      "common": "Κροατία"
+    },
+    "gu": {
+      "official": "ક્રોએશિયા",
+      "common": "ક્રોએશિયા"
+    },
+    "he": {
+      "official": "קרואטיה",
+      "common": "קרואטיה"
+    },
+    "hi": {
+      "official": "क्रोएशिया",
+      "common": "क्रोएशिया"
+    },
+    "hr": {
+      "official": "Hrvatska",
+      "common": "Hrvatska"
+    },
+    "hu": {
+      "official": "Horvátország",
+      "common": "Horvátország"
+    },
+    "is": {
+      "official": "Króatía",
+      "common": "Króatía"
+    },
+    "ia": {
+      "official": "Croatia",
+      "common": "Croatia"
+    },
+    "id": {
+      "official": "Kroasia",
+      "common": "Kroasia"
+    },
+    "it": {
+      "official": "Croazia",
+      "common": "Croazia"
+    },
+    "ja": {
+      "official": "クロアチア",
+      "common": "クロアチア"
+    },
+    "kn": {
+      "official": "ಕ್ರೊಏಶಿಯಾ",
+      "common": "ಕ್ರೊಏಶಿಯಾ"
+    },
+    "kk": {
+      "official": "Хорватия",
+      "common": "Хорватия"
+    },
+    "km": {
+      "official": "ក្រូអាត",
+      "common": "ក្រូអាត"
+    },
+    "rw": {
+      "official": "Korowatiya",
+      "common": "Korowatiya"
+    },
+    "ko": {
+      "official": "크로아티아",
+      "common": "크로아티아"
+    },
+    "ku": {
+      "official": "Hirvatistan",
+      "common": "Hirvatistan"
+    },
+    "lv": {
+      "official": "Horvātija",
+      "common": "Horvātija"
+    },
+    "lt": {
+      "official": "Kroatija",
+      "common": "Kroatija"
+    },
+    "mk": {
+      "official": "Хрватска",
+      "common": "Хрватска"
+    },
+    "ml": {
+      "official": "ക്രോയേഷ്യ",
+      "common": "ക്രോയേഷ്യ"
+    },
+    "mi": {
+      "official": "Koroātia",
+      "common": "Koroātia"
+    },
+    "mr": {
+      "official": "क्रोशिया",
+      "common": "क्रोशिया"
+    },
+    "ms": {
+      "official": "Kroatia",
+      "common": "Kroatia"
+    },
+    "mt": {
+      "official": "Kroazja",
+      "common": "Kroazja"
+    },
+    "mn": {
+      "official": "Croatia",
+      "common": "Croatia"
+    },
+    "ne": {
+      "official": "क्रोएशिया",
+      "common": "क्रोएशिया"
+    },
+    "nn": {
+      "official": "Kroatia",
+      "common": "Kroatia"
+    },
+    "nb": {
+      "official": "Kroatia",
+      "common": "Kroatia"
+    },
+    "oc": {
+      "official": "Croacia",
+      "common": "Croacia"
+    },
+    "or": {
+      "official": "କ୍ରୋଏଶିଆ",
+      "common": "କ୍ରୋଏଶିଆ"
+    },
+    "pa": {
+      "official": "ਕਰੋਟੀਆ",
+      "common": "ਕਰੋਟੀਆ"
+    },
+    "fa": {
+      "official": "کرواسی",
+      "common": "کرواسی"
+    },
+    "pl": {
+      "official": "Chorwacja",
+      "common": "Chorwacja"
+    },
+    "pt": {
+      "official": "Croácia",
+      "common": "Croácia"
+    },
+    "ps": {
+      "official": "Croatia",
+      "common": "Croatia"
+    },
+    "ro": {
+      "official": "Croația",
+      "common": "Croația"
+    },
+    "ru": {
+      "official": "Хорватия",
+      "common": "Хорватия"
+    },
+    "si": {
+      "official": "ක්‍රෝශියා",
+      "common": "ක්‍රෝශියා"
+    },
+    "sk": {
+      "official": "Chorvátsko",
+      "common": "Chorvátsko"
+    },
+    "sl": {
+      "official": "Hrvaška",
+      "common": "Hrvaška"
+    },
+    "so": {
+      "official": "Korweeshiya",
+      "common": "Korweeshiya"
+    },
+    "es": {
+      "official": "Croacia",
+      "common": "Croacia"
+    },
+    "sr": {
+      "official": "Хрватска",
+      "common": "Хрватска"
+    },
+    "sw": {
+      "official": "Croatia",
+      "common": "Croatia"
+    },
+    "sv": {
+      "official": "Kroatien",
+      "common": "Kroatien"
+    },
+    "ta": {
+      "official": "குரோவேசியா",
+      "common": "குரோவேசியா"
+    },
+    "tt": {
+      "official": "Кроатиа",
+      "common": "Кроатиа"
+    },
+    "te": {
+      "official": "క్రోటియా",
+      "common": "క్రోటియా"
+    },
+    "tl": {
+      "official": "Croatia",
+      "common": "Croatia"
+    },
+    "th": {
+      "official": "โครเอเชีย",
+      "common": "โครเอเชีย"
+    },
+    "ti": {
+      "official": "ክሮኤሽያ",
+      "common": "ክሮኤሽያ"
+    },
+    "tk": {
+      "official": "Horwatiýa",
+      "common": "Horwatiýa"
+    },
+    "tr": {
+      "official": "Hırvatistan",
+      "common": "Hırvatistan"
+    },
+    "ug": {
+      "official": "كىرودىيە",
+      "common": "كىرودىيە"
+    },
+    "uk": {
+      "official": "Хорватія",
+      "common": "Хорватія"
+    },
+    "ve": {
+      "official": "Croatia",
+      "common": "Croatia"
+    },
+    "vi": {
+      "official": "Cợ-rô-a-ti-a",
+      "common": "Cợ-rô-a-ti-a"
+    },
+    "cy": {
+      "official": "Croatia",
+      "common": "Croatia"
+    },
+    "wa": {
+      "official": "Crowåceye",
+      "common": "Crowåceye"
+    },
+    "wo": {
+      "official": "Korwaasi",
+      "common": "Korwaasi"
+    },
+    "xh": {
+      "official": "Croatia",
+      "common": "Croatia"
+    },
+    "zu": {
+      "official": "I-Crowathiya",
+      "common": "I-Crowathiya"
+    }
+  }
+}

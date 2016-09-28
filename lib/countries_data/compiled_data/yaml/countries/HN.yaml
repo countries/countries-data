@@ -1,0 +1,331 @@
+---
+continent: North America
+alpha2: HN
+alpha3: HND
+country_code: '504'
+international_prefix: '00'
+ioc: HON
+gec: HO
+name: Honduras
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+- 8
+national_prefix: None
+number: '340'
+region: Americas
+subregion: Central America
+world_region: AMER
+un_locode: HN
+nationality: Honduran
+postal_code: true
+unofficial_names:
+- Honduras
+- ホンジュラス
+languages_official:
+- es
+languages_spoken:
+- es
+geo:
+  latitude: 15.199999
+  latitude_dec: '14.975032806396484'
+  longitude: -86.241905
+  longitude_dec: "-86.2647705078125"
+  max_latitude: 17.4171037
+  max_longitude: -83.12753409999999
+  min_latitude: 12.9842247
+  min_longitude: -89.3564823
+  bounds:
+    northeast:
+      lat: 17.4171037
+      lng: -83.12753409999999
+    southwest:
+      lat: 12.9842247
+      lng: -89.3564823
+currency_code: HNL
+postal_address_data:
+  zipex: '31301'
+  name: HONDURAS
+  zip: "\\d{5}"
+  require: ACS
+  fmt: "%N%n%O%n%A%n%C, %S%n%Z"
+  key: HN
+  id: data/HN
+translations:
+  af:
+    official: Honduras
+    common: Honduras
+  sq:
+    official: Honduras
+    common: Honduras
+  am:
+    official: Honduras
+    common: Honduras
+  ar:
+    official: هندوراس
+    common: هندوراس
+  hy:
+    official: Հոնդուրաս
+    common: Հոնդուրաս
+  as:
+    official: হণ্ডুৰাছ
+    common: হণ্ডুৰাছ
+  az:
+    official: Honduras
+    common: Honduras
+  eu:
+    official: Honduras
+    common: Honduras
+  be:
+    official: Гандурас
+    common: Гандурас
+  bn:
+    official: হন্ডুরাস
+    common: হন্ডুরাস
+  bs:
+    official: Honduras
+    common: Honduras
+  br:
+    official: Honduras
+    common: Honduras
+  bg:
+    official: Хондурас
+    common: Хондурас
+  ca:
+    official: Hondures
+    common: Hondures
+  zh:
+    official: 洪都拉斯
+    common: 洪都拉斯
+  cs:
+    official: Honduras
+    common: Honduras
+  da:
+    official: Honduras
+    common: Honduras
+  nl:
+    official: Honduras
+    common: Honduras
+  dz:
+    official: ཧཱོན་ཌུ་རཱསི།
+    common: ཧཱོན་ཌུ་རཱསི།
+  en:
+    official: Honduras
+    common: Honduras
+  eo:
+    official: Honduro
+    common: Honduro
+  et:
+    official: Honduras
+    common: Honduras
+  fo:
+    official: Honduras
+    common: Honduras
+  fi:
+    official: Honduras
+    common: Honduras
+  fr:
+    official: Honduras
+    common: Honduras
+  ka:
+    official: ჰონდურასი
+    common: ჰონდურასი
+  de:
+    official: Honduras
+    common: Honduras
+  ga:
+    official: Hondúras
+    common: Hondúras
+  gl:
+    official: Honduras
+    common: Honduras
+  el:
+    official: Ονδούρα
+    common: Ονδούρα
+  gu:
+    official: હોન્ડુરાસ
+    common: હોન્ડુરાસ
+  he:
+    official: הונדורס
+    common: הונדורס
+  hi:
+    official: होंडुरास
+    common: होंडुरास
+  hr:
+    official: Honduras
+    common: Honduras
+  hu:
+    official: Honduras
+    common: Honduras
+  is:
+    official: Hondúras
+    common: Hondúras
+  ia:
+    official: Honduras
+    common: Honduras
+  id:
+    official: Honduras
+    common: Honduras
+  it:
+    official: Honduras
+    common: Honduras
+  ja:
+    official: ホンジュラス
+    common: ホンジュラス
+  kn:
+    official: ಹೊಂಡುರಾಸ್
+    common: ಹೊಂಡುರಾಸ್
+  kk:
+    official: Гондурас
+    common: Гондурас
+  km:
+    official: ហុងឌូរ៉ាស់
+    common: ហុងឌូរ៉ាស់
+  rw:
+    official: Hondurasi
+    common: Hondurasi
+  ko:
+    official: 혼두라스
+    common: 혼두라스
+  ku:
+    official: Honduras
+    common: Honduras
+  lv:
+    official: Hondurasa
+    common: Hondurasa
+  lt:
+    official: Hondūras
+    common: Hondūras
+  mk:
+    official: Хондурас
+    common: Хондурас
+  ml:
+    official: ഹോണ്ടുറാസ്
+    common: ഹോണ്ടുറാസ്
+  mi:
+    official: Honduras
+    common: Honduras
+  mr:
+    official: होंडुरास
+    common: होंडुरास
+  ms:
+    official: Honduras
+    common: Honduras
+  mt:
+    official: Ħonduras
+    common: Ħonduras
+  mn:
+    official: Гондурас
+    common: Гондурас
+  ne:
+    official: हन्डुरस्
+    common: हन्डुरस्
+  nn:
+    official: Honduras
+    common: Honduras
+  nb:
+    official: Honduras
+    common: Honduras
+  oc:
+    official: Hondures
+    common: Hondures
+  or:
+    official: ହୋଣ୍ଡୁରାସ
+    common: ହୋଣ୍ଡୁରାସ
+  pa:
+    official: ਹਾਨਡੂਰਸ
+    common: ਹਾਨਡੂਰਸ
+  fa:
+    official: هندوراس
+    common: هندوراس
+  pl:
+    official: Honduras
+    common: Honduras
+  pt:
+    official: Honduras
+    common: Honduras
+  ps:
+    official: هانډوراس
+    common: هانډوراس
+  ro:
+    official: Honduras
+    common: Honduras
+  ru:
+    official: Гондурас
+    common: Гондурас
+  si:
+    official: හොන්ඩුරාස්
+    common: හොන්ඩුරාස්
+  sk:
+    official: Honduras
+    common: Honduras
+  sl:
+    official: Honduras
+    common: Honduras
+  so:
+    official: Honduras
+    common: Honduras
+  es:
+    official: Honduras
+    common: Honduras
+  sr:
+    official: Хондурас
+    common: Хондурас
+  sw:
+    official: Honduras
+    common: Honduras
+  sv:
+    official: Honduras
+    common: Honduras
+  ta:
+    official: ஹோன்டுராஸ்
+    common: ஹோன்டுராஸ்
+  tt:
+    official: Һондурас
+    common: Һондурас
+  te:
+    official: హోండురస్
+    common: హోండురస్
+  tl:
+    official: Honduras
+    common: Honduras
+  th:
+    official: ฮอนดูรัส
+    common: ฮอนดูรัส
+  ti:
+    official: Honduras
+    common: Honduras
+  tk:
+    official: Honduras
+    common: Honduras
+  tr:
+    official: Honduras
+    common: Honduras
+  ug:
+    official: ھوندۇراس
+    common: ھوندۇراس
+  uk:
+    official: Гондурас
+    common: Гондурас
+  ve:
+    official: Honduras
+    common: Honduras
+  vi:
+    official: Hôn-đu-ra-xợ
+    common: Hôn-đu-ra-xợ
+  cy:
+    official: Honduras
+    common: Honduras
+  wa:
+    official: Honduras
+    common: Honduras
+  wo:
+    official: Onduuras
+    common: Onduuras
+  xh:
+    official: Honduras
+    common: Honduras
+  zu:
+    official: I-Hondurasi
+    common: I-Hondurasi

@@ -1,0 +1,334 @@
+---
+continent: North America
+alpha2: DO
+alpha3: DOM
+country_code: '1'
+international_prefix: '011'
+ioc: DOM
+gec: DR
+name: Dominican Republic
+national_destination_code_lengths:
+- 3
+national_number_lengths:
+- 10
+national_prefix: '1'
+number: '214'
+region: Americas
+subregion: Caribbean
+world_region: AMER
+un_locode: DO
+nationality: Dominican
+postal_code: true
+unofficial_names:
+- Dominican Republic
+- Dominikanische Republik
+- République Dominicaine
+- República Dominicana
+- ドミニカ共和国
+- Dominicaanse Republiek
+languages_official:
+- es
+languages_spoken:
+- es
+geo:
+  latitude: 18.735693
+  latitude_dec: '19.019824981689453'
+  longitude: -70.162651
+  longitude_dec: "-70.79285430908203"
+  max_latitude: 19.9319227
+  max_longitude: -68.32201669999999
+  min_latitude: 17.4700909
+  min_longitude: -72.00751
+  bounds:
+    northeast:
+      lat: 19.9319227
+      lng: -68.32201669999999
+    southwest:
+      lat: 17.4700909
+      lng: -72.00751
+currency_code: DOP
+postal_address_data:
+  key: DO
+  zipex: '11903,10101'
+  name: DOMINICAN REP.
+  zip: "\\d{5}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  posturl: http://inposdom.gob.do/servicios/codigo-postal.html#buscar_codigo
+  id: data/DO
+translations:
+  af:
+    official: Dominikaanse Republiek
+    common: Dominikaanse Republiek
+  sq:
+    official: Republika Dominikane
+    common: Republika Dominikane
+  am:
+    official: "፦ሡኒጤ ሱፑብሑጤ"
+    common: "፦ሡኒጤ ሱፑብሑጤ"
+  ar:
+    official: جمهوريّة الدّومينيكان
+    common: جمهوريّة الدّومينيكان
+  hy:
+    official: Դոմինիկյան Հանրապետություն
+    common: Դոմինիկյան Հանրապետություն
+  as:
+    official: ডোমিনিকান প্ৰজান্ত্ৰ্ৰ
+    common: ডোমিনিকান প্ৰজান্ত্ৰ্ৰ
+  az:
+    official: Dominikan Respublikası
+    common: Dominikan Respublikası
+  eu:
+    official: Dominikar Errepublika
+    common: Dominikar Errepublika
+  be:
+    official: Дамініканская Рэспубліка
+    common: Дамініканская Рэспубліка
+  bn:
+    official: ডোমিনিকান প্রজান্ত্র
+    common: ডোমিনিকান প্রজান্ত্র
+  bs:
+    official: Dominikanska Republika
+    common: Dominikanska Republika
+  br:
+    official: Republik Dominikan
+    common: Republik Dominikan
+  bg:
+    official: Доминиканска република
+    common: Доминиканска република
+  ca:
+    official: República Dominicana
+    common: República Dominicana
+  zh:
+    official: 多米尼加共和国
+    common: 多米尼加共和国
+  cs:
+    official: Dominikánská republika
+    common: Dominikánská republika
+  da:
+    official: Dominikanske Republik
+    common: Dominikanske Republik
+  nl:
+    official: Dominicaanse Republiek
+    common: Dominicaanse Republiek
+  dz:
+    official: ཌོ་མི་ནི་ཀཱན་ རི་པཔ་ལིཀ།
+    common: ཌོ་མི་ནི་ཀཱན་ རི་པཔ་ལིཀ།
+  en:
+    official: Dominican Republic
+    common: Dominican Republic
+  eo:
+    official: Domingo
+    common: Domingo
+  et:
+    official: Dominikaani Vabariik
+    common: Dominikaani Vabariik
+  fo:
+    official: Domingo lýðveldið
+    common: Domingo lýðveldið
+  fi:
+    official: Dominikaaninen tasavalta
+    common: Dominikaaninen tasavalta
+  fr:
+    official: Dominicaine, République
+    common: Dominicaine, République
+  ka:
+    official: დომინიკანის რესპუბლიკა
+    common: დომინიკანის რესპუბლიკა
+  de:
+    official: Dominikanische Republik
+    common: Dominikanische Republik
+  ga:
+    official: An Phoblacht Dhoiminiceach
+    common: An Phoblacht Dhoiminiceach
+  gl:
+    official: República Dominicana
+    common: República Dominicana
+  el:
+    official: Δομινικανή Δημοκρατία
+    common: Δομινικανή Δημοκρατία
+  gu:
+    official: ડોમિનિકન રીપબ્લિક
+    common: ડોમિનિકન રીપબ્લિક
+  he:
+    official: הרפובליקה הדומיניקנית
+    common: הרפובליקה הדומיניקנית
+  hi:
+    official: डोमिनिकन रिपब्लिक
+    common: डोमिनिकन रिपब्लिक
+  hr:
+    official: Dominikanska Republika
+    common: Dominikanska Republika
+  hu:
+    official: Dominikai Köztársaság
+    common: Dominikai Köztársaság
+  is:
+    official: Lýðveldið Dóminíka
+    common: Lýðveldið Dóminíka
+  ia:
+    official: Republica Dominican
+    common: Republica Dominican
+  id:
+    official: Republik Dominika
+    common: Republik Dominika
+  it:
+    official: Repubblica Dominicana
+    common: Repubblica Dominicana
+  ja:
+    official: ドミニカ共和国
+    common: ドミニカ共和国
+  kn:
+    official: ಡೊಮಿನಿಕನ್ ರಿಪಬ್ಲಿಕ್
+    common: ಡೊಮಿನಿಕನ್ ರಿಪಬ್ಲಿಕ್
+  kk:
+    official: Доминикан Республикасы
+    common: Доминикан Республикасы
+  km:
+    official: សាធារណរដ្ឋ​ដូមីនីកែន
+    common: សាធារណរដ្ឋ​ដូមីនីកែន
+  rw:
+    official: Repubulika ya Dominikani
+    common: Repubulika ya Dominikani
+  ko:
+    official: 도미니카 공화국
+    common: 도미니카 공화국
+  ku:
+    official: Komara Domînîk
+    common: Komara Domînîk
+  lv:
+    official: Dominikānas Republika
+    common: Dominikānas Republika
+  lt:
+    official: Dominikos Respublika
+    common: Dominikos Respublika
+  mk:
+    official: Доминиканска Република
+    common: Доминиканска Република
+  ml:
+    official: ഡൊമിനികന്‍ റിപ്പബ്ലിക്
+    common: ഡൊമിനികന്‍ റിപ്പബ്ലിക്
+  mi:
+    official: Dominican Republic
+    common: Dominican Republic
+  mr:
+    official: डॉमिनिकन रिपब्लिक
+    common: डॉमिनिकन रिपब्लिक
+  ms:
+    official: Republik Dominican
+    common: Republik Dominican
+  mt:
+    official: Repubblika Dominikana
+    common: Repubblika Dominikana
+  mn:
+    official: Доминик ард улс
+    common: Доминик ард улс
+  ne:
+    official: डोमिनिकन गणराज्य
+    common: डोमिनिकन गणराज्य
+  nn:
+    official: Den dominikanske republikken
+    common: Den dominikanske republikken
+  nb:
+    official: Den dominikanske republikk
+    common: Den dominikanske republikk
+  oc:
+    official: Republica Dominicana
+    common: Republica Dominicana
+  or:
+    official: ଡୋମିନୀକାନ ଗଣରାଜ୍ଯ
+    common: ଡୋମିନୀକାନ ଗଣରାଜ୍ଯ
+  pa:
+    official: ਡੋਮੀਨੀਆਨ ਗਣਰਾਜ
+    common: ਡੋਮੀਨੀਆਨ ਗਣਰਾਜ
+  fa:
+    official: جمهوری دومینیکن
+    common: جمهوری دومینیکن
+  pl:
+    official: Dominikana
+    common: Dominikana
+  pt:
+    official: República Dominicana
+    common: República Dominicana
+  ps:
+    official: Dominican Republic
+    common: Dominican Republic
+  ro:
+    official: Republica Dominicană
+    common: Republica Dominicană
+  ru:
+    official: Доминиканская республика
+    common: Доминиканская республика
+  si:
+    official: ඩොමිනිකානු ජනරජය
+    common: ඩොමිනිකානු ජනරජය
+  sk:
+    official: Dominikánska republika
+    common: Dominikánska republika
+  sl:
+    official: Dominikanska republika
+    common: Dominikanska republika
+  so:
+    official: Dominican Republic
+    common: Dominican Republic
+  es:
+    official: República Dominicana
+    common: República Dominicana
+  sr:
+    official: Доминиканска Република
+    common: Доминиканска Република
+  sw:
+    official: Dominican Republic
+    common: Dominican Republic
+  sv:
+    official: Dominikanska republiken
+    common: Dominikanska republiken
+  ta:
+    official: டொமினிக்கன் குடியரசு
+    common: டொமினிக்கன் குடியரசு
+  tt:
+    official: Доминика Җөмһүриәте
+    common: Доминика Җөмһүриәте
+  te:
+    official: డొమినికన్ రిపబ్లిక్
+    common: డొమినికన్ రిపబ్లిక్
+  tl:
+    official: Republikang Dominikano
+    common: Republikang Dominikano
+  th:
+    official: สาธารณรัฐโดมินิกัน
+    common: สาธารณรัฐโดมินิกัน
+  ti:
+    official: ዶሚኒክ ሪፑብሊክ
+    common: ዶሚኒክ ሪፑብሊክ
+  tk:
+    official: Dominakan Respublikasy
+    common: Dominakan Respublikasy
+  tr:
+    official: Dominik Cumhuriyeti
+    common: Dominik Cumhuriyeti
+  ug:
+    official: دومىنىكا جۇمھۇرىيىتى
+    common: دومىنىكا جۇمھۇرىيىتى
+  uk:
+    official: Домініканська республіка
+    common: Домініканська республіка
+  ve:
+    official: Dominican Republic
+    common: Dominican Republic
+  vi:
+    official: Cộng hoà Đô-mi-ni-cạ
+    common: Cộng hoà Đô-mi-ni-cạ
+  cy:
+    official: Gweriniaeth Dominica
+    common: Gweriniaeth Dominica
+  wa:
+    official: Republike Dominikinne
+    common: Republike Dominikinne
+  wo:
+    official: Republik Dominikee
+    common: Republik Dominikee
+  xh:
+    official: Ulawulo lokuziphatha kwe Dominican
+    common: Ulawulo lokuziphatha kwe Dominican
+  zu:
+    official: Ulawulo lokuziphatha kwe Dominikhani
+    common: Ulawulo lokuziphatha kwe Dominikhani

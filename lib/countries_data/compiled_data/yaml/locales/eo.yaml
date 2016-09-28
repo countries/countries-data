@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: Afganio
+    common: Afganio
+  AX:
+    official: Alando
+    common: Alando
+  AL:
+    official: Albanio
+    common: Albanio
+  DZ:
+    official: Alĝerio
+    common: Alĝerio
+  AS:
+    official: Usona Samoo
+    common: Usona Samoo
+  AD:
+    official: Andoro
+    common: Andoro
+  AO:
+    official: Angolo
+    common: Angolo
+  AI:
+    official: Angvilo
+    common: Angvilo
+  AQ:
+    official: Antarkto
+    common: Antarkto
+  AG:
+    official: Antigvo-Barbudo
+    common: Antigvo-Barbudo
+  AR:
+    official: Argentino
+    common: Argentino
+  AM:
+    official: Armenio
+    common: Armenio
+  AW:
+    official: Arubo
+    common: Arubo
+  AU:
+    official: Aŭstralio
+    common: Aŭstralio
+  AT:
+    official: Aŭstrio
+    common: Aŭstrio
+  AZ:
+    official: Azerbajĝano
+    common: Azerbajĝano
+  BS:
+    official: Bahamoj
+    common: Bahamoj
+  BH:
+    official: Barejno
+    common: Barejno
+  BD:
+    official: Bangladeŝo
+    common: Bangladeŝo
+  BB:
+    official: Barbado
+    common: Barbado
+  BY:
+    official: Belorusio
+    common: Belorusio
+  BE:
+    official: Belgio
+    common: Belgio
+  BZ:
+    official: Belizo
+    common: Belizo
+  BJ:
+    official: Benino
+    common: Benino
+  BM:
+    official: Bermudoj
+    common: Bermudoj
+  BT:
+    official: Butano
+    common: Butano
+  BO:
+    official: Bolivio, Plurnacia Ŝtato
+    common: Bolivio, Plurnacia Ŝtato
+  BQ:
+    official: Bonero, Sankta-Eŭstakio kaj Sabo
+    common: Bonero, Sankta-Eŭstakio kaj Sabo
+  BA:
+    official: Bosnio kaj Hercegovino
+    common: Bosnio kaj Hercegovino
+  BW:
+    official: Bocvano
+    common: Bocvano
+  BV:
+    official: Buvetinsulo
+    common: Buvetinsulo
+  BR:
+    official: Brazilo
+    common: Brazilo
+  IO:
+    official: Brita Hindoceana Teritorio
+    common: Brita Hindoceana Teritorio
+  BN:
+    official: Brunejo
+    common: Brunejo
+  BG:
+    official: Bulgario
+    common: Bulgario
+  BF:
+    official: Burkino
+    common: Burkino
+  BI:
+    official: Burundo
+    common: Burundo
+  KH:
+    official: Kamboĝo
+    common: Kamboĝo
+  CM:
+    official: Kameruno
+    common: Kameruno
+  CA:
+    official: Kanado
+    common: Kanado
+  CV:
+    official: Kabo-Verdo
+    common: Kabo-Verdo
+  KY:
+    official: Kejmanoj
+    common: Kejmanoj
+  CF:
+    official: Centr-Afrika Respubliko
+    common: Centr-Afrika Respubliko
+  TD:
+    official: Ĉado
+    common: Ĉado
+  CL:
+    official: Ĉilio
+    common: Ĉilio
+  CN:
+    official: Ĉinio
+    common: Ĉinio
+  CX:
+    official: Kristnaskinsulo
+    common: Kristnaskinsulo
+  CC:
+    official: Kokosinsuloj
+    common: Kokosinsuloj
+  CO:
+    official: Kolombio
+    common: Kolombio
+  KM:
+    official: Komoroj
+    common: Komoroj
+  CG:
+    official: Kongo
+    common: Kongo
+  CD:
+    official: Demokratia Respubliko Kongo
+    common: Demokratia Respubliko Kongo
+  CK:
+    official: Kukinsuloj
+    common: Kukinsuloj
+  CR:
+    official: Kostariko
+    common: Kostariko
+  CI:
+    official: Ebur-Bordo
+    common: Ebur-Bordo
+  HR:
+    official: Kroatio
+    common: Kroatio
+  CU:
+    official: Kubo
+    common: Kubo
+  CW:
+    official: Kuracao
+    common: Kuracao
+  CY:
+    official: Kipro
+    common: Kipro
+  CZ:
+    official: Ĉeĥio
+    common: Ĉeĥio
+  DK:
+    official: Danio
+    common: Danio
+  DJ:
+    official: Ĝibutio
+    common: Ĝibutio
+  DM:
+    official: Dominiko
+    common: Dominiko
+  DO:
+    official: Domingo
+    common: Domingo
+  EC:
+    official: Ekvadoro
+    common: Ekvadoro
+  EG:
+    official: Egiptio
+    common: Egiptio
+  SV:
+    official: Salvadoro
+    common: Salvadoro
+  GQ:
+    official: Ekvatora Gvineo
+    common: Ekvatora Gvineo
+  ER:
+    official: Eritreo
+    common: Eritreo
+  EE:
+    official: Estonio
+    common: Estonio
+  ET:
+    official: Etiopio
+    common: Etiopio
+  FK:
+    official: Falklandoj (Malvinoj)
+    common: Falklandoj (Malvinoj)
+  FO:
+    official: Ferooj
+    common: Ferooj
+  FJ:
+    official: Fiĝioj
+    common: Fiĝioj
+  FI:
+    official: Finnlando
+    common: Finnlando
+  FR:
+    official: Francio
+    common: Francio
+  GF:
+    official: Franca Gviano
+    common: Franca Gviano
+  PF:
+    official: Franca Polinezio
+    common: Franca Polinezio
+  TF:
+    official: Francaj Sudaj Teritorioj
+    common: Francaj Sudaj Teritorioj
+  GA:
+    official: Gabono
+    common: Gabono
+  GM:
+    official: Gambio
+    common: Gambio
+  GE:
+    official: Kartvelio
+    common: Kartvelio
+  DE:
+    official: Germanio
+    common: Germanio
+  GH:
+    official: Ganao
+    common: Ganao
+  GI:
+    official: Ĝibraltaro
+    common: Ĝibraltaro
+  GR:
+    official: Grekio
+    common: Grekio
+  GL:
+    official: Gronlando
+    common: Gronlando
+  GD:
+    official: Grenado
+    common: Grenado
+  GP:
+    official: Gvadelupo
+    common: Gvadelupo
+  GU:
+    official: Gvamo
+    common: Gvamo
+  GT:
+    official: Gvatemalo
+    common: Gvatemalo
+  GG:
+    official: Gernezejo
+    common: Gernezejo
+  GN:
+    official: Gvineo
+    common: Gvineo
+  GW:
+    official: Gvineo Bisaŭa
+    common: Gvineo Bisaŭa
+  GY:
+    official: Gujano
+    common: Gujano
+  HT:
+    official: Haitio
+    common: Haitio
+  HM:
+    official: Herda kaj Makdonaldaj Insuloj
+    common: Herda kaj Makdonaldaj Insuloj
+  VA:
+    official: Sankta Seĝo (Vatikano)
+    common: Sankta Seĝo (Vatikano)
+  HN:
+    official: Honduro
+    common: Honduro
+  HK:
+    official: Honkongo
+    common: Honkongo
+  HU:
+    official: Hungario
+    common: Hungario
+  IS:
+    official: Islando
+    common: Islando
+  IN:
+    official: Barato
+    common: Barato
+  ID:
+    official: Indonezio
+    common: Indonezio
+  IR:
+    official: Irano, Islama Respubliko
+    common: Irano, Islama Respubliko
+  IQ:
+    official: Irako
+    common: Irako
+  IE:
+    official: Irlando
+    common: Irlando
+  IM:
+    official: Manksinsulo
+    common: Manksinsulo
+  IL:
+    official: Israelo
+    common: Israelo
+  IT:
+    official: Italio
+    common: Italio
+  JM:
+    official: Jamajko
+    common: Jamajko
+  JP:
+    official: Japanio
+    common: Japanio
+  JE:
+    official: Ĵerzejo
+    common: Ĵerzejo
+  JO:
+    official: Jordanio
+    common: Jordanio
+  KZ:
+    official: Kazaĥio
+    common: Kazaĥio
+  KE:
+    official: Kenjo
+    common: Kenjo
+  KI:
+    official: Kiribato
+    common: Kiribato
+  KP:
+    official: Koreio, Demokratia Popola Respubliko
+    common: Koreio, Demokratia Popola Respubliko
+  KR:
+    official: Koreio, Respubliko
+    common: Koreio, Respubliko
+  KW:
+    official: Kuvajto
+    common: Kuvajto
+  KG:
+    official: Kirgizio
+    common: Kirgizio
+  LA:
+    official: Laosa Popola Demokratia Respubliko
+    common: Laosa Popola Demokratia Respubliko
+  LV:
+    official: Latvio
+    common: Latvio
+  LB:
+    official: Libano
+    common: Libano
+  LS:
+    official: Lesoto
+    common: Lesoto
+  LR:
+    official: Liberio
+    common: Liberio
+  LY:
+    official: Libio
+    common: Libio
+  LI:
+    official: Liĥtenŝtejno
+    common: Liĥtenŝtejno
+  LT:
+    official: Litovio
+    common: Litovio
+  LU:
+    official: Luksemburgio
+    common: Luksemburgio
+  MO:
+    official: Makao
+    common: Makao
+  MK:
+    official: Makedonio, Respubliko
+    common: Makedonio, Respubliko
+  MG:
+    official: Madagaskaro
+    common: Madagaskaro
+  MW:
+    official: Malavio
+    common: Malavio
+  MY:
+    official: Malajzio
+    common: Malajzio
+  MV:
+    official: Maldivoj
+    common: Maldivoj
+  ML:
+    official: Malio
+    common: Malio
+  MT:
+    official: Malto
+    common: Malto
+  MH:
+    official: Marŝaloj
+    common: Marŝaloj
+  MQ:
+    official: Martiniko
+    common: Martiniko
+  MR:
+    official: Maŭritanio
+    common: Maŭritanio
+  MU:
+    official: Maŭricio
+    common: Maŭricio
+  YT:
+    official: Majoto
+    common: Majoto
+  MX:
+    official: Meksiko
+    common: Meksiko
+  FM:
+    official: Mikronezio, Federaciaj Ŝtatoj de
+    common: Mikronezio, Federaciaj Ŝtatoj de
+  MD:
+    official: Moldavio, Respubliko
+    common: Moldavio, Respubliko
+  MC:
+    official: Monako
+    common: Monako
+  MN:
+    official: Mongolio
+    common: Mongolio
+  ME:
+    official: Montenegro
+    common: Montenegro
+  MS:
+    official: Moncerato
+    common: Moncerato
+  MA:
+    official: Maroko
+    common: Maroko
+  MZ:
+    official: Mozambiko
+    common: Mozambiko
+  MM:
+    official: Mjanmao
+    common: Mjanmao
+  NA:
+    official: Namibio
+    common: Namibio
+  NR:
+    official: Nauro
+    common: Nauro
+  NP:
+    official: Nepalo
+    common: Nepalo
+  NL:
+    official: Nederlando
+    common: Nederlando
+  NC:
+    official: Nov-Kaledonio
+    common: Nov-Kaledonio
+  NZ:
+    official: Nov-Zelando
+    common: Nov-Zelando
+  NI:
+    official: Nikaragvo
+    common: Nikaragvo
+  NE:
+    official: Niĝero
+    common: Niĝero
+  NG:
+    official: Niĝerio
+    common: Niĝerio
+  NU:
+    official: Niuo
+    common: Niuo
+  NF:
+    official: Norfolkinsulo
+    common: Norfolkinsulo
+  MP:
+    official: Nord-Marianoj
+    common: Nord-Marianoj
+  'NO':
+    official: Norvegio
+    common: Norvegio
+  OM:
+    official: Omano
+    common: Omano
+  PK:
+    official: Pakistano
+    common: Pakistano
+  PW:
+    official: Palaŭo
+    common: Palaŭo
+  PS:
+    official: Palestino, Ŝtato
+    common: Palestino, Ŝtato
+  PA:
+    official: Panamo
+    common: Panamo
+  PG:
+    official: Papuo-Nov-Gvineo
+    common: Papuo-Nov-Gvineo
+  PY:
+    official: Paragvajo
+    common: Paragvajo
+  PE:
+    official: Peruo
+    common: Peruo
+  PH:
+    official: Filipinoj
+    common: Filipinoj
+  PN:
+    official: Pitkarna Insulo
+    common: Pitkarna Insulo
+  PL:
+    official: Pollando
+    common: Pollando
+  PT:
+    official: Portugalio
+    common: Portugalio
+  PR:
+    official: Puerto-Riko
+    common: Puerto-Riko
+  QA:
+    official: Kataro
+    common: Kataro
+  RE:
+    official: Reunio
+    common: Reunio
+  RO:
+    official: Rumanio
+    common: Rumanio
+  RU:
+    official: Rusa Federacio
+    common: Rusa Federacio
+  RW:
+    official: Ruando
+    common: Ruando
+  BL:
+    official: Sankta-Bartolomeo
+    common: Sankta-Bartolomeo
+  SH:
+    official: Sankta-Heleno
+    common: Sankta-Heleno
+  KN:
+    official: Sankta-Kito kaj Neviso
+    common: Sankta-Kito kaj Neviso
+  LC:
+    official: Sankta-Lucio
+    common: Sankta-Lucio
+  MF:
+    official: Sankta-Marteno (franca parto)
+    common: Sankta-Marteno (franca parto)
+  PM:
+    official: Sankta-Piero kaj Mikelono
+    common: Sankta-Piero kaj Mikelono
+  VC:
+    official: Sankta-Vincento kaj la Grenadinoj
+    common: Sankta-Vincento kaj la Grenadinoj
+  WS:
+    official: Samoo
+    common: Samoo
+  SM:
+    official: San-Marino
+    common: San-Marino
+  ST:
+    official: Sao-Tomeo kaj Principeo
+    common: Sao-Tomeo kaj Principeo
+  SA:
+    official: Saŭda Arabio
+    common: Saŭda Arabio
+  SN:
+    official: Senegalo
+    common: Senegalo
+  RS:
+    official: Serbio
+    common: Serbio
+  SC:
+    official: Sejŝeloj
+    common: Sejŝeloj
+  SL:
+    official: Siera-Leono
+    common: Siera-Leono
+  SG:
+    official: Singapuro
+    common: Singapuro
+  SX:
+    official: Sankta-Marteno (nederlanda parto)
+    common: Sankta-Marteno (nederlanda parto)
+  SK:
+    official: Slovakio
+    common: Slovakio
+  SI:
+    official: Slovenio
+    common: Slovenio
+  SB:
+    official: Salomonoj
+    common: Salomonoj
+  SO:
+    official: Somalio
+    common: Somalio
+  ZA:
+    official: Sud-Afriko
+    common: Sud-Afriko
+  GS:
+    official: Sud-Georgio kaj Sud-Sandviĉinsuloj
+    common: Sud-Georgio kaj Sud-Sandviĉinsuloj
+  ES:
+    official: Hispanio
+    common: Hispanio
+  LK:
+    official: Sri-Lanko
+    common: Sri-Lanko
+  SD:
+    official: Sudano
+    common: Sudano
+  SR:
+    official: Surinamo
+    common: Surinamo
+  SS:
+    official: Sud-Sudano
+    common: Sud-Sudano
+  SJ:
+    official: Svalbardo kaj Jan-Majen-insulo
+    common: Svalbardo kaj Jan-Majen-insulo
+  SZ:
+    official: Svazilando
+    common: Svazilando
+  SE:
+    official: Svedio
+    common: Svedio
+  CH:
+    official: Svislando
+    common: Svislando
+  SY:
+    official: Siria Araba Respubliko
+    common: Siria Araba Respubliko
+  TW:
+    official: Tajvano
+    common: Tajvano
+  TJ:
+    official: Taĝikio
+    common: Taĝikio
+  TZ:
+    official: Tanzanio, Unuiĝinta Respubliko
+    common: Tanzanio, Unuiĝinta Respubliko
+  TH:
+    official: Tajlando
+    common: Tajlando
+  TL:
+    official: Orienta Timoro
+    common: Orienta Timoro
+  TG:
+    official: Togo
+    common: Togo
+  TK:
+    official: Tokelao
+    common: Tokelao
+  TO:
+    official: Tongo
+    common: Tongo
+  TT:
+    official: Trinidado kaj Tobago
+    common: Trinidado kaj Tobago
+  TN:
+    official: Tunizio
+    common: Tunizio
+  TR:
+    official: Turkio
+    common: Turkio
+  TM:
+    official: Turkmenio
+    common: Turkmenio
+  TC:
+    official: Turkoj kaj Kajkoj
+    common: Turkoj kaj Kajkoj
+  TV:
+    official: Tuvalo
+    common: Tuvalo
+  UG:
+    official: Ugando
+    common: Ugando
+  UA:
+    official: Ukrainio
+    common: Ukrainio
+  AE:
+    official: Unuiĝintaj Arabaj Emirlandoj
+    common: Unuiĝintaj Arabaj Emirlandoj
+  GB:
+    official: Britio
+    common: Britio
+  US:
+    official: Usono
+    common: Usono
+  UM:
+    official: Usonaj Malgrandaj Insuloj
+    common: Usonaj Malgrandaj Insuloj
+  UY:
+    official: Urugvajo
+    common: Urugvajo
+  UZ:
+    official: Uzbekio
+    common: Uzbekio
+  VU:
+    official: Vanuatuo
+    common: Vanuatuo
+  VE:
+    official: Venezuelo, Bolivara Respubliko
+    common: Venezuelo, Bolivara Respubliko
+  VN:
+    official: Vjetnamio
+    common: Vjetnamio
+  VG:
+    official: Virgulininsuloj, Britaj
+    common: Virgulininsuloj, Britaj
+  VI:
+    official: Virgulininsuloj, Usonaj
+    common: Virgulininsuloj, Usonaj
+  WF:
+    official: Valiso kaj Futuno
+    common: Valiso kaj Futuno
+  EH:
+    official: Okcidenta Saharo
+    common: Okcidenta Saharo
+  YE:
+    official: Jemeno
+    common: Jemeno
+  ZM:
+    official: Zambio
+    common: Zambio
+  ZW:
+    official: Zimbabvo
+    common: Zimbabvo

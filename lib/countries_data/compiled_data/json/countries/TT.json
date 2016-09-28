@@ -1,0 +1,434 @@
+{
+  "continent": "North America",
+  "alpha2": "TT",
+  "alpha3": "TTO",
+  "country_code": "1",
+  "international_prefix": "011",
+  "ioc": "TRI",
+  "gec": "TD",
+  "name": "Trinidad and Tobago",
+  "national_destination_code_lengths": [
+    3
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "1",
+  "number": "780",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "AMER",
+  "un_locode": "TT",
+  "nationality": "Trinidadian",
+  "postal_code": false,
+  "unofficial_names": [
+    "Trinidad and Tobago",
+    "Trinidad und Tobago",
+    "Trinité et Tobago",
+    "Trinidad y Tobago",
+    "トリニダード・トバゴ",
+    "Trinidad en Tobago"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 10.691803,
+    "latitude_dec": "10.68574047088623",
+    "longitude": -61.222503,
+    "longitude_dec": "-61.1640625",
+    "max_latitude": 11.3625022,
+    "max_longitude": -60.4924983,
+    "min_latitude": 10.0424809,
+    "min_longitude": -61.93141749999999,
+    "bounds": {
+      "northeast": {
+        "lat": 11.3625022,
+        "lng": -60.4924983
+      },
+      "southwest": {
+        "lat": 10.0424809,
+        "lng": -61.93141749999999
+      }
+    }
+  },
+  "currency_code": "TTD",
+  "postal_address_data": {
+    "id": "data/TT",
+    "key": "TT",
+    "name": "TRINIDAD AND TOBAGO"
+  },
+  "translations": {
+    "af": {
+      "official": "Trinidad en Tobago",
+      "common": "Trinidad en Tobago"
+    },
+    "sq": {
+      "official": "Trinidad dhe Tobago",
+      "common": "Trinidad dhe Tobago"
+    },
+    "am": {
+      "official": "ትሱኒ፣፥ ጕና ቶባጕ",
+      "common": "ትሱኒ፣፥ ጕና ቶባጕ"
+    },
+    "ar": {
+      "official": "ترينيداد و توباغو",
+      "common": "ترينيداد و توباغو"
+    },
+    "hy": {
+      "official": "Տրինիդադ-Տոբագո",
+      "common": "Տրինիդադ-Տոբագո"
+    },
+    "as": {
+      "official": "ট্ৰিনিডাড আৰু টোবাগো",
+      "common": "ট্ৰিনিডাড আৰু টোবাগো"
+    },
+    "az": {
+      "official": "Trinidad və Tobaqo",
+      "common": "Trinidad və Tobaqo"
+    },
+    "eu": {
+      "official": "Trinidad eta Tobago",
+      "common": "Trinidad eta Tobago"
+    },
+    "be": {
+      "official": "Трынідад і Табага",
+      "common": "Трынідад і Табага"
+    },
+    "bn": {
+      "official": "ত্রিনিদাদ ও টোবাগো",
+      "common": "ত্রিনিদাদ ও টোবাগো"
+    },
+    "bs": {
+      "official": "Trinidad i Tobago",
+      "common": "Trinidad i Tobago"
+    },
+    "br": {
+      "official": "Trinidad ha Tobago",
+      "common": "Trinidad ha Tobago"
+    },
+    "bg": {
+      "official": "Тринидад и Тобаго",
+      "common": "Тринидад и Тобаго"
+    },
+    "ca": {
+      "official": "Trinitat i Tobago",
+      "common": "Trinitat i Tobago"
+    },
+    "zh": {
+      "official": "特里尼达和多巴哥",
+      "common": "特里尼达和多巴哥"
+    },
+    "cs": {
+      "official": "Trinidad a Tobago",
+      "common": "Trinidad a Tobago"
+    },
+    "da": {
+      "official": "Trinidad og Tobago",
+      "common": "Trinidad og Tobago"
+    },
+    "nl": {
+      "official": "Trinidad en Tobago",
+      "common": "Trinidad en Tobago"
+    },
+    "dz": {
+      "official": "ཊིར་ནི་ཌེཊདང་ཊོ་བཱ་གཱོ།",
+      "common": "ཊིར་ནི་ཌེཊདང་ཊོ་བཱ་གཱོ།"
+    },
+    "en": {
+      "official": "Trinidad and Tobago",
+      "common": "Trinidad and Tobago"
+    },
+    "eo": {
+      "official": "Trinidado kaj Tobago",
+      "common": "Trinidado kaj Tobago"
+    },
+    "et": {
+      "official": "Trinidad ja Tobago",
+      "common": "Trinidad ja Tobago"
+    },
+    "fo": {
+      "official": "Trinidad og Tobago",
+      "common": "Trinidad og Tobago"
+    },
+    "fi": {
+      "official": "Trinidad ja Tobago",
+      "common": "Trinidad ja Tobago"
+    },
+    "fr": {
+      "official": "Trinité-et-Tobago",
+      "common": "Trinité-et-Tobago"
+    },
+    "ka": {
+      "official": "ტრინიდადი და ტობაგო",
+      "common": "ტრინიდადი და ტობაგო"
+    },
+    "de": {
+      "official": "Trinidad und Tobago",
+      "common": "Trinidad und Tobago"
+    },
+    "ga": {
+      "official": "Oileáin na Tríonóide agus Tobága",
+      "common": "Oileáin na Tríonóide agus Tobága"
+    },
+    "gl": {
+      "official": "Trindade e Tobago",
+      "common": "Trindade e Tobago"
+    },
+    "el": {
+      "official": "Τρινιδάδ και Τομπάγκο",
+      "common": "Τρινιδάδ και Τομπάγκο"
+    },
+    "gu": {
+      "official": "ટ્રિનિડાડ અને ટોબેગો",
+      "common": "ટ્રિનિડાડ અને ટોબેગો"
+    },
+    "he": {
+      "official": "טרינידד וטובגו",
+      "common": "טרינידד וטובגו"
+    },
+    "hi": {
+      "official": "त्रिनीदाद और टोबैगो",
+      "common": "त्रिनीदाद और टोबैगो"
+    },
+    "hr": {
+      "official": "Trinidad i Tobago",
+      "common": "Trinidad i Tobago"
+    },
+    "hu": {
+      "official": "Trinidad és Tobago",
+      "common": "Trinidad és Tobago"
+    },
+    "is": {
+      "official": "Trínidad og Tóbagó",
+      "common": "Trínidad og Tóbagó"
+    },
+    "ia": {
+      "official": "Trinidad e Tobago",
+      "common": "Trinidad e Tobago"
+    },
+    "id": {
+      "official": "Trinidad dan Tobago",
+      "common": "Trinidad dan Tobago"
+    },
+    "it": {
+      "official": "Trinidad e Tobago",
+      "common": "Trinidad e Tobago"
+    },
+    "ja": {
+      "official": "トリニダード・トバゴ",
+      "common": "トリニダード・トバゴ"
+    },
+    "kn": {
+      "official": "ಟ್ರಿನಿಡಾಡ್ ಮತ್ತು ಟೊಬಾಗೋ",
+      "common": "ಟ್ರಿನಿಡಾಡ್ ಮತ್ತು ಟೊಬಾಗೋ"
+    },
+    "kk": {
+      "official": "Тринидад және Тобаго",
+      "common": "Тринидад және Тобаго"
+    },
+    "km": {
+      "official": "ទ្រីនីដាដ និង​ តូបាហ្គោ",
+      "common": "ទ្រីនីដាដ និង​ តូបាហ្គោ"
+    },
+    "rw": {
+      "official": "Tirinida na Tobago",
+      "common": "Tirinida na Tobago"
+    },
+    "ko": {
+      "official": "트리니다드 토바고",
+      "common": "트리니다드 토바고"
+    },
+    "ku": {
+      "official": "Trînîdad û Tobago",
+      "common": "Trînîdad û Tobago"
+    },
+    "lv": {
+      "official": "Trinidāda un Tobāgo",
+      "common": "Trinidāda un Tobāgo"
+    },
+    "lt": {
+      "official": "Trinidadas ir Tobagas",
+      "common": "Trinidadas ir Tobagas"
+    },
+    "mk": {
+      "official": "Тринидад и Тобаго",
+      "common": "Тринидад и Тобаго"
+    },
+    "ml": {
+      "official": "ട്രിനിഡാഡും ടൊബാഗോയും",
+      "common": "ട്രിനിഡാഡും ടൊബാഗോയും"
+    },
+    "mi": {
+      "official": "Trinidad and Tobago",
+      "common": "Trinidad and Tobago"
+    },
+    "mr": {
+      "official": "त्रिनिदाद ऍंड टोबॅगो",
+      "common": "त्रिनिदाद ऍंड टोबॅगो"
+    },
+    "ms": {
+      "official": "Trinidad dan Tobago",
+      "common": "Trinidad dan Tobago"
+    },
+    "mt": {
+      "official": "Trinidad u Tobago",
+      "common": "Trinidad u Tobago"
+    },
+    "mn": {
+      "official": "Trinidad and Tobago",
+      "common": "Trinidad and Tobago"
+    },
+    "ne": {
+      "official": "ट्रिनिड्याड र टोबागो",
+      "common": "ट्रिनिड्याड र टोबागो"
+    },
+    "nn": {
+      "official": "Trinidad og Tobago",
+      "common": "Trinidad og Tobago"
+    },
+    "nb": {
+      "official": "Trinidad og Tobago",
+      "common": "Trinidad og Tobago"
+    },
+    "oc": {
+      "official": "Trinitat e Tobago",
+      "common": "Trinitat e Tobago"
+    },
+    "or": {
+      "official": "ତ୍ରିନିଦାଦ ଏବଂ ଟୋବାଗୋ",
+      "common": "ତ୍ରିନିଦାଦ ଏବଂ ଟୋବାଗୋ"
+    },
+    "pa": {
+      "official": "ਟਰਿਨੀਦਾਦ ਅਤੇ ਟੋਬੇਗੋ",
+      "common": "ਟਰਿਨੀਦਾਦ ਅਤੇ ਟੋਬੇਗੋ"
+    },
+    "fa": {
+      "official": "ترینیداد و تُباگو",
+      "common": "ترینیداد و تُباگو"
+    },
+    "pl": {
+      "official": "Trynidad i Tobago",
+      "common": "Trynidad i Tobago"
+    },
+    "pt": {
+      "official": "Trinidade e Tobago",
+      "common": "Trinidade e Tobago"
+    },
+    "ps": {
+      "official": "Trinidad and Tobago",
+      "common": "Trinidad and Tobago"
+    },
+    "ro": {
+      "official": "Trinidad și Tobago",
+      "common": "Trinidad și Tobago"
+    },
+    "ru": {
+      "official": "Тринидад и Тобаго",
+      "common": "Тринидад и Тобаго"
+    },
+    "si": {
+      "official": "ට්‍රිනීඩෑඩව හා ටොබාගෝ",
+      "common": "ට්‍රිනීඩෑඩව හා ටොබාගෝ"
+    },
+    "sk": {
+      "official": "Trinidad a Tobago",
+      "common": "Trinidad a Tobago"
+    },
+    "sl": {
+      "official": "Trinidad in Tabago",
+      "common": "Trinidad in Tabago"
+    },
+    "so": {
+      "official": "Trinidad and Tobago",
+      "common": "Trinidad and Tobago"
+    },
+    "es": {
+      "official": "Trinidad y Tobago",
+      "common": "Trinidad y Tobago"
+    },
+    "sr": {
+      "official": "Тринидад и Тобаго",
+      "common": "Тринидад и Тобаго"
+    },
+    "sw": {
+      "official": "Trinidad and Tobago",
+      "common": "Trinidad and Tobago"
+    },
+    "sv": {
+      "official": "Trinidad och Tobago",
+      "common": "Trinidad och Tobago"
+    },
+    "ta": {
+      "official": "ட்ரைனிடேட் மற்றும் டோபேகோ",
+      "common": "ட்ரைனிடேட் மற்றும் டோபேகோ"
+    },
+    "tt": {
+      "official": "Тринидад белән Тобаgо",
+      "common": "Тринидад белән Тобаgо"
+    },
+    "te": {
+      "official": "త్రినిదాద్ అండ్ టోబాగో",
+      "common": "త్రినిదాద్ అండ్ టోబాగో"
+    },
+    "tl": {
+      "official": "Trinidad at Tobago",
+      "common": "Trinidad at Tobago"
+    },
+    "th": {
+      "official": "ตรินิแดดและโตเบโก",
+      "common": "ตรินิแดดและโตเบโก"
+    },
+    "ti": {
+      "official": "ትሪኒዳድ እና ቶባጎ",
+      "common": "ትሪኒዳድ እና ቶባጎ"
+    },
+    "tk": {
+      "official": "Trinidad we Tobago",
+      "common": "Trinidad we Tobago"
+    },
+    "tr": {
+      "official": "Trinidad ve Tobago",
+      "common": "Trinidad ve Tobago"
+    },
+    "ug": {
+      "official": "تىرىنىداد ۋە توباگو",
+      "common": "تىرىنىداد ۋە توباگو"
+    },
+    "uk": {
+      "official": "Тринідад та Тобаго",
+      "common": "Тринідад та Тобаго"
+    },
+    "ve": {
+      "official": "Trinidad and Tobago",
+      "common": "Trinidad and Tobago"
+    },
+    "vi": {
+      "official": "Trinh-i-đat và To-ba-gô",
+      "common": "Trinh-i-đat và To-ba-gô"
+    },
+    "cy": {
+      "official": "Trinidad a Tobago",
+      "common": "Trinidad a Tobago"
+    },
+    "wa": {
+      "official": "Trinité et Tobago",
+      "common": "Trinité et Tobago"
+    },
+    "wo": {
+      "official": "Tirinidaad ak Tobaago",
+      "common": "Tirinidaad ak Tobaago"
+    },
+    "xh": {
+      "official": "Trinidad ne Tobago",
+      "common": "Trinidad ne Tobago"
+    },
+    "zu": {
+      "official": "I-Trinidad ne Tobago",
+      "common": "I-Trinidad ne Tobago"
+    }
+  }
+}

@@ -1,0 +1,336 @@
+---
+continent: North America
+alpha2: VC
+alpha3: VCT
+country_code: '1'
+international_prefix: '011'
+ioc: VIN
+gec: VC
+name: Saint Vincent And The Grenadines
+national_destination_code_lengths:
+- 3
+national_number_lengths:
+- 10
+national_prefix: '1'
+number: '670'
+region: Americas
+subregion: Caribbean
+world_region: AMER
+un_locode: VC
+nationality: Saint Vincentian
+postal_code: true
+unofficial_names:
+- Saint Vincent and the Grenadines
+- Saint Vincent und die Grenadinen
+- Saint-Vincent et les Grenadines
+- San Vicente y Granadinas
+- セントビンセントおよびグレナディーン諸島
+- Saint Vincent en de Grenadines
+- St. Vincent Grenadines
+- St Vincent Grenadines
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: 13.2528179
+  latitude_dec: '13.217251777648926'
+  longitude: -61.19716289999999
+  longitude_dec: "-61.19344711303711"
+  max_latitude: 13.3831591
+  max_longitude: -61.1150287
+  min_latitude: 12.5326588
+  min_longitude: -61.4609592
+  bounds:
+    northeast:
+      lat: 13.3831591
+      lng: -61.1150287
+    southwest:
+      lat: 12.5326588
+      lng: -61.4609592
+currency_code: XCD
+postal_address_data:
+  key: VC
+  zipex: VC0100,VC0110,VC0400
+  name: SAINT VINCENT AND THE GRENADINES (ANTILLES)
+  zip: VC\d{4}
+  fmt: "%N%n%O%n%A%n%C %Z"
+  posturl: http://www.svgpost.gov.vc/?option=com_content&view=article&id=3&Itemid=16
+  id: data/VC
+translations:
+  af:
+    official: St. Vincent en die Grenadine
+    common: St. Vincent en die Grenadine
+  sq:
+    official: Saint Vincent dhe Grenadines
+    common: Saint Vincent dhe Grenadines
+  am:
+    official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+  ar:
+    official: سانت فنسنت و جزر الغرينادين
+    common: سانت فنسنت و جزر الغرينادين
+  hy:
+    official: Սենտ Վիսենտ-Գրենադիններ
+    common: Սենտ Վիսենտ-Գրենադիններ
+  as:
+    official: চেন্ট ভিনচেন্ট আৰু গ্ৰেনাডিনচ
+    common: চেন্ট ভিনচেন্ট আৰু গ্ৰেনাডিনচ
+  az:
+    official: Müqəddəs Vinsent və Qrenadin
+    common: Müqəddəs Vinsent və Qrenadin
+  eu:
+    official: Saint Vincent eta Grenadinak
+    common: Saint Vincent eta Grenadinak
+  be:
+    official: Сент-Вінсент і Грэнадзіны
+    common: Сент-Вінсент і Грэнадзіны
+  bn:
+    official: সেন্ট ভিনসেন্ট ও গ্রেনাডিনস
+    common: সেন্ট ভিনসেন্ট ও গ্রেনাডিনস
+  bs:
+    official: Saint Vincent i Grenadines
+    common: Saint Vincent i Grenadines
+  br:
+    official: Saint Visant hag ar Grenadinez
+    common: Saint Visant hag ar Grenadinez
+  bg:
+    official: Свети Винсент и Гренадин
+    common: Свети Винсент и Гренадин
+  ca:
+    official: Saint Vincent i les Grenadines
+    common: Saint Vincent i les Grenadines
+  zh:
+    official: 圣文森特和格林纳丁斯
+    common: 圣文森特和格林纳丁斯
+  cs:
+    official: Svatý Vincenc a Grenadiny
+    common: Svatý Vincenc a Grenadiny
+  da:
+    official: Sankt Vincent og Grenadinerne
+    common: Sankt Vincent og Grenadinerne
+  nl:
+    official: Saint Vincent en de Grenadines
+    common: Saint Vincent en de Grenadines
+  dz:
+    official: སེནཊི་བཱིན་སིནཊ་དང་ གཱེརན་ན་ཌེནེས
+    common: སེནཊི་བཱིན་སིནཊ་དང་ གཱེརན་ན་ཌེནེས
+  en:
+    official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+  eo:
+    official: Sankta-Vincento kaj la Grenadinoj
+    common: Sankta-Vincento kaj la Grenadinoj
+  et:
+    official: Saint Vincent ja Grenadiinid
+    common: Saint Vincent ja Grenadiinid
+  fo:
+    official: Saint Vinsent og Grenadinoyggjar
+    common: Saint Vinsent og Grenadinoyggjar
+  fi:
+    official: Saint Vincent ja Grenadiinit
+    common: Saint Vincent ja Grenadiinit
+  fr:
+    official: Saint-Vincent-et-les Grenadines
+    common: Saint-Vincent-et-les Grenadines
+  ka:
+    official: სენტ-ვინსენტი და გრენადინები
+    common: სენტ-ვინსენტი და გრენადინები
+  de:
+    official: St. Vincent und die Grenadinen
+    common: St. Vincent und die Grenadinen
+  ga:
+    official: Saint Vincent agus na Grenadines
+    common: Saint Vincent agus na Grenadines
+  gl:
+    official: San Vicente e as Granadinas
+    common: San Vicente e as Granadinas
+  el:
+    official: Άγιος Βικέντιος και Γρεναδίνες
+    common: Άγιος Βικέντιος και Γρεναδίνες
+  gu:
+    official: સેન્ટ વિન્સેન્ટ અને ગ્રેનેડીન્સ
+    common: સેન્ટ વિન્સેન્ટ અને ગ્રેનેડીન્સ
+  he:
+    official: סנט וינסנט והגרנדינים
+    common: סנט וינסנט והגרנדינים
+  hi:
+    official: सेंट विन्सेन्ट एन्ड द ग्रेनेडाइन्स
+    common: सेंट विन्सेन्ट एन्ड द ग्रेनेडाइन्स
+  hr:
+    official: Sveti Vincent i Grenadini
+    common: Sveti Vincent i Grenadini
+  hu:
+    official: Saint Vincent és a Grenadines-szigetek
+    common: Saint Vincent és a Grenadines-szigetek
+  is:
+    official: Sankti Vincent og Grenadineeyjar
+    common: Sankti Vincent og Grenadineeyjar
+  ia:
+    official: Sancte Vincente e le Grenadinas
+    common: Sancte Vincente e le Grenadinas
+  id:
+    official: St. Vincent dan The Grenadines
+    common: St. Vincent dan The Grenadines
+  it:
+    official: Saint Vincent e Grenadine
+    common: Saint Vincent e Grenadine
+  ja:
+    official: セントビンセント及びグレナディーン諸島
+    common: セントビンセント及びグレナディーン諸島
+  kn:
+    official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+  kk:
+    official: Сент-Винсент және Гренадинар
+    common: Сент-Винсент және Гренадинар
+  km:
+    official: សង់វាំងសង់ និង ហ្គ្រីណាឌីន
+    common: សង់វាំងសង់ និង ហ្គ្រីណាឌីន
+  rw:
+    official: Mutagatifu Visenti na Gerenadine
+    common: Mutagatifu Visenti na Gerenadine
+  ko:
+    official: 세인트 빈센트 그레나다인즈
+    common: 세인트 빈센트 그레나다인즈
+  ku:
+    official: Saint Vincent û Grenadines
+    common: Saint Vincent û Grenadines
+  lv:
+    official: Sentvinsenta un Grenadīnas
+    common: Sentvinsenta un Grenadīnas
+  lt:
+    official: Sent Vinsentas ir Grenadinai
+    common: Sent Vinsentas ir Grenadinai
+  mk:
+    official: Св. Винсент и Гренадините
+    common: Св. Винсент и Гренадините
+  ml:
+    official: സെയിന്റ് വിന്‍സന്റും ഗ്രനഡൈന്‍സും
+    common: സെയിന്റ് വിന്‍സന്റും ഗ്രനഡൈന്‍സും
+  mi:
+    official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+  mr:
+    official: सेंट व्हिन्सेंट आणी दि ग्रेनाडिन्स
+    common: सेंट व्हिन्सेंट आणी दि ग्रेनाडिन्स
+  ms:
+    official: Saint Vincent dan Grenadines
+    common: Saint Vincent dan Grenadines
+  mt:
+    official: St. Vinċenz u l-Grenadini
+    common: St. Vinċenz u l-Grenadini
+  mn:
+    official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+  ne:
+    official: सेन्ट भिन्सेन्ट र ग्रेनडिन्स
+    common: सेन्ट भिन्सेन्ट र ग्रेनडिन्स
+  nn:
+    official: Saint Vincent og Grenadinane
+    common: Saint Vincent og Grenadinane
+  nb:
+    official: Saint Vincent og Grenadinene
+    common: Saint Vincent og Grenadinene
+  oc:
+    official: St. Vincent e les Granadines
+    common: St. Vincent e les Granadines
+  or:
+    official: ସେଣ୍ଟ ଭିନସେଣ୍ଟ ଏବଂ ଗ୍ରେନେଡିସ
+    common: ସେଣ୍ଟ ଭିନସେଣ୍ଟ ଏବଂ ଗ୍ରେନେଡିସ
+  pa:
+    official: ਸੇਂਟ ਵਿਨਸਨਟ ਅਤੇ ਗਰੇਨਾਡਾਈਨਸ
+    common: ਸੇਂਟ ਵਿਨਸਨਟ ਅਤੇ ਗਰੇਨਾਡਾਈਨਸ
+  fa:
+    official: سن وینسنت و گرنادین
+    common: سن وینسنت و گرنادین
+  pl:
+    official: Saint Vincent i Grenadyny
+    common: Saint Vincent i Grenadyny
+  pt:
+    official: São Vicente e Grenadinas
+    common: São Vicente e Grenadinas
+  ps:
+    official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+  ro:
+    official: Sfinții Vincent și Grenadines
+    common: Sfinții Vincent și Grenadines
+  ru:
+    official: Сент-Винсент и Гренадины
+    common: Сент-Винсент и Гренадины
+  si:
+    official: ශාන්ත වින්සෙන්ට් හා ග්‍රෙන්ඩිනේස්
+    common: ශාන්ත වින්සෙන්ට් හා ග්‍රෙන්ඩිනේස්
+  sk:
+    official: Svätý Vincent a Grenadíny
+    common: Svätý Vincent a Grenadíny
+  sl:
+    official: Saint Vincent in Grenadini
+    common: Saint Vincent in Grenadini
+  so:
+    official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+  es:
+    official: San Vicente y las Granadinas
+    common: San Vicente y las Granadinas
+  sr:
+    official: Свети Винсент и Гренадини
+    common: Свети Винсент и Гренадини
+  sw:
+    official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+  sv:
+    official: Sankt Vincent och Grenadinerna
+    common: Sankt Vincent och Grenadinerna
+  ta:
+    official: செயின்ட் வின்சென்ட் மற்றும் க்ரினடின்ஸ்
+    common: செயின்ட் வின்சென்ட் மற்றும் க்ரினடின்ஸ்
+  tt:
+    official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+  te:
+    official: సైంట్ విన్సెంట్ మరియు ది గ్రేనాడిన్స్
+    common: సైంట్ విన్సెంట్ మరియు ది గ్రేనాడిన్స్
+  tl:
+    official: Saint Vincent at Grenadines
+    common: Saint Vincent at Grenadines
+  th:
+    official: เซนต์วินเซนต์และเกรนาดีนส์
+    common: เซนต์วินเซนต์และเกรนาดีนส์
+  ti:
+    official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+  tk:
+    official: Sent-Winsent we Grenadinler
+    common: Sent-Winsent we Grenadinler
+  tr:
+    official: Sen Vinsınt ve Granadalar
+    common: Sen Vinsınt ve Granadalar
+  ug:
+    official: ساينىت-ۋىنسېنت ۋە گىرېنادىنېس
+    common: ساينىت-ۋىنسېنت ۋە گىرېنادىنېس
+  uk:
+    official: Сент-Вінсент і Гренадини
+    common: Сент-Вінсент і Гренадини
+  ve:
+    official: St. Vincent na Grenadines
+    common: St. Vincent na Grenadines
+  vi:
+    official: Xan Vinh-xen và Gou-en-a-đinh
+    common: Xan Vinh-xen và Gou-en-a-đinh
+  cy:
+    official: Saint Vincent a'r Grenadines
+    common: Saint Vincent a'r Grenadines
+  wa:
+    official: Sint Vincint et les Grenadines
+    common: Sint Vincint et les Grenadines
+  wo:
+    official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+  xh:
+    official: St. Vincent ne Grenadines
+    common: St. Vincent ne Grenadines
+  zu:
+    official: I-St. Vincent ne Grenadines
+    common: I-St. Vincent ne Grenadines

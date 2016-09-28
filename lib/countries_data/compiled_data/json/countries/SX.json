@@ -1,0 +1,432 @@
+{
+  "continent": "North America",
+  "alpha2": "SX",
+  "alpha3": "SXM",
+  "country_code": "1",
+  "international_prefix": "011",
+  "ioc": null,
+  "gec": "NN",
+  "name": "Sint Maarten",
+  "national_destination_code_lengths": [
+    3
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "0",
+  "number": "534",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "AMER",
+  "un_locode": "SX",
+  "nationality": "Dutch",
+  "postal_code": true,
+  "unofficial_names": [
+    "Sint Maarten",
+    "セント・マーチン島"
+  ],
+  "languages_official": [
+    "nl",
+    "en"
+  ],
+  "languages_spoken": [
+    "nl",
+    "en"
+  ],
+  "geo": {
+    "latitude": 18.04248,
+    "latitude_dec": "18.042224884033203",
+    "longitude": -63.05483,
+    "longitude_dec": "-63.06623458862305",
+    "max_latitude": 18.0641707,
+    "max_longitude": -62.99824479999999,
+    "min_latitude": 18.0050986,
+    "min_longitude": -63.13795810000001,
+    "bounds": {
+      "northeast": {
+        "lat": 18.0641707,
+        "lng": -62.99824479999999
+      },
+      "southwest": {
+        "lat": 18.0050986,
+        "lng": -63.13795810000001
+      }
+    }
+  },
+  "currency_code": "ANG",
+  "postal_address_data": {
+    "id": "data/SX",
+    "key": "SX",
+    "name": "SINT MAARTEN"
+  },
+  "translations": {
+    "af": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "sq": {
+      "official": "Saint Martin (pjesa Franceze)",
+      "common": "Saint Martin (pjesa Franceze)"
+    },
+    "am": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "ar": {
+      "official": "سانت مارتين (القطاع الفرنسي)",
+      "common": "سانت مارتين (القطاع الفرنسي)"
+    },
+    "hy": {
+      "official": "Սինթ Մարտեն (Հոլանդական մաս)",
+      "common": "Սինթ Մարտեն (Հոլանդական մաս)"
+    },
+    "as": {
+      "official": "চেন্ট মাৰ্টিন (ফ্ৰেঞ্চ অংশ)",
+      "common": "চেন্ট মাৰ্টিন (ফ্ৰেঞ্চ অংশ)"
+    },
+    "az": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "eu": {
+      "official": "Saint Martin (Holandar zatia)",
+      "common": "Saint Martin (Holandar zatia)"
+    },
+    "be": {
+      "official": "Сінт-Мартэн (галандская частка)",
+      "common": "Сінт-Мартэн (галандская частка)"
+    },
+    "bn": {
+      "official": "সেন্ট মার্টিন (ফ্রেঞ্চ অংশ)",
+      "common": "সেন্ট মার্টিন (ফ্রেঞ্চ অংশ)"
+    },
+    "bs": {
+      "official": "Sint Maarten (Holandski dio)",
+      "common": "Sint Maarten (Holandski dio)"
+    },
+    "br": {
+      "official": "Sant Marzhin (rann gallek)",
+      "common": "Sant Marzhin (rann gallek)"
+    },
+    "bg": {
+      "official": "Синт Мартен (холандска част)",
+      "common": "Синт Мартен (холандска част)"
+    },
+    "ca": {
+      "official": "Sint Maarten (part neerlandesa)",
+      "common": "Sint Maarten (part neerlandesa)"
+    },
+    "zh": {
+      "official": "荷属圣马丁",
+      "common": "荷属圣马丁"
+    },
+    "cs": {
+      "official": "Svatý Martin (nizozemská část)",
+      "common": "Svatý Martin (nizozemská část)"
+    },
+    "da": {
+      "official": "Sint Maarten (hollandsk del)",
+      "common": "Sint Maarten (hollandsk del)"
+    },
+    "nl": {
+      "official": "Sint Maarten (Nederlands deel)",
+      "common": "Sint Maarten (Nederlands deel)"
+    },
+    "dz": {
+      "official": "སེནཊི་མར་ཊིན (ཕརེནཆི་གི་ཡན་ལག)།",
+      "common": "སེནཊི་མར་ཊིན (ཕརེནཆི་གི་ཡན་ལག)།"
+    },
+    "en": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "eo": {
+      "official": "Sankta-Marteno (nederlanda parto)",
+      "common": "Sankta-Marteno (nederlanda parto)"
+    },
+    "et": {
+      "official": "Sint Maarten (Hollandi osa)",
+      "common": "Sint Maarten (Hollandi osa)"
+    },
+    "fo": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "fi": {
+      "official": "Sint Maarten (hollantilainen osa)",
+      "common": "Sint Maarten (hollantilainen osa)"
+    },
+    "fr": {
+      "official": "Saint-Martin (partie néerlandaise)",
+      "common": "Saint-Martin (partie néerlandaise)"
+    },
+    "ka": {
+      "official": "სენ-მარტინი (ფრანგული ნაწილი)",
+      "common": "სენ-მარტინი (ფრანგული ნაწილი)"
+    },
+    "de": {
+      "official": "Saint-Martin (Niederländischer Teil)",
+      "common": "Saint-Martin (Niederländischer Teil)"
+    },
+    "ga": {
+      "official": "Sint Maarten (ceantar Ollannach)",
+      "common": "Sint Maarten (ceantar Ollannach)"
+    },
+    "gl": {
+      "official": "San Martiño (parte holandesa)",
+      "common": "San Martiño (parte holandesa)"
+    },
+    "el": {
+      "official": "Άγιος Μαρτίνος (Ολλανδικό τμήμα)",
+      "common": "Άγιος Μαρτίνος (Ολλανδικό τμήμα)"
+    },
+    "gu": {
+      "official": "સિન્ટ માર્ટેન (ડચ વિસ્તાર)",
+      "common": "સિન્ટ માર્ટેન (ડચ વિસ્તાર)"
+    },
+    "he": {
+      "official": "סנט מארטן (החלק ההולנדי)",
+      "common": "סנט מארטן (החלק ההולנדי)"
+    },
+    "hi": {
+      "official": "सेंट मार्टिन (डच भाग)",
+      "common": "सेंट मार्टिन (डच भाग)"
+    },
+    "hr": {
+      "official": "Sveti Martin (nizozemski dio)",
+      "common": "Sveti Martin (nizozemski dio)"
+    },
+    "hu": {
+      "official": "Szent Martin (holland oldal)",
+      "common": "Szent Martin (holland oldal)"
+    },
+    "is": {
+      "official": "Sankti Maarten (hollenski hluti)",
+      "common": "Sankti Maarten (hollenski hluti)"
+    },
+    "ia": {
+      "official": "Sancte Martin (parte nederlandese)",
+      "common": "Sancte Martin (parte nederlandese)"
+    },
+    "id": {
+      "official": "Sint Maarten (wilayah Belanda)",
+      "common": "Sint Maarten (wilayah Belanda)"
+    },
+    "it": {
+      "official": "Sint Maarten (parte olandese)",
+      "common": "Sint Maarten (parte olandese)"
+    },
+    "ja": {
+      "official": "サンマルタン (オランダ領)",
+      "common": "サンマルタン (オランダ領)"
+    },
+    "kn": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "kk": {
+      "official": "Синт-Мартен (Голландия аймағы)",
+      "common": "Синт-Мартен (Голландия аймағы)"
+    },
+    "km": {
+      "official": "សាន​ម៉ាទីន (ផ្នែក​របស់ហុល្លង់)",
+      "common": "សាន​ម៉ាទីន (ផ្នែក​របស់ហុល្លង់)"
+    },
+    "rw": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "ko": {
+      "official": "신트마르턴 (네덜란드령)",
+      "common": "신트마르턴 (네덜란드령)"
+    },
+    "ku": {
+      "official": "Saint Martin (beşa firansî)",
+      "common": "Saint Martin (beşa firansî)"
+    },
+    "lv": {
+      "official": "Sintmārtena (Nīderlandes daļa)",
+      "common": "Sintmārtena (Nīderlandes daļa)"
+    },
+    "lt": {
+      "official": "Sin Martenas (Nyderalandų dalis)",
+      "common": "Sin Martenas (Nyderalandų dalis)"
+    },
+    "mk": {
+      "official": "Св. Мартин (Холандски дел)",
+      "common": "Св. Мартин (Холандски дел)"
+    },
+    "ml": {
+      "official": "സെയിന്റ് മാര്‍ട്ടിന്‍ (ഫ്രഞ്ച് ഭാഗം)",
+      "common": "സെയിന്റ് മാര്‍ട്ടിന്‍ (ഫ്രഞ്ച് ഭാഗം)"
+    },
+    "mi": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "mr": {
+      "official": "सेंट मार्टिन (डच भाग)",
+      "common": "सेंट मार्टिन (डच भाग)"
+    },
+    "ms": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "mt": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "mn": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "ne": {
+      "official": "सिन्ट मार्टेन(डच अंश)",
+      "common": "सिन्ट मार्टेन(डच अंश)"
+    },
+    "nn": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "nb": {
+      "official": "Sint Maarten (nederlandsk del)",
+      "common": "Sint Maarten (nederlandsk del)"
+    },
+    "oc": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "or": {
+      "official": "ସେଣ୍ଟ ମାର୍ଟିନ (ଫରାସୀ ଅଂଶ)",
+      "common": "ସେଣ୍ଟ ମାର୍ଟିନ (ଫରାସୀ ଅଂଶ)"
+    },
+    "pa": {
+      "official": "ਸੇਂਟ ਮਾਰਟਿਨ (ਫਰਾਂਸੀਸੀ ਭਾਗ)",
+      "common": "ਸੇਂਟ ਮਾਰਟਿਨ (ਫਰਾਂਸੀਸੀ ਭਾਗ)"
+    },
+    "fa": {
+      "official": "سنت مارتین (بخش آلمانی)",
+      "common": "سنت مارتین (بخش آلمانی)"
+    },
+    "pl": {
+      "official": "Sint Maarten (część holenderska)",
+      "common": "Sint Maarten (część holenderska)"
+    },
+    "pt": {
+      "official": "São Martinho (Países Baixos)",
+      "common": "São Martinho (Países Baixos)"
+    },
+    "ps": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "ro": {
+      "official": "Sfântul Martin (partea franceză)",
+      "common": "Sfântul Martin (partea franceză)"
+    },
+    "ru": {
+      "official": "Синт-Мартен (голландская часть)",
+      "common": "Синт-Мартен (голландская часть)"
+    },
+    "si": {
+      "official": "සින්ට් මාටෙන් (ඕලන්ද කොටස)",
+      "common": "සින්ට් මාටෙන් (ඕලන්ද කොටස)"
+    },
+    "sk": {
+      "official": "Sint Maarten (holandská časť)",
+      "common": "Sint Maarten (holandská časť)"
+    },
+    "sl": {
+      "official": "Sint Maarten (nizozemski del)",
+      "common": "Sint Maarten (nizozemski del)"
+    },
+    "so": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "es": {
+      "official": "Isla de San Martín (zona holandsea)",
+      "common": "Isla de San Martín (zona holandsea)"
+    },
+    "sr": {
+      "official": "Свети Мартин (холандски део)",
+      "common": "Свети Мартин (холандски део)"
+    },
+    "sw": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "sv": {
+      "official": "Sint Maarten (nederländska delen)",
+      "common": "Sint Maarten (nederländska delen)"
+    },
+    "ta": {
+      "official": "செயின் மார்டின் (பிரெஞ்சு பகுதி)",
+      "common": "செயின் மார்டின் (பிரெஞ்சு பகுதி)"
+    },
+    "tt": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "te": {
+      "official": "సైంట్ మార్టిన్ (ఫ్రెంచ్ భాగము)",
+      "common": "సైంట్ మార్టిన్ (ఫ్రెంచ్ భాగము)"
+    },
+    "tl": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "th": {
+      "official": "เซนต์มาร์ติน (ส่วนของดัตช์)",
+      "common": "เซนต์มาร์ติน (ส่วนของดัตช์)"
+    },
+    "ti": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "tk": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "tr": {
+      "official": "Sen Martin (Hollanda kısmı)",
+      "common": "Sen Martin (Hollanda kısmı)"
+    },
+    "ug": {
+      "official": "سىنت مارتېن(گوللاندىيە بۆلىكى)",
+      "common": "سىنت مارتېن(گوللاندىيە بۆلىكى)"
+    },
+    "uk": {
+      "official": "Сінт-Мартен (голландська частина)",
+      "common": "Сінт-Мартен (голландська частина)"
+    },
+    "ve": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "vi": {
+      "official": "Xin Mác-Ten (vùng Hà Lan)",
+      "common": "Xin Mác-Ten (vùng Hà Lan)"
+    },
+    "cy": {
+      "official": "Sint Maarten (Rhan Iseldiraidd)",
+      "common": "Sint Maarten (Rhan Iseldiraidd)"
+    },
+    "wa": {
+      "official": "Sint Mårtén (boket olandès)",
+      "common": "Sint Mårtén (boket olandès)"
+    },
+    "wo": {
+      "official": "Saint Martin (Français)",
+      "common": "Saint Martin (Français)"
+    },
+    "xh": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "zu": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    }
+  }
+}

@@ -1,0 +1,341 @@
+---
+continent: South America
+alpha2: CL
+alpha3: CHL
+country_code: '56'
+international_prefix: '00'
+ioc: CHI
+gec: CI
+name: Chile
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+- 9
+national_prefix: '0'
+number: '152'
+region: Americas
+subregion: South America
+world_region: AMER
+un_locode: CL
+nationality: Chilean
+postal_code: true
+unofficial_names:
+- Chile
+- チリ
+- Chili
+languages_official:
+- es
+languages_spoken:
+- es
+geo:
+  latitude: -35.675147
+  latitude_dec: "-35.78622817993164"
+  longitude: -71.542969
+  longitude_dec: "-71.67467498779297"
+  max_latitude: -17.4983292
+  max_longitude: -66.4169644
+  min_latitude: -55.9805353
+  min_longitude: -109.4548805
+  bounds:
+    northeast:
+      lat: -17.4983292
+      lng: -66.4169644
+    southwest:
+      lat: -55.9805353
+      lng: -109.4548805
+currency_code: CLP
+postal_address_data:
+  lang: es
+  key: CL
+  zipex: '8340457,8720019,1230000,8329100,8720019'
+  name: CHILE
+  zip: "\\d{7}"
+  sub_mores: true~true~true~true~true~true~true~true~true~true~true~true~true~true~true
+  fmt: "%N%n%O%n%A%n%Z %C%n%S"
+  languages: es
+  sub_keys: Antofagasta~Araucanía~Arica y Parinacota~Atacama~Aysén~Biobío~Coquimbo~O'Higgins~Los
+    Lagos~Los Ríos~Magallanes~Maule~Región Metropolitana~Tarapacá~Valparaíso
+  posturl: http://www.correos.cl/SitePages/home.aspx
+  sub_isoids: AN~AR~AP~AT~AI~BI~CO~LI~LL~LR~MA~ML~RM~TA~VS
+  id: data/CL
+  sub_names: Antofagasta~Araucanía~Arica y Parinacota~Atacama~Aysén del General Carlos
+    Ibáñez del Campo~Biobío~Coquimbo~Libertador General Bernardo O'Higgins~Los Lagos~Los
+    Ríos~Magallanes y de la Antártica Chilena~Maule~Metropolitana de Santiago~Tarapacá~Valparaíso
+translations:
+  af:
+    official: Chili
+    common: Chili
+  sq:
+    official: Kili
+    common: Kili
+  am:
+    official: ኁሑ
+    common: ኁሑ
+  ar:
+    official: تشيلي
+    common: تشيلي
+  hy:
+    official: Չիլի
+    common: Չիլի
+  as:
+    official: চিলি
+    common: চিলি
+  az:
+    official: Çili
+    common: Çili
+  eu:
+    official: Txile
+    common: Txile
+  be:
+    official: Чылі
+    common: Чылі
+  bn:
+    official: চিলি
+    common: চিলি
+  bs:
+    official: Čile
+    common: Čile
+  br:
+    official: Chile
+    common: Chile
+  bg:
+    official: Чили
+    common: Чили
+  ca:
+    official: Xile
+    common: Xile
+  zh:
+    official: 智利
+    common: 智利
+  cs:
+    official: Chile
+    common: Chile
+  da:
+    official: Chile
+    common: Chile
+  nl:
+    official: Chili
+    common: Chili
+  dz:
+    official: ཅི་ལི།
+    common: ཅི་ལི།
+  en:
+    official: Chile
+    common: Chile
+  eo:
+    official: Ĉilio
+    common: Ĉilio
+  et:
+    official: Tšiili
+    common: Tšiili
+  fo:
+    official: Kili
+    common: Kili
+  fi:
+    official: Chile
+    common: Chile
+  fr:
+    official: Chili
+    common: Chili
+  ka:
+    official: ჩილი
+    common: ჩილი
+  de:
+    official: Chile
+    common: Chile
+  ga:
+    official: An tSile
+    common: An tSile
+  gl:
+    official: Chile
+    common: Chile
+  el:
+    official: Χιλή
+    common: Χιλή
+  gu:
+    official: ચીલી
+    common: ચીલી
+  he:
+    official: צ'ילה
+    common: צ'ילה
+  hi:
+    official: चिली
+    common: चिली
+  hr:
+    official: Čile
+    common: Čile
+  hu:
+    official: Chile
+    common: Chile
+  is:
+    official: Síle
+    common: Síle
+  ia:
+    official: Chile
+    common: Chile
+  id:
+    official: Cili
+    common: Cili
+  it:
+    official: Cile
+    common: Cile
+  ja:
+    official: チリ
+    common: チリ
+  kn:
+    official: ಚಿಲಿ
+    common: ಚಿಲಿ
+  kk:
+    official: Чили
+    common: Чили
+  km:
+    official: ឈីលី
+    common: ឈីលី
+  rw:
+    official: Shili
+    common: Shili
+  ko:
+    official: 칠레
+    common: 칠레
+  ku:
+    official: Sîlî
+    common: Sîlî
+  lv:
+    official: Čīle
+    common: Čīle
+  lt:
+    official: Čilė
+    common: Čilė
+  mk:
+    official: Чиле
+    common: Чиле
+  ml:
+    official: ചിലി
+    common: ചിലി
+  mi:
+    official: Hiri
+    common: Hiri
+  mr:
+    official: चिली
+    common: चिली
+  ms:
+    official: Chile
+    common: Chile
+  mt:
+    official: Ċile
+    common: Ċile
+  mn:
+    official: Чили
+    common: Чили
+  ne:
+    official: चिली
+    common: चिली
+  nn:
+    official: Chile
+    common: Chile
+  nb:
+    official: Chile
+    common: Chile
+  oc:
+    official: Chile
+    common: Chile
+  or:
+    official: ଚିଲୀ
+    common: ଚିଲୀ
+  pa:
+    official: ਚਿੱਲੀ
+    common: ਚਿੱਲੀ
+  fa:
+    official: شیلی
+    common: شیلی
+  pl:
+    official: Chile
+    common: Chile
+  pt:
+    official: Chile
+    common: Chile
+  ps:
+    official: Chile
+    common: Chile
+  ro:
+    official: Chile
+    common: Chile
+  ru:
+    official: Чили
+    common: Чили
+  si:
+    official: චිලී
+    common: චිලී
+  sk:
+    official: Čile
+    common: Čile
+  sl:
+    official: Čile
+    common: Čile
+  so:
+    official: Jili
+    common: Jili
+  es:
+    official: Chile
+    common: Chile
+  sr:
+    official: Чиле
+    common: Чиле
+  sw:
+    official: Chile
+    common: Chile
+  sv:
+    official: Chile
+    common: Chile
+  ta:
+    official: சிலி
+    common: சிலி
+  tt:
+    official: Чили
+    common: Чили
+  te:
+    official: చిలీ
+    common: చిలీ
+  tl:
+    official: Tsile
+    common: Tsile
+  th:
+    official: ชิลี
+    common: ชิลี
+  ti:
+    official: ቺሊ
+    common: ቺሊ
+  tk:
+    official: Çili
+    common: Çili
+  tr:
+    official: Şili
+    common: Şili
+  ug:
+    official: چىلى
+    common: چىلى
+  uk:
+    official: Чилі
+    common: Чилі
+  ve:
+    official: Chile
+    common: Chile
+  vi:
+    official: Chi-lê
+    common: Chi-lê
+  cy:
+    official: Chile
+    common: Chile
+  wa:
+    official: Tchili
+    common: Tchili
+  wo:
+    official: Ciili
+    common: Ciili
+  xh:
+    official: Chile
+    common: Chile
+  zu:
+    official: I-Chile
+    common: I-Chile

@@ -1,0 +1,338 @@
+---
+continent: North America
+alpha2: BS
+alpha3: BHS
+country_code: '1'
+international_prefix: '011'
+ioc: BAH
+gec: BF
+name: Bahamas
+national_destination_code_lengths:
+- 3
+national_number_lengths:
+- 10
+national_prefix: '1'
+number: '044'
+region: Americas
+subregion: Caribbean
+world_region: AMER
+un_locode: BS
+nationality: Bahamian
+postal_code: false
+unofficial_names:
+- Bahamas
+- バハマ
+- Bahama’s
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: 25.03428
+  latitude_dec: '25.035648345947266'
+  longitude: -77.39627999999999
+  longitude_dec: "-77.39512634277344"
+  max_latitude: 27.2633621
+  max_longitude: -72.7120686
+  min_latitude: 20.9101345
+  min_longitude: -80.4749465
+  bounds:
+    northeast:
+      lat: 27.2633621
+      lng: -72.7120686
+    southwest:
+      lat: 20.9101345
+      lng: -80.4749465
+currency_code: BSD
+postal_address_data:
+  lang: en
+  name: BAHAMAS
+  fmt: "%N%n%O%n%A%n%C, %S"
+  state_name_type: island
+  languages: en
+  sub_keys: Abaco~Acklins~Andros~Berry Islands~Bimini~Cat Island~Crooked Island~Eleuthera~Exuma~Grand
+    Bahama~Harbour Island~Inagua~Long Island~Mayaguana~N.P.~Ragged Island~Rum Cay~San
+    Salvador~Spanish Wells
+  key: BS
+  sub_isoids: "~AK~~BY~BI~CI~~~EX~~HI~IN~LI~MG~~RI~RC~SS~SW"
+  id: data/BS
+  sub_names: Abaco Islands~Acklins~Andros Island~Berry Islands~Bimini~Cat Island~Crooked
+    Island~Eleuthera~Exuma and Cays~Grand Bahama~Harbour Island~Inagua~Long Island~Mayaguana~New
+    Providence~Ragged Island~Rum Cay~San Salvador~Spanish Wells
+translations:
+  af:
+    official: Bahamas
+    common: Bahamas
+  sq:
+    official: Bahamas
+    common: Bahamas
+  am:
+    official: Bahamas
+    common: Bahamas
+  ar:
+    official: جزر البهاما
+    common: جزر البهاما
+  hy:
+    official: Բահամներ
+    common: Բահամներ
+  as:
+    official: বাহামাছ
+    common: বাহামাছ
+  az:
+    official: Bahama
+    common: Bahama
+  eu:
+    official: Bahamak
+    common: Bahamak
+  be:
+    official: Багамскія астравы
+    common: Багамскія астравы
+  bn:
+    official: বাহামাস
+    common: বাহামাস
+  bs:
+    official: Bahami
+    common: Bahami
+  br:
+    official: Bahamas
+    common: Bahamas
+  bg:
+    official: Бахами
+    common: Бахами
+  ca:
+    official: Bahames
+    common: Bahames
+  zh:
+    official: 巴哈马
+    common: 巴哈马
+  cs:
+    official: Bahamy
+    common: Bahamy
+  da:
+    official: Bahamas
+    common: Bahamas
+  nl:
+    official: Bahama's
+    common: Bahama's
+  dz:
+    official: བ་ཧ་མཱསི།
+    common: བ་ཧ་མཱསི།
+  en:
+    official: Bahamas
+    common: Bahamas
+  eo:
+    official: Bahamoj
+    common: Bahamoj
+  et:
+    official: Bahama
+    common: Bahama
+  fo:
+    official: Bahamas
+    common: Bahamas
+  fi:
+    official: Bahama
+    common: Bahama
+  fr:
+    official: Bahamas
+    common: Bahamas
+  ka:
+    official: ბაჰამის კუნძულები
+    common: ბაჰამის კუნძულები
+  de:
+    official: Bahamas
+    common: Bahamas
+  ga:
+    official: Na Bahámaí
+    common: Na Bahámaí
+  gl:
+    official: Bahamas
+    common: Bahamas
+  el:
+    official: Μπαχάμες
+    common: Μπαχάμες
+  gu:
+    official: બહામાસ
+    common: બહામાસ
+  he:
+    official: בהמאס
+    common: בהמאס
+  hi:
+    official: बहामास
+    common: बहामास
+  hr:
+    official: Bahami
+    common: Bahami
+  hu:
+    official: Bahama-szigetek
+    common: Bahama-szigetek
+  is:
+    official: Bahamaeyjar
+    common: Bahamaeyjar
+  ia:
+    official: Bahamas
+    common: Bahamas
+  id:
+    official: Bahama
+    common: Bahama
+  it:
+    official: Bahamas
+    common: Bahamas
+  ja:
+    official: バハマ
+    common: バハマ
+  kn:
+    official: ಬಹಾಮಾಸ್
+    common: ಬಹಾಮಾಸ್
+  kk:
+    official: Багам аралдары
+    common: Багам аралдары
+  km:
+    official: បាហាម៉ាស
+    common: បាហាម៉ាស
+  rw:
+    official: Bahamasi
+    common: Bahamasi
+  ko:
+    official: 바하마
+    common: 바하마
+  ku:
+    official: Giravên Bahama
+    common: Giravên Bahama
+  lv:
+    official: Bahamas
+    common: Bahamas
+  lt:
+    official: Bahamos
+    common: Bahamos
+  mk:
+    official: Бахами
+    common: Бахами
+  ml:
+    official: ബഹാമാസ്
+    common: ബഹാമാസ്
+  mi:
+    official: Bahamas
+    common: Bahamas
+  mr:
+    official: बहामाज्
+    common: बहामाज्
+  ms:
+    official: Bahamas
+    common: Bahamas
+  mt:
+    official: Panama
+    common: Panama
+  mn:
+    official: Bahamas
+    common: Bahamas
+  ne:
+    official: बहामास
+    common: बहामास
+  nn:
+    official: Bahamas
+    common: Bahamas
+  nb:
+    official: Bahamas
+    common: Bahamas
+  oc:
+    official: Bahamas
+    common: Bahamas
+  or:
+    official: ବାହାମା
+    common: ବାହାମା
+  pa:
+    official: ਬਾਹਾਮਾਸ
+    common: ਬਾਹਾਮਾਸ
+  fa:
+    official: باهاما
+    common: باهاما
+  pl:
+    official: Bahamy
+    common: Bahamy
+  pt:
+    official: Bahamas
+    common: Bahamas
+  ps:
+    official: Bahamas
+    common: Bahamas
+  ro:
+    official: Bahamas
+    common: Bahamas
+  ru:
+    official: Багамы
+    common: Багамы
+  si:
+    official: බහමාස්
+    common: බහමාස්
+  sk:
+    official: Bahamy
+    common: Bahamy
+  sl:
+    official: Bahami
+    common: Bahami
+  so:
+    official: Bahamas
+    common: Bahamas
+  es:
+    official: Bahamas
+    common: Bahamas
+  sr:
+    official: Бахами
+    common: Бахами
+  sw:
+    official: Bahama
+    common: Bahama
+  sv:
+    official: Bahamas
+    common: Bahamas
+  ta:
+    official: பஹாமாஸ்
+    common: பஹாமாஸ்
+  tt:
+    official: Баһамас
+    common: Баһамас
+  te:
+    official: బహామాజ్
+    common: బహామాజ్
+  tl:
+    official: Bahamas
+    common: Bahamas
+  th:
+    official: บาฮามาส
+    common: บาฮามาส
+  ti:
+    official: Bahamas
+    common: Bahamas
+  tk:
+    official: Bahamas
+    common: Bahamas
+  tr:
+    official: Bahamalar
+    common: Bahamalar
+  ug:
+    official: باھاما ئاراللىرى
+    common: باھاما ئاراللىرى
+  uk:
+    official: Багамські острови
+    common: Багамські острови
+  ve:
+    official: Bahamas
+    common: Bahamas
+  vi:
+    official: Ba-ha-ma
+    common: Ba-ha-ma
+  cy:
+    official: Y Bahamas
+    common: Y Bahamas
+  wa:
+    official: Bahamas
+    common: Bahamas
+  wo:
+    official: Bahamas
+    common: Bahamas
+  xh:
+    official: Panama
+    common: Panama
+  zu:
+    official: I-Panama
+    common: I-Panama

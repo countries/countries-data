@@ -1,0 +1,435 @@
+{
+  "continent": "Africa",
+  "alpha2": "ZM",
+  "alpha3": "ZMB",
+  "country_code": "260",
+  "international_prefix": "00",
+  "ioc": "ZAM",
+  "gec": "ZA",
+  "name": "Zambia",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    9
+  ],
+  "national_prefix": "0",
+  "number": "894",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "world_region": "EMEA",
+  "un_locode": "ZM",
+  "nationality": "Zambian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Zambia",
+    "Sambia",
+    "Zambie",
+    "ザンビア"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": -13.133897,
+    "latitude_dec": "-13.458845138549805",
+    "longitude": 27.849332,
+    "longitude_dec": "27.788097381591797",
+    "max_latitude": -8.203284,
+    "max_longitude": 33.7090305,
+    "min_latitude": -18.0767539,
+    "min_longitude": 21.9993509,
+    "bounds": {
+      "northeast": {
+        "lat": -8.203284,
+        "lng": 33.7090305
+      },
+      "southwest": {
+        "lat": -18.0767539,
+        "lng": 21.9993509
+      }
+    }
+  },
+  "currency_code": "ZMW",
+  "postal_address_data": {
+    "zipex": "50100,50101",
+    "name": "ZAMBIA",
+    "zip": "\\d{5}",
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "key": "ZM",
+    "id": "data/ZM"
+  },
+  "translations": {
+    "af": {
+      "official": "Zambië",
+      "common": "Zambië"
+    },
+    "sq": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "am": {
+      "official": "ዛምቢያ",
+      "common": "ዛምቢያ"
+    },
+    "ar": {
+      "official": "زامبيا",
+      "common": "زامبيا"
+    },
+    "hy": {
+      "official": "Զամբիա",
+      "common": "Զամբիա"
+    },
+    "as": {
+      "official": "জাম্বিয়া",
+      "common": "জাম্বিয়া"
+    },
+    "az": {
+      "official": "Zambiya",
+      "common": "Zambiya"
+    },
+    "eu": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "be": {
+      "official": "Замбія",
+      "common": "Замбія"
+    },
+    "bn": {
+      "official": "জাম্বিয়া",
+      "common": "জাম্বিয়া"
+    },
+    "bs": {
+      "official": "Zambija",
+      "common": "Zambija"
+    },
+    "br": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "bg": {
+      "official": "Замбия",
+      "common": "Замбия"
+    },
+    "ca": {
+      "official": "Zàmbia",
+      "common": "Zàmbia"
+    },
+    "zh": {
+      "official": "赞比亚",
+      "common": "赞比亚"
+    },
+    "cs": {
+      "official": "Zambie",
+      "common": "Zambie"
+    },
+    "da": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "nl": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "dz": {
+      "official": "ཛམ་བི་ཡ།",
+      "common": "ཛམ་བི་ཡ།"
+    },
+    "en": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "eo": {
+      "official": "Zambio",
+      "common": "Zambio"
+    },
+    "et": {
+      "official": "Sambia",
+      "common": "Sambia"
+    },
+    "fo": {
+      "official": "Sambia",
+      "common": "Sambia"
+    },
+    "fi": {
+      "official": "Sambia",
+      "common": "Sambia"
+    },
+    "fr": {
+      "official": "Zambie",
+      "common": "Zambie"
+    },
+    "ka": {
+      "official": "ზამბია",
+      "common": "ზამბია"
+    },
+    "de": {
+      "official": "Sambia",
+      "common": "Sambia"
+    },
+    "ga": {
+      "official": "An tSaimbia",
+      "common": "An tSaimbia"
+    },
+    "gl": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "el": {
+      "official": "Ζάμπια",
+      "common": "Ζάμπια"
+    },
+    "gu": {
+      "official": "ઝાંબિયા",
+      "common": "ઝાંબિયા"
+    },
+    "he": {
+      "official": "זמביה",
+      "common": "זמביה"
+    },
+    "hi": {
+      "official": "ज़ाम्बिया",
+      "common": "ज़ाम्बिया"
+    },
+    "hr": {
+      "official": "Zambija",
+      "common": "Zambija"
+    },
+    "hu": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "is": {
+      "official": "Sambía",
+      "common": "Sambía"
+    },
+    "ia": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "id": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "it": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "ja": {
+      "official": "ザンビア",
+      "common": "ザンビア"
+    },
+    "kn": {
+      "official": "ಝಾಂಬಿಯಾ",
+      "common": "ಝಾಂಬಿಯಾ"
+    },
+    "kk": {
+      "official": "Замбия",
+      "common": "Замбия"
+    },
+    "km": {
+      "official": "ហ្សាំប៊ី",
+      "common": "ហ្សាំប៊ី"
+    },
+    "rw": {
+      "official": "Zambiya",
+      "common": "Zambiya"
+    },
+    "ko": {
+      "official": "잠비아",
+      "common": "잠비아"
+    },
+    "ku": {
+      "official": "Zambiya",
+      "common": "Zambiya"
+    },
+    "lv": {
+      "official": "Zambija",
+      "common": "Zambija"
+    },
+    "lt": {
+      "official": "Zambija",
+      "common": "Zambija"
+    },
+    "mk": {
+      "official": "Замбија",
+      "common": "Замбија"
+    },
+    "ml": {
+      "official": "സാംബിയ",
+      "common": "സാംബിയ"
+    },
+    "mi": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "mr": {
+      "official": "झांबिया",
+      "common": "झांबिया"
+    },
+    "ms": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "mt": {
+      "official": "Ġamajka",
+      "common": "Ġamajka"
+    },
+    "mn": {
+      "official": "Замби",
+      "common": "Замби"
+    },
+    "ne": {
+      "official": "जाम्बिया",
+      "common": "जाम्बिया"
+    },
+    "nn": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "nb": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "oc": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "or": {
+      "official": "ଜାମ୍ବିୟା",
+      "common": "ଜାମ୍ବିୟା"
+    },
+    "pa": {
+      "official": "ਜ਼ੈਬੀਆ",
+      "common": "ਜ਼ੈਬੀਆ"
+    },
+    "fa": {
+      "official": "زامبیا",
+      "common": "زامبیا"
+    },
+    "pl": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "pt": {
+      "official": "Zâmbia",
+      "common": "Zâmbia"
+    },
+    "ps": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "ro": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "ru": {
+      "official": "Замбия",
+      "common": "Замбия"
+    },
+    "si": {
+      "official": "සැම්බියාව",
+      "common": "සැම්බියාව"
+    },
+    "sk": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "sl": {
+      "official": "Zambija",
+      "common": "Zambija"
+    },
+    "so": {
+      "official": "Saambiya",
+      "common": "Saambiya"
+    },
+    "es": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "sr": {
+      "official": "Замбија",
+      "common": "Замбија"
+    },
+    "sw": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "sv": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "ta": {
+      "official": "சாம்பியா",
+      "common": "சாம்பியா"
+    },
+    "tt": {
+      "official": "Замбиа",
+      "common": "Замбиа"
+    },
+    "te": {
+      "official": "జాంబియా",
+      "common": "జాంబియా"
+    },
+    "tl": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "th": {
+      "official": "แซมเบีย",
+      "common": "แซมเบีย"
+    },
+    "ti": {
+      "official": "ዛምቢያ",
+      "common": "ዛምቢያ"
+    },
+    "tk": {
+      "official": "Zambiýa",
+      "common": "Zambiýa"
+    },
+    "tr": {
+      "official": "Zambiya",
+      "common": "Zambiya"
+    },
+    "ug": {
+      "official": "زامبىيە",
+      "common": "زامبىيە"
+    },
+    "uk": {
+      "official": "Замбія",
+      "common": "Замбія"
+    },
+    "ve": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "vi": {
+      "official": "Xam-bi-a",
+      "common": "Xam-bi-a"
+    },
+    "cy": {
+      "official": "Zambia",
+      "common": "Zambia"
+    },
+    "wa": {
+      "official": "Zambeye",
+      "common": "Zambeye"
+    },
+    "wo": {
+      "official": "Saambi",
+      "common": "Saambi"
+    },
+    "xh": {
+      "official": "Jamaica",
+      "common": "Jamaica"
+    },
+    "zu": {
+      "official": "I Jamayikha",
+      "common": "I Jamayikha"
+    }
+  }
+}

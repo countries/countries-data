@@ -1,0 +1,437 @@
+{
+  "continent": "Asia",
+  "alpha2": "BT",
+  "alpha3": "BTN",
+  "country_code": "975",
+  "international_prefix": "00",
+  "ioc": "BHU",
+  "gec": "BT",
+  "name": "Bhutan",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7,
+    8
+  ],
+  "national_prefix": "None",
+  "number": "064",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "world_region": "APAC",
+  "un_locode": "BT",
+  "nationality": "Bhutanese",
+  "postal_code": true,
+  "unofficial_names": [
+    "Bhutan",
+    "Bhoutan",
+    "Bután",
+    "ブータン"
+  ],
+  "languages_official": [
+    "dz"
+  ],
+  "languages_spoken": [
+    "dz"
+  ],
+  "geo": {
+    "latitude": 27.514162,
+    "latitude_dec": "27.416879653930664",
+    "longitude": 90.433601,
+    "longitude_dec": "90.43476104736328",
+    "max_latitude": 28.3608249,
+    "max_longitude": 92.12523209999999,
+    "min_latitude": 26.702016,
+    "min_longitude": 88.74647350000001,
+    "bounds": {
+      "northeast": {
+        "lat": 28.3608249,
+        "lng": 92.12523209999999
+      },
+      "southwest": {
+        "lat": 26.702016,
+        "lng": 88.74647350000001
+      }
+    }
+  },
+  "currency_code": "BTN",
+  "postal_address_data": {
+    "key": "BT",
+    "zipex": "11001,31101,35003",
+    "name": "BHUTAN",
+    "zip": "\\d{5}",
+    "fmt": "%N%n%O%n%A%n%C %Z",
+    "posturl": "http://www.bhutanpost.com.bt/postcode/postcode.php",
+    "id": "data/BT"
+  },
+  "translations": {
+    "af": {
+      "official": "Bhoetan",
+      "common": "Bhoetan"
+    },
+    "sq": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "am": {
+      "official": "ቡህታን",
+      "common": "ቡህታን"
+    },
+    "ar": {
+      "official": "بوتان",
+      "common": "بوتان"
+    },
+    "hy": {
+      "official": "Բութան",
+      "common": "Բութան"
+    },
+    "as": {
+      "official": "ভুটান",
+      "common": "ভুটান"
+    },
+    "az": {
+      "official": "Butan",
+      "common": "Butan"
+    },
+    "eu": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "be": {
+      "official": "Бутан",
+      "common": "Бутан"
+    },
+    "bn": {
+      "official": "ভুটান",
+      "common": "ভুটান"
+    },
+    "bs": {
+      "official": "Butan",
+      "common": "Butan"
+    },
+    "br": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "bg": {
+      "official": "Бутан",
+      "common": "Бутан"
+    },
+    "ca": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "zh": {
+      "official": "不丹",
+      "common": "不丹"
+    },
+    "cs": {
+      "official": "Bhútán",
+      "common": "Bhútán"
+    },
+    "da": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "nl": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "dz": {
+      "official": "འབྲུག།",
+      "common": "འབྲུག།"
+    },
+    "en": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "eo": {
+      "official": "Butano",
+      "common": "Butano"
+    },
+    "et": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "fo": {
+      "official": "Butan",
+      "common": "Butan"
+    },
+    "fi": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "fr": {
+      "official": "Bhoutan",
+      "common": "Bhoutan"
+    },
+    "ka": {
+      "official": "ბუტანი",
+      "common": "ბუტანი"
+    },
+    "de": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "ga": {
+      "official": "An Bhútáin",
+      "common": "An Bhútáin"
+    },
+    "gl": {
+      "official": "Bután",
+      "common": "Bután"
+    },
+    "el": {
+      "official": "Μπουτάν",
+      "common": "Μπουτάν"
+    },
+    "gu": {
+      "official": "ભુટાન",
+      "common": "ભુટાન"
+    },
+    "he": {
+      "official": "בהוטן",
+      "common": "בהוטן"
+    },
+    "hi": {
+      "official": "भूटान",
+      "common": "भूटान"
+    },
+    "hr": {
+      "official": "Butan",
+      "common": "Butan"
+    },
+    "hu": {
+      "official": "Bhután",
+      "common": "Bhután"
+    },
+    "is": {
+      "official": "Bútan",
+      "common": "Bútan"
+    },
+    "ia": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "id": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "it": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "ja": {
+      "official": "ブータン",
+      "common": "ブータン"
+    },
+    "kn": {
+      "official": "ಭೂತಾನ್",
+      "common": "ಭೂತಾನ್"
+    },
+    "kk": {
+      "official": "Бутан",
+      "common": "Бутан"
+    },
+    "km": {
+      "official": "ប៊ូតាន",
+      "common": "ប៊ូតាន"
+    },
+    "rw": {
+      "official": "Butani",
+      "common": "Butani"
+    },
+    "ko": {
+      "official": "부탄",
+      "common": "부탄"
+    },
+    "ku": {
+      "official": "Bûtan",
+      "common": "Bûtan"
+    },
+    "lv": {
+      "official": "Butāna",
+      "common": "Butāna"
+    },
+    "lt": {
+      "official": "Butanas",
+      "common": "Butanas"
+    },
+    "mk": {
+      "official": "Бутан",
+      "common": "Бутан"
+    },
+    "ml": {
+      "official": "ബൂട്ടാന്‍",
+      "common": "ബൂട്ടാന്‍"
+    },
+    "mi": {
+      "official": "Putāna",
+      "common": "Putāna"
+    },
+    "mr": {
+      "official": "भूतान",
+      "common": "भूतान"
+    },
+    "ms": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "mt": {
+      "official": "Butan",
+      "common": "Butan"
+    },
+    "mn": {
+      "official": "Бутан",
+      "common": "Бутан"
+    },
+    "ne": {
+      "official": "भुटान",
+      "common": "भुटान"
+    },
+    "nn": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "nb": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "oc": {
+      "official": "Botan",
+      "common": "Botan"
+    },
+    "or": {
+      "official": "ଭୁଟାନ",
+      "common": "ଭୁଟାନ"
+    },
+    "pa": {
+      "official": "ਭੁਟਾਨ",
+      "common": "ਭੁਟਾਨ"
+    },
+    "fa": {
+      "official": "بوتان",
+      "common": "بوتان"
+    },
+    "pl": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "pt": {
+      "official": "Butão",
+      "common": "Butão"
+    },
+    "ps": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "ro": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "ru": {
+      "official": "Бутан",
+      "common": "Бутан"
+    },
+    "si": {
+      "official": "භූතානය",
+      "common": "භූතානය"
+    },
+    "sk": {
+      "official": "Bhután",
+      "common": "Bhután"
+    },
+    "sl": {
+      "official": "Butan",
+      "common": "Butan"
+    },
+    "so": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "es": {
+      "official": "Bhután",
+      "common": "Bhután"
+    },
+    "sr": {
+      "official": "Бутан",
+      "common": "Бутан"
+    },
+    "sw": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "sv": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "ta": {
+      "official": "பூட்டான்",
+      "common": "பூட்டான்"
+    },
+    "tt": {
+      "official": "Бутан",
+      "common": "Бутан"
+    },
+    "te": {
+      "official": "భూటాన్",
+      "common": "భూటాన్"
+    },
+    "tl": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "th": {
+      "official": "ภูฏาน",
+      "common": "ภูฏาน"
+    },
+    "ti": {
+      "official": "ቡህታን",
+      "common": "ቡህታን"
+    },
+    "tk": {
+      "official": "Butan",
+      "common": "Butan"
+    },
+    "tr": {
+      "official": "Butan",
+      "common": "Butan"
+    },
+    "ug": {
+      "official": "بۇتان",
+      "common": "بۇتان"
+    },
+    "uk": {
+      "official": "Бутан",
+      "common": "Бутан"
+    },
+    "ve": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "vi": {
+      "official": "Bu-thănh",
+      "common": "Bu-thănh"
+    },
+    "cy": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "wa": {
+      "official": "Boutan",
+      "common": "Boutan"
+    },
+    "wo": {
+      "official": "Butaan",
+      "common": "Butaan"
+    },
+    "xh": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    },
+    "zu": {
+      "official": "Bhutan",
+      "common": "Bhutan"
+    }
+  }
+}

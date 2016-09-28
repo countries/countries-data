@@ -1,0 +1,332 @@
+---
+continent: Africa
+alpha2: NA
+alpha3: NAM
+alt_currency: ZAR
+country_code: '264'
+international_prefix: '00'
+ioc: NAM
+gec: WA
+name: Namibia
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 6
+- 7
+national_prefix: '0'
+number: '516'
+region: Africa
+subregion: Southern Africa
+world_region: EMEA
+un_locode: NA
+nationality: Namibian
+postal_code: true
+unofficial_names:
+- Namibia
+- Namibie
+- ナミビア
+- Namibië
+languages_official:
+- en
+- af
+languages_spoken:
+- en
+- af
+geo:
+  latitude: -22.95764
+  latitude_dec: "-22.150699615478516"
+  longitude: 18.49041
+  longitude_dec: '17.177526473999023'
+  max_latitude: -16.9634851
+  max_longitude: 25.2601902
+  min_latitude: -28.9706391
+  min_longitude: 11.7364453
+  bounds:
+    northeast:
+      lat: -16.9634851
+      lng: 25.2601902
+    southwest:
+      lat: -28.9706391
+      lng: 11.7364453
+currency_code: NAD
+postal_address_data:
+  id: data/NA
+  key: NA
+  name: NAMIBIA
+translations:
+  af:
+    official: Namibië
+    common: Namibië
+  sq:
+    official: Namibia
+    common: Namibia
+  am:
+    official: ናሡቢ።
+    common: ናሡቢ።
+  ar:
+    official: ناميبيا
+    common: ناميبيا
+  hy:
+    official: Նամիբիա
+    common: Նամիբիա
+  as:
+    official: নামিবিয়া
+    common: নামিবিয়া
+  az:
+    official: Namibiya
+    common: Namibiya
+  eu:
+    official: Namibia
+    common: Namibia
+  be:
+    official: Намібія
+    common: Намібія
+  bn:
+    official: নামিবিয়া
+    common: নামিবিয়া
+  bs:
+    official: Namibija
+    common: Namibija
+  br:
+    official: Namibia
+    common: Namibia
+  bg:
+    official: Намибия
+    common: Намибия
+  ca:
+    official: Namíbia
+    common: Namíbia
+  zh:
+    official: 纳米比亚
+    common: 纳米比亚
+  cs:
+    official: Namibie
+    common: Namibie
+  da:
+    official: Namibia
+    common: Namibia
+  nl:
+    official: Namibië
+    common: Namibië
+  dz:
+    official: ནམ་བི་ཡ།
+    common: ནམ་བི་ཡ།
+  en:
+    official: Namibia
+    common: Namibia
+  eo:
+    official: Namibio
+    common: Namibio
+  et:
+    official: Namiibia
+    common: Namiibia
+  fo:
+    official: Namibia
+    common: Namibia
+  fi:
+    official: Namibia
+    common: Namibia
+  fr:
+    official: Namibie
+    common: Namibie
+  ka:
+    official: ნამიბია
+    common: ნამიბია
+  de:
+    official: Namibia
+    common: Namibia
+  ga:
+    official: An Namaib
+    common: An Namaib
+  gl:
+    official: Namibia
+    common: Namibia
+  el:
+    official: Ναμίμπια
+    common: Ναμίμπια
+  gu:
+    official: નામિબિયા
+    common: નામિબિયા
+  he:
+    official: נמיביה
+    common: נמיביה
+  hi:
+    official: नामीबिया
+    common: नामीबिया
+  hr:
+    official: Namibija
+    common: Namibija
+  hu:
+    official: Namíbia
+    common: Namíbia
+  is:
+    official: Namibía
+    common: Namibía
+  ia:
+    official: Namibia
+    common: Namibia
+  id:
+    official: Namibia
+    common: Namibia
+  it:
+    official: Namibia
+    common: Namibia
+  ja:
+    official: ナミビア
+    common: ナミビア
+  kn:
+    official: ನಮೀಬಿಯಾ
+    common: ನಮೀಬಿಯಾ
+  kk:
+    official: Намибия
+    common: Намибия
+  km:
+    official: ណាមីប៊ី
+    common: ណាមីប៊ី
+  rw:
+    official: Namibiya
+    common: Namibiya
+  ko:
+    official: 나미비아
+    common: 나미비아
+  ku:
+    official: Namîbiya
+    common: Namîbiya
+  lv:
+    official: Namībija
+    common: Namībija
+  lt:
+    official: Namibija
+    common: Namibija
+  mk:
+    official: Намибија
+    common: Намибија
+  ml:
+    official: നമീബിയ
+    common: നമീബിയ
+  mi:
+    official: Namīpia
+    common: Namīpia
+  mr:
+    official: नामिबिया
+    common: नामिबिया
+  ms:
+    official: Namibia
+    common: Namibia
+  mt:
+    official: Namibja
+    common: Namibja
+  mn:
+    official: Намиб
+    common: Намиб
+  ne:
+    official: नामिबिया
+    common: नामिबिया
+  nn:
+    official: Namibia
+    common: Namibia
+  nb:
+    official: Namibia
+    common: Namibia
+  oc:
+    official: Namibia
+    common: Namibia
+  or:
+    official: ନାମୀବିୟା
+    common: ନାମୀବିୟା
+  pa:
+    official: ਨੀਮੀਬੀਆ
+    common: ਨੀਮੀਬੀਆ
+  fa:
+    official: نامیبیا
+    common: نامیبیا
+  pl:
+    official: Namibia
+    common: Namibia
+  pt:
+    official: Namíbia
+    common: Namíbia
+  ps:
+    official: Namibia
+    common: Namibia
+  ro:
+    official: Namibia
+    common: Namibia
+  ru:
+    official: Намибия
+    common: Намибия
+  si:
+    official: නැම්බියාව
+    common: නැම්බියාව
+  sk:
+    official: Namíbia
+    common: Namíbia
+  sl:
+    official: Namibija
+    common: Namibija
+  so:
+    official: Namiibiya
+    common: Namiibiya
+  es:
+    official: Namibia
+    common: Namibia
+  sr:
+    official: Намибија
+    common: Намибија
+  sw:
+    official: Namibia
+    common: Namibia
+  sv:
+    official: Namibia
+    common: Namibia
+  ta:
+    official: நமீபியா
+    common: நமீபியா
+  tt:
+    official: Намибиа
+    common: Намибиа
+  te:
+    official: నమీబియా
+    common: నమీబియా
+  tl:
+    official: Namibia
+    common: Namibia
+  th:
+    official: นามิเบีย
+    common: นามิเบีย
+  ti:
+    official: ናሚቢያ
+    common: ናሚቢያ
+  tk:
+    official: Namibiýa
+    common: Namibiýa
+  tr:
+    official: Namibya
+    common: Namibya
+  ug:
+    official: نامىبىيە
+    common: نامىبىيە
+  uk:
+    official: Намібія
+    common: Намібія
+  ve:
+    official: Namibia
+    common: Namibia
+  vi:
+    official: Na-mi-bi-a
+    common: Na-mi-bi-a
+  cy:
+    official: Namibia
+    common: Namibia
+  wa:
+    official: Namibeye
+    common: Namibeye
+  wo:
+    official: Namibi
+    common: Namibi
+  xh:
+    official: Namibia
+    common: Namibia
+  zu:
+    official: Namibia
+    common: Namibia

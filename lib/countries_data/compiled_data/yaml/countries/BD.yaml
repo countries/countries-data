@@ -1,0 +1,331 @@
+---
+continent: Asia
+alpha2: BD
+alpha3: BGD
+country_code: '880'
+international_prefix: '00'
+ioc: BAN
+gec: BG
+name: Bangladesh
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 10
+national_prefix: '0'
+number: '050'
+region: Asia
+subregion: Southern Asia
+world_region: APAC
+un_locode: BD
+nationality: Bangladeshi
+postal_code: true
+unofficial_names:
+- Bangladesh
+- Bangladesch
+- バングラデシュ
+languages_official:
+- bn
+languages_spoken:
+- bn
+geo:
+  latitude: 23.684994
+  latitude_dec: '23.730104446411133'
+  longitude: 90.356331
+  longitude_dec: '90.30652618408203'
+  max_latitude: 26.6342433
+  max_longitude: 92.6801153
+  min_latitude: 20.7464106
+  min_longitude: 88.00858869999999
+  bounds:
+    northeast:
+      lat: 26.6342433
+      lng: 92.6801153
+    southwest:
+      lat: 20.7464106
+      lng: 88.00858869999999
+currency_code: BDT
+postal_address_data:
+  key: BD
+  zipex: '1340,1000'
+  name: BANGLADESH
+  zip: "\\d{4}"
+  fmt: "%N%n%O%n%A%n%C - %Z"
+  posturl: http://www.bangladeshpost.gov.bd/PostCode.asp
+  id: data/BD
+translations:
+  af:
+    official: Bangladesj
+    common: Bangladesj
+  sq:
+    official: Bangladesh
+    common: Bangladesh
+  am:
+    official: Bangladesh
+    common: Bangladesh
+  ar:
+    official: بنغلادش
+    common: بنغلادش
+  hy:
+    official: Բանգլադեշ
+    common: Բանգլադեշ
+  as:
+    official: বাংলাদেশ
+    common: বাংলাদেশ
+  az:
+    official: Banqladeş
+    common: Banqladeş
+  eu:
+    official: Bangladesh
+    common: Bangladesh
+  be:
+    official: Бангладэш
+    common: Бангладэш
+  bn:
+    official: বাংলাদেশ
+    common: বাংলাদেশ
+  bs:
+    official: Bangladeš
+    common: Bangladeš
+  br:
+    official: Bangladesh
+    common: Bangladesh
+  bg:
+    official: Бангладеш
+    common: Бангладеш
+  ca:
+    official: Bangla Desh
+    common: Bangla Desh
+  zh:
+    official: 孟加拉
+    common: 孟加拉
+  cs:
+    official: Bangladéš
+    common: Bangladéš
+  da:
+    official: Bangladesh
+    common: Bangladesh
+  nl:
+    official: Bangladesh
+    common: Bangladesh
+  dz:
+    official: བང་ལ་དེཤི།
+    common: བང་ལ་དེཤི།
+  en:
+    official: Bangladesh
+    common: Bangladesh
+  eo:
+    official: Bangladeŝo
+    common: Bangladeŝo
+  et:
+    official: Bangladesh
+    common: Bangladesh
+  fo:
+    official: Bangladesj
+    common: Bangladesj
+  fi:
+    official: Bangladesh
+    common: Bangladesh
+  fr:
+    official: Bangladesh
+    common: Bangladesh
+  ka:
+    official: ბანგლადეში
+    common: ბანგლადეში
+  de:
+    official: Bangladesch
+    common: Bangladesch
+  ga:
+    official: An Bhanglaidéis
+    common: An Bhanglaidéis
+  gl:
+    official: Bangladesh
+    common: Bangladesh
+  el:
+    official: Μπανγκλαντές
+    common: Μπανγκλαντές
+  gu:
+    official: બાંગ્લાદેશ
+    common: બાંગ્લાદેશ
+  he:
+    official: בנגלדש
+    common: בנגלדש
+  hi:
+    official: बांग्लादेश
+    common: बांग्लादेश
+  hr:
+    official: Bangladeš
+    common: Bangladeš
+  hu:
+    official: Banglades
+    common: Banglades
+  is:
+    official: Bangladess
+    common: Bangladess
+  ia:
+    official: Bangladesh
+    common: Bangladesh
+  id:
+    official: Bangladesh
+    common: Bangladesh
+  it:
+    official: Bangladesh
+    common: Bangladesh
+  ja:
+    official: バングラデシュ
+    common: バングラデシュ
+  kn:
+    official: ಬಾಂಗ್ಲಾದೇಶ
+    common: ಬಾಂಗ್ಲಾದೇಶ
+  kk:
+    official: Бангладеш
+    common: Бангладеш
+  km:
+    official: បង់ក្លាដេស
+    common: បង់ក្លាដេស
+  rw:
+    official: Bangaladeshi
+    common: Bangaladeshi
+  ko:
+    official: 방글라데시
+    common: 방글라데시
+  ku:
+    official: Banglades
+    common: Banglades
+  lv:
+    official: Bangladeša
+    common: Bangladeša
+  lt:
+    official: Bangladešas
+    common: Bangladešas
+  mk:
+    official: Бангладеш
+    common: Бангладеш
+  ml:
+    official: ബംഗ്ലാദേശ്
+    common: ബംഗ്ലാദേശ്
+  mi:
+    official: Pākaratēhi
+    common: Pākaratēhi
+  mr:
+    official: बांगलादेश
+    common: बांगलादेश
+  ms:
+    official: Bangladesh
+    common: Bangladesh
+  mt:
+    official: Ingliż
+    common: Ingliż
+  mn:
+    official: Бангладеш
+    common: Бангладеш
+  ne:
+    official: बंगलादेश
+    common: बंगलादेश
+  nn:
+    official: Bangladesh
+    common: Bangladesh
+  nb:
+    official: Bangladesh
+    common: Bangladesh
+  oc:
+    official: Bangladèsh
+    common: Bangladèsh
+  or:
+    official: ବାଙ୍ଗଲାଦେଶ
+    common: ବାଙ୍ଗଲାଦେଶ
+  pa:
+    official: ਬੰਗਲਾਦੇਸ਼
+    common: ਬੰਗਲਾਦੇਸ਼
+  fa:
+    official: بنگلادش
+    common: بنگلادش
+  pl:
+    official: Bangladesz
+    common: Bangladesz
+  pt:
+    official: Bangladesh
+    common: Bangladesh
+  ps:
+    official: بنګله‌دیش
+    common: بنګله‌دیش
+  ro:
+    official: Bangladeș
+    common: Bangladeș
+  ru:
+    official: Бангладеш
+    common: Бангладеш
+  si:
+    official: බංගලාදේශය
+    common: බංගලාදේශය
+  sk:
+    official: Bangladéš
+    common: Bangladéš
+  sl:
+    official: Bangladeš
+    common: Bangladeš
+  so:
+    official: Bangaala-Deesh
+    common: Bangaala-Deesh
+  es:
+    official: Bangladesh
+    common: Bangladesh
+  sr:
+    official: Бангладеш
+    common: Бангладеш
+  sw:
+    official: Bangladesh
+    common: Bangladesh
+  sv:
+    official: Bangladesh
+    common: Bangladesh
+  ta:
+    official: வங்காளதேசம்
+    common: வங்காளதேசம்
+  tt:
+    official: Банgладеш
+    common: Банgладеш
+  te:
+    official: బాంగ్లాదేశ్
+    common: బాంగ్లాదేశ్
+  tl:
+    official: Bangladesh
+    common: Bangladesh
+  th:
+    official: บังกลาเทศ
+    common: บังกลาเทศ
+  ti:
+    official: Bangladesh
+    common: Bangladesh
+  tk:
+    official: Bangladeş
+    common: Bangladeş
+  tr:
+    official: Bangladeş
+    common: Bangladeş
+  ug:
+    official: باڭلادىش
+    common: باڭلادىش
+  uk:
+    official: Бангладеш
+    common: Бангладеш
+  ve:
+    official: Bangladesh
+    common: Bangladesh
+  vi:
+    official: Bang-la-đesợ
+    common: Bang-la-đesợ
+  cy:
+    official: Bangladesh
+    common: Bangladesh
+  wa:
+    official: Bangladesh
+    common: Bangladesh
+  wo:
+    official: Banglaades
+    common: Banglaades
+  xh:
+    official: Bangladesh
+    common: Bangladesh
+  zu:
+    official: Isi-Bhangladeshi
+    common: Isi-Bhangladeshi

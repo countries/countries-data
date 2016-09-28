@@ -1,0 +1,440 @@
+{
+  "continent": "Asia",
+  "alpha2": "AF",
+  "alpha3": "AFG",
+  "country_code": "93",
+  "international_prefix": "00",
+  "ioc": "AFG",
+  "gec": "AF",
+  "name": "Afghanistan",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8,
+    9
+  ],
+  "national_prefix": "0",
+  "number": "004",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "world_region": "APAC",
+  "un_locode": "AF",
+  "nationality": "Afghan",
+  "postal_code": true,
+  "unofficial_names": [
+    "Afghanistan",
+    "Afganistán",
+    "アフガニスタン"
+  ],
+  "languages_official": [
+    "ps",
+    "uz",
+    "tk"
+  ],
+  "languages_spoken": [
+    "ps",
+    "uz",
+    "tk"
+  ],
+  "geo": {
+    "latitude": 33.93911,
+    "latitude_dec": "33.833248138427734",
+    "longitude": 67.709953,
+    "longitude_dec": "66.02528381347656",
+    "max_latitude": 38.4908766,
+    "max_longitude": 74.889862,
+    "min_latitude": 29.3772,
+    "min_longitude": 60.5170004,
+    "bounds": {
+      "northeast": {
+        "lat": 38.4908766,
+        "lng": 74.889862
+      },
+      "southwest": {
+        "lat": 29.3772,
+        "lng": 60.5170004
+      }
+    }
+  },
+  "currency_code": "AFN",
+  "postal_address_data": {
+    "key": "AF",
+    "zipex": "1001,2601,3801",
+    "name": "AFGHANISTAN",
+    "zip": "\\d{4}",
+    "fmt": "%N%n%O%n%A%n%C%n%Z",
+    "posturl": "http://afghanpost.gov.af/Postal%20Code/",
+    "id": "data/AF"
+  },
+  "translations": {
+    "af": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "sq": {
+      "official": "Afganistani",
+      "common": "Afganistani"
+    },
+    "am": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "ar": {
+      "official": "أفغانستان",
+      "common": "أفغانستان"
+    },
+    "hy": {
+      "official": "Աֆղանստան",
+      "common": "Աֆղանստան"
+    },
+    "as": {
+      "official": "আফগানিস্থান",
+      "common": "আফগানিস্থান"
+    },
+    "az": {
+      "official": "Əfqanıstan",
+      "common": "Əfqanıstan"
+    },
+    "eu": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "be": {
+      "official": "Афганістан",
+      "common": "Афганістан"
+    },
+    "bn": {
+      "official": "আফগানিস্তান",
+      "common": "আফগানিস্তান"
+    },
+    "bs": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "br": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "bg": {
+      "official": "Афганистан",
+      "common": "Афганистан"
+    },
+    "ca": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "zh": {
+      "official": "阿富汗",
+      "common": "阿富汗"
+    },
+    "cs": {
+      "official": "Afghánistán",
+      "common": "Afghánistán"
+    },
+    "da": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "nl": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "dz": {
+      "official": "ཨཕ་ག་ནིསི་ཏཱན།",
+      "common": "ཨཕ་ག་ནིསི་ཏཱན།"
+    },
+    "en": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "eo": {
+      "official": "Afganio",
+      "common": "Afganio"
+    },
+    "et": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "fo": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "fi": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "fr": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "ka": {
+      "official": "ავღანეთი",
+      "common": "ავღანეთი"
+    },
+    "de": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "ga": {
+      "official": "An Afganastáin",
+      "common": "An Afganastáin"
+    },
+    "gl": {
+      "official": "Afganistán",
+      "common": "Afganistán"
+    },
+    "el": {
+      "official": "Αφγανιστάν",
+      "common": "Αφγανιστάν"
+    },
+    "gu": {
+      "official": "અફઘાનિસ્તાન",
+      "common": "અફઘાનિસ્તાન"
+    },
+    "he": {
+      "official": "אפגניסטן",
+      "common": "אפגניסטן"
+    },
+    "hi": {
+      "official": "अफ़ग़ानिस्तान",
+      "common": "अफ़ग़ानिस्तान"
+    },
+    "hr": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "hu": {
+      "official": "Afganisztán",
+      "common": "Afganisztán"
+    },
+    "is": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "ia": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "id": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "it": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "ja": {
+      "official": "アフガニスタン",
+      "common": "アフガニスタン"
+    },
+    "kn": {
+      "official": "ಅಫ್ಗಾನಿಸ್ಥಾನ್",
+      "common": "ಅಫ್ಗಾನಿಸ್ಥಾನ್"
+    },
+    "kk": {
+      "official": "Ауғанстан",
+      "common": "Ауғанстан"
+    },
+    "km": {
+      "official": "អាហ្គានីស្ថាន",
+      "common": "អាហ្គានីស្ថាន"
+    },
+    "rw": {
+      "official": "Afuganisita",
+      "common": "Afuganisita"
+    },
+    "ko": {
+      "official": "아프가니스탄",
+      "common": "아프가니스탄"
+    },
+    "ku": {
+      "official": "Efxanistan",
+      "common": "Efxanistan"
+    },
+    "lv": {
+      "official": "Afganistāna",
+      "common": "Afganistāna"
+    },
+    "lt": {
+      "official": "Afganistanas",
+      "common": "Afganistanas"
+    },
+    "mk": {
+      "official": "Авганистан",
+      "common": "Авганистан"
+    },
+    "ml": {
+      "official": "അഫ്ഗാനിസ്താന്‍",
+      "common": "അഫ്ഗാനിസ്താന്‍"
+    },
+    "mi": {
+      "official": "Āwhekenetāna",
+      "common": "Āwhekenetāna"
+    },
+    "mr": {
+      "official": "अफगाणिस्तान",
+      "common": "अफगाणिस्तान"
+    },
+    "ms": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "mt": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "mn": {
+      "official": "Афганстан",
+      "common": "Афганстан"
+    },
+    "ne": {
+      "official": "अफगानिस्तान",
+      "common": "अफगानिस्तान"
+    },
+    "nn": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "nb": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "oc": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "or": {
+      "official": "ଆଫଗାନିସ୍ତାନ",
+      "common": "ଆଫଗାନିସ୍ତାନ"
+    },
+    "pa": {
+      "official": "ਅਫਗਾਨਿਸਤਾਨ",
+      "common": "ਅਫਗਾਨਿਸਤਾਨ"
+    },
+    "fa": {
+      "official": "افغانستان",
+      "common": "افغانستان"
+    },
+    "pl": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "pt": {
+      "official": "Afeganistão",
+      "common": "Afeganistão"
+    },
+    "ps": {
+      "official": "افغانستان",
+      "common": "افغانستان"
+    },
+    "ro": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "ru": {
+      "official": "Афганистан",
+      "common": "Афганистан"
+    },
+    "si": {
+      "official": "ඇෆ්ගනිස්තානය",
+      "common": "ඇෆ්ගනිස්තානය"
+    },
+    "sk": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "sl": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "so": {
+      "official": "Afgaanistaan",
+      "common": "Afgaanistaan"
+    },
+    "es": {
+      "official": "Afganistán",
+      "common": "Afganistán"
+    },
+    "sr": {
+      "official": "Авганистан",
+      "common": "Авганистан"
+    },
+    "sw": {
+      "official": "Afghanistani",
+      "common": "Afghanistani"
+    },
+    "sv": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "ta": {
+      "official": "ஆப்கானிஸ்தான்",
+      "common": "ஆப்கானிஸ்தான்"
+    },
+    "tt": {
+      "official": "Әфгәнстан",
+      "common": "Әфгәнстан"
+    },
+    "te": {
+      "official": "ఆఫ్ఘనిస్తాన్",
+      "common": "ఆఫ్ఘనిస్తాన్"
+    },
+    "tl": {
+      "official": "Apganistan",
+      "common": "Apganistan"
+    },
+    "th": {
+      "official": "อัฟกานิสถาน",
+      "common": "อัฟกานิสถาน"
+    },
+    "ti": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "tk": {
+      "official": "Owganystan",
+      "common": "Owganystan"
+    },
+    "tr": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "ug": {
+      "official": "ئافغانىستان",
+      "common": "ئافغانىستان"
+    },
+    "uk": {
+      "official": "Афганістан",
+      "common": "Афганістан"
+    },
+    "ve": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "vi": {
+      "official": "A Phú Hãn",
+      "common": "A Phú Hãn"
+    },
+    "cy": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "wa": {
+      "official": "Afganistan",
+      "common": "Afganistan"
+    },
+    "wo": {
+      "official": "Afganistaan",
+      "common": "Afganistaan"
+    },
+    "xh": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    },
+    "zu": {
+      "official": "Afghanistan",
+      "common": "Afghanistan"
+    }
+  }
+}

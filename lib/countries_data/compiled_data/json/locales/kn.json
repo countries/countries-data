@@ -1,0 +1,1000 @@
+{
+  "names": {
+    "AF": {
+      "official": "ಅಫ್ಗಾನಿಸ್ಥಾನ್",
+      "common": "ಅಫ್ಗಾನಿಸ್ಥಾನ್"
+    },
+    "AX": {
+      "official": "ಅಲಾಂಡ್ ದ್ವೀಪಗಳು",
+      "common": "ಅಲಾಂಡ್ ದ್ವೀಪಗಳು"
+    },
+    "AL": {
+      "official": "ಅಲ್ಬೇನಿಯಾ",
+      "common": "ಅಲ್ಬೇನಿಯಾ"
+    },
+    "DZ": {
+      "official": "ಅಲ್ಜೀರಿಯ",
+      "common": "ಅಲ್ಜೀರಿಯ"
+    },
+    "AS": {
+      "official": "ಅಮೇರಿಕನ್ ಸಮೋಆ",
+      "common": "ಅಮೇರಿಕನ್ ಸಮೋಆ"
+    },
+    "AD": {
+      "official": "ಆಂಡೋರ್ರಾ",
+      "common": "ಆಂಡೋರ್ರಾ"
+    },
+    "AO": {
+      "official": "ಅಂಗೋಲಾ",
+      "common": "ಅಂಗೋಲಾ"
+    },
+    "AI": {
+      "official": "ಅಂಗುಲಿಯಾ",
+      "common": "ಅಂಗುಲಿಯಾ"
+    },
+    "AQ": {
+      "official": "ಅಂಟಾರ್ಟಿಕ",
+      "common": "ಅಂಟಾರ್ಟಿಕ"
+    },
+    "AG": {
+      "official": "ಆಂಟಿಗ್ವಾ ಮತ್ತು ಬಾರ್ಬುಡಾ",
+      "common": "ಆಂಟಿಗ್ವಾ ಮತ್ತು ಬಾರ್ಬುಡಾ"
+    },
+    "AR": {
+      "official": "ಅರ್ಜೆಂಟೈನಾ",
+      "common": "ಅರ್ಜೆಂಟೈನಾ"
+    },
+    "AM": {
+      "official": "ಆರ್ಮೇನಿಯಾ",
+      "common": "ಆರ್ಮೇನಿಯಾ"
+    },
+    "AW": {
+      "official": "ಅರುಬಾ",
+      "common": "ಅರುಬಾ"
+    },
+    "AU": {
+      "official": "ಆಸ್ಟ್ರೇಲಿಯ",
+      "common": "ಆಸ್ಟ್ರೇಲಿಯ"
+    },
+    "AT": {
+      "official": "ಆಸ್ಟ್ರಿಯ",
+      "common": "ಆಸ್ಟ್ರಿಯ"
+    },
+    "AZ": {
+      "official": "ಅಜರ್ಬೈಜಾನ್",
+      "common": "ಅಜರ್ಬೈಜಾನ್"
+    },
+    "BS": {
+      "official": "ಬಹಾಮಾಸ್",
+      "common": "ಬಹಾಮಾಸ್"
+    },
+    "BH": {
+      "official": "ಬಹರೈನ್",
+      "common": "ಬಹರೈನ್"
+    },
+    "BD": {
+      "official": "ಬಾಂಗ್ಲಾದೇಶ",
+      "common": "ಬಾಂಗ್ಲಾದೇಶ"
+    },
+    "BB": {
+      "official": "ಬಾರ್ಬಡಾಸ್",
+      "common": "ಬಾರ್ಬಡಾಸ್"
+    },
+    "BY": {
+      "official": "ಬೇಲಾರುಸ್",
+      "common": "ಬೇಲಾರುಸ್"
+    },
+    "BE": {
+      "official": "ಬೆಲ್ಜಿಯಂ",
+      "common": "ಬೆಲ್ಜಿಯಂ"
+    },
+    "BZ": {
+      "official": "ಬೆಲಿಜಿ",
+      "common": "ಬೆಲಿಜಿ"
+    },
+    "BJ": {
+      "official": "ಬೆನಿನ್",
+      "common": "ಬೆನಿನ್"
+    },
+    "BM": {
+      "official": "ಬರ್ಮುಡಾ",
+      "common": "ಬರ್ಮುಡಾ"
+    },
+    "BT": {
+      "official": "ಭೂತಾನ್",
+      "common": "ಭೂತಾನ್"
+    },
+    "BO": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "BQ": {
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "common": "Bonaire, Sint Eustatius and Saba"
+    },
+    "BA": {
+      "official": "ಭೊಸ್ನಿಯಾ ಮತ್ತು ಹೆರ್ಜೆಗೋವಿನಾ",
+      "common": "ಭೊಸ್ನಿಯಾ ಮತ್ತು ಹೆರ್ಜೆಗೋವಿನಾ"
+    },
+    "BW": {
+      "official": "ಬೋಟ್ಸ್‍ವಾನಾ",
+      "common": "ಬೋಟ್ಸ್‍ವಾನಾ"
+    },
+    "BV": {
+      "official": "ಬವೇಟ್ ದ್ವೀಪ",
+      "common": "ಬವೇಟ್ ದ್ವೀಪ"
+    },
+    "BR": {
+      "official": "ಬ್ರಾಝಿಲ್",
+      "common": "ಬ್ರಾಝಿಲ್"
+    },
+    "IO": {
+      "official": "ಬ್ರಿಟಿಷ್ ಇಂಡಿಯನ್ ಓಶಿಯನ್ ಪ್ರದೇಶ",
+      "common": "ಬ್ರಿಟಿಷ್ ಇಂಡಿಯನ್ ಓಶಿಯನ್ ಪ್ರದೇಶ"
+    },
+    "BN": {
+      "official": "ಬ್ರೂನೈ ದಾರುಸ್ಸಲಾಂ",
+      "common": "ಬ್ರೂನೈ ದಾರುಸ್ಸಲಾಂ"
+    },
+    "BG": {
+      "official": "ಬಲ್ಗೇರಿಯಾ",
+      "common": "ಬಲ್ಗೇರಿಯಾ"
+    },
+    "BF": {
+      "official": "ಬರ್ಕಿನಾ ಫಾಸೋ",
+      "common": "ಬರ್ಕಿನಾ ಫಾಸೋ"
+    },
+    "BI": {
+      "official": "ಬುರುಂಡಿ",
+      "common": "ಬುರುಂಡಿ"
+    },
+    "KH": {
+      "official": "ಕಾಂಬೋಡಿಯಾ",
+      "common": "ಕಾಂಬೋಡಿಯಾ"
+    },
+    "CM": {
+      "official": "ಕ್ಯಾಮರೂನ್",
+      "common": "ಕ್ಯಾಮರೂನ್"
+    },
+    "CA": {
+      "official": "ಕೆನಡ",
+      "common": "ಕೆನಡ"
+    },
+    "CV": {
+      "official": "ಕೆಪ ವಿರದಿ",
+      "common": "ಕೆಪ ವಿರದಿ"
+    },
+    "KY": {
+      "official": "ಕೇಮನ್ ದ್ವೀಪಗಳು",
+      "common": "ಕೇಮನ್ ದ್ವೀಪಗಳು"
+    },
+    "CF": {
+      "official": "ಮಧ್ಯ ಆಫ್ರಿಕನ್ ಗಣರಾಜ್ಯ",
+      "common": "ಮಧ್ಯ ಆಫ್ರಿಕನ್ ಗಣರಾಜ್ಯ"
+    },
+    "TD": {
+      "official": "ಛಾಡ್",
+      "common": "ಛಾಡ್"
+    },
+    "CL": {
+      "official": "ಚಿಲಿ",
+      "common": "ಚಿಲಿ"
+    },
+    "CN": {
+      "official": "ಚೈನಾ",
+      "common": "ಚೈನಾ"
+    },
+    "CX": {
+      "official": "ಕ್ರಿಸ್ಮಸ್ ದ್ವೀಪ",
+      "common": "ಕ್ರಿಸ್ಮಸ್ ದ್ವೀಪ"
+    },
+    "CC": {
+      "official": "ಕೋಕೋಸ್(ಕೀಲಿಂಗ್)ದ್ವೀಪಗಳು",
+      "common": "ಕೋಕೋಸ್(ಕೀಲಿಂಗ್)ದ್ವೀಪಗಳು"
+    },
+    "CO": {
+      "official": "ಕೋಲಂಬಿಯಾ",
+      "common": "ಕೋಲಂಬಿಯಾ"
+    },
+    "KM": {
+      "official": "ಕೊಮೊರೋಸ್",
+      "common": "ಕೊಮೊರೋಸ್"
+    },
+    "CG": {
+      "official": "ಕಾಂಗೋ",
+      "common": "ಕಾಂಗೋ"
+    },
+    "CD": {
+      "official": "ಕಾಂಗೋ ಪ್ರಜಾಸತ್ತಾತ್ಮಕ ಗಣರಾಜ್ಯ",
+      "common": "ಕಾಂಗೋ ಪ್ರಜಾಸತ್ತಾತ್ಮಕ ಗಣರಾಜ್ಯ"
+    },
+    "CK": {
+      "official": "ಕುಕ್ ದ್ವೀಪಗಳು",
+      "common": "ಕುಕ್ ದ್ವೀಪಗಳು"
+    },
+    "CR": {
+      "official": "ಕೋಸ್ಟಾರಿಕಾ",
+      "common": "ಕೋಸ್ಟಾರಿಕಾ"
+    },
+    "CI": {
+      "official": "Côte d'Ivoire",
+      "common": "Côte d'Ivoire"
+    },
+    "HR": {
+      "official": "ಕ್ರೊಏಶಿಯಾ",
+      "common": "ಕ್ರೊಏಶಿಯಾ"
+    },
+    "CU": {
+      "official": "ಕ್ಯೂಬಾ",
+      "common": "ಕ್ಯೂಬಾ"
+    },
+    "CW": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "CY": {
+      "official": "ಸೈಪ್ರಸ್",
+      "common": "ಸೈಪ್ರಸ್"
+    },
+    "CZ": {
+      "official": "ಝೆಕ್ ಗಣರಾಜ್ಯ",
+      "common": "ಝೆಕ್ ಗಣರಾಜ್ಯ"
+    },
+    "DK": {
+      "official": "ಡೆನ್ಮಾರ್ಕ್",
+      "common": "ಡೆನ್ಮಾರ್ಕ್"
+    },
+    "DJ": {
+      "official": "ಡ್ಜಿಬೌಟಿ",
+      "common": "ಡ್ಜಿಬೌಟಿ"
+    },
+    "DM": {
+      "official": "ಡೊಮಿನಿಕಾ",
+      "common": "ಡೊಮಿನಿಕಾ"
+    },
+    "DO": {
+      "official": "ಡೊಮಿನಿಕನ್ ರಿಪಬ್ಲಿಕ್",
+      "common": "ಡೊಮಿನಿಕನ್ ರಿಪಬ್ಲಿಕ್"
+    },
+    "EC": {
+      "official": "ಈಕ್ವೆಡಾರ್",
+      "common": "ಈಕ್ವೆಡಾರ್"
+    },
+    "EG": {
+      "official": "ಈಜಿಪ್ಟ್",
+      "common": "ಈಜಿಪ್ಟ್"
+    },
+    "SV": {
+      "official": "ಎಲ್ ಸಾಲ್ವಡಾರ್‍",
+      "common": "ಎಲ್ ಸಾಲ್ವಡಾರ್‍"
+    },
+    "GQ": {
+      "official": "ಈಕ್ವಟೋರಿಯಲ್ ಗಿನೀ",
+      "common": "ಈಕ್ವಟೋರಿಯಲ್ ಗಿನೀ"
+    },
+    "ER": {
+      "official": "ಎರಿಟ್ರಿಯಾ",
+      "common": "ಎರಿಟ್ರಿಯಾ"
+    },
+    "EE": {
+      "official": "ಎಸ್ತೋನಿಯಾ",
+      "common": "ಎಸ್ತೋನಿಯಾ"
+    },
+    "ET": {
+      "official": "ಎಥಿಯೋಪಿಯಾ",
+      "common": "ಎಥಿಯೋಪಿಯಾ"
+    },
+    "FK": {
+      "official": "ಫಾಕ್‍ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳು(ಮಾಲ್ವಿನಾಸ್)",
+      "common": "ಫಾಕ್‍ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳು(ಮಾಲ್ವಿನಾಸ್)"
+    },
+    "FO": {
+      "official": "ಪರೋ ದ್ವೀಪಗಳು",
+      "common": "ಪರೋ ದ್ವೀಪಗಳು"
+    },
+    "FJ": {
+      "official": "ಫಿಜಿ",
+      "common": "ಫಿಜಿ"
+    },
+    "FI": {
+      "official": "ಫಿನ್ಲಂಡ್",
+      "common": "ಫಿನ್ಲಂಡ್"
+    },
+    "FR": {
+      "official": "ಫ್ರಾನ್ಸ್",
+      "common": "ಫ್ರಾನ್ಸ್"
+    },
+    "GF": {
+      "official": "ಫ್ರೆಂಚ್ ಗಯಾನಾ",
+      "common": "ಫ್ರೆಂಚ್ ಗಯಾನಾ"
+    },
+    "PF": {
+      "official": "ಫ್ರೆಂಚ್ ಪೊಲಿನೇಸಿಯಾ",
+      "common": "ಫ್ರೆಂಚ್ ಪೊಲಿನೇಸಿಯಾ"
+    },
+    "TF": {
+      "official": "ಫ್ರೆಂಚ್ ಸದರ್ನ್ ಟೆರಿಟರೀಸ್",
+      "common": "ಫ್ರೆಂಚ್ ಸದರ್ನ್ ಟೆರಿಟರೀಸ್"
+    },
+    "GA": {
+      "official": "ಗ್ಯಾಬನ್",
+      "common": "ಗ್ಯಾಬನ್"
+    },
+    "GM": {
+      "official": "ಗ್ಯಾಂಬಿಯಾ",
+      "common": "ಗ್ಯಾಂಬಿಯಾ"
+    },
+    "GE": {
+      "official": "ಜಾರ್ಜಿಯಾ",
+      "common": "ಜಾರ್ಜಿಯಾ"
+    },
+    "DE": {
+      "official": "ಜರ್ಮನಿ",
+      "common": "ಜರ್ಮನಿ"
+    },
+    "GH": {
+      "official": "ಘಾನಾ",
+      "common": "ಘಾನಾ"
+    },
+    "GI": {
+      "official": "ಜಿಬ್ರಾಲ್ಟರ್",
+      "common": "ಜಿಬ್ರಾಲ್ಟರ್"
+    },
+    "GR": {
+      "official": "ಗ್ರೀಸ್",
+      "common": "ಗ್ರೀಸ್"
+    },
+    "GL": {
+      "official": "ಗ್ರೀನ್‍ಲ್ಯಾಂಡ್",
+      "common": "ಗ್ರೀನ್‍ಲ್ಯಾಂಡ್"
+    },
+    "GD": {
+      "official": "ಗ್ರೆನಡಾ",
+      "common": "ಗ್ರೆನಡಾ"
+    },
+    "GP": {
+      "official": "Guadeloupe",
+      "common": "Guadeloupe"
+    },
+    "GU": {
+      "official": "ಗ್ವಾಮ್",
+      "common": "ಗ್ವಾಮ್"
+    },
+    "GT": {
+      "official": "ಗ್ವಾಟೆಮಾಲಾ",
+      "common": "ಗ್ವಾಟೆಮಾಲಾ"
+    },
+    "GG": {
+      "official": "Guernsey",
+      "common": "Guernsey"
+    },
+    "GN": {
+      "official": "ಗಿನೀ",
+      "common": "ಗಿನೀ"
+    },
+    "GW": {
+      "official": "ಗಿನೀ-ಬಿಸ್ಸೋ",
+      "common": "ಗಿನೀ-ಬಿಸ್ಸೋ"
+    },
+    "GY": {
+      "official": "ಗಯಾನಾ",
+      "common": "ಗಯಾನಾ"
+    },
+    "HT": {
+      "official": "ಹೈಟಿ",
+      "common": "ಹೈಟಿ"
+    },
+    "HM": {
+      "official": "ಹರ್ಡ್ ದ್ವೀಪ ಮತ್ತು ಮೆಕ್ ಡೊನಾಲ್ಡ್ ದ್ವೀಪಗಳು",
+      "common": "ಹರ್ಡ್ ದ್ವೀಪ ಮತ್ತು ಮೆಕ್ ಡೊನಾಲ್ಡ್ ದ್ವೀಪಗಳು"
+    },
+    "VA": {
+      "official": "ಪವಿತ್ರ See,ವ್ಯಾಟಿಕನ್ ನಗರ ರಾಜ್ಯ",
+      "common": "ಪವಿತ್ರ See,ವ್ಯಾಟಿಕನ್ ನಗರ ರಾಜ್ಯ"
+    },
+    "HN": {
+      "official": "ಹೊಂಡುರಾಸ್",
+      "common": "ಹೊಂಡುರಾಸ್"
+    },
+    "HK": {
+      "official": "ಹಾಂಗ್ ಕಾಂಗ್",
+      "common": "ಹಾಂಗ್ ಕಾಂಗ್"
+    },
+    "HU": {
+      "official": "ಹಂಗರಿ",
+      "common": "ಹಂಗರಿ"
+    },
+    "IS": {
+      "official": "ಐಸ್‍ಲ್ಯಾಂಡ್",
+      "common": "ಐಸ್‍ಲ್ಯಾಂಡ್"
+    },
+    "IN": {
+      "official": "ಭಾರತ",
+      "common": "ಭಾರತ"
+    },
+    "ID": {
+      "official": "ಇಂಡೋನೇಶಿಯಾ",
+      "common": "ಇಂಡೋನೇಶಿಯಾ"
+    },
+    "IR": {
+      "official": "ಇರಾನ್ ಇಸ್ಲಾಮಿಕ್ ಗಣರಾಜ್ಯ",
+      "common": "ಇರಾನ್ ಇಸ್ಲಾಮಿಕ್ ಗಣರಾಜ್ಯ"
+    },
+    "IQ": {
+      "official": "ಇರಾಕ್",
+      "common": "ಇರಾಕ್"
+    },
+    "IE": {
+      "official": "ಐರ್ಲ್ಯಂಡ್",
+      "common": "ಐರ್ಲ್ಯಂಡ್"
+    },
+    "IM": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "IL": {
+      "official": "ಇಸ್ರೇಲ್",
+      "common": "ಇಸ್ರೇಲ್"
+    },
+    "IT": {
+      "official": "ಇಟಲಿ",
+      "common": "ಇಟಲಿ"
+    },
+    "JM": {
+      "official": "ಜಮೈಕ",
+      "common": "ಜಮೈಕ"
+    },
+    "JP": {
+      "official": "ಜಪಾನ್",
+      "common": "ಜಪಾನ್"
+    },
+    "JE": {
+      "official": "ಜರ್ಸಿ",
+      "common": "ಜರ್ಸಿ"
+    },
+    "JO": {
+      "official": "ಜೋರ್ಡಾನ್",
+      "common": "ಜೋರ್ಡಾನ್"
+    },
+    "KZ": {
+      "official": "ಕಝಕಸ್ತಾನ್",
+      "common": "ಕಝಕಸ್ತಾನ್"
+    },
+    "KE": {
+      "official": "ಕೀನ್ಯಾ",
+      "common": "ಕೀನ್ಯಾ"
+    },
+    "KI": {
+      "official": "ಕಿರಿಬಾಟಿ",
+      "common": "ಕಿರಿಬಾಟಿ"
+    },
+    "KP": {
+      "official": "ಕೋರಿಯಾ, ಡೆಮೊಕ್ರಟಿಕ್ ಪೀಪಲ್ಸ್ ರಿಪಬ್ಲಿಕ್",
+      "common": "ಕೋರಿಯಾ, ಡೆಮೊಕ್ರಟಿಕ್ ಪೀಪಲ್ಸ್ ರಿಪಬ್ಲಿಕ್"
+    },
+    "KR": {
+      "official": "ಕೋರಿಯಾ ಗಣರಾಜ್ಯ",
+      "common": "ಕೋರಿಯಾ ಗಣರಾಜ್ಯ"
+    },
+    "KW": {
+      "official": "ಕುವೈತ್",
+      "common": "ಕುವೈತ್"
+    },
+    "KG": {
+      "official": "ಕಿರ್ಗಿಝ್‍ಸ್ತಾನ್",
+      "common": "ಕಿರ್ಗಿಝ್‍ಸ್ತಾನ್"
+    },
+    "LA": {
+      "official": "ಲಾವೋ ಪೀಪಲ್ಸ್ ಡೆಮೊಕ್ರಟಿಕ್ ರಿಪಬ್ಲಿಕ್",
+      "common": "ಲಾವೋ ಪೀಪಲ್ಸ್ ಡೆಮೊಕ್ರಟಿಕ್ ರಿಪಬ್ಲಿಕ್"
+    },
+    "LV": {
+      "official": "ಲಾತ್ವಿಯಾ",
+      "common": "ಲಾತ್ವಿಯಾ"
+    },
+    "LB": {
+      "official": "ಲೆಬನನ್",
+      "common": "ಲೆಬನನ್"
+    },
+    "LS": {
+      "official": "ಲೆಸೋಥೋ",
+      "common": "ಲೆಸೋಥೋ"
+    },
+    "LR": {
+      "official": "ಲೈಬೀರಿಯಾ",
+      "common": "ಲೈಬೀರಿಯಾ"
+    },
+    "LY": {
+      "official": "ಲೈಬೀರಿಯಾ",
+      "common": "ಲೈಬೀರಿಯಾ"
+    },
+    "LI": {
+      "official": "ಲೆಷ್ಟೆಂಸ್ಟೆನ್",
+      "common": "ಲೆಷ್ಟೆಂಸ್ಟೆನ್"
+    },
+    "LT": {
+      "official": "ಲಿಥುವೇನಿಯಾ",
+      "common": "ಲಿಥುವೇನಿಯಾ"
+    },
+    "LU": {
+      "official": "ಲುಗ್ಸೆಮ್ಬರ್ಗ್",
+      "common": "ಲುಗ್ಸೆಮ್ಬರ್ಗ್"
+    },
+    "MO": {
+      "official": "ಮಕಾವು",
+      "common": "ಮಕಾವು"
+    },
+    "MK": {
+      "official": "ಮ್ಯಾಸೆಡೋನಿಯಾ ಗಣರಾಜ್ಯ",
+      "common": "ಮ್ಯಾಸೆಡೋನಿಯಾ ಗಣರಾಜ್ಯ"
+    },
+    "MG": {
+      "official": "ಮಡಗಾಸ್ಕರ್",
+      "common": "ಮಡಗಾಸ್ಕರ್"
+    },
+    "MW": {
+      "official": "ಮಲಾವಿ",
+      "common": "ಮಲಾವಿ"
+    },
+    "MY": {
+      "official": "ಮಲೇಸಿಯಾ",
+      "common": "ಮಲೇಸಿಯಾ"
+    },
+    "MV": {
+      "official": "ಮಾಲ್ಡೀವ್ಸ್",
+      "common": "ಮಾಲ್ಡೀವ್ಸ್"
+    },
+    "ML": {
+      "official": "ಮಾಲಿ",
+      "common": "ಮಾಲಿ"
+    },
+    "MT": {
+      "official": "ಮಾಲ್ಟಾ",
+      "common": "ಮಾಲ್ಟಾ"
+    },
+    "MH": {
+      "official": "ಮಾರ್ಷಲ್ ದ್ವೀಪಗಳು",
+      "common": "ಮಾರ್ಷಲ್ ದ್ವೀಪಗಳು"
+    },
+    "MQ": {
+      "official": "Martinique",
+      "common": "Martinique"
+    },
+    "MR": {
+      "official": "ಮಾರಿಟೇನಿಯಾ",
+      "common": "ಮಾರಿಟೇನಿಯಾ"
+    },
+    "MU": {
+      "official": "ಮಾರಿಶಸ್",
+      "common": "ಮಾರಿಶಸ್"
+    },
+    "YT": {
+      "official": "Mayotte",
+      "common": "Mayotte"
+    },
+    "MX": {
+      "official": "ಹೊಂಡುರಾಸ್",
+      "common": "ಹೊಂಡುರಾಸ್"
+    },
+    "FM": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "MD": {
+      "official": "ಮ್ಯಾಸೆಡೋನಿಯಾ ಗಣರಾಜ್ಯ",
+      "common": "ಮ್ಯಾಸೆಡೋನಿಯಾ ಗಣರಾಜ್ಯ"
+    },
+    "MC": {
+      "official": "ಮೊನಾಕೋ",
+      "common": "ಮೊನಾಕೋ"
+    },
+    "MN": {
+      "official": "ಮಂಗೋಲಿಯಾ",
+      "common": "ಮಂಗೋಲಿಯಾ"
+    },
+    "ME": {
+      "official": "ಮಾಂಟೆನೆಗ್ರೋ",
+      "common": "ಮಾಂಟೆನೆಗ್ರೋ"
+    },
+    "MS": {
+      "official": "ಮಾಂಟ್ಸೆರ್ರಾಟ್",
+      "common": "ಮಾಂಟ್ಸೆರ್ರಾಟ್"
+    },
+    "MA": {
+      "official": "ಮೊರೊಕ್ಕೊ",
+      "common": "ಮೊರೊಕ್ಕೊ"
+    },
+    "MZ": {
+      "official": "ಮೋಝಾಂಬಿಕ್",
+      "common": "ಮೋಝಾಂಬಿಕ್"
+    },
+    "MM": {
+      "official": "ಮಿಯನ್ಮಾರ್",
+      "common": "ಮಿಯನ್ಮಾರ್"
+    },
+    "NA": {
+      "official": "ನಮೀಬಿಯಾ",
+      "common": "ನಮೀಬಿಯಾ"
+    },
+    "NR": {
+      "official": "Nauru",
+      "common": "Nauru"
+    },
+    "NP": {
+      "official": "ನೇಪಾಳ",
+      "common": "ನೇಪಾಳ"
+    },
+    "NL": {
+      "official": "ನೆದರ್‌ಲ್ಯಾಂಡ್ಸ್",
+      "common": "ನೆದರ್‌ಲ್ಯಾಂಡ್ಸ್"
+    },
+    "NC": {
+      "official": "ಹೊಸ ಕೆಲೆಡೊನಿಯಾ",
+      "common": "ಹೊಸ ಕೆಲೆಡೊನಿಯಾ"
+    },
+    "NZ": {
+      "official": "ನ್ಯೂ ಜಿಲ್ಯಂಡ್",
+      "common": "ನ್ಯೂ ಜಿಲ್ಯಂಡ್"
+    },
+    "NI": {
+      "official": "ನಿಕರಾಗುವಾ",
+      "common": "ನಿಕರಾಗುವಾ"
+    },
+    "NE": {
+      "official": "ನೈಜರ್",
+      "common": "ನೈಜರ್"
+    },
+    "NG": {
+      "official": "ನೈಜೀರಿಯಾ",
+      "common": "ನೈಜೀರಿಯಾ"
+    },
+    "NU": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "NF": {
+      "official": "ನಾರ್ಫೋಕ್ ದ್ವೀಪ",
+      "common": "ನಾರ್ಫೋಕ್ ದ್ವೀಪ"
+    },
+    "MP": {
+      "official": "ಉತ್ತರ ಮಾರಿಯಾನಾ ದ್ವೀಪಗಳು",
+      "common": "ಉತ್ತರ ಮಾರಿಯಾನಾ ದ್ವೀಪಗಳು"
+    },
+    "NO": {
+      "official": "ನಾರ್ವೇ",
+      "common": "ನಾರ್ವೇ"
+    },
+    "OM": {
+      "official": "ಒಮನ್",
+      "common": "ಒಮನ್"
+    },
+    "PK": {
+      "official": "ಪಾಕಿಸ್ತಾನ್",
+      "common": "ಪಾಕಿಸ್ತಾನ್"
+    },
+    "PW": {
+      "official": "ಪಲಾಉ",
+      "common": "ಪಲಾಉ"
+    },
+    "PS": {
+      "official": "Palestine, State of",
+      "common": "Palestine, State of"
+    },
+    "PA": {
+      "official": "ಪನಾಮಾ",
+      "common": "ಪನಾಮಾ"
+    },
+    "PG": {
+      "official": "ಪಪುವಾ ನ್ಯೂ ಗಿನಿ",
+      "common": "ಪಪುವಾ ನ್ಯೂ ಗಿನಿ"
+    },
+    "PY": {
+      "official": "ಪರಾಗ್ವೇ",
+      "common": "ಪರಾಗ್ವೇ"
+    },
+    "PE": {
+      "official": "ಪೆರು",
+      "common": "ಪೆರು"
+    },
+    "PH": {
+      "official": "ಫಿಲಿಪ್ಪೈನ್ಸ್",
+      "common": "ಫಿಲಿಪ್ಪೈನ್ಸ್"
+    },
+    "PN": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "PL": {
+      "official": "ಪೋಲಂಡ್",
+      "common": "ಪೋಲಂಡ್"
+    },
+    "PT": {
+      "official": "ಪೋರ್ತುಗಾಲ್",
+      "common": "ಪೋರ್ತುಗಾಲ್"
+    },
+    "PR": {
+      "official": "ಪೋರ್ಟೋರಿಕಾ",
+      "common": "ಪೋರ್ಟೋರಿಕಾ"
+    },
+    "QA": {
+      "official": "ಕತಾರ್",
+      "common": "ಕತಾರ್"
+    },
+    "RE": {
+      "official": "Réunion",
+      "common": "Réunion"
+    },
+    "RO": {
+      "official": "ರೊಮೇನಿಯಾ",
+      "common": "ರೊಮೇನಿಯಾ"
+    },
+    "RU": {
+      "official": "ರಶಿಯನ್ ಒಕ್ಕೂಟ",
+      "common": "ರಶಿಯನ್ ಒಕ್ಕೂಟ"
+    },
+    "RW": {
+      "official": "ರುವಾಂಡಾ",
+      "common": "ರುವಾಂಡಾ"
+    },
+    "BL": {
+      "official": "Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "SH": {
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "KN": {
+      "official": "ಸೇಂಟ್ ಕಿಟ್ಸ್ ಮತ್ತು ನೇವಿಸ್",
+      "common": "ಸೇಂಟ್ ಕಿಟ್ಸ್ ಮತ್ತು ನೇವಿಸ್"
+    },
+    "LC": {
+      "official": "ಸೇಂಟ್ ಲೂಸಿಯಾ",
+      "common": "ಸೇಂಟ್ ಲೂಸಿಯಾ"
+    },
+    "MF": {
+      "official": "Saint Martin (French part)",
+      "common": "Saint Martin (French part)"
+    },
+    "PM": {
+      "official": "Saint Pierre and Miquelon",
+      "common": "Saint Pierre and Miquelon"
+    },
+    "VC": {
+      "official": "Saint Vincent and the Grenadines",
+      "common": "Saint Vincent and the Grenadines"
+    },
+    "WS": {
+      "official": "ಸಮೋಆ",
+      "common": "ಸಮೋಆ"
+    },
+    "SM": {
+      "official": "ಸ್ಯಾನ್ ಮಾರಿನೋ",
+      "common": "ಸ್ಯಾನ್ ಮಾರಿನೋ"
+    },
+    "ST": {
+      "official": "Sao Tome and Principe",
+      "common": "Sao Tome and Principe"
+    },
+    "SA": {
+      "official": "ಸೌದಿ ಅರೆಬಿಯ",
+      "common": "ಸೌದಿ ಅರೆಬಿಯ"
+    },
+    "SN": {
+      "official": "ಸೆನೆಗಾಲ್",
+      "common": "ಸೆನೆಗಾಲ್"
+    },
+    "RS": {
+      "official": "ಸರ್ಬಿಯಾ",
+      "common": "ಸರ್ಬಿಯಾ"
+    },
+    "SC": {
+      "official": "ಸೇಷಲ್ಸ್",
+      "common": "ಸೇಷಲ್ಸ್"
+    },
+    "SL": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "SG": {
+      "official": "ಸಿಂಗಾಪುರ್",
+      "common": "ಸಿಂಗಾಪುರ್"
+    },
+    "SX": {
+      "official": "Sint Maarten (Dutch part)",
+      "common": "Sint Maarten (Dutch part)"
+    },
+    "SK": {
+      "official": "ಸ್ಲೋವಾಕಿಯಾ",
+      "common": "ಸ್ಲೋವಾಕಿಯಾ"
+    },
+    "SI": {
+      "official": "ಸ್ಲೋವೇನಿಯಾ",
+      "common": "ಸ್ಲೋವೇನಿಯಾ"
+    },
+    "SB": {
+      "official": "ಸೋಲೋಮನ್ ದ್ವೀಪಗಳು",
+      "common": "ಸೋಲೋಮನ್ ದ್ವೀಪಗಳು"
+    },
+    "SO": {
+      "official": "ಸೋಮಾಲಿಯಾ",
+      "common": "ಸೋಮಾಲಿಯಾ"
+    },
+    "ZA": {
+      "official": "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ",
+      "common": "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ"
+    },
+    "GS": {
+      "official": "ದಕ್ಷಿಣ ಜಾರ್ಜಿಯಾ ಮತ್ತು ದಕ್ಷಿಣ ಸ್ಯಾಂಡ್ವಿಚ್ ದ್ವೀಪಗಳು",
+      "common": "ದಕ್ಷಿಣ ಜಾರ್ಜಿಯಾ ಮತ್ತು ದಕ್ಷಿಣ ಸ್ಯಾಂಡ್ವಿಚ್ ದ್ವೀಪಗಳು"
+    },
+    "ES": {
+      "official": "ಸ್ಪೇನ್",
+      "common": "ಸ್ಪೇನ್"
+    },
+    "LK": {
+      "official": "ಶ್ರೀಲಂಕಾ",
+      "common": "ಶ್ರೀಲಂಕಾ"
+    },
+    "SD": {
+      "official": "ಸೂಡಾನ್",
+      "common": "ಸೂಡಾನ್"
+    },
+    "SR": {
+      "official": "ಸೂರಿನಾಮ್",
+      "common": "ಸೂರಿನಾಮ್"
+    },
+    "SS": {
+      "official": "ಸೂಡಾನ್ ಗಣರಾಜ್ಯ",
+      "common": "ಸೂಡಾನ್ ಗಣರಾಜ್ಯ"
+    },
+    "SJ": {
+      "official": "Svalbard and Jan Mayen",
+      "common": "Svalbard and Jan Mayen"
+    },
+    "SZ": {
+      "official": "ಸ್ವಾಜಿಲ್ಯಾಂಡ್",
+      "common": "ಸ್ವಾಜಿಲ್ಯಾಂಡ್"
+    },
+    "SE": {
+      "official": "ಸ್ವೀಡನ್",
+      "common": "ಸ್ವೀಡನ್"
+    },
+    "CH": {
+      "official": "ಸ್ವಿಜರ್ಲ್ಯಾಂಡ್",
+      "common": "ಸ್ವಿಜರ್ಲ್ಯಾಂಡ್"
+    },
+    "SY": {
+      "official": "ಸಿರಿಯನ್ ಅರಬ್ ಗಣರಾಜ್ಯ",
+      "common": "ಸಿರಿಯನ್ ಅರಬ್ ಗಣರಾಜ್ಯ"
+    },
+    "TW": {
+      "official": "ಟೈವಾನ್",
+      "common": "ಟೈವಾನ್"
+    },
+    "TJ": {
+      "official": "ತಾಜಿಕಿಸ್ತಾನ್",
+      "common": "ತಾಜಿಕಿಸ್ತಾನ್"
+    },
+    "TZ": {
+      "official": "ತಾಂಜಾನಿಯಾ ಸಂಯುಕ್ತ ಗಣರಾಜ್ಯ",
+      "common": "ತಾಂಜಾನಿಯಾ ಸಂಯುಕ್ತ ಗಣರಾಜ್ಯ"
+    },
+    "TH": {
+      "official": "ಥಾಯ್‍ಲ್ಯಾಂಡ್",
+      "common": "ಥಾಯ್‍ಲ್ಯಾಂಡ್"
+    },
+    "TL": {
+      "official": "Timor-Leste",
+      "common": "Timor-Leste"
+    },
+    "TG": {
+      "official": "ಟೋಗೋ",
+      "common": "ಟೋಗೋ"
+    },
+    "TK": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "TO": {
+      "official": "ಟೋಂಗಾ",
+      "common": "ಟೋಂಗಾ"
+    },
+    "TT": {
+      "official": "ಟ್ರಿನಿಡಾಡ್ ಮತ್ತು ಟೊಬಾಗೋ",
+      "common": "ಟ್ರಿನಿಡಾಡ್ ಮತ್ತು ಟೊಬಾಗೋ"
+    },
+    "TN": {
+      "official": "ತುನಿಸಿಯ",
+      "common": "ತುನಿಸಿಯ"
+    },
+    "TR": {
+      "official": "ಟರ್ಕಿ",
+      "common": "ಟರ್ಕಿ"
+    },
+    "TM": {
+      "official": "ತುರ್ಕ್ಮೆನ್‍ಸ್ತಾನ್",
+      "common": "ತುರ್ಕ್ಮೆನ್‍ಸ್ತಾನ್"
+    },
+    "TC": {
+      "official": "Turks and Caicos Islands",
+      "common": "Turks and Caicos Islands"
+    },
+    "TV": {
+      "official": "Tuvalu",
+      "common": "Tuvalu"
+    },
+    "UG": {
+      "official": "ಉಗಾಂಡಾ",
+      "common": "ಉಗಾಂಡಾ"
+    },
+    "UA": {
+      "official": "ಯುಕ್ರೇನ್",
+      "common": "ಯುಕ್ರೇನ್"
+    },
+    "AE": {
+      "official": "ಯುನೈಟೆಡ್ ಅರಬ್ ಎಮಿರೇಟ್ಸ್",
+      "common": "ಯುನೈಟೆಡ್ ಅರಬ್ ಎಮಿರೇಟ್ಸ್"
+    },
+    "GB": {
+      "official": "ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡಮ್",
+      "common": "ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡಮ್"
+    },
+    "US": {
+      "official": "ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನಗಳು",
+      "common": "ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನಗಳು"
+    },
+    "UM": {
+      "official": "United States Minor Outlying Islands",
+      "common": "United States Minor Outlying Islands"
+    },
+    "UY": {
+      "official": "ಉರುಗ್ವೇ",
+      "common": "ಉರುಗ್ವೇ"
+    },
+    "UZ": {
+      "official": "ಉಜ್ಬೆಕಿಸ್ತಾನ್",
+      "common": "ಉಜ್ಬೆಕಿಸ್ತಾನ್"
+    },
+    "VU": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "VE": {
+      "official": "Bolivarian Republic of Venezuela",
+      "common": "Bolivarian Republic of Venezuela"
+    },
+    "VN": {
+      "official": "ವಿಯೆಟ್ನಾಂ",
+      "common": "ವಿಯೆಟ್ನಾಂ"
+    },
+    "VG": {
+      "official": "ವರ್ಜಿನ್ ಐಲಂಡ್ಸ್, ಬ್ರಿಟಿಷ್",
+      "common": "ವರ್ಜಿನ್ ಐಲಂಡ್ಸ್, ಬ್ರಿಟಿಷ್"
+    },
+    "VI": {
+      "official": "ವರ್ಜಿನ್ ಐಲಂಡ್ಸ್,ಯೂಎಸ್",
+      "common": "ವರ್ಜಿನ್ ಐಲಂಡ್ಸ್,ಯೂಎಸ್"
+    },
+    "WF": {
+      "official": "Wallis and Futuna",
+      "common": "Wallis and Futuna"
+    },
+    "EH": {
+      "official": "ಪಶ್ಚಿಮ ಸಹಾರಾ",
+      "common": "ಪಶ್ಚಿಮ ಸಹಾರಾ"
+    },
+    "YE": {
+      "official": "ಯೆಮೆನ್",
+      "common": "ಯೆಮೆನ್"
+    },
+    "ZM": {
+      "official": "ಝಾಂಬಿಯಾ",
+      "common": "ಝಾಂಬಿಯಾ"
+    },
+    "ZW": {
+      "official": "ಝಿಂಬಾಬ್ವೆ",
+      "common": "ಝಿಂಬಾಬ್ವೆ"
+    }
+  }
+}

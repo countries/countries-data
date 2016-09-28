@@ -1,0 +1,336 @@
+---
+continent: Europe
+alpha2: SJ
+alpha3: SJM
+country_code: '47'
+international_prefix: '00'
+ioc: 
+gec: SV
+name: Svalbard And Jan Mayen
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: None
+number: '744'
+region: Europe
+subregion: Northern Europe
+world_region: EMEA
+un_locode: SJ
+nationality: Norwegian
+postal_code: true
+unofficial_names:
+- Svalbard and Jan Mayen
+- Svalbard und Jan Mayen
+- Îles Svalbard et Jan Mayen
+- Islas Svalbard y Jan Mayen
+- スヴァールバル諸島およびヤンマイエン島
+- Svalbard en Jan Mayen
+languages_official:
+- 'no'
+languages_spoken:
+- 'no'
+geo:
+  latitude: 77.55360399999999
+  latitude_dec: '71.04893493652344'
+  longitude: 23.670272
+  longitude_dec: "-8.195747375488281"
+  max_latitude: 80.8340529
+  max_longitude: 33.497093
+  min_latitude: 70.8265424
+  min_longitude: -9.0767741
+  bounds:
+    northeast:
+      lat: 80.8340529
+      lng: 33.497093
+    southwest:
+      lat: 70.8265424
+      lng: -9.0767741
+currency_code: NOK
+postal_address_data:
+  key: SJ
+  zipex: '9170'
+  name: SVALBARD AND JAN MAYEN ISLANDS
+  zip: "\\d{4}"
+  require: ACZ
+  id: data/SJ
+  posturl: http://epab.posten.no/
+  locality_name_type: post_town
+  fmt: "%N%n%O%n%A%n%Z %C"
+translations:
+  af:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  sq:
+    official: Svalbard dhe Jan Mayen
+    common: Svalbard dhe Jan Mayen
+  am:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  ar:
+    official: سفالبارد و جان ماين
+    common: سفالبارد و جان ماين
+  hy:
+    official: Սվալբարդ և Յան Մայեն
+    common: Սվալբարդ և Յան Մայեն
+  as:
+    official: চয়ালবাৰ্ড আৰু ইয়ানমায়েন
+    common: চয়ালবাৰ্ড আৰু ইয়ানমায়েন
+  az:
+    official: Svalbard və Jan Mayen
+    common: Svalbard və Jan Mayen
+  eu:
+    official: Svalbard eta Jan Mayen
+    common: Svalbard eta Jan Mayen
+  be:
+    official: Шпіцберген і Ян-Маен
+    common: Шпіцберген і Ян-Маен
+  bn:
+    official: সয়ালবার্ড ও ইয়ানমায়েন দ্বীপপুঞ্জ
+    common: সয়ালবার্ড ও ইয়ানমায়েন দ্বীপপুঞ্জ
+  bs:
+    official: Svalbard i Jan Mayen
+    common: Svalbard i Jan Mayen
+  br:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  bg:
+    official: Свалбард и Ян Майен
+    common: Свалбард и Ян Майен
+  ca:
+    official: Svalbard i Jan Mayen
+    common: Svalbard i Jan Mayen
+  zh:
+    official: 斯瓦尔巴特和扬马延岛
+    common: 斯瓦尔巴特和扬马延岛
+  cs:
+    official: Svalbard a Jan Mayen
+    common: Svalbard a Jan Mayen
+  da:
+    official: Svalbard og Jan Mayen
+    common: Svalbard og Jan Mayen
+  nl:
+    official: Spitsbergen en Jan Mayen
+    common: Spitsbergen en Jan Mayen
+  dz:
+    official: ས་བཱལ་བཱཊ་དང་ཇཱན་མ་ཡཱིན།
+    common: ས་བཱལ་བཱཊ་དང་ཇཱན་མ་ཡཱིན།
+  en:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  eo:
+    official: Svalbardo kaj Jan-Majen-insulo
+    common: Svalbardo kaj Jan-Majen-insulo
+  et:
+    official: Svalbard ja Jan Mayen
+    common: Svalbard ja Jan Mayen
+  fo:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  fi:
+    official: Svalbard ja Jan Mayen
+    common: Svalbard ja Jan Mayen
+  fr:
+    official: Svalbard et île Jan Mayen
+    common: Svalbard et île Jan Mayen
+  ka:
+    official: სვალბარდი და ჟან მაენი
+    common: სვალბარდი და ჟან მაენი
+  de:
+    official: Svalbard und Jan Mayen
+    common: Svalbard und Jan Mayen
+  ga:
+    official: Svalbard agus Jan Mayen
+    common: Svalbard agus Jan Mayen
+  gl:
+    official: Svalbard e Jan Mayen
+    common: Svalbard e Jan Mayen
+  el:
+    official: Σβάλμπαρντ και Γιαν Μαγέν
+    common: Σβάλμπαρντ και Γιαν Μαγέν
+  gu:
+    official: સ્વાલબાર્ડ અને જાન માયેન
+    common: સ્વાલબાર્ડ અને જાન માયેન
+  he:
+    official: סוולברד ויאן מאין
+    common: סוולברד ויאן מאין
+  hi:
+    official: स्वालबार्ड एन्ड जैन माएन
+    common: स्वालबार्ड एन्ड जैन माएन
+  hr:
+    official: Svalbard i Jan Mayen
+    common: Svalbard i Jan Mayen
+  hu:
+    official: Svalbard-szigetek és Jan Mayen-sziget
+    common: Svalbard-szigetek és Jan Mayen-sziget
+  is:
+    official: Svalbarði og Jan Mayen
+    common: Svalbarði og Jan Mayen
+  ia:
+    official: Svalbard e Jan Mayen
+    common: Svalbard e Jan Mayen
+  id:
+    official: Svalbard dan Jan Mayen
+    common: Svalbard dan Jan Mayen
+  it:
+    official: Svalbard e Jan Mayen
+    common: Svalbard e Jan Mayen
+  ja:
+    official: スヴァールバル及びヤンマイエン
+    common: スヴァールバル及びヤンマイエン
+  kn:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  kk:
+    official: Шпицберген мен Ян Майен
+    common: Шпицберген мен Ян Майен
+  km:
+    official: ស្វាល់បាត និង ហ្សង់ម៉ាយេន
+    common: ស្វាល់បាត និង ហ្សង់ម៉ាយេន
+  rw:
+    official: Sivalibadi na Jani Mayeni
+    common: Sivalibadi na Jani Mayeni
+  ko:
+    official: 스발바르드 얀마이엔
+    common: 스발바르드 얀마이엔
+  ku:
+    official: Svalbard û Jan Mayen
+    common: Svalbard û Jan Mayen
+  lv:
+    official: Svalbāra
+    common: Svalbāra
+  lt:
+    official: Svalbardas ir Jan Majenas
+    common: Svalbardas ir Jan Majenas
+  mk:
+    official: Свалбард и Жан Мајен
+    common: Свалбард и Жан Мајен
+  ml:
+    official: സ്വാല്‍ബാര്‍ഡും യാന്‍ മായെനും
+    common: സ്വാല്‍ബാര്‍ഡും യാന്‍ മായെനും
+  mi:
+    official: Motu Svalbard me Jan Mayen
+    common: Motu Svalbard me Jan Mayen
+  mr:
+    official: स्वलबार्ड आणी जान माये
+    common: स्वलबार्ड आणी जान माये
+  ms:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  mt:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  mn:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  ne:
+    official: स्भालबार्ड र जान मायेन
+    common: स्भालबार्ड र जान मायेन
+  nn:
+    official: Svalbard og Jan Mayen
+    common: Svalbard og Jan Mayen
+  nb:
+    official: Svalbard og Jan Mayen
+    common: Svalbard og Jan Mayen
+  oc:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  or:
+    official: ଭାଲବର୍ଗ ଏବଂ ଜାନ ମାଏନ
+    common: ଭାଲବର୍ଗ ଏବଂ ଜାନ ମାଏନ
+  pa:
+    official: ਸਵਾਲਬਰਡ ਅਤੇ ਜਨ ਮਾਯੀਨ
+    common: ਸਵਾਲਬਰਡ ਅਤੇ ਜਨ ਮਾਯੀਨ
+  fa:
+    official: اسوالبارد و جان ماین
+    common: اسوالبارد و جان ماین
+  pl:
+    official: Svalbard i Jan Mayen
+    common: Svalbard i Jan Mayen
+  pt:
+    official: Svalbard e Jan Mayen
+    common: Svalbard e Jan Mayen
+  ps:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  ro:
+    official: Svalbard și Jan Mayen
+    common: Svalbard și Jan Mayen
+  ru:
+    official: Шпицберген и Ян-Майен
+    common: Шпицберген и Ян-Майен
+  si:
+    official: ස්වල්බාඩ් හා ජැන් මෙයන්
+    common: ස්වල්බාඩ් හා ජැන් මෙයන්
+  sk:
+    official: Svalbard a Jan Mayen
+    common: Svalbard a Jan Mayen
+  sl:
+    official: Svalbard in Jan Mayen
+    common: Svalbard in Jan Mayen
+  so:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  es:
+    official: Svalbard y Jan Mayen
+    common: Svalbard y Jan Mayen
+  sr:
+    official: Свалбард и Јан Мајен
+    common: Свалбард и Јан Мајен
+  sw:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  sv:
+    official: Svalbard och Jan Mayen
+    common: Svalbard och Jan Mayen
+  ta:
+    official: சவால்பார்ட் மற்றும் ஜன் மேயன்
+    common: சவால்பார்ட் மற்றும் ஜன் மேயன்
+  tt:
+    official: Свалбард белән Жан Майен
+    common: Свалбард белән Жан Майен
+  te:
+    official: స్వాలబార్డ్ మరియు జాన్ మేయెన్
+    common: స్వాలబార్డ్ మరియు జాన్ మేయెన్
+  tl:
+    official: Svalbard at Jan Mayen
+    common: Svalbard at Jan Mayen
+  th:
+    official: สฟาลบาร์ และ ยานไมเอน
+    common: สฟาลบาร์ และ ยานไมเอน
+  ti:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  tk:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  tr:
+    official: Svalbard ve Jan Mayen Adaları
+    common: Svalbard ve Jan Mayen Adaları
+  ug:
+    official: سىۋالبارد تاقىم ئاراللىرى ۋە يان-مايېن ئارىلى
+    common: سىۋالبارد تاقىم ئاراللىرى ۋە يان-مايېن ئارىلى
+  uk:
+    official: Острови Свальбард і Ян Маєн
+    common: Острови Свальбард і Ян Маєн
+  ve:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  vi:
+    official: Xợ-van-bat và Ian-may-en
+    common: Xợ-van-bat và Ian-may-en
+  cy:
+    official: Svalbard a Jan Mayen
+    common: Svalbard a Jan Mayen
+  wa:
+    official: Iyes Svalbard eyet Jan Mayen
+    common: Iyes Svalbard eyet Jan Mayen
+  wo:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  xh:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen
+  zu:
+    official: Svalbard and Jan Mayen
+    common: Svalbard and Jan Mayen

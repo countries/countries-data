@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: אפגניסטן
+    common: אפגניסטן
+  AX:
+    official: איי אלנד
+    common: איי אלנד
+  AL:
+    official: אלבניה
+    common: אלבניה
+  DZ:
+    official: אלג'יריה
+    common: אלג'יריה
+  AS:
+    official: סמואה האמריקאית
+    common: סמואה האמריקאית
+  AD:
+    official: אנדורה
+    common: אנדורה
+  AO:
+    official: אנגולה
+    common: אנגולה
+  AI:
+    official: אנגואילה
+    common: אנגואילה
+  AQ:
+    official: אנטרקטיקה
+    common: אנטרקטיקה
+  AG:
+    official: אנטיגואה וברבודה
+    common: אנטיגואה וברבודה
+  AR:
+    official: ארגנטינה
+    common: ארגנטינה
+  AM:
+    official: ארמניה
+    common: ארמניה
+  AW:
+    official: ארובה
+    common: ארובה
+  AU:
+    official: אוסטרליה
+    common: אוסטרליה
+  AT:
+    official: אוסטריה
+    common: אוסטריה
+  AZ:
+    official: אזרביג'ן
+    common: אזרביג'ן
+  BS:
+    official: בהמאס
+    common: בהמאס
+  BH:
+    official: בחריין
+    common: בחריין
+  BD:
+    official: בנגלדש
+    common: בנגלדש
+  BB:
+    official: ברבדוס
+    common: ברבדוס
+  BY:
+    official: בלרוס
+    common: בלרוס
+  BE:
+    official: בלגיה
+    common: בלגיה
+  BZ:
+    official: בליז
+    common: בליז
+  BJ:
+    official: בנין
+    common: בנין
+  BM:
+    official: ברמודה
+    common: ברמודה
+  BT:
+    official: בהוטן
+    common: בהוטן
+  BO:
+    official: בוליביה, המדינה הרב לאומית של
+    common: בוליביה, המדינה הרב לאומית של
+  BQ:
+    official: בונייר, סנט אוסטתיוס וסאבא
+    common: בונייר, סנט אוסטתיוס וסאבא
+  BA:
+    official: בוסניה הרצגובינה
+    common: בוסניה הרצגובינה
+  BW:
+    official: בוטסוואנה
+    common: בוטסוואנה
+  BV:
+    official: האי באווט
+    common: האי באווט
+  BR:
+    official: ברזיל
+    common: ברזיל
+  IO:
+    official: טריטוריית האוקיאנוס ההודי הבריטית
+    common: טריטוריית האוקיאנוס ההודי הבריטית
+  BN:
+    official: ברונאי דרוסלאלם
+    common: ברונאי דרוסלאלם
+  BG:
+    official: בולגריה
+    common: בולגריה
+  BF:
+    official: בורקינה פאסו
+    common: בורקינה פאסו
+  BI:
+    official: בורונדי
+    common: בורונדי
+  KH:
+    official: קמבודיה
+    common: קמבודיה
+  CM:
+    official: קמרון
+    common: קמרון
+  CA:
+    official: קנדה
+    common: קנדה
+  CV:
+    official: כף ורדה
+    common: כף ורדה
+  KY:
+    official: איי קימן
+    common: איי קימן
+  CF:
+    official: הרפובליקה המרכז אפריקנית
+    common: הרפובליקה המרכז אפריקנית
+  TD:
+    official: צ'ד
+    common: צ'ד
+  CL:
+    official: צ'ילה
+    common: צ'ילה
+  CN:
+    official: סין
+    common: סין
+  CX:
+    official: איי חג המולד
+    common: איי חג המולד
+  CC:
+    official: איי קוקוס, קילינג
+    common: איי קוקוס, קילינג
+  CO:
+    official: קולומביה
+    common: קולומביה
+  KM:
+    official: קומורוס
+    common: קומורוס
+  CG:
+    official: קונגו
+    common: קונגו
+  CD:
+    official: קונגו, הרפובליקה הדמוקרטית של
+    common: קונגו, הרפובליקה הדמוקרטית של
+  CK:
+    official: איי קוק
+    common: איי קוק
+  CR:
+    official: קוסטה ריקה
+    common: קוסטה ריקה
+  CI:
+    official: חוף השנהב
+    common: חוף השנהב
+  HR:
+    official: קרואטיה
+    common: קרואטיה
+  CU:
+    official: קובה
+    common: קובה
+  CW:
+    official: קוראסאו
+    common: קוראסאו
+  CY:
+    official: קפריסין
+    common: קפריסין
+  CZ:
+    official: הרפובליקה הצ'כית
+    common: הרפובליקה הצ'כית
+  DK:
+    official: דנמרק
+    common: דנמרק
+  DJ:
+    official: דג'יבוטי
+    common: דג'יבוטי
+  DM:
+    official: דומיניקה
+    common: דומיניקה
+  DO:
+    official: הרפובליקה הדומיניקנית
+    common: הרפובליקה הדומיניקנית
+  EC:
+    official: אקוודור
+    common: אקוודור
+  EG:
+    official: מצרים
+    common: מצרים
+  SV:
+    official: אל סלבדור
+    common: אל סלבדור
+  GQ:
+    official: גינאה המשוונית
+    common: גינאה המשוונית
+  ER:
+    official: איריתריאה
+    common: איריתריאה
+  EE:
+    official: אסטוניה
+    common: אסטוניה
+  ET:
+    official: אתיופיה
+    common: אתיופיה
+  FK:
+    official: איי פוקלנד
+    common: איי פוקלנד
+  FO:
+    official: איי פארו
+    common: איי פארו
+  FJ:
+    official: פיג'י
+    common: פיג'י
+  FI:
+    official: פינלנד
+    common: פינלנד
+  FR:
+    official: צרפת
+    common: צרפת
+  GF:
+    official: גינאה הצרפתית
+    common: גינאה הצרפתית
+  PF:
+    official: פולינזיה הצרפתית
+    common: פולינזיה הצרפתית
+  TF:
+    official: הטריטוריות הדרומיות של צרפת
+    common: הטריטוריות הדרומיות של צרפת
+  GA:
+    official: גבון
+    common: גבון
+  GM:
+    official: גמביה
+    common: גמביה
+  GE:
+    official: גיאורגיה
+    common: גיאורגיה
+  DE:
+    official: גרמניה
+    common: גרמניה
+  GH:
+    official: גאנה
+    common: גאנה
+  GI:
+    official: גיברלטר
+    common: גיברלטר
+  GR:
+    official: יוון
+    common: יוון
+  GL:
+    official: גרינלנד
+    common: גרינלנד
+  GD:
+    official: גרנדה
+    common: גרנדה
+  GP:
+    official: גוואדלופ
+    common: גוואדלופ
+  GU:
+    official: גואם
+    common: גואם
+  GT:
+    official: גואטמלה
+    common: גואטמלה
+  GG:
+    official: גאורנסי
+    common: גאורנסי
+  GN:
+    official: גינאה
+    common: גינאה
+  GW:
+    official: גינאה ביסאו
+    common: גינאה ביסאו
+  GY:
+    official: גויאנה
+    common: גויאנה
+  HT:
+    official: האיטי
+    common: האיטי
+  HM:
+    official: האיים הרד ומקדונלד
+    common: האיים הרד ומקדונלד
+  VA:
+    official: וותיקן
+    common: וותיקן
+  HN:
+    official: הונדורס
+    common: הונדורס
+  HK:
+    official: הונג קונג
+    common: הונג קונג
+  HU:
+    official: הונגריה
+    common: הונגריה
+  IS:
+    official: איסלנד
+    common: איסלנד
+  IN:
+    official: הודו
+    common: הודו
+  ID:
+    official: אינדונזיה
+    common: אינדונזיה
+  IR:
+    official: אירן, הרפובליקה האיסלמית של
+    common: אירן, הרפובליקה האיסלמית של
+  IQ:
+    official: עירק
+    common: עירק
+  IE:
+    official: אירלנד
+    common: אירלנד
+  IM:
+    official: האי מאן
+    common: האי מאן
+  IL:
+    official: ישראל
+    common: ישראל
+  IT:
+    official: איטליה
+    common: איטליה
+  JM:
+    official: ג'מייקה
+    common: ג'מייקה
+  JP:
+    official: יפן
+    common: יפן
+  JE:
+    official: ג'רזי
+    common: ג'רזי
+  JO:
+    official: ירדן
+    common: ירדן
+  KZ:
+    official: קאזחאסטן
+    common: קאזחאסטן
+  KE:
+    official: קניה
+    common: קניה
+  KI:
+    official: קיריבטי
+    common: קיריבטי
+  KP:
+    official: קוריאה, דמוקרטיית העם של
+    common: קוריאה, דמוקרטיית העם של
+  KR:
+    official: קוריאה, הרפובליקה של
+    common: קוריאה, הרפובליקה של
+  KW:
+    official: כווית
+    common: כווית
+  KG:
+    official: קירגיסטאן
+    common: קירגיסטאן
+  LA:
+    official: לאוס
+    common: לאוס
+  LV:
+    official: לטביה
+    common: לטביה
+  LB:
+    official: לבנון
+    common: לבנון
+  LS:
+    official: לסותו
+    common: לסותו
+  LR:
+    official: ליבריה
+    common: ליבריה
+  LY:
+    official: לוב
+    common: לוב
+  LI:
+    official: ליכטנשטיין
+    common: ליכטנשטיין
+  LT:
+    official: ליטא
+    common: ליטא
+  LU:
+    official: לוקסמבורג
+    common: לוקסמבורג
+  MO:
+    official: מאקאו
+    common: מאקאו
+  MK:
+    official: הרפובליקה של מקדוניה
+    common: הרפובליקה של מקדוניה
+  MG:
+    official: מדגסקר
+    common: מדגסקר
+  MW:
+    official: מלאוי
+    common: מלאוי
+  MY:
+    official: מלזיה
+    common: מלזיה
+  MV:
+    official: מלדיב
+    common: מלדיב
+  ML:
+    official: מלי
+    common: מלי
+  MT:
+    official: מלטה
+    common: מלטה
+  MH:
+    official: איי מרשל
+    common: איי מרשל
+  MQ:
+    official: מרטיניק
+    common: מרטיניק
+  MR:
+    official: מאוריטניה
+    common: מאוריטניה
+  MU:
+    official: מאוריציוס
+    common: מאוריציוס
+  YT:
+    official: מאיוט
+    common: מאיוט
+  MX:
+    official: מקסיקו
+    common: מקסיקו
+  FM:
+    official: מיקרונזיה
+    common: מיקרונזיה
+  MD:
+    official: מולדובה, הרפובליקה של
+    common: מולדובה, הרפובליקה של
+  MC:
+    official: מונקו
+    common: מונקו
+  MN:
+    official: מונגוליה
+    common: מונגוליה
+  ME:
+    official: מונטנגרו
+    common: מונטנגרו
+  MS:
+    official: מונסראט
+    common: מונסראט
+  MA:
+    official: מרוקו
+    common: מרוקו
+  MZ:
+    official: מוזמביק
+    common: מוזמביק
+  MM:
+    official: מיאנמאר
+    common: מיאנמאר
+  NA:
+    official: נמיביה
+    common: נמיביה
+  NR:
+    official: נאורו
+    common: נאורו
+  NP:
+    official: נפאל
+    common: נפאל
+  NL:
+    official: הולנד
+    common: הולנד
+  NC:
+    official: קלדוניה החדשה
+    common: קלדוניה החדשה
+  NZ:
+    official: ניו זילנד
+    common: ניו זילנד
+  NI:
+    official: ניקרגואה
+    common: ניקרגואה
+  NE:
+    official: ניז'ר
+    common: ניז'ר
+  NG:
+    official: ניגריה
+    common: ניגריה
+  NU:
+    official: ניאו
+    common: ניאו
+  NF:
+    official: האי נורפולק
+    common: האי נורפולק
+  MP:
+    official: איי מרינה הצפוניים
+    common: איי מרינה הצפוניים
+  'NO':
+    official: נורבגיה
+    common: נורבגיה
+  OM:
+    official: עומן
+    common: עומן
+  PK:
+    official: פקיסטן
+    common: פקיסטן
+  PW:
+    official: פלאו
+    common: פלאו
+  PS:
+    official: Palestine, State of
+    common: Palestine, State of
+  PA:
+    official: פנמה
+    common: פנמה
+  PG:
+    official: פפואה גינאה החדשה
+    common: פפואה גינאה החדשה
+  PY:
+    official: פארגוואי
+    common: פארגוואי
+  PE:
+    official: פרו
+    common: פרו
+  PH:
+    official: פיליפינים
+    common: פיליפינים
+  PN:
+    official: פיטקרן
+    common: פיטקרן
+  PL:
+    official: פולין
+    common: פולין
+  PT:
+    official: פורטוגל
+    common: פורטוגל
+  PR:
+    official: פורטו ריקו
+    common: פורטו ריקו
+  QA:
+    official: קטר
+    common: קטר
+  RE:
+    official: ראוניון
+    common: ראוניון
+  RO:
+    official: רומניה
+    common: רומניה
+  RU:
+    official: הפדרציה הרוסית
+    common: הפדרציה הרוסית
+  RW:
+    official: רואנדה
+    common: רואנדה
+  BL:
+    official: סנט ברתלמי
+    common: סנט ברתלמי
+  SH:
+    official: סנט הלנה, אסנשן וטריסטן דה קונה
+    common: סנט הלנה, אסנשן וטריסטן דה קונה
+  KN:
+    official: סנט קיטס ונביס
+    common: סנט קיטס ונביס
+  LC:
+    official: סנטה לוסיה
+    common: סנטה לוסיה
+  MF:
+    official: סן מרטן
+    common: סן מרטן
+  PM:
+    official: סנט פייר ומיקלון
+    common: סנט פייר ומיקלון
+  VC:
+    official: סנט וינסנט והגרנדינים
+    common: סנט וינסנט והגרנדינים
+  WS:
+    official: סמואה
+    common: סמואה
+  SM:
+    official: סאן מרינו
+    common: סאן מרינו
+  ST:
+    official: סאו תומה ופרינסיפה
+    common: סאו תומה ופרינסיפה
+  SA:
+    official: ערב הסעודית
+    common: ערב הסעודית
+  SN:
+    official: סנגל
+    common: סנגל
+  RS:
+    official: סרביה
+    common: סרביה
+  SC:
+    official: איי סיישל
+    common: איי סיישל
+  SL:
+    official: סיירה ליאון
+    common: סיירה ליאון
+  SG:
+    official: סינגפור
+    common: סינגפור
+  SX:
+    official: סנט מארטן (החלק ההולנדי)
+    common: סנט מארטן (החלק ההולנדי)
+  SK:
+    official: סלובקיה
+    common: סלובקיה
+  SI:
+    official: סלובניה
+    common: סלובניה
+  SB:
+    official: איי שלמה
+    common: איי שלמה
+  SO:
+    official: סומליה
+    common: סומליה
+  ZA:
+    official: דרום אפריקה
+    common: דרום אפריקה
+  GS:
+    official: דרום ג'ורגיה ואיי דרום סנדביץ'
+    common: דרום ג'ורגיה ואיי דרום סנדביץ'
+  ES:
+    official: ספרד
+    common: ספרד
+  LK:
+    official: סרי לנקה
+    common: סרי לנקה
+  SD:
+    official: סודן
+    common: סודן
+  SR:
+    official: סורינאם
+    common: סורינאם
+  SS:
+    official: דרום סודן
+    common: דרום סודן
+  SJ:
+    official: סוולברד ויאן מאין
+    common: סוולברד ויאן מאין
+  SZ:
+    official: סווזילנד
+    common: סווזילנד
+  SE:
+    official: שבדיה
+    common: שבדיה
+  CH:
+    official: שוייץ
+    common: שוייץ
+  SY:
+    official: הרפובליקה הערבית הסורית
+    common: הרפובליקה הערבית הסורית
+  TW:
+    official: טיוואן
+    common: טיוואן
+  TJ:
+    official: טג'יקיסטאן
+    common: טג'יקיסטאן
+  TZ:
+    official: טנזניה, הרפובליקה המאוחדת של
+    common: טנזניה, הרפובליקה המאוחדת של
+  TH:
+    official: תאילנד
+    common: תאילנד
+  TL:
+    official: טימור מזרח
+    common: טימור מזרח
+  TG:
+    official: טוגו
+    common: טוגו
+  TK:
+    official: טוקלאו
+    common: טוקלאו
+  TO:
+    official: טונגה
+    common: טונגה
+  TT:
+    official: טרינידד וטובגו
+    common: טרינידד וטובגו
+  TN:
+    official: טוניסיה
+    common: טוניסיה
+  TR:
+    official: טורקיה
+    common: טורקיה
+  TM:
+    official: טורקמניסטאן
+    common: טורקמניסטאן
+  TC:
+    official: איי טורק וקייקוס
+    common: איי טורק וקייקוס
+  TV:
+    official: טובלו
+    common: טובלו
+  UG:
+    official: אוגנדה
+    common: אוגנדה
+  UA:
+    official: אוקראינה
+    common: אוקראינה
+  AE:
+    official: איחוד האמירויות
+    common: איחוד האמירויות
+  GB:
+    official: הממלכה המאוחדת
+    common: הממלכה המאוחדת
+  US:
+    official: ארצות הברית
+    common: ארצות הברית
+  UM:
+    official: האיים הקטנים מסביב לארצות הברית
+    common: האיים הקטנים מסביב לארצות הברית
+  UY:
+    official: אורוגואי
+    common: אורוגואי
+  UZ:
+    official: אוזבקיסטן
+    common: אוזבקיסטן
+  VU:
+    official: ואנואטו
+    common: ואנואטו
+  VE:
+    official: ונצואלה, הרפובליקה הבוליוריאנית של
+    common: ונצואלה, הרפובליקה הבוליוריאנית של
+  VN:
+    official: ויטנאם
+    common: ויטנאם
+  VG:
+    official: איי הבתולה (בריטיים)
+    common: איי הבתולה (בריטיים)
+  VI:
+    official: איי הבתולה (ארה\
+    common: איי הבתולה (ארה\
+  WF:
+    official: ואליס ופוטונה
+    common: ואליס ופוטונה
+  EH:
+    official: מערב סהרה
+    common: מערב סהרה
+  YE:
+    official: תימן
+    common: תימן
+  ZM:
+    official: זמביה
+    common: זמביה
+  ZW:
+    official: זימבבואה
+    common: זימבבואה

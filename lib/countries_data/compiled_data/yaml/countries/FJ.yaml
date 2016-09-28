@@ -1,0 +1,334 @@
+---
+continent: Australia
+alpha2: FJ
+alpha3: FJI
+country_code: '679'
+international_prefix: '00'
+ioc: FIJ
+gec: FJ
+name: Fiji
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: None
+number: '242'
+region: Oceania
+subregion: Melanesia
+world_region: APAC
+un_locode: FJ
+nationality: Fijian
+postal_code: false
+unofficial_names:
+- Fiji
+- Fidschi
+- Fidji
+- フィジー
+languages_official:
+- en
+- fj
+- hi
+- ur
+languages_spoken:
+- en
+- fj
+- hi
+- ur
+geo:
+  latitude: -17.713371
+  latitude_dec: "-17.658161163330078"
+  longitude: 178.065032
+  longitude_dec: '178.1472625732422'
+  max_latitude: -12.4795938
+  max_longitude: -178.2301069
+  min_latitude: -20.6694302
+  min_longitude: 176.9094943
+  bounds:
+    northeast:
+      lat: -12.4795938
+      lng: -178.2301069
+    southwest:
+      lat: -20.6694302
+      lng: 176.9094943
+currency_code: USD
+postal_address_data:
+  id: data/FJ
+  key: FJ
+  name: FIJI
+translations:
+  af:
+    official: Fidji
+    common: Fidji
+  sq:
+    official: Fixhi
+    common: Fixhi
+  am:
+    official: ፑጂ
+    common: ፑጂ
+  ar:
+    official: فيجي
+    common: فيجي
+  hy:
+    official: Ֆիջի
+    common: Ֆիջի
+  as:
+    official: ফিজি
+    common: ফিজি
+  az:
+    official: Fici
+    common: Fici
+  eu:
+    official: Fiji
+    common: Fiji
+  be:
+    official: Фіджы
+    common: Фіджы
+  bn:
+    official: ফিজি
+    common: ফিজি
+  bs:
+    official: Fidži
+    common: Fidži
+  br:
+    official: Fiji
+    common: Fiji
+  bg:
+    official: Фиджи
+    common: Фиджи
+  ca:
+    official: Fiji
+    common: Fiji
+  zh:
+    official: 斐济
+    common: 斐济
+  cs:
+    official: Fidži
+    common: Fidži
+  da:
+    official: Fiji
+    common: Fiji
+  nl:
+    official: Fiji
+    common: Fiji
+  dz:
+    official: ཕི་ཇི།
+    common: ཕི་ཇི།
+  en:
+    official: Fiji
+    common: Fiji
+  eo:
+    official: Fiĝioj
+    common: Fiĝioj
+  et:
+    official: Fidži
+    common: Fidži
+  fo:
+    official: Fiji
+    common: Fiji
+  fi:
+    official: Fidži
+    common: Fidži
+  fr:
+    official: Fidji
+    common: Fidji
+  ka:
+    official: ფიჯი
+    common: ფიჯი
+  de:
+    official: Fidschi
+    common: Fidschi
+  ga:
+    official: Fidsí
+    common: Fidsí
+  gl:
+    official: Fixi
+    common: Fixi
+  el:
+    official: Φίτζι
+    common: Φίτζι
+  gu:
+    official: ફીજી
+    common: ફીજી
+  he:
+    official: פיג'י
+    common: פיג'י
+  hi:
+    official: फिजी
+    common: फिजी
+  hr:
+    official: Fidži
+    common: Fidži
+  hu:
+    official: Fidzsi-szigetek
+    common: Fidzsi-szigetek
+  is:
+    official: Fídjieyjar
+    common: Fídjieyjar
+  ia:
+    official: Fiji
+    common: Fiji
+  id:
+    official: Kepulauan Fiji
+    common: Kepulauan Fiji
+  it:
+    official: Fiji
+    common: Fiji
+  ja:
+    official: フィジー
+    common: フィジー
+  kn:
+    official: ಫಿಜಿ
+    common: ಫಿಜಿ
+  kk:
+    official: Фиджи
+    common: Фиджи
+  km:
+    official: ហ្វីហ្ស៊ី
+    common: ហ្វីហ្ស៊ី
+  rw:
+    official: Fiji
+    common: Fiji
+  ko:
+    official: 피지
+    common: 피지
+  ku:
+    official: Fîjî
+    common: Fîjî
+  lv:
+    official: Fidži
+    common: Fidži
+  lt:
+    official: Fidžis
+    common: Fidžis
+  mk:
+    official: Фиџи
+    common: Фиџи
+  ml:
+    official: ഫിജി
+    common: ഫിജി
+  mi:
+    official: Fiji
+    common: Fiji
+  mr:
+    official: फिजी
+    common: फिजी
+  ms:
+    official: Fiji
+    common: Fiji
+  mt:
+    official: Fiġi
+    common: Fiġi
+  mn:
+    official: Fiji
+    common: Fiji
+  ne:
+    official: फिजी
+    common: फिजी
+  nn:
+    official: Fiji
+    common: Fiji
+  nb:
+    official: Fiji
+    common: Fiji
+  oc:
+    official: Fidji
+    common: Fidji
+  or:
+    official: ଫିଜୀ
+    common: ଫିଜୀ
+  pa:
+    official: ਫਿਜ਼ੀ
+    common: ਫਿਜ਼ੀ
+  fa:
+    official: فیجی
+    common: فیجی
+  pl:
+    official: Fidżi
+    common: Fidżi
+  pt:
+    official: Fiji
+    common: Fiji
+  ps:
+    official: Fiji
+    common: Fiji
+  ro:
+    official: Fiji
+    common: Fiji
+  ru:
+    official: Фиджи
+    common: Фиджи
+  si:
+    official: ෆීජි
+    common: ෆීජි
+  sk:
+    official: Fidži
+    common: Fidži
+  sl:
+    official: Fidži
+    common: Fidži
+  so:
+    official: Fiji
+    common: Fiji
+  es:
+    official: Fiyi
+    common: Fiyi
+  sr:
+    official: Фиџи
+    common: Фиџи
+  sw:
+    official: Fiji
+    common: Fiji
+  sv:
+    official: Fiji
+    common: Fiji
+  ta:
+    official: பிஜி
+    common: பிஜி
+  tt:
+    official: Фижи
+    common: Фижи
+  te:
+    official: ఫిజీ
+    common: ఫిజీ
+  tl:
+    official: Fiji
+    common: Fiji
+  th:
+    official: ฟิจิ
+    common: ฟิจิ
+  ti:
+    official: ፊጂ
+    common: ፊጂ
+  tk:
+    official: Fiji
+    common: Fiji
+  tr:
+    official: Fiji
+    common: Fiji
+  ug:
+    official: فىجى
+    common: فىجى
+  uk:
+    official: Фіджі
+    common: Фіджі
+  ve:
+    official: Fiji
+    common: Fiji
+  vi:
+    official: Phi-gi
+    common: Phi-gi
+  cy:
+    official: Ffiji
+    common: Ffiji
+  wa:
+    official: Fidji
+    common: Fidji
+  wo:
+    official: Fiiji
+    common: Fiiji
+  xh:
+    official: Fiji
+    common: Fiji
+  zu:
+    official: Fiji
+    common: Fiji

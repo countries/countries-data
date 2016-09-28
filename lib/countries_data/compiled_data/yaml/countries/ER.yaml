@@ -1,0 +1,332 @@
+---
+continent: Africa
+alpha2: ER
+alpha3: ERI
+country_code: '291'
+international_prefix: '00'
+ioc: ERI
+gec: ER
+name: Eritrea
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: '0'
+number: '232'
+region: Africa
+subregion: Eastern Africa
+world_region: EMEA
+un_locode: ER
+nationality: Eritrean
+postal_code: false
+unofficial_names:
+- Eritrea
+- إريتريا
+- Érythrée
+- エリトリア
+languages_official:
+- en
+- ar
+- ti
+languages_spoken:
+- en
+- ar
+- ti
+geo:
+  latitude: 15.179384
+  latitude_dec: '15.397199630737305'
+  longitude: 39.782334
+  longitude_dec: '39.087188720703125'
+  max_latitude: 18.0204137
+  max_longitude: 43.1429693
+  min_latitude: 12.3547229
+  min_longitude: 36.433348
+  bounds:
+    northeast:
+      lat: 18.0204137
+      lng: 43.1429693
+    southwest:
+      lat: 12.3547229
+      lng: 36.433348
+currency_code: ETB
+postal_address_data:
+  id: data/ER
+  key: ER
+  name: ERITREA
+translations:
+  af:
+    official: Eritreë
+    common: Eritreë
+  sq:
+    official: Eritrea
+    common: Eritrea
+  am:
+    official: ጔሴትሲ
+    common: ጔሴትሲ
+  ar:
+    official: إريتريا
+    common: إريتريا
+  hy:
+    official: Էրիտրեա
+    common: Էրիտրեա
+  as:
+    official: এৰিট্ৰিয়া
+    common: এৰিট্ৰিয়া
+  az:
+    official: Eritre
+    common: Eritre
+  eu:
+    official: Eritrea
+    common: Eritrea
+  be:
+    official: Эрытрэя
+    common: Эрытрэя
+  bn:
+    official: এরিট্রিয়া
+    common: এরিট্রিয়া
+  bs:
+    official: Eritreja
+    common: Eritreja
+  br:
+    official: Eritrea
+    common: Eritrea
+  bg:
+    official: Еритрея
+    common: Еритрея
+  ca:
+    official: Eritrea
+    common: Eritrea
+  zh:
+    official: 厄立特里亚
+    common: 厄立特里亚
+  cs:
+    official: Eritrea
+    common: Eritrea
+  da:
+    official: Eritrea
+    common: Eritrea
+  nl:
+    official: Eritrea
+    common: Eritrea
+  dz:
+    official: ཨི་རི་ཊི།
+    common: ཨི་རི་ཊི།
+  en:
+    official: Eritrea
+    common: Eritrea
+  eo:
+    official: Eritreo
+    common: Eritreo
+  et:
+    official: Eritrea
+    common: Eritrea
+  fo:
+    official: Eritrea
+    common: Eritrea
+  fi:
+    official: Eritrea
+    common: Eritrea
+  fr:
+    official: Érythrée
+    common: Érythrée
+  ka:
+    official: ერიტრეა
+    common: ერიტრეა
+  de:
+    official: Eritrea
+    common: Eritrea
+  ga:
+    official: An Eiritré
+    common: An Eiritré
+  gl:
+    official: Eritrea
+    common: Eritrea
+  el:
+    official: Ερυθραία
+    common: Ερυθραία
+  gu:
+    official: ઇરીટરીઆ
+    common: ઇરીટરીઆ
+  he:
+    official: איריתריאה
+    common: איריתריאה
+  hi:
+    official: इरिट्रीया
+    common: इरिट्रीया
+  hr:
+    official: Eritreja
+    common: Eritreja
+  hu:
+    official: Eritrea
+    common: Eritrea
+  is:
+    official: Erítrea
+    common: Erítrea
+  ia:
+    official: Eritrea
+    common: Eritrea
+  id:
+    official: Eritria
+    common: Eritria
+  it:
+    official: Eritrea
+    common: Eritrea
+  ja:
+    official: エリトリア国
+    common: エリトリア国
+  kn:
+    official: ಎರಿಟ್ರಿಯಾ
+    common: ಎರಿಟ್ರಿಯಾ
+  kk:
+    official: Эритрея
+    common: Эритрея
+  km:
+    official: អេរីទ្រា
+    common: អេរីទ្រា
+  rw:
+    official: Eritereya
+    common: Eritereya
+  ko:
+    official: 에리트리아
+    common: 에리트리아
+  ku:
+    official: Erître
+    common: Erître
+  lv:
+    official: Eritreja
+    common: Eritreja
+  lt:
+    official: Eritrėja
+    common: Eritrėja
+  mk:
+    official: Еритреа
+    common: Еритреа
+  ml:
+    official: എറിട്രിയ
+    common: എറിട്രിയ
+  mi:
+    official: Eritēria
+    common: Eritēria
+  mr:
+    official: इरित्रीया
+    common: इरित्रीया
+  ms:
+    official: Eritrea
+    common: Eritrea
+  mt:
+    official: Eritreja
+    common: Eritreja
+  mn:
+    official: Eritrea
+    common: Eritrea
+  ne:
+    official: एरिट्रिया
+    common: एरिट्रिया
+  nn:
+    official: Eritrea
+    common: Eritrea
+  nb:
+    official: Eritrea
+    common: Eritrea
+  oc:
+    official: Eritrèa
+    common: Eritrèa
+  or:
+    official: ଇରୀଟ୍ରିୟା
+    common: ଇରୀଟ୍ରିୟା
+  pa:
+    official: ਈਰਟੀਰਆ
+    common: ਈਰਟੀਰਆ
+  fa:
+    official: اریتره
+    common: اریتره
+  pl:
+    official: Erytrea
+    common: Erytrea
+  pt:
+    official: Eritreia
+    common: Eritreia
+  ps:
+    official: Eritrea
+    common: Eritrea
+  ro:
+    official: Eritreea
+    common: Eritreea
+  ru:
+    official: Эритрея
+    common: Эритрея
+  si:
+    official: එරිත්‍රියා
+    common: එරිත්‍රියා
+  sk:
+    official: Eritrea
+    common: Eritrea
+  sl:
+    official: Eritreja
+    common: Eritreja
+  so:
+    official: Eritrea
+    common: Eritrea
+  es:
+    official: Eritrea
+    common: Eritrea
+  sr:
+    official: Еритреја
+    common: Еритреја
+  sw:
+    official: Eritrea
+    common: Eritrea
+  sv:
+    official: Eritrea
+    common: Eritrea
+  ta:
+    official: எரிட்ரேயா
+    common: எரிட்ரேயா
+  tt:
+    official: Еритреа
+    common: Еритреа
+  te:
+    official: ఇరిత్రీయా
+    common: ఇరిత్రీయా
+  tl:
+    official: Eritrea
+    common: Eritrea
+  th:
+    official: เอริเทรีย
+    common: เอริเทรีย
+  ti:
+    official: ኤርትራ
+    common: ኤርትራ
+  tk:
+    official: Eriteriýa
+    common: Eriteriýa
+  tr:
+    official: Eritre
+    common: Eritre
+  ug:
+    official: ئېرىترېيە
+    common: ئېرىترېيە
+  uk:
+    official: Еритрея
+    common: Еритрея
+  ve:
+    official: Eritrea
+    common: Eritrea
+  vi:
+    official: Ê-ri-tơ-rê-a
+    common: Ê-ri-tơ-rê-a
+  cy:
+    official: Eritrea
+    common: Eritrea
+  wa:
+    official: Eritrêye
+    common: Eritrêye
+  wo:
+    official: Eriteeri
+    common: Eriteeri
+  xh:
+    official: Eritrea
+    common: Eritrea
+  zu:
+    official: Eritrea
+    common: Eritrea

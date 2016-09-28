@@ -1,0 +1,332 @@
+---
+continent: Africa
+alpha2: MU
+alpha3: MUS
+country_code: '230'
+international_prefix: '020'
+ioc: MRI
+gec: MP
+name: Mauritius
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: None
+number: '480'
+region: Africa
+subregion: Eastern Africa
+world_region: EMEA
+un_locode: MU
+nationality: Mauritian
+postal_code: false
+unofficial_names:
+- Mauritius
+- Île Maurice
+- Mauricio
+- モーリシャス
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: -20.348404
+  latitude_dec: "-20.220409393310547"
+  longitude: 57.55215200000001
+  longitude_dec: '57.589378356933594'
+  max_latitude: -10.3366293
+  max_longitude: 63.5035944
+  min_latitude: -20.5255121
+  min_longitude: 56.5143667
+  bounds:
+    northeast:
+      lat: -10.3366293
+      lng: 63.5035944
+    southwest:
+      lat: -20.5255121
+      lng: 56.5143667
+currency_code: MUR
+postal_address_data:
+  upper: CZ
+  zipex: '42602'
+  name: MAURITIUS
+  zip: "\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})"
+  fmt: "%N%n%O%n%A%n%Z%n%C"
+  key: MU
+  id: data/MU
+translations:
+  af:
+    official: Mauritius
+    common: Mauritius
+  sq:
+    official: Mauricius
+    common: Mauricius
+  am:
+    official: ሢሩሸስ
+    common: ሢሩሸስ
+  ar:
+    official: موريشيوس
+    common: موريشيوس
+  hy:
+    official: Մավրիտոս
+    common: Մավրիտոս
+  as:
+    official: মৰিছাছ
+    common: মৰিছাছ
+  az:
+    official: Mauritius
+    common: Mauritius
+  eu:
+    official: Maurizio
+    common: Maurizio
+  be:
+    official: Маўрыкій
+    common: Маўрыкій
+  bn:
+    official: মরিশাস
+    common: মরিশাস
+  bs:
+    official: Mauricijus
+    common: Mauricijus
+  br:
+    official: Mauritius
+    common: Mauritius
+  bg:
+    official: Мавриций
+    common: Мавриций
+  ca:
+    official: Maurici
+    common: Maurici
+  zh:
+    official: 毛里求斯
+    common: 毛里求斯
+  cs:
+    official: Mauricius
+    common: Mauricius
+  da:
+    official: Mauritius
+    common: Mauritius
+  nl:
+    official: Mauritius
+    common: Mauritius
+  dz:
+    official: མའུ་རི་ཤི་ཡཱསི།
+    common: མའུ་རི་ཤི་ཡཱསི།
+  en:
+    official: Mauritius
+    common: Mauritius
+  eo:
+    official: Maŭricio
+    common: Maŭricio
+  et:
+    official: Mauritius
+    common: Mauritius
+  fo:
+    official: Móritius
+    common: Móritius
+  fi:
+    official: Mauritius
+    common: Mauritius
+  fr:
+    official: Maurice
+    common: Maurice
+  ka:
+    official: მავრიკია
+    common: მავრიკია
+  de:
+    official: Mauritius
+    common: Mauritius
+  ga:
+    official: Oileán Mhuirís
+    common: Oileán Mhuirís
+  gl:
+    official: Mauricio
+    common: Mauricio
+  el:
+    official: Μαυρίκιος
+    common: Μαυρίκιος
+  gu:
+    official: મોરિશિયસ
+    common: મોરિશિયસ
+  he:
+    official: מאוריציוס
+    common: מאוריציוס
+  hi:
+    official: मॉरिशस
+    common: मॉरिशस
+  hr:
+    official: Mauricijus
+    common: Mauricijus
+  hu:
+    official: Mauritius
+    common: Mauritius
+  is:
+    official: Máritus
+    common: Máritus
+  ia:
+    official: Mauritio
+    common: Mauritio
+  id:
+    official: Mauritius
+    common: Mauritius
+  it:
+    official: Maurizio
+    common: Maurizio
+  ja:
+    official: モーリシャス
+    common: モーリシャス
+  kn:
+    official: ಮಾರಿಶಸ್
+    common: ಮಾರಿಶಸ್
+  kk:
+    official: Маврикий
+    common: Маврикий
+  km:
+    official: ម៉ូរីទុស
+    common: ម៉ូរីទុស
+  rw:
+    official: Ibirwa bya Morise
+    common: Ibirwa bya Morise
+  ko:
+    official: 모리셔스
+    common: 모리셔스
+  ku:
+    official: Morîtiyus
+    common: Morîtiyus
+  lv:
+    official: Maurīcija
+    common: Maurīcija
+  lt:
+    official: Mauricijus
+    common: Mauricijus
+  mk:
+    official: Маурициус
+    common: Маурициус
+  ml:
+    official: മൌറീഷ്യസ്
+    common: മൌറീഷ്യസ്
+  mi:
+    official: Maurituhi
+    common: Maurituhi
+  mr:
+    official: मॉरिशस
+    common: मॉरिशस
+  ms:
+    official: Mauritius
+    common: Mauritius
+  mt:
+    official: Litwanja
+    common: Litwanja
+  mn:
+    official: Mauritius
+    common: Mauritius
+  ne:
+    official: माउरिसस
+    common: माउरिसस
+  nn:
+    official: Mauritius
+    common: Mauritius
+  nb:
+    official: Mauritius
+    common: Mauritius
+  oc:
+    official: Maurici
+    common: Maurici
+  or:
+    official: ମରୀଶସ
+    common: ମରୀଶସ
+  pa:
+    official: ਮਾਓਟੀਸ
+    common: ਮਾਓਟੀਸ
+  fa:
+    official: موریتیوس
+    common: موریتیوس
+  pl:
+    official: Mauritius
+    common: Mauritius
+  pt:
+    official: Maurícias
+    common: Maurícias
+  ps:
+    official: Mauritius
+    common: Mauritius
+  ro:
+    official: Maurițius
+    common: Maurițius
+  ru:
+    official: Маврикий
+    common: Маврикий
+  si:
+    official: මවුරිටියස්
+    common: මවුරිටියස්
+  sk:
+    official: Maurícius
+    common: Maurícius
+  sl:
+    official: Mavricij
+    common: Mavricij
+  so:
+    official: Mauritius
+    common: Mauritius
+  es:
+    official: Mauricio
+    common: Mauricio
+  sr:
+    official: Маурицијус
+    common: Маурицијус
+  sw:
+    official: Mauritius
+    common: Mauritius
+  sv:
+    official: Mauritius
+    common: Mauritius
+  ta:
+    official: மொரீஷியஸ்
+    common: மொரீஷியஸ்
+  tt:
+    official: Мауритиус
+    common: Мауритиус
+  te:
+    official: మారిషస్
+    common: మారిషస్
+  tl:
+    official: Mauritius
+    common: Mauritius
+  th:
+    official: มอริเชียส
+    common: มอริเชียส
+  ti:
+    official: ማሩሸስ
+    common: ማሩሸስ
+  tk:
+    official: Mauritius
+    common: Mauritius
+  tr:
+    official: Mauritius
+    common: Mauritius
+  ug:
+    official: ماۋرىتىئۇس
+    common: ماۋرىتىئۇس
+  uk:
+    official: Маврикій
+    common: Маврикій
+  ve:
+    official: Mauritius
+    common: Mauritius
+  vi:
+    official: Mô-ri-sơ-xợ
+    common: Mô-ri-sơ-xợ
+  cy:
+    official: Mauritius
+    common: Mauritius
+  wa:
+    official: Iye Môrice
+    common: Iye Môrice
+  wo:
+    official: Móoris
+    common: Móoris
+  xh:
+    official: Lithuania
+    common: Lithuania
+  zu:
+    official: I-Lithuwaniya
+    common: I-Lithuwaniya

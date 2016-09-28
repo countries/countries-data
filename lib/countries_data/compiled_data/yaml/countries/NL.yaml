@@ -1,0 +1,348 @@
+---
+continent: Europe
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: NL
+alpha3: NLD
+country_code: '31'
+international_prefix: '00'
+ioc: NED
+gec: NL
+name: Netherlands
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: '0'
+number: '528'
+region: Europe
+subregion: Western Europe
+world_region: EMEA
+un_locode: NL
+nationality: Dutch
+eu_member: true
+eea_member: true
+vat_rates:
+  standard: 21
+  reduced:
+  - 6
+  super_reduced: 
+  parking: 
+postal_code: true
+unofficial_names:
+- Netherlands
+- Niederlande
+- Pays-Bas
+- Países Bajos
+- オランダ
+- Nederland
+languages_official:
+- nl
+languages_spoken:
+- nl
+geo:
+  latitude: 52.132633
+  latitude_dec: '52.34225845336914'
+  longitude: 5.291265999999999
+  longitude_dec: '5.5281572341918945'
+  max_latitude: 53.5551998
+  max_longitude: 7.2275103
+  min_latitude: 50.7503837
+  min_longitude: 3.357962
+  bounds:
+    northeast:
+      lat: 53.5551998
+      lng: 7.2275103
+    southwest:
+      lat: 50.7503837
+      lng: 3.357962
+currency_code: EUR
+postal_address_data:
+  key: NL
+  zipex: 1234 AB,2490 AA
+  name: NETHERLANDS
+  zip: "\\d{4} ?[A-Z]{2}"
+  require: ACZ
+  id: data/NL
+  posturl: http://www.postnl.nl/voorthuis/
+  fmt: "%O%n%N%n%A%n%Z %C"
+translations:
+  af:
+    official: Nederland
+    common: Nederland
+  sq:
+    official: Hollanda
+    common: Hollanda
+  am:
+    official: ኔፈሴሒን፥
+    common: ኔፈሴሒን፥
+  ar:
+    official: هولندا
+    common: هولندا
+  hy:
+    official: Նիդերլանդեր
+    common: Նիդերլանդեր
+  as:
+    official: নেডাৰলেণ্ড
+    common: নেডাৰলেণ্ড
+  az:
+    official: Hollandiya
+    common: Hollandiya
+  eu:
+    official: Herbehereak
+    common: Herbehereak
+  be:
+    official: Нідэрланды
+    common: Нідэрланды
+  bn:
+    official: নেদারল্যান্ড
+    common: নেদারল্যান্ড
+  bs:
+    official: Nizozemska
+    common: Nizozemska
+  br:
+    official: Izelvroioù
+    common: Izelvroioù
+  bg:
+    official: Холандия
+    common: Холандия
+  ca:
+    official: Països Baixos
+    common: Països Baixos
+  zh:
+    official: 荷兰
+    common: 荷兰
+  cs:
+    official: Nizozemsko
+    common: Nizozemsko
+  da:
+    official: Holland
+    common: Holland
+  nl:
+    official: Nederland
+    common: Nederland
+  dz:
+    official: ནེ་དར་ལེནཌིསི།
+    common: ནེ་དར་ལེནཌིསི།
+  en:
+    official: Netherlands
+    common: Netherlands
+  eo:
+    official: Nederlando
+    common: Nederlando
+  et:
+    official: Holland
+    common: Holland
+  fo:
+    official: Niðurlond
+    common: Niðurlond
+  fi:
+    official: Alankomaat
+    common: Alankomaat
+  fr:
+    official: Pays-Bas
+    common: Pays-Bas
+  ka:
+    official: ნიდერლანდები
+    common: ნიდერლანდები
+  de:
+    official: Niederlande
+    common: Niederlande
+  ga:
+    official: An Ísiltír
+    common: An Ísiltír
+  gl:
+    official: Países Baixos
+    common: Países Baixos
+  el:
+    official: Ολλανδία
+    common: Ολλανδία
+  gu:
+    official: નેધરલેન્ડ્સ
+    common: નેધરલેન્ડ્સ
+  he:
+    official: הולנד
+    common: הולנד
+  hi:
+    official: नीदरलैंड्स
+    common: नीदरलैंड्स
+  hr:
+    official: Nizozemska
+    common: Nizozemska
+  hu:
+    official: Hollandia
+    common: Hollandia
+  is:
+    official: Holland
+    common: Holland
+  ia:
+    official: Pais Basse
+    common: Pais Basse
+  id:
+    official: Belanda
+    common: Belanda
+  it:
+    official: Paesi Bassi
+    common: Paesi Bassi
+  ja:
+    official: オランダ
+    common: オランダ
+  kn:
+    official: ನೆದರ್‌ಲ್ಯಾಂಡ್ಸ್
+    common: ನೆದರ್‌ಲ್ಯಾಂಡ್ಸ್
+  kk:
+    official: Нидерланды
+    common: Нидерланды
+  km:
+    official: "​ហូល្លង់"
+    common: "​ហូល្លង់"
+  rw:
+    official: Nederilande
+    common: Nederilande
+  ko:
+    official: 네덜란드
+    common: 네덜란드
+  ku:
+    official: Holanda
+    common: Holanda
+  lv:
+    official: Nīderlande
+    common: Nīderlande
+  lt:
+    official: Nyderlandai
+    common: Nyderlandai
+  mk:
+    official: Холандија
+    common: Холандија
+  ml:
+    official: നെതര്‍ലന്‍ഡ്സ്
+    common: നെതര്‍ലന്‍ഡ്സ്
+  mi:
+    official: Hōrana
+    common: Hōrana
+  mr:
+    official: नेदरलॅंडस्
+    common: नेदरलॅंडस्
+  ms:
+    official: Belanda
+    common: Belanda
+  mt:
+    official: Netherlands
+    common: Netherlands
+  mn:
+    official: Нидерланд
+    common: Нидерланд
+  ne:
+    official: नेदरल्याण्ड
+    common: नेदरल्याण्ड
+  nn:
+    official: Nederland
+    common: Nederland
+  nb:
+    official: Nederland
+    common: Nederland
+  oc:
+    official: Holanda
+    common: Holanda
+  or:
+    official: ନେଦରଲ୍ଯାଣ୍ଡ
+    common: ନେଦରଲ୍ଯାଣ୍ଡ
+  pa:
+    official: ਨੀਂਦਰਲੈਂਡ
+    common: ਨੀਂਦਰਲੈਂਡ
+  fa:
+    official: هلند
+    common: هلند
+  pl:
+    official: Holandia
+    common: Holandia
+  pt:
+    official: Países Baixos
+    common: Países Baixos
+  ps:
+    official: هالېنډ
+    common: هالېنډ
+  ro:
+    official: Olanda
+    common: Olanda
+  ru:
+    official: Нидерланды
+    common: Нидерланды
+  si:
+    official: නෙදර්ලන්තය
+    common: නෙදර්ලන්තය
+  sk:
+    official: Holandsko
+    common: Holandsko
+  sl:
+    official: Nizozemska
+    common: Nizozemska
+  so:
+    official: Netherlands
+    common: Netherlands
+  es:
+    official: Países Bajos
+    common: Países Bajos
+  sr:
+    official: Холандија
+    common: Холандија
+  sw:
+    official: Uholanzi
+    common: Uholanzi
+  sv:
+    official: Nederländerna
+    common: Nederländerna
+  ta:
+    official: நெதர்லாந்து
+    common: நெதர்லாந்து
+  tt:
+    official: Нидерландлар
+    common: Нидерландлар
+  te:
+    official: నేదర్లాండ్స్
+    common: నేదర్లాండ్స్
+  tl:
+    official: Netherlands
+    common: Netherlands
+  th:
+    official: เนเธอร์แลนด์
+    common: เนเธอร์แลนด์
+  ti:
+    official: ኔዘርላንድ
+    common: ኔዘርላንድ
+  tk:
+    official: Niderland
+    common: Niderland
+  tr:
+    official: Hollanda
+    common: Hollanda
+  ug:
+    official: گوللاندىيە
+    common: گوللاندىيە
+  uk:
+    official: Нідерланди
+    common: Нідерланди
+  ve:
+    official: Netherlands
+    common: Netherlands
+  vi:
+    official: Hoà Lan
+    common: Hoà Lan
+  cy:
+    official: Yr Iseldiroedd
+    common: Yr Iseldiroedd
+  wa:
+    official: Bas Payis
+    common: Bas Payis
+  wo:
+    official: Olaand
+    common: Olaand
+  xh:
+    official: Netherlands
+    common: Netherlands
+  zu:
+    official: I-Netherlands
+    common: I-Netherlands

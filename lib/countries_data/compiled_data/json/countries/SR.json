@@ -1,0 +1,437 @@
+{
+  "continent": "South America",
+  "alpha2": "SR",
+  "alpha3": "SUR",
+  "country_code": "597",
+  "international_prefix": "00",
+  "ioc": "SUR",
+  "gec": "NS",
+  "name": "Suriname",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    6
+  ],
+  "national_prefix": "0",
+  "number": "740",
+  "region": "Americas",
+  "subregion": "South America",
+  "world_region": "AMER",
+  "un_locode": "SR",
+  "nationality": "Surinamer",
+  "postal_code": false,
+  "unofficial_names": [
+    "Suriname",
+    "Surinam",
+    "スリナム"
+  ],
+  "languages_official": [
+    "nl"
+  ],
+  "languages_spoken": [
+    "nl"
+  ],
+  "geo": {
+    "latitude": 3.919305,
+    "latitude_dec": "4.216928958892822",
+    "longitude": -56.027783,
+    "longitude_dec": "-55.889217376708984",
+    "max_latitude": 6.0092832,
+    "max_longitude": -53.95102439999999,
+    "min_latitude": 1.8373061,
+    "min_longitude": -58.07050599999999,
+    "bounds": {
+      "northeast": {
+        "lat": 6.0092832,
+        "lng": -53.95102439999999
+      },
+      "southwest": {
+        "lat": 1.8373061,
+        "lng": -58.07050599999999
+      }
+    }
+  },
+  "currency_code": "SRD",
+  "postal_address_data": {
+    "lang": "nl",
+    "upper": "AS",
+    "name": "SURINAME",
+    "fmt": "%N%n%O%n%A%n%C%n%S",
+    "languages": "nl",
+    "sub_keys": "Brokopondo~Commewijne~Coronie~Marowijne~Nickerie~Para~Paramaribo~Saramacca~Sipaliwini~Wanica",
+    "key": "SR",
+    "sub_isoids": "BR~CM~CR~MA~NI~PR~PM~SA~SI~WA",
+    "id": "data/SR"
+  },
+  "translations": {
+    "af": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "sq": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "am": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "ar": {
+      "official": "سورينام",
+      "common": "سورينام"
+    },
+    "hy": {
+      "official": "Սուրինամ",
+      "common": "Սուրինամ"
+    },
+    "as": {
+      "official": "চুৰিনাম",
+      "common": "চুৰিনাম"
+    },
+    "az": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "eu": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "be": {
+      "official": "Сурынам",
+      "common": "Сурынам"
+    },
+    "bn": {
+      "official": "সুরিনাম",
+      "common": "সুরিনাম"
+    },
+    "bs": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "br": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "bg": {
+      "official": "Суринам",
+      "common": "Суринам"
+    },
+    "ca": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "zh": {
+      "official": "苏里南",
+      "common": "苏里南"
+    },
+    "cs": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "da": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "nl": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "dz": {
+      "official": "སུ་རི་ནེམ།",
+      "common": "སུ་རི་ནེམ།"
+    },
+    "en": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "eo": {
+      "official": "Surinamo",
+      "common": "Surinamo"
+    },
+    "et": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "fo": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "fi": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "fr": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "ka": {
+      "official": "სურინამი",
+      "common": "სურინამი"
+    },
+    "de": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "ga": {
+      "official": "Suranam",
+      "common": "Suranam"
+    },
+    "gl": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "el": {
+      "official": "Σουρινάμ",
+      "common": "Σουρινάμ"
+    },
+    "gu": {
+      "official": "સુરિનામ",
+      "common": "સુરિનામ"
+    },
+    "he": {
+      "official": "סורינאם",
+      "common": "סורינאם"
+    },
+    "hi": {
+      "official": "सूरीनाम",
+      "common": "सूरीनाम"
+    },
+    "hr": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "hu": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "is": {
+      "official": "Súrínam",
+      "common": "Súrínam"
+    },
+    "ia": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "id": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "it": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "ja": {
+      "official": "スリナム",
+      "common": "スリナム"
+    },
+    "kn": {
+      "official": "ಸೂರಿನಾಮ್",
+      "common": "ಸೂರಿನಾಮ್"
+    },
+    "kk": {
+      "official": "Суринам",
+      "common": "Суринам"
+    },
+    "km": {
+      "official": "ស៊ូរីណាមី",
+      "common": "ស៊ូរីណាមី"
+    },
+    "rw": {
+      "official": "Surinamu",
+      "common": "Surinamu"
+    },
+    "ko": {
+      "official": "수리남",
+      "common": "수리남"
+    },
+    "ku": {
+      "official": "Surînam",
+      "common": "Surînam"
+    },
+    "lv": {
+      "official": "Surinama",
+      "common": "Surinama"
+    },
+    "lt": {
+      "official": "Surinamas",
+      "common": "Surinamas"
+    },
+    "mk": {
+      "official": "Суринаме",
+      "common": "Суринаме"
+    },
+    "ml": {
+      "official": "സൂരിനാം",
+      "common": "സൂരിനാം"
+    },
+    "mi": {
+      "official": "Hūriname",
+      "common": "Hūriname"
+    },
+    "mr": {
+      "official": "सुरिनाम",
+      "common": "सुरिनाम"
+    },
+    "ms": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "mt": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "mn": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "ne": {
+      "official": "सुरिनेम",
+      "common": "सुरिनेम"
+    },
+    "nn": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "nb": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "oc": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "or": {
+      "official": "ସୂରୀନାମ",
+      "common": "ସୂରୀନାମ"
+    },
+    "pa": {
+      "official": "ਸੂਰੀਨੇਮ",
+      "common": "ਸੂਰੀਨੇਮ"
+    },
+    "fa": {
+      "official": "سورینام",
+      "common": "سورینام"
+    },
+    "pl": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "pt": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "ps": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "ro": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "ru": {
+      "official": "Суринам",
+      "common": "Суринам"
+    },
+    "si": {
+      "official": "සුරිනාම්",
+      "common": "සුරිනාම්"
+    },
+    "sk": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "sl": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "so": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "es": {
+      "official": "Surinám",
+      "common": "Surinám"
+    },
+    "sr": {
+      "official": "Суринам",
+      "common": "Суринам"
+    },
+    "sw": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "sv": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "ta": {
+      "official": "சூரினாம்",
+      "common": "சூரினாம்"
+    },
+    "tt": {
+      "official": "Суринам",
+      "common": "Суринам"
+    },
+    "te": {
+      "official": "సురినేమ్",
+      "common": "సురినేమ్"
+    },
+    "tl": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "th": {
+      "official": "ซูรินาเม",
+      "common": "ซูรินาเม"
+    },
+    "ti": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "tk": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "tr": {
+      "official": "Surinam",
+      "common": "Surinam"
+    },
+    "ug": {
+      "official": "سۇرىنام",
+      "common": "سۇرىنام"
+    },
+    "uk": {
+      "official": "Суринам",
+      "common": "Суринам"
+    },
+    "ve": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "vi": {
+      "official": "Xu-ri-na-me",
+      "common": "Xu-ri-na-me"
+    },
+    "cy": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "wa": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "wo": {
+      "official": "Surinaam",
+      "common": "Surinaam"
+    },
+    "xh": {
+      "official": "Suriname",
+      "common": "Suriname"
+    },
+    "zu": {
+      "official": "Suriname",
+      "common": "Suriname"
+    }
+  }
+}

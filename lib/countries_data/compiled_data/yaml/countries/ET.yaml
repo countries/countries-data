@@ -1,0 +1,333 @@
+---
+continent: Africa
+alpha2: ET
+alpha3: ETH
+country_code: '251'
+international_prefix: '00'
+ioc: ETH
+gec: ET
+name: Ethiopia
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: '0'
+number: '231'
+region: Africa
+subregion: Eastern Africa
+world_region: EMEA
+un_locode: ET
+nationality: Ethiopian
+postal_code: true
+unofficial_names:
+- Ethiopia
+- Äthiopien
+- Éthiopie
+- Etiopía
+- エチオピア
+- Ethiopië
+languages_official:
+- am
+languages_spoken:
+- am
+geo:
+  latitude: 9.145000000000001
+  latitude_dec: '8.626703262329102'
+  longitude: 40.489673
+  longitude_dec: '39.63755416870117'
+  max_latitude: 14.894214
+  max_longitude: 48.001056
+  min_latitude: 3.4041369
+  min_longitude: 32.9977339
+  bounds:
+    northeast:
+      lat: 14.894214
+      lng: 48.001056
+    southwest:
+      lat: 3.4041369
+      lng: 32.9977339
+currency_code: ETB
+postal_address_data:
+  zipex: '1000'
+  name: ETHIOPIA
+  zip: "\\d{4}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  key: ET
+  id: data/ET
+translations:
+  af:
+    official: Etiopië
+    common: Etiopië
+  sq:
+    official: Etiopia
+    common: Etiopia
+  am:
+    official: ጒት፥ጵ።
+    common: ጒት፥ጵ።
+  ar:
+    official: إثيوبيا
+    common: إثيوبيا
+  hy:
+    official: Եթովպիա
+    common: Եթովպիա
+  as:
+    official: ইথিওপিয়া
+    common: ইথিওপিয়া
+  az:
+    official: Efiopiya
+    common: Efiopiya
+  eu:
+    official: Etiopia
+    common: Etiopia
+  be:
+    official: Эфіопія
+    common: Эфіопія
+  bn:
+    official: ইথিওপিয়া
+    common: ইথিওপিয়া
+  bs:
+    official: Etiopija
+    common: Etiopija
+  br:
+    official: Ethiopia
+    common: Ethiopia
+  bg:
+    official: Етиопия
+    common: Етиопия
+  ca:
+    official: Etiòpia
+    common: Etiòpia
+  zh:
+    official: 埃塞俄比亚
+    common: 埃塞俄比亚
+  cs:
+    official: Etiopie
+    common: Etiopie
+  da:
+    official: Etiopien
+    common: Etiopien
+  nl:
+    official: Ethiopië
+    common: Ethiopië
+  dz:
+    official: ཨི་ཐོ་པི་ཡ།
+    common: ཨི་ཐོ་པི་ཡ།
+  en:
+    official: Ethiopia
+    common: Ethiopia
+  eo:
+    official: Etiopio
+    common: Etiopio
+  et:
+    official: Etioopia
+    common: Etioopia
+  fo:
+    official: Etiopia
+    common: Etiopia
+  fi:
+    official: Etiopia
+    common: Etiopia
+  fr:
+    official: Éthiopie
+    common: Éthiopie
+  ka:
+    official: ეთიოპია
+    common: ეთიოპია
+  de:
+    official: Äthiopien
+    common: Äthiopien
+  ga:
+    official: An Aetóip
+    common: An Aetóip
+  gl:
+    official: Etiopía
+    common: Etiopía
+  el:
+    official: Αιθιοπία
+    common: Αιθιοπία
+  gu:
+    official: ઇથોપિયા
+    common: ઇથોપિયા
+  he:
+    official: אתיופיה
+    common: אתיופיה
+  hi:
+    official: इथियोपिया
+    common: इथियोपिया
+  hr:
+    official: Etiopija
+    common: Etiopija
+  hu:
+    official: Etiópia
+    common: Etiópia
+  is:
+    official: Eþíópía
+    common: Eþíópía
+  ia:
+    official: Ethiopia
+    common: Ethiopia
+  id:
+    official: Ethiopia
+    common: Ethiopia
+  it:
+    official: Etiopia
+    common: Etiopia
+  ja:
+    official: エチオピア
+    common: エチオピア
+  kn:
+    official: ಎಥಿಯೋಪಿಯಾ
+    common: ಎಥಿಯೋಪಿಯಾ
+  kk:
+    official: Эфиопия
+    common: Эфиопия
+  km:
+    official: អេត្យូពី
+    common: អេត្យូពី
+  rw:
+    official: Etiyopiya
+    common: Etiyopiya
+  ko:
+    official: 에티오피아
+    common: 에티오피아
+  ku:
+    official: Etîyopya
+    common: Etîyopya
+  lv:
+    official: Etiopija
+    common: Etiopija
+  lt:
+    official: Etiopija
+    common: Etiopija
+  mk:
+    official: Етиопија
+    common: Етиопија
+  ml:
+    official: എത്യോപ്യ
+    common: എത്യോപ്യ
+  mi:
+    official: Etiopia
+    common: Etiopia
+  mr:
+    official: इथिओपिया
+    common: इथिओपिया
+  ms:
+    official: Ethiopia
+    common: Ethiopia
+  mt:
+    official: Estonja
+    common: Estonja
+  mn:
+    official: Этопи
+    common: Этопи
+  ne:
+    official: इथियोपिया
+    common: इथियोपिया
+  nn:
+    official: Etiopia
+    common: Etiopia
+  nb:
+    official: Etiopia
+    common: Etiopia
+  oc:
+    official: Etiopia
+    common: Etiopia
+  or:
+    official: ଇଥୋପିୟା
+    common: ଇଥୋପିୟା
+  pa:
+    official: ਈਥੋਪਈਆ
+    common: ਈਥੋਪਈਆ
+  fa:
+    official: اتیوپی
+    common: اتیوپی
+  pl:
+    official: Etiopia
+    common: Etiopia
+  pt:
+    official: Etiópia
+    common: Etiópia
+  ps:
+    official: حبشه
+    common: حبشه
+  ro:
+    official: Etiopia
+    common: Etiopia
+  ru:
+    official: Эфиопия
+    common: Эфиопия
+  si:
+    official: ඉතියෝපියාව
+    common: ඉතියෝපියාව
+  sk:
+    official: Etiópia
+    common: Etiópia
+  sl:
+    official: Etiopija
+    common: Etiopija
+  so:
+    official: Itoobiya
+    common: Itoobiya
+  es:
+    official: Etiopía
+    common: Etiopía
+  sr:
+    official: Етиопија
+    common: Етиопија
+  sw:
+    official: Ethiopia
+    common: Ethiopia
+  sv:
+    official: Etiopien
+    common: Etiopien
+  ta:
+    official: எதியோப்பியா
+    common: எதியோப்பியா
+  tt:
+    official: Ефиопиа
+    common: Ефиопиа
+  te:
+    official: ఇథియోపియా
+    common: ఇథియోపియా
+  tl:
+    official: Ethiopia
+    common: Ethiopia
+  th:
+    official: เอธิโอเปีย
+    common: เอธิโอเปีย
+  ti:
+    official: ኢትዮጵያ
+    common: ኢትዮጵያ
+  tk:
+    official: Efiopiýa
+    common: Efiopiýa
+  tr:
+    official: Etiyopya
+    common: Etiyopya
+  ug:
+    official: ئېفىيوپىيە
+    common: ئېفىيوپىيە
+  uk:
+    official: Ефіопія
+    common: Ефіопія
+  ve:
+    official: Ethiopia
+    common: Ethiopia
+  vi:
+    official: Ê-ti-ô-pi-a
+    common: Ê-ti-ô-pi-a
+  cy:
+    official: Ethiopia
+    common: Ethiopia
+  wa:
+    official: Etiopeye
+    common: Etiopeye
+  wo:
+    official: Ecoopi
+    common: Ecoopi
+  xh:
+    official: Estonia
+    common: Estonia
+  zu:
+    official: I-Estoniya
+    common: I-Estoniya

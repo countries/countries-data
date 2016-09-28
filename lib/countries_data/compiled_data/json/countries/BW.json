@@ -1,0 +1,432 @@
+{
+  "continent": "Africa",
+  "alpha2": "BW",
+  "alpha3": "BWA",
+  "country_code": "267",
+  "international_prefix": "00",
+  "ioc": "BOT",
+  "gec": "BC",
+  "name": "Botswana",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7
+  ],
+  "national_prefix": "None",
+  "number": "072",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "world_region": "EMEA",
+  "un_locode": "BW",
+  "nationality": "Motswana",
+  "postal_code": false,
+  "unofficial_names": [
+    "Botswana",
+    "ボツワナ"
+  ],
+  "languages_official": [
+    "en",
+    "tn"
+  ],
+  "languages_spoken": [
+    "en",
+    "tn"
+  ],
+  "geo": {
+    "latitude": -22.328474,
+    "latitude_dec": "-22.186752319335938",
+    "longitude": 24.684866,
+    "longitude_dec": "23.81494140625",
+    "max_latitude": -17.7781371,
+    "max_longitude": 29.375304,
+    "min_latitude": -26.9075451,
+    "min_longitude": 19.998903,
+    "bounds": {
+      "northeast": {
+        "lat": -17.7781371,
+        "lng": 29.375304
+      },
+      "southwest": {
+        "lat": -26.9075451,
+        "lng": 19.998903
+      }
+    }
+  },
+  "currency_code": "BWP",
+  "postal_address_data": {
+    "id": "data/BW",
+    "key": "BW",
+    "name": "BOTSWANA"
+  },
+  "translations": {
+    "af": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "sq": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "am": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "ar": {
+      "official": "بوتسوانا",
+      "common": "بوتسوانا"
+    },
+    "hy": {
+      "official": "Բոտսվանա",
+      "common": "Բոտսվանա"
+    },
+    "as": {
+      "official": "বটছোৱানা",
+      "common": "বটছোৱানা"
+    },
+    "az": {
+      "official": "Botsvana",
+      "common": "Botsvana"
+    },
+    "eu": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "be": {
+      "official": "Батсвана",
+      "common": "Батсвана"
+    },
+    "bn": {
+      "official": "বোটসওয়ানা",
+      "common": "বোটসওয়ানা"
+    },
+    "bs": {
+      "official": "Bocvana",
+      "common": "Bocvana"
+    },
+    "br": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "bg": {
+      "official": "Ботсуана",
+      "common": "Ботсуана"
+    },
+    "ca": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "zh": {
+      "official": "博兹瓦那",
+      "common": "博兹瓦那"
+    },
+    "cs": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "da": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "nl": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "dz": {
+      "official": "བཱོཊསི་ཝ་ན།",
+      "common": "བཱོཊསི་ཝ་ན།"
+    },
+    "en": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "eo": {
+      "official": "Bocvano",
+      "common": "Bocvano"
+    },
+    "et": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "fo": {
+      "official": "Botsvana",
+      "common": "Botsvana"
+    },
+    "fi": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "fr": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "ka": {
+      "official": "ბოტსვანა",
+      "common": "ბოტსვანა"
+    },
+    "de": {
+      "official": "Botsuana",
+      "common": "Botsuana"
+    },
+    "ga": {
+      "official": "An Bhotsuáin",
+      "common": "An Bhotsuáin"
+    },
+    "gl": {
+      "official": "Botsuana",
+      "common": "Botsuana"
+    },
+    "el": {
+      "official": "Μποτσουάνα",
+      "common": "Μποτσουάνα"
+    },
+    "gu": {
+      "official": "બોટ્સ્વાના",
+      "common": "બોટ્સ્વાના"
+    },
+    "he": {
+      "official": "בוטסוואנה",
+      "common": "בוטסוואנה"
+    },
+    "hi": {
+      "official": "बोट्सवाना",
+      "common": "बोट्सवाना"
+    },
+    "hr": {
+      "official": "Bocvana",
+      "common": "Bocvana"
+    },
+    "hu": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "is": {
+      "official": "Botsvana",
+      "common": "Botsvana"
+    },
+    "ia": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "id": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "it": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "ja": {
+      "official": "ボツワナ",
+      "common": "ボツワナ"
+    },
+    "kn": {
+      "official": "ಬೋಟ್ಸ್‍ವಾನಾ",
+      "common": "ಬೋಟ್ಸ್‍ವಾನಾ"
+    },
+    "kk": {
+      "official": "Ботсвана",
+      "common": "Ботсвана"
+    },
+    "km": {
+      "official": "បុតស្វាណា",
+      "common": "បុតស្វាណា"
+    },
+    "rw": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "ko": {
+      "official": "보츠와나",
+      "common": "보츠와나"
+    },
+    "ku": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "lv": {
+      "official": "Botsvana",
+      "common": "Botsvana"
+    },
+    "lt": {
+      "official": "Botsvana",
+      "common": "Botsvana"
+    },
+    "mk": {
+      "official": "Боцвана",
+      "common": "Боцвана"
+    },
+    "ml": {
+      "official": "ബോട്സ്വാന",
+      "common": "ബോട്സ്വാന"
+    },
+    "mi": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "mr": {
+      "official": "बोस्वाना",
+      "common": "बोस्वाना"
+    },
+    "ms": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "mt": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "mn": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "ne": {
+      "official": "बोट्सवाना",
+      "common": "बोट्सवाना"
+    },
+    "nn": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "nb": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "oc": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "or": {
+      "official": "ବୋସ୍ତ୍ବାନା",
+      "common": "ବୋସ୍ତ୍ବାନା"
+    },
+    "pa": {
+      "official": "ਬੂਟਸਵਾਨਾ",
+      "common": "ਬੂਟਸਵਾਨਾ"
+    },
+    "fa": {
+      "official": "بوتسوانا",
+      "common": "بوتسوانا"
+    },
+    "pl": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "pt": {
+      "official": "Botsuana",
+      "common": "Botsuana"
+    },
+    "ps": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "ro": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "ru": {
+      "official": "Ботсвана",
+      "common": "Ботсвана"
+    },
+    "si": {
+      "official": "බොට්ස්වානා",
+      "common": "බොට්ස්වානා"
+    },
+    "sk": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "sl": {
+      "official": "Bocvana",
+      "common": "Bocvana"
+    },
+    "so": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "es": {
+      "official": "Botsuana",
+      "common": "Botsuana"
+    },
+    "sr": {
+      "official": "Боцвана",
+      "common": "Боцвана"
+    },
+    "sw": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "sv": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "ta": {
+      "official": "போட்ஸ்வானா",
+      "common": "போட்ஸ்வானா"
+    },
+    "tt": {
+      "official": "Боцвана",
+      "common": "Боцвана"
+    },
+    "te": {
+      "official": "బోస్వానా",
+      "common": "బోస్వానా"
+    },
+    "tl": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "th": {
+      "official": "บอตสวานา",
+      "common": "บอตสวานา"
+    },
+    "ti": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "tk": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "tr": {
+      "official": "Botsvana",
+      "common": "Botsvana"
+    },
+    "ug": {
+      "official": "بوتسۋانا",
+      "common": "بوتسۋانا"
+    },
+    "uk": {
+      "official": "Ботсвана",
+      "common": "Ботсвана"
+    },
+    "ve": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "vi": {
+      "official": "Bốt-xoă-na",
+      "common": "Bốt-xoă-na"
+    },
+    "cy": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "wa": {
+      "official": "Boswana",
+      "common": "Boswana"
+    },
+    "wo": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "xh": {
+      "official": "Botswana",
+      "common": "Botswana"
+    },
+    "zu": {
+      "official": "Botswana",
+      "common": "Botswana"
+    }
+  }
+}

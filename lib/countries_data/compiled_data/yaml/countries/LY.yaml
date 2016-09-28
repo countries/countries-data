@@ -1,0 +1,333 @@
+---
+continent: Africa
+alpha2: LY
+alpha3: LBY
+country_code: '218'
+international_prefix: '00'
+ioc: LBA
+gec: LY
+name: Libya
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+- 9
+national_prefix: '0'
+number: '434'
+region: Africa
+subregion: Northern Africa
+world_region: EMEA
+un_locode: LY
+nationality: Libyan
+postal_code: true
+unofficial_names:
+- Libya
+- ليبيا
+- Libyen
+- Libye
+- Libia
+- リビア
+- Libië
+- Libyan Arab Jamahiriya
+languages_official:
+- ar
+languages_spoken:
+- ar
+geo:
+  latitude: 26.3351
+  latitude_dec: '27.23609733581543'
+  longitude: 17.228331
+  longitude_dec: '18.043556213378906'
+  max_latitude: 33.1679792
+  max_longitude: 25.146954
+  min_latitude: 19.5
+  min_longitude: 9.391466
+  bounds:
+    northeast:
+      lat: 33.1679792
+      lng: 25.146954
+    southwest:
+      lat: 19.5
+      lng: 9.391466
+currency_code: LYD
+postal_address_data:
+  id: data/LY
+  key: LY
+  name: LIBYA
+translations:
+  af:
+    official: Libya
+    common: Libya
+  sq:
+    official: Liberia
+    common: Liberia
+  am:
+    official: Libya
+    common: Libya
+  ar:
+    official: ليبيا
+    common: ليبيا
+  hy:
+    official: Լիբիա
+    common: Լիբիա
+  as:
+    official: লিবিয়া
+    common: লিবিয়া
+  az:
+    official: Liberiya
+    common: Liberiya
+  eu:
+    official: Libia
+    common: Libia
+  be:
+    official: Лівія
+    common: Лівія
+  bn:
+    official: লিবিয়া
+    common: লিবিয়া
+  bs:
+    official: Libija
+    common: Libija
+  br:
+    official: Libya
+    common: Libya
+  bg:
+    official: Либия
+    common: Либия
+  ca:
+    official: Líbia
+    common: Líbia
+  zh:
+    official: 利比亚
+    common: 利比亚
+  cs:
+    official: Libye
+    common: Libye
+  da:
+    official: Libyen
+    common: Libyen
+  nl:
+    official: Libië
+    common: Libië
+  dz:
+    official: ལིབ་ཡ་
+    common: ལིབ་ཡ་
+  en:
+    official: Libya
+    common: Libya
+  eo:
+    official: Libio
+    common: Libio
+  et:
+    official: Liibüa
+    common: Liibüa
+  fo:
+    official: Libya
+    common: Libya
+  fi:
+    official: Libya
+    common: Libya
+  fr:
+    official: Libye
+    common: Libye
+  ka:
+    official: ლიბერია
+    common: ლიბერია
+  de:
+    official: Libyen
+    common: Libyen
+  ga:
+    official: An Libia
+    common: An Libia
+  gl:
+    official: Libia
+    common: Libia
+  el:
+    official: Λιβύη
+    common: Λιβύη
+  gu:
+    official: લિબયા
+    common: લિબયા
+  he:
+    official: לוב
+    common: לוב
+  hi:
+    official: लिब्या
+    common: लिब्या
+  hr:
+    official: Libija
+    common: Libija
+  hu:
+    official: Líbia
+    common: Líbia
+  is:
+    official: Líbýa
+    common: Líbýa
+  ia:
+    official: Libya
+    common: Libya
+  id:
+    official: Libya
+    common: Libya
+  it:
+    official: Libia
+    common: Libia
+  ja:
+    official: リビア
+    common: リビア
+  kn:
+    official: ಲೈಬೀರಿಯಾ
+    common: ಲೈಬೀರಿಯಾ
+  kk:
+    official: Ливия
+    common: Ливия
+  km:
+    official: លីបេរីយ៉ា
+    common: លីបេរីយ៉ា
+  rw:
+    official: Liberiya
+    common: Liberiya
+  ko:
+    official: 리비아
+    common: 리비아
+  ku:
+    official: Lîberya
+    common: Lîberya
+  lv:
+    official: Lībija
+    common: Lībija
+  lt:
+    official: Libija
+    common: Libija
+  mk:
+    official: Либија
+    common: Либија
+  ml:
+    official: ലൈബീരിയ
+    common: ലൈബീരിയ
+  mi:
+    official: Libya
+    common: Libya
+  mr:
+    official: लिबया
+    common: लिबया
+  ms:
+    official: Liberia
+    common: Liberia
+  mt:
+    official: Serbja
+    common: Serbja
+  mn:
+    official: Libya
+    common: Libya
+  ne:
+    official: लिबेया
+    common: लिबेया
+  nn:
+    official: Libya
+    common: Libya
+  nb:
+    official: Libya
+    common: Libya
+  oc:
+    official: Libèria
+    common: Libèria
+  or:
+    official: ଲୀବିୟା
+    common: ଲୀବିୟା
+  pa:
+    official: ਲੀਬਾਰੀਆ
+    common: ਲੀਬਾਰੀਆ
+  fa:
+    official: لیبی
+    common: لیبی
+  pl:
+    official: Libia
+    common: Libia
+  pt:
+    official: Líbia
+    common: Líbia
+  ps:
+    official: لایبریا
+    common: لایبریا
+  ro:
+    official: Libia
+    common: Libia
+  ru:
+    official: Ливия
+    common: Ливия
+  si:
+    official: ලිබියාව
+    common: ලිබියාව
+  sk:
+    official: Líbya
+    common: Líbya
+  sl:
+    official: Libija
+    common: Libija
+  so:
+    official: Laybeeriya
+    common: Laybeeriya
+  es:
+    official: Libia
+    common: Libia
+  sr:
+    official: Либија
+    common: Либија
+  sw:
+    official: Liberia
+    common: Liberia
+  sv:
+    official: Libyen
+    common: Libyen
+  ta:
+    official: லைபீரியா
+    common: லைபீரியா
+  tt:
+    official: Либериа
+    common: Либериа
+  te:
+    official: లిబయా
+    common: లిబయా
+  tl:
+    official: Liberia
+    common: Liberia
+  th:
+    official: ลิเบีย
+    common: ลิเบีย
+  ti:
+    official: Libya
+    common: Libya
+  tk:
+    official: Liberiýa
+    common: Liberiýa
+  tr:
+    official: Libya
+    common: Libya
+  ug:
+    official: لىۋىيە
+    common: لىۋىيە
+  uk:
+    official: Лівія
+    common: Лівія
+  ve:
+    official: Liberia
+    common: Liberia
+  vi:
+    official: Li-bi
+    common: Li-bi
+  cy:
+    official: Libya
+    common: Libya
+  wa:
+    official: Libeye
+    common: Libeye
+  wo:
+    official: Libeeria
+    common: Libeeria
+  xh:
+    official: Serbia
+    common: Serbia
+  zu:
+    official: I-Serbiya
+    common: I-Serbiya

@@ -1,0 +1,437 @@
+{
+  "continent": "Asia",
+  "alpha2": "IR",
+  "alpha3": "IRN",
+  "country_code": "98",
+  "international_prefix": "00",
+  "ioc": "IRI",
+  "gec": "IR",
+  "name": "Iran, Islamic Republic Of",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "0",
+  "number": "364",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "world_region": "EMEA",
+  "un_locode": "IR",
+  "nationality": "Iranian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Iran",
+    "Irán",
+    "Iran (Islamic Republic Of)",
+    "イラン・イスラム共和国",
+    "Islamic Republic of Iran"
+  ],
+  "languages_official": [
+    "fa"
+  ],
+  "languages_spoken": [
+    "fa"
+  ],
+  "geo": {
+    "latitude": 38.4703541,
+    "latitude_dec": "32.50077819824219",
+    "longitude": 47.0571193,
+    "longitude_dec": "54.2942008972168",
+    "max_latitude": 38.473952,
+    "max_longitude": 47.060772,
+    "min_latitude": 38.46699479999999,
+    "min_longitude": 47.0525068,
+    "bounds": {
+      "northeast": {
+        "lat": 38.473952,
+        "lng": 47.060772
+      },
+      "southwest": {
+        "lat": 38.46699479999999,
+        "lng": 47.0525068
+      }
+    }
+  },
+  "currency_code": "IRR",
+  "postal_address_data": {
+    "sublocality_name_type": "neighborhood",
+    "zipex": "11936-12345",
+    "name": "IRAN",
+    "zip": "\\d{5}-?\\d{5}",
+    "fmt": "%O%n%N%n%S%n%C, %D%n%A%n%Z",
+    "key": "IR",
+    "id": "data/IR"
+  },
+  "translations": {
+    "af": {
+      "official": "Iran",
+      "common": "Iran"
+    },
+    "sq": {
+      "official": "Republika Islamike e Iranit",
+      "common": "Republika Islamike e Iranit"
+    },
+    "am": {
+      "official": "Iran, Islamic Republic of",
+      "common": "Iran, Islamic Republic of"
+    },
+    "ar": {
+      "official": "إيران، الجمهوريّة الإسلاميّة الإيرانيّة",
+      "common": "إيران، الجمهوريّة الإسلاميّة الإيرانيّة"
+    },
+    "hy": {
+      "official": "Իրան, -ի Իսլամական Հանրապետություն",
+      "common": "Իրան, -ի Իսլամական Հանրապետություն"
+    },
+    "as": {
+      "official": "ইৰান, ইচ্‌লামিক প্ৰজাতন্ত্ৰ",
+      "common": "ইৰান, ইচ্‌লামিক প্ৰজাতন্ত্ৰ"
+    },
+    "az": {
+      "official": "Koreya, Respublika",
+      "common": "Koreya, Respublika"
+    },
+    "eu": {
+      "official": "Iran, Islamiar Errepublika",
+      "common": "Iran, Islamiar Errepublika"
+    },
+    "be": {
+      "official": "Іран, Ісламская Рэспубліка",
+      "common": "Іран, Ісламская Рэспубліка"
+    },
+    "bn": {
+      "official": "ইরান, ইসলামিক প্রজাতন্ত্র",
+      "common": "ইরান, ইসলামিক প্রজাতন্ত্র"
+    },
+    "bs": {
+      "official": "Islamska Republika Iran",
+      "common": "Islamska Republika Iran"
+    },
+    "br": {
+      "official": "Iran, Islamic Republic of",
+      "common": "Iran, Islamic Republic of"
+    },
+    "bg": {
+      "official": "Иран, Ислямска република",
+      "common": "Иран, Ислямска република"
+    },
+    "ca": {
+      "official": "Iran",
+      "common": "Iran"
+    },
+    "zh": {
+      "official": "伊朗",
+      "common": "伊朗"
+    },
+    "cs": {
+      "official": "Írán, islámská republika",
+      "common": "Írán, islámská republika"
+    },
+    "da": {
+      "official": "Iran, Den Islamiske Republik",
+      "common": "Iran, Den Islamiske Republik"
+    },
+    "nl": {
+      "official": "Iran",
+      "common": "Iran"
+    },
+    "dz": {
+      "official": "ཨི་རཱན་  ཨིས་ལ་མིཀ་ མི་སེར་རྒྱལ་ཁབ།",
+      "common": "ཨི་རཱན་  ཨིས་ལ་མིཀ་ མི་སེར་རྒྱལ་ཁབ།"
+    },
+    "en": {
+      "official": "Iran, Islamic Republic of",
+      "common": "Iran, Islamic Republic of"
+    },
+    "eo": {
+      "official": "Irano, Islama Respubliko",
+      "common": "Irano, Islama Respubliko"
+    },
+    "et": {
+      "official": "Iraan",
+      "common": "Iraan"
+    },
+    "fo": {
+      "official": "Iran, Islamic Republic of",
+      "common": "Iran, Islamic Republic of"
+    },
+    "fi": {
+      "official": "Iranin islamilainen tasavalta",
+      "common": "Iranin islamilainen tasavalta"
+    },
+    "fr": {
+      "official": "Iran, République islamique d'",
+      "common": "Iran, République islamique d'"
+    },
+    "ka": {
+      "official": "ირანის ისლამური რესპუბლიკა",
+      "common": "ირანის ისლამური რესპუბლიკა"
+    },
+    "de": {
+      "official": "Iran, Islamische Republik",
+      "common": "Iran, Islamische Republik"
+    },
+    "ga": {
+      "official": "An Iaráin",
+      "common": "An Iaráin"
+    },
+    "gl": {
+      "official": "Irán, República Islámica de",
+      "common": "Irán, República Islámica de"
+    },
+    "el": {
+      "official": "Ιράν, Ισλαμική Δημοκρατία του",
+      "common": "Ιράν, Ισλαμική Δημοκρατία του"
+    },
+    "gu": {
+      "official": "ઇરાન, ઇસ્લામિક રીપબ્લિક ઓફ",
+      "common": "ઇરાન, ઇસ્લામિક રીપબ્લિક ઓફ"
+    },
+    "he": {
+      "official": "אירן, הרפובליקה האיסלמית של",
+      "common": "אירן, הרפובליקה האיסלמית של"
+    },
+    "hi": {
+      "official": "ईरान, इस्लामिक रिपब्लिक ऑफ",
+      "common": "ईरान, इस्लामिक रिपब्लिक ऑफ"
+    },
+    "hr": {
+      "official": "Iran",
+      "common": "Iran"
+    },
+    "hu": {
+      "official": "Irán",
+      "common": "Irán"
+    },
+    "is": {
+      "official": "Íran, íslamska lýðveldið",
+      "common": "Íran, íslamska lýðveldið"
+    },
+    "ia": {
+      "official": "Iran",
+      "common": "Iran"
+    },
+    "id": {
+      "official": "Iran, Republik Islam",
+      "common": "Iran, Republik Islam"
+    },
+    "it": {
+      "official": "Iran",
+      "common": "Iran"
+    },
+    "ja": {
+      "official": "イラン・イスラム共和国",
+      "common": "イラン・イスラム共和国"
+    },
+    "kn": {
+      "official": "ಇರಾನ್ ಇಸ್ಲಾಮಿಕ್ ಗಣರಾಜ್ಯ",
+      "common": "ಇರಾನ್ ಇಸ್ಲಾಮಿಕ್ ಗಣರಾಜ್ಯ"
+    },
+    "kk": {
+      "official": "Иран",
+      "common": "Иран"
+    },
+    "km": {
+      "official": "​អ៊ីរ៉ង់ សាធារណ​រដ្ឋ​អ៊ីស្លាម​នៃ",
+      "common": "​អ៊ីរ៉ង់ សាធារណ​រដ្ឋ​អ៊ីស្លាម​នៃ"
+    },
+    "rw": {
+      "official": "Iran, Repubulika ya Kisilimu",
+      "common": "Iran, Repubulika ya Kisilimu"
+    },
+    "ko": {
+      "official": "이란 이슬람 공화국",
+      "common": "이란 이슬람 공화국"
+    },
+    "ku": {
+      "official": "Îran, Komara Îslamî ya",
+      "common": "Îran, Komara Îslamî ya"
+    },
+    "lv": {
+      "official": "Irāna",
+      "common": "Irāna"
+    },
+    "lt": {
+      "official": "Irano Islamo Respublika",
+      "common": "Irano Islamo Respublika"
+    },
+    "mk": {
+      "official": "Иран",
+      "common": "Иран"
+    },
+    "ml": {
+      "official": "ഇറാന്‍, ഇസ്ലാമിക് റിപ്പബ്ലിക് ഓഫ്",
+      "common": "ഇറാന്‍, ഇസ്ലാമിക് റിപ്പബ്ലിക് ഓഫ്"
+    },
+    "mi": {
+      "official": "Īrāna",
+      "common": "Īrāna"
+    },
+    "mr": {
+      "official": "इराण, इस्लामिक रिपब्लिक ऑफ",
+      "common": "इराण, इस्लामिक रिपब्लिक ऑफ"
+    },
+    "ms": {
+      "official": "Iran, Islamic Republic of",
+      "common": "Iran, Islamic Republic of"
+    },
+    "mt": {
+      "official": "Repubblika Dominikana",
+      "common": "Repubblika Dominikana"
+    },
+    "mn": {
+      "official": "Солонгос ард улс",
+      "common": "Солонгос ард улс"
+    },
+    "ne": {
+      "official": "इरान, इस्लामिक गणराज्य",
+      "common": "इरान, इस्लामिक गणराज्य"
+    },
+    "nn": {
+      "official": "Iran",
+      "common": "Iran"
+    },
+    "nb": {
+      "official": "Iran, Den islamske republikk",
+      "common": "Iran, Den islamske republikk"
+    },
+    "oc": {
+      "official": "Republica Dominicana",
+      "common": "Republica Dominicana"
+    },
+    "or": {
+      "official": "ଇରାନ, ଇସଲାମିକ ଗଣତନ୍ତ୍ର",
+      "common": "ଇରାନ, ଇସଲାମିକ ଗଣତନ୍ତ୍ର"
+    },
+    "pa": {
+      "official": "ਈਰਾਨ, ਮੁਸਲਮਾਨ ਗਣਰਾਜ",
+      "common": "ਈਰਾਨ, ਮੁਸਲਮਾਨ ਗਣਰਾਜ"
+    },
+    "fa": {
+      "official": "ایران، جمهوری اسلامی",
+      "common": "ایران، جمهوری اسلامی"
+    },
+    "pl": {
+      "official": "Iran",
+      "common": "Iran"
+    },
+    "pt": {
+      "official": "Irão, República Islâmica do",
+      "common": "Irão, República Islâmica do"
+    },
+    "ps": {
+      "official": "Iran, Islamic Republic of",
+      "common": "Iran, Islamic Republic of"
+    },
+    "ro": {
+      "official": "Iran, Republica islamică",
+      "common": "Iran, Republica islamică"
+    },
+    "ru": {
+      "official": "Иран",
+      "common": "Иран"
+    },
+    "si": {
+      "official": "ඉරාන ඉස්ලාමීය ජනරජය",
+      "common": "ඉරාන ඉස්ලාමීය ජනරජය"
+    },
+    "sk": {
+      "official": "Iránska islamská republika",
+      "common": "Iránska islamská republika"
+    },
+    "sl": {
+      "official": "Iran",
+      "common": "Iran"
+    },
+    "so": {
+      "official": "Iiraan",
+      "common": "Iiraan"
+    },
+    "es": {
+      "official": "Irán, República islámica de",
+      "common": "Irán, República islámica de"
+    },
+    "sr": {
+      "official": "Иран, Исламска Република",
+      "common": "Иран, Исламска Република"
+    },
+    "sw": {
+      "official": "Iran, Islamic Republic of",
+      "common": "Iran, Islamic Republic of"
+    },
+    "sv": {
+      "official": "Iran, islamiska republiken",
+      "common": "Iran, islamiska republiken"
+    },
+    "ta": {
+      "official": "ஈரான், இஸ்லாமிக் குடியரசு",
+      "common": "ஈரான், இஸ்லாமிக் குடியரசு"
+    },
+    "tt": {
+      "official": "İран, İслам Җөмһүриәте",
+      "common": "İран, İслам Җөмһүриәте"
+    },
+    "te": {
+      "official": "ఇరాన్, ఇస్లామిక్ రిపబ్లిక్ ఆఫ్",
+      "common": "ఇరాన్, ఇస్లామిక్ రిపబ్లిక్ ఆఫ్"
+    },
+    "tl": {
+      "official": "Iran, Republikang Islam ng",
+      "common": "Iran, Republikang Islam ng"
+    },
+    "th": {
+      "official": "อิหร่าน, สาธารณรัฐอิสลาม",
+      "common": "อิหร่าน, สาธารณรัฐอิสลาม"
+    },
+    "ti": {
+      "official": "Iran, Islamic Republic of",
+      "common": "Iran, Islamic Republic of"
+    },
+    "tk": {
+      "official": "Eýran, Yslam Respublikasy",
+      "common": "Eýran, Yslam Respublikasy"
+    },
+    "tr": {
+      "official": "İran İslâm Cumhuriyeti",
+      "common": "İran İslâm Cumhuriyeti"
+    },
+    "ug": {
+      "official": "ئىران ئىسلام جۇمھۇرىيىتى",
+      "common": "ئىران ئىسلام جۇمھۇرىيىتى"
+    },
+    "uk": {
+      "official": "Іран",
+      "common": "Іран"
+    },
+    "ve": {
+      "official": "Czech Republic",
+      "common": "Czech Republic"
+    },
+    "vi": {
+      "official": "Ba Tư, Cộng hoà Hồi giáo",
+      "common": "Ba Tư, Cộng hoà Hồi giáo"
+    },
+    "cy": {
+      "official": "Iran, Gweriniaeth Islamaidd",
+      "common": "Iran, Gweriniaeth Islamaidd"
+    },
+    "wa": {
+      "official": "Iran",
+      "common": "Iran"
+    },
+    "wo": {
+      "official": "Iraan, Republik Islaamik bu",
+      "common": "Iraan, Republik Islaamik bu"
+    },
+    "xh": {
+      "official": "Ulawulo lokuziphatha kwe Dominican",
+      "common": "Ulawulo lokuziphatha kwe Dominican"
+    },
+    "zu": {
+      "official": "Ulawulo lokuziphatha kwe Dominikhani",
+      "common": "Ulawulo lokuziphatha kwe Dominikhani"
+    }
+  }
+}

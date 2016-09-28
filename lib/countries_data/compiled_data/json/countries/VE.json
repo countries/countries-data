@@ -1,0 +1,441 @@
+{
+  "continent": "South America",
+  "alpha2": "VE",
+  "alpha3": "VEN",
+  "country_code": "58",
+  "international_prefix": "00",
+  "ioc": "VEN",
+  "gec": "VE",
+  "name": "Venezuela, Bolivarian Republic of",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "0",
+  "number": "862",
+  "region": "Americas",
+  "subregion": "South America",
+  "world_region": "AMER",
+  "un_locode": "VE",
+  "nationality": "Venezuelan",
+  "postal_code": true,
+  "unofficial_names": [
+    "Venezuela",
+    "ベネズエラ・ボリバル共和国"
+  ],
+  "languages_official": [
+    "es"
+  ],
+  "languages_spoken": [
+    "es"
+  ],
+  "geo": {
+    "latitude": 15.5802732,
+    "latitude_dec": "7.665388584136963",
+    "longitude": 32.5488083,
+    "longitude_dec": "-66.14541625976562",
+    "max_latitude": 15.5804317,
+    "max_longitude": 32.5489498,
+    "min_latitude": 15.5800907,
+    "min_longitude": 32.5486694,
+    "bounds": {
+      "northeast": {
+        "lat": 15.5804317,
+        "lng": 32.5489498
+      },
+      "southwest": {
+        "lat": 15.5800907,
+        "lng": 32.5486694
+      }
+    }
+  },
+  "currency_code": "VEF",
+  "postal_address_data": {
+    "lang": "es",
+    "upper": "CS",
+    "zipex": "1010,3001,8011,1020",
+    "name": "VENEZUELA",
+    "zip": "\\d{4}",
+    "key": "VE",
+    "require": "ACS",
+    "state_name_type": "state",
+    "id": "data/VE",
+    "languages": "es",
+    "sub_keys": "Amazonas~Anzoátegui~Apure~Aragua~Barinas~Bolívar~Carabobo~Cojedes~Delta Amacuro~Dependencias Federales~Distrito Federal~Falcón~Guárico~Lara~Mérida~Miranda~Monagas~Nueva Esparta~Portuguesa~Sucre~Táchira~Trujillo~Vargas~Yaracuy~Zulia",
+    "posturl": "http://www.ipostel.gob.ve/nlinea/codigo_postal.php",
+    "sub_isoids": "Z~B~C~D~E~F~G~H~Y~W~A~I~J~K~L~M~N~O~P~R~S~T~X~U~V",
+    "fmt": "%N%n%O%n%A%n%C %Z, %S"
+  },
+  "translations": {
+    "af": {
+      "official": "Iran",
+      "common": "Iran"
+    },
+    "sq": {
+      "official": "Republika Bolivariane e Venezuelës",
+      "common": "Republika Bolivariane e Venezuelës"
+    },
+    "am": {
+      "official": "ሥሔ፦ቲ",
+      "common": "ሥሔ፦ቲ"
+    },
+    "ar": {
+      "official": "جمهورية فنزويلا البوليفارية",
+      "common": "جمهورية فنزويلا البوليفارية"
+    },
+    "hy": {
+      "official": "Վենեսուելա, Բոլիվարական Հանրապետություն",
+      "common": "Վենեսուելա, Բոլիվարական Հանրապետություն"
+    },
+    "as": {
+      "official": "ভেনেজুৱেলা, বোলিভাৰিয়ান প্ৰজাতন্ত্ৰ",
+      "common": "ভেনেজুৱেলা, বোলিভাৰিয়ান প্ৰজাতন্ত্ৰ"
+    },
+    "az": {
+      "official": "Koreya, Respublika",
+      "common": "Koreya, Respublika"
+    },
+    "eu": {
+      "official": "Venezuela, Bolibartar Errepublika",
+      "common": "Venezuela, Bolibartar Errepublika"
+    },
+    "be": {
+      "official": "Венесуэла, Баліварыянская Рэспубліка",
+      "common": "Венесуэла, Баліварыянская Рэспубліка"
+    },
+    "bn": {
+      "official": "ভেনেজুয়েলা, বোলিভারিয়ান প্রজাতন্ত্র",
+      "common": "ভেনেজুয়েলা, বোলিভারিয়ান প্রজাতন্ত্র"
+    },
+    "bs": {
+      "official": "Venecuela, Bolivarijska Republika",
+      "common": "Venecuela, Bolivarijska Republika"
+    },
+    "br": {
+      "official": "Republik Sokial eus Roumani",
+      "common": "Republik Sokial eus Roumani"
+    },
+    "bg": {
+      "official": "Венецуела, Боливарска република",
+      "common": "Венецуела, Боливарска република"
+    },
+    "ca": {
+      "official": "Veneçuela, República Bolívariana de",
+      "common": "Veneçuela, República Bolívariana de"
+    },
+    "zh": {
+      "official": "委内瑞拉玻利瓦尔共和国",
+      "common": "委内瑞拉玻利瓦尔共和国"
+    },
+    "cs": {
+      "official": "Bolívarovská republika Venezuela",
+      "common": "Bolívarovská republika Venezuela"
+    },
+    "da": {
+      "official": "Den Bolivariske Republik Venezuela",
+      "common": "Den Bolivariske Republik Venezuela"
+    },
+    "nl": {
+      "official": "Venezuela, Bolivariaanse Republiek",
+      "common": "Venezuela, Bolivariaanse Republiek"
+    },
+    "dz": {
+      "official": "བེ་ནི་ཛུས་ལ་ བོ་ལི་བི་རཱེན་མི་སེར་རྒྱལ་ཁབ་ཀྱི་",
+      "common": "བེ་ནི་ཛུས་ལ་ བོ་ལི་བི་རཱེན་མི་སེར་རྒྱལ་ཁབ་ཀྱི་"
+    },
+    "en": {
+      "official": "Venezuela, Bolivarian Republic of",
+      "common": "Venezuela, Bolivarian Republic of"
+    },
+    "eo": {
+      "official": "Venezuelo, Bolivara Respubliko",
+      "common": "Venezuelo, Bolivara Respubliko"
+    },
+    "et": {
+      "official": "Venezuela Bolívari Vabariik",
+      "common": "Venezuela Bolívari Vabariik"
+    },
+    "fo": {
+      "official": "Domingo lýðveldið",
+      "common": "Domingo lýðveldið"
+    },
+    "fi": {
+      "official": "Venezuelan bolivariaanien tasavalta",
+      "common": "Venezuelan bolivariaanien tasavalta"
+    },
+    "fr": {
+      "official": "Vénézuela, république bolivarienne du",
+      "common": "Vénézuela, république bolivarienne du"
+    },
+    "ka": {
+      "official": "ვენესუელის ბოლივარული რესპუბლიკა",
+      "common": "ვენესუელის ბოლივარული რესპუბლიკა"
+    },
+    "de": {
+      "official": "Venezuela, Bolivarische Republik",
+      "common": "Venezuela, Bolivarische Republik"
+    },
+    "ga": {
+      "official": "Veiniséala, Poblacht Bholavarach",
+      "common": "Veiniséala, Poblacht Bholavarach"
+    },
+    "gl": {
+      "official": "Venezuela, República Bolivariana de",
+      "common": "Venezuela, República Bolivariana de"
+    },
+    "el": {
+      "official": "Βενεζουέλα, Βολιβαριανή Δημοκρατία της",
+      "common": "Βενεζουέλα, Βολιβαριανή Δημοκρατία της"
+    },
+    "gu": {
+      "official": "વેનેઝુએલા, બોલિવિયન રીપબ્લિક ઑફ",
+      "common": "વેનેઝુએલા, બોલિવિયન રીપબ્લિક ઑફ"
+    },
+    "he": {
+      "official": "ונצואלה, הרפובליקה הבוליוריאנית של",
+      "common": "ונצואלה, הרפובליקה הבוליוריאנית של"
+    },
+    "hi": {
+      "official": "रिपब्लिक ऑफ वेनेज़ुएला, बोलिवारियन",
+      "common": "रिपब्लिक ऑफ वेनेज़ुएला, बोलिवारियन"
+    },
+    "hr": {
+      "official": "Bolivarijanska Republika Venezuela",
+      "common": "Bolivarijanska Republika Venezuela"
+    },
+    "hu": {
+      "official": "Venezuelai Bolivári Köztársaság",
+      "common": "Venezuelai Bolivári Köztársaság"
+    },
+    "is": {
+      "official": "Venesúela, bólívaríska lýðveldið",
+      "common": "Venesúela, bólívaríska lýðveldið"
+    },
+    "ia": {
+      "official": "Venezuela, Bolivarian Republic de",
+      "common": "Venezuela, Bolivarian Republic de"
+    },
+    "id": {
+      "official": "Venezuela, Republik Bolivaria",
+      "common": "Venezuela, Republik Bolivaria"
+    },
+    "it": {
+      "official": "Venezuela, Repubblica bolivariana",
+      "common": "Venezuela, Repubblica bolivariana"
+    },
+    "ja": {
+      "official": "ベネズエラ・ボリバル共和国",
+      "common": "ベネズエラ・ボリバル共和国"
+    },
+    "kn": {
+      "official": "Bolivarian Republic of Venezuela",
+      "common": "Bolivarian Republic of Venezuela"
+    },
+    "kk": {
+      "official": "Венесуэла Боливиялық Республикасы",
+      "common": "Венесуэла Боливиялық Республикасы"
+    },
+    "km": {
+      "official": "សាធារណរដ្ឋ​បូលីវី​នៃ​វ៉េណេហ្ស៊ុយអេឡា",
+      "common": "សាធារណរដ្ឋ​បូលីវី​នៃ​វ៉េណេហ្ស៊ុយអេឡា"
+    },
+    "rw": {
+      "official": "Repubulika ya Venezuwela",
+      "common": "Repubulika ya Venezuwela"
+    },
+    "ko": {
+      "official": "베네수엘라 볼리베리안 공화국",
+      "common": "베네수엘라 볼리베리안 공화국"
+    },
+    "ku": {
+      "official": "Komara Bolîvarî ya Venezûela",
+      "common": "Komara Bolîvarî ya Venezûela"
+    },
+    "lv": {
+      "official": "Venecuēla",
+      "common": "Venecuēla"
+    },
+    "lt": {
+      "official": "Venesuelos Bolivaro Respublika",
+      "common": "Venesuelos Bolivaro Respublika"
+    },
+    "mk": {
+      "official": "Боливариска република Венецуела",
+      "common": "Боливариска република Венецуела"
+    },
+    "ml": {
+      "official": "വെനിസ്വേല ബൊളിവേറിയന്‍ റിപ്പബ്ലിക്",
+      "common": "വെനിസ്വേല ബൊളിവേറിയന്‍ റിപ്പബ്ലിക്"
+    },
+    "mi": {
+      "official": "Wenehūera",
+      "common": "Wenehūera"
+    },
+    "mr": {
+      "official": "व्हेनेझुएला, बोलिवरिअन रिपब्लिक ऑफ",
+      "common": "व्हेनेझुएला, बोलिवरिअन रिपब्लिक ऑफ"
+    },
+    "ms": {
+      "official": "Republik Dominican",
+      "common": "Republik Dominican"
+    },
+    "mt": {
+      "official": "Repubblika Dominikana",
+      "common": "Repubblika Dominikana"
+    },
+    "mn": {
+      "official": "Солонгос ард улс",
+      "common": "Солонгос ард улс"
+    },
+    "ne": {
+      "official": "गणराज्य, वेनेजुएला बोलिभेरियन",
+      "common": "गणराज्य, वेनेजुएला बोलिभेरियन"
+    },
+    "nn": {
+      "official": "Venezuela",
+      "common": "Venezuela"
+    },
+    "nb": {
+      "official": "Venezuela, Republikken",
+      "common": "Venezuela, Republikken"
+    },
+    "oc": {
+      "official": "Republica Dominicana",
+      "common": "Republica Dominicana"
+    },
+    "or": {
+      "official": "ଭେନେଜୁଏଲା, ବୋଲଭେରିଆନ ଗଣତନ୍ତ୍ର",
+      "common": "ଭେନେଜୁଏଲା, ବୋଲଭେରିଆନ ଗଣତନ୍ତ୍ର"
+    },
+    "pa": {
+      "official": "ਵੈਨੂਜੇਏਲਾ, ਬੋਲੀਵਾਰੀਆ ਗਣਰਾਜ",
+      "common": "ਵੈਨੂਜੇਏਲਾ, ਬੋਲੀਵਾਰੀਆ ਗਣਰਾਜ"
+    },
+    "fa": {
+      "official": "ونزوئلا، جمهوری بولیواری",
+      "common": "ونزوئلا، جمهوری بولیواری"
+    },
+    "pl": {
+      "official": "Wenezuela - Boliwariańska Republika",
+      "common": "Wenezuela - Boliwariańska Republika"
+    },
+    "pt": {
+      "official": "Venezuela, República Bolivariana da",
+      "common": "Venezuela, República Bolivariana da"
+    },
+    "ps": {
+      "official": "Venezuela, Bolivarian Republic of",
+      "common": "Venezuela, Bolivarian Republic of"
+    },
+    "ro": {
+      "official": "Venezuela, Republica Bolivariană",
+      "common": "Venezuela, Republica Bolivariană"
+    },
+    "ru": {
+      "official": "Боливарианская Республика Венесуэла",
+      "common": "Боливарианская Республика Венесуэла"
+    },
+    "si": {
+      "official": "බොලිවාරියන් වෙනිසියුලා ජනරජය",
+      "common": "බොලිවාරියන් වෙනිසියුලා ජනරජය"
+    },
+    "sk": {
+      "official": "Venezuelská bolívarovská republika",
+      "common": "Venezuelská bolívarovská republika"
+    },
+    "sl": {
+      "official": "Venezuela, bolivarska republika",
+      "common": "Venezuela, bolivarska republika"
+    },
+    "so": {
+      "official": "Kuuriyada Waqooyi",
+      "common": "Kuuriyada Waqooyi"
+    },
+    "es": {
+      "official": "Venezuela, República Bolivariana de",
+      "common": "Venezuela, República Bolivariana de"
+    },
+    "sr": {
+      "official": "Венецуела, Боливарска Република",
+      "common": "Венецуела, Боливарска Република"
+    },
+    "sw": {
+      "official": "Venezuela, Bolivarian Republic of",
+      "common": "Venezuela, Bolivarian Republic of"
+    },
+    "sv": {
+      "official": "Venezuela, Bolivarianska republiken",
+      "common": "Venezuela, Bolivarianska republiken"
+    },
+    "ta": {
+      "official": "வெனிசூலா பொலிவேரியன் குடியரசு",
+      "common": "வெனிசூலா பொலிவேரியன் குடியரசு"
+    },
+    "tt": {
+      "official": "Сосиалист Җөмһүриәте Виет Нам",
+      "common": "Сосиалист Җөмһүриәте Виет Нам"
+    },
+    "te": {
+      "official": "వెనుజులా, బోలివరియన్ రిపబ్లిక్ ఆఫ్",
+      "common": "వెనుజులా, బోలివరియన్ రిపబ్లిక్ ఆఫ్"
+    },
+    "tl": {
+      "official": "Bolivarian Republika ng Venezuela",
+      "common": "Bolivarian Republika ng Venezuela"
+    },
+    "th": {
+      "official": "เวเนซุเอลา, สาธารณรัฐโบลีวาร์แห่ง",
+      "common": "เวเนซุเอลา, สาธารณรัฐโบลีวาร์แห่ง"
+    },
+    "ti": {
+      "official": "ዶሚኒክ ሪፑብሊክ",
+      "common": "ዶሚኒክ ሪፑብሊክ"
+    },
+    "tk": {
+      "official": "Wýetnam Halk Respublikasy",
+      "common": "Wýetnam Halk Respublikasy"
+    },
+    "tr": {
+      "official": "Venezuella Bolivya Cumhuriyeti",
+      "common": "Venezuella Bolivya Cumhuriyeti"
+    },
+    "ug": {
+      "official": "ۋېنېزۇئېلا جۇمھۇرىيىتى",
+      "common": "ۋېنېزۇئېلا جۇمھۇرىيىتى"
+    },
+    "uk": {
+      "official": "Венесуела, Боліварська Республіка",
+      "common": "Венесуела, Боліварська Республіка"
+    },
+    "ve": {
+      "official": "Czech Republic",
+      "common": "Czech Republic"
+    },
+    "vi": {
+      "official": "Nước Cộng Hoà Bo-li-va-ri Vê-nê-xu-ê-la",
+      "common": "Nước Cộng Hoà Bo-li-va-ri Vê-nê-xu-ê-la"
+    },
+    "cy": {
+      "official": "Venezuela, Gweriniaeth Bolifaraidd",
+      "common": "Venezuela, Gweriniaeth Bolifaraidd"
+    },
+    "wa": {
+      "official": "Venezwela, Republike Bolivaryinne do",
+      "common": "Venezwela, Republike Bolivaryinne do"
+    },
+    "wo": {
+      "official": "Republik bu Bolibaar bu Benesuwela",
+      "common": "Republik bu Bolibaar bu Benesuwela"
+    },
+    "xh": {
+      "official": "Ulawulo lokuziphatha kwe Dominican",
+      "common": "Ulawulo lokuziphatha kwe Dominican"
+    },
+    "zu": {
+      "official": "Ulawulo lokuziphatha kwe Dominikhani",
+      "common": "Ulawulo lokuziphatha kwe Dominikhani"
+    }
+  }
+}

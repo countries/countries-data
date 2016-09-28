@@ -1,0 +1,331 @@
+---
+continent: North America
+alpha2: BB
+alpha3: BRB
+country_code: '1'
+international_prefix: '011'
+ioc: BAR
+gec: BB
+name: Barbados
+national_destination_code_lengths:
+- 3
+national_number_lengths:
+- 10
+national_prefix: '1'
+number: '052'
+region: Americas
+subregion: Caribbean
+world_region: AMER
+un_locode: BB
+nationality: Barbadian
+postal_code: true
+unofficial_names:
+- Barbade
+- Barbados
+- バルバドス
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: 13.193887
+  latitude_dec: '13.178098678588867'
+  longitude: -59.543198
+  longitude_dec: "-59.5485954284668"
+  max_latitude: 13.3352656
+  max_longitude: -59.4200975
+  min_latitude: 13.0449995
+  min_longitude: -59.6510304
+  bounds:
+    northeast:
+      lat: 13.3352656
+      lng: -59.4200975
+    southwest:
+      lat: 13.0449995
+      lng: -59.6510304
+currency_code: BBD
+postal_address_data:
+  zipex: BB23026,BB22025
+  name: BARBADOS
+  zip: BB\d{5}
+  fmt: "%N%n%O%n%A%n%C, %S %Z"
+  state_name_type: parish
+  key: BB
+  id: data/BB
+translations:
+  af:
+    official: Barbados
+    common: Barbados
+  sq:
+    official: Barbados
+    common: Barbados
+  am:
+    official: ባሴቤ፦ስ
+    common: ባሴቤ፦ስ
+  ar:
+    official: بربادوس
+    common: بربادوس
+  hy:
+    official: Բարբադոս
+    common: Բարբադոս
+  as:
+    official: বাৰ্বাডোছ
+    common: বাৰ্বাডোছ
+  az:
+    official: Barbados
+    common: Barbados
+  eu:
+    official: Barbados
+    common: Barbados
+  be:
+    official: Барбадос
+    common: Барбадос
+  bn:
+    official: বার্বাডোস
+    common: বার্বাডোস
+  bs:
+    official: Barbados
+    common: Barbados
+  br:
+    official: Barbados
+    common: Barbados
+  bg:
+    official: Барбадос
+    common: Барбадос
+  ca:
+    official: Barbados
+    common: Barbados
+  zh:
+    official: 巴巴多斯
+    common: 巴巴多斯
+  cs:
+    official: Barbados
+    common: Barbados
+  da:
+    official: Barbados
+    common: Barbados
+  nl:
+    official: Barbados
+    common: Barbados
+  dz:
+    official: བར་བ་ཌོསི།
+    common: བར་བ་ཌོསི།
+  en:
+    official: Barbados
+    common: Barbados
+  eo:
+    official: Barbado
+    common: Barbado
+  et:
+    official: Barbados
+    common: Barbados
+  fo:
+    official: Barbados
+    common: Barbados
+  fi:
+    official: Barbados
+    common: Barbados
+  fr:
+    official: Barbade
+    common: Barbade
+  ka:
+    official: ბარბადოსი
+    common: ბარბადოსი
+  de:
+    official: Barbados
+    common: Barbados
+  ga:
+    official: Barbadós
+    common: Barbadós
+  gl:
+    official: Barbados
+    common: Barbados
+  el:
+    official: Μπαρμπάντος
+    common: Μπαρμπάντος
+  gu:
+    official: બાર્બાડોસ
+    common: બાર્બાડોસ
+  he:
+    official: ברבדוס
+    common: ברבדוס
+  hi:
+    official: बार्बाडोस
+    common: बार्बाडोस
+  hr:
+    official: Barbados
+    common: Barbados
+  hu:
+    official: Barbados
+    common: Barbados
+  is:
+    official: Barbados
+    common: Barbados
+  ia:
+    official: Barbados
+    common: Barbados
+  id:
+    official: Barbados
+    common: Barbados
+  it:
+    official: Barbados
+    common: Barbados
+  ja:
+    official: バルバドス
+    common: バルバドス
+  kn:
+    official: ಬಾರ್ಬಡಾಸ್
+    common: ಬಾರ್ಬಡಾಸ್
+  kk:
+    official: Барбадос
+    common: Барбадос
+  km:
+    official: បារបាដូស
+    common: បារបាដូស
+  rw:
+    official: Barubadosi
+    common: Barubadosi
+  ko:
+    official: 바르바도스
+    common: 바르바도스
+  ku:
+    official: Barbados
+    common: Barbados
+  lv:
+    official: Barbadosa
+    common: Barbadosa
+  lt:
+    official: Barbadosas
+    common: Barbadosas
+  mk:
+    official: Барбадос
+    common: Барбадос
+  ml:
+    official: ബാര്‍ബഡോസ്
+    common: ബാര്‍ബഡോസ്
+  mi:
+    official: Barbados
+    common: Barbados
+  mr:
+    official: बार्बेडॉस
+    common: बार्बेडॉस
+  ms:
+    official: Barbados
+    common: Barbados
+  mt:
+    official: Barbados
+    common: Barbados
+  mn:
+    official: Барбадос
+    common: Барбадос
+  ne:
+    official: बारबाडोस
+    common: बारबाडोस
+  nn:
+    official: Barbados
+    common: Barbados
+  nb:
+    official: Barbados
+    common: Barbados
+  oc:
+    official: Barbada
+    common: Barbada
+  or:
+    official: ବାର୍ବାଡୋସ
+    common: ବାର୍ବାଡୋସ
+  pa:
+    official: ਬਾਰਬਾਡਾਸ
+    common: ਬਾਰਬਾਡਾਸ
+  fa:
+    official: باربادوس
+    common: باربادوس
+  pl:
+    official: Barbados
+    common: Barbados
+  pt:
+    official: Barbados
+    common: Barbados
+  ps:
+    official: Barbados
+    common: Barbados
+  ro:
+    official: Barbados
+    common: Barbados
+  ru:
+    official: Барбадос
+    common: Барбадос
+  si:
+    official: බාබඩෝස්
+    common: බාබඩෝස්
+  sk:
+    official: Barbados
+    common: Barbados
+  sl:
+    official: Barbados
+    common: Barbados
+  so:
+    official: Baarbadoos
+    common: Baarbadoos
+  es:
+    official: Barbados
+    common: Barbados
+  sr:
+    official: Барбадос
+    common: Барбадос
+  sw:
+    official: Barbados
+    common: Barbados
+  sv:
+    official: Barbados
+    common: Barbados
+  ta:
+    official: பார்படாஸ்
+    common: பார்படாஸ்
+  tt:
+    official: Барбадос
+    common: Барбадос
+  te:
+    official: బార్బేడాస్
+    common: బార్బేడాస్
+  tl:
+    official: Barbados
+    common: Barbados
+  th:
+    official: บาร์เบโดส
+    common: บาร์เบโดส
+  ti:
+    official: ባርቤዶስ
+    common: ባርቤዶስ
+  tk:
+    official: Barbados
+    common: Barbados
+  tr:
+    official: Barbados
+    common: Barbados
+  ug:
+    official: باربادوس
+    common: باربادوس
+  uk:
+    official: Барбадос
+    common: Барбадос
+  ve:
+    official: Barbados
+    common: Barbados
+  vi:
+    official: Bă-ba-đôxợ
+    common: Bă-ba-đôxợ
+  cy:
+    official: Barbados
+    common: Barbados
+  wa:
+    official: Bårbades
+    common: Bårbades
+  wo:
+    official: Barbados
+    common: Barbados
+  xh:
+    official: Barbados
+    common: Barbados
+  zu:
+    official: I-Barbados
+    common: I-Barbados

@@ -1,0 +1,361 @@
+---
+continent: Asia
+alpha2: VN
+alpha3: VNM
+country_code: '84'
+international_prefix: '00'
+ioc: VIE
+gec: VM
+name: Vietnam
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+- 8
+- 9
+- 10
+national_prefix: '0'
+number: '704'
+region: Asia
+subregion: South-Eastern Asia
+world_region: APAC
+un_locode: VN
+nationality: Vietnamese
+postal_code: true
+unofficial_names:
+- Vietnam
+- ベトナム
+- Viet Nam
+languages_official:
+- vi
+languages_spoken:
+- vi
+geo:
+  latitude: 14.058324
+  latitude_dec: '16.9404296875'
+  longitude: 108.277199
+  longitude_dec: '106.8164291381836'
+  max_latitude: 23.393395
+  max_longitude: 109.4689777
+  min_latitude: 8.4127295
+  min_longitude: 102.14441
+  bounds:
+    northeast:
+      lat: 23.393395
+      lng: 109.4689777
+    southwest:
+      lat: 8.4127295
+      lng: 102.14441
+currency_code: VND
+postal_address_data:
+  lang: vi
+  key: VN
+  sub_lnames: An Giang Province~Ba Ria-Vung Tau Province~Bac Giang Province~Bac Kan
+    Province~Bac Lieu Province~Bac Ninh Province~Ben Tre Province~Binh Duong Province~Binh
+    Dinh Province~Binh Phuoc Province~Binh Thuan Province~Ca Mau Province~Cao Bang
+    Province~Can Tho City~Da Nang City~Dak Lak Province~Dak Nong Province~Dien Bien
+    Province~Dong Nai Province~Dong Thap Province~Gia Lai Province~Ha Giang Province~Ha
+    Nam Province~Hanoi City~Ha Tay province~Ha Tinh Province~Hai Duong Province~Haiphong
+    City~Hau Giang Province~Hoa binh Province~Hung Yen Province~Khanh Hoa Province~Kien
+    Giang Province~Kon Tum Province~Lai Chau Province~Lang Song Province~Lao Cai Province~Lam
+    Dong Province~Long An Province~Nam Dinh Province~Nghe An Province~Nanh Binh Province~Ninh
+    Thuan Province~Phu Tho Province~Phu Yen Province~Quang Binh Province~Quang Nam
+    Province~Quang Ngai Province~Quang Ninh Province~Quang Tri Province~Soc Trang
+    Province~Son La Province~Tay Ninh Province~Thai Binh Province~Thai Nguyen Province~Thanh
+    Hoa Province~Ho Chi Minh City~Thua Thien-Hue Province~Tien Giang Province~Tra
+    Vinh Province~Tuyen Quang Province~Vinh Long Province~Vinh Phuc Province~Yen Bai
+    Province
+  name: VIET NAM
+  zip: "\\d{6}"
+  fmt: "%N%n%O%n%A%n%C%n%S %Z"
+  languages: vi
+  lfmt: "%N%n%O%n%A%n%C%n%S %Z"
+  zipex: '119415,136065,720344'
+  sub_keys: An Giang~Bà Rịa–Vũng Tàu~Bắc Giang~Bắc Kạn~Bắc Lieu~Bắc Ninh~Bến Tre~Bình
+    Dương~Bình Định~Bình Phước~Bình Thuận~Cà Mau~Cao Bằng~Cần Thơ~Đà Nẵng~Đắk Lắk~Đăk
+    Nông~Điện Biên~Đồng Nai~Đồng Tháp~Gia Lai~Hà Giang~Hà Nam~Hà Nội~Hà Tây~Hà Tĩnh~Hải
+    Dương~Hải Phòng~Hậu Giang~Hòa Bình~Hưng Yên~Khánh Hòa~Kiên Giang~Kon Tum~Lai Châu~Lạng
+    Sơn~Lào Cai~Lâm Đồng~Long An~Nam Định~Nghệ An~Ninh Bình~Ninh Thuận~Phú Thọ~Phú
+    Yên~Quảng Bình~Quảng Nam~Quảng Ngãi~Quảng Ninh~Quảng Trị~Sóc Trăng~Sơn La~Tây
+    Ninh~Thái Bình~Thái Nguyên~Thanh Hóa~Thành phố Hồ Chí Minh~Thừa Thiên–Huế~Tiền
+    Giang~Trà Vinh~Tuyên Quang~Vĩnh Long~Vĩnh Phúc~Yên Bái
+  posturl: http://postcode.vnpost.vn/services/search.aspx
+  sub_isoids: 44~43~54~53~55~56~50~57~31~58~40~59~04~48~60~33~72~71~39~45~30~03~63~64~15~23~61~62~73~14~66~34~47~28~01~09~02~35~41~67~22~18~36~68~32~24~27~29~13~25~52~05~37~20~69~21~65~26~46~51~07~49~70~06
+  id: data/VN
+translations:
+  af:
+    official: Viëtnam
+    common: Viëtnam
+  sq:
+    official: Vjet Nam
+    common: Vjet Nam
+  am:
+    official: Viet Nam
+    common: Viet Nam
+  ar:
+    official: الفييتنام
+    common: الفييتنام
+  hy:
+    official: Վիետնամ
+    common: Վիետնամ
+  as:
+    official: ভিয়েতনাম
+    common: ভিয়েতনাম
+  az:
+    official: Vyetnam
+    common: Vyetnam
+  eu:
+    official: Vietnam
+    common: Vietnam
+  be:
+    official: В'етнам
+    common: В'етнам
+  bn:
+    official: ভিয়েতনাম
+    common: ভিয়েতনাম
+  bs:
+    official: Vijetnam
+    common: Vijetnam
+  br:
+    official: Viet Nam
+    common: Viet Nam
+  bg:
+    official: Виетнам
+    common: Виетнам
+  ca:
+    official: Vietnam
+    common: Vietnam
+  zh:
+    official: 越南
+    common: 越南
+  cs:
+    official: Vietnam
+    common: Vietnam
+  da:
+    official: Vietnam
+    common: Vietnam
+  nl:
+    official: Vietnam
+    common: Vietnam
+  dz:
+    official: ཝེཊི་ནམ།
+    common: ཝེཊི་ནམ།
+  en:
+    official: Viet Nam
+    common: Viet Nam
+  eo:
+    official: Vjetnamio
+    common: Vjetnamio
+  et:
+    official: Vietnam
+    common: Vietnam
+  fo:
+    official: Viet Nam
+    common: Viet Nam
+  fi:
+    official: Vietnam
+    common: Vietnam
+  fr:
+    official: Viet Nam
+    common: Viet Nam
+  ka:
+    official: ვიეტ-ნამი
+    common: ვიეტ-ნამი
+  de:
+    official: Vietnam
+    common: Vietnam
+  ga:
+    official: Vítneam
+    common: Vítneam
+  gl:
+    official: Vietnam
+    common: Vietnam
+  el:
+    official: Βιετνάμ
+    common: Βιετνάμ
+  gu:
+    official: વિયેત નામ
+    common: વિયેત નામ
+  he:
+    official: ויטנאם
+    common: ויטנאם
+  hi:
+    official: वियतनाम
+    common: वियतनाम
+  hr:
+    official: Vijetnam
+    common: Vijetnam
+  hu:
+    official: Vietnam
+    common: Vietnam
+  is:
+    official: Víetnam
+    common: Víetnam
+  ia:
+    official: Vietnam
+    common: Vietnam
+  id:
+    official: Vietnam
+    common: Vietnam
+  it:
+    official: Vietnam
+    common: Vietnam
+  ja:
+    official: ベトナム
+    common: ベトナム
+  kn:
+    official: ವಿಯೆಟ್ನಾಂ
+    common: ವಿಯೆಟ್ನಾಂ
+  kk:
+    official: Вьетнам
+    common: Вьетнам
+  km:
+    official: វៀតណាម
+    common: វៀតណាម
+  rw:
+    official: Viyetinamu
+    common: Viyetinamu
+  ko:
+    official: 베트남
+    common: 베트남
+  ku:
+    official: Viyetnam
+    common: Viyetnam
+  lv:
+    official: Vjetnama
+    common: Vjetnama
+  lt:
+    official: Vietnamas
+    common: Vietnamas
+  mk:
+    official: Виетнам
+    common: Виетнам
+  ml:
+    official: വിയറ്റ്നാം
+    common: വിയറ്റ്നാം
+  mi:
+    official: Whitināmu
+    common: Whitināmu
+  mr:
+    official: व्हिएटनाम
+    common: व्हिएटनाम
+  ms:
+    official: Viet Nam
+    common: Viet Nam
+  mt:
+    official: Dwieli
+    common: Dwieli
+  mn:
+    official: Виетьнам
+    common: Виетьнам
+  ne:
+    official: भिएतनाम
+    common: भिएतनाम
+  nn:
+    official: Vietnam
+    common: Vietnam
+  nb:
+    official: Vietnam
+    common: Vietnam
+  oc:
+    official: Vinyes
+    common: Vinyes
+  or:
+    official: ଭିୟେତନାମ
+    common: ଭିୟେତନାମ
+  pa:
+    official: ਵੀਅਤਨਾਮ
+    common: ਵੀਅਤਨਾਮ
+  fa:
+    official: ویتنام
+    common: ویتنام
+  pl:
+    official: Wietnam
+    common: Wietnam
+  pt:
+    official: Vietname
+    common: Vietname
+  ps:
+    official: Viet Nam
+    common: Viet Nam
+  ro:
+    official: Vietnam
+    common: Vietnam
+  ru:
+    official: Вьетнам
+    common: Вьетнам
+  si:
+    official: වියෙට්නාමය
+    common: වියෙට්නාමය
+  sk:
+    official: Vietnam
+    common: Vietnam
+  sl:
+    official: Vietnam
+    common: Vietnam
+  so:
+    official: Fiyetnaam
+    common: Fiyetnaam
+  es:
+    official: Vietnam
+    common: Vietnam
+  sr:
+    official: Вијетнам
+    common: Вијетнам
+  sw:
+    official: Viet Nam
+    common: Viet Nam
+  sv:
+    official: Vietnam
+    common: Vietnam
+  ta:
+    official: வியட்னாம்
+    common: வியட்னாம்
+  tt:
+    official: Виет Нам
+    common: Виет Нам
+  te:
+    official: వియత్నామ్
+    common: వియత్నామ్
+  tl:
+    official: Viet Nam
+    common: Viet Nam
+  th:
+    official: เวียดนาม
+    common: เวียดนาม
+  ti:
+    official: Viet Nam
+    common: Viet Nam
+  tk:
+    official: Wýetnam
+    common: Wýetnam
+  tr:
+    official: Vietnam
+    common: Vietnam
+  ug:
+    official: ۋىيېتنام
+    common: ۋىيېتنام
+  uk:
+    official: В'єтнам
+    common: В'єтнам
+  ve:
+    official: Vietnam
+    common: Vietnam
+  vi:
+    official: Việt Nam
+    common: Việt Nam
+  cy:
+    official: Fietnam
+    common: Fietnam
+  wa:
+    official: Vietnam
+    common: Vietnam
+  wo:
+    official: Wiyet Naam
+    common: Wiyet Naam
+  xh:
+    official: Vietnam
+    common: Vietnam
+  zu:
+    official: I-Vietnami
+    common: I-Vietnami

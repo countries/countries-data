@@ -1,0 +1,326 @@
+---
+continent: North America
+alpha2: MS
+alpha3: MSR
+country_code: '1'
+international_prefix: '011'
+ioc: 
+gec: MH
+name: Montserrat
+national_destination_code_lengths:
+- 3
+national_number_lengths:
+- 10
+national_prefix: '1'
+number: '500'
+region: Americas
+subregion: Caribbean
+world_region: EMEA
+un_locode: MS
+nationality: Montserratian
+postal_code: false
+unofficial_names:
+- Montserrat
+- モントセラト
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: 16.742498
+  latitude_dec: '16.735998153686523'
+  longitude: -62.187366
+  longitude_dec: "-62.188819885253906"
+  max_latitude: 16.824052
+  max_longitude: -62.14417580000001
+  min_latitude: 16.6746959
+  min_longitude: -62.2415171
+  bounds:
+    northeast:
+      lat: 16.824052
+      lng: -62.14417580000001
+    southwest:
+      lat: 16.6746959
+      lng: -62.2415171
+currency_code: XCD
+postal_address_data:
+  id: data/MS
+  key: MS
+  name: MONTSERRAT
+translations:
+  af:
+    official: Montserrat
+    common: Montserrat
+  sq:
+    official: Montserrat
+    common: Montserrat
+  am:
+    official: Montserrat
+    common: Montserrat
+  ar:
+    official: مونتسيرات
+    common: مونتسيرات
+  hy:
+    official: Մոնտսերատ
+    common: Մոնտսերատ
+  as:
+    official: মন্টছেৰাট
+    common: মন্টছেৰাট
+  az:
+    official: Montserrat
+    common: Montserrat
+  eu:
+    official: Montserrat
+    common: Montserrat
+  be:
+    official: Мантсерат
+    common: Мантсерат
+  bn:
+    official: মন্টসেরাত
+    common: মন্টসেরাত
+  bs:
+    official: Montserrat
+    common: Montserrat
+  br:
+    official: Montserrat
+    common: Montserrat
+  bg:
+    official: Монсерат
+    common: Монсерат
+  ca:
+    official: Montserrat
+    common: Montserrat
+  zh:
+    official: 蒙塞拉特岛
+    common: 蒙塞拉特岛
+  cs:
+    official: Montserrat
+    common: Montserrat
+  da:
+    official: Montserrat
+    common: Montserrat
+  nl:
+    official: Montserrat
+    common: Montserrat
+  dz:
+    official: མཱོནཊི་སི་རཊི།
+    common: མཱོནཊི་སི་རཊི།
+  en:
+    official: Montserrat
+    common: Montserrat
+  eo:
+    official: Moncerato
+    common: Moncerato
+  et:
+    official: Montserrat
+    common: Montserrat
+  fo:
+    official: Montserrat
+    common: Montserrat
+  fi:
+    official: Montserrat
+    common: Montserrat
+  fr:
+    official: Montserrat
+    common: Montserrat
+  ka:
+    official: მონსერატი
+    common: მონსერატი
+  de:
+    official: Montserrat
+    common: Montserrat
+  ga:
+    official: Montsarat
+    common: Montsarat
+  gl:
+    official: Montserrat
+    common: Montserrat
+  el:
+    official: Μονσεράτ
+    common: Μονσεράτ
+  gu:
+    official: મોન્ટસેરાન્ટ
+    common: મોન્ટસેરાન્ટ
+  he:
+    official: מונסראט
+    common: מונסראט
+  hi:
+    official: मॉन्ट्सेर्राट
+    common: मॉन्ट्सेर्राट
+  hr:
+    official: Montserrat
+    common: Montserrat
+  hu:
+    official: Montserrat
+    common: Montserrat
+  is:
+    official: Montserrat
+    common: Montserrat
+  ia:
+    official: Montserrat
+    common: Montserrat
+  id:
+    official: Montserrat
+    common: Montserrat
+  it:
+    official: Montserrat
+    common: Montserrat
+  ja:
+    official: モントセラト
+    common: モントセラト
+  kn:
+    official: ಮಾಂಟ್ಸೆರ್ರಾಟ್
+    common: ಮಾಂಟ್ಸೆರ್ರಾಟ್
+  kk:
+    official: Монсеррат
+    common: Монсеррат
+  km:
+    official: ម៉ុងសេរ៉ា
+    common: ម៉ុងសេរ៉ា
+  rw:
+    official: Monserati
+    common: Monserati
+  ko:
+    official: 몽세라트
+    common: 몽세라트
+  ku:
+    official: Montserat
+    common: Montserat
+  lv:
+    official: Montserrata
+    common: Montserrata
+  lt:
+    official: Montseratas
+    common: Montseratas
+  mk:
+    official: Монтсерат
+    common: Монтсерат
+  ml:
+    official: മോണ്ട്സെറാറ്റ്
+    common: മോണ്ട്സെറാറ്റ്
+  mi:
+    official: Montserrat
+    common: Montserrat
+  mr:
+    official: मोंट्सेर्रात
+    common: मोंट्सेर्रात
+  ms:
+    official: Montserrat
+    common: Montserrat
+  mt:
+    official: Montserrat
+    common: Montserrat
+  mn:
+    official: Montserrat
+    common: Montserrat
+  ne:
+    official: मोनसेराट
+    common: मोनसेराट
+  nn:
+    official: Montserrat
+    common: Montserrat
+  nb:
+    official: Montserrat
+    common: Montserrat
+  oc:
+    official: Montserrat
+    common: Montserrat
+  or:
+    official: ମୋଣ୍ଟସେରାଟ
+    common: ମୋଣ୍ଟସେରାଟ
+  pa:
+    official: ਮੋਨਟਸ਼ਟੀਟ
+    common: ਮੋਨਟਸ਼ਟੀਟ
+  fa:
+    official: مونت‌سرات
+    common: مونت‌سرات
+  pl:
+    official: Montserrat
+    common: Montserrat
+  pt:
+    official: Montserrat
+    common: Montserrat
+  ps:
+    official: Montserrat
+    common: Montserrat
+  ro:
+    official: Montserrat
+    common: Montserrat
+  ru:
+    official: Монсеррат
+    common: Монсеррат
+  si:
+    official: මොන්ට්සෙරා
+    common: මොන්ට්සෙරා
+  sk:
+    official: Montserrat
+    common: Montserrat
+  sl:
+    official: Montserrat
+    common: Montserrat
+  so:
+    official: Montserrat
+    common: Montserrat
+  es:
+    official: Montserrat
+    common: Montserrat
+  sr:
+    official: Монсерат
+    common: Монсерат
+  sw:
+    official: Montserrat
+    common: Montserrat
+  sv:
+    official: Montserrat
+    common: Montserrat
+  ta:
+    official: மொன்சாராட்
+    common: மொன்சாராட்
+  tt:
+    official: Монцеррат
+    common: Монцеррат
+  te:
+    official: మోంట్సేర్రాత
+    common: మోంట్సేర్రాత
+  tl:
+    official: Montserrat
+    common: Montserrat
+  th:
+    official: มอนต์เซอร์รัต
+    common: มอนต์เซอร์รัต
+  ti:
+    official: Montserrat
+    common: Montserrat
+  tk:
+    official: Montserrat
+    common: Montserrat
+  tr:
+    official: Monserat
+    common: Monserat
+  ug:
+    official: مونتسېررات
+    common: مونتسېررات
+  uk:
+    official: Монтсеррат
+    common: Монтсеррат
+  ve:
+    official: Montserrat
+    common: Montserrat
+  vi:
+    official: Mon-xe-rạc
+    common: Mon-xe-rạc
+  cy:
+    official: Montserrat
+    common: Montserrat
+  wa:
+    official: Montserrat
+    common: Montserrat
+  wo:
+    official: Montserrat
+    common: Montserrat
+  xh:
+    official: Montserrat
+    common: Montserrat
+  zu:
+    official: Montserrat
+    common: Montserrat

@@ -1,0 +1,453 @@
+{
+  "continent": "Europe",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}}\n{{country}}",
+  "alpha2": "FI",
+  "alpha3": "FIN",
+  "country_code": "358",
+  "international_prefix": "00",
+  "ioc": "FIN",
+  "gec": "FI",
+  "name": "Finland",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    9
+  ],
+  "national_prefix": "0",
+  "number": "246",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "world_region": "EMEA",
+  "un_locode": "FI",
+  "nationality": "Finnish",
+  "eu_member": true,
+  "eea_member": true,
+  "vat_rates": {
+    "standard": 24,
+    "reduced": [
+      10,
+      14
+    ],
+    "super_reduced": null,
+    "parking": null
+  },
+  "postal_code": true,
+  "unofficial_names": [
+    "Finland",
+    "Finnland",
+    "Finlande",
+    "Finlandia",
+    "フィンランド"
+  ],
+  "languages_official": [
+    "fi",
+    "sv"
+  ],
+  "languages_spoken": [
+    "fi",
+    "sv"
+  ],
+  "geo": {
+    "latitude": 61.92410999999999,
+    "latitude_dec": "64.28858184814453",
+    "longitude": 25.748151,
+    "longitude_dec": "25.989402770996094",
+    "max_latitude": 70.0910562,
+    "max_longitude": 31.5870999,
+    "min_latitude": 59.7054404,
+    "min_longitude": 20.5474107,
+    "bounds": {
+      "northeast": {
+        "lat": 70.0910562,
+        "lng": 31.5870999
+      },
+      "southwest": {
+        "lat": 59.7054404,
+        "lng": 20.5474107
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "postprefix": "FI-",
+    "zipex": "00550,00011",
+    "name": "FINLAND",
+    "zip": "\\d{5}",
+    "require": "ACZ",
+    "id": "data/FI",
+    "key": "FI",
+    "posturl": "http://www.verkkoposti.com/e3/postinumeroluettelo",
+    "fmt": "%O%n%N%n%A%nFI-%Z %C"
+  },
+  "translations": {
+    "af": {
+      "official": "Finland",
+      "common": "Finland"
+    },
+    "sq": {
+      "official": "Finlanda",
+      "common": "Finlanda"
+    },
+    "am": {
+      "official": "ፑንሒን፥",
+      "common": "ፑንሒን፥"
+    },
+    "ar": {
+      "official": "فنلندا",
+      "common": "فنلندا"
+    },
+    "hy": {
+      "official": "Ֆինլանդիա",
+      "common": "Ֆինլանդիա"
+    },
+    "as": {
+      "official": "ফিনলেণ্ড",
+      "common": "ফিনলেণ্ড"
+    },
+    "az": {
+      "official": "Finlandiya",
+      "common": "Finlandiya"
+    },
+    "eu": {
+      "official": "Finlandia",
+      "common": "Finlandia"
+    },
+    "be": {
+      "official": "Фінляндыя",
+      "common": "Фінляндыя"
+    },
+    "bn": {
+      "official": "ফিনল্যান্ড",
+      "common": "ফিনল্যান্ড"
+    },
+    "bs": {
+      "official": "Finska",
+      "common": "Finska"
+    },
+    "br": {
+      "official": "Finland",
+      "common": "Finland"
+    },
+    "bg": {
+      "official": "Финландия",
+      "common": "Финландия"
+    },
+    "ca": {
+      "official": "Finlàndia",
+      "common": "Finlàndia"
+    },
+    "zh": {
+      "official": "芬兰",
+      "common": "芬兰"
+    },
+    "cs": {
+      "official": "Finsko",
+      "common": "Finsko"
+    },
+    "da": {
+      "official": "Finland",
+      "common": "Finland"
+    },
+    "nl": {
+      "official": "Finland",
+      "common": "Finland"
+    },
+    "dz": {
+      "official": "ཕིན་ལེནཌི།",
+      "common": "ཕིན་ལེནཌི།"
+    },
+    "en": {
+      "official": "Finland",
+      "common": "Finland"
+    },
+    "eo": {
+      "official": "Finnlando",
+      "common": "Finnlando"
+    },
+    "et": {
+      "official": "Soome",
+      "common": "Soome"
+    },
+    "fo": {
+      "official": "Finnland",
+      "common": "Finnland"
+    },
+    "fi": {
+      "official": "Suomi",
+      "common": "Suomi"
+    },
+    "fr": {
+      "official": "Finlande",
+      "common": "Finlande"
+    },
+    "ka": {
+      "official": "ფინეთი",
+      "common": "ფინეთი"
+    },
+    "de": {
+      "official": "Finnland",
+      "common": "Finnland"
+    },
+    "ga": {
+      "official": "An Fhionlainn",
+      "common": "An Fhionlainn"
+    },
+    "gl": {
+      "official": "Finlandia",
+      "common": "Finlandia"
+    },
+    "el": {
+      "official": "Φινλανδία",
+      "common": "Φινλανδία"
+    },
+    "gu": {
+      "official": "ફિનલેન્ડ",
+      "common": "ફિનલેન્ડ"
+    },
+    "he": {
+      "official": "פינלנד",
+      "common": "פינלנד"
+    },
+    "hi": {
+      "official": "फिनलैंड",
+      "common": "फिनलैंड"
+    },
+    "hr": {
+      "official": "Finska",
+      "common": "Finska"
+    },
+    "hu": {
+      "official": "Finnország",
+      "common": "Finnország"
+    },
+    "is": {
+      "official": "Finnland",
+      "common": "Finnland"
+    },
+    "ia": {
+      "official": "Finlandia",
+      "common": "Finlandia"
+    },
+    "id": {
+      "official": "Finlandia",
+      "common": "Finlandia"
+    },
+    "it": {
+      "official": "Finlandia",
+      "common": "Finlandia"
+    },
+    "ja": {
+      "official": "フィンランド",
+      "common": "フィンランド"
+    },
+    "kn": {
+      "official": "ಫಿನ್ಲಂಡ್",
+      "common": "ಫಿನ್ಲಂಡ್"
+    },
+    "kk": {
+      "official": "Финляндия",
+      "common": "Финляндия"
+    },
+    "km": {
+      "official": "ហ្វាំងឡង់",
+      "common": "ហ្វាំងឡង់"
+    },
+    "rw": {
+      "official": "Finilande",
+      "common": "Finilande"
+    },
+    "ko": {
+      "official": "핀란드",
+      "common": "핀란드"
+    },
+    "ku": {
+      "official": "Fînlandiya",
+      "common": "Fînlandiya"
+    },
+    "lv": {
+      "official": "Somija",
+      "common": "Somija"
+    },
+    "lt": {
+      "official": "Suomija",
+      "common": "Suomija"
+    },
+    "mk": {
+      "official": "Финска",
+      "common": "Финска"
+    },
+    "ml": {
+      "official": "ഫിന്‍ലന്‍ഡ്",
+      "common": "ഫിന്‍ലന്‍ഡ്"
+    },
+    "mi": {
+      "official": "Hinerangi",
+      "common": "Hinerangi"
+    },
+    "mr": {
+      "official": "फिनलॅंड",
+      "common": "फिनलॅंड"
+    },
+    "ms": {
+      "official": "Finland",
+      "common": "Finland"
+    },
+    "mt": {
+      "official": "Finlandja",
+      "common": "Finlandja"
+    },
+    "mn": {
+      "official": "Финнлянд",
+      "common": "Финнлянд"
+    },
+    "ne": {
+      "official": "फिन्ल्यान्ड",
+      "common": "फिन्ल्यान्ड"
+    },
+    "nn": {
+      "official": "Finland",
+      "common": "Finland"
+    },
+    "nb": {
+      "official": "Finland",
+      "common": "Finland"
+    },
+    "oc": {
+      "official": "Finlandia",
+      "common": "Finlandia"
+    },
+    "or": {
+      "official": "ଫିନଲ୍ଯାଣ୍ଡ",
+      "common": "ଫିନଲ୍ଯାଣ୍ଡ"
+    },
+    "pa": {
+      "official": "ਫ਼ਿਨਲੈਂਡ",
+      "common": "ਫ਼ਿਨਲੈਂਡ"
+    },
+    "fa": {
+      "official": "فنلاند",
+      "common": "فنلاند"
+    },
+    "pl": {
+      "official": "Finlandia",
+      "common": "Finlandia"
+    },
+    "pt": {
+      "official": "Finlândia",
+      "common": "Finlândia"
+    },
+    "ps": {
+      "official": "فنلینډ",
+      "common": "فنلینډ"
+    },
+    "ro": {
+      "official": "Finlanda",
+      "common": "Finlanda"
+    },
+    "ru": {
+      "official": "Финляндия",
+      "common": "Финляндия"
+    },
+    "si": {
+      "official": "ෆින්ලන්තය",
+      "common": "ෆින්ලන්තය"
+    },
+    "sk": {
+      "official": "Fínsko",
+      "common": "Fínsko"
+    },
+    "sl": {
+      "official": "Finska",
+      "common": "Finska"
+    },
+    "so": {
+      "official": "Fiinlaand",
+      "common": "Fiinlaand"
+    },
+    "es": {
+      "official": "Finlandia",
+      "common": "Finlandia"
+    },
+    "sr": {
+      "official": "Финска",
+      "common": "Финска"
+    },
+    "sw": {
+      "official": "Finland",
+      "common": "Finland"
+    },
+    "sv": {
+      "official": "Finland",
+      "common": "Finland"
+    },
+    "ta": {
+      "official": "பின்லாந்து",
+      "common": "பின்லாந்து"
+    },
+    "tt": {
+      "official": "Финланд (Суоми)",
+      "common": "Финланд (Суоми)"
+    },
+    "te": {
+      "official": "ఫిన్‌లాండ్",
+      "common": "ఫిన్‌లాండ్"
+    },
+    "tl": {
+      "official": "Finland",
+      "common": "Finland"
+    },
+    "th": {
+      "official": "ฟินแลนด์",
+      "common": "ฟินแลนด์"
+    },
+    "ti": {
+      "official": "ፊንላንድ",
+      "common": "ፊንላንድ"
+    },
+    "tk": {
+      "official": "Finlýandiýa",
+      "common": "Finlýandiýa"
+    },
+    "tr": {
+      "official": "Finlandiya",
+      "common": "Finlandiya"
+    },
+    "ug": {
+      "official": "فىنلاندىيە",
+      "common": "فىنلاندىيە"
+    },
+    "uk": {
+      "official": "Фінляндія",
+      "common": "Фінляндія"
+    },
+    "ve": {
+      "official": "Finland",
+      "common": "Finland"
+    },
+    "vi": {
+      "official": "Phần Lan",
+      "common": "Phần Lan"
+    },
+    "cy": {
+      "official": "Y Ffindir",
+      "common": "Y Ffindir"
+    },
+    "wa": {
+      "official": "Finlande",
+      "common": "Finlande"
+    },
+    "wo": {
+      "official": "Finlaand",
+      "common": "Finlaand"
+    },
+    "xh": {
+      "official": "Finland",
+      "common": "Finland"
+    },
+    "zu": {
+      "official": "I-Finilandi",
+      "common": "I-Finilandi"
+    }
+  }
+}

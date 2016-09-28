@@ -1,0 +1,441 @@
+{
+  "continent": "Africa",
+  "alpha2": "TN",
+  "alpha3": "TUN",
+  "country_code": "216",
+  "international_prefix": "00",
+  "ioc": "TUN",
+  "gec": "TS",
+  "name": "Tunisia",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "None",
+  "number": "788",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "world_region": "EMEA",
+  "un_locode": "TN",
+  "nationality": "Tunisian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Tunisia",
+    "تونس",
+    "Tunesien",
+    "Tunisie",
+    "Túnez",
+    "チュニジア",
+    "Tunesië"
+  ],
+  "languages_official": [
+    "ar",
+    "fr"
+  ],
+  "languages_spoken": [
+    "ar",
+    "fr"
+  ],
+  "geo": {
+    "latitude": 33.886917,
+    "latitude_dec": "34.33528518676758",
+    "longitude": 9.537499,
+    "longitude_dec": "9.245259284973145",
+    "max_latitude": 37.358298,
+    "max_longitude": 11.599217,
+    "min_latitude": 30.2280339,
+    "min_longitude": 7.5223109,
+    "bounds": {
+      "northeast": {
+        "lat": 37.358298,
+        "lng": 11.599217
+      },
+      "southwest": {
+        "lat": 30.2280339,
+        "lng": 7.5223109
+      }
+    }
+  },
+  "currency_code": "TND",
+  "postal_address_data": {
+    "key": "TN",
+    "zipex": "1002,8129,3100,1030",
+    "name": "TUNISIA",
+    "zip": "\\d{4}",
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "posturl": "http://www.poste.tn/codes.php",
+    "id": "data/TN"
+  },
+  "translations": {
+    "af": {
+      "official": "Tunisië",
+      "common": "Tunisië"
+    },
+    "sq": {
+      "official": "Tunizia",
+      "common": "Tunizia"
+    },
+    "am": {
+      "official": "ቱኒፑ።",
+      "common": "ቱኒፑ።"
+    },
+    "ar": {
+      "official": "تونس",
+      "common": "تونس"
+    },
+    "hy": {
+      "official": "Թունիս",
+      "common": "Թունիս"
+    },
+    "as": {
+      "official": "টিউনিছিয়া",
+      "common": "টিউনিছিয়া"
+    },
+    "az": {
+      "official": "Tunis",
+      "common": "Tunis"
+    },
+    "eu": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "be": {
+      "official": "Туніс",
+      "common": "Туніс"
+    },
+    "bn": {
+      "official": "টিউনিশিয়া",
+      "common": "টিউনিশিয়া"
+    },
+    "bs": {
+      "official": "Tunis",
+      "common": "Tunis"
+    },
+    "br": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "bg": {
+      "official": "Тунис",
+      "common": "Тунис"
+    },
+    "ca": {
+      "official": "Tunísia",
+      "common": "Tunísia"
+    },
+    "zh": {
+      "official": "突尼斯",
+      "common": "突尼斯"
+    },
+    "cs": {
+      "official": "Tunisko",
+      "common": "Tunisko"
+    },
+    "da": {
+      "official": "Tunesien",
+      "common": "Tunesien"
+    },
+    "nl": {
+      "official": "Tunesië",
+      "common": "Tunesië"
+    },
+    "dz": {
+      "official": "ཊུ་ནི་སི་ཡ།",
+      "common": "ཊུ་ནི་སི་ཡ།"
+    },
+    "en": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "eo": {
+      "official": "Tunizio",
+      "common": "Tunizio"
+    },
+    "et": {
+      "official": "Tuneesia",
+      "common": "Tuneesia"
+    },
+    "fo": {
+      "official": "Tunesia",
+      "common": "Tunesia"
+    },
+    "fi": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "fr": {
+      "official": "Tunisie",
+      "common": "Tunisie"
+    },
+    "ka": {
+      "official": "ტუნისი",
+      "common": "ტუნისი"
+    },
+    "de": {
+      "official": "Tunesien",
+      "common": "Tunesien"
+    },
+    "ga": {
+      "official": "An Túinéis",
+      "common": "An Túinéis"
+    },
+    "gl": {
+      "official": "Tunicia",
+      "common": "Tunicia"
+    },
+    "el": {
+      "official": "Τυνησία",
+      "common": "Τυνησία"
+    },
+    "gu": {
+      "official": "ટ્યુનિશિયા",
+      "common": "ટ્યુનિશિયા"
+    },
+    "he": {
+      "official": "טוניסיה",
+      "common": "טוניסיה"
+    },
+    "hi": {
+      "official": "ट्यूनीशिया",
+      "common": "ट्यूनीशिया"
+    },
+    "hr": {
+      "official": "Tunis",
+      "common": "Tunis"
+    },
+    "hu": {
+      "official": "Tunézia",
+      "common": "Tunézia"
+    },
+    "is": {
+      "official": "Túnis",
+      "common": "Túnis"
+    },
+    "ia": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "id": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "it": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "ja": {
+      "official": "チュニジア",
+      "common": "チュニジア"
+    },
+    "kn": {
+      "official": "ತುನಿಸಿಯ",
+      "common": "ತುನಿಸಿಯ"
+    },
+    "kk": {
+      "official": "Тунис",
+      "common": "Тунис"
+    },
+    "km": {
+      "official": "ទុយណេស៊ី",
+      "common": "ទុយណេស៊ី"
+    },
+    "rw": {
+      "official": "Tunisiya",
+      "common": "Tunisiya"
+    },
+    "ko": {
+      "official": "튀니지",
+      "common": "튀니지"
+    },
+    "ku": {
+      "official": "Tûnis",
+      "common": "Tûnis"
+    },
+    "lv": {
+      "official": "Tunisija",
+      "common": "Tunisija"
+    },
+    "lt": {
+      "official": "Tunisas",
+      "common": "Tunisas"
+    },
+    "mk": {
+      "official": "Тунис",
+      "common": "Тунис"
+    },
+    "ml": {
+      "official": "ടുണീഷ്യ",
+      "common": "ടുണീഷ്യ"
+    },
+    "mi": {
+      "official": "Tūnihia",
+      "common": "Tūnihia"
+    },
+    "mr": {
+      "official": "ट्युनिशिया",
+      "common": "ट्युनिशिया"
+    },
+    "ms": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "mt": {
+      "official": "Russja",
+      "common": "Russja"
+    },
+    "mn": {
+      "official": "Тунгус",
+      "common": "Тунгус"
+    },
+    "ne": {
+      "official": "टुनिसिया",
+      "common": "टुनिसिया"
+    },
+    "nn": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "nb": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "oc": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "or": {
+      "official": "ଟ୍ଯୁନୀଶିୟା",
+      "common": "ଟ୍ଯୁନୀଶିୟା"
+    },
+    "pa": {
+      "official": "ਟਿਊਨੀਸ਼ੀਆ",
+      "common": "ਟਿਊਨੀਸ਼ੀਆ"
+    },
+    "fa": {
+      "official": "تونس",
+      "common": "تونس"
+    },
+    "pl": {
+      "official": "Tunezja",
+      "common": "Tunezja"
+    },
+    "pt": {
+      "official": "Tunísia",
+      "common": "Tunísia"
+    },
+    "ps": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "ro": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "ru": {
+      "official": "Тунис",
+      "common": "Тунис"
+    },
+    "si": {
+      "official": "ටියුනීසියා",
+      "common": "ටියුනීසියා"
+    },
+    "sk": {
+      "official": "Tunisko",
+      "common": "Tunisko"
+    },
+    "sl": {
+      "official": "Tunizija",
+      "common": "Tunizija"
+    },
+    "so": {
+      "official": "Tuniisiya",
+      "common": "Tuniisiya"
+    },
+    "es": {
+      "official": "Tunez",
+      "common": "Tunez"
+    },
+    "sr": {
+      "official": "Тунис",
+      "common": "Тунис"
+    },
+    "sw": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "sv": {
+      "official": "Tunisien",
+      "common": "Tunisien"
+    },
+    "ta": {
+      "official": "துனீசியா",
+      "common": "துனீசியா"
+    },
+    "tt": {
+      "official": "Тунисиа",
+      "common": "Тунисиа"
+    },
+    "te": {
+      "official": "తునిశియా",
+      "common": "తునిశియా"
+    },
+    "tl": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "th": {
+      "official": "ตูนิเซีย",
+      "common": "ตูนิเซีย"
+    },
+    "ti": {
+      "official": "ቱኒዚያ",
+      "common": "ቱኒዚያ"
+    },
+    "tk": {
+      "official": "Tunis",
+      "common": "Tunis"
+    },
+    "tr": {
+      "official": "Tunus",
+      "common": "Tunus"
+    },
+    "ug": {
+      "official": "تۇنىس",
+      "common": "تۇنىس"
+    },
+    "uk": {
+      "official": "Туніс",
+      "common": "Туніс"
+    },
+    "ve": {
+      "official": "Tunisia",
+      "common": "Tunisia"
+    },
+    "vi": {
+      "official": "Tu-ni-xi-a",
+      "common": "Tu-ni-xi-a"
+    },
+    "cy": {
+      "official": "Twnisia",
+      "common": "Twnisia"
+    },
+    "wa": {
+      "official": "Tunizeye",
+      "common": "Tunizeye"
+    },
+    "wo": {
+      "official": "Tiniisi",
+      "common": "Tiniisi"
+    },
+    "xh": {
+      "official": "Rashiya",
+      "common": "Rashiya"
+    },
+    "zu": {
+      "official": "Isi-Rashiya",
+      "common": "Isi-Rashiya"
+    }
+  }
+}

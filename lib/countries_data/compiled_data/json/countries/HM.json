@@ -1,0 +1,427 @@
+{
+  "continent": "Antarctica",
+  "alpha2": "HM",
+  "alpha3": "HMD",
+  "country_code": "",
+  "international_prefix": "",
+  "ioc": null,
+  "gec": "HM",
+  "name": "Heard and McDonald Islands",
+  "national_destination_code_lengths": [
+
+  ],
+  "national_number_lengths": [
+
+  ],
+  "national_prefix": "",
+  "number": "334",
+  "region": "",
+  "subregion": "",
+  "un_locode": "HM",
+  "nationality": "Heard and McDonald Islander",
+  "postal_code": true,
+  "world_region": "APAC",
+  "unofficial_names": [
+    "Heard and McDonald Islands",
+    "Heard und die McDonaldinseln",
+    "ハード島とマクドナルド諸島",
+    "Heard- en McDonaldeilanden",
+    "Heard Island and McDonald Islands"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": -53.08181,
+    "latitude_dec": "-53.080108642578125",
+    "longitude": 73.50415799999999,
+    "longitude_dec": "73.56218719482422",
+    "max_latitude": -52.9618653,
+    "max_longitude": 73.77608339999999,
+    "min_latitude": -53.1915469,
+    "min_longitude": 73.2512402
+  },
+  "currency_code": "AUD",
+  "postal_address_data": {
+    "upper": "CS",
+    "zipex": "7050",
+    "name": "HEARD AND MCDONALD ISLANDS",
+    "zip": "\\d{4}",
+    "fmt": "%O%n%N%n%A%n%C %S %Z",
+    "key": "HM",
+    "id": "data/HM"
+  },
+  "translations": {
+    "af": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "sq": {
+      "official": "Ishulli Heard dhe Ishujt McDonald",
+      "common": "Ishulli Heard dhe Ishujt McDonald"
+    },
+    "am": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "ar": {
+      "official": "جزيرة هيرد وجزر مَكْدونالد",
+      "common": "جزيرة هيرد وجزر مَكْدونالد"
+    },
+    "hy": {
+      "official": "Հերդ և Մակդոնալդ Կղզիներ",
+      "common": "Հերդ և Մակդոնալդ Կղզիներ"
+    },
+    "as": {
+      "official": "হাৰ্ড দ্বীপ আৰু মেকডোনাল্ড দ্বীপপুঞ্জ",
+      "common": "হাৰ্ড দ্বীপ আৰু মেকডোনাল্ড দ্বীপপুঞ্জ"
+    },
+    "az": {
+      "official": "Heard Adası və McDonald Adaları",
+      "common": "Heard Adası və McDonald Adaları"
+    },
+    "eu": {
+      "official": "Heard eta McDonald uharteak",
+      "common": "Heard eta McDonald uharteak"
+    },
+    "be": {
+      "official": "Востраў Херд і Астравы Макдоналд",
+      "common": "Востраў Херд і Астравы Макдоналд"
+    },
+    "bn": {
+      "official": "হার্ড দ্বীপ ও ম্যাকডোনাল্ড দ্বীপপুঞ্জ",
+      "common": "হার্ড দ্বীপ ও ম্যাকডোনাল্ড দ্বীপপুঞ্জ"
+    },
+    "bs": {
+      "official": "Heard Ostrvo i McDonald Ostrva",
+      "common": "Heard Ostrvo i McDonald Ostrva"
+    },
+    "br": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "bg": {
+      "official": "Острови Хърд и МакДоналд",
+      "common": "Острови Хърд и МакДоналд"
+    },
+    "ca": {
+      "official": "Illa Heard i Illes McDonald",
+      "common": "Illa Heard i Illes McDonald"
+    },
+    "zh": {
+      "official": "赫德岛与麦克唐纳群岛",
+      "common": "赫德岛与麦克唐纳群岛"
+    },
+    "cs": {
+      "official": "Heardův a McDonaldovy ostrovy",
+      "common": "Heardův a McDonaldovy ostrovy"
+    },
+    "da": {
+      "official": "Heard-øen og McDonald-øerne",
+      "common": "Heard-øen og McDonald-øerne"
+    },
+    "nl": {
+      "official": "Heardeiland en McDonaldeilanden",
+      "common": "Heardeiland en McDonaldeilanden"
+    },
+    "dz": {
+      "official": "ཧརཌ་མཚོ་གླིང་དང་ཨེམ་སི་ ཌའུན་ལེནཌ་ མཚོ་གལིང།",
+      "common": "ཧརཌ་མཚོ་གླིང་དང་ཨེམ་སི་ ཌའུན་ལེནཌ་ མཚོ་གལིང།"
+    },
+    "en": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "eo": {
+      "official": "Herda kaj Makdonaldaj Insuloj",
+      "common": "Herda kaj Makdonaldaj Insuloj"
+    },
+    "et": {
+      "official": "Heard ja McDonald",
+      "common": "Heard ja McDonald"
+    },
+    "fo": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "fi": {
+      "official": "Heard ja McDonaldinsaaret",
+      "common": "Heard ja McDonaldinsaaret"
+    },
+    "fr": {
+      "official": "Heard, Île et McDonald, Îles",
+      "common": "Heard, Île et McDonald, Îles"
+    },
+    "ka": {
+      "official": "ჰერდის და მაკდონალდის კუნძულები",
+      "common": "ჰერდის და მაკდონალდის კუნძულები"
+    },
+    "de": {
+      "official": "Heard und McDonaldinseln",
+      "common": "Heard und McDonaldinseln"
+    },
+    "ga": {
+      "official": "Oileán Heard agus Oileáin McDonald",
+      "common": "Oileán Heard agus Oileáin McDonald"
+    },
+    "gl": {
+      "official": "Illa Heard e Illas McDonald",
+      "common": "Illa Heard e Illas McDonald"
+    },
+    "el": {
+      "official": "Νήσος Χερντ και Νήσοι ΜακΝτόναλντ",
+      "common": "Νήσος Χερντ και Νήσοι ΜακΝτόναλντ"
+    },
+    "gu": {
+      "official": "હેર્ડ ટાપુઓ અને મેકડોનાલ્ડ ટાપુઓ",
+      "common": "હેર્ડ ટાપુઓ અને મેકડોનાલ્ડ ટાપુઓ"
+    },
+    "he": {
+      "official": "האיים הרד ומקדונלד",
+      "common": "האיים הרד ומקדונלד"
+    },
+    "hi": {
+      "official": "हर्ड आइलैंड एन्ड मैक्डोनाल्ड आइलैंड्स",
+      "common": "हर्ड आइलैंड एन्ड मैक्डोनाल्ड आइलैंड्स"
+    },
+    "hr": {
+      "official": "Otok Heard i McDonaldovi otoci",
+      "common": "Otok Heard i McDonaldovi otoci"
+    },
+    "hu": {
+      "official": "Heard-sziget és McDonald-szigetek",
+      "common": "Heard-sziget és McDonald-szigetek"
+    },
+    "is": {
+      "official": "Heard-eyja og McDonald-eyjur",
+      "common": "Heard-eyja og McDonald-eyjur"
+    },
+    "ia": {
+      "official": "Insula Heard e Insulas McDonald",
+      "common": "Insula Heard e Insulas McDonald"
+    },
+    "id": {
+      "official": "Kepulauan Heard dan Kepulauan McDonald",
+      "common": "Kepulauan Heard dan Kepulauan McDonald"
+    },
+    "it": {
+      "official": "Isole Heard e McDonald",
+      "common": "Isole Heard e McDonald"
+    },
+    "ja": {
+      "official": "ハード島及びマクドナルド諸島",
+      "common": "ハード島及びマクドナルド諸島"
+    },
+    "kn": {
+      "official": "ಹರ್ಡ್ ದ್ವೀಪ ಮತ್ತು ಮೆಕ್ ಡೊನಾಲ್ಡ್ ದ್ವೀಪಗಳು",
+      "common": "ಹರ್ಡ್ ದ್ವೀಪ ಮತ್ತು ಮೆಕ್ ಡೊನಾಲ್ಡ್ ದ್ವೀಪಗಳು"
+    },
+    "kk": {
+      "official": "Хеард пен Макдональд аралдары",
+      "common": "Хеард пен Макдональд аралдары"
+    },
+    "km": {
+      "official": "កោះ​ហ៊ើដ និង កោះ​ម៉ាកដូណាល់",
+      "common": "កោះ​ហ៊ើដ និង កោះ​ម៉ាកដូណាល់"
+    },
+    "rw": {
+      "official": "Icyirwa Hadi n'Ibirwa MakeDonalidi",
+      "common": "Icyirwa Hadi n'Ibirwa MakeDonalidi"
+    },
+    "ko": {
+      "official": "허드 맥도널드 제도",
+      "common": "허드 맥도널드 제도"
+    },
+    "ku": {
+      "official": "Giravên Heard û McDonald",
+      "common": "Giravên Heard û McDonald"
+    },
+    "lv": {
+      "official": "Hērda Sala un Makdonalda Salas",
+      "common": "Hērda Sala un Makdonalda Salas"
+    },
+    "lt": {
+      "official": "Herdo ir Makdonaldo salos",
+      "common": "Herdo ir Makdonaldo salos"
+    },
+    "mk": {
+      "official": "Херд острови и Мекдоналд острови",
+      "common": "Херд острови и Мекдоналд острови"
+    },
+    "ml": {
+      "official": "ഹെര്‍ഡ് ദ്വീപും മക്ഡൊണാള്‍ഡ് ദ്വീപുകളും",
+      "common": "ഹെര്‍ഡ് ദ്വീപും മക്ഡൊണാള്‍ഡ് ദ്വീപുകളും"
+    },
+    "mi": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "mr": {
+      "official": "हर्ड आयलॅंड आणी मॅकडोनाल्ड आयलॅंडस्",
+      "common": "हर्ड आयलॅंड आणी मॅकडोनाल्ड आयलॅंडस्"
+    },
+    "ms": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "mt": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "mn": {
+      "official": "Төв исланд & МКдоналд исланд",
+      "common": "Төв исланд & МКдоналд исланд"
+    },
+    "ne": {
+      "official": "हर्ड टापु र एमसी डोनाल्ड टापु",
+      "common": "हर्ड टापु र एमसी डोनाल्ड टापु"
+    },
+    "nn": {
+      "official": "Heard- og McDonaldøyane",
+      "common": "Heard- og McDonaldøyane"
+    },
+    "nb": {
+      "official": "Heard- og McDonaldøyene",
+      "common": "Heard- og McDonaldøyene"
+    },
+    "oc": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "or": {
+      "official": "ହାର୍ଡ ଦ୍ୱୀପ ଏବଂ ମାକ ଡନାଲ୍ଡ ଦ୍ୱୀପ",
+      "common": "ହାର୍ଡ ଦ୍ୱୀପ ଏବଂ ମାକ ଡନାଲ୍ଡ ଦ୍ୱୀପ"
+    },
+    "pa": {
+      "official": "ਹਾਰਡ ਟਾਪੂ ਅਤੇ ਮੈਕਡਾਨਲਡ ਟਾਪੂ",
+      "common": "ਹਾਰਡ ਟਾਪੂ ਅਤੇ ਮੈਕਡਾਨਲਡ ਟਾਪੂ"
+    },
+    "fa": {
+      "official": "جزیرهٔ هرد و جزایر مک‌دونالد",
+      "common": "جزیرهٔ هرد و جزایر مک‌دونالد"
+    },
+    "pl": {
+      "official": "Wyspa Heard i McDonalda",
+      "common": "Wyspa Heard i McDonalda"
+    },
+    "pt": {
+      "official": "Ilha Heard e Ilhas McDonald",
+      "common": "Ilha Heard e Ilhas McDonald"
+    },
+    "ps": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "ro": {
+      "official": "Insulele Heard și McDonald",
+      "common": "Insulele Heard și McDonald"
+    },
+    "ru": {
+      "official": "Остров Херд и острова МакДональд",
+      "common": "Остров Херд и острова МакДональд"
+    },
+    "si": {
+      "official": "හර්ඩ් හා මැක්ඩොනල්ඩ් දූපත්",
+      "common": "හර්ඩ් හා මැක්ඩොනල්ඩ් දූපත්"
+    },
+    "sk": {
+      "official": "Heardov ostrov",
+      "common": "Heardov ostrov"
+    },
+    "sl": {
+      "official": "Otoki Heard in McDonald",
+      "common": "Otoki Heard in McDonald"
+    },
+    "so": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "es": {
+      "official": "Islas Heard e Islas McDonald",
+      "common": "Islas Heard e Islas McDonald"
+    },
+    "sr": {
+      "official": "Острво Херд и острва Мекдоналд",
+      "common": "Острво Херд и острва Мекдоналд"
+    },
+    "sw": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "sv": {
+      "official": "Heardön och McDonaldöarna",
+      "common": "Heardön och McDonaldöarna"
+    },
+    "ta": {
+      "official": "ஹெர்ட் தீவு மற்றும் மெக் டொனால்ட் தீவுகள்",
+      "common": "ஹெர்ட் தீவு மற்றும் மெக் டொனால்ட் தீவுகள்"
+    },
+    "tt": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "te": {
+      "official": "హర్డ ఐలాండ్ మరియు మెక్‌డోనాల్డ్ ఐలాండ్స్",
+      "common": "హర్డ ఐలాండ్ మరియు మెక్‌డోనాల్డ్ ఐలాండ్స్"
+    },
+    "tl": {
+      "official": "Heard Island at McDonald Islands",
+      "common": "Heard Island at McDonald Islands"
+    },
+    "th": {
+      "official": "เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์",
+      "common": "เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์"
+    },
+    "ti": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "tk": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "tr": {
+      "official": "Heard Adası ve McDonald Adaları",
+      "common": "Heard Adası ve McDonald Adaları"
+    },
+    "ug": {
+      "official": "خېرد ئارىلى ۋە ماك-دونالد ئارىلى",
+      "common": "خېرد ئارىلى ۋە ماك-دونالد ئارىلى"
+    },
+    "uk": {
+      "official": "Острови Херд і Мак-Дональд",
+      "common": "Острови Херд і Мак-Дональд"
+    },
+    "ve": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "vi": {
+      "official": "Đảo He-ợ-đợ và Quần Đảo Mợc-đo-nậ-đợ",
+      "common": "Đảo He-ợ-đợ và Quần Đảo Mợc-đo-nậ-đợ"
+    },
+    "cy": {
+      "official": "Ynys Heard ac Ynysoedd McDonald",
+      "common": "Ynys Heard ac Ynysoedd McDonald"
+    },
+    "wa": {
+      "official": "Iyeas Heard et McDonald",
+      "common": "Iyeas Heard et McDonald"
+    },
+    "wo": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "xh": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    },
+    "zu": {
+      "official": "Heard Island and McDonald Islands",
+      "common": "Heard Island and McDonald Islands"
+    }
+  }
+}

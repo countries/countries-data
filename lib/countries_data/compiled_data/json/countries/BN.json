@@ -1,0 +1,434 @@
+{
+  "continent": "Asia",
+  "alpha2": "BN",
+  "alpha3": "BRN",
+  "country_code": "673",
+  "international_prefix": "00",
+  "ioc": "BRU",
+  "gec": "BX",
+  "name": "Brunei Darussalam",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7
+  ],
+  "national_prefix": "0",
+  "number": "096",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "world_region": "APAC",
+  "un_locode": "BN",
+  "nationality": "Bruneian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Brunei",
+    "ブルネイ・ダルサラーム"
+  ],
+  "languages_official": [
+    "ms"
+  ],
+  "languages_spoken": [
+    "ms"
+  ],
+  "geo": {
+    "latitude": 4.535277,
+    "latitude_dec": "4.5703840255737305",
+    "longitude": 114.727669,
+    "longitude_dec": "114.74818420410156",
+    "max_latitude": 5.0460363,
+    "max_longitude": 115.3639551,
+    "min_latitude": 4.002460999999999,
+    "min_longitude": 114.0752979,
+    "bounds": {
+      "northeast": {
+        "lat": 5.0460363,
+        "lng": 115.3639551
+      },
+      "southwest": {
+        "lat": 4.002460999999999,
+        "lng": 114.0752979
+      }
+    }
+  },
+  "currency_code": "BND",
+  "postal_address_data": {
+    "key": "BN",
+    "zipex": "BT2328,KA1131,BA1511",
+    "name": "BRUNEI DARUSSALAM",
+    "zip": "[A-Z]{2} ?\\d{4}",
+    "fmt": "%N%n%O%n%A%n%C %Z",
+    "posturl": "http://www.post.gov.bn/index.php/extensions/postcode-guide",
+    "id": "data/BN"
+  },
+  "translations": {
+    "af": {
+      "official": "Broenei",
+      "common": "Broenei"
+    },
+    "sq": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "am": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "ar": {
+      "official": "بروناي دار السّلام",
+      "common": "بروناي دار السّلام"
+    },
+    "hy": {
+      "official": "Բրունեյ",
+      "common": "Բրունեյ"
+    },
+    "as": {
+      "official": "ব্ইচ্‌লামিকুনেই ডাৰুছালাম",
+      "common": "ব্ইচ্‌লামিকুনেই ডাৰুছালাম"
+    },
+    "az": {
+      "official": "Bruney Darüssəlam",
+      "common": "Bruney Darüssəlam"
+    },
+    "eu": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "be": {
+      "official": "Бруней-Дарусалам",
+      "common": "Бруней-Дарусалам"
+    },
+    "bn": {
+      "official": "ব্রুনেই দারুসলাম",
+      "common": "ব্রুনেই দারুসলাম"
+    },
+    "bs": {
+      "official": "Bruneji",
+      "common": "Bruneji"
+    },
+    "br": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "bg": {
+      "official": "Бруней",
+      "common": "Бруней"
+    },
+    "ca": {
+      "official": "Brunei (Negara Brunei Darussalam)",
+      "common": "Brunei (Negara Brunei Darussalam)"
+    },
+    "zh": {
+      "official": "文莱",
+      "common": "文莱"
+    },
+    "cs": {
+      "official": "Brunej",
+      "common": "Brunej"
+    },
+    "da": {
+      "official": "Brunei",
+      "common": "Brunei"
+    },
+    "nl": {
+      "official": "Brunei",
+      "common": "Brunei"
+    },
+    "dz": {
+      "official": "བུ་རུ་ན་ཡེ་ ད་རུ་ས་ལམ།",
+      "common": "བུ་རུ་ན་ཡེ་ ད་རུ་ས་ལམ།"
+    },
+    "en": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "eo": {
+      "official": "Brunejo",
+      "common": "Brunejo"
+    },
+    "et": {
+      "official": "Brunei Darussalami Riik",
+      "common": "Brunei Darussalami Riik"
+    },
+    "fo": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "fi": {
+      "official": "Brunei Darussalamin valtio",
+      "common": "Brunei Darussalamin valtio"
+    },
+    "fr": {
+      "official": "Brunéi Darussalam",
+      "common": "Brunéi Darussalam"
+    },
+    "ka": {
+      "official": "ბრუნეი დარუსალამი",
+      "common": "ბრუნეი დარუსალამი"
+    },
+    "de": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "ga": {
+      "official": "Brúiné Dárasalám",
+      "common": "Brúiné Dárasalám"
+    },
+    "gl": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "el": {
+      "official": "Μπρουνέι Νταρουσαλάμ",
+      "common": "Μπρουνέι Νταρουσαλάμ"
+    },
+    "gu": {
+      "official": "બ્રુનેઇ દારુસલેમ",
+      "common": "બ્રુનેઇ દારુસલેમ"
+    },
+    "he": {
+      "official": "ברונאי דרוסלאלם",
+      "common": "ברונאי דרוסלאלם"
+    },
+    "hi": {
+      "official": "ब्रुनेई दरउस्सलाम",
+      "common": "ब्रुनेई दरउस्सलाम"
+    },
+    "hr": {
+      "official": "Brunej Darussalam",
+      "common": "Brunej Darussalam"
+    },
+    "hu": {
+      "official": "Brunei Darussalam Állam",
+      "common": "Brunei Darussalam Állam"
+    },
+    "is": {
+      "official": "Brúnei Darussalam",
+      "common": "Brúnei Darussalam"
+    },
+    "ia": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "id": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "it": {
+      "official": "Brunei",
+      "common": "Brunei"
+    },
+    "ja": {
+      "official": "ブルネイ・ダルサラーム国",
+      "common": "ブルネイ・ダルサラーム国"
+    },
+    "kn": {
+      "official": "ಬ್ರೂನೈ ದಾರುಸ್ಸಲಾಂ",
+      "common": "ಬ್ರೂನೈ ದಾರುಸ್ಸಲಾಂ"
+    },
+    "kk": {
+      "official": "Бруней",
+      "common": "Бруней"
+    },
+    "km": {
+      "official": "ប្រ៊ុយណេ​ដារុយសាឡឹម",
+      "common": "ប្រ៊ុយណេ​ដារុយសាឡឹម"
+    },
+    "rw": {
+      "official": "Buruneyi Darisalamu",
+      "common": "Buruneyi Darisalamu"
+    },
+    "ko": {
+      "official": "브루나이 다루살람",
+      "common": "브루나이 다루살람"
+    },
+    "ku": {
+      "official": "Brûney Darûssalam",
+      "common": "Brûney Darûssalam"
+    },
+    "lv": {
+      "official": "Brunejas Darusalamas Valsts",
+      "common": "Brunejas Darusalamas Valsts"
+    },
+    "lt": {
+      "official": "Brunėjaus Darusalamas",
+      "common": "Brunėjaus Darusalamas"
+    },
+    "mk": {
+      "official": "Брунеи Дарусалам",
+      "common": "Брунеи Дарусалам"
+    },
+    "ml": {
+      "official": "ബ്രൂണെയ് ദാറുസ്സലാം",
+      "common": "ബ്രൂണെയ് ദാറുസ്സലാം"
+    },
+    "mi": {
+      "official": "Poronai",
+      "common": "Poronai"
+    },
+    "mr": {
+      "official": "ब्रुनोइ दारुसलाम",
+      "common": "ब्रुनोइ दारुसलाम"
+    },
+    "ms": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "mt": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "mn": {
+      "official": "Брунейн вант улс",
+      "common": "Брунейн вант улс"
+    },
+    "ne": {
+      "official": "ब्रुनाई दारुसलाम",
+      "common": "ब्रुनाई दारुसलाम"
+    },
+    "nn": {
+      "official": "Brunei",
+      "common": "Brunei"
+    },
+    "nb": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "oc": {
+      "official": "Sultanat de Brunei",
+      "common": "Sultanat de Brunei"
+    },
+    "or": {
+      "official": "ବ୍ରୁନେଈ ଦାଋସାଲମ",
+      "common": "ବ୍ରୁନେଈ ଦାଋସାଲମ"
+    },
+    "pa": {
+      "official": "ਬਰੂਨਈ ਡਾਰੂਸ਼ਲਾਮ",
+      "common": "ਬਰੂਨਈ ਡਾਰੂਸ਼ਲਾਮ"
+    },
+    "fa": {
+      "official": "برونئی دارالسلام",
+      "common": "برونئی دارالسلام"
+    },
+    "pl": {
+      "official": "Państwo Brunei",
+      "common": "Państwo Brunei"
+    },
+    "pt": {
+      "official": "Brunei",
+      "common": "Brunei"
+    },
+    "ps": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "ro": {
+      "official": "Brunei",
+      "common": "Brunei"
+    },
+    "ru": {
+      "official": "Бруней Даруссалам",
+      "common": "Бруней Даруссалам"
+    },
+    "si": {
+      "official": "බෲනායි දරුසලම්",
+      "common": "බෲනායි දරුසලම්"
+    },
+    "sk": {
+      "official": "Brunejsko-darussalamský štát",
+      "common": "Brunejsko-darussalamský štát"
+    },
+    "sl": {
+      "official": "Brunej",
+      "common": "Brunej"
+    },
+    "so": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "es": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "sr": {
+      "official": "Султанат Брунеји",
+      "common": "Султанат Брунеји"
+    },
+    "sw": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "sv": {
+      "official": "Brunei",
+      "common": "Brunei"
+    },
+    "ta": {
+      "official": "ப்ரூனே தருசலம்",
+      "common": "ப்ரூனே தருசலம்"
+    },
+    "tt": {
+      "official": "Брунеи Даруссалам",
+      "common": "Брунеи Даруссалам"
+    },
+    "te": {
+      "official": "బ్రునోఇ దారుసలామ",
+      "common": "బ్రునోఇ దారుసలామ"
+    },
+    "tl": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "th": {
+      "official": "บรูไนดารุสซาลาม",
+      "common": "บรูไนดารุสซาลาม"
+    },
+    "ti": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "tk": {
+      "official": "Bruneý Darussalam",
+      "common": "Bruneý Darussalam"
+    },
+    "tr": {
+      "official": "Brunei Krallığı",
+      "common": "Brunei Krallığı"
+    },
+    "ug": {
+      "official": "بىرۇنېي دارېسسالام",
+      "common": "بىرۇنېي دارېسسالام"
+    },
+    "uk": {
+      "official": "Бруней",
+      "common": "Бруней"
+    },
+    "ve": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "vi": {
+      "official": "Bợru-này Đa-ru-xa-làm",
+      "common": "Bợru-này Đa-ru-xa-làm"
+    },
+    "cy": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "wa": {
+      "official": "Bruney",
+      "common": "Bruney"
+    },
+    "wo": {
+      "official": "Brunaay Daarussalaam",
+      "common": "Brunaay Daarussalaam"
+    },
+    "xh": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    },
+    "zu": {
+      "official": "Brunei Darussalam",
+      "common": "Brunei Darussalam"
+    }
+  }
+}

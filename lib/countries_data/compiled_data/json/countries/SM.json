@@ -1,0 +1,439 @@
+{
+  "continent": "Europe",
+  "alpha2": "SM",
+  "alpha3": "SMR",
+  "country_code": "378",
+  "international_prefix": "00",
+  "ioc": "SMR",
+  "gec": "SM",
+  "name": "San Marino",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "national_prefix": "None",
+  "number": "674",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "world_region": "EMEA",
+  "un_locode": "SM",
+  "nationality": "Sammarinese",
+  "postal_code": true,
+  "unofficial_names": [
+    "San Marino",
+    "Saint-Marin",
+    "サンマリノ"
+  ],
+  "languages_official": [
+    "it"
+  ],
+  "languages_spoken": [
+    "it"
+  ],
+  "geo": {
+    "latitude": 43.94236,
+    "latitude_dec": "43.938133239746094",
+    "longitude": 12.457777,
+    "longitude_dec": "12.463393211364746",
+    "max_latitude": 43.992075,
+    "max_longitude": 12.5167041,
+    "min_latitude": 43.8936809,
+    "min_longitude": 12.4034823,
+    "bounds": {
+      "northeast": {
+        "lat": 43.992075,
+        "lng": 12.5167041
+      },
+      "southwest": {
+        "lat": 43.8936809,
+        "lng": 12.4034823
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "key": "SM",
+    "zipex": "47890,47891,47895,47899",
+    "name": "SAN MARINO",
+    "zip": "4789\\d",
+    "require": "AZ",
+    "id": "data/SM",
+    "posturl": "http://www.poste.it/online/cercacap/",
+    "fmt": "%N%n%O%n%A%n%Z %C"
+  },
+  "translations": {
+    "af": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "sq": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "am": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "ar": {
+      "official": "سان مارينو",
+      "common": "سان مارينو"
+    },
+    "hy": {
+      "official": "Սան Մարինո",
+      "common": "Սան Մարինո"
+    },
+    "as": {
+      "official": "চান মাৰিনো",
+      "common": "চান মাৰিনো"
+    },
+    "az": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "eu": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "be": {
+      "official": "Сам-Марына",
+      "common": "Сам-Марына"
+    },
+    "bn": {
+      "official": "সান মারিনো",
+      "common": "সান মারিনো"
+    },
+    "bs": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "br": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "bg": {
+      "official": "Сан Марино",
+      "common": "Сан Марино"
+    },
+    "ca": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "zh": {
+      "official": "圣马力诺",
+      "common": "圣马力诺"
+    },
+    "cs": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "da": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "nl": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "dz": {
+      "official": "སེན་ མེ་རི་ནོ།",
+      "common": "སེན་ མེ་རི་ནོ།"
+    },
+    "en": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "eo": {
+      "official": "San-Marino",
+      "common": "San-Marino"
+    },
+    "et": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "fo": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "fi": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "fr": {
+      "official": "San Marin",
+      "common": "San Marin"
+    },
+    "ka": {
+      "official": "სან-მარინო",
+      "common": "სან-მარინო"
+    },
+    "de": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "ga": {
+      "official": "San Mairíne",
+      "common": "San Mairíne"
+    },
+    "gl": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "el": {
+      "official": "Άγιος Μαρίνος",
+      "common": "Άγιος Μαρίνος"
+    },
+    "gu": {
+      "official": "સાન મરિનો",
+      "common": "સાન મરિનો"
+    },
+    "he": {
+      "official": "סאן מרינו",
+      "common": "סאן מרינו"
+    },
+    "hi": {
+      "official": "सैन मरीनो",
+      "common": "सैन मरीनो"
+    },
+    "hr": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "hu": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "is": {
+      "official": "San Marínó",
+      "common": "San Marínó"
+    },
+    "ia": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "id": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "it": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "ja": {
+      "official": "サンマリノ",
+      "common": "サンマリノ"
+    },
+    "kn": {
+      "official": "ಸ್ಯಾನ್ ಮಾರಿನೋ",
+      "common": "ಸ್ಯಾನ್ ಮಾರಿನೋ"
+    },
+    "kk": {
+      "official": "Сан-Марино",
+      "common": "Сан-Марино"
+    },
+    "km": {
+      "official": "សាន់ម៉ារីណូ",
+      "common": "សាន់ម៉ារីណូ"
+    },
+    "rw": {
+      "official": "Mutagatifu Marino",
+      "common": "Mutagatifu Marino"
+    },
+    "ko": {
+      "official": "산마리노",
+      "common": "산마리노"
+    },
+    "ku": {
+      "official": "San Marîno",
+      "common": "San Marîno"
+    },
+    "lv": {
+      "official": "Sanmarīno",
+      "common": "Sanmarīno"
+    },
+    "lt": {
+      "official": "San Marinas",
+      "common": "San Marinas"
+    },
+    "mk": {
+      "official": "Сан Марино",
+      "common": "Сан Марино"
+    },
+    "ml": {
+      "official": "സന്‍ മരിനോ",
+      "common": "സന്‍ മരിനോ"
+    },
+    "mi": {
+      "official": "Hato Marino",
+      "common": "Hato Marino"
+    },
+    "mr": {
+      "official": "सॅन मेरिनो",
+      "common": "सॅन मेरिनो"
+    },
+    "ms": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "mt": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "mn": {
+      "official": "Сан марино",
+      "common": "Сан марино"
+    },
+    "ne": {
+      "official": "सान मारिनो",
+      "common": "सान मारिनो"
+    },
+    "nn": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "nb": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "oc": {
+      "official": "Panama",
+      "common": "Panama"
+    },
+    "or": {
+      "official": "ସେନ ମେରୀନୋ",
+      "common": "ସେନ ମେରୀନୋ"
+    },
+    "pa": {
+      "official": "ਸਾਨ ਮਾਰੀਨੂ",
+      "common": "ਸਾਨ ਮਾਰੀਨੂ"
+    },
+    "fa": {
+      "official": "سان مارینو",
+      "common": "سان مارینو"
+    },
+    "pl": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "pt": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "ps": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "ro": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "ru": {
+      "official": "Сан-Марино",
+      "common": "Сан-Марино"
+    },
+    "si": {
+      "official": "ශාන්ත මැරිනෝ",
+      "common": "ශාන්ත මැරිනෝ"
+    },
+    "sk": {
+      "official": "San Maríno",
+      "common": "San Maríno"
+    },
+    "sl": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "so": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "es": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "sr": {
+      "official": "Сан Марино",
+      "common": "Сан Марино"
+    },
+    "sw": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "sv": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "ta": {
+      "official": "சான் மரீனோ",
+      "common": "சான் மரீனோ"
+    },
+    "tt": {
+      "official": "Сан Марино",
+      "common": "Сан Марино"
+    },
+    "te": {
+      "official": "సాన్ మేరినో",
+      "common": "సాన్ మేరినో"
+    },
+    "tl": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "th": {
+      "official": "ซานมารีโน",
+      "common": "ซานมารีโน"
+    },
+    "ti": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "tk": {
+      "official": "San-Marino",
+      "common": "San-Marino"
+    },
+    "tr": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "ug": {
+      "official": "سان-مارىنو",
+      "common": "سان-مارىنو"
+    },
+    "uk": {
+      "official": "Сан-Марино",
+      "common": "Сан-Марино"
+    },
+    "ve": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "vi": {
+      "official": "Xan Ma-ri-nô",
+      "common": "Xan Ma-ri-nô"
+    },
+    "cy": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "wa": {
+      "official": "Sint Marin",
+      "common": "Sint Marin"
+    },
+    "wo": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "xh": {
+      "official": "San Marino",
+      "common": "San Marino"
+    },
+    "zu": {
+      "official": "San Marino",
+      "common": "San Marino"
+    }
+  }
+}

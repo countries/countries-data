@@ -1,0 +1,437 @@
+{
+  "continent": "South America",
+  "alpha2": "BO",
+  "alpha3": "BOL",
+  "country_code": "591",
+  "international_prefix": "0010",
+  "ioc": "BOL",
+  "gec": "BL",
+  "name": "Bolivia",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "010",
+  "number": "068",
+  "region": "Americas",
+  "subregion": "South America",
+  "world_region": "AMER",
+  "un_locode": "BO",
+  "nationality": "Bolivian",
+  "postal_code": false,
+  "unofficial_names": [
+    "Bolivia",
+    "Bolivien",
+    "Bolivie",
+    "ボリビア多民族国"
+  ],
+  "languages_official": [
+    "es",
+    "ay",
+    "qu"
+  ],
+  "languages_spoken": [
+    "es",
+    "ay",
+    "qu"
+  ],
+  "geo": {
+    "latitude": -16.290154,
+    "latitude_dec": "-16.713054656982422",
+    "longitude": -63.58865299999999,
+    "longitude_dec": "-64.6666488647461",
+    "max_latitude": -9.669323,
+    "max_longitude": -57.453803,
+    "min_latitude": -22.8980899,
+    "min_longitude": -69.64498999999999,
+    "bounds": {
+      "northeast": {
+        "lat": -9.669323,
+        "lng": -57.453803
+      },
+      "southwest": {
+        "lat": -22.8980899,
+        "lng": -69.64498999999999
+      }
+    }
+  },
+  "currency_code": "BOB",
+  "postal_address_data": {
+    "upper": "AC",
+    "id": "data/BO",
+    "key": "BO",
+    "name": "BOLIVIA"
+  },
+  "translations": {
+    "af": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "sq": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "am": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "ar": {
+      "official": "جمهورية بوليفيا",
+      "common": "جمهورية بوليفيا"
+    },
+    "hy": {
+      "official": "Բոլիվիա, Պառլամենտական Պետություն",
+      "common": "Բոլիվիա, Պառլամենտական Պետություն"
+    },
+    "as": {
+      "official": "বোলিভিয়া, প্লুৰিনেছনেল ৰাষ্ট্ৰ",
+      "common": "বোলিভিয়া, প্লুৰিনেছনেল ৰাষ্ট্ৰ"
+    },
+    "az": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "eu": {
+      "official": "Bolivia, Nazio-anitzeko Estatua",
+      "common": "Bolivia, Nazio-anitzeko Estatua"
+    },
+    "be": {
+      "official": "Балівія, Шматнацыянальная Дзяржава",
+      "common": "Балівія, Шматнацыянальная Дзяржава"
+    },
+    "bn": {
+      "official": "বোলিভিয়া, প্লুরিনেশন্যাল রাষ্ট্র",
+      "common": "বোলিভিয়া, প্লুরিনেশন্যাল রাষ্ট্র"
+    },
+    "bs": {
+      "official": "Bolivija, Plurinacionalna država",
+      "common": "Bolivija, Plurinacionalna država"
+    },
+    "br": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "bg": {
+      "official": "Боливия, Многонационална държава",
+      "common": "Боливия, Многонационална държава"
+    },
+    "ca": {
+      "official": "Bolívia, Estat Plurinacional de",
+      "common": "Bolívia, Estat Plurinacional de"
+    },
+    "zh": {
+      "official": "玻利维亚共和国",
+      "common": "玻利维亚共和国"
+    },
+    "cs": {
+      "official": "Mnohonárodní stát Bolívie",
+      "common": "Mnohonárodní stát Bolívie"
+    },
+    "da": {
+      "official": "Bolivia, Den Plurinationale Stat",
+      "common": "Bolivia, Den Plurinationale Stat"
+    },
+    "nl": {
+      "official": "Bolivia, Multinationale Staat",
+      "common": "Bolivia, Multinationale Staat"
+    },
+    "dz": {
+      "official": "བོ་ལི་ཝ་ཡ་ པུ་ལུ་རི་ནེ་ཤཱ་ནལ་མངའ་སྡེ་",
+      "common": "བོ་ལི་ཝ་ཡ་ པུ་ལུ་རི་ནེ་ཤཱ་ནལ་མངའ་སྡེ་"
+    },
+    "en": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "eo": {
+      "official": "Bolivio, Plurnacia Ŝtato",
+      "common": "Bolivio, Plurnacia Ŝtato"
+    },
+    "et": {
+      "official": "Boliivia Paljurahvuseline Riik",
+      "common": "Boliivia Paljurahvuseline Riik"
+    },
+    "fo": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "fi": {
+      "official": "Bolivia, monikansallinen valtio",
+      "common": "Bolivia, monikansallinen valtio"
+    },
+    "fr": {
+      "official": "Bolivie, état plurinational de",
+      "common": "Bolivie, état plurinational de"
+    },
+    "ka": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "de": {
+      "official": "Bolivien, Plurinationaler Staat",
+      "common": "Bolivien, Plurinationaler Staat"
+    },
+    "ga": {
+      "official": "An Bholaiv, Stát Ilnáisiúnta",
+      "common": "An Bholaiv, Stát Ilnáisiúnta"
+    },
+    "gl": {
+      "official": "Bolivia, Estado Plurinacional da",
+      "common": "Bolivia, Estado Plurinacional da"
+    },
+    "el": {
+      "official": "Βολιβία, Πολυεθνική Πολιτεία της",
+      "common": "Βολιβία, Πολυεθνική Πολιτεία της"
+    },
+    "gu": {
+      "official": "બોલિવિઆ, પ્લુરિનશ્નલ રાજ્ય",
+      "common": "બોલિવિઆ, પ્લુરિનશ્નલ રાજ્ય"
+    },
+    "he": {
+      "official": "בוליביה, המדינה הרב לאומית של",
+      "common": "בוליביה, המדינה הרב לאומית של"
+    },
+    "hi": {
+      "official": "बोलिविया, प्लॊरिनेशनल स्टेट ऑफ़",
+      "common": "बोलिविया, प्लॊरिनेशनल स्टेट ऑफ़"
+    },
+    "hr": {
+      "official": "Plurinacionalna Država Bolivija",
+      "common": "Plurinacionalna Država Bolivija"
+    },
+    "hu": {
+      "official": "Bolívia",
+      "common": "Bolívia"
+    },
+    "is": {
+      "official": "Bólivía, fjölþjóðaríkið",
+      "common": "Bólivía, fjölþjóðaríkið"
+    },
+    "ia": {
+      "official": "Bolivia, Stato Plurinational de",
+      "common": "Bolivia, Stato Plurinational de"
+    },
+    "id": {
+      "official": "Bolivia, Negara Plurinasional",
+      "common": "Bolivia, Negara Plurinasional"
+    },
+    "it": {
+      "official": "Bolivia, Stato Plurinazionale",
+      "common": "Bolivia, Stato Plurinazionale"
+    },
+    "ja": {
+      "official": "ボリビア多民族国",
+      "common": "ボリビア多民族国"
+    },
+    "kn": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "kk": {
+      "official": "Боливия, көпұлттық мемлекеті",
+      "common": "Боливия, көпұлттық мемлекеті"
+    },
+    "km": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "rw": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "ko": {
+      "official": "볼리비아 다국가 연합국",
+      "common": "볼리비아 다국가 연합국"
+    },
+    "ku": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "lv": {
+      "official": "Bolīvija, Daudznacionālā Valsts",
+      "common": "Bolīvija, Daudznacionālā Valsts"
+    },
+    "lt": {
+      "official": "Bolivijos Daugiatautė Valstybė",
+      "common": "Bolivijos Daugiatautė Valstybė"
+    },
+    "mk": {
+      "official": "Плуринационална држава Боливија",
+      "common": "Плуринационална држава Боливија"
+    },
+    "ml": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "mi": {
+      "official": "Poriwia",
+      "common": "Poriwia"
+    },
+    "mr": {
+      "official": "बोलिविआ, प्लुरिनश्नल राज्य",
+      "common": "बोलिविआ, प्लुरिनश्नल राज्य"
+    },
+    "ms": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "mt": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "mn": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "ne": {
+      "official": "बोलिभिया,बहुराष्ट्र्ीय राज्य",
+      "common": "बोलिभिया,बहुराष्ट्र्ीय राज्य"
+    },
+    "nn": {
+      "official": "Bolivia",
+      "common": "Bolivia"
+    },
+    "nb": {
+      "official": "Bolivia, den flernasjonale stat",
+      "common": "Bolivia, den flernasjonale stat"
+    },
+    "oc": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "or": {
+      "official": "ବୋଲିଭିଆ, ପ୍ଲୁରିନେସଲଲାନ ରାଜ୍ଯ",
+      "common": "ବୋଲିଭିଆ, ପ୍ଲୁରିନେସଲଲାନ ରାଜ୍ଯ"
+    },
+    "pa": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "fa": {
+      "official": "بولیویا، چند ایالتی",
+      "common": "بولیویا، چند ایالتی"
+    },
+    "pl": {
+      "official": "Boliwia - Wielonarodowe Państwo",
+      "common": "Boliwia - Wielonarodowe Państwo"
+    },
+    "pt": {
+      "official": "Bolívia, Estado Plurinacional da",
+      "common": "Bolívia, Estado Plurinacional da"
+    },
+    "ps": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "ro": {
+      "official": "Bolivia",
+      "common": "Bolivia"
+    },
+    "ru": {
+      "official": "Боливия",
+      "common": "Боливия"
+    },
+    "si": {
+      "official": "බොලීවියා බහුජාතීය රාජ්‍යය",
+      "common": "බොලීවියා බහුජාතීය රාජ්‍යය"
+    },
+    "sk": {
+      "official": "Bolívijská republika",
+      "common": "Bolívijská republika"
+    },
+    "sl": {
+      "official": "Bolivija, plurinacionalna država",
+      "common": "Bolivija, plurinacionalna država"
+    },
+    "so": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "es": {
+      "official": "Bolivia, Estado plurinacional de",
+      "common": "Bolivia, Estado plurinacional de"
+    },
+    "sr": {
+      "official": "Боливија, Вишенационална Држава",
+      "common": "Боливија, Вишенационална Држава"
+    },
+    "sw": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "sv": {
+      "official": "Bolivia, Mångnationella staten",
+      "common": "Bolivia, Mångnationella staten"
+    },
+    "ta": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "tt": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "te": {
+      "official": "బోలివిఆ, ప్లురినేషనల్ స్టేట్ ఆఫ్",
+      "common": "బోలివిఆ, ప్లురినేషనల్ స్టేట్ ఆఫ్"
+    },
+    "tl": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "th": {
+      "official": "โบลิเวีย, รัฐพหุชาติ",
+      "common": "โบลิเวีย, รัฐพหุชาติ"
+    },
+    "ti": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "tk": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "tr": {
+      "official": "Bolivya Çokuluslu Devleti",
+      "common": "Bolivya Çokuluslu Devleti"
+    },
+    "ug": {
+      "official": "بولىۋىيە كۆپ مىللەتلىك دۆلەت",
+      "common": "بولىۋىيە كۆپ مىللەتلىك دۆلەت"
+    },
+    "uk": {
+      "official": "Болівія",
+      "common": "Болівія"
+    },
+    "ve": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "vi": {
+      "official": "Bô-li-vi-a, Quốc gia Đa Dân tộc",
+      "common": "Bô-li-vi-a, Quốc gia Đa Dân tộc"
+    },
+    "cy": {
+      "official": "Bolifia, Gwladwriaeth Amlgenedlaethol",
+      "common": "Bolifia, Gwladwriaeth Amlgenedlaethol"
+    },
+    "wa": {
+      "official": "Boliveye, Estat plurinåcionå di",
+      "common": "Boliveye, Estat plurinåcionå di"
+    },
+    "wo": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "xh": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    },
+    "zu": {
+      "official": "Bolivia, Plurinational State of",
+      "common": "Bolivia, Plurinational State of"
+    }
+  }
+}

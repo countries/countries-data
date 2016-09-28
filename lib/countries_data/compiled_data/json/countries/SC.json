@@ -1,0 +1,436 @@
+{
+  "continent": "Africa",
+  "alpha2": "SC",
+  "alpha3": "SYC",
+  "country_code": "248",
+  "international_prefix": "00",
+  "ioc": "SEY",
+  "gec": "SE",
+  "name": "Seychelles",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    6
+  ],
+  "national_prefix": "None",
+  "number": "690",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "world_region": "EMEA",
+  "un_locode": "SC",
+  "nationality": "Seychellois",
+  "postal_code": false,
+  "unofficial_names": [
+    "Seychelles",
+    "Seychellen",
+    "セーシェル"
+  ],
+  "languages_official": [
+    "fr",
+    "en"
+  ],
+  "languages_spoken": [
+    "fr",
+    "en"
+  ],
+  "geo": {
+    "latitude": -4.679574,
+    "latitude_dec": "-4.669795036315918",
+    "longitude": 55.491977,
+    "longitude_dec": "55.47166061401367",
+    "max_latitude": -4.2098394,
+    "max_longitude": 56.2942939,
+    "min_latitude": -10.2270014,
+    "min_longitude": 46.20329659999999,
+    "bounds": {
+      "northeast": {
+        "lat": -4.2098394,
+        "lng": 56.2942939
+      },
+      "southwest": {
+        "lat": -10.2270014,
+        "lng": 46.20329659999999
+      }
+    }
+  },
+  "currency_code": "SCR",
+  "postal_address_data": {
+    "upper": "S",
+    "name": "SEYCHELLES",
+    "fmt": "%N%n%O%n%A%n%C%n%S",
+    "state_name_type": "island",
+    "key": "SC",
+    "id": "data/SC"
+  },
+  "translations": {
+    "af": {
+      "official": "Seychelle",
+      "common": "Seychelle"
+    },
+    "sq": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "am": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "ar": {
+      "official": "السّيشل",
+      "common": "السّيشل"
+    },
+    "hy": {
+      "official": "Սեյշելներ",
+      "common": "Սեյշելներ"
+    },
+    "as": {
+      "official": "ছেয়চেলছ",
+      "common": "ছেয়চেলছ"
+    },
+    "az": {
+      "official": "Seyşel",
+      "common": "Seyşel"
+    },
+    "eu": {
+      "official": "Seychelleak",
+      "common": "Seychelleak"
+    },
+    "be": {
+      "official": "Сейшэльскія Астравы",
+      "common": "Сейшэльскія Астравы"
+    },
+    "bn": {
+      "official": "সেশেলস",
+      "common": "সেশেলস"
+    },
+    "bs": {
+      "official": "Sejšelsko otočje",
+      "common": "Sejšelsko otočje"
+    },
+    "br": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "bg": {
+      "official": "Сейшели",
+      "common": "Сейшели"
+    },
+    "ca": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "zh": {
+      "official": "塞舌尔",
+      "common": "塞舌尔"
+    },
+    "cs": {
+      "official": "Seychely",
+      "common": "Seychely"
+    },
+    "da": {
+      "official": "Seychellerne",
+      "common": "Seychellerne"
+    },
+    "nl": {
+      "official": "Seychellen",
+      "common": "Seychellen"
+    },
+    "dz": {
+      "official": "སི་ཅི་ལེསི།",
+      "common": "སི་ཅི་ལེསི།"
+    },
+    "en": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "eo": {
+      "official": "Sejŝeloj",
+      "common": "Sejŝeloj"
+    },
+    "et": {
+      "official": "Seišellid",
+      "common": "Seišellid"
+    },
+    "fo": {
+      "official": "Seyskelloyggjarnar",
+      "common": "Seyskelloyggjarnar"
+    },
+    "fi": {
+      "official": "Seychellit",
+      "common": "Seychellit"
+    },
+    "fr": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "ka": {
+      "official": "სეიშელის კუნძულები",
+      "common": "სეიშელის კუნძულები"
+    },
+    "de": {
+      "official": "Seychellen",
+      "common": "Seychellen"
+    },
+    "ga": {
+      "official": "Na Séiséil",
+      "common": "Na Séiséil"
+    },
+    "gl": {
+      "official": "Seichelles",
+      "common": "Seichelles"
+    },
+    "el": {
+      "official": "Σεϋχέλλες",
+      "common": "Σεϋχέλλες"
+    },
+    "gu": {
+      "official": "સેશેલ્સ",
+      "common": "સેશેલ્સ"
+    },
+    "he": {
+      "official": "איי סיישל",
+      "common": "איי סיישל"
+    },
+    "hi": {
+      "official": "सेशेल्स",
+      "common": "सेशेल्स"
+    },
+    "hr": {
+      "official": "Sejšeli",
+      "common": "Sejšeli"
+    },
+    "hu": {
+      "official": "Seychelles-szigetek",
+      "common": "Seychelles-szigetek"
+    },
+    "is": {
+      "official": "Seychelles-eyjar",
+      "common": "Seychelles-eyjar"
+    },
+    "ia": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "id": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "it": {
+      "official": "Seicelle",
+      "common": "Seicelle"
+    },
+    "ja": {
+      "official": "セーシェル",
+      "common": "セーシェル"
+    },
+    "kn": {
+      "official": "ಸೇಷಲ್ಸ್",
+      "common": "ಸೇಷಲ್ಸ್"
+    },
+    "kk": {
+      "official": "Сейшел аралдары",
+      "common": "Сейшел аралдары"
+    },
+    "km": {
+      "official": "សីស្ហែល",
+      "common": "សីស្ហែល"
+    },
+    "rw": {
+      "official": "Seyishele",
+      "common": "Seyishele"
+    },
+    "ko": {
+      "official": "세이셸",
+      "common": "세이셸"
+    },
+    "ku": {
+      "official": "Seyselan",
+      "common": "Seyselan"
+    },
+    "lv": {
+      "official": "Seišelas",
+      "common": "Seišelas"
+    },
+    "lt": {
+      "official": "Seišeliai",
+      "common": "Seišeliai"
+    },
+    "mk": {
+      "official": "Сејшели",
+      "common": "Сејшели"
+    },
+    "ml": {
+      "official": "സെയ്ഷെല്‍സ്",
+      "common": "സെയ്ഷെല്‍സ്"
+    },
+    "mi": {
+      "official": "Hehiri",
+      "common": "Hehiri"
+    },
+    "mr": {
+      "official": "सेशेल्स",
+      "common": "सेशेल्स"
+    },
+    "ms": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "mt": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "mn": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "ne": {
+      "official": "सिचेल्लिस",
+      "common": "सिचेल्लिस"
+    },
+    "nn": {
+      "official": "Seychellane",
+      "common": "Seychellane"
+    },
+    "nb": {
+      "official": "Seychellene",
+      "common": "Seychellene"
+    },
+    "oc": {
+      "official": "Seichèlas",
+      "common": "Seichèlas"
+    },
+    "or": {
+      "official": "ସେଶେଲସ୍",
+      "common": "ସେଶେଲସ୍"
+    },
+    "pa": {
+      "official": "ਸੀਆਚਿਲਸ",
+      "common": "ਸੀਆਚਿਲਸ"
+    },
+    "fa": {
+      "official": "سیشل",
+      "common": "سیشل"
+    },
+    "pl": {
+      "official": "Seszele",
+      "common": "Seszele"
+    },
+    "pt": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "ps": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "ro": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "ru": {
+      "official": "Сейшельские Острова",
+      "common": "Сейшельские Острова"
+    },
+    "si": {
+      "official": "සීශෙල්ස්",
+      "common": "සීශෙල්ස්"
+    },
+    "sk": {
+      "official": "Seychely",
+      "common": "Seychely"
+    },
+    "sl": {
+      "official": "Sejšeli",
+      "common": "Sejšeli"
+    },
+    "so": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "es": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "sr": {
+      "official": "Сејшели",
+      "common": "Сејшели"
+    },
+    "sw": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "sv": {
+      "official": "Seychellerna",
+      "common": "Seychellerna"
+    },
+    "ta": {
+      "official": "சீசெல்சு",
+      "common": "சீசெல்சு"
+    },
+    "tt": {
+      "official": "Сейшелләр",
+      "common": "Сейшелләр"
+    },
+    "te": {
+      "official": "సేశేల్స్",
+      "common": "సేశేల్స్"
+    },
+    "tl": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "th": {
+      "official": "เซเชลส์",
+      "common": "เซเชลส์"
+    },
+    "ti": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "tk": {
+      "official": "Seýşel Adalary",
+      "common": "Seýşel Adalary"
+    },
+    "tr": {
+      "official": "Seyşeller",
+      "common": "Seyşeller"
+    },
+    "ug": {
+      "official": "سېيشېل",
+      "common": "سېيشېل"
+    },
+    "uk": {
+      "official": "Сейшели",
+      "common": "Сейшели"
+    },
+    "ve": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "vi": {
+      "official": "Xây-sen",
+      "common": "Xây-sen"
+    },
+    "cy": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "wa": {
+      "official": "Seycheles",
+      "common": "Seycheles"
+    },
+    "wo": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "xh": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    },
+    "zu": {
+      "official": "Seychelles",
+      "common": "Seychelles"
+    }
+  }
+}

@@ -1,0 +1,351 @@
+---
+continent: Asia
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{city}} {{region_short}} {{postalcode}}
+  {{country}}
+alpha2: TW
+alpha3: TWN
+country_code: '886'
+international_prefix: '002'
+ioc: TPE
+gec: TW
+name: Taiwan, Republic Of China
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+- 8
+national_prefix: None
+number: '158'
+region: Asia
+subregion: Eastern Asia
+world_region: APAC
+un_locode: TW
+nationality: Taiwanese
+postal_code: true
+unofficial_names:
+- Taiwan
+- Taiwán
+- 台湾
+languages_official:
+- zh
+languages_spoken:
+- zh
+geo:
+  latitude: 23.69781
+  latitude_dec: '23.685789108276367'
+  longitude: 120.960515
+  longitude_dec: '120.89749145507812'
+  max_latitude: 26.3836884
+  max_longitude: 123.4934282
+  min_latitude: 20.5862202
+  min_longitude: 116.7146015
+  bounds:
+    northeast:
+      lat: 26.3836884
+      lng: 123.4934282
+    southwest:
+      lat: 20.5862202
+      lng: 116.7146015
+currency_code: TWD
+postal_address_data:
+  lang: zh-hant
+  key: TW
+  sub_zipexs: 400,408:411,439~100,119~950,966~700,745~260,272~970,983~890,896~540,558~900,947~350,369~320,338~800,815:817,852~200,206~209,212~630,655~207,208:220,253~~302,315~~602,625~500,530~880,885
+  sub_lnames: Taichung City~Taipei City~Taitung County~Tainan City~Yilan County~Hualien
+    County~Kinmen County~Nantou County~Pingtung County~Miaoli County~Taoyuan City~Kaohsiung
+    City~Keelung City~Lienchiang County~Yunlin County~New Taipei City~Hsinchu City~Hsinchu
+    County~Chiayi City~Chiayi County~Changhua County~Penghu County
+  name: TAIWAN
+  zip: "\\d{3}(?:\\d{2})?"
+  sub_mores: true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true
+  require: ACSZ
+  state_name_type: county
+  id: data/TW
+  languages: zh-hant
+  lfmt: "%N%n%O%n%A%n%C, %S %Z"
+  zipex: '104,106,10603,40867'
+  sub_keys: 台中市~台北市~台東縣~台南市~宜蘭縣~花蓮縣~金門縣~南投縣~屏東縣~苗栗縣~桃園市~高雄市~基隆市~連江縣~雲林縣~新北市~新竹市~新竹縣~嘉義市~嘉義縣~彰化縣~澎湖縣
+  posturl: http://www.post.gov.tw/post/internet/f_searchzone/index.jsp?ID=190102
+  sub_isoids: TXG~TPE~TTT~TNN~ILA~HUA~~NAN~PIF~MIA~TAO~KHH~KEE~~YUN~TPQ~HSZ~HSQ~CYI~CYQ~CHA~PEN
+  fmt: "%Z%n%S%C%n%A%n%O%n%N"
+  sub_zips: 4[0-3]~1[01]~9[56]~7[0-4]~2[67]~9[78]~89~5[45]~9[0-4]~3[56]~3[23]~8[02-5]|81[1-579]~20[0-6]~209|21[012]~6[3-5]~20[78]|2[2345]~300~30[2-8]|31~600~60[1-9]|6[12]~5[0123]~88
+translations:
+  af:
+    official: Taiwan
+    common: Taiwan
+  sq:
+    official: Tajvani
+    common: Tajvani
+  am:
+    official: ታ፤ሒን፥
+    common: ታ፤ሒን፥
+  ar:
+    official: تايوان
+    common: تايوان
+  hy:
+    official: Թայվան
+    common: Թայվան
+  as:
+    official: তাইৱান
+    common: তাইৱান
+  az:
+    official: Tayvan
+    common: Tayvan
+  eu:
+    official: Taiwan
+    common: Taiwan
+  be:
+    official: Тайвань
+    common: Тайвань
+  bn:
+    official: তাইওয়ান
+    common: তাইওয়ান
+  bs:
+    official: Tajvan
+    common: Tajvan
+  br:
+    official: Taiwan
+    common: Taiwan
+  bg:
+    official: Тайван
+    common: Тайван
+  ca:
+    official: Taiwan
+    common: Taiwan
+  zh:
+    official: 台湾
+    common: 台湾
+  cs:
+    official: Tchaj-wan
+    common: Tchaj-wan
+  da:
+    official: Taiwan
+    common: Taiwan
+  nl:
+    official: Taiwan
+    common: Taiwan
+  dz:
+    official: ཏ་ཡེ་ཝཱན།
+    common: ཏ་ཡེ་ཝཱན།
+  en:
+    official: Taiwan
+    common: Taiwan
+  eo:
+    official: Tajvano
+    common: Tajvano
+  et:
+    official: Taiwan
+    common: Taiwan
+  fo:
+    official: Teivan
+    common: Teivan
+  fi:
+    official: Taiwan
+    common: Taiwan
+  fr:
+    official: Taïwan
+    common: Taïwan
+  ka:
+    official: ტაივანი
+    common: ტაივანი
+  de:
+    official: Taiwan
+    common: Taiwan
+  ga:
+    official: An Téaváin
+    common: An Téaváin
+  gl:
+    official: Taiwán
+    common: Taiwán
+  el:
+    official: Ταϊβάν
+    common: Ταϊβάν
+  gu:
+    official: તાઇવાન
+    common: તાઇવાન
+  he:
+    official: טיוואן
+    common: טיוואן
+  hi:
+    official: ताइवान
+    common: ताइवान
+  hr:
+    official: Tajvan
+    common: Tajvan
+  hu:
+    official: Tajvan
+    common: Tajvan
+  is:
+    official: Tævan
+    common: Tævan
+  ia:
+    official: Taiwan
+    common: Taiwan
+  id:
+    official: Taiwan
+    common: Taiwan
+  it:
+    official: Taiwan
+    common: Taiwan
+  ja:
+    official: 台湾
+    common: 台湾
+  kn:
+    official: ಟೈವಾನ್
+    common: ಟೈವಾನ್
+  kk:
+    official: Тайвань аралы
+    common: Тайвань аралы
+  km:
+    official: តៃវ៉ាន់
+    common: តៃវ៉ាន់
+  rw:
+    official: Tayiwani
+    common: Tayiwani
+  ko:
+    official: 타이완
+    common: 타이완
+  ku:
+    official: Taywan
+    common: Taywan
+  lv:
+    official: Taivāna
+    common: Taivāna
+  lt:
+    official: Taivanas
+    common: Taivanas
+  mk:
+    official: Тајван
+    common: Тајван
+  ml:
+    official: തായ്‌വാന്‍
+    common: തായ്‌വാന്‍
+  mi:
+    official: Taiwana
+    common: Taiwana
+  mr:
+    official: तैवान
+    common: तैवान
+  ms:
+    official: Taiwan
+    common: Taiwan
+  mt:
+    official: Tajwan
+    common: Tajwan
+  mn:
+    official: Тайван
+    common: Тайван
+  ne:
+    official: ताइवान
+    common: ताइवान
+  nn:
+    official: Taiwan
+    common: Taiwan
+  nb:
+    official: Taiwan
+    common: Taiwan
+  oc:
+    official: Taiwan
+    common: Taiwan
+  or:
+    official: ତାଇଓ୍ବାନ
+    common: ତାଇଓ୍ବାନ
+  pa:
+    official: ਤਾਈਵਾਨ
+    common: ਤਾਈਵਾਨ
+  fa:
+    official: تایوان
+    common: تایوان
+  pl:
+    official: Tajwan
+    common: Tajwan
+  pt:
+    official: Taiwan
+    common: Taiwan
+  ps:
+    official: Taiwan
+    common: Taiwan
+  ro:
+    official: Taiwan
+    common: Taiwan
+  ru:
+    official: Тайвань
+    common: Тайвань
+  si:
+    official: තායිවානය
+    common: තායිවානය
+  sk:
+    official: Taiwan
+    common: Taiwan
+  sl:
+    official: Tajvan
+    common: Tajvan
+  so:
+    official: Taylaand
+    common: Taylaand
+  es:
+    official: Taiwán
+    common: Taiwán
+  sr:
+    official: Тајван
+    common: Тајван
+  sw:
+    official: Taiwan
+    common: Taiwan
+  sv:
+    official: Taiwan
+    common: Taiwan
+  ta:
+    official: தாய்வான்
+    common: தாய்வான்
+  tt:
+    official: Тайван
+    common: Тайван
+  te:
+    official: తైవాన్
+    common: తైవాన్
+  tl:
+    official: Taiwan
+    common: Taiwan
+  th:
+    official: ไต้หวัน
+    common: ไต้หวัน
+  ti:
+    official: Taiwan
+    common: Taiwan
+  tk:
+    official: Taýwan
+    common: Taýwan
+  tr:
+    official: Tayvan
+    common: Tayvan
+  ug:
+    official: تەيۋەن
+    common: تەيۋەن
+  uk:
+    official: Тайвань
+    common: Тайвань
+  ve:
+    official: Taiwan
+    common: Taiwan
+  vi:
+    official: Đài Loan
+    common: Đài Loan
+  cy:
+    official: Taiwan
+    common: Taiwan
+  wa:
+    official: Taiwan
+    common: Taiwan
+  wo:
+    official: Taaywaan
+    common: Taaywaan
+  xh:
+    official: Taiwan
+    common: Taiwan
+  zu:
+    official: I-Tayiwani
+    common: I-Tayiwani

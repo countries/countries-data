@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: Afganistāna
+    common: Afganistāna
+  AX:
+    official: Olande
+    common: Olande
+  AL:
+    official: Albānija
+    common: Albānija
+  DZ:
+    official: Alžīrija
+    common: Alžīrija
+  AS:
+    official: Amerikāņu Samoa
+    common: Amerikāņu Samoa
+  AD:
+    official: Andora
+    common: Andora
+  AO:
+    official: Angola
+    common: Angola
+  AI:
+    official: Angilja
+    common: Angilja
+  AQ:
+    official: Antarktika
+    common: Antarktika
+  AG:
+    official: Antigva un Barbuda
+    common: Antigva un Barbuda
+  AR:
+    official: Argentīna
+    common: Argentīna
+  AM:
+    official: Armēnija
+    common: Armēnija
+  AW:
+    official: Aruba
+    common: Aruba
+  AU:
+    official: Austrālija
+    common: Austrālija
+  AT:
+    official: Austrija
+    common: Austrija
+  AZ:
+    official: Azerbaidžāna
+    common: Azerbaidžāna
+  BS:
+    official: Bahamas
+    common: Bahamas
+  BH:
+    official: Bahreina
+    common: Bahreina
+  BD:
+    official: Bangladeša
+    common: Bangladeša
+  BB:
+    official: Barbadosa
+    common: Barbadosa
+  BY:
+    official: Baltkrievija
+    common: Baltkrievija
+  BE:
+    official: Beļģija
+    common: Beļģija
+  BZ:
+    official: Beliza
+    common: Beliza
+  BJ:
+    official: Benina
+    common: Benina
+  BM:
+    official: Bermunda
+    common: Bermunda
+  BT:
+    official: Butāna
+    common: Butāna
+  BO:
+    official: Bolīvija, Daudznacionālā Valsts
+    common: Bolīvija, Daudznacionālā Valsts
+  BQ:
+    official: Bonaire, Sintēstatiusa un Saba
+    common: Bonaire, Sintēstatiusa un Saba
+  BA:
+    official: Bosnija un Hercegovina
+    common: Bosnija un Hercegovina
+  BW:
+    official: Botsvana
+    common: Botsvana
+  BV:
+    official: Buvē Sala
+    common: Buvē Sala
+  BR:
+    official: Brazīlija
+    common: Brazīlija
+  IO:
+    official: Indijas Okeāna Britu teritorija
+    common: Indijas Okeāna Britu teritorija
+  BN:
+    official: Brunejas Darusalamas Valsts
+    common: Brunejas Darusalamas Valsts
+  BG:
+    official: Bulgārija
+    common: Bulgārija
+  BF:
+    official: Burkinafaso
+    common: Burkinafaso
+  BI:
+    official: Burundi
+    common: Burundi
+  KH:
+    official: Kambodža
+    common: Kambodža
+  CM:
+    official: Kamerūna
+    common: Kamerūna
+  CA:
+    official: Kanāda
+    common: Kanāda
+  CV:
+    official: Kaboverde
+    common: Kaboverde
+  KY:
+    official: Kaimanu salas
+    common: Kaimanu salas
+  CF:
+    official: Centrālāfrikas Republika
+    common: Centrālāfrikas Republika
+  TD:
+    official: Čada
+    common: Čada
+  CL:
+    official: Čīle
+    common: Čīle
+  CN:
+    official: Ķīna
+    common: Ķīna
+  CX:
+    official: Ziemsvētku sala
+    common: Ziemsvētku sala
+  CC:
+    official: Kokosu (Kīlinga) salas
+    common: Kokosu (Kīlinga) salas
+  CO:
+    official: Kolumbija
+    common: Kolumbija
+  KM:
+    official: Komoras
+    common: Komoras
+  CG:
+    official: Kongo
+    common: Kongo
+  CD:
+    official: Kongo Demokrātiskā Republika
+    common: Kongo Demokrātiskā Republika
+  CK:
+    official: Kuka salas
+    common: Kuka salas
+  CR:
+    official: Kostarika
+    common: Kostarika
+  CI:
+    official: Kotdivuāra
+    common: Kotdivuāra
+  HR:
+    official: Horvātija
+    common: Horvātija
+  CU:
+    official: Kuba
+    common: Kuba
+  CW:
+    official: Kirasao
+    common: Kirasao
+  CY:
+    official: Kipra
+    common: Kipra
+  CZ:
+    official: Čehijas Republika
+    common: Čehijas Republika
+  DK:
+    official: Dānija
+    common: Dānija
+  DJ:
+    official: Džibutija
+    common: Džibutija
+  DM:
+    official: Dominika
+    common: Dominika
+  DO:
+    official: Dominikānas Republika
+    common: Dominikānas Republika
+  EC:
+    official: Ekvadora
+    common: Ekvadora
+  EG:
+    official: Ēģipte
+    common: Ēģipte
+  SV:
+    official: Salvadora
+    common: Salvadora
+  GQ:
+    official: Ekvatoriālā Gvineja
+    common: Ekvatoriālā Gvineja
+  ER:
+    official: Eritreja
+    common: Eritreja
+  EE:
+    official: Igaunija
+    common: Igaunija
+  ET:
+    official: Etiopija
+    common: Etiopija
+  FK:
+    official: Folklenda (Malvinu) salas
+    common: Folklenda (Malvinu) salas
+  FO:
+    official: Fēru salas
+    common: Fēru salas
+  FJ:
+    official: Fidži
+    common: Fidži
+  FI:
+    official: Somija
+    common: Somija
+  FR:
+    official: Francija
+    common: Francija
+  GF:
+    official: Gviāna
+    common: Gviāna
+  PF:
+    official: Franču Polinēzija
+    common: Franču Polinēzija
+  TF:
+    official: Francijas Dienvidjūru Zemes
+    common: Francijas Dienvidjūru Zemes
+  GA:
+    official: Gabona
+    common: Gabona
+  GM:
+    official: Gambija
+    common: Gambija
+  GE:
+    official: Gruzija
+    common: Gruzija
+  DE:
+    official: Vācija
+    common: Vācija
+  GH:
+    official: Gana
+    common: Gana
+  GI:
+    official: Gibraltārs
+    common: Gibraltārs
+  GR:
+    official: Grieķija
+    common: Grieķija
+  GL:
+    official: Grenlande
+    common: Grenlande
+  GD:
+    official: Grenāda
+    common: Grenāda
+  GP:
+    official: Gvadelupa
+    common: Gvadelupa
+  GU:
+    official: Guama
+    common: Guama
+  GT:
+    official: Gvatemala
+    common: Gvatemala
+  GG:
+    official: Gērnsija
+    common: Gērnsija
+  GN:
+    official: Gvineja
+    common: Gvineja
+  GW:
+    official: Gvineja-Bisava
+    common: Gvineja-Bisava
+  GY:
+    official: Gajāna
+    common: Gajāna
+  HT:
+    official: Haiti
+    common: Haiti
+  HM:
+    official: Hērda Sala un Makdonalda Salas
+    common: Hērda Sala un Makdonalda Salas
+  VA:
+    official: Vatikāna Pilsētvalsts
+    common: Vatikāna Pilsētvalsts
+  HN:
+    official: Hondurasa
+    common: Hondurasa
+  HK:
+    official: Honkonga
+    common: Honkonga
+  HU:
+    official: Ungārija
+    common: Ungārija
+  IS:
+    official: Islande
+    common: Islande
+  IN:
+    official: Indija
+    common: Indija
+  ID:
+    official: Indonēzija
+    common: Indonēzija
+  IR:
+    official: Irāna
+    common: Irāna
+  IQ:
+    official: Irāka
+    common: Irāka
+  IE:
+    official: Īrija
+    common: Īrija
+  IM:
+    official: Menas sala
+    common: Menas sala
+  IL:
+    official: Izraēla
+    common: Izraēla
+  IT:
+    official: Itālija
+    common: Itālija
+  JM:
+    official: Jamaika
+    common: Jamaika
+  JP:
+    official: Japāna
+    common: Japāna
+  JE:
+    official: Džersija
+    common: Džersija
+  JO:
+    official: Jordānija
+    common: Jordānija
+  KZ:
+    official: Kazahstāna
+    common: Kazahstāna
+  KE:
+    official: Kenija
+    common: Kenija
+  KI:
+    official: Kiribati
+    common: Kiribati
+  KP:
+    official: Ziemeļkoreja
+    common: Ziemeļkoreja
+  KR:
+    official: Dienvidkoreja
+    common: Dienvidkoreja
+  KW:
+    official: Kuveita
+    common: Kuveita
+  KG:
+    official: Kirgizstāna
+    common: Kirgizstāna
+  LA:
+    official: Laosa
+    common: Laosa
+  LV:
+    official: Latvija
+    common: Latvija
+  LB:
+    official: Libāna
+    common: Libāna
+  LS:
+    official: Lesoto
+    common: Lesoto
+  LR:
+    official: Libērija
+    common: Libērija
+  LY:
+    official: Lībija
+    common: Lībija
+  LI:
+    official: Lihtenšteina
+    common: Lihtenšteina
+  LT:
+    official: Lietuva
+    common: Lietuva
+  LU:
+    official: Luksemburga
+    common: Luksemburga
+  MO:
+    official: Makao
+    common: Makao
+  MK:
+    official: Maķedonija
+    common: Maķedonija
+  MG:
+    official: Madagaskara
+    common: Madagaskara
+  MW:
+    official: Malāvija
+    common: Malāvija
+  MY:
+    official: Malaizija
+    common: Malaizija
+  MV:
+    official: Maldīvija
+    common: Maldīvija
+  ML:
+    official: Mali
+    common: Mali
+  MT:
+    official: Malta
+    common: Malta
+  MH:
+    official: Māršala salas
+    common: Māršala salas
+  MQ:
+    official: Martinika
+    common: Martinika
+  MR:
+    official: Mauritānija
+    common: Mauritānija
+  MU:
+    official: Maurīcija
+    common: Maurīcija
+  YT:
+    official: Majota
+    common: Majota
+  MX:
+    official: Meksika
+    common: Meksika
+  FM:
+    official: Mikronēzijas
+    common: Mikronēzijas
+  MD:
+    official: Moldova
+    common: Moldova
+  MC:
+    official: Monako
+    common: Monako
+  MN:
+    official: Mongolija
+    common: Mongolija
+  ME:
+    official: Melnkalne
+    common: Melnkalne
+  MS:
+    official: Montserrata
+    common: Montserrata
+  MA:
+    official: Maroka
+    common: Maroka
+  MZ:
+    official: Mozambika
+    common: Mozambika
+  MM:
+    official: Mjanma
+    common: Mjanma
+  NA:
+    official: Namībija
+    common: Namībija
+  NR:
+    official: Nauru
+    common: Nauru
+  NP:
+    official: Nepāla
+    common: Nepāla
+  NL:
+    official: Nīderlande
+    common: Nīderlande
+  NC:
+    official: Jaunkaledonija
+    common: Jaunkaledonija
+  NZ:
+    official: Jaunzēlande
+    common: Jaunzēlande
+  NI:
+    official: Nikaragva
+    common: Nikaragva
+  NE:
+    official: Nigēra
+    common: Nigēra
+  NG:
+    official: Nigērija
+    common: Nigērija
+  NU:
+    official: Niue
+    common: Niue
+  NF:
+    official: Norfolkas Sala
+    common: Norfolkas Sala
+  MP:
+    official: Ziemeļu Marianas Salas
+    common: Ziemeļu Marianas Salas
+  'NO':
+    official: Norvēģija
+    common: Norvēģija
+  OM:
+    official: Omāna
+    common: Omāna
+  PK:
+    official: Pakistāna
+    common: Pakistāna
+  PW:
+    official: Palau
+    common: Palau
+  PS:
+    official: Palestīnas valsts
+    common: Palestīnas valsts
+  PA:
+    official: Panama
+    common: Panama
+  PG:
+    official: Papua-Jaungvineja
+    common: Papua-Jaungvineja
+  PY:
+    official: Paragvaja
+    common: Paragvaja
+  PE:
+    official: Peru
+    common: Peru
+  PH:
+    official: Filipīnas
+    common: Filipīnas
+  PN:
+    official: Pitkērna
+    common: Pitkērna
+  PL:
+    official: Polija
+    common: Polija
+  PT:
+    official: Portugāle
+    common: Portugāle
+  PR:
+    official: Puertoriko
+    common: Puertoriko
+  QA:
+    official: Katara
+    common: Katara
+  RE:
+    official: Reinjona
+    common: Reinjona
+  RO:
+    official: Rumānija
+    common: Rumānija
+  RU:
+    official: Krievijas Federācija
+    common: Krievijas Federācija
+  RW:
+    official: Ruanda
+    common: Ruanda
+  BL:
+    official: Senbartelmī
+    common: Senbartelmī
+  SH:
+    official: Svētās Helēnas Sala un Piederīgās Teritorijas
+    common: Svētās Helēnas Sala un Piederīgās Teritorijas
+  KN:
+    official: Sentkitsa un Nevisa
+    common: Sentkitsa un Nevisa
+  LC:
+    official: Sentlūsija
+    common: Sentlūsija
+  MF:
+    official: Senmartēna
+    common: Senmartēna
+  PM:
+    official: Senpjēra un Mikelona
+    common: Senpjēra un Mikelona
+  VC:
+    official: Sentvinsenta un Grenadīnas
+    common: Sentvinsenta un Grenadīnas
+  WS:
+    official: Samoa
+    common: Samoa
+  SM:
+    official: Sanmarīno
+    common: Sanmarīno
+  ST:
+    official: Santome un Prinsipi
+    common: Santome un Prinsipi
+  SA:
+    official: Saūda Arābija
+    common: Saūda Arābija
+  SN:
+    official: Senegāla
+    common: Senegāla
+  RS:
+    official: Serbija
+    common: Serbija
+  SC:
+    official: Seišelas
+    common: Seišelas
+  SL:
+    official: Sjerraleone
+    common: Sjerraleone
+  SG:
+    official: Singapūra
+    common: Singapūra
+  SX:
+    official: Sintmārtena (Nīderlandes daļa)
+    common: Sintmārtena (Nīderlandes daļa)
+  SK:
+    official: Slovākija
+    common: Slovākija
+  SI:
+    official: Slovēnija
+    common: Slovēnija
+  SB:
+    official: Zālamana salas
+    common: Zālamana salas
+  SO:
+    official: Somālija
+    common: Somālija
+  ZA:
+    official: Dienvidāfrika
+    common: Dienvidāfrika
+  GS:
+    official: Indijas Okeāna Britu Teritorija
+    common: Indijas Okeāna Britu Teritorija
+  ES:
+    official: Spānija
+    common: Spānija
+  LK:
+    official: Šrilanka
+    common: Šrilanka
+  SD:
+    official: Sudāna
+    common: Sudāna
+  SR:
+    official: Surinama
+    common: Surinama
+  SS:
+    official: Dienvidsudāna
+    common: Dienvidsudāna
+  SJ:
+    official: Svalbāra
+    common: Svalbāra
+  SZ:
+    official: Svazilenda
+    common: Svazilenda
+  SE:
+    official: Zviedrija
+    common: Zviedrija
+  CH:
+    official: Šveice
+    common: Šveice
+  SY:
+    official: Sīrija
+    common: Sīrija
+  TW:
+    official: Taivāna
+    common: Taivāna
+  TJ:
+    official: Tadžikistāna
+    common: Tadžikistāna
+  TZ:
+    official: Tanzānija
+    common: Tanzānija
+  TH:
+    official: Taizeme
+    common: Taizeme
+  TL:
+    official: Austrumtimora
+    common: Austrumtimora
+  TG:
+    official: Togo
+    common: Togo
+  TK:
+    official: Tokelau
+    common: Tokelau
+  TO:
+    official: Tonga
+    common: Tonga
+  TT:
+    official: Trinidāda un Tobāgo
+    common: Trinidāda un Tobāgo
+  TN:
+    official: Tunisija
+    common: Tunisija
+  TR:
+    official: Turcija
+    common: Turcija
+  TM:
+    official: Turkmenistāna
+    common: Turkmenistāna
+  TC:
+    official: Tērksu un Kaikosu salas
+    common: Tērksu un Kaikosu salas
+  TV:
+    official: Tuvalu
+    common: Tuvalu
+  UG:
+    official: Uganda
+    common: Uganda
+  UA:
+    official: Ukraina
+    common: Ukraina
+  AE:
+    official: Apvienotie Arābu Emirāti
+    common: Apvienotie Arābu Emirāti
+  GB:
+    official: Lielbritānija
+    common: Lielbritānija
+  US:
+    official: Amerikas Savienotās Valstis
+    common: Amerikas Savienotās Valstis
+  UM:
+    official: ASV Mazās Aizjūras Salas
+    common: ASV Mazās Aizjūras Salas
+  UY:
+    official: Urugvaja
+    common: Urugvaja
+  UZ:
+    official: Uzbekistāna
+    common: Uzbekistāna
+  VU:
+    official: Vanuatu
+    common: Vanuatu
+  VE:
+    official: Venecuēla
+    common: Venecuēla
+  VN:
+    official: Vjetnama
+    common: Vjetnama
+  VG:
+    official: Virdžīnas Salas, Britu
+    common: Virdžīnas Salas, Britu
+  VI:
+    official: ASV Virdžīnas
+    common: ASV Virdžīnas
+  WF:
+    official: Volisa un Futuna
+    common: Volisa un Futuna
+  EH:
+    official: Rietumsahāra
+    common: Rietumsahāra
+  YE:
+    official: Jemena
+    common: Jemena
+  ZM:
+    official: Zambija
+    common: Zambija
+  ZW:
+    official: Zimbabve
+    common: Zimbabve

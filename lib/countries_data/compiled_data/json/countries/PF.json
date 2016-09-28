@@ -1,0 +1,440 @@
+{
+  "continent": "Australia",
+  "alpha2": "PF",
+  "alpha3": "PYF",
+  "country_code": "689",
+  "international_prefix": "00",
+  "ioc": null,
+  "gec": "FP",
+  "name": "French Polynesia",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    6
+  ],
+  "national_prefix": "None",
+  "number": "258",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "world_region": "APAC",
+  "un_locode": "PF",
+  "nationality": "French Polynesian",
+  "postal_code": true,
+  "unofficial_names": [
+    "French Polynesia",
+    "Französisch-Polynesien",
+    "Polynésie Française",
+    "Polinesia Francesa",
+    "フランス領ポリネシア",
+    "Frans-Polynesië"
+  ],
+  "languages_official": [
+    "fr"
+  ],
+  "languages_spoken": [
+    "fr"
+  ],
+  "geo": {
+    "latitude": -17.679742,
+    "latitude_dec": "-17.648122787475586",
+    "longitude": -149.406843,
+    "longitude_dec": "-149.4647216796875",
+    "max_latitude": -7.8955619,
+    "max_longitude": -138.6091324,
+    "min_latitude": -23.9062408,
+    "min_longitude": -153.9919066,
+    "bounds": {
+      "northeast": {
+        "lat": -7.8955619,
+        "lng": -138.6091324
+      },
+      "southwest": {
+        "lat": -23.9062408,
+        "lng": -153.9919066
+      }
+    }
+  },
+  "currency_code": "XPF",
+  "postal_address_data": {
+    "upper": "CS",
+    "zipex": "98709",
+    "name": "FRENCH POLYNESIA",
+    "zip": "987\\d{2}",
+    "require": "ACSZ",
+    "state_name_type": "island",
+    "id": "data/PF",
+    "key": "PF",
+    "fmt": "%N%n%O%n%A%n%Z %C %S"
+  },
+  "translations": {
+    "af": {
+      "official": "French Polynesia",
+      "common": "French Polynesia"
+    },
+    "sq": {
+      "official": "Polinezia Franceze",
+      "common": "Polinezia Franceze"
+    },
+    "am": {
+      "official": "ፘፈረንሳ፤ ፖሑኔፒ።",
+      "common": "ፘፈረንሳ፤ ፖሑኔፒ።"
+    },
+    "ar": {
+      "official": "بولينيسيا الفرنسيّة",
+      "common": "بولينيسيا الفرنسيّة"
+    },
+    "hy": {
+      "official": "Ֆրանսիական Պոլինեզիա",
+      "common": "Ֆրանսիական Պոլինեզիա"
+    },
+    "as": {
+      "official": "ফ্ৰেঞ্চ পলিনেছিয়া",
+      "common": "ফ্ৰেঞ্চ পলিনেছিয়া"
+    },
+    "az": {
+      "official": "Fransız Poloneziyası",
+      "common": "Fransız Poloneziyası"
+    },
+    "eu": {
+      "official": "Frantziar Polinesia",
+      "common": "Frantziar Polinesia"
+    },
+    "be": {
+      "official": "Французская Палінезія",
+      "common": "Французская Палінезія"
+    },
+    "bn": {
+      "official": "ফ্রেঞ্চ পলিনেশিয়া",
+      "common": "ফ্রেঞ্চ পলিনেশিয়া"
+    },
+    "bs": {
+      "official": "Francuska Polinezija",
+      "common": "Francuska Polinezija"
+    },
+    "br": {
+      "official": "French Polynesia",
+      "common": "French Polynesia"
+    },
+    "bg": {
+      "official": "Френска Полинезия",
+      "common": "Френска Полинезия"
+    },
+    "ca": {
+      "official": "Polinèsia francesa",
+      "common": "Polinèsia francesa"
+    },
+    "zh": {
+      "official": "法属玻利尼西亚",
+      "common": "法属玻利尼西亚"
+    },
+    "cs": {
+      "official": "Francouzská Polynésie",
+      "common": "Francouzská Polynésie"
+    },
+    "da": {
+      "official": "Fransk Polynesien",
+      "common": "Fransk Polynesien"
+    },
+    "nl": {
+      "official": "Frans-Polynesië",
+      "common": "Frans-Polynesië"
+    },
+    "dz": {
+      "official": "ཕེརེནཆི་ པོ་ལི་ནི་སི་ཡ།",
+      "common": "ཕེརེནཆི་ པོ་ལི་ནི་སི་ཡ།"
+    },
+    "en": {
+      "official": "French Polynesia",
+      "common": "French Polynesia"
+    },
+    "eo": {
+      "official": "Franca Polinezio",
+      "common": "Franca Polinezio"
+    },
+    "et": {
+      "official": "Prantsuse Polüneesia",
+      "common": "Prantsuse Polüneesia"
+    },
+    "fo": {
+      "official": "French Polynesia",
+      "common": "French Polynesia"
+    },
+    "fi": {
+      "official": "Ranskan Polynesia",
+      "common": "Ranskan Polynesia"
+    },
+    "fr": {
+      "official": "Polynésie française",
+      "common": "Polynésie française"
+    },
+    "ka": {
+      "official": "ფრანგული პოლინეზია",
+      "common": "ფრანგული პოლინეზია"
+    },
+    "de": {
+      "official": "Französisch-Polynesien",
+      "common": "Französisch-Polynesien"
+    },
+    "ga": {
+      "official": "Polainéis na Fraince",
+      "common": "Polainéis na Fraince"
+    },
+    "gl": {
+      "official": "Polinesia Francesa",
+      "common": "Polinesia Francesa"
+    },
+    "el": {
+      "official": "Γαλλική Πολυνησία",
+      "common": "Γαλλική Πολυνησία"
+    },
+    "gu": {
+      "official": "ફ્રેન્ચ પોલિનેશિયા",
+      "common": "ફ્રેન્ચ પોલિનેશિયા"
+    },
+    "he": {
+      "official": "פולינזיה הצרפתית",
+      "common": "פולינזיה הצרפתית"
+    },
+    "hi": {
+      "official": "फ्रेंच पोलिनीसिया",
+      "common": "फ्रेंच पोलिनीसिया"
+    },
+    "hr": {
+      "official": "Francuska Polinezija",
+      "common": "Francuska Polinezija"
+    },
+    "hu": {
+      "official": "Francia Polinézia",
+      "common": "Francia Polinézia"
+    },
+    "is": {
+      "official": "Franska Pólýnesía",
+      "common": "Franska Pólýnesía"
+    },
+    "ia": {
+      "official": "Polynesia Francese",
+      "common": "Polynesia Francese"
+    },
+    "id": {
+      "official": "Polinesia Perancis",
+      "common": "Polinesia Perancis"
+    },
+    "it": {
+      "official": "Polinesia francese",
+      "common": "Polinesia francese"
+    },
+    "ja": {
+      "official": "仏領ポリネシア",
+      "common": "仏領ポリネシア"
+    },
+    "kn": {
+      "official": "ಫ್ರೆಂಚ್ ಪೊಲಿನೇಸಿಯಾ",
+      "common": "ಫ್ರೆಂಚ್ ಪೊಲಿನೇಸಿಯಾ"
+    },
+    "kk": {
+      "official": "Францияның Полинезиясы",
+      "common": "Францияның Полинезиясы"
+    },
+    "km": {
+      "official": "ប៉ូលីនេស៊ី​បារាំង",
+      "common": "ប៉ូលីនេស៊ី​បារាំង"
+    },
+    "rw": {
+      "official": "Polinesiya Nyamfaransa",
+      "common": "Polinesiya Nyamfaransa"
+    },
+    "ko": {
+      "official": "프랑스령 폴리네시아",
+      "common": "프랑스령 폴리네시아"
+    },
+    "ku": {
+      "official": "Polînesya Fransî",
+      "common": "Polînesya Fransî"
+    },
+    "lv": {
+      "official": "Franču Polinēzija",
+      "common": "Franču Polinēzija"
+    },
+    "lt": {
+      "official": "Prancūzijos Polinezija",
+      "common": "Prancūzijos Polinezija"
+    },
+    "mk": {
+      "official": "Франсуска Полинезија",
+      "common": "Франсуска Полинезија"
+    },
+    "ml": {
+      "official": "ഫ്രഞ്ച് പോളിനേഷ്യ",
+      "common": "ഫ്രഞ്ച് പോളിനേഷ്യ"
+    },
+    "mi": {
+      "official": "Porinīhia Wīwī",
+      "common": "Porinīhia Wīwī"
+    },
+    "mr": {
+      "official": "फ्रेंच पोलिनेशिया",
+      "common": "फ्रेंच पोलिनेशिया"
+    },
+    "ms": {
+      "official": "French Polynesia",
+      "common": "French Polynesia"
+    },
+    "mt": {
+      "official": "Polinesja Franċiża",
+      "common": "Polinesja Franċiża"
+    },
+    "mn": {
+      "official": "French Polynesia",
+      "common": "French Polynesia"
+    },
+    "ne": {
+      "official": "फ्रेन्च पोलिनेसीया",
+      "common": "फ्रेन्च पोलिनेसीया"
+    },
+    "nn": {
+      "official": "Fransk Polynesia",
+      "common": "Fransk Polynesia"
+    },
+    "nb": {
+      "official": "Fransk Polynesia",
+      "common": "Fransk Polynesia"
+    },
+    "oc": {
+      "official": "Polinesia francesa",
+      "common": "Polinesia francesa"
+    },
+    "or": {
+      "official": "ଫ୍ରେଞ୍ଚ ପୋଲୀନେସିୟା",
+      "common": "ଫ୍ରେଞ୍ଚ ପୋଲୀନେସିୟା"
+    },
+    "pa": {
+      "official": "ਫਰੈਚ ਪੋਲੀਸੇਲੇਵੀਆ",
+      "common": "ਫਰੈਚ ਪੋਲੀਸੇਲੇਵੀਆ"
+    },
+    "fa": {
+      "official": "پلی‌نزی فرانسه",
+      "common": "پلی‌نزی فرانسه"
+    },
+    "pl": {
+      "official": "Polinezja Francuska",
+      "common": "Polinezja Francuska"
+    },
+    "pt": {
+      "official": "Polinésia Francesa",
+      "common": "Polinésia Francesa"
+    },
+    "ps": {
+      "official": "French Polynesia",
+      "common": "French Polynesia"
+    },
+    "ro": {
+      "official": "Polinezia Franceză",
+      "common": "Polinezia Franceză"
+    },
+    "ru": {
+      "official": "Французская Полинезия",
+      "common": "Французская Полинезия"
+    },
+    "si": {
+      "official": "ප්‍රංශ පොලිනීසියාව",
+      "common": "ප්‍රංශ පොලිනීසියාව"
+    },
+    "sk": {
+      "official": "Francúzska Polynézia",
+      "common": "Francúzska Polynézia"
+    },
+    "sl": {
+      "official": "Francoska Polinezija",
+      "common": "Francoska Polinezija"
+    },
+    "so": {
+      "official": "French Polynesia",
+      "common": "French Polynesia"
+    },
+    "es": {
+      "official": "Polinesia Francesa",
+      "common": "Polinesia Francesa"
+    },
+    "sr": {
+      "official": "Француска Полинезија",
+      "common": "Француска Полинезија"
+    },
+    "sw": {
+      "official": "French Polynesia",
+      "common": "French Polynesia"
+    },
+    "sv": {
+      "official": "Franska Polynesien",
+      "common": "Franska Polynesien"
+    },
+    "ta": {
+      "official": "ஃப்ரெஞ்ச் பாலினேசியா",
+      "common": "ஃப்ரெஞ்ச் பாலினேசியா"
+    },
+    "tt": {
+      "official": "Франс Полинесиа",
+      "common": "Франс Полинесиа"
+    },
+    "te": {
+      "official": "ఫ్రెంచ్ పోలినేశియా",
+      "common": "ఫ్రెంచ్ పోలినేశియా"
+    },
+    "tl": {
+      "official": "French Polynesia",
+      "common": "French Polynesia"
+    },
+    "th": {
+      "official": "เฟรนช์โปลินีเซีย",
+      "common": "เฟรนช์โปลินีเซีย"
+    },
+    "ti": {
+      "official": "የፈረንሳይ ፖሊኔዢያ",
+      "common": "የፈረንሳይ ፖሊኔዢያ"
+    },
+    "tk": {
+      "official": "French Polynesia",
+      "common": "French Polynesia"
+    },
+    "tr": {
+      "official": "Fransız Polinezyası",
+      "common": "Fransız Polinezyası"
+    },
+    "ug": {
+      "official": "فىرانسىيەگە قاراشلىق پولىنېزىيە",
+      "common": "فىرانسىيەگە قاراشلىق پولىنېزىيە"
+    },
+    "uk": {
+      "official": "Французька Полінезія",
+      "common": "Французька Полінезія"
+    },
+    "ve": {
+      "official": "French Polynesia",
+      "common": "French Polynesia"
+    },
+    "vi": {
+      "official": "Pô-li-nê-xi Pháp",
+      "common": "Pô-li-nê-xi Pháp"
+    },
+    "cy": {
+      "official": "Polynesia Ffrangeg",
+      "common": "Polynesia Ffrangeg"
+    },
+    "wa": {
+      "official": "Polinezeye francesse",
+      "common": "Polinezeye francesse"
+    },
+    "wo": {
+      "official": "Polineesi Faraañse",
+      "common": "Polineesi Faraañse"
+    },
+    "xh": {
+      "official": "French Polynesia",
+      "common": "French Polynesia"
+    },
+    "zu": {
+      "official": "French Polynesia",
+      "common": "French Polynesia"
+    }
+  }
+}

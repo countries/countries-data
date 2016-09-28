@@ -1,0 +1,333 @@
+---
+continent: Africa
+alpha2: MA
+alpha3: MAR
+country_code: '212'
+international_prefix: '00'
+ioc: MAR
+gec: MO
+name: Morocco
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: '0'
+number: '504'
+region: Africa
+subregion: Northern Africa
+world_region: EMEA
+un_locode: MA
+nationality: Moroccan
+postal_code: true
+unofficial_names:
+- Morocco
+- المغرب
+- Marokko
+- Maroc
+- Marruecos
+- モロッコ
+languages_official:
+- ar
+languages_spoken:
+- ar
+geo:
+  latitude: 31.791702
+  latitude_dec: '29.14059066772461'
+  longitude: -7.092619999999999
+  longitude_dec: "-8.953388214111328"
+  max_latitude: 35.9223834
+  max_longitude: -0.9969760999999998
+  min_latitude: 27.6672694
+  min_longitude: -13.1724702
+  bounds:
+    northeast:
+      lat: 35.9223834
+      lng: -0.9969760999999998
+    southwest:
+      lat: 27.6672694
+      lng: -13.1724702
+currency_code: MAD
+postal_address_data:
+  zipex: '53000,10000,20050,16052'
+  name: MOROCCO
+  zip: "\\d{5}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  key: MA
+  id: data/MA
+translations:
+  af:
+    official: Marokko
+    common: Marokko
+  sq:
+    official: Maroku
+    common: Maroku
+  am:
+    official: ሥስጥ
+    common: ሥስጥ
+  ar:
+    official: المغرب
+    common: المغرب
+  hy:
+    official: Մարոկո
+    common: Մարոկո
+  as:
+    official: মৰোক্কো
+    common: মৰোক্কো
+  az:
+    official: Mərakeş
+    common: Mərakeş
+  eu:
+    official: Maroko
+    common: Maroko
+  be:
+    official: Марока
+    common: Марока
+  bn:
+    official: মরোক্কো
+    common: মরোক্কো
+  bs:
+    official: Maroko
+    common: Maroko
+  br:
+    official: Morocco
+    common: Morocco
+  bg:
+    official: Мароко
+    common: Мароко
+  ca:
+    official: Marroc
+    common: Marroc
+  zh:
+    official: 摩洛哥
+    common: 摩洛哥
+  cs:
+    official: Maroko
+    common: Maroko
+  da:
+    official: Marokko
+    common: Marokko
+  nl:
+    official: Marokko
+    common: Marokko
+  dz:
+    official: མོ་རོཀ་ཀོ།
+    common: མོ་རོཀ་ཀོ།
+  en:
+    official: Morocco
+    common: Morocco
+  eo:
+    official: Maroko
+    common: Maroko
+  et:
+    official: Maroko
+    common: Maroko
+  fo:
+    official: Marokko
+    common: Marokko
+  fi:
+    official: Marokko
+    common: Marokko
+  fr:
+    official: Maroc
+    common: Maroc
+  ka:
+    official: მაროკო
+    common: მაროკო
+  de:
+    official: Marokko
+    common: Marokko
+  ga:
+    official: Maracó
+    common: Maracó
+  gl:
+    official: Marrocos
+    common: Marrocos
+  el:
+    official: Μαρόκο
+    common: Μαρόκο
+  gu:
+    official: મોરક્કો
+    common: મોરક્કો
+  he:
+    official: מרוקו
+    common: מרוקו
+  hi:
+    official: मोरक्को
+    common: मोरक्को
+  hr:
+    official: Maroko
+    common: Maroko
+  hu:
+    official: Marokkó
+    common: Marokkó
+  is:
+    official: Marokkó
+    common: Marokkó
+  ia:
+    official: Marocco
+    common: Marocco
+  id:
+    official: Maroko
+    common: Maroko
+  it:
+    official: Marocco
+    common: Marocco
+  ja:
+    official: モロッコ
+    common: モロッコ
+  kn:
+    official: ಮೊರೊಕ್ಕೊ
+    common: ಮೊರೊಕ್ಕೊ
+  kk:
+    official: Марокко
+    common: Марокко
+  km:
+    official: ម៉ារ៉ុក
+    common: ម៉ារ៉ុក
+  rw:
+    official: Maroke
+    common: Maroke
+  ko:
+    official: 모로코
+    common: 모로코
+  ku:
+    official: Fas
+    common: Fas
+  lv:
+    official: Maroka
+    common: Maroka
+  lt:
+    official: Marokas
+    common: Marokas
+  mk:
+    official: Мароко
+    common: Мароко
+  ml:
+    official: മൊറോക്കോ
+    common: മൊറോക്കോ
+  mi:
+    official: Moroko
+    common: Moroko
+  mr:
+    official: मोरोक्को
+    common: मोरोक्को
+  ms:
+    official: Maghribi
+    common: Maghribi
+  mt:
+    official: Marokk
+    common: Marokk
+  mn:
+    official: Морокко
+    common: Морокко
+  ne:
+    official: मोरक्को
+    common: मोरक्को
+  nn:
+    official: Marokko
+    common: Marokko
+  nb:
+    official: Marokko
+    common: Marokko
+  oc:
+    official: Marròc
+    common: Marròc
+  or:
+    official: ମୋରକ୍କୋ
+    common: ମୋରକ୍କୋ
+  pa:
+    official: ਮੋਰੋਸ਼ਸੋ
+    common: ਮੋਰੋਸ਼ਸੋ
+  fa:
+    official: مراکش
+    common: مراکش
+  pl:
+    official: Maroko
+    common: Maroko
+  pt:
+    official: Marrocos
+    common: Marrocos
+  ps:
+    official: مراکش
+    common: مراکش
+  ro:
+    official: Maroc
+    common: Maroc
+  ru:
+    official: Марокко
+    common: Марокко
+  si:
+    official: මොරොක්කෝව
+    common: මොරොක්කෝව
+  sk:
+    official: Maroko
+    common: Maroko
+  sl:
+    official: Maroko
+    common: Maroko
+  so:
+    official: Marooko
+    common: Marooko
+  es:
+    official: Marruecos
+    common: Marruecos
+  sr:
+    official: Мароко
+    common: Мароко
+  sw:
+    official: Morocco
+    common: Morocco
+  sv:
+    official: Marocko
+    common: Marocko
+  ta:
+    official: மொரோக்கோ
+    common: மொரோக்கோ
+  tt:
+    official: Морокко
+    common: Морокко
+  te:
+    official: మోరోక్కో
+    common: మోరోక్కో
+  tl:
+    official: Morocco
+    common: Morocco
+  th:
+    official: โมร็อกโก
+    common: โมร็อกโก
+  ti:
+    official: ሞሮኮ
+    common: ሞሮኮ
+  tk:
+    official: Morokko
+    common: Morokko
+  tr:
+    official: Fas
+    common: Fas
+  ug:
+    official: ماراكەش
+    common: ماراكەش
+  uk:
+    official: Марокко
+    common: Марокко
+  ve:
+    official: Morocco
+    common: Morocco
+  vi:
+    official: Mo-ro-cô
+    common: Mo-ro-cô
+  cy:
+    official: Moroco
+    common: Moroco
+  wa:
+    official: Marok
+    common: Marok
+  wo:
+    official: Marook
+    common: Marook
+  xh:
+    official: Morocco
+    common: Morocco
+  zu:
+    official: Morocco
+    common: Morocco

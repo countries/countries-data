@@ -1,0 +1,431 @@
+{
+  "continent": "South America",
+  "alpha2": "GY",
+  "alpha3": "GUY",
+  "country_code": "592",
+  "international_prefix": "00",
+  "ioc": "GUY",
+  "gec": "GY",
+  "name": "Guyana",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    6,
+    7
+  ],
+  "national_prefix": "None",
+  "number": "328",
+  "region": "Americas",
+  "subregion": "South America",
+  "world_region": "AMER",
+  "un_locode": "GY",
+  "nationality": "Guyanese",
+  "postal_code": false,
+  "unofficial_names": [
+    "Guyana",
+    "ガイアナ"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 4.860416,
+    "latitude_dec": "4.917311191558838",
+    "longitude": -58.93018,
+    "longitude_dec": "-58.94346237182617",
+    "max_latitude": 8.5466279,
+    "max_longitude": -56.4911201,
+    "min_latitude": 1.164724,
+    "min_longitude": -61.4149051,
+    "bounds": {
+      "northeast": {
+        "lat": 8.5466279,
+        "lng": -56.4911201
+      },
+      "southwest": {
+        "lat": 1.164724,
+        "lng": -61.4149051
+      }
+    }
+  },
+  "currency_code": "GYD",
+  "postal_address_data": {
+    "id": "data/GY",
+    "key": "GY",
+    "name": "GUYANA"
+  },
+  "translations": {
+    "af": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "sq": {
+      "official": "Guajana",
+      "common": "Guajana"
+    },
+    "am": {
+      "official": "ጉ።ና",
+      "common": "ጉ።ና"
+    },
+    "ar": {
+      "official": "غويانا",
+      "common": "غويانا"
+    },
+    "hy": {
+      "official": "Գայանա",
+      "common": "Գայանա"
+    },
+    "as": {
+      "official": "গায়ানা",
+      "common": "গায়ানা"
+    },
+    "az": {
+      "official": "Quyana",
+      "common": "Quyana"
+    },
+    "eu": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "be": {
+      "official": "Гаяна",
+      "common": "Гаяна"
+    },
+    "bn": {
+      "official": "গায়ানা",
+      "common": "গায়ানা"
+    },
+    "bs": {
+      "official": "Gvajana",
+      "common": "Gvajana"
+    },
+    "br": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "bg": {
+      "official": "Гияна",
+      "common": "Гияна"
+    },
+    "ca": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "zh": {
+      "official": "圭亚那",
+      "common": "圭亚那"
+    },
+    "cs": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "da": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "nl": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "dz": {
+      "official": "གུ་ཡ་ན།",
+      "common": "གུ་ཡ་ན།"
+    },
+    "en": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "eo": {
+      "official": "Gujano",
+      "common": "Gujano"
+    },
+    "et": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "fo": {
+      "official": "Gujana",
+      "common": "Gujana"
+    },
+    "fi": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "fr": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "ka": {
+      "official": "გაიანა",
+      "common": "გაიანა"
+    },
+    "de": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "ga": {
+      "official": "An Ghuáin",
+      "common": "An Ghuáin"
+    },
+    "gl": {
+      "official": "Güiana",
+      "common": "Güiana"
+    },
+    "el": {
+      "official": "Γουιάνα",
+      "common": "Γουιάνα"
+    },
+    "gu": {
+      "official": "ગુયાના",
+      "common": "ગુયાના"
+    },
+    "he": {
+      "official": "גויאנה",
+      "common": "גויאנה"
+    },
+    "hi": {
+      "official": "गुयाना",
+      "common": "गुयाना"
+    },
+    "hr": {
+      "official": "Gvajana",
+      "common": "Gvajana"
+    },
+    "hu": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "is": {
+      "official": "Gvæjana",
+      "common": "Gvæjana"
+    },
+    "ia": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "id": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "it": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "ja": {
+      "official": "ガイアナ",
+      "common": "ガイアナ"
+    },
+    "kn": {
+      "official": "ಗಯಾನಾ",
+      "common": "ಗಯಾನಾ"
+    },
+    "kk": {
+      "official": "Гайана",
+      "common": "Гайана"
+    },
+    "km": {
+      "official": "ហ្គីយ៉ាណា",
+      "common": "ហ្គីយ៉ាណា"
+    },
+    "rw": {
+      "official": "Giyana",
+      "common": "Giyana"
+    },
+    "ko": {
+      "official": "가이아나",
+      "common": "가이아나"
+    },
+    "ku": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "lv": {
+      "official": "Gajāna",
+      "common": "Gajāna"
+    },
+    "lt": {
+      "official": "Gajana",
+      "common": "Gajana"
+    },
+    "mk": {
+      "official": "Гвајана",
+      "common": "Гвајана"
+    },
+    "ml": {
+      "official": "ഗയാന",
+      "common": "ഗയാന"
+    },
+    "mi": {
+      "official": "Kaiana",
+      "common": "Kaiana"
+    },
+    "mr": {
+      "official": "गयाना",
+      "common": "गयाना"
+    },
+    "ms": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "mt": {
+      "official": "Gujana",
+      "common": "Gujana"
+    },
+    "mn": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "ne": {
+      "official": "गुयाना",
+      "common": "गुयाना"
+    },
+    "nn": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "nb": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "oc": {
+      "official": "Guianà",
+      "common": "Guianà"
+    },
+    "or": {
+      "official": "ଗୁୟାନା",
+      "common": "ଗୁୟାନା"
+    },
+    "pa": {
+      "official": "ਗੁਆਨਾ",
+      "common": "ਗੁਆਨਾ"
+    },
+    "fa": {
+      "official": "گویان",
+      "common": "گویان"
+    },
+    "pl": {
+      "official": "Gujana",
+      "common": "Gujana"
+    },
+    "pt": {
+      "official": "Guiana",
+      "common": "Guiana"
+    },
+    "ps": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "ro": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "ru": {
+      "official": "Гайана",
+      "common": "Гайана"
+    },
+    "si": {
+      "official": "ගයනා",
+      "common": "ගයනා"
+    },
+    "sk": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "sl": {
+      "official": "Gvajana",
+      "common": "Gvajana"
+    },
+    "so": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "es": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "sr": {
+      "official": "Гвајана",
+      "common": "Гвајана"
+    },
+    "sw": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "sv": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "ta": {
+      "official": "கயானா",
+      "common": "கயானா"
+    },
+    "tt": {
+      "official": "Gуяна",
+      "common": "Gуяна"
+    },
+    "te": {
+      "official": "గయానా",
+      "common": "గయానా"
+    },
+    "tl": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "th": {
+      "official": "กายอานา",
+      "common": "กายอานา"
+    },
+    "ti": {
+      "official": "ጉያና",
+      "common": "ጉያና"
+    },
+    "tk": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "tr": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "ug": {
+      "official": "گىۋىيانا",
+      "common": "گىۋىيانا"
+    },
+    "uk": {
+      "official": "Гайяна",
+      "common": "Гайяна"
+    },
+    "ve": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "vi": {
+      "official": "Guy-a-na",
+      "common": "Guy-a-na"
+    },
+    "cy": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "wa": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "wo": {
+      "official": "Guyaana",
+      "common": "Guyaana"
+    },
+    "xh": {
+      "official": "Guyana",
+      "common": "Guyana"
+    },
+    "zu": {
+      "official": "Guyana",
+      "common": "Guyana"
+    }
+  }
+}

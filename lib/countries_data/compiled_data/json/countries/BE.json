@@ -1,0 +1,456 @@
+{
+  "continent": "Europe",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}}\n{{country}}",
+  "alpha2": "BE",
+  "alpha3": "BEL",
+  "country_code": "32",
+  "international_prefix": "00",
+  "ioc": "BEL",
+  "gec": "BE",
+  "name": "Belgium",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8,
+    9
+  ],
+  "national_prefix": "0",
+  "number": "056",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "world_region": "EMEA",
+  "un_locode": "BE",
+  "nationality": "Belgian",
+  "eu_member": true,
+  "eea_member": true,
+  "vat_rates": {
+    "standard": 21,
+    "reduced": [
+      6,
+      12
+    ],
+    "super_reduced": null,
+    "parking": 12
+  },
+  "postal_code": true,
+  "unofficial_names": [
+    "Belgium",
+    "Belgien",
+    "Belgique",
+    "Bélgica",
+    "ベルギー",
+    "België"
+  ],
+  "languages_official": [
+    "nl",
+    "fr",
+    "de"
+  ],
+  "languages_spoken": [
+    "nl",
+    "fr",
+    "de"
+  ],
+  "geo": {
+    "latitude": 50.503887,
+    "latitude_dec": "50.648963928222656",
+    "longitude": 4.469936,
+    "longitude_dec": "4.641502380371094",
+    "max_latitude": 51.5051448,
+    "max_longitude": 6.408124099999999,
+    "min_latitude": 49.497013,
+    "min_longitude": 2.5453705,
+    "bounds": {
+      "northeast": {
+        "lat": 51.5051448,
+        "lng": 6.408124099999999
+      },
+      "southwest": {
+        "lat": 49.497013,
+        "lng": 2.5453705
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "key": "BE",
+    "zipex": "4000,1000",
+    "name": "BELGIUM",
+    "zip": "\\d{4}",
+    "require": "ACZ",
+    "id": "data/BE",
+    "posturl": "http://www.post.be/site/nl/residential/customerservice/search/postal_codes.html",
+    "fmt": "%O%n%N%n%A%n%Z %C"
+  },
+  "translations": {
+    "af": {
+      "official": "België",
+      "common": "België"
+    },
+    "sq": {
+      "official": "Belgjika",
+      "common": "Belgjika"
+    },
+    "am": {
+      "official": "ቤሔጄሤ",
+      "common": "ቤሔጄሤ"
+    },
+    "ar": {
+      "official": "بلجيكا",
+      "common": "بلجيكا"
+    },
+    "hy": {
+      "official": "Բելգիա",
+      "common": "Բելգիա"
+    },
+    "as": {
+      "official": "বেলজিয়াম",
+      "common": "বেলজিয়াম"
+    },
+    "az": {
+      "official": "Belçika",
+      "common": "Belçika"
+    },
+    "eu": {
+      "official": "Belgika",
+      "common": "Belgika"
+    },
+    "be": {
+      "official": "Бельгія",
+      "common": "Бельгія"
+    },
+    "bn": {
+      "official": "বেলজিয়াম",
+      "common": "বেলজিয়াম"
+    },
+    "bs": {
+      "official": "Belgija",
+      "common": "Belgija"
+    },
+    "br": {
+      "official": "Belgia",
+      "common": "Belgia"
+    },
+    "bg": {
+      "official": "Белгия",
+      "common": "Белгия"
+    },
+    "ca": {
+      "official": "Bèlgica",
+      "common": "Bèlgica"
+    },
+    "zh": {
+      "official": "比利时",
+      "common": "比利时"
+    },
+    "cs": {
+      "official": "Belgie",
+      "common": "Belgie"
+    },
+    "da": {
+      "official": "Belgien",
+      "common": "Belgien"
+    },
+    "nl": {
+      "official": "België",
+      "common": "België"
+    },
+    "dz": {
+      "official": "བེལ་ཇི་ཡམ།",
+      "common": "བེལ་ཇི་ཡམ།"
+    },
+    "en": {
+      "official": "Belgium",
+      "common": "Belgium"
+    },
+    "eo": {
+      "official": "Belgio",
+      "common": "Belgio"
+    },
+    "et": {
+      "official": "Belgia",
+      "common": "Belgia"
+    },
+    "fo": {
+      "official": "Belgia",
+      "common": "Belgia"
+    },
+    "fi": {
+      "official": "Belgia",
+      "common": "Belgia"
+    },
+    "fr": {
+      "official": "Belgique",
+      "common": "Belgique"
+    },
+    "ka": {
+      "official": "ბელგია",
+      "common": "ბელგია"
+    },
+    "de": {
+      "official": "Belgien",
+      "common": "Belgien"
+    },
+    "ga": {
+      "official": "An Bheilg",
+      "common": "An Bheilg"
+    },
+    "gl": {
+      "official": "Bélxica",
+      "common": "Bélxica"
+    },
+    "el": {
+      "official": "Βέλγιο",
+      "common": "Βέλγιο"
+    },
+    "gu": {
+      "official": "બેલ્જીયમ",
+      "common": "બેલ્જીયમ"
+    },
+    "he": {
+      "official": "בלגיה",
+      "common": "בלגיה"
+    },
+    "hi": {
+      "official": "बेल्जियम",
+      "common": "बेल्जियम"
+    },
+    "hr": {
+      "official": "Belgija",
+      "common": "Belgija"
+    },
+    "hu": {
+      "official": "Belgium",
+      "common": "Belgium"
+    },
+    "is": {
+      "official": "Belgía",
+      "common": "Belgía"
+    },
+    "ia": {
+      "official": "Belgica",
+      "common": "Belgica"
+    },
+    "id": {
+      "official": "Belgia",
+      "common": "Belgia"
+    },
+    "it": {
+      "official": "Belgio",
+      "common": "Belgio"
+    },
+    "ja": {
+      "official": "ベルギー",
+      "common": "ベルギー"
+    },
+    "kn": {
+      "official": "ಬೆಲ್ಜಿಯಂ",
+      "common": "ಬೆಲ್ಜಿಯಂ"
+    },
+    "kk": {
+      "official": "Бельгия",
+      "common": "Бельгия"
+    },
+    "km": {
+      "official": "បែល​ហ្ស៊ិក",
+      "common": "បែល​ហ្ស៊ិក"
+    },
+    "rw": {
+      "official": "Ububiligi",
+      "common": "Ububiligi"
+    },
+    "ko": {
+      "official": "벨기에",
+      "common": "벨기에"
+    },
+    "ku": {
+      "official": "Belçîka",
+      "common": "Belçîka"
+    },
+    "lv": {
+      "official": "Beļģija",
+      "common": "Beļģija"
+    },
+    "lt": {
+      "official": "Belgija",
+      "common": "Belgija"
+    },
+    "mk": {
+      "official": "Белгија",
+      "common": "Белгија"
+    },
+    "ml": {
+      "official": "ബെല്‍ജിയം",
+      "common": "ബെല്‍ജിയം"
+    },
+    "mi": {
+      "official": "Pehiamu",
+      "common": "Pehiamu"
+    },
+    "mr": {
+      "official": "बेल्जियम",
+      "common": "बेल्जियम"
+    },
+    "ms": {
+      "official": "Belgium",
+      "common": "Belgium"
+    },
+    "mt": {
+      "official": "Belġju",
+      "common": "Belġju"
+    },
+    "mn": {
+      "official": "Белги",
+      "common": "Белги"
+    },
+    "ne": {
+      "official": "बेल्जियम",
+      "common": "बेल्जियम"
+    },
+    "nn": {
+      "official": "Belgia",
+      "common": "Belgia"
+    },
+    "nb": {
+      "official": "Belgia",
+      "common": "Belgia"
+    },
+    "oc": {
+      "official": "Bèlgica",
+      "common": "Bèlgica"
+    },
+    "or": {
+      "official": "ବେଲଜିୟମ",
+      "common": "ବେଲଜିୟମ"
+    },
+    "pa": {
+      "official": "ਬੈਲਜੀਅਮ",
+      "common": "ਬੈਲਜੀਅਮ"
+    },
+    "fa": {
+      "official": "بلژیک",
+      "common": "بلژیک"
+    },
+    "pl": {
+      "official": "Belgia",
+      "common": "Belgia"
+    },
+    "pt": {
+      "official": "Bélgica",
+      "common": "Bélgica"
+    },
+    "ps": {
+      "official": "Belgium",
+      "common": "Belgium"
+    },
+    "ro": {
+      "official": "Belgia",
+      "common": "Belgia"
+    },
+    "ru": {
+      "official": "Бельгия",
+      "common": "Бельгия"
+    },
+    "si": {
+      "official": "බෙල්ජියම",
+      "common": "බෙල්ජියම"
+    },
+    "sk": {
+      "official": "Belgicko",
+      "common": "Belgicko"
+    },
+    "sl": {
+      "official": "Belgija",
+      "common": "Belgija"
+    },
+    "so": {
+      "official": "Beljiyam",
+      "common": "Beljiyam"
+    },
+    "es": {
+      "official": "Bélgica",
+      "common": "Bélgica"
+    },
+    "sr": {
+      "official": "Белгија",
+      "common": "Белгија"
+    },
+    "sw": {
+      "official": "Belgium",
+      "common": "Belgium"
+    },
+    "sv": {
+      "official": "Belgien",
+      "common": "Belgien"
+    },
+    "ta": {
+      "official": "பெல்ஜியம்",
+      "common": "பெல்ஜியம்"
+    },
+    "tt": {
+      "official": "Белgиа",
+      "common": "Белgиа"
+    },
+    "te": {
+      "official": "బెల్జియమ్",
+      "common": "బెల్జియమ్"
+    },
+    "tl": {
+      "official": "Belhika",
+      "common": "Belhika"
+    },
+    "th": {
+      "official": "เบลเยียม",
+      "common": "เบลเยียม"
+    },
+    "ti": {
+      "official": "ቤልጄም",
+      "common": "ቤልጄም"
+    },
+    "tk": {
+      "official": "Belgiýa",
+      "common": "Belgiýa"
+    },
+    "tr": {
+      "official": "Belçika",
+      "common": "Belçika"
+    },
+    "ug": {
+      "official": "بېلگىيە",
+      "common": "بېلگىيە"
+    },
+    "uk": {
+      "official": "Бельгія",
+      "common": "Бельгія"
+    },
+    "ve": {
+      "official": "Belgium",
+      "common": "Belgium"
+    },
+    "vi": {
+      "official": "Bỉ",
+      "common": "Bỉ"
+    },
+    "cy": {
+      "official": "Gwlad Belg",
+      "common": "Gwlad Belg"
+    },
+    "wa": {
+      "official": "Beldjike",
+      "common": "Beldjike"
+    },
+    "wo": {
+      "official": "Beljik",
+      "common": "Beljik"
+    },
+    "xh": {
+      "official": "Belgium",
+      "common": "Belgium"
+    },
+    "zu": {
+      "official": "Isi-Bhelijiyamu",
+      "common": "Isi-Bhelijiyamu"
+    }
+  }
+}

@@ -1,0 +1,349 @@
+---
+continent: Europe
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}}
+  {{country}}
+alpha2: CZ
+alpha3: CZE
+country_code: '420'
+international_prefix: '00'
+ioc: CZE
+gec: EZ
+name: Czech Republic
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: None
+number: '203'
+region: Europe
+subregion: Eastern Europe
+world_region: EMEA
+un_locode: CZ
+nationality: Czech
+eu_member: true
+eea_member: true
+vat_rates:
+  standard: 21
+  reduced:
+  - 15
+  super_reduced: 
+  parking: 
+postal_code: true
+unofficial_names:
+- Czech Republic
+- Tschechische Republik
+- République Tchèque
+- República Checa
+- チェコ
+- Tsjechië
+languages_official:
+- cs
+- sk
+languages_spoken:
+- cs
+- sk
+geo:
+  latitude: 49.81749199999999
+  latitude_dec: '49.739105224609375'
+  longitude: 15.472962
+  longitude_dec: '15.331501007080078'
+  max_latitude: 51.0557185
+  max_longitude: 18.8592361
+  min_latitude: 48.5518081
+  min_longitude: 12.0905891
+  bounds:
+    northeast:
+      lat: 51.0557185
+      lng: 18.8592361
+    southwest:
+      lat: 48.5518081
+      lng: 12.0905891
+currency_code: CZK
+postal_address_data:
+  key: CZ
+  zipex: 100 00,251 66,530 87,110 00,225 99
+  name: CZECH REP.
+  zip: "\\d{3} ?\\d{2}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  posturl: http://psc.ceskaposta.cz/CleanForm.action
+  id: data/CZ
+translations:
+  af:
+    official: Tsjeggiese Republiek
+    common: Tsjeggiese Republiek
+  sq:
+    official: Republika Çeke
+    common: Republika Çeke
+  am:
+    official: ኃጤ ሱፑብሑጤ
+    common: ኃጤ ሱፑብሑጤ
+  ar:
+    official: جمهوريّة التّشيك
+    common: جمهوريّة التّشيك
+  hy:
+    official: Չեխիայի Հանրապետություն
+    common: Չեխիայի Հանրապետություն
+  as:
+    official: চেক প্ৰজাতন্ত্ৰৰ
+    common: চেক প্ৰজাতন্ত্ৰৰ
+  az:
+    official: Çex Respublikası
+    common: Çex Respublikası
+  eu:
+    official: Txekiar Errepublika
+    common: Txekiar Errepublika
+  be:
+    official: Чэшская Рэспубліка
+    common: Чэшская Рэспубліка
+  bn:
+    official: চেক প্রজাতন্ত্র
+    common: চেক প্রজাতন্ত্র
+  bs:
+    official: Češka Republika
+    common: Češka Republika
+  br:
+    official: Republik tchek
+    common: Republik tchek
+  bg:
+    official: Чешка република
+    common: Чешка република
+  ca:
+    official: República Txeca
+    common: República Txeca
+  zh:
+    official: 捷克
+    common: 捷克
+  cs:
+    official: Česká republika
+    common: Česká republika
+  da:
+    official: Tjekkiet
+    common: Tjekkiet
+  nl:
+    official: Tsjechië
+    common: Tsjechië
+  dz:
+    official: ཅེཛི་ རི་པཔ་ལིཀ།
+    common: ཅེཛི་ རི་པཔ་ལིཀ།
+  en:
+    official: Czech Republic
+    common: Czech Republic
+  eo:
+    official: Ĉeĥio
+    common: Ĉeĥio
+  et:
+    official: Tšehhi
+    common: Tšehhi
+  fo:
+    official: Kekkia
+    common: Kekkia
+  fi:
+    official: Tšekin tasavalta
+    common: Tšekin tasavalta
+  fr:
+    official: Tchèque, République
+    common: Tchèque, République
+  ka:
+    official: ჩეხეთის რესპუბლიკა
+    common: ჩეხეთის რესპუბლიკა
+  de:
+    official: Tschechische Republik
+    common: Tschechische Republik
+  ga:
+    official: Poblacht na Seice
+    common: Poblacht na Seice
+  gl:
+    official: República Checa
+    common: República Checa
+  el:
+    official: Τσεχική Δημοκρατία
+    common: Τσεχική Δημοκρατία
+  gu:
+    official: ચેઝ રીપબ્લિક
+    common: ચેઝ રીપબ્લિક
+  he:
+    official: הרפובליקה הצ'כית
+    common: הרפובליקה הצ'כית
+  hi:
+    official: चेक रिपब्लिक
+    common: चेक रिपब्लिक
+  hr:
+    official: Češka
+    common: Češka
+  hu:
+    official: Cseh Köztársaság
+    common: Cseh Köztársaság
+  is:
+    official: Lýðveldið Tékkland
+    common: Lýðveldið Tékkland
+  ia:
+    official: Republica Chec
+    common: Republica Chec
+  id:
+    official: Republik Ceko
+    common: Republik Ceko
+  it:
+    official: Repubblica Ceca
+    common: Repubblica Ceca
+  ja:
+    official: チェコ共和国
+    common: チェコ共和国
+  kn:
+    official: ಝೆಕ್ ಗಣರಾಜ್ಯ
+    common: ಝೆಕ್ ಗಣರಾಜ್ಯ
+  kk:
+    official: Чехия
+    common: Чехия
+  km:
+    official: សាធារណរដ្ឋ​ឆេក
+    common: សាធារណរដ្ឋ​ឆេក
+  rw:
+    official: Repubulika ya Ceke
+    common: Repubulika ya Ceke
+  ko:
+    official: 체코 공화국
+    common: 체코 공화국
+  ku:
+    official: Komara Çek
+    common: Komara Çek
+  lv:
+    official: Čehijas Republika
+    common: Čehijas Republika
+  lt:
+    official: Čekijos Respublika
+    common: Čekijos Respublika
+  mk:
+    official: Чешка република
+    common: Чешка република
+  ml:
+    official: ചെക്ക് റിപ്പബ്ലിക്
+    common: ചെക്ക് റിപ്പബ്ലിക്
+  mi:
+    official: Whenua Tīeke
+    common: Whenua Tīeke
+  mr:
+    official: झेक रिपब्लिक
+    common: झेक रिपब्लिक
+  ms:
+    official: Republik Czech
+    common: Republik Czech
+  mt:
+    official: Repubblika Dominikana
+    common: Repubblika Dominikana
+  mn:
+    official: Чех ард улс
+    common: Чех ард улс
+  ne:
+    official: Czech गणराज्य
+    common: Czech गणराज्य
+  nn:
+    official: Tsjekkia
+    common: Tsjekkia
+  nb:
+    official: Den tsjekkiske republikk
+    common: Den tsjekkiske republikk
+  oc:
+    official: Republica chèca
+    common: Republica chèca
+  or:
+    official: ଚେକ ସାଧାରଣତନ୍ତ୍ର
+    common: ଚେକ ସାଧାରଣତନ୍ତ୍ର
+  pa:
+    official: ਚੈੱਕ ਗਣਰਾਜ
+    common: ਚੈੱਕ ਗਣਰਾਜ
+  fa:
+    official: جمهوری چک
+    common: جمهوری چک
+  pl:
+    official: Czechy
+    common: Czechy
+  pt:
+    official: República Checa
+    common: República Checa
+  ps:
+    official: Czech Republic
+    common: Czech Republic
+  ro:
+    official: Cehia
+    common: Cehia
+  ru:
+    official: Чешская Республика
+    common: Чешская Республика
+  si:
+    official: චෙච් ජනරජය
+    common: චෙච් ජනරජය
+  sk:
+    official: Česká republika
+    common: Česká republika
+  sl:
+    official: Češka republika
+    common: Češka republika
+  so:
+    official: Czech Republic
+    common: Czech Republic
+  es:
+    official: República Checa
+    common: República Checa
+  sr:
+    official: Чешка Република
+    common: Чешка Република
+  sw:
+    official: Czech Republic
+    common: Czech Republic
+  sv:
+    official: Tjeckien
+    common: Tjeckien
+  ta:
+    official: செக் குடியரசு
+    common: செக் குடியரசு
+  tt:
+    official: Чех Җөмһүриәте
+    common: Чех Җөмһүриәте
+  te:
+    official: చెక్ రిపబ్లిక్
+    common: చెక్ రిపబ్లిక్
+  tl:
+    official: Republikang Czech
+    common: Republikang Czech
+  th:
+    official: สาธารณรัฐเช็ก
+    common: สาธารณรัฐเช็ก
+  ti:
+    official: ቼክ ሪፑብሊክ
+    common: ቼክ ሪፑብሊክ
+  tk:
+    official: Çeş Respublikasy
+    common: Çeş Respublikasy
+  tr:
+    official: Çek Cumhuriyeti
+    common: Çek Cumhuriyeti
+  ug:
+    official: چېخ جۇمھۇرىيىتى
+    common: چېخ جۇمھۇرىيىتى
+  uk:
+    official: Чеська республіка
+    common: Чеська республіка
+  ve:
+    official: Czech Republic
+    common: Czech Republic
+  vi:
+    official: Cộng hoà Séc
+    common: Cộng hoà Séc
+  cy:
+    official: Y Weriniaeth Tsiec
+    common: Y Weriniaeth Tsiec
+  wa:
+    official: Tchekeye
+    common: Tchekeye
+  wo:
+    official: Republik bu Cek
+    common: Republik bu Cek
+  xh:
+    official: Ulawulo lokuziphatha kwe Dominican
+    common: Ulawulo lokuziphatha kwe Dominican
+  zu:
+    official: Ulawulo lokuziphatha kwe Dominikhani
+    common: Ulawulo lokuziphatha kwe Dominikhani

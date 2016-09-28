@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: अफगानिस्तान
+    common: अफगानिस्तान
+  AX:
+    official: एल्याण्ड टापु
+    common: एल्याण्ड टापु
+  AL:
+    official: अल्बानिया
+    common: अल्बानिया
+  DZ:
+    official: अल्जेरिया
+    common: अल्जेरिया
+  AS:
+    official: अमेरिकन सामोआ
+    common: अमेरिकन सामोआ
+  AD:
+    official: एनडोर्रा
+    common: एनडोर्रा
+  AO:
+    official: एनगोला
+    common: एनगोला
+  AI:
+    official: एनगुइल्ला
+    common: एनगुइल्ला
+  AQ:
+    official: अन्टार्टिका
+    common: अन्टार्टिका
+  AG:
+    official: एन्टिगुआ र बारबूढा
+    common: एन्टिगुआ र बारबूढा
+  AR:
+    official: अरजेनटिना
+    common: अरजेनटिना
+  AM:
+    official: अरमेनिया
+    common: अरमेनिया
+  AW:
+    official: अरुबा
+    common: अरुबा
+  AU:
+    official: अष्ट्रेलिया
+    common: अष्ट्रेलिया
+  AT:
+    official: अष्ट्रिया
+    common: अष्ट्रिया
+  AZ:
+    official: अजरबैजान
+    common: अजरबैजान
+  BS:
+    official: बहामास
+    common: बहामास
+  BH:
+    official: बहराइन
+    common: बहराइन
+  BD:
+    official: बंगलादेश
+    common: बंगलादेश
+  BB:
+    official: बारबाडोस
+    common: बारबाडोस
+  BY:
+    official: बेलारूस
+    common: बेलारूस
+  BE:
+    official: बेल्जियम
+    common: बेल्जियम
+  BZ:
+    official: बेलिज
+    common: बेलिज
+  BJ:
+    official: बेनिन
+    common: बेनिन
+  BM:
+    official: बरमुढा
+    common: बरमुढा
+  BT:
+    official: भुटान
+    common: भुटान
+  BO:
+    official: बोलिभिया,बहुराष्ट्र्ीय राज्य
+    common: बोलिभिया,बहुराष्ट्र्ीय राज्य
+  BQ:
+    official: बोनाइर, सेन्ट ईयुस्टासस् र साबा
+    common: बोनाइर, सेन्ट ईयुस्टासस् र साबा
+  BA:
+    official: बोस्नीया र हर्जगोभिना
+    common: बोस्नीया र हर्जगोभिना
+  BW:
+    official: बोट्सवाना
+    common: बोट्सवाना
+  BV:
+    official: बोउवेट टापु
+    common: बोउवेट टापु
+  BR:
+    official: ब्राजिल
+    common: ब्राजिल
+  IO:
+    official: बृटिश इन्डियन सामुन्द्रिक क्षेत्र
+    common: बृटिश इन्डियन सामुन्द्रिक क्षेत्र
+  BN:
+    official: ब्रुनाई दारुसलाम
+    common: ब्रुनाई दारुसलाम
+  BG:
+    official: बुलगेरिया
+    common: बुलगेरिया
+  BF:
+    official: बुर्किना फासो
+    common: बुर्किना फासो
+  BI:
+    official: बुरण्डी
+    common: बुरण्डी
+  KH:
+    official: क्याम्बोडिया
+    common: क्याम्बोडिया
+  CM:
+    official: क्यामरुन
+    common: क्यामरुन
+  CA:
+    official: क्यानाडा
+    common: क्यानाडा
+  CV:
+    official: केप वर्दी
+    common: केप वर्दी
+  KY:
+    official: सैम्यान टापु
+    common: सैम्यान टापु
+  CF:
+    official: केन्द्रिय अफ्रिकी गणराज्य
+    common: केन्द्रिय अफ्रिकी गणराज्य
+  TD:
+    official: चाद
+    common: चाद
+  CL:
+    official: चिली
+    common: चिली
+  CN:
+    official: चीन
+    common: चीन
+  CX:
+    official: क्रिसमस टापु
+    common: क्रिसमस टापु
+  CC:
+    official: कोकोस (किलिङ्) टापु
+    common: कोकोस (किलिङ्) टापु
+  CO:
+    official: कोलम्बिया
+    common: कोलम्बिया
+  KM:
+    official: कोमोरोस
+    common: कोमोरोस
+  CG:
+    official: कोङ्गो
+    common: कोङ्गो
+  CD:
+    official: कोङ्गो को प्रजातन्त्रिक गणराज्य
+    common: कोङ्गो को प्रजातन्त्रिक गणराज्य
+  CK:
+    official: कुक टापु
+    common: कुक टापु
+  CR:
+    official: कोस्टारिका
+    common: कोस्टारिका
+  CI:
+    official: Côte d'Ivoire
+    common: Côte d'Ivoire
+  HR:
+    official: क्रोएशिया
+    common: क्रोएशिया
+  CU:
+    official: क्यूबा
+    common: क्यूबा
+  CW:
+    official: कुराकाव
+    common: कुराकाव
+  CY:
+    official: साइप्रस
+    common: साइप्रस
+  CZ:
+    official: Czech गणराज्य
+    common: Czech गणराज्य
+  DK:
+    official: डेनमार्क
+    common: डेनमार्क
+  DJ:
+    official: जिबोउटी
+    common: जिबोउटी
+  DM:
+    official: डोमिनिका
+    common: डोमिनिका
+  DO:
+    official: डोमिनिकन गणराज्य
+    common: डोमिनिकन गणराज्य
+  EC:
+    official: इक्वेडर
+    common: इक्वेडर
+  EG:
+    official: इजिप्ट
+    common: इजिप्ट
+  SV:
+    official: इल साल्भाडोर
+    common: इल साल्भाडोर
+  GQ:
+    official: इक्वेटरियल जिनीया
+    common: इक्वेटरियल जिनीया
+  ER:
+    official: एरिट्रिया
+    common: एरिट्रिया
+  EE:
+    official: इस्टोनिया
+    common: इस्टोनिया
+  ET:
+    official: इथियोपिया
+    common: इथियोपिया
+  FK:
+    official: फकल्याण्ड टापु (Malvinas)
+    common: फकल्याण्ड टापु (Malvinas)
+  FO:
+    official: फारो टापु
+    common: फारो टापु
+  FJ:
+    official: फिजी
+    common: फिजी
+  FI:
+    official: फिन्ल्यान्ड
+    common: फिन्ल्यान्ड
+  FR:
+    official: फ्रान्स
+    common: फ्रान्स
+  GF:
+    official: फ्रेन्च जिनिया
+    common: फ्रेन्च जिनिया
+  PF:
+    official: फ्रेन्च पोलिनेसीया
+    common: फ्रेन्च पोलिनेसीया
+  TF:
+    official: फ्रेन्च दक्षिणी क्षेत्रहरू
+    common: फ्रेन्च दक्षिणी क्षेत्रहरू
+  GA:
+    official: गाबोन
+    common: गाबोन
+  GM:
+    official: गाम्बीया
+    common: गाम्बीया
+  GE:
+    official: जर्जिया
+    common: जर्जिया
+  DE:
+    official: जर्मनी
+    common: जर्मनी
+  GH:
+    official: घाना
+    common: घाना
+  GI:
+    official: गिब्रिलटार
+    common: गिब्रिलटार
+  GR:
+    official: ग्रीस
+    common: ग्रीस
+  GL:
+    official: ग्रिनल्याण्ड
+    common: ग्रिनल्याण्ड
+  GD:
+    official: ग्रिनाडा
+    common: ग्रिनाडा
+  GP:
+    official: ग्वादेलोप
+    common: ग्वादेलोप
+  GU:
+    official: ग्वाम
+    common: ग्वाम
+  GT:
+    official: ग्वाटेमाला
+    common: ग्वाटेमाला
+  GG:
+    official: गुइन्सी
+    common: गुइन्सी
+  GN:
+    official: जिनिया
+    common: जिनिया
+  GW:
+    official: गिइनि बिसाउ
+    common: गिइनि बिसाउ
+  GY:
+    official: गुयाना
+    common: गुयाना
+  HT:
+    official: हैटि
+    common: हैटि
+  HM:
+    official: हर्ड टापु र एमसी डोनाल्ड टापु
+    common: हर्ड टापु र एमसी डोनाल्ड टापु
+  VA:
+    official: होली सि (भ्याटिकन सिटि राज्य)
+    common: होली सि (भ्याटिकन सिटि राज्य)
+  HN:
+    official: हन्डुरस्
+    common: हन्डुरस्
+  HK:
+    official: हङकङ
+    common: हङकङ
+  HU:
+    official: हङ्गेरी
+    common: हङ्गेरी
+  IS:
+    official: आइसल्याण्ड
+    common: आइसल्याण्ड
+  IN:
+    official: भारत
+    common: भारत
+  ID:
+    official: इन्डोनेसिया
+    common: इन्डोनेसिया
+  IR:
+    official: इरान, इस्लामिक गणराज्य
+    common: इरान, इस्लामिक गणराज्य
+  IQ:
+    official: इराक
+    common: इराक
+  IE:
+    official: आयरल्याण्ड
+    common: आयरल्याण्ड
+  IM:
+    official: मानव द्वीप
+    common: मानव द्वीप
+  IL:
+    official: इज्रायल
+    common: इज्रायल
+  IT:
+    official: इटाली
+    common: इटाली
+  JM:
+    official: जमैका
+    common: जमैका
+  JP:
+    official: जापान
+    common: जापान
+  JE:
+    official: जर्सी
+    common: जर्सी
+  JO:
+    official: जोर्डन
+    common: जोर्डन
+  KZ:
+    official: काजखास्तान
+    common: काजखास्तान
+  KE:
+    official: केन्या
+    common: केन्या
+  KI:
+    official: किरिबाटी
+    common: किरिबाटी
+  KP:
+    official: कोरियाको प्रजातन्त्रिक जनगणराज्य
+    common: कोरियाको प्रजातन्त्रिक जनगणराज्य
+  KR:
+    official: कोरियाको गणराज्य
+    common: कोरियाको गणराज्य
+  KW:
+    official: कुवेत
+    common: कुवेत
+  KG:
+    official: किर्जिस्तान
+    common: किर्जिस्तान
+  LA:
+    official: लाओ जनताको प्रजातन्त्रिक गणराज्य
+    common: लाओ जनताको प्रजातन्त्रिक गणराज्य
+  LV:
+    official: लात्भिया
+    common: लात्भिया
+  LB:
+    official: लेबनान
+    common: लेबनान
+  LS:
+    official: लेसोथो
+    common: लेसोथो
+  LR:
+    official: लिबेरीया
+    common: लिबेरीया
+  LY:
+    official: लिबेया
+    common: लिबेया
+  LI:
+    official: लिचटेन्सटाइन
+    common: लिचटेन्सटाइन
+  LT:
+    official: लिथुआनिया
+    common: लिथुआनिया
+  LU:
+    official: लक्जेम्बर्ग
+    common: लक्जेम्बर्ग
+  MO:
+    official: मकाओ
+    common: मकाओ
+  MK:
+    official: मसेडोनियाको गणराज्य
+    common: मसेडोनियाको गणराज्य
+  MG:
+    official: मदगास्कार
+    common: मदगास्कार
+  MW:
+    official: मालावी
+    common: मालावी
+  MY:
+    official: मलेशिया
+    common: मलेशिया
+  MV:
+    official: मालदिव्स
+    common: मालदिव्स
+  ML:
+    official: माली
+    common: माली
+  MT:
+    official: माल्टा
+    common: माल्टा
+  MH:
+    official: मार्शल टापु
+    common: मार्शल टापु
+  MQ:
+    official: मार्टिनिक
+    common: मार्टिनिक
+  MR:
+    official: माउरिटानिया
+    common: माउरिटानिया
+  MU:
+    official: माउरिसस
+    common: माउरिसस
+  YT:
+    official: मायोट्टे
+    common: मायोट्टे
+  MX:
+    official: मेक्सिको
+    common: मेक्सिको
+  FM:
+    official: मिक्रोनेसियाको संघिय राज्यहरू
+    common: मिक्रोनेसियाको संघिय राज्यहरू
+  MD:
+    official: गणराज्य, मोल्डोभा
+    common: गणराज्य, मोल्डोभा
+  MC:
+    official: मोनाको
+    common: मोनाको
+  MN:
+    official: मङ्गोलिया
+    common: मङ्गोलिया
+  ME:
+    official: मोन्टेनेग्रो
+    common: मोन्टेनेग्रो
+  MS:
+    official: मोनसेराट
+    common: मोनसेराट
+  MA:
+    official: मोरक्को
+    common: मोरक्को
+  MZ:
+    official: मोजाम्बिक
+    common: मोजाम्बिक
+  MM:
+    official: म्यान्मार
+    common: म्यान्मार
+  NA:
+    official: नामिबिया
+    common: नामिबिया
+  NR:
+    official: नाउरु
+    common: नाउरु
+  NP:
+    official: नेपाल
+    common: नेपाल
+  NL:
+    official: नेदरल्याण्ड
+    common: नेदरल्याण्ड
+  NC:
+    official: नयाँ क्यालेदोनिया
+    common: नयाँ क्यालेदोनिया
+  NZ:
+    official: न्युजिल्याण्ड
+    common: न्युजिल्याण्ड
+  NI:
+    official: निकारागुवा
+    common: निकारागुवा
+  NE:
+    official: निगर
+    common: निगर
+  NG:
+    official: नाइजेरिया
+    common: नाइजेरिया
+  NU:
+    official: निउ
+    common: निउ
+  NF:
+    official: नर फक टापु
+    common: नर फक टापु
+  MP:
+    official: उत्तरिय मरिआना टापु
+    common: उत्तरिय मरिआना टापु
+  'NO':
+    official: नर्वे
+    common: नर्वे
+  OM:
+    official: ओमन
+    common: ओमन
+  PK:
+    official: पाकिस्तान
+    common: पाकिस्तान
+  PW:
+    official: पालाउ
+    common: पालाउ
+  PS:
+    official: Palestine, State of
+    common: Palestine, State of
+  PA:
+    official: पानामा
+    common: पानामा
+  PG:
+    official: पपुवा न्यू जिनिया
+    common: पपुवा न्यू जिनिया
+  PY:
+    official: पराग्वे
+    common: पराग्वे
+  PE:
+    official: पेरु
+    common: पेरु
+  PH:
+    official: फिलिपिन्स
+    common: फिलिपिन्स
+  PN:
+    official: पितकैरन
+    common: पितकैरन
+  PL:
+    official: पोल्याण्ड
+    common: पोल्याण्ड
+  PT:
+    official: पोर्चुगल
+    common: पोर्चुगल
+  PR:
+    official: पुरटोरिको
+    common: पुरटोरिको
+  QA:
+    official: कतार
+    common: कतार
+  RE:
+    official: रियूनियन
+    common: रियूनियन
+  RO:
+    official: रोमानिया
+    common: रोमानिया
+  RU:
+    official: रसियन संघ
+    common: रसियन संघ
+  RW:
+    official: र्वान्डा
+    common: र्वान्डा
+  BL:
+    official: शन्त Barthelemy
+    common: शन्त Barthelemy
+  SH:
+    official: शन्त Helena, Ascension र Tristan da Cuncha
+    common: शन्त Helena, Ascension र Tristan da Cuncha
+  KN:
+    official: सेन्ट किट्स र नेभिस
+    common: सेन्ट किट्स र नेभिस
+  LC:
+    official: सेन्ट लुसिया
+    common: सेन्ट लुसिया
+  MF:
+    official: शन्त Martin (French तर्फ)
+    common: शन्त Martin (French तर्फ)
+  PM:
+    official: सेन्ट पिइर्रे र मिक्युलोन
+    common: सेन्ट पिइर्रे र मिक्युलोन
+  VC:
+    official: सेन्ट भिन्सेन्ट र ग्रेनडिन्स
+    common: सेन्ट भिन्सेन्ट र ग्रेनडिन्स
+  WS:
+    official: समाओ
+    common: समाओ
+  SM:
+    official: सान मारिनो
+    common: सान मारिनो
+  ST:
+    official: साओ टोम र प्रिन्सिपे
+    common: साओ टोम र प्रिन्सिपे
+  SA:
+    official: साउदी अरब
+    common: साउदी अरब
+  SN:
+    official: सेनेगल
+    common: सेनेगल
+  RS:
+    official: सर्बिया
+    common: सर्बिया
+  SC:
+    official: सिचेल्लिस
+    common: सिचेल्लिस
+  SL:
+    official: साइरा लिओनरा
+    common: साइरा लिओनरा
+  SG:
+    official: सिंगापुर
+    common: सिंगापुर
+  SX:
+    official: सिन्ट मार्टेन(डच अंश)
+    common: सिन्ट मार्टेन(डच अंश)
+  SK:
+    official: स्लोभाकिया
+    common: स्लोभाकिया
+  SI:
+    official: स्लोभेनिया
+    common: स्लोभेनिया
+  SB:
+    official: सोलोमन टापु
+    common: सोलोमन टापु
+  SO:
+    official: सोमालिया
+    common: सोमालिया
+  ZA:
+    official: दक्षिण अफ्रिका
+    common: दक्षिण अफ्रिका
+  GS:
+    official: दक्षिण जर्जिया र दक्षिण स्यान्डविच टापु
+    common: दक्षिण जर्जिया र दक्षिण स्यान्डविच टापु
+  ES:
+    official: स्पेन
+    common: स्पेन
+  LK:
+    official: श्री लङ्का
+    common: श्री लङ्का
+  SD:
+    official: सुडान
+    common: सुडान
+  SR:
+    official: सुरिनेम
+    common: सुरिनेम
+  SS:
+    official: सुडानको गणराज्य
+    common: सुडानको गणराज्य
+  SJ:
+    official: स्भालबार्ड र जान मायेन
+    common: स्भालबार्ड र जान मायेन
+  SZ:
+    official: स्वजिल्याण्ड
+    common: स्वजिल्याण्ड
+  SE:
+    official: स्विडेन
+    common: स्विडेन
+  CH:
+    official: स्विजरल्याण्ड
+    common: स्विजरल्याण्ड
+  SY:
+    official: सिरियन अरब गणराज्य
+    common: सिरियन अरब गणराज्य
+  TW:
+    official: ताइवान
+    common: ताइवान
+  TJ:
+    official: ताजिकिस्तान
+    common: ताजिकिस्तान
+  TZ:
+    official: तान्जानियाको संयक्त गणराज्यज्य
+    common: तान्जानियाको संयक्त गणराज्यज्य
+  TH:
+    official: थाइल्याण्ड
+    common: थाइल्याण्ड
+  TL:
+    official: टिमोर-लेस्टे
+    common: टिमोर-लेस्टे
+  TG:
+    official: टोगो
+    common: टोगो
+  TK:
+    official: टोकेलाउ
+    common: टोकेलाउ
+  TO:
+    official: टोङ्गा
+    common: टोङ्गा
+  TT:
+    official: ट्रिनिड्याड र टोबागो
+    common: ट्रिनिड्याड र टोबागो
+  TN:
+    official: टुनिसिया
+    common: टुनिसिया
+  TR:
+    official: टर्की
+    common: टर्की
+  TM:
+    official: टुर्कमेनिस्तान
+    common: टुर्कमेनिस्तान
+  TC:
+    official: टर्क्स र काइकस टापु
+    common: टर्क्स र काइकस टापु
+  TV:
+    official: टुवालु
+    common: टुवालु
+  UG:
+    official: उगान्डा
+    common: उगान्डा
+  UA:
+    official: युक्रेन
+    common: युक्रेन
+  AE:
+    official: संयुक्त अरब इमिरेट्स
+    common: संयुक्त अरब इमिरेट्स
+  GB:
+    official: संयुक्त अधिराज्य
+    common: संयुक्त अधिराज्य
+  US:
+    official: संयुक्त राज्य
+    common: संयुक्त राज्य
+  UM:
+    official: संयुक्त राज्य माइनर आउट लाईङ टापु
+    common: संयुक्त राज्य माइनर आउट लाईङ टापु
+  UY:
+    official: उरुग्वे
+    common: उरुग्वे
+  UZ:
+    official: उज्बेकिस्तान
+    common: उज्बेकिस्तान
+  VU:
+    official: वानुआटु
+    common: वानुआटु
+  VE:
+    official: गणराज्य, वेनेजुएला बोलिभेरियन
+    common: गणराज्य, वेनेजुएला बोलिभेरियन
+  VN:
+    official: भिएतनाम
+    common: भिएतनाम
+  VG:
+    official: भर्जिन टापु, बेलायत
+    common: भर्जिन टापु, बेलायत
+  VI:
+    official: भर्जिन टापु, संयुक्त राज्य
+    common: भर्जिन टापु, संयुक्त राज्य
+  WF:
+    official: वाल्लिस र फुटुना
+    common: वाल्लिस र फुटुना
+  EH:
+    official: पश्चिमी सहारा
+    common: पश्चिमी सहारा
+  YE:
+    official: येमेन
+    common: येमेन
+  ZM:
+    official: जाम्बिया
+    common: जाम्बिया
+  ZW:
+    official: जिम्बावे
+    common: जिम्बावे

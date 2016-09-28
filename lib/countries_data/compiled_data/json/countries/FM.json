@@ -1,0 +1,431 @@
+{
+  "continent": "Australia",
+  "alpha2": "FM",
+  "alpha3": "FSM",
+  "country_code": "691",
+  "international_prefix": "011",
+  "ioc": "FSM",
+  "gec": "FM",
+  "name": "Micronesia, Federated States Of",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7
+  ],
+  "national_prefix": "1",
+  "number": "583",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "world_region": "APAC",
+  "un_locode": "FM",
+  "nationality": "Micronesian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Micronesia",
+    "Mikronesien",
+    "Micronésie",
+    "ミクロネシア連邦",
+    "Micronesië"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 6.8874814,
+    "latitude_dec": "6.869349002838135",
+    "longitude": 158.2150716,
+    "longitude_dec": "158.187255859375",
+    "max_latitude": 10.0903784,
+    "max_longitude": 163.0355912,
+    "min_latitude": 3.822442,
+    "min_longitude": 138.0549824
+  },
+  "currency_code": "USD",
+  "postal_address_data": {
+    "key": "FM",
+    "upper": "ACNOS",
+    "zipex": "96941,96944",
+    "name": "MICRONESIA (Federated State of)",
+    "zip": "(9694[1-4])(?:[ \\-](\\d{4}))?",
+    "zip_name_type": "zip",
+    "require": "ACSZ",
+    "state_name_type": "state",
+    "id": "data/FM",
+    "posturl": "http://zip4.usps.com/zip4/welcome.jsp",
+    "fmt": "%N%n%O%n%A%n%C %S %Z"
+  },
+  "translations": {
+    "af": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "sq": {
+      "official": "Shtetet Federative të Mikronezisë",
+      "common": "Shtetet Federative të Mikronezisë"
+    },
+    "am": {
+      "official": "ሡጤስኔፒ።",
+      "common": "ሡጤስኔፒ።"
+    },
+    "ar": {
+      "official": "ميكرونيزيا، ولايات ميكرونيزيا الموحّدة",
+      "common": "ميكرونيزيا، ولايات ميكرونيزيا الموحّدة"
+    },
+    "hy": {
+      "official": "Միկրոնեզիայի Ֆեդերային Պետություն",
+      "common": "Միկրոնեզիայի Ֆեդերային Պետություն"
+    },
+    "as": {
+      "official": "মাইক্ৰোনেছিয়া যুক্তৰাষ্ট্ৰ",
+      "common": "মাইক্ৰোনেছিয়া যুক্তৰাষ্ট্ৰ"
+    },
+    "az": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "eu": {
+      "official": "Mikronesia, Estatu Federatuak",
+      "common": "Mikronesia, Estatu Federatuak"
+    },
+    "be": {
+      "official": "Мікранезія, Федэратыўныя Штаты",
+      "common": "Мікранезія, Федэратыўныя Штаты"
+    },
+    "bn": {
+      "official": "মাইক্রোনেশিয়া যুক্তরাষ্ট্র",
+      "common": "মাইক্রোনেশিয়া যুক্তরাষ্ট্র"
+    },
+    "bs": {
+      "official": "Federalne Države Mikronezije",
+      "common": "Federalne Države Mikronezije"
+    },
+    "br": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "bg": {
+      "official": "Микронезия, Обединени щати",
+      "common": "Микронезия, Обединени щати"
+    },
+    "ca": {
+      "official": "Micronèsia, Estats Federats de",
+      "common": "Micronèsia, Estats Federats de"
+    },
+    "zh": {
+      "official": "密克罗尼西亚",
+      "common": "密克罗尼西亚"
+    },
+    "cs": {
+      "official": "Mikronésie, federativní státy",
+      "common": "Mikronésie, federativní státy"
+    },
+    "da": {
+      "official": "Mikronesiens Forenede Stater",
+      "common": "Mikronesiens Forenede Stater"
+    },
+    "nl": {
+      "official": "Micronesia",
+      "common": "Micronesia"
+    },
+    "dz": {
+      "official": "མི་ཀོ་རོ་་ནི་སིཡཱ་ སྤྱི་མཐུན་རྒྱལ་ཁབ།",
+      "common": "མི་ཀོ་རོ་་ནི་སིཡཱ་ སྤྱི་མཐུན་རྒྱལ་ཁབ།"
+    },
+    "en": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "eo": {
+      "official": "Mikronezio, Federaciaj Ŝtatoj de",
+      "common": "Mikronezio, Federaciaj Ŝtatoj de"
+    },
+    "et": {
+      "official": "Mikroneesia",
+      "common": "Mikroneesia"
+    },
+    "fo": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "fi": {
+      "official": "Mikronesian liittovaltio",
+      "common": "Mikronesian liittovaltio"
+    },
+    "fr": {
+      "official": "Micronésie, États fédérés de",
+      "common": "Micronésie, États fédérés de"
+    },
+    "ka": {
+      "official": "მიკრონეზიის ფედერალური შტატები",
+      "common": "მიკრონეზიის ფედერალური შტატები"
+    },
+    "de": {
+      "official": "Mikronesien, Föderierte Staaten von",
+      "common": "Mikronesien, Föderierte Staaten von"
+    },
+    "ga": {
+      "official": "An Mhicrinéis",
+      "common": "An Mhicrinéis"
+    },
+    "gl": {
+      "official": "Micronesia, Estados Federados de",
+      "common": "Micronesia, Estados Federados de"
+    },
+    "el": {
+      "official": "Μικρονησία, Ομόσπονδες Πολιτείες της",
+      "common": "Μικρονησία, Ομόσπονδες Πολιτείες της"
+    },
+    "gu": {
+      "official": "માઇક્રોનેશિયા, ફેડરસ સ્ટેટ્સ ઓફ",
+      "common": "માઇક્રોનેશિયા, ફેડરસ સ્ટેટ્સ ઓફ"
+    },
+    "he": {
+      "official": "מיקרונזיה",
+      "common": "מיקרונזיה"
+    },
+    "hi": {
+      "official": "माइक्रोनीसिया, फेडेरेटड स्टेट्स ऑफ",
+      "common": "माइक्रोनीसिया, फेडेरेटड स्टेट्स ऑफ"
+    },
+    "hr": {
+      "official": "Mikronezija",
+      "common": "Mikronezija"
+    },
+    "hu": {
+      "official": "Mikronézia, Államszövetség",
+      "common": "Mikronézia, Államszövetség"
+    },
+    "is": {
+      "official": "Míkrónesía, Sambandsríki",
+      "common": "Míkrónesía, Sambandsríki"
+    },
+    "ia": {
+      "official": "Micronesia",
+      "common": "Micronesia"
+    },
+    "id": {
+      "official": "Federasi Negara-negara Micronesia",
+      "common": "Federasi Negara-negara Micronesia"
+    },
+    "it": {
+      "official": "Micronesia",
+      "common": "Micronesia"
+    },
+    "ja": {
+      "official": "ミクロネシア連邦",
+      "common": "ミクロネシア連邦"
+    },
+    "kn": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "kk": {
+      "official": "Микронезия",
+      "common": "Микронезия"
+    },
+    "km": {
+      "official": "​មីក្រូណេស៊ី​ រដ្ឋ​សហព័ន្ថ​នៃ",
+      "common": "​មីក្រូណេស៊ី​ រដ្ឋ​សហព័ន្ថ​នៃ"
+    },
+    "rw": {
+      "official": "Mikoronesiya, Leta Zishyizehamwe za",
+      "common": "Mikoronesiya, Leta Zishyizehamwe za"
+    },
+    "ko": {
+      "official": "미크로네시아 연방",
+      "common": "미크로네시아 연방"
+    },
+    "ku": {
+      "official": "Mîkronesya, Dewletên Federal yên",
+      "common": "Mîkronesya, Dewletên Federal yên"
+    },
+    "lv": {
+      "official": "Mikronēzijas",
+      "common": "Mikronēzijas"
+    },
+    "lt": {
+      "official": "Mikronezijos Federacinės Valstijos",
+      "common": "Mikronezijos Federacinės Valstijos"
+    },
+    "mk": {
+      "official": "Микронезија",
+      "common": "Микронезија"
+    },
+    "ml": {
+      "official": "മൈക്രോനേഷ്യ, ഫെഡറേറ്റഡ് സ്റ്റേറ്റ്സ് ഓഫ്",
+      "common": "മൈക്രോനേഷ്യ, ഫെഡറേറ്റഡ് സ്റ്റേറ്റ്സ് ഓഫ്"
+    },
+    "mi": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "mr": {
+      "official": "मायक्रोनेशिया, फेडरेटेड स्टेटस ऑफ",
+      "common": "मायक्रोनेशिया, फेडरेटेड स्टेटस ऑफ"
+    },
+    "ms": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "mt": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "mn": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "ne": {
+      "official": "मिक्रोनेसियाको संघिय राज्यहरू",
+      "common": "मिक्रोनेसियाको संघिय राज्यहरू"
+    },
+    "nn": {
+      "official": "Mikronesiaføderasjonen",
+      "common": "Mikronesiaføderasjonen"
+    },
+    "nb": {
+      "official": "Mikronesia, Føderasjonen",
+      "common": "Mikronesia, Føderasjonen"
+    },
+    "oc": {
+      "official": "Micronesia, Estats Federats de",
+      "common": "Micronesia, Estats Federats de"
+    },
+    "or": {
+      "official": "ମାଇକ୍ରୋନେସିୟା",
+      "common": "ମାଇକ୍ରୋନେସିୟା"
+    },
+    "pa": {
+      "official": "ਮਾਈਕਰੋਨੇਸਿਆ, ਸੰਘ",
+      "common": "ਮਾਈਕਰੋਨੇਸਿਆ, ਸੰਘ"
+    },
+    "fa": {
+      "official": "میکرونزی، ایالات فدرال",
+      "common": "میکرونزی، ایالات فدرال"
+    },
+    "pl": {
+      "official": "Mikronezja",
+      "common": "Mikronezja"
+    },
+    "pt": {
+      "official": "Micronesia, Estados Federados da",
+      "common": "Micronesia, Estados Federados da"
+    },
+    "ps": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "ro": {
+      "official": "Micronesia, Statele federale ale",
+      "common": "Micronesia, Statele federale ale"
+    },
+    "ru": {
+      "official": "Федеративные Штаты Микронезии",
+      "common": "Федеративные Штаты Микронезии"
+    },
+    "si": {
+      "official": "මයික්‍රෝසියා ෆෙඩරල් ජනපද",
+      "common": "මයික්‍රෝසියා ෆෙඩරල් ජනපද"
+    },
+    "sk": {
+      "official": "Mikronézske federatívne štáty",
+      "common": "Mikronézske federatívne štáty"
+    },
+    "sl": {
+      "official": "Mikronezija",
+      "common": "Mikronezija"
+    },
+    "so": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "es": {
+      "official": "Micronesia, Estados Federados de",
+      "common": "Micronesia, Estados Federados de"
+    },
+    "sr": {
+      "official": "Микронезија, Федералне Државе",
+      "common": "Микронезија, Федералне Државе"
+    },
+    "sw": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "sv": {
+      "official": "Mikronesien, federala staterna",
+      "common": "Mikronesien, federala staterna"
+    },
+    "ta": {
+      "official": "மைக்ரோனிஸியா கூட்டு நாடுகள்",
+      "common": "மைக்ரோனிஸியா கூட்டு நாடுகள்"
+    },
+    "tt": {
+      "official": "Микронесиа, Берләшкән İлләре",
+      "common": "Микронесиа, Берләшкән İлләре"
+    },
+    "te": {
+      "official": "మైక్రోనేశియా, ఫెడరేటేడ్ స్టేట్స ఆఫ్",
+      "common": "మైక్రోనేశియా, ఫెడరేటేడ్ స్టేట్స ఆఫ్"
+    },
+    "tl": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "th": {
+      "official": "ไมโครนีเซีย",
+      "common": "ไมโครนีเซีย"
+    },
+    "ti": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "tk": {
+      "official": "Mikroneziýa, Federatiw Ştatlary",
+      "common": "Mikroneziýa, Federatiw Ştatlary"
+    },
+    "tr": {
+      "official": "Mikronezya Federe Devletleri",
+      "common": "Mikronezya Federe Devletleri"
+    },
+    "ug": {
+      "official": "مىكرونېزىيە فېدېراتسىيەسى",
+      "common": "مىكرونېزىيە فېدېراتسىيەسى"
+    },
+    "uk": {
+      "official": "Мікронезія, федеративні штати",
+      "common": "Мікронезія, федеративні штати"
+    },
+    "ve": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "vi": {
+      "official": "Mi-khợ-rô-nê-xi-a, Liên Bang",
+      "common": "Mi-khợ-rô-nê-xi-a, Liên Bang"
+    },
+    "cy": {
+      "official": "Micronesia, Taleithiau Cyfunol",
+      "common": "Micronesia, Taleithiau Cyfunol"
+    },
+    "wa": {
+      "official": "Micronezeye",
+      "common": "Micronezeye"
+    },
+    "wo": {
+      "official": "Mikroneesi, Etaa yuñu Federe yu",
+      "common": "Mikroneesi, Etaa yuñu Federe yu"
+    },
+    "xh": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    },
+    "zu": {
+      "official": "Micronesia, Federated States of",
+      "common": "Micronesia, Federated States of"
+    }
+  }
+}

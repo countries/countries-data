@@ -1,0 +1,447 @@
+{
+  "continent": "Europe",
+  "alpha2": "EE",
+  "alpha3": "EST",
+  "country_code": "372",
+  "international_prefix": "00",
+  "ioc": "EST",
+  "gec": "EN",
+  "name": "Estonia",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7,
+    8
+  ],
+  "national_prefix": "None",
+  "number": "233",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "world_region": "EMEA",
+  "un_locode": "EE",
+  "nationality": "Estonian",
+  "eu_member": true,
+  "eea_member": true,
+  "vat_rates": {
+    "standard": 20,
+    "reduced": [
+      9
+    ],
+    "super_reduced": null,
+    "parking": null
+  },
+  "postal_code": true,
+  "unofficial_names": [
+    "Estonia",
+    "Estland",
+    "Estonie",
+    "エストニア"
+  ],
+  "languages_official": [
+    "et"
+  ],
+  "languages_spoken": [
+    "et"
+  ],
+  "geo": {
+    "latitude": 58.595272,
+    "latitude_dec": "58.69374465942383",
+    "longitude": 25.013607,
+    "longitude_dec": "25.24162483215332",
+    "max_latitude": 59.7003049,
+    "max_longitude": 28.2089249,
+    "min_latitude": 57.50931589999999,
+    "min_longitude": 21.7643132,
+    "bounds": {
+      "northeast": {
+        "lat": 59.7003049,
+        "lng": 28.2089249
+      },
+      "southwest": {
+        "lat": 57.50931589999999,
+        "lng": 21.7643132
+      }
+    }
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "key": "EE",
+    "zipex": "69501,11212",
+    "name": "ESTONIA",
+    "zip": "\\d{5}",
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "posturl": "http://www.post.ee/?op=sihtnumbriotsing",
+    "id": "data/EE"
+  },
+  "translations": {
+    "af": {
+      "official": "Estland",
+      "common": "Estland"
+    },
+    "sq": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "am": {
+      "official": "ጔስቶኒ።",
+      "common": "ጔስቶኒ።"
+    },
+    "ar": {
+      "official": "إستونيا",
+      "common": "إستونيا"
+    },
+    "hy": {
+      "official": "Էստոնիա",
+      "common": "Էստոնիա"
+    },
+    "as": {
+      "official": "এস্তোনিয়া",
+      "common": "এস্তোনিয়া"
+    },
+    "az": {
+      "official": "Estoniya",
+      "common": "Estoniya"
+    },
+    "eu": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "be": {
+      "official": "Эстонія",
+      "common": "Эстонія"
+    },
+    "bn": {
+      "official": "এস্তোনিয়া",
+      "common": "এস্তোনিয়া"
+    },
+    "bs": {
+      "official": "Estonija",
+      "common": "Estonija"
+    },
+    "br": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "bg": {
+      "official": "Естония",
+      "common": "Естония"
+    },
+    "ca": {
+      "official": "Estònia",
+      "common": "Estònia"
+    },
+    "zh": {
+      "official": "爱沙尼亚",
+      "common": "爱沙尼亚"
+    },
+    "cs": {
+      "official": "Estonsko",
+      "common": "Estonsko"
+    },
+    "da": {
+      "official": "Estland",
+      "common": "Estland"
+    },
+    "nl": {
+      "official": "Estland",
+      "common": "Estland"
+    },
+    "dz": {
+      "official": "ཨིསི་ཊོ་ནི་ཡ།",
+      "common": "ཨིསི་ཊོ་ནི་ཡ།"
+    },
+    "en": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "eo": {
+      "official": "Estonio",
+      "common": "Estonio"
+    },
+    "et": {
+      "official": "Eesti",
+      "common": "Eesti"
+    },
+    "fo": {
+      "official": "Estland",
+      "common": "Estland"
+    },
+    "fi": {
+      "official": "Viro",
+      "common": "Viro"
+    },
+    "fr": {
+      "official": "Estonie",
+      "common": "Estonie"
+    },
+    "ka": {
+      "official": "ესტონეთი",
+      "common": "ესტონეთი"
+    },
+    "de": {
+      "official": "Estland",
+      "common": "Estland"
+    },
+    "ga": {
+      "official": "An Eastóin",
+      "common": "An Eastóin"
+    },
+    "gl": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "el": {
+      "official": "Εσθονία",
+      "common": "Εσθονία"
+    },
+    "gu": {
+      "official": "ઇસ્ટોનિયા",
+      "common": "ઇસ્ટોનિયા"
+    },
+    "he": {
+      "official": "אסטוניה",
+      "common": "אסטוניה"
+    },
+    "hi": {
+      "official": "एस्टोनिया",
+      "common": "एस्टोनिया"
+    },
+    "hr": {
+      "official": "Estonija",
+      "common": "Estonija"
+    },
+    "hu": {
+      "official": "Észtország",
+      "common": "Észtország"
+    },
+    "is": {
+      "official": "Eistland",
+      "common": "Eistland"
+    },
+    "ia": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "id": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "it": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "ja": {
+      "official": "エストニア",
+      "common": "エストニア"
+    },
+    "kn": {
+      "official": "ಎಸ್ತೋನಿಯಾ",
+      "common": "ಎಸ್ತೋನಿಯಾ"
+    },
+    "kk": {
+      "official": "Эстония",
+      "common": "Эстония"
+    },
+    "km": {
+      "official": "អេស្តូនី",
+      "common": "អេស្តូនី"
+    },
+    "rw": {
+      "official": "Esitoniya",
+      "common": "Esitoniya"
+    },
+    "ko": {
+      "official": "에스토니아",
+      "common": "에스토니아"
+    },
+    "ku": {
+      "official": "Estonya",
+      "common": "Estonya"
+    },
+    "lv": {
+      "official": "Igaunija",
+      "common": "Igaunija"
+    },
+    "lt": {
+      "official": "Estija",
+      "common": "Estija"
+    },
+    "mk": {
+      "official": "Естонија",
+      "common": "Естонија"
+    },
+    "ml": {
+      "official": "എസ്തോണിയ",
+      "common": "എസ്തോണിയ"
+    },
+    "mi": {
+      "official": "Etonia",
+      "common": "Etonia"
+    },
+    "mr": {
+      "official": "इस्टोनिया",
+      "common": "इस्टोनिया"
+    },
+    "ms": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "mt": {
+      "official": "Estonja",
+      "common": "Estonja"
+    },
+    "mn": {
+      "official": "Эстони",
+      "common": "Эстони"
+    },
+    "ne": {
+      "official": "इस्टोनिया",
+      "common": "इस्टोनिया"
+    },
+    "nn": {
+      "official": "Estland",
+      "common": "Estland"
+    },
+    "nb": {
+      "official": "Estland",
+      "common": "Estland"
+    },
+    "oc": {
+      "official": "Estònia",
+      "common": "Estònia"
+    },
+    "or": {
+      "official": "ଇଷ୍ଟୋନିୟା",
+      "common": "ଇଷ୍ଟୋନିୟା"
+    },
+    "pa": {
+      "official": "ਈਸਟੋਨੀਆ",
+      "common": "ਈਸਟੋਨੀਆ"
+    },
+    "fa": {
+      "official": "استونی",
+      "common": "استونی"
+    },
+    "pl": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "pt": {
+      "official": "Estónia",
+      "common": "Estónia"
+    },
+    "ps": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "ro": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "ru": {
+      "official": "Эстония",
+      "common": "Эстония"
+    },
+    "si": {
+      "official": "එස්තෝනියා",
+      "common": "එස්තෝනියා"
+    },
+    "sk": {
+      "official": "Estónsko",
+      "common": "Estónsko"
+    },
+    "sl": {
+      "official": "Estonija",
+      "common": "Estonija"
+    },
+    "so": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "es": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "sr": {
+      "official": "Естонија",
+      "common": "Естонија"
+    },
+    "sw": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "sv": {
+      "official": "Estland",
+      "common": "Estland"
+    },
+    "ta": {
+      "official": "எசுதோனியா",
+      "common": "எசுதோனியா"
+    },
+    "tt": {
+      "official": "Естониа",
+      "common": "Естониа"
+    },
+    "te": {
+      "official": "ఇస్టోనియా",
+      "common": "ఇస్టోనియా"
+    },
+    "tl": {
+      "official": "Estoniya",
+      "common": "Estoniya"
+    },
+    "th": {
+      "official": "เอสโตเนีย",
+      "common": "เอสโตเนีย"
+    },
+    "ti": {
+      "official": "ኤስቶኒያ",
+      "common": "ኤስቶኒያ"
+    },
+    "tk": {
+      "official": "Estoniýa",
+      "common": "Estoniýa"
+    },
+    "tr": {
+      "official": "Estonya",
+      "common": "Estonya"
+    },
+    "ug": {
+      "official": "ئېستونىيە",
+      "common": "ئېستونىيە"
+    },
+    "uk": {
+      "official": "Естонія",
+      "common": "Естонія"
+    },
+    "ve": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "vi": {
+      "official": "E-xợ-tô-ni-a",
+      "common": "E-xợ-tô-ni-a"
+    },
+    "cy": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "wa": {
+      "official": "Estoneye",
+      "common": "Estoneye"
+    },
+    "wo": {
+      "official": "Estooni",
+      "common": "Estooni"
+    },
+    "xh": {
+      "official": "Estonia",
+      "common": "Estonia"
+    },
+    "zu": {
+      "official": "I-Estoniya",
+      "common": "I-Estoniya"
+    }
+  }
+}

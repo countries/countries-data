@@ -1,0 +1,443 @@
+{
+  "continent": "North America",
+  "alpha2": "KN",
+  "alpha3": "KNA",
+  "country_code": "1",
+  "international_prefix": "011",
+  "ioc": "SKN",
+  "gec": "SC",
+  "name": "Saint Kitts And Nevis",
+  "national_destination_code_lengths": [
+    3
+  ],
+  "national_number_lengths": [
+    10
+  ],
+  "national_prefix": "1",
+  "number": "659",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "world_region": "AMER",
+  "un_locode": "KN",
+  "nationality": "Kittian and Nevisian",
+  "postal_code": false,
+  "unofficial_names": [
+    "Saint Kitts and Nevis",
+    "Föderation St. Kitts und Nevis",
+    "Saint Kitts et Nevis",
+    "Saint Kitts y Nevis",
+    "セントクリストファー・ネイビス",
+    "Saint Kitts en Nevis",
+    "St. Kitts and Nevis",
+    "St Kitts and Nevis"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 17.357822,
+    "latitude_dec": "17.24447250366211",
+    "longitude": -62.782998,
+    "longitude_dec": "-62.643184661865234",
+    "max_latitude": 17.4180706,
+    "max_longitude": -62.5396309,
+    "min_latitude": 17.0941117,
+    "min_longitude": -62.8642646,
+    "bounds": {
+      "northeast": {
+        "lat": 17.4180706,
+        "lng": -62.5396309
+      },
+      "southwest": {
+        "lat": 17.0941117,
+        "lng": -62.8642646
+      }
+    }
+  },
+  "currency_code": "XCD",
+  "postal_address_data": {
+    "lang": "en",
+    "name": "SAINT KITTS AND NEVIS",
+    "require": "ACS",
+    "state_name_type": "island",
+    "id": "data/KN",
+    "languages": "en",
+    "sub_keys": "Nevis~St. Kitts",
+    "key": "KN",
+    "sub_isoids": "N~K",
+    "fmt": "%N%n%O%n%A%n%C, %S"
+  },
+  "translations": {
+    "af": {
+      "official": "St. Kitts en Nevis",
+      "common": "St. Kitts en Nevis"
+    },
+    "sq": {
+      "official": "Saint Kitts dhe Nevis",
+      "common": "Saint Kitts dhe Nevis"
+    },
+    "am": {
+      "official": "Saint Kitts and Nevis",
+      "common": "Saint Kitts and Nevis"
+    },
+    "ar": {
+      "official": "سانت كيتس و نيفس",
+      "common": "سانت كيتس و نيفس"
+    },
+    "hy": {
+      "official": "Սենտ Կիտս-Նեվիս",
+      "common": "Սենտ Կիտս-Նեվիս"
+    },
+    "as": {
+      "official": "চেন্ট কিট্‌স আৰু নেভিচ",
+      "common": "চেন্ট কিট্‌স আৰু নেভিচ"
+    },
+    "az": {
+      "official": "Müqəddəs Kit və Nevis",
+      "common": "Müqəddəs Kit və Nevis"
+    },
+    "eu": {
+      "official": "Saint Kitts eta Nevis",
+      "common": "Saint Kitts eta Nevis"
+    },
+    "be": {
+      "official": "Сент-Кітс і Невіс",
+      "common": "Сент-Кітс і Невіс"
+    },
+    "bn": {
+      "official": "সেন্ট কিটস ও নেভিস",
+      "common": "সেন্ট কিটস ও নেভিস"
+    },
+    "bs": {
+      "official": "Saint Kitts i Nevis",
+      "common": "Saint Kitts i Nevis"
+    },
+    "br": {
+      "official": "S. Kitts ha Nevis",
+      "common": "S. Kitts ha Nevis"
+    },
+    "bg": {
+      "official": "Свети Китс и Невис",
+      "common": "Свети Китс и Невис"
+    },
+    "ca": {
+      "official": "Saint Christopher i Nevis",
+      "common": "Saint Christopher i Nevis"
+    },
+    "zh": {
+      "official": "圣基茨和尼维斯",
+      "common": "圣基茨和尼维斯"
+    },
+    "cs": {
+      "official": "Svatý Kryštof a Nevis",
+      "common": "Svatý Kryštof a Nevis"
+    },
+    "da": {
+      "official": "Sankt Kitts og Nevis",
+      "common": "Sankt Kitts og Nevis"
+    },
+    "nl": {
+      "official": "Saint Kitts en Nevis",
+      "common": "Saint Kitts en Nevis"
+    },
+    "dz": {
+      "official": "སེནཊི་ ཀིཊིསི་ ཨེནཌི་ ནེ་བིསི།",
+      "common": "སེནཊི་ ཀིཊིསི་ ཨེནཌི་ ནེ་བིསི།"
+    },
+    "en": {
+      "official": "Saint Kitts and Nevis",
+      "common": "Saint Kitts and Nevis"
+    },
+    "eo": {
+      "official": "Sankta-Kito kaj Neviso",
+      "common": "Sankta-Kito kaj Neviso"
+    },
+    "et": {
+      "official": "Saint Kitts ja Nevis",
+      "common": "Saint Kitts ja Nevis"
+    },
+    "fo": {
+      "official": "Saint Kitts og Nevis",
+      "common": "Saint Kitts og Nevis"
+    },
+    "fi": {
+      "official": "Saint Kitts ja Nevis",
+      "common": "Saint Kitts ja Nevis"
+    },
+    "fr": {
+      "official": "Saint-Kitts-et-Nevis",
+      "common": "Saint-Kitts-et-Nevis"
+    },
+    "ka": {
+      "official": "სენტ-კიტსი და ნევისი",
+      "common": "სენტ-კიტსი და ნევისი"
+    },
+    "de": {
+      "official": "St. Kitts und Nevis",
+      "common": "St. Kitts und Nevis"
+    },
+    "ga": {
+      "official": "Saint Kitts agus Nevis",
+      "common": "Saint Kitts agus Nevis"
+    },
+    "gl": {
+      "official": "San Cristobo e Nevis",
+      "common": "San Cristobo e Nevis"
+    },
+    "el": {
+      "official": "Άγιος Χριστόφορος και Νέβις",
+      "common": "Άγιος Χριστόφορος και Νέβις"
+    },
+    "gu": {
+      "official": "સેન્ટ કીટ્સ અને નેવિસ",
+      "common": "સેન્ટ કીટ્સ અને નેવિસ"
+    },
+    "he": {
+      "official": "סנט קיטס ונביס",
+      "common": "סנט קיטס ונביס"
+    },
+    "hi": {
+      "official": "सेंट किट्स एन्ड नेविस",
+      "common": "सेंट किट्स एन्ड नेविस"
+    },
+    "hr": {
+      "official": "Sveti Kitts i Nevis",
+      "common": "Sveti Kitts i Nevis"
+    },
+    "hu": {
+      "official": "St. Kitts és Nevis",
+      "common": "St. Kitts és Nevis"
+    },
+    "is": {
+      "official": "Sankti Kitts og Neviseyjur",
+      "common": "Sankti Kitts og Neviseyjur"
+    },
+    "ia": {
+      "official": "Sancte Christophoro e Nevis",
+      "common": "Sancte Christophoro e Nevis"
+    },
+    "id": {
+      "official": "St Kittis & Nevis",
+      "common": "St Kittis & Nevis"
+    },
+    "it": {
+      "official": "Saint Kitts e Nevis",
+      "common": "Saint Kitts e Nevis"
+    },
+    "ja": {
+      "official": "セントクリストファー・ネーヴィス",
+      "common": "セントクリストファー・ネーヴィス"
+    },
+    "kn": {
+      "official": "ಸೇಂಟ್ ಕಿಟ್ಸ್ ಮತ್ತು ನೇವಿಸ್",
+      "common": "ಸೇಂಟ್ ಕಿಟ್ಸ್ ಮತ್ತು ನೇವಿಸ್"
+    },
+    "kk": {
+      "official": "Сент-Китс және Невис",
+      "common": "Сент-Китс және Невис"
+    },
+    "km": {
+      "official": "សង់ឃីត និង នេវីស",
+      "common": "សង់ឃីត និង នេវីស"
+    },
+    "rw": {
+      "official": "Mutagatifu Kitsi na Nevisi",
+      "common": "Mutagatifu Kitsi na Nevisi"
+    },
+    "ko": {
+      "official": "세인트 키츠 네비스",
+      "common": "세인트 키츠 네비스"
+    },
+    "ku": {
+      "official": "Saint Kitts û Nevis",
+      "common": "Saint Kitts û Nevis"
+    },
+    "lv": {
+      "official": "Sentkitsa un Nevisa",
+      "common": "Sentkitsa un Nevisa"
+    },
+    "lt": {
+      "official": "Sent Kitsas ir Nevis",
+      "common": "Sent Kitsas ir Nevis"
+    },
+    "mk": {
+      "official": "Св. Китс и Невис",
+      "common": "Св. Китс и Невис"
+    },
+    "ml": {
+      "official": "സെയിന്റ് കിറ്റ്സും നെവിസും",
+      "common": "സെയിന്റ് കിറ്റ്സും നെവിസും"
+    },
+    "mi": {
+      "official": "Saint Kitts and Nevis",
+      "common": "Saint Kitts and Nevis"
+    },
+    "mr": {
+      "official": "सेंट किटस् आणी नेव्हिस",
+      "common": "सेंट किटस् आणी नेव्हिस"
+    },
+    "ms": {
+      "official": "Saint Kitts dan Nevis",
+      "common": "Saint Kitts dan Nevis"
+    },
+    "mt": {
+      "official": "St. Kitts u Nevis",
+      "common": "St. Kitts u Nevis"
+    },
+    "mn": {
+      "official": "Saint Kitts and Nevis",
+      "common": "Saint Kitts and Nevis"
+    },
+    "ne": {
+      "official": "सेन्ट किट्स र नेभिस",
+      "common": "सेन्ट किट्स र नेभिस"
+    },
+    "nn": {
+      "official": "St. Kitts og Nevis; Saint Kitts og Nevis",
+      "common": "St. Kitts og Nevis; Saint Kitts og Nevis"
+    },
+    "nb": {
+      "official": "Saint Kitts og Nevis",
+      "common": "Saint Kitts og Nevis"
+    },
+    "oc": {
+      "official": "St. Kitts e Nevis",
+      "common": "St. Kitts e Nevis"
+    },
+    "or": {
+      "official": "ସେଣ୍ଟ କିଟ୍ସ ଏବଂ ନେଭିସ",
+      "common": "ସେଣ୍ଟ କିଟ୍ସ ଏବଂ ନେଭିସ"
+    },
+    "pa": {
+      "official": "ਸੇਂਟ ਕਿਟਸ ਅਤੇ ਨੇਵੀਸ",
+      "common": "ਸੇਂਟ ਕਿਟਸ ਅਤੇ ਨੇਵੀਸ"
+    },
+    "fa": {
+      "official": "سن کیتس و نویس",
+      "common": "سن کیتس و نویس"
+    },
+    "pl": {
+      "official": "Saint Kitts i Nevis",
+      "common": "Saint Kitts i Nevis"
+    },
+    "pt": {
+      "official": "Saint Kitts e Nevis",
+      "common": "Saint Kitts e Nevis"
+    },
+    "ps": {
+      "official": "Saint Kitts and Nevis",
+      "common": "Saint Kitts and Nevis"
+    },
+    "ro": {
+      "official": "Sfinții Kitts și Nevis",
+      "common": "Sfinții Kitts și Nevis"
+    },
+    "ru": {
+      "official": "Сент-Китс и Невис",
+      "common": "Сент-Китс и Невис"
+    },
+    "si": {
+      "official": "ශාන්ත කිට්ස් හා නෙවිස්",
+      "common": "ශාන්ත කිට්ස් හා නෙවිස්"
+    },
+    "sk": {
+      "official": "Svätý Krištof a Nevis",
+      "common": "Svätý Krištof a Nevis"
+    },
+    "sl": {
+      "official": "Saint Kitts in Nevis",
+      "common": "Saint Kitts in Nevis"
+    },
+    "so": {
+      "official": "Saint Kitts and Nevis",
+      "common": "Saint Kitts and Nevis"
+    },
+    "es": {
+      "official": "San Cristobo y Nevis",
+      "common": "San Cristobo y Nevis"
+    },
+    "sr": {
+      "official": "Свети Китс и Невис",
+      "common": "Свети Китс и Невис"
+    },
+    "sw": {
+      "official": "Saint Kitts and Nevis",
+      "common": "Saint Kitts and Nevis"
+    },
+    "sv": {
+      "official": "Sankt Kitts och Nevis",
+      "common": "Sankt Kitts och Nevis"
+    },
+    "ta": {
+      "official": "செயின்ட் கிட்ஸ் மற்றும் நிவிஸ்",
+      "common": "செயின்ட் கிட்ஸ் மற்றும் நிவிஸ்"
+    },
+    "tt": {
+      "official": "Saint Kitts and Nevis",
+      "common": "Saint Kitts and Nevis"
+    },
+    "te": {
+      "official": "సైంట్ కిట్స్ మరియు నెవిస్",
+      "common": "సైంట్ కిట్స్ మరియు నెవిస్"
+    },
+    "tl": {
+      "official": "Saint Kitts at Nevis",
+      "common": "Saint Kitts at Nevis"
+    },
+    "th": {
+      "official": "เซนต์คิตส์และเนวิส",
+      "common": "เซนต์คิตส์และเนวิส"
+    },
+    "ti": {
+      "official": "Saint Kitts and Nevis",
+      "common": "Saint Kitts and Nevis"
+    },
+    "tk": {
+      "official": "Sent-Kitts we Newis",
+      "common": "Sent-Kitts we Newis"
+    },
+    "tr": {
+      "official": "Sen Kitts ve Nevis",
+      "common": "Sen Kitts ve Nevis"
+    },
+    "ug": {
+      "official": "ساينىت-كىرىستوفېر ۋە نېۋىس",
+      "common": "ساينىت-كىرىستوفېر ۋە نېۋىس"
+    },
+    "uk": {
+      "official": "Сент-Кітс і Невіс",
+      "common": "Сент-Кітс і Невіс"
+    },
+    "ve": {
+      "official": "St. Kitts na Nevis",
+      "common": "St. Kitts na Nevis"
+    },
+    "vi": {
+      "official": "Xan-kít và Nê-vi",
+      "common": "Xan-kít và Nê-vi"
+    },
+    "cy": {
+      "official": "Saint Kitts a Nevis",
+      "common": "Saint Kitts a Nevis"
+    },
+    "wa": {
+      "official": "St Kitts & Nevis",
+      "common": "St Kitts & Nevis"
+    },
+    "wo": {
+      "official": "Saint Kitts and Nevis",
+      "common": "Saint Kitts and Nevis"
+    },
+    "xh": {
+      "official": "St. Kitts no Nevis",
+      "common": "St. Kitts no Nevis"
+    },
+    "zu": {
+      "official": "St. Kitts no Nevis",
+      "common": "St. Kitts no Nevis"
+    }
+  }
+}

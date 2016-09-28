@@ -1,0 +1,337 @@
+---
+continent: Asia
+alpha2: UZ
+alpha3: UZB
+country_code: '998'
+international_prefix: '810'
+ioc: UZB
+gec: UZ
+name: Uzbekistan
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: '8'
+number: '860'
+region: Asia
+subregion: Central Asia
+world_region: EMEA
+un_locode: UZ
+nationality: Uzbekistani
+postal_code: true
+unofficial_names:
+- Uzbekistan
+- Usbekistan
+- Ouzbékistan
+- Uzbekistán
+- ウズベキスタン
+- Oezbekistan
+languages_official:
+- uz
+- ru
+languages_spoken:
+- uz
+- ru
+geo:
+  latitude: 41.377491
+  latitude_dec: '41.77239227294922'
+  longitude: 64.585262
+  longitude_dec: '63.14588928222656'
+  max_latitude: 45.590075
+  max_longitude: 73.148946
+  min_latitude: 37.17225699999999
+  min_longitude: 55.99821780000001
+  bounds:
+    northeast:
+      lat: 45.590075
+      lng: 73.148946
+    southwest:
+      lat: 37.17225699999999
+      lng: 55.99821780000001
+currency_code: UZS
+postal_address_data:
+  key: UZ
+  upper: CS
+  zipex: '702100,700000'
+  name: UZBEKISTAN
+  zip: "\\d{6}"
+  fmt: "%N%n%O%n%A%n%Z %C%n%S"
+  posturl: http://www.pochta.uz/index.php/uz/pochta-indekslari/9
+  id: data/UZ
+translations:
+  af:
+    official: Oesbekistan
+    common: Oesbekistan
+  sq:
+    official: Uzbekistani
+    common: Uzbekistani
+  am:
+    official: ፙፔበጡስታን
+    common: ፙፔበጡስታን
+  ar:
+    official: أوزبكستان
+    common: أوزبكستان
+  hy:
+    official: Ուզբեկստան
+    common: Ուզբեկստան
+  as:
+    official: উজ্বেকিস্তান
+    common: উজ্বেকিস্তান
+  az:
+    official: Özbəkistan
+    common: Özbəkistan
+  eu:
+    official: Uzbekistan
+    common: Uzbekistan
+  be:
+    official: Узбекістан
+    common: Узбекістан
+  bn:
+    official: উজবেকিস্তান
+    common: উজবেকিস্তান
+  bs:
+    official: Uzbekistan
+    common: Uzbekistan
+  br:
+    official: Uzbekistan
+    common: Uzbekistan
+  bg:
+    official: Узбекистан
+    common: Узбекистан
+  ca:
+    official: Uzbekistan
+    common: Uzbekistan
+  zh:
+    official: 乌兹别克斯坦
+    common: 乌兹别克斯坦
+  cs:
+    official: Uzbekistán
+    common: Uzbekistán
+  da:
+    official: Usbekistan
+    common: Usbekistan
+  nl:
+    official: Oezbekistan
+    common: Oezbekistan
+  dz:
+    official: ཨུཛ་བེ་ཀིསི་ཏཱན།
+    common: ཨུཛ་བེ་ཀིསི་ཏཱན།
+  en:
+    official: Uzbekistan
+    common: Uzbekistan
+  eo:
+    official: Uzbekio
+    common: Uzbekio
+  et:
+    official: Usbekistan
+    common: Usbekistan
+  fo:
+    official: Usbekistan
+    common: Usbekistan
+  fi:
+    official: Uzbekistan
+    common: Uzbekistan
+  fr:
+    official: Ouzbékistan
+    common: Ouzbékistan
+  ka:
+    official: უზბაკეთი
+    common: უზბაკეთი
+  de:
+    official: Usbekistan
+    common: Usbekistan
+  ga:
+    official: Úisbéiceastáin
+    common: Úisbéiceastáin
+  gl:
+    official: Uzbequistán
+    common: Uzbequistán
+  el:
+    official: Ουζμπεκιστάν
+    common: Ουζμπεκιστάν
+  gu:
+    official: ઉઝબેકિસ્તાન
+    common: ઉઝબેકિસ્તાન
+  he:
+    official: אוזבקיסטן
+    common: אוזבקיסטן
+  hi:
+    official: उज़्बेकिस्तान
+    common: उज़्बेकिस्तान
+  hr:
+    official: Uzbekistan
+    common: Uzbekistan
+  hu:
+    official: Üzbegisztán
+    common: Üzbegisztán
+  is:
+    official: Úsbekistan
+    common: Úsbekistan
+  ia:
+    official: Uzbekistan
+    common: Uzbekistan
+  id:
+    official: Uzbekistan
+    common: Uzbekistan
+  it:
+    official: Uzbekistan
+    common: Uzbekistan
+  ja:
+    official: ウズベキスタン
+    common: ウズベキスタン
+  kn:
+    official: ಉಜ್ಬೆಕಿಸ್ತಾನ್
+    common: ಉಜ್ಬೆಕಿಸ್ತಾನ್
+  kk:
+    official: Өзбекстан
+    common: Өзбекстан
+  km:
+    official: អ៊ូហ្សបេគីស្តង់
+    common: អ៊ូហ្សបេគីស្តង់
+  rw:
+    official: Uzubekisitani
+    common: Uzubekisitani
+  ko:
+    official: 우즈베키스탄
+    common: 우즈베키스탄
+  ku:
+    official: Ozbekîstan
+    common: Ozbekîstan
+  lv:
+    official: Uzbekistāna
+    common: Uzbekistāna
+  lt:
+    official: Uzbekija
+    common: Uzbekija
+  mk:
+    official: Узбекистан
+    common: Узбекистан
+  ml:
+    official: ഉസ്ബേക്കിസ്താന്‍
+    common: ഉസ്ബേക്കിസ്താന്‍
+  mi:
+    official: Uhipeketāne
+    common: Uhipeketāne
+  mr:
+    official: उझबेगिस्तान
+    common: उझबेगिस्तान
+  ms:
+    official: Uzbekistan
+    common: Uzbekistan
+  mt:
+    official: Użbekistan
+    common: Użbekistan
+  mn:
+    official: узбекстан
+    common: узбекстан
+  ne:
+    official: उज्बेकिस्तान
+    common: उज्बेकिस्तान
+  nn:
+    official: Usbekistan
+    common: Usbekistan
+  nb:
+    official: Usbekistan
+    common: Usbekistan
+  oc:
+    official: Ozbequistan
+    common: Ozbequistan
+  or:
+    official: ଉଜବେକିସ୍ତାନ
+    common: ଉଜବେକିସ୍ତାନ
+  pa:
+    official: ਉਜ਼ੇਬਕਸਤਾਨ
+    common: ਉਜ਼ੇਬਕਸਤਾਨ
+  fa:
+    official: ازبکستان
+    common: ازبکستان
+  pl:
+    official: Uzbekistan
+    common: Uzbekistan
+  pt:
+    official: Uzbequistão
+    common: Uzbequistão
+  ps:
+    official: Uzbekistan
+    common: Uzbekistan
+  ro:
+    official: Uzbekistan
+    common: Uzbekistan
+  ru:
+    official: Узбекистан
+    common: Узбекистан
+  si:
+    official: උස්බෙකිස්තානය
+    common: උස්බෙකිස්තානය
+  sk:
+    official: Uzbekistan
+    common: Uzbekistan
+  sl:
+    official: Uzbekistan
+    common: Uzbekistan
+  so:
+    official: Uzbekistan
+    common: Uzbekistan
+  es:
+    official: Uzbekistán
+    common: Uzbekistán
+  sr:
+    official: Узбекистан
+    common: Узбекистан
+  sw:
+    official: Uzbekistan
+    common: Uzbekistan
+  sv:
+    official: Uzbekistan
+    common: Uzbekistan
+  ta:
+    official: உஸ்பெகிஸ்தான்
+    common: உஸ்பெகிஸ்தான்
+  tt:
+    official: Өзбәкстан
+    common: Өзбәкстан
+  te:
+    official: ఉజ్బెకిస్తాన్
+    common: ఉజ్బెకిస్తాన్
+  tl:
+    official: Uzbekistan
+    common: Uzbekistan
+  th:
+    official: อุซเบกิสถาน
+    common: อุซเบกิสถาน
+  ti:
+    official: ዩዝበኪስታን
+    common: ዩዝበኪስታን
+  tk:
+    official: Özbegistan
+    common: Özbegistan
+  tr:
+    official: Özbekistan
+    common: Özbekistan
+  ug:
+    official: ئۆزبېكىستان
+    common: ئۆزبېكىستان
+  uk:
+    official: Узбекистан
+    common: Узбекистан
+  ve:
+    official: Uzbekistan
+    common: Uzbekistan
+  vi:
+    official: U-xợ-bê-khi-xtanh
+    common: U-xợ-bê-khi-xtanh
+  cy:
+    official: Wsbecistan
+    common: Wsbecistan
+  wa:
+    official: Ouzbekistan
+    common: Ouzbekistan
+  wo:
+    official: Usbekistaan
+    common: Usbekistaan
+  xh:
+    official: Uzbekistan
+    common: Uzbekistan
+  zu:
+    official: Uzbekistan
+    common: Uzbekistan

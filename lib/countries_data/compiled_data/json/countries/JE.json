@@ -1,0 +1,438 @@
+{
+  "continent": "Europe",
+  "alpha2": "JE",
+  "alpha3": "JEY",
+  "country_code": "44",
+  "international_prefix": "",
+  "ioc": null,
+  "gec": "JE",
+  "name": "Jersey",
+  "national_destination_code_lengths": [
+
+  ],
+  "national_number_lengths": [
+
+  ],
+  "national_prefix": "",
+  "number": "832",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "world_region": "EMEA",
+  "un_locode": null,
+  "nationality": "Channel Islander",
+  "postal_code": true,
+  "unofficial_names": [
+    "Jersey",
+    "ジャージー"
+  ],
+  "languages_official": [
+    "en",
+    "fr"
+  ],
+  "languages_spoken": [
+    "en",
+    "fr"
+  ],
+  "geo": {
+    "latitude": 49.214439,
+    "latitude_dec": "49.2285041809082",
+    "longitude": -2.13125,
+    "longitude_dec": "-2.1228928565979004",
+    "max_latitude": 49.2621314,
+    "max_longitude": -2.0104646,
+    "min_latitude": 49.1601216,
+    "min_longitude": -2.2548011,
+    "bounds": {
+      "northeast": {
+        "lat": 49.2621314,
+        "lng": -2.0104646
+      },
+      "southwest": {
+        "lat": 49.1601216,
+        "lng": -2.2548011
+      }
+    }
+  },
+  "currency_code": "JEP",
+  "postal_address_data": {
+    "key": "JE",
+    "upper": "CZ",
+    "zipex": "JE1 1AA,JE2 2BT",
+    "name": "CHANNEL ISLANDS",
+    "zip": "JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}",
+    "require": "ACZ",
+    "id": "data/JE",
+    "posturl": "http://www.jerseypost.com/tools/postcode-address-finder/",
+    "fmt": "%N%n%O%n%A%n%C%nJERSEY%n%Z"
+  },
+  "translations": {
+    "af": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "sq": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "am": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "ar": {
+      "official": "جيرسي",
+      "common": "جيرسي"
+    },
+    "hy": {
+      "official": "Ջերսի",
+      "common": "Ջերսի"
+    },
+    "as": {
+      "official": "জাৰ্চী",
+      "common": "জাৰ্চী"
+    },
+    "az": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "eu": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "be": {
+      "official": "Джэрсі",
+      "common": "Джэрсі"
+    },
+    "bn": {
+      "official": "জার্সি",
+      "common": "জার্সি"
+    },
+    "bs": {
+      "official": "Džerzi",
+      "common": "Džerzi"
+    },
+    "br": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "bg": {
+      "official": "Джърси",
+      "common": "Джърси"
+    },
+    "ca": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "zh": {
+      "official": "泽西岛",
+      "common": "泽西岛"
+    },
+    "cs": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "da": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "nl": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "dz": {
+      "official": "ཇར་སི།",
+      "common": "ཇར་སི།"
+    },
+    "en": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "eo": {
+      "official": "Ĵerzejo",
+      "common": "Ĵerzejo"
+    },
+    "et": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "fo": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "fi": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "fr": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "ka": {
+      "official": "ჯერსი",
+      "common": "ჯერსი"
+    },
+    "de": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "ga": {
+      "official": "Geirsí",
+      "common": "Geirsí"
+    },
+    "gl": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "el": {
+      "official": "Τζέρσεϋ",
+      "common": "Τζέρσεϋ"
+    },
+    "gu": {
+      "official": "જર્સી",
+      "common": "જર્સી"
+    },
+    "he": {
+      "official": "ג'רזי",
+      "common": "ג'רזי"
+    },
+    "hi": {
+      "official": "जर्सी",
+      "common": "जर्सी"
+    },
+    "hr": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "hu": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "is": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "ia": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "id": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "it": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "ja": {
+      "official": "ジャージー",
+      "common": "ジャージー"
+    },
+    "kn": {
+      "official": "ಜರ್ಸಿ",
+      "common": "ಜರ್ಸಿ"
+    },
+    "kk": {
+      "official": "Джерси",
+      "common": "Джерси"
+    },
+    "km": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "rw": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "ko": {
+      "official": "저지섬",
+      "common": "저지섬"
+    },
+    "ku": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "lv": {
+      "official": "Džersija",
+      "common": "Džersija"
+    },
+    "lt": {
+      "official": "Džersis",
+      "common": "Džersis"
+    },
+    "mk": {
+      "official": "Џерси",
+      "common": "Џерси"
+    },
+    "ml": {
+      "official": "ജെര്‍സി",
+      "common": "ജെര്‍സി"
+    },
+    "mi": {
+      "official": "Tōrehe",
+      "common": "Tōrehe"
+    },
+    "mr": {
+      "official": "जर्सी",
+      "common": "जर्सी"
+    },
+    "ms": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "mt": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "mn": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "ne": {
+      "official": "जर्सी",
+      "common": "जर्सी"
+    },
+    "nn": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "nb": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "oc": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "or": {
+      "official": "ଜର୍ସୀ",
+      "common": "ଜର୍ସୀ"
+    },
+    "pa": {
+      "official": "ਜਰਸੀ",
+      "common": "ਜਰਸੀ"
+    },
+    "fa": {
+      "official": "جرسی",
+      "common": "جرسی"
+    },
+    "pl": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "pt": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "ps": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "ro": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "ru": {
+      "official": "Джерси",
+      "common": "Джерси"
+    },
+    "si": {
+      "official": "ජර්සි",
+      "common": "ජර්සි"
+    },
+    "sk": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "sl": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "so": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "es": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "sr": {
+      "official": "Џерси",
+      "common": "Џерси"
+    },
+    "sw": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "sv": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "ta": {
+      "official": "ஜெர்சி",
+      "common": "ஜெர்சி"
+    },
+    "tt": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "te": {
+      "official": "జర్సీ",
+      "common": "జర్సీ"
+    },
+    "tl": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "th": {
+      "official": "เจอร์ซีย์",
+      "common": "เจอร์ซีย์"
+    },
+    "ti": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "tk": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "tr": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "ug": {
+      "official": "جېرسېي",
+      "common": "جېرسېي"
+    },
+    "uk": {
+      "official": "Джерсі",
+      "common": "Джерсі"
+    },
+    "ve": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "vi": {
+      "official": "Giơ-xị",
+      "common": "Giơ-xị"
+    },
+    "cy": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "wa": {
+      "official": "Djersey",
+      "common": "Djersey"
+    },
+    "wo": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "xh": {
+      "official": "Jersey",
+      "common": "Jersey"
+    },
+    "zu": {
+      "official": "Jersey",
+      "common": "Jersey"
+    }
+  }
+}

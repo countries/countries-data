@@ -1,0 +1,437 @@
+{
+  "continent": "Australia",
+  "alpha2": "PN",
+  "alpha3": "PCN",
+  "country_code": "",
+  "international_prefix": "00",
+  "ioc": null,
+  "gec": "PC",
+  "name": "Pitcairn",
+  "national_destination_code_lengths": [
+
+  ],
+  "national_number_lengths": [
+    9
+  ],
+  "national_prefix": "0",
+  "number": "612",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "world_region": "APAC",
+  "un_locode": "PN",
+  "nationality": "Pitcairn Islander",
+  "postal_code": true,
+  "unofficial_names": [
+    "Pitcairn",
+    "ピトケアン",
+    "Pitcairneilanden",
+    "Pitcairn Islands"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": -24.3767537,
+    "latitude_dec": "-24.372114181518555",
+    "longitude": -128.3242376,
+    "longitude_dec": "-128.31124877929688",
+    "max_latitude": -23.9059474,
+    "max_longitude": -124.7721577,
+    "min_latitude": -25.0798074,
+    "min_longitude": -130.7525907,
+    "bounds": {
+      "northeast": {
+        "lat": -23.9059474,
+        "lng": -124.7721577
+      },
+      "southwest": {
+        "lat": -25.0798074,
+        "lng": -130.7525907
+      }
+    }
+  },
+  "currency_code": "NZD",
+  "postal_address_data": {
+    "upper": "CZ",
+    "zipex": "PCRN 1ZZ",
+    "name": "PITCAIRN",
+    "zip": "PCRN 1ZZ",
+    "require": "ACZ",
+    "id": "data/PN",
+    "key": "PN",
+    "fmt": "%N%n%O%n%A%n%C%n%Z"
+  },
+  "translations": {
+    "af": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "sq": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "am": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "ar": {
+      "official": "بتكيرن",
+      "common": "بتكيرن"
+    },
+    "hy": {
+      "official": "Պիտքերնյան կղզիներ",
+      "common": "Պիտքերնյան կղզիներ"
+    },
+    "as": {
+      "official": "পিটকেইৰ্ণ",
+      "common": "পিটকেইৰ্ণ"
+    },
+    "az": {
+      "official": "Pitkairn",
+      "common": "Pitkairn"
+    },
+    "eu": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "be": {
+      "official": "Піткэрн",
+      "common": "Піткэрн"
+    },
+    "bn": {
+      "official": "পিটকেয়ার্ন",
+      "common": "পিটকেয়ার্ন"
+    },
+    "bs": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "br": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "bg": {
+      "official": "Питкеърн",
+      "common": "Питкеърн"
+    },
+    "ca": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "zh": {
+      "official": "皮特克恩",
+      "common": "皮特克恩"
+    },
+    "cs": {
+      "official": "Pitcairnovy ostrovy",
+      "common": "Pitcairnovy ostrovy"
+    },
+    "da": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "nl": {
+      "official": "Pitcairneilanden",
+      "common": "Pitcairneilanden"
+    },
+    "dz": {
+      "official": "པིཊི་ཀའི་རིན།",
+      "common": "པིཊི་ཀའི་རིན།"
+    },
+    "en": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "eo": {
+      "official": "Pitkarna Insulo",
+      "common": "Pitkarna Insulo"
+    },
+    "et": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "fo": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "fi": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "fr": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "ka": {
+      "official": "პიტკარინი",
+      "common": "პიტკარინი"
+    },
+    "de": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "ga": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "gl": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "el": {
+      "official": "Πίτκαϊρν",
+      "common": "Πίτκαϊρν"
+    },
+    "gu": {
+      "official": "પીટેકેર્ન",
+      "common": "પીટેકેર્ન"
+    },
+    "he": {
+      "official": "פיטקרן",
+      "common": "פיטקרן"
+    },
+    "hi": {
+      "official": "पिटकायर्न",
+      "common": "पिटकायर्न"
+    },
+    "hr": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "hu": {
+      "official": "Pitcairn-szigetek",
+      "common": "Pitcairn-szigetek"
+    },
+    "is": {
+      "official": "Pitkairn-eyja",
+      "common": "Pitkairn-eyja"
+    },
+    "ia": {
+      "official": "Insula Pitcairn",
+      "common": "Insula Pitcairn"
+    },
+    "id": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "it": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "ja": {
+      "official": "ピトケアン",
+      "common": "ピトケアン"
+    },
+    "kn": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "kk": {
+      "official": "Питкэрн аралдары",
+      "common": "Питкэрн аралдары"
+    },
+    "km": {
+      "official": "ពីតខាយរិន",
+      "common": "ពីតខាយរិន"
+    },
+    "rw": {
+      "official": "Piticayirine",
+      "common": "Piticayirine"
+    },
+    "ko": {
+      "official": "피트케언",
+      "common": "피트케언"
+    },
+    "ku": {
+      "official": "Pitkayirn",
+      "common": "Pitkayirn"
+    },
+    "lv": {
+      "official": "Pitkērna",
+      "common": "Pitkērna"
+    },
+    "lt": {
+      "official": "Pitkernas",
+      "common": "Pitkernas"
+    },
+    "mk": {
+      "official": "Питкаирн",
+      "common": "Питкаирн"
+    },
+    "ml": {
+      "official": "പിറ്റ്കയേണ്‍",
+      "common": "പിറ്റ്കയേണ്‍"
+    },
+    "mi": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "mr": {
+      "official": "पिटकेर्न",
+      "common": "पिटकेर्न"
+    },
+    "ms": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "mt": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "mn": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "ne": {
+      "official": "पितकैरन",
+      "common": "पितकैरन"
+    },
+    "nn": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "nb": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "oc": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "or": {
+      "official": "ପିଟକେର୍ନ",
+      "common": "ପିଟକେର୍ନ"
+    },
+    "pa": {
+      "official": "ਪਿਟਸਾਰਨ",
+      "common": "ਪਿਟਸਾਰਨ"
+    },
+    "fa": {
+      "official": "پیتکایرن",
+      "common": "پیتکایرن"
+    },
+    "pl": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "pt": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "ps": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "ro": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "ru": {
+      "official": "Питкэрн",
+      "common": "Питкэрн"
+    },
+    "si": {
+      "official": "පිට්කායිරනව",
+      "common": "පිට්කායිරනව"
+    },
+    "sk": {
+      "official": "Pitcairnove ostrovy",
+      "common": "Pitcairnove ostrovy"
+    },
+    "sl": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "so": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "es": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "sr": {
+      "official": "Питкарн",
+      "common": "Питкарн"
+    },
+    "sw": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "sv": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "ta": {
+      "official": "பிட்கேரின்",
+      "common": "பிட்கேரின்"
+    },
+    "tt": {
+      "official": "Питкаирн",
+      "common": "Питкаирн"
+    },
+    "te": {
+      "official": "పిట్‌కైర్న్",
+      "common": "పిట్‌కైర్న్"
+    },
+    "tl": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "th": {
+      "official": "พิตแคร์น",
+      "common": "พิตแคร์น"
+    },
+    "ti": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "tk": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "tr": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "ug": {
+      "official": "پىتكاير",
+      "common": "پىتكاير"
+    },
+    "uk": {
+      "official": "Піткерн",
+      "common": "Піткерн"
+    },
+    "ve": {
+      "official": "Pakistan",
+      "common": "Pakistan"
+    },
+    "vi": {
+      "official": "Pi-thợ-khenh",
+      "common": "Pi-thợ-khenh"
+    },
+    "cy": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "wa": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "wo": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "xh": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    },
+    "zu": {
+      "official": "Pitcairn",
+      "common": "Pitcairn"
+    }
+  }
+}

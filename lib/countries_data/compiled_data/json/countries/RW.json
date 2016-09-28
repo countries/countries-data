@@ -1,0 +1,437 @@
+{
+  "continent": "Africa",
+  "alpha2": "RW",
+  "alpha3": "RWA",
+  "country_code": "250",
+  "international_prefix": "00",
+  "ioc": "RWA",
+  "gec": "RW",
+  "name": "Rwanda",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8,
+    9
+  ],
+  "national_prefix": "0",
+  "number": "646",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "world_region": "EMEA",
+  "un_locode": "RW",
+  "nationality": "Rwandan",
+  "postal_code": false,
+  "unofficial_names": [
+    "Rwanda",
+    "Ruanda",
+    "ルワンダ"
+  ],
+  "languages_official": [
+    "rw",
+    "en",
+    "fr"
+  ],
+  "languages_spoken": [
+    "rw",
+    "en",
+    "fr"
+  ],
+  "geo": {
+    "latitude": -1.940278,
+    "latitude_dec": "-1.9999498128890991",
+    "longitude": 29.873888,
+    "longitude_dec": "29.926057815551758",
+    "max_latitude": -1.0473753,
+    "max_longitude": 30.8991179,
+    "min_latitude": -2.8399383,
+    "min_longitude": 28.8617539,
+    "bounds": {
+      "northeast": {
+        "lat": -1.0473753,
+        "lng": 30.8991179
+      },
+      "southwest": {
+        "lat": -2.8399383,
+        "lng": 28.8617539
+      }
+    }
+  },
+  "currency_code": "RWF",
+  "postal_address_data": {
+    "upper": "AC",
+    "id": "data/RW",
+    "key": "RW",
+    "name": "RWANDA"
+  },
+  "translations": {
+    "af": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "sq": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "am": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "ar": {
+      "official": "رواندا",
+      "common": "رواندا"
+    },
+    "hy": {
+      "official": "Ռուանդա",
+      "common": "Ռուանդա"
+    },
+    "as": {
+      "official": "ৰৱান্ডা",
+      "common": "ৰৱান্ডা"
+    },
+    "az": {
+      "official": "Rvanda",
+      "common": "Rvanda"
+    },
+    "eu": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "be": {
+      "official": "Руанда",
+      "common": "Руанда"
+    },
+    "bn": {
+      "official": "রওয়ান্ডা",
+      "common": "রওয়ান্ডা"
+    },
+    "bs": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "br": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "bg": {
+      "official": "Руанда",
+      "common": "Руанда"
+    },
+    "ca": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "zh": {
+      "official": "卢旺达",
+      "common": "卢旺达"
+    },
+    "cs": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "da": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "nl": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "dz": {
+      "official": "ར་ཝན་ཌ།",
+      "common": "ར་ཝན་ཌ།"
+    },
+    "en": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "eo": {
+      "official": "Ruando",
+      "common": "Ruando"
+    },
+    "et": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "fo": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "fi": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "fr": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "ka": {
+      "official": "რუანდა",
+      "common": "რუანდა"
+    },
+    "de": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "ga": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "gl": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "el": {
+      "official": "Ρουάντα",
+      "common": "Ρουάντα"
+    },
+    "gu": {
+      "official": "રવાન્ડા",
+      "common": "રવાન્ડા"
+    },
+    "he": {
+      "official": "רואנדה",
+      "common": "רואנדה"
+    },
+    "hi": {
+      "official": "रवांडा",
+      "common": "रवांडा"
+    },
+    "hr": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "hu": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "is": {
+      "official": "Rúanda",
+      "common": "Rúanda"
+    },
+    "ia": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "id": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "it": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "ja": {
+      "official": "ルワンダ",
+      "common": "ルワンダ"
+    },
+    "kn": {
+      "official": "ರುವಾಂಡಾ",
+      "common": "ರುವಾಂಡಾ"
+    },
+    "kk": {
+      "official": "Руанда",
+      "common": "Руанда"
+    },
+    "km": {
+      "official": "រវ៉ាន់ដា",
+      "common": "រវ៉ាន់ដា"
+    },
+    "rw": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "ko": {
+      "official": "르완다",
+      "common": "르완다"
+    },
+    "ku": {
+      "official": "Rûanda",
+      "common": "Rûanda"
+    },
+    "lv": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "lt": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "mk": {
+      "official": "Руанда",
+      "common": "Руанда"
+    },
+    "ml": {
+      "official": "റുവാണ്ട",
+      "common": "റുവാണ്ട"
+    },
+    "mi": {
+      "official": "Rāwana",
+      "common": "Rāwana"
+    },
+    "mr": {
+      "official": "रवांडा",
+      "common": "रवांडा"
+    },
+    "ms": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "mt": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "mn": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "ne": {
+      "official": "र्वान्डा",
+      "common": "र्वान्डा"
+    },
+    "nn": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "nb": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "oc": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "or": {
+      "official": "ରଓ୍ବାଣ୍ଡା",
+      "common": "ରଓ୍ବାଣ୍ଡା"
+    },
+    "pa": {
+      "official": "ਰਵਾਂਡਾ",
+      "common": "ਰਵਾਂਡਾ"
+    },
+    "fa": {
+      "official": "رواندا",
+      "common": "رواندا"
+    },
+    "pl": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "pt": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "ps": {
+      "official": "روندا",
+      "common": "روندا"
+    },
+    "ro": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "ru": {
+      "official": "Руанда",
+      "common": "Руанда"
+    },
+    "si": {
+      "official": "රුවන්ඩා",
+      "common": "රුවන්ඩා"
+    },
+    "sk": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "sl": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "so": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "es": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "sr": {
+      "official": "Руанда",
+      "common": "Руанда"
+    },
+    "sw": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "sv": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "ta": {
+      "official": "ருவாண்டா",
+      "common": "ருவாண்டா"
+    },
+    "tt": {
+      "official": "Рванда",
+      "common": "Рванда"
+    },
+    "te": {
+      "official": "రువాండా",
+      "common": "రువాండా"
+    },
+    "tl": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "th": {
+      "official": "รวันดา",
+      "common": "รวันดา"
+    },
+    "ti": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "tk": {
+      "official": "Ruandiýa",
+      "common": "Ruandiýa"
+    },
+    "tr": {
+      "official": "Ruanda",
+      "common": "Ruanda"
+    },
+    "ug": {
+      "official": "رىۋاندا",
+      "common": "رىۋاندا"
+    },
+    "uk": {
+      "official": "Руанда",
+      "common": "Руанда"
+    },
+    "ve": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "vi": {
+      "official": "Ru-oanh-đa",
+      "common": "Ru-oanh-đa"
+    },
+    "cy": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "wa": {
+      "official": "Rwanda",
+      "common": "Rwanda"
+    },
+    "wo": {
+      "official": "Ruwaanda",
+      "common": "Ruwaanda"
+    },
+    "xh": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "zu": {
+      "official": "I Khanada",
+      "common": "I Khanada"
+    }
+  }
+}

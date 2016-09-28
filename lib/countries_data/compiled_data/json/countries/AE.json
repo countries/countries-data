@@ -1,0 +1,448 @@
+{
+  "continent": "Asia",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}}\n{{country}}",
+  "alpha2": "AE",
+  "alpha3": "ARE",
+  "country_code": "971",
+  "international_prefix": "00",
+  "ioc": "UAE",
+  "gec": "AE",
+  "name": "United Arab Emirates",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    7,
+    8,
+    9
+  ],
+  "national_prefix": "0",
+  "number": "784",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "world_region": "EMEA",
+  "un_locode": "AE",
+  "nationality": "Emirian",
+  "postal_code": false,
+  "unofficial_names": [
+    "United Arab Emirates",
+    "الإمارات العربية المتحدة",
+    "Vereinigte Arabische Emirate",
+    "Émirats Arabes Unis",
+    "Emiratos Árabes Unidos",
+    "アラブ首長国連邦",
+    "Verenigde Arabische Emiraten"
+  ],
+  "languages_official": [
+    "ar"
+  ],
+  "languages_spoken": [
+    "ar"
+  ],
+  "geo": {
+    "latitude": 23.424076,
+    "latitude_dec": "23.684776306152344",
+    "longitude": 53.847818,
+    "longitude_dec": "54.536643981933594",
+    "max_latitude": 26.069654,
+    "max_longitude": 56.3816785,
+    "min_latitude": 22.6315137,
+    "min_longitude": 51.497705,
+    "bounds": {
+      "northeast": {
+        "lat": 26.069654,
+        "lng": 56.3816785
+      },
+      "southwest": {
+        "lat": 22.6315137,
+        "lng": 51.497705
+      }
+    }
+  },
+  "currency_code": "AED",
+  "postal_address_data": {
+    "lang": "ar",
+    "sub_lnames": "Abu Dhabi~Fujairah~Umm Al Quwain~Sharjah~Ras al Khaimah~Dubai~Ajman",
+    "name": "UNITED ARAB EMIRATES",
+    "require": "AS",
+    "state_name_type": "emirate",
+    "id": "data/AE",
+    "languages": "ar",
+    "lfmt": "%N%n%O%n%A%n%S",
+    "sub_keys": "أبو ظبي~الفجيرة~ام القيوين~إمارة الشارقةّ~إمارة رأس الخيمة~إمارة دبيّ~عجمان",
+    "key": "AE",
+    "sub_isoids": "AZ~FU~UQ~SH~RK~DU~AJ",
+    "fmt": "%N%n%O%n%A%n%S",
+    "sub_names": "أبو ظبي~الفجيرة~ام القيوين~إمارة الشارقةّ~إمارة رأس الخيمة~دبي~عجمان"
+  },
+  "translations": {
+    "af": {
+      "official": "Verenigde Arabiese Emirate",
+      "common": "Verenigde Arabiese Emirate"
+    },
+    "sq": {
+      "official": "Emiratet e Bashkuara Arabe",
+      "common": "Emiratet e Bashkuara Arabe"
+    },
+    "am": {
+      "official": "ፘተባበሩት ጐረብ ጔሤሳትስ",
+      "common": "ፘተባበሩት ጐረብ ጔሤሳትስ"
+    },
+    "ar": {
+      "official": "الإمارات العربيّة المتحدّة",
+      "common": "الإمارات العربيّة المتحدّة"
+    },
+    "hy": {
+      "official": "Միացյալ Արաբական Էմիրաթներ",
+      "common": "Միացյալ Արաբական Էմիրաթներ"
+    },
+    "as": {
+      "official": "ইউনাইটেড আৰৱ ইমিৰেটছ",
+      "common": "ইউনাইটেড আৰৱ ইমিৰেটছ"
+    },
+    "az": {
+      "official": "Birləşmiş Ərəb Əmirlikləri",
+      "common": "Birləşmiş Ərəb Əmirlikləri"
+    },
+    "eu": {
+      "official": "Arabiar Emirerri Batuak",
+      "common": "Arabiar Emirerri Batuak"
+    },
+    "be": {
+      "official": "Аб'яднаныя Арабскія Эміраты",
+      "common": "Аб'яднаныя Арабскія Эміраты"
+    },
+    "bn": {
+      "official": "সংযুক্ত আরব আমিরশাহী",
+      "common": "সংযুক্ত আরব আমিরশাহী"
+    },
+    "bs": {
+      "official": "Ujedinjeni Arapski Emirati",
+      "common": "Ujedinjeni Arapski Emirati"
+    },
+    "br": {
+      "official": "United Arab Emirates",
+      "common": "United Arab Emirates"
+    },
+    "bg": {
+      "official": "Обединени арабски емирства",
+      "common": "Обединени арабски емирства"
+    },
+    "ca": {
+      "official": "Unió dels Emirats Àrabs",
+      "common": "Unió dels Emirats Àrabs"
+    },
+    "zh": {
+      "official": "阿联酋",
+      "common": "阿联酋"
+    },
+    "cs": {
+      "official": "Spojené arabské emiráty",
+      "common": "Spojené arabské emiráty"
+    },
+    "da": {
+      "official": "Forenede Arabiske Emirater",
+      "common": "Forenede Arabiske Emirater"
+    },
+    "nl": {
+      "official": "Verenigde Arabische Emiraten",
+      "common": "Verenigde Arabische Emiraten"
+    },
+    "dz": {
+      "official": "ཡུ་ནའི་ཊེཊ་ ཨ་རབ་ ཨི་མི་རེཊིསི།",
+      "common": "ཡུ་ནའི་ཊེཊ་ ཨ་རབ་ ཨི་མི་རེཊིསི།"
+    },
+    "en": {
+      "official": "United Arab Emirates",
+      "common": "United Arab Emirates"
+    },
+    "eo": {
+      "official": "Unuiĝintaj Arabaj Emirlandoj",
+      "common": "Unuiĝintaj Arabaj Emirlandoj"
+    },
+    "et": {
+      "official": "Araabia Ühendemiraadid",
+      "common": "Araabia Ühendemiraadid"
+    },
+    "fo": {
+      "official": "Sameindu Emirríkini",
+      "common": "Sameindu Emirríkini"
+    },
+    "fi": {
+      "official": "Yhdistyneet arabiemiirikunnat",
+      "common": "Yhdistyneet arabiemiirikunnat"
+    },
+    "fr": {
+      "official": "Émirats arabes unis",
+      "common": "Émirats arabes unis"
+    },
+    "ka": {
+      "official": "არაბეთის გაერთიანებული ემირატები",
+      "common": "არაბეთის გაერთიანებული ემირატები"
+    },
+    "de": {
+      "official": "Vereinigte Arabische Emirate",
+      "common": "Vereinigte Arabische Emirate"
+    },
+    "ga": {
+      "official": "Aontas na nÉimíríochtaí Arabacha",
+      "common": "Aontas na nÉimíríochtaí Arabacha"
+    },
+    "gl": {
+      "official": "Emiratos Árabes Unidos",
+      "common": "Emiratos Árabes Unidos"
+    },
+    "el": {
+      "official": "Ηνωμένα Αραβικά Εμιράτα",
+      "common": "Ηνωμένα Αραβικά Εμιράτα"
+    },
+    "gu": {
+      "official": "યુનાઇટેડ આરબ અમીરાત",
+      "common": "યુનાઇટેડ આરબ અમીરાત"
+    },
+    "he": {
+      "official": "איחוד האמירויות",
+      "common": "איחוד האמירויות"
+    },
+    "hi": {
+      "official": "संयुक्त अरब अमीरात",
+      "common": "संयुक्त अरब अमीरात"
+    },
+    "hr": {
+      "official": "Ujedinjeni Arapski Emirati",
+      "common": "Ujedinjeni Arapski Emirati"
+    },
+    "hu": {
+      "official": "Egyesült Arab Emírségek",
+      "common": "Egyesült Arab Emírségek"
+    },
+    "is": {
+      "official": "Sameinuðu arabísku furstadæmin",
+      "common": "Sameinuðu arabísku furstadæmin"
+    },
+    "ia": {
+      "official": "Emiratos Arabe Unite",
+      "common": "Emiratos Arabe Unite"
+    },
+    "id": {
+      "official": "Uni Emirat Arab",
+      "common": "Uni Emirat Arab"
+    },
+    "it": {
+      "official": "Emirati arabi uniti",
+      "common": "Emirati arabi uniti"
+    },
+    "ja": {
+      "official": "アラブ首長国連邦",
+      "common": "アラブ首長国連邦"
+    },
+    "kn": {
+      "official": "ಯುನೈಟೆಡ್ ಅರಬ್ ಎಮಿರೇಟ್ಸ್",
+      "common": "ಯುನೈಟೆಡ್ ಅರಬ್ ಎಮಿರೇಟ್ಸ್"
+    },
+    "kk": {
+      "official": "Біріккен Араб Әмірліктері",
+      "common": "Біріккен Араб Әмірліктері"
+    },
+    "km": {
+      "official": "អារ៉ាប់​រួម",
+      "common": "អារ៉ាប់​រួម"
+    },
+    "rw": {
+      "official": "Repubulika Nyarabu Zunze Ubumwe",
+      "common": "Repubulika Nyarabu Zunze Ubumwe"
+    },
+    "ko": {
+      "official": "아랍에미리트연합",
+      "common": "아랍에미리트연합"
+    },
+    "ku": {
+      "official": "Mîrtiyên Ereb ên Yekbuyî",
+      "common": "Mîrtiyên Ereb ên Yekbuyî"
+    },
+    "lv": {
+      "official": "Apvienotie Arābu Emirāti",
+      "common": "Apvienotie Arābu Emirāti"
+    },
+    "lt": {
+      "official": "Jungtiniai Arabų Emyratai",
+      "common": "Jungtiniai Arabų Emyratai"
+    },
+    "mk": {
+      "official": "Обединети арапски емирати",
+      "common": "Обединети арапски емирати"
+    },
+    "ml": {
+      "official": "ഐക്യ അറബ് എമിറേറ്റുകള്‍",
+      "common": "ഐക്യ അറബ് എമിറേറ്റുകള്‍"
+    },
+    "mi": {
+      "official": "United Arab Emirates",
+      "common": "United Arab Emirates"
+    },
+    "mr": {
+      "official": "संयुक्त अरब अमिराती",
+      "common": "संयुक्त अरब अमिराती"
+    },
+    "ms": {
+      "official": "Emiriah Arab Bersatu",
+      "common": "Emiriah Arab Bersatu"
+    },
+    "mt": {
+      "official": "Emirati Għarab Maqgħuda",
+      "common": "Emirati Għarab Maqgħuda"
+    },
+    "mn": {
+      "official": "Арабын нэгдсэн имерат",
+      "common": "Арабын нэгдсэн имерат"
+    },
+    "ne": {
+      "official": "संयुक्त अरब इमिरेट्स",
+      "common": "संयुक्त अरब इमिरेट्स"
+    },
+    "nn": {
+      "official": "Dei sameinte arabiske emirata",
+      "common": "Dei sameinte arabiske emirata"
+    },
+    "nb": {
+      "official": "De forente arabiske emirater",
+      "common": "De forente arabiske emirater"
+    },
+    "oc": {
+      "official": "Emirats Arabs Units",
+      "common": "Emirats Arabs Units"
+    },
+    "or": {
+      "official": "ସଂଯୁକ୍ତ ଆରବ ଏମିରେଟ",
+      "common": "ସଂଯୁକ୍ତ ଆରବ ଏମିରେଟ"
+    },
+    "pa": {
+      "official": "ਸੰਯੁਕਤ ਰਾਜ ਅਮੀਰਾਤ",
+      "common": "ਸੰਯੁਕਤ ਰਾਜ ਅਮੀਰਾਤ"
+    },
+    "fa": {
+      "official": "امارات متحده عربی",
+      "common": "امارات متحده عربی"
+    },
+    "pl": {
+      "official": "Zjednoczone Emiraty Arabskie",
+      "common": "Zjednoczone Emiraty Arabskie"
+    },
+    "pt": {
+      "official": "Emirados Árabes Unidos",
+      "common": "Emirados Árabes Unidos"
+    },
+    "ps": {
+      "official": "United Arab Emirates",
+      "common": "United Arab Emirates"
+    },
+    "ro": {
+      "official": "Emiratele Arabe Unite",
+      "common": "Emiratele Arabe Unite"
+    },
+    "ru": {
+      "official": "Объединённые Арабские Эмираты",
+      "common": "Объединённые Арабские Эмираты"
+    },
+    "si": {
+      "official": "එක්සත් අරාබි එමීර්",
+      "common": "එක්සත් අරාබි එමීර්"
+    },
+    "sk": {
+      "official": "Spojené arabské emiráty",
+      "common": "Spojené arabské emiráty"
+    },
+    "sl": {
+      "official": "Združeni Arabski emirati",
+      "common": "Združeni Arabski emirati"
+    },
+    "so": {
+      "official": "Imaaraadka Carabta ee Midoobay",
+      "common": "Imaaraadka Carabta ee Midoobay"
+    },
+    "es": {
+      "official": "Emiratos Árabes Unidos",
+      "common": "Emiratos Árabes Unidos"
+    },
+    "sr": {
+      "official": "Уједињени Арапски Емирати",
+      "common": "Уједињени Арапски Емирати"
+    },
+    "sw": {
+      "official": "United Arab Emirates",
+      "common": "United Arab Emirates"
+    },
+    "sv": {
+      "official": "Förenade Arabemiraten",
+      "common": "Förenade Arabemiraten"
+    },
+    "ta": {
+      "official": "ஐக்கிய அராபிய எமிரேட்சு",
+      "common": "ஐக்கிய அராபிய எமிரேட்சு"
+    },
+    "tt": {
+      "official": "Берләшкән Гәрәп Әмирлекләре",
+      "common": "Берләшкән Гәрәп Әмирлекләре"
+    },
+    "te": {
+      "official": "యునైటెడ్ అరబ్ ఎమిరేట్స్",
+      "common": "యునైటెడ్ అరబ్ ఎమిరేట్స్"
+    },
+    "tl": {
+      "official": "United Arab Emirates",
+      "common": "United Arab Emirates"
+    },
+    "th": {
+      "official": "สหรัฐอาหรับเอมิเรตส์",
+      "common": "สหรัฐอาหรับเอมิเรตส์"
+    },
+    "ti": {
+      "official": "የተባበሩት አረብ ኤምሬትስ",
+      "common": "የተባበሩት አረብ ኤምሬትስ"
+    },
+    "tk": {
+      "official": "Birleşen  Arap Emiratlary",
+      "common": "Birleşen  Arap Emiratlary"
+    },
+    "tr": {
+      "official": "Birleşik Arap Emirlikleri",
+      "common": "Birleşik Arap Emirlikleri"
+    },
+    "ug": {
+      "official": "ئەرەب بىرلەشمە خەلىپىلىكى",
+      "common": "ئەرەب بىرلەشمە خەلىپىلىكى"
+    },
+    "uk": {
+      "official": "Об’єднані Арабські Емірати",
+      "common": "Об’єднані Арабські Емірати"
+    },
+    "ve": {
+      "official": "United Arab Emirates",
+      "common": "United Arab Emirates"
+    },
+    "vi": {
+      "official": "Các Tiểu Vương Quốc A-rập Thống Nhất",
+      "common": "Các Tiểu Vương Quốc A-rập Thống Nhất"
+    },
+    "cy": {
+      "official": "Emiriaethau Arabaidd Unedig",
+      "common": "Emiriaethau Arabaidd Unedig"
+    },
+    "wa": {
+      "official": "Emirats Arabes Unis",
+      "common": "Emirats Arabes Unis"
+    },
+    "wo": {
+      "official": "Imaarati Araab yu Bennoo",
+      "common": "Imaarati Araab yu Bennoo"
+    },
+    "xh": {
+      "official": "United Arab Emirates",
+      "common": "United Arab Emirates"
+    },
+    "zu": {
+      "official": "United Arab Emirates",
+      "common": "United Arab Emirates"
+    }
+  }
+}

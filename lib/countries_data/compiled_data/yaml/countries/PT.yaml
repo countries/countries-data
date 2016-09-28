@@ -1,0 +1,345 @@
+---
+continent: Europe
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{postalcode}} {{city}} {{region_short}}
+  {{country}}
+alpha2: PT
+alpha3: PRT
+country_code: '351'
+international_prefix: '00'
+ioc: POR
+gec: PO
+name: Portugal
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+national_prefix: None
+number: '620'
+region: Europe
+subregion: Southern Europe
+world_region: EMEA
+un_locode: PT
+nationality: Portuguese
+eu_member: true
+eea_member: true
+vat_rates:
+  standard: 23
+  reduced:
+  - 6
+  - 13
+  super_reduced: 
+  parking: 13
+postal_code: true
+unofficial_names:
+- Portugal
+- ポルトガル
+languages_official:
+- pt
+languages_spoken:
+- pt
+geo:
+  latitude: 39.39987199999999
+  latitude_dec: '39.64200973510742'
+  longitude: -8.224454
+  longitude_dec: "-8.009422302246094"
+  max_latitude: 42.1540125
+  max_longitude: -6.1902091
+  min_latitude: 32.40374
+  min_longitude: -31.2753297
+  bounds:
+    northeast:
+      lat: 42.1540125
+      lng: -6.1902091
+    southwest:
+      lat: 32.40374
+      lng: -31.2753297
+currency_code: EUR
+postal_address_data:
+  key: PT
+  zipex: 2725-079,1250-096,1201-950,2860-571,1208-148
+  name: PORTUGAL
+  zip: "\\d{4}-\\d{3}"
+  require: ACZ
+  id: data/PT
+  posturl: http://www.ctt.pt/feapl_2/app/open/tools.jspx?tool=1
+  fmt: "%N%n%O%n%A%n%Z %C"
+translations:
+  af:
+    official: Portugal
+    common: Portugal
+  sq:
+    official: Portugalia
+    common: Portugalia
+  am:
+    official: Portugal
+    common: Portugal
+  ar:
+    official: البرتغال
+    common: البرتغال
+  hy:
+    official: Պորտուգալիա
+    common: Պորտուգալիա
+  as:
+    official: পোর্টুগাল
+    common: পোর্টুগাল
+  az:
+    official: Portuqaliya
+    common: Portuqaliya
+  eu:
+    official: Portugal
+    common: Portugal
+  be:
+    official: Партугалія
+    common: Партугалія
+  bn:
+    official: পোর্টুগাল
+    common: পোর্টুগাল
+  bs:
+    official: Portugal
+    common: Portugal
+  br:
+    official: Portugal
+    common: Portugal
+  bg:
+    official: Португалия
+    common: Португалия
+  ca:
+    official: Portugal
+    common: Portugal
+  zh:
+    official: 葡萄牙
+    common: 葡萄牙
+  cs:
+    official: Portugalsko
+    common: Portugalsko
+  da:
+    official: Portugal
+    common: Portugal
+  nl:
+    official: Portugal
+    common: Portugal
+  dz:
+    official: པོར་ཊུ་གཱལ།
+    common: པོར་ཊུ་གཱལ།
+  en:
+    official: Portugal
+    common: Portugal
+  eo:
+    official: Portugalio
+    common: Portugalio
+  et:
+    official: Portugal
+    common: Portugal
+  fo:
+    official: Portugal
+    common: Portugal
+  fi:
+    official: Portugali
+    common: Portugali
+  fr:
+    official: Portugal
+    common: Portugal
+  ka:
+    official: პორტუგალია
+    common: პორტუგალია
+  de:
+    official: Portugal
+    common: Portugal
+  ga:
+    official: An Phortaingéil
+    common: An Phortaingéil
+  gl:
+    official: Portugal
+    common: Portugal
+  el:
+    official: Πορτογαλία
+    common: Πορτογαλία
+  gu:
+    official: પોર્ટુગલ
+    common: પોર્ટુગલ
+  he:
+    official: פורטוגל
+    common: פורטוגל
+  hi:
+    official: पुर्तगाल
+    common: पुर्तगाल
+  hr:
+    official: Portugal
+    common: Portugal
+  hu:
+    official: Portugália
+    common: Portugália
+  is:
+    official: Portúgal
+    common: Portúgal
+  ia:
+    official: Portugal
+    common: Portugal
+  id:
+    official: Portugal
+    common: Portugal
+  it:
+    official: Portogallo
+    common: Portogallo
+  ja:
+    official: ポルトガル
+    common: ポルトガル
+  kn:
+    official: ಪೋರ್ತುಗಾಲ್
+    common: ಪೋರ್ತುಗಾಲ್
+  kk:
+    official: Португалия
+    common: Португалия
+  km:
+    official: ព័រទុយហ្គាល់
+    common: ព័រទុយហ្គាល់
+  rw:
+    official: Porutigali
+    common: Porutigali
+  ko:
+    official: 포르투갈
+    common: 포르투갈
+  ku:
+    official: Portekîz
+    common: Portekîz
+  lv:
+    official: Portugāle
+    common: Portugāle
+  lt:
+    official: Portugalija
+    common: Portugalija
+  mk:
+    official: Португалија
+    common: Португалија
+  ml:
+    official: പോര്‍ച്ചുഗല്‍
+    common: പോര്‍ച്ചുഗല്‍
+  mi:
+    official: Potukara
+    common: Potukara
+  mr:
+    official: पोर्तुगाल
+    common: पोर्तुगाल
+  ms:
+    official: Feringgi
+    common: Feringgi
+  mt:
+    official: Portugall
+    common: Portugall
+  mn:
+    official: Португаль
+    common: Португаль
+  ne:
+    official: पोर्चुगल
+    common: पोर्चुगल
+  nn:
+    official: Portugual
+    common: Portugual
+  nb:
+    official: Portugual
+    common: Portugual
+  oc:
+    official: Portugal
+    common: Portugal
+  or:
+    official: ପର୍ତୁଗାଲ
+    common: ପର୍ତୁଗାଲ
+  pa:
+    official: ਪੁਰਤਗਾਲ
+    common: ਪੁਰਤਗਾਲ
+  fa:
+    official: پرتغال
+    common: پرتغال
+  pl:
+    official: Portugalia
+    common: Portugalia
+  pt:
+    official: Portugal
+    common: Portugal
+  ps:
+    official: پورتګال
+    common: پورتګال
+  ro:
+    official: Portugalia
+    common: Portugalia
+  ru:
+    official: Португалия
+    common: Португалия
+  si:
+    official: පෘතුගාලය
+    common: පෘතුගාලය
+  sk:
+    official: Portugalsko
+    common: Portugalsko
+  sl:
+    official: Portugalska
+    common: Portugalska
+  so:
+    official: Bortuqaal
+    common: Bortuqaal
+  es:
+    official: Portugal
+    common: Portugal
+  sr:
+    official: Португал
+    common: Португал
+  sw:
+    official: Portugal
+    common: Portugal
+  sv:
+    official: Portugal
+    common: Portugal
+  ta:
+    official: போர்ச்சுகல்
+    common: போர்ச்சுகல்
+  tt:
+    official: Портуgалиа
+    common: Портуgалиа
+  te:
+    official: పోర్చుగల్
+    common: పోర్చుగల్
+  tl:
+    official: Portugal
+    common: Portugal
+  th:
+    official: โปรตุเกส
+    common: โปรตุเกส
+  ti:
+    official: Portugal
+    common: Portugal
+  tk:
+    official: Portugaliýa
+    common: Portugaliýa
+  tr:
+    official: Portekiz
+    common: Portekiz
+  ug:
+    official: پورتۇگالىيە
+    common: پورتۇگالىيە
+  uk:
+    official: Португалія
+    common: Португалія
+  ve:
+    official: Portugal
+    common: Portugal
+  vi:
+    official: Bồ Đào Nha
+    common: Bồ Đào Nha
+  cy:
+    official: Portiwgal
+    common: Portiwgal
+  wa:
+    official: Portugal
+    common: Portugal
+  wo:
+    official: Portugaal
+    common: Portugaal
+  xh:
+    official: Portugal
+    common: Portugal
+  zu:
+    official: I-Phothugali
+    common: I-Phothugali

@@ -1,0 +1,334 @@
+---
+continent: Asia
+alpha2: PK
+alpha3: PAK
+country_code: '92'
+international_prefix: '00'
+ioc: PAK
+gec: PK
+name: Pakistan
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 9
+- 10
+national_prefix: '0'
+number: '586'
+region: Asia
+subregion: Southern Asia
+world_region: APAC
+un_locode: PK
+nationality: Pakistani
+postal_code: true
+unofficial_names:
+- Pakistan
+- Paquistán
+- パキスタン
+languages_official:
+- en
+- ur
+languages_spoken:
+- en
+- ur
+geo:
+  latitude: 30.375321
+  latitude_dec: '29.923219680786133'
+  longitude: 69.34511599999999
+  longitude_dec: '69.35774230957031'
+  max_latitude: 37.084107
+  max_longitude: 77.8316194
+  min_latitude: 23.7016243
+  min_longitude: 60.872972
+  bounds:
+    northeast:
+      lat: 37.084107
+      lng: 77.8316194
+    southwest:
+      lat: 23.7016243
+      lng: 60.872972
+currency_code: PKR
+postal_address_data:
+  key: PK
+  zipex: '44000'
+  name: PAKISTAN
+  zip: "\\d{5}"
+  fmt: "%N%n%O%n%A%n%C-%Z"
+  posturl: http://www.pakpost.gov.pk/postcode/postcode.html
+  id: data/PK
+translations:
+  af:
+    official: Pakistan
+    common: Pakistan
+  sq:
+    official: Pakistani
+    common: Pakistani
+  am:
+    official: Pakistan
+    common: Pakistan
+  ar:
+    official: باكستان
+    common: باكستان
+  hy:
+    official: Պակիստան
+    common: Պակիստան
+  as:
+    official: পাকিস্তান
+    common: পাকিস্তান
+  az:
+    official: Pakistan
+    common: Pakistan
+  eu:
+    official: Pakistan
+    common: Pakistan
+  be:
+    official: Пакістан
+    common: Пакістан
+  bn:
+    official: পাকিস্তান
+    common: পাকিস্তান
+  bs:
+    official: Pakistan
+    common: Pakistan
+  br:
+    official: Pakistan
+    common: Pakistan
+  bg:
+    official: Пакистан
+    common: Пакистан
+  ca:
+    official: Pakistan
+    common: Pakistan
+  zh:
+    official: 巴基斯坦
+    common: 巴基斯坦
+  cs:
+    official: Pákistán
+    common: Pákistán
+  da:
+    official: Pakistan
+    common: Pakistan
+  nl:
+    official: Pakistan
+    common: Pakistan
+  dz:
+    official: པ་ཀིསི་ཏཱན།
+    common: པ་ཀིསི་ཏཱན།
+  en:
+    official: Pakistan
+    common: Pakistan
+  eo:
+    official: Pakistano
+    common: Pakistano
+  et:
+    official: Pakistan
+    common: Pakistan
+  fo:
+    official: Pakistan
+    common: Pakistan
+  fi:
+    official: Pakistan
+    common: Pakistan
+  fr:
+    official: Pakistan
+    common: Pakistan
+  ka:
+    official: პაკისტანი
+    common: პაკისტანი
+  de:
+    official: Pakistan
+    common: Pakistan
+  ga:
+    official: An Phacastáin
+    common: An Phacastáin
+  gl:
+    official: Paquistán
+    common: Paquistán
+  el:
+    official: Πακιστάν
+    common: Πακιστάν
+  gu:
+    official: પાકિસ્તાન
+    common: પાકિસ્તાન
+  he:
+    official: פקיסטן
+    common: פקיסטן
+  hi:
+    official: पाकिस्तान
+    common: पाकिस्तान
+  hr:
+    official: Pakistan
+    common: Pakistan
+  hu:
+    official: Pakisztán
+    common: Pakisztán
+  is:
+    official: Pakistan
+    common: Pakistan
+  ia:
+    official: Pakistan
+    common: Pakistan
+  id:
+    official: Pakistan
+    common: Pakistan
+  it:
+    official: Pakistan
+    common: Pakistan
+  ja:
+    official: パキスタン
+    common: パキスタン
+  kn:
+    official: ಪಾಕಿಸ್ತಾನ್
+    common: ಪಾಕಿಸ್ತಾನ್
+  kk:
+    official: Пәкістан
+    common: Пәкістан
+  km:
+    official: ប៉ាគីស្ថាន
+    common: ប៉ាគីស្ថាន
+  rw:
+    official: Pakisitani
+    common: Pakisitani
+  ko:
+    official: 파키스탄
+    common: 파키스탄
+  ku:
+    official: Pakistan
+    common: Pakistan
+  lv:
+    official: Pakistāna
+    common: Pakistāna
+  lt:
+    official: Pakistanas
+    common: Pakistanas
+  mk:
+    official: Пакистан
+    common: Пакистан
+  ml:
+    official: പാകിസ്താന്‍
+    common: പാകിസ്താന്‍
+  mi:
+    official: Pakitāne
+    common: Pakitāne
+  mr:
+    official: पाकिस्तान
+    common: पाकिस्तान
+  ms:
+    official: Pakistan
+    common: Pakistan
+  mt:
+    official: Pakistan
+    common: Pakistan
+  mn:
+    official: Пакистан
+    common: Пакистан
+  ne:
+    official: पाकिस्तान
+    common: पाकिस्तान
+  nn:
+    official: Pakistan
+    common: Pakistan
+  nb:
+    official: Pakistan
+    common: Pakistan
+  oc:
+    official: Paquistan
+    common: Paquistan
+  or:
+    official: ପାକିସ୍ତାନ
+    common: ପାକିସ୍ତାନ
+  pa:
+    official: ਪਾਕਿਸਤਾਨ
+    common: ਪਾਕਿਸਤਾਨ
+  fa:
+    official: پاکستان
+    common: پاکستان
+  pl:
+    official: Pakistan
+    common: Pakistan
+  pt:
+    official: Paquistão
+    common: Paquistão
+  ps:
+    official: پاکستان
+    common: پاکستان
+  ro:
+    official: Pakistan
+    common: Pakistan
+  ru:
+    official: Пакистан
+    common: Пакистан
+  si:
+    official: පකිස්තානය
+    common: පකිස්තානය
+  sk:
+    official: Pakistan
+    common: Pakistan
+  sl:
+    official: Pakistan
+    common: Pakistan
+  so:
+    official: Bakistaan
+    common: Bakistaan
+  es:
+    official: Pakistán
+    common: Pakistán
+  sr:
+    official: Пакистан
+    common: Пакистан
+  sw:
+    official: Pakistan
+    common: Pakistan
+  sv:
+    official: Pakistan
+    common: Pakistan
+  ta:
+    official: பாகிஸ்தான்
+    common: பாகிஸ்தான்
+  tt:
+    official: Пәкстан
+    common: Пәкстан
+  te:
+    official: పాకిస్తాన్
+    common: పాకిస్తాన్
+  tl:
+    official: Pakistan
+    common: Pakistan
+  th:
+    official: ปากีสถาน
+    common: ปากีสถาน
+  ti:
+    official: Pakistan
+    common: Pakistan
+  tk:
+    official: Pakystan
+    common: Pakystan
+  tr:
+    official: Pakistan
+    common: Pakistan
+  ug:
+    official: پاكىستان
+    common: پاكىستان
+  uk:
+    official: Пакистан
+    common: Пакистан
+  ve:
+    official: Pakistan
+    common: Pakistan
+  vi:
+    official: Pa-ki-xợ-thănh
+    common: Pa-ki-xợ-thănh
+  cy:
+    official: Pacistan
+    common: Pacistan
+  wa:
+    official: Pakistan
+    common: Pakistan
+  wo:
+    official: Pakistaan
+    common: Pakistaan
+  xh:
+    official: Pakistan
+    common: Pakistan
+  zu:
+    official: Pakistan
+    common: Pakistan

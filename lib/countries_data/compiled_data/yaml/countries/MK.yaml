@@ -1,0 +1,333 @@
+---
+continent: Europe
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{city}} {{postalcode}}
+  {{country}}
+alpha2: MK
+alpha3: MKD
+country_code: '389'
+international_prefix: '00'
+ioc: MKD
+gec: MK
+name: Macedonia, the Former Yugoslav Republic Of
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+- 8
+national_prefix: '0'
+number: '807'
+region: Europe
+subregion: Southern Europe
+world_region: EMEA
+un_locode: MK
+nationality: Macedonian
+postal_code: true
+unofficial_names:
+- Macedonia
+- Mazedonien
+- Macédoine
+- F.Y.R.O.M (Macedonia)
+- マケドニア旧ユーゴスラビア共和国
+- Macedonië [FYROM]
+- Macedonia (The Former Yugoslav Republic of)
+languages_official:
+- mk
+languages_spoken:
+- mk
+geo:
+  latitude: 41.608635
+  latitude_dec: '41.60045623779297'
+  longitude: 21.745275
+  longitude_dec: '21.700895309448242'
+  max_latitude: 42.3736459
+  max_longitude: 23.0340929
+  min_latitude: 40.8537826
+  min_longitude: 20.452423
+currency_code: MKD
+postal_address_data:
+  zipex: '1314,1321,1443,1062'
+  name: MACEDONIA
+  zip: "\\d{4}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  key: MK
+  id: data/MK
+translations:
+  af:
+    official: Masedonië
+    common: Masedonië
+  sq:
+    official: Maqedonisë, Republika
+    common: Maqedonisë, Republika
+  am:
+    official: ሥሔ፦ቲ
+    common: ሥሔ፦ቲ
+  ar:
+    official: مقدونيا، جمهوريّة مقدونيا اليوغوسلافيّة السّابقة
+    common: مقدونيا، جمهوريّة مقدونيا اليوغوسلافيّة السّابقة
+  hy:
+    official: Մակեդոնիա, Հանրապետություն
+    common: Մակեդոնիա, Հանրապետություն
+  as:
+    official: মেচিডোনিয়া প্ৰজাতন্ত্ৰ
+    common: মেচিডোনিয়া প্ৰজাতন্ত্ৰ
+  az:
+    official: Koreya, Respublika
+    common: Koreya, Respublika
+  eu:
+    official: Mazedonia, Errepublika
+    common: Mazedonia, Errepublika
+  be:
+    official: Македонія, Рэспубліка
+    common: Македонія, Рэспубліка
+  bn:
+    official: মেসিডোনিয়া প্রজাতন্ত্র
+    common: মেসিডোনিয়া প্রজাতন্ত্র
+  bs:
+    official: Republika Makedonija
+    common: Republika Makedonija
+  br:
+    official: Macedonia, Republic of
+    common: Macedonia, Republic of
+  bg:
+    official: Македония, Република
+    common: Македония, Република
+  ca:
+    official: Macedònia, República de
+    common: Macedònia, República de
+  zh:
+    official: 马其顿
+    common: 马其顿
+  cs:
+    official: Makedonie, republika
+    common: Makedonie, republika
+  da:
+    official: Makedonien, Republikken
+    common: Makedonien, Republikken
+  nl:
+    official: Macedonië
+    common: Macedonië
+  dz:
+    official: མས་ཀི་ཌོ་ནིཡཱ་ མི་སེར་རྒྱལ་ཁབ།
+    common: མས་ཀི་ཌོ་ནིཡཱ་ མི་སེར་རྒྱལ་ཁབ།
+  en:
+    official: Macedonia, Republic of
+    common: Macedonia, Republic of
+  eo:
+    official: Makedonio, Respubliko
+    common: Makedonio, Respubliko
+  et:
+    official: Makedoonia
+    common: Makedoonia
+  fo:
+    official: Domingo lýðveldið
+    common: Domingo lýðveldið
+  fi:
+    official: Makedonian tasavalta
+    common: Makedonian tasavalta
+  fr:
+    official: Macédoine, République de
+    common: Macédoine, République de
+  ka:
+    official: მაკედონიის რესპუბლიკა
+    common: მაკედონიის რესპუბლიკა
+  de:
+    official: Mazedonien, ehemalige jugoslawische Republik
+    common: Mazedonien, ehemalige jugoslawische Republik
+  ga:
+    official: Poblacht na Macadóine
+    common: Poblacht na Macadóine
+  gl:
+    official: Macedonia, República de
+    common: Macedonia, República de
+  el:
+    official: Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας
+    common: Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας
+  gu:
+    official: રીપબ્લિક ઓફ મેસેડોનિયા
+    common: રીપબ્લિક ઓફ મેસેડોનિયા
+  he:
+    official: הרפובליקה של מקדוניה
+    common: הרפובליקה של מקדוניה
+  hi:
+    official: मैकेडोनिया, रिपब्लिक ऑफ
+    common: मैकेडोनिया, रिपब्लिक ऑफ
+  hr:
+    official: Makedonija
+    common: Makedonija
+  hu:
+    official: Macedón Köztársaság
+    common: Macedón Köztársaság
+  is:
+    official: Lýðveldið Makedónía
+    common: Lýðveldið Makedónía
+  ia:
+    official: Macedonia, Republica de
+    common: Macedonia, Republica de
+  id:
+    official: Masedonia, Republik
+    common: Masedonia, Republik
+  it:
+    official: Repubblica di Macedonia
+    common: Repubblica di Macedonia
+  ja:
+    official: マケドニア共和国
+    common: マケドニア共和国
+  kn:
+    official: ಮ್ಯಾಸೆಡೋನಿಯಾ ಗಣರಾಜ್ಯ
+    common: ಮ್ಯಾಸೆಡೋನಿಯಾ ಗಣರಾಜ್ಯ
+  kk:
+    official: Македония
+    common: Македония
+  km:
+    official: សាធារណ​រដ្ឋ​​ម៉ាសេដូនី
+    common: សាធារណ​រដ្ឋ​​ម៉ាសេដូនី
+  rw:
+    official: Masedoniya, Repubulika ya
+    common: Masedoniya, Repubulika ya
+  ko:
+    official: 마케도니아, 전 유고슬라비아 공화국
+    common: 마케도니아, 전 유고슬라비아 공화국
+  ku:
+    official: Makedonya, Komara
+    common: Makedonya, Komara
+  lv:
+    official: Maķedonija
+    common: Maķedonija
+  lt:
+    official: Makedonijos Respublika
+    common: Makedonijos Respublika
+  mk:
+    official: Македонија
+    common: Македонија
+  ml:
+    official: മാസിഡോണിയ, റിപ്പബ്ലിക് ഓഫ്
+    common: മാസിഡോണിയ, റിപ്പബ്ലിക് ഓഫ്
+  mi:
+    official: Makerōnia
+    common: Makerōnia
+  mr:
+    official: मॅसिडोनिया, रिपब्लिक ऑफ
+    common: मॅसिडोनिया, रिपब्लिक ऑफ
+  ms:
+    official: Republik Dominican
+    common: Republik Dominican
+  mt:
+    official: Repubblika Dominikana
+    common: Repubblika Dominikana
+  mn:
+    official: Солонгос ард улс
+    common: Солонгос ард улс
+  ne:
+    official: मसेडोनियाको गणराज्य
+    common: मसेडोनियाको गणराज्य
+  nn:
+    official: Makedonia, Republikken
+    common: Makedonia, Republikken
+  nb:
+    official: Makedonia, Republikken
+    common: Makedonia, Republikken
+  oc:
+    official: Republica Dominicana
+    common: Republica Dominicana
+  or:
+    official: ମେସିଡୋନିୟା, ଗଣତନ୍ତ୍ର
+    common: ମେସିଡୋନିୟା, ଗଣତନ୍ତ୍ର
+  pa:
+    official: ਮੈਕਡੋਨੀਆ ਗਣਰਾਜ
+    common: ਮੈਕਡੋਨੀਆ ਗਣਰਾਜ
+  fa:
+    official: جمهوری مقدونیه
+    common: جمهوری مقدونیه
+  pl:
+    official: Macedonia
+    common: Macedonia
+  pt:
+    official: Macedónia, República
+    common: Macedónia, República
+  ps:
+    official: Macedonia, Republic of
+    common: Macedonia, Republic of
+  ro:
+    official: Macedonia, Republica
+    common: Macedonia, Republica
+  ru:
+    official: Республика Македония
+    common: Республика Македония
+  si:
+    official: මැසිඩෝනියා ජනරජය
+    common: මැසිඩෝනියා ජනරජය
+  sk:
+    official: Macedónska republika
+    common: Macedónska republika
+  sl:
+    official: Makedonija
+    common: Makedonija
+  so:
+    official: Makadooniya
+    common: Makadooniya
+  es:
+    official: Macedonia, República de
+    common: Macedonia, República de
+  sr:
+    official: Македонија, Република
+    common: Македонија, Република
+  sw:
+    official: Macedonia, Republic of
+    common: Macedonia, Republic of
+  sv:
+    official: Makedonien, republiken
+    common: Makedonien, republiken
+  ta:
+    official: மெசிடோனியா குடியரசு
+    common: மெசிடோனியா குடியரசு
+  tt:
+    official: Македониа Җөмһүриәте
+    common: Македониа Җөмһүриәте
+  te:
+    official: మెసెడోనియా, రిపబ్లిక్ ఆఫ్
+    common: మెసెడోనియా, రిపబ్లిక్ ఆఫ్
+  tl:
+    official: Macedonia, Republika ng
+    common: Macedonia, Republika ng
+  th:
+    official: มาร์ซิโดเนีย, สาธารณรัฐ
+    common: มาร์ซิโดเนีย, สาธารณรัฐ
+  ti:
+    official: ዶሚኒክ ሪፑብሊክ
+    common: ዶሚኒክ ሪፑብሊክ
+  tk:
+    official: Moldawiýa, Respublikasy
+    common: Moldawiýa, Respublikasy
+  tr:
+    official: Makedonya Cumhuriyeti
+    common: Makedonya Cumhuriyeti
+  ug:
+    official: ماكېدونىيە جۇمھۇرىيىتى
+    common: ماكېدونىيە جۇمھۇرىيىتى
+  uk:
+    official: Македонія
+    common: Македонія
+  ve:
+    official: Czech Republic
+    common: Czech Republic
+  vi:
+    official: Nước Cộng Hoà Ma-xê-đô-ni
+    common: Nước Cộng Hoà Ma-xê-đô-ni
+  cy:
+    official: Macedonia, Gweriniaeth
+    common: Macedonia, Gweriniaeth
+  wa:
+    official: Macedoneye
+    common: Macedoneye
+  wo:
+    official: Masedwaan, Republik bu
+    common: Masedwaan, Republik bu
+  xh:
+    official: Ulawulo lokuziphatha kwe Dominican
+    common: Ulawulo lokuziphatha kwe Dominican
+  zu:
+    official: Ulawulo lokuziphatha kwe Dominikhani
+    common: Ulawulo lokuziphatha kwe Dominikhani

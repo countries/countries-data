@@ -1,0 +1,334 @@
+---
+continent: Asia
+alpha2: KZ
+alpha3: KAZ
+country_code: '7'
+international_prefix: '810'
+ioc: KAZ
+gec: KZ
+name: Kazakhstan
+national_destination_code_lengths:
+- 3
+national_number_lengths:
+- 10
+national_prefix: '8'
+number: '398'
+region: Asia
+subregion: Central Asia
+world_region: EMEA
+un_locode: KZ
+nationality: Kazakhstani
+postal_code: true
+unofficial_names:
+- Kazakhstan
+- Kasachstan
+- Kazajistán
+- カザフスタン
+- Kazachstan
+languages_official:
+- kk
+- ru
+languages_spoken:
+- kk
+- ru
+geo:
+  latitude: 48.019573
+  latitude_dec: '48.14600372314453'
+  longitude: 66.923684
+  longitude_dec: '67.17916870117188'
+  max_latitude: 55.441984
+  max_longitude: 87.315415
+  min_latitude: 40.568584
+  min_longitude: 46.493672
+  bounds:
+    northeast:
+      lat: 55.441984
+      lng: 87.315415
+    southwest:
+      lat: 40.568584
+      lng: 46.493672
+currency_code: KZT
+postal_address_data:
+  zipex: 040900,050012
+  name: KAZAKHSTAN
+  zip: "\\d{6}"
+  fmt: "%Z%n%S%n%C%n%A%n%O%n%N"
+  key: KZ
+  id: data/KZ
+translations:
+  af:
+    official: Kazakstan
+    common: Kazakstan
+  sq:
+    official: Kazakistan
+    common: Kazakistan
+  am:
+    official: Kazakhstan
+    common: Kazakhstan
+  ar:
+    official: كازاخستان
+    common: كازاخستان
+  hy:
+    official: Ղազախստան
+    common: Ղազախստան
+  as:
+    official: কাজাখিস্তান
+    common: কাজাখিস্তান
+  az:
+    official: Qazaxstan
+    common: Qazaxstan
+  eu:
+    official: Kazakhstan
+    common: Kazakhstan
+  be:
+    official: Казахстан
+    common: Казахстан
+  bn:
+    official: কাজাখস্তান
+    common: কাজাখস্তান
+  bs:
+    official: Kazahstan
+    common: Kazahstan
+  br:
+    official: Kazakhstan
+    common: Kazakhstan
+  bg:
+    official: Казахстан
+    common: Казахстан
+  ca:
+    official: Kazakhstan
+    common: Kazakhstan
+  zh:
+    official: 哈萨克斯坦
+    common: 哈萨克斯坦
+  cs:
+    official: Kazachstán
+    common: Kazachstán
+  da:
+    official: Kasakhstan
+    common: Kasakhstan
+  nl:
+    official: Kazachstan
+    common: Kazachstan
+  dz:
+    official: ཀ་ཛཀསི་ཏཱན།
+    common: ཀ་ཛཀསི་ཏཱན།
+  en:
+    official: Kazakhstan
+    common: Kazakhstan
+  eo:
+    official: Kazaĥio
+    common: Kazaĥio
+  et:
+    official: Kasahstan
+    common: Kasahstan
+  fo:
+    official: Kasakstan
+    common: Kasakstan
+  fi:
+    official: Kazakstan
+    common: Kazakstan
+  fr:
+    official: Kazakhstan
+    common: Kazakhstan
+  ka:
+    official: ყაზახეთი
+    common: ყაზახეთი
+  de:
+    official: Kasachstan
+    common: Kasachstan
+  ga:
+    official: An Chasacstáin
+    common: An Chasacstáin
+  gl:
+    official: Kazakhstán
+    common: Kazakhstán
+  el:
+    official: Καζακστάν
+    common: Καζακστάν
+  gu:
+    official: કઝાખસ્તાન
+    common: કઝાખસ્તાન
+  he:
+    official: קאזחאסטן
+    common: קאזחאסטן
+  hi:
+    official: कज़ाख्स्तान
+    common: कज़ाख्स्तान
+  hr:
+    official: Kazahstan
+    common: Kazahstan
+  hu:
+    official: Kazahsztán
+    common: Kazahsztán
+  is:
+    official: Kasakstan
+    common: Kasakstan
+  ia:
+    official: Kazakhstan
+    common: Kazakhstan
+  id:
+    official: Kazakhstan
+    common: Kazakhstan
+  it:
+    official: Kazakistan
+    common: Kazakistan
+  ja:
+    official: カザフスタン
+    common: カザフスタン
+  kn:
+    official: ಕಝಕಸ್ತಾನ್
+    common: ಕಝಕಸ್ತಾನ್
+  kk:
+    official: Қазақстан
+    common: Қазақстан
+  km:
+    official: កាហ្សាក់ស្តង់
+    common: កាហ្សាក់ស្តង់
+  rw:
+    official: Kazakisitani
+    common: Kazakisitani
+  ko:
+    official: 카자흐스탄
+    common: 카자흐스탄
+  ku:
+    official: Kazaxstan
+    common: Kazaxstan
+  lv:
+    official: Kazahstāna
+    common: Kazahstāna
+  lt:
+    official: Kazachstanas
+    common: Kazachstanas
+  mk:
+    official: Казакстан
+    common: Казакстан
+  ml:
+    official: കസാഖിസ്താന്‍
+    common: കസാഖിസ്താന്‍
+  mi:
+    official: Katatānga
+    common: Katatānga
+  mr:
+    official: कझाकिस्तान
+    common: कझाकिस्तान
+  ms:
+    official: Kazakhstan
+    common: Kazakhstan
+  mt:
+    official: Tajwan
+    common: Tajwan
+  mn:
+    official: Казакстан
+    common: Казакстан
+  ne:
+    official: काजखास्तान
+    common: काजखास्तान
+  nn:
+    official: Kasakhstan
+    common: Kasakhstan
+  nb:
+    official: Kasakhstan
+    common: Kasakhstan
+  oc:
+    official: Taiwan
+    common: Taiwan
+  or:
+    official: କାଜାଖସ୍ତାନ
+    common: କାଜାଖସ୍ତାନ
+  pa:
+    official: ਕਜ਼ਾਕਸਤਾਨ
+    common: ਕਜ਼ਾਕਸਤਾਨ
+  fa:
+    official: قزاقستان
+    common: قزاقستان
+  pl:
+    official: Kazachstan
+    common: Kazachstan
+  pt:
+    official: Cazaquistão
+    common: Cazaquistão
+  ps:
+    official: Kazakhstan
+    common: Kazakhstan
+  ro:
+    official: Kazakhstan
+    common: Kazakhstan
+  ru:
+    official: Казахстан
+    common: Казахстан
+  si:
+    official: කසකස්තානය
+    common: කසකස්තානය
+  sk:
+    official: Kazachstan
+    common: Kazachstan
+  sl:
+    official: Kazahstan
+    common: Kazahstan
+  so:
+    official: Kasaakhistaan
+    common: Kasaakhistaan
+  es:
+    official: Kazajistán
+    common: Kazajistán
+  sr:
+    official: Казахстан
+    common: Казахстан
+  sw:
+    official: Kazakhstan
+    common: Kazakhstan
+  sv:
+    official: Kazakstan
+    common: Kazakstan
+  ta:
+    official: கசகிஸ்தான்
+    common: கசகிஸ்தான்
+  tt:
+    official: Казакстан
+    common: Казакстан
+  te:
+    official: కఝకిస్తాన్
+    common: కఝకిస్తాన్
+  tl:
+    official: Kazakhstan
+    common: Kazakhstan
+  th:
+    official: คาซัคสถาน
+    common: คาซัคสถาน
+  ti:
+    official: Kazakhstan
+    common: Kazakhstan
+  tk:
+    official: Gazagystan
+    common: Gazagystan
+  tr:
+    official: Kazakistan
+    common: Kazakistan
+  ug:
+    official: قازاقىستان
+    common: قازاقىستان
+  uk:
+    official: Казахстан
+    common: Казахстан
+  ve:
+    official: Kazakhstan
+    common: Kazakhstan
+  vi:
+    official: Kha-xa-kh-x-thanh
+    common: Kha-xa-kh-x-thanh
+  cy:
+    official: Kazakhstan
+    common: Kazakhstan
+  wa:
+    official: Kazaxhtan
+    common: Kazaxhtan
+  wo:
+    official: Kaasakestaan
+    common: Kaasakestaan
+  xh:
+    official: Taiwan
+    common: Taiwan
+  zu:
+    official: I-Tayiwani
+    common: I-Tayiwani

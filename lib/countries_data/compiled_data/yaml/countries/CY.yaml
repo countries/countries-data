@@ -1,0 +1,345 @@
+---
+continent: Asia
+alpha2: CY
+alpha3: CYP
+country_code: '357'
+international_prefix: '00'
+ioc: CYP
+gec: CY
+name: Cyprus
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+national_prefix: None
+number: '196'
+region: Asia
+subregion: Western Asia
+world_region: EMEA
+un_locode: CY
+nationality: Cypriot
+eu_member: true
+eea_member: true
+vat_rates:
+  standard: 19
+  reduced:
+  - 5
+  - 9
+  super_reduced: 
+  parking: 
+postal_code: true
+unofficial_names:
+- Cyprus
+- Zypern
+- Chypre
+- Chipre
+- キプロス
+languages_official:
+- el
+- tr
+- hy
+languages_spoken:
+- el
+- tr
+- hy
+geo:
+  latitude: 35.126413
+  latitude_dec: '35.11473846435547'
+  longitude: 33.429859
+  longitude_dec: '33.486717224121094'
+  max_latitude: 35.7071964
+  max_longitude: 34.6044826
+  min_latitude: 34.632303
+  min_longitude: 32.2694816
+  bounds:
+    northeast:
+      lat: 35.7071964
+      lng: 34.6044826
+    southwest:
+      lat: 34.632303
+      lng: 32.2694816
+currency_code: EUR
+postal_address_data:
+  zipex: '2008,3304,1900'
+  name: CYPRUS
+  zip: "\\d{4}"
+  fmt: "%N%n%O%n%A%n%Z %C"
+  key: CY
+  id: data/CY
+translations:
+  af:
+    official: Siprus
+    common: Siprus
+  sq:
+    official: Qipro
+    common: Qipro
+  am:
+    official: ሳ፤ፕረስ
+    common: ሳ፤ፕረስ
+  ar:
+    official: قبرص
+    common: قبرص
+  hy:
+    official: Կիպրոս
+    common: Կիպրոս
+  as:
+    official: ছাইপ্ৰাছ
+    common: ছাইপ্ৰাছ
+  az:
+    official: Kipr
+    common: Kipr
+  eu:
+    official: Zipre
+    common: Zipre
+  be:
+    official: Кіпр
+    common: Кіпр
+  bn:
+    official: সাইপ্রাস
+    common: সাইপ্রাস
+  bs:
+    official: Kipar
+    common: Kipar
+  br:
+    official: Enez Chipr
+    common: Enez Chipr
+  bg:
+    official: Кипър
+    common: Кипър
+  ca:
+    official: Xipre
+    common: Xipre
+  zh:
+    official: 塞浦路斯
+    common: 塞浦路斯
+  cs:
+    official: Kypr
+    common: Kypr
+  da:
+    official: Cypern
+    common: Cypern
+  nl:
+    official: Cyprus
+    common: Cyprus
+  dz:
+    official: སའི་པརཱསི།
+    common: སའི་པརཱསི།
+  en:
+    official: Cyprus
+    common: Cyprus
+  eo:
+    official: Kipro
+    common: Kipro
+  et:
+    official: Küpros
+    common: Küpros
+  fo:
+    official: Kýpros
+    common: Kýpros
+  fi:
+    official: Kypros
+    common: Kypros
+  fr:
+    official: Chypre
+    common: Chypre
+  ka:
+    official: კვიპროსი
+    common: კვიპროსი
+  de:
+    official: Zypern
+    common: Zypern
+  ga:
+    official: An Chipir
+    common: An Chipir
+  gl:
+    official: Chipre
+    common: Chipre
+  el:
+    official: Κύπρος
+    common: Κύπρος
+  gu:
+    official: સાયપ્રસ
+    common: સાયપ્રસ
+  he:
+    official: קפריסין
+    common: קפריסין
+  hi:
+    official: साइप्रस
+    common: साइप्रस
+  hr:
+    official: Cipar
+    common: Cipar
+  hu:
+    official: Ciprus
+    common: Ciprus
+  is:
+    official: Kýpur
+    common: Kýpur
+  ia:
+    official: Cypro
+    common: Cypro
+  id:
+    official: Siprus
+    common: Siprus
+  it:
+    official: Cipro
+    common: Cipro
+  ja:
+    official: キプロス
+    common: キプロス
+  kn:
+    official: ಸೈಪ್ರಸ್
+    common: ಸೈಪ್ರಸ್
+  kk:
+    official: Кипр
+    common: Кипр
+  km:
+    official: ស៊ីពរ៍
+    common: ស៊ីពរ៍
+  rw:
+    official: Shipure
+    common: Shipure
+  ko:
+    official: 사이프러스
+    common: 사이프러스
+  ku:
+    official: Kibris
+    common: Kibris
+  lv:
+    official: Kipra
+    common: Kipra
+  lt:
+    official: Kipras
+    common: Kipras
+  mk:
+    official: Кипар
+    common: Кипар
+  ml:
+    official: സൈപ്രസ്
+    common: സൈപ്രസ്
+  mi:
+    official: Haipara
+    common: Haipara
+  mr:
+    official: सायप्रस
+    common: सायप्रस
+  ms:
+    official: Cyprus
+    common: Cyprus
+  mt:
+    official: Ċipru
+    common: Ċipru
+  mn:
+    official: Cyprus
+    common: Cyprus
+  ne:
+    official: साइप्रस
+    common: साइप्रस
+  nn:
+    official: Kypros
+    common: Kypros
+  nb:
+    official: Kypros
+    common: Kypros
+  oc:
+    official: Chipre
+    common: Chipre
+  or:
+    official: ସାଇପ୍ରସ
+    common: ସାଇପ୍ରସ
+  pa:
+    official: ਕਿਊਰੂਸ
+    common: ਕਿਊਰੂਸ
+  fa:
+    official: قبرس
+    common: قبرس
+  pl:
+    official: Cypr
+    common: Cypr
+  pt:
+    official: Chipre
+    common: Chipre
+  ps:
+    official: Cyprus
+    common: Cyprus
+  ro:
+    official: Cipru
+    common: Cipru
+  ru:
+    official: Кипр
+    common: Кипр
+  si:
+    official: සයිප්‍රස්
+    common: සයිප්‍රස්
+  sk:
+    official: Cyprus
+    common: Cyprus
+  sl:
+    official: Ciper
+    common: Ciper
+  so:
+    official: Cyprus
+    common: Cyprus
+  es:
+    official: Chipre
+    common: Chipre
+  sr:
+    official: Кипар
+    common: Кипар
+  sw:
+    official: Cyprus
+    common: Cyprus
+  sv:
+    official: Cypern
+    common: Cypern
+  ta:
+    official: சைப்ரஸ்
+    common: சைப்ரஸ்
+  tt:
+    official: Кипер
+    common: Кипер
+  te:
+    official: సైప్రస్
+    common: సైప్రస్
+  tl:
+    official: Cyprus
+    common: Cyprus
+  th:
+    official: ไซปรัส
+    common: ไซปรัส
+  ti:
+    official: ሳይፕረስ
+    common: ሳይፕረስ
+  tk:
+    official: Kipr
+    common: Kipr
+  tr:
+    official: Kıbrıs
+    common: Kıbrıs
+  ug:
+    official: سىپرۇس
+    common: سىپرۇس
+  uk:
+    official: Кіпр
+    common: Кіпр
+  ve:
+    official: Cyprus
+    common: Cyprus
+  vi:
+    official: Síp
+    common: Síp
+  cy:
+    official: Cyprus
+    common: Cyprus
+  wa:
+    official: Chipe
+    common: Chipe
+  wo:
+    official: Ciipër
+    common: Ciipër
+  xh:
+    official: Cyprus
+    common: Cyprus
+  zu:
+    official: Cyprus
+    common: Cyprus

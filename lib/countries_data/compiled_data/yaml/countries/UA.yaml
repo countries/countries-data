@@ -1,0 +1,367 @@
+---
+continent: Europe
+address_format: |-
+  {{recipient}}
+  {{street}}
+  {{city}} {{region_short}}
+  {{postalcode}}
+  {{country}}
+alpha2: UA
+alpha3: UKR
+country_code: '380'
+international_prefix: '810'
+ioc: UKR
+gec: UP
+name: Ukraine
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 8
+- 9
+national_prefix: '8'
+number: '804'
+region: Europe
+subregion: Eastern Europe
+world_region: EMEA
+un_locode: UA
+nationality: Ukrainian
+postal_code: true
+unofficial_names:
+- Ukraine
+- Ucrania
+- ウクライナ
+- Oekraïne
+- Украина
+- Україна
+- Украіна
+languages_official:
+- uk
+languages_spoken:
+- uk
+geo:
+  latitude: 48.379433
+  latitude_dec: '48.92656326293945'
+  longitude: 31.16558
+  longitude_dec: '31.47578239440918'
+  max_latitude: 52.37958099999999
+  max_longitude: 40.2285809
+  min_latitude: 44.3864629
+  min_longitude: 22.1371591
+  bounds:
+    northeast:
+      lat: 52.37958099999999
+      lng: 40.2285809
+    southwest:
+      lat: 44.3864629
+      lng: 22.1371591
+currency_code: UAH
+postal_address_data:
+  lang: uk
+  key: UA
+  sub_lnames: Crimea~Vinnyts'ka oblast~Volyns'ka oblast~Dnipropetrovsk Oblast~Donetsk
+    Oblast~Zhytomyrs'ka oblast~Zakarpats'ka oblast~Zaporiz'ka oblast~Ivano-Frankivs'ka
+    oblast~Kyiv city~Kiev Oblast~Kirovohrads'ka oblast~Luhans'ka oblast~Lviv Oblast~Mykolaivs'ka
+    oblast~Odessa Oblast~Poltavs'ka oblast~Rivnens'ka oblast~Sevastopol' city~Sums'ka
+    oblast~Ternopil's'ka oblast~Kharkiv Oblast~Khersons'ka oblast~Khmel'nyts'ka oblast~Cherkas'ka
+    oblast~Chernivets'ka oblast~Chernihivs'ka oblast
+  name: UKRAINE
+  zip: "\\d{5}"
+  require: ACSZ
+  state_name_type: oblast
+  id: data/UA
+  languages: uk
+  lfmt: "%N%n%O%n%A%n%C%n%S%n%Z"
+  zipex: '15432,01055,01001'
+  sub_keys: Автономна Республіка Крим~Вінницька область~Волинська область~Дніпропетровська
+    область~Донецька область~Житомирська область~Закарпатська область~Запорізька область~Івано-Франківська
+    область~місто Київ~Київська область~Кіровоградська область~Луганська область~Львівська
+    область~Миколаївська область~Одеська область~Полтавська область~Рівненська область~місто
+    Севастополь~Сумська область~Тернопільська область~Харківська область~Херсонська
+    область~Хмельницька область~Черкаська область~Чернівецька область~Чернігівська
+    область
+  posturl: http://services.ukrposhta.com/postindex_new/
+  fmt: "%N%n%O%n%A%n%C%n%S%n%Z"
+  sub_names: Автономна Республіка Крим~Вінницька область~Волинська область~Дніпропетровська
+    область~Донецька область~Житомирська область~Закарпатська область~Запорізька область~Івано-Франківська
+    область~Київ~Київська область~Кіровоградська область~Луганська область~Львівська
+    область~Миколаївська область~Одеська область~Полтавська область~Рівненська область~Севастополь~Сумська
+    область~Тернопільська область~Харківська область~Херсонська область~Хмельницька
+    область~Черкаська область~Чернівецька область~Чернігівська область
+  sub_zips: 9[5-8]~2[1-4]~4[3-5]~49|5[0-3]~8[3-7]~1[0-3]~8[89]|90~69|7[0-2]~7[6-8]~0[1-6]~0[7-9]~2[5-8]~9[1-4]~79|8[0-2]~5[4-7]~6[5-8]~3[6-9]~3[3-5]~99~4[0-2]~4[6-8]~6[1-4]~7[3-5]~29|3[0-2]~1[89]|20~5[89]|60~1[4-7]
+translations:
+  af:
+    official: Oekraïne
+    common: Oekraïne
+  sq:
+    official: Ukraina
+    common: Ukraina
+  am:
+    official: Ukraine
+    common: Ukraine
+  ar:
+    official: أوكرانيا
+    common: أوكرانيا
+  hy:
+    official: Ուկրաինա
+    common: Ուկրաինա
+  as:
+    official: ইউক্ৰেইন
+    common: ইউক্ৰেইন
+  az:
+    official: Ukrayna
+    common: Ukrayna
+  eu:
+    official: Ukrania
+    common: Ukrania
+  be:
+    official: Украіна
+    common: Украіна
+  bn:
+    official: ইউক্রেন
+    common: ইউক্রেন
+  bs:
+    official: Ukrajina
+    common: Ukrajina
+  br:
+    official: Ukraina
+    common: Ukraina
+  bg:
+    official: Украйна
+    common: Украйна
+  ca:
+    official: Ucraïna
+    common: Ucraïna
+  zh:
+    official: 乌克兰
+    common: 乌克兰
+  cs:
+    official: Ukrajina
+    common: Ukrajina
+  da:
+    official: Ukraine
+    common: Ukraine
+  nl:
+    official: Oekraïne
+    common: Oekraïne
+  dz:
+    official: ཡུ་ཀེརན།
+    common: ཡུ་ཀེརན།
+  en:
+    official: Ukraine
+    common: Ukraine
+  eo:
+    official: Ukrainio
+    common: Ukrainio
+  et:
+    official: Ukraina
+    common: Ukraina
+  fo:
+    official: Ukreina
+    common: Ukreina
+  fi:
+    official: Ukraina
+    common: Ukraina
+  fr:
+    official: Ukraine
+    common: Ukraine
+  ka:
+    official: უკრაინა
+    common: უკრაინა
+  de:
+    official: Ukraine
+    common: Ukraine
+  ga:
+    official: An Úcráin
+    common: An Úcráin
+  gl:
+    official: Ucraína
+    common: Ucraína
+  el:
+    official: Ουκρανία
+    common: Ουκρανία
+  gu:
+    official: યુક્રેન
+    common: યુક્રેન
+  he:
+    official: אוקראינה
+    common: אוקראינה
+  hi:
+    official: उक्रेन
+    common: उक्रेन
+  hr:
+    official: Ukrajina
+    common: Ukrajina
+  hu:
+    official: Ukrajna
+    common: Ukrajna
+  is:
+    official: Úkraína
+    common: Úkraína
+  ia:
+    official: Ukraina
+    common: Ukraina
+  id:
+    official: Ukraina
+    common: Ukraina
+  it:
+    official: Ucraina
+    common: Ucraina
+  ja:
+    official: ウクライナ
+    common: ウクライナ
+  kn:
+    official: ಯುಕ್ರೇನ್
+    common: ಯುಕ್ರೇನ್
+  kk:
+    official: Украина
+    common: Украина
+  km:
+    official: អ៊ុយក្រែន
+    common: អ៊ុយក្រែន
+  rw:
+    official: Ikerene
+    common: Ikerene
+  ko:
+    official: 우크라이나
+    common: 우크라이나
+  ku:
+    official: Ukrayna
+    common: Ukrayna
+  lv:
+    official: Ukraina
+    common: Ukraina
+  lt:
+    official: Ukraina
+    common: Ukraina
+  mk:
+    official: Украина
+    common: Украина
+  ml:
+    official: ഉക്രൈന്‍
+    common: ഉക്രൈന്‍
+  mi:
+    official: Ūkareinga
+    common: Ūkareinga
+  mr:
+    official: युक्रेन
+    common: युक्रेन
+  ms:
+    official: Ukraine
+    common: Ukraine
+  mt:
+    official: Ukranja
+    common: Ukranja
+  mn:
+    official: Украйн
+    common: Украйн
+  ne:
+    official: युक्रेन
+    common: युक्रेन
+  nn:
+    official: Ukraina
+    common: Ukraina
+  nb:
+    official: Ukraina
+    common: Ukraina
+  oc:
+    official: Ucraïna
+    common: Ucraïna
+  or:
+    official: ୟୁକ୍ରେନ
+    common: ୟୁକ୍ରେନ
+  pa:
+    official: ਯੂਕਰੇਨ
+    common: ਯੂਕਰੇਨ
+  fa:
+    official: اکراین
+    common: اکراین
+  pl:
+    official: Ukraina
+    common: Ukraina
+  pt:
+    official: Ucrânia
+    common: Ucrânia
+  ps:
+    official: Ukraine
+    common: Ukraine
+  ro:
+    official: Ucraina
+    common: Ucraina
+  ru:
+    official: Украина
+    common: Украина
+  si:
+    official: යුක්රේනය
+    common: යුක්රේනය
+  sk:
+    official: Ukrajina
+    common: Ukrajina
+  sl:
+    official: Ukrajina
+    common: Ukrajina
+  so:
+    official: Ukraine
+    common: Ukraine
+  es:
+    official: Ucrania
+    common: Ucrania
+  sr:
+    official: Украјина
+    common: Украјина
+  sw:
+    official: Ukraine
+    common: Ukraine
+  sv:
+    official: Ukraina
+    common: Ukraina
+  ta:
+    official: உக்ரெயின்
+    common: உக்ரெயின்
+  tt:
+    official: Украин
+    common: Украин
+  te:
+    official: యుక్రైన్
+    common: యుక్రైన్
+  tl:
+    official: Ukraine
+    common: Ukraine
+  th:
+    official: ยูเครน
+    common: ยูเครน
+  ti:
+    official: Ukraine
+    common: Ukraine
+  tk:
+    official: Ukraina
+    common: Ukraina
+  tr:
+    official: Ukrayna
+    common: Ukrayna
+  ug:
+    official: ئۇكرائىنا
+    common: ئۇكرائىنا
+  uk:
+    official: Україна
+    common: Україна
+  ve:
+    official: Ukraine
+    common: Ukraine
+  vi:
+    official: U-cờ-rai-na
+    common: U-cờ-rai-na
+  cy:
+    official: Wcrain
+    common: Wcrain
+  wa:
+    official: Oucrinne
+    common: Oucrinne
+  wo:
+    official: Ukreen
+    common: Ukreen
+  xh:
+    official: Ukraine
+    common: Ukraine
+  zu:
+    official: I-Ukraine
+    common: I-Ukraine

@@ -1,0 +1,430 @@
+{
+  "continent": "Africa",
+  "alpha2": "SL",
+  "alpha3": "SLE",
+  "country_code": "232",
+  "international_prefix": "00",
+  "ioc": "SLE",
+  "gec": "SL",
+  "name": "Sierra Leone",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "0",
+  "number": "694",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "world_region": "EMEA",
+  "un_locode": "SL",
+  "nationality": "Sierra Leonean",
+  "postal_code": false,
+  "unofficial_names": [
+    "Sierra Leone",
+    "シエラレオネ"
+  ],
+  "languages_official": [
+    "en"
+  ],
+  "languages_spoken": [
+    "en"
+  ],
+  "geo": {
+    "latitude": 8.460555,
+    "latitude_dec": "8.521441459655762",
+    "longitude": -11.779889,
+    "longitude_dec": "-11.843890190124512",
+    "max_latitude": 9.999973599999999,
+    "max_longitude": -10.2716831,
+    "min_latitude": 6.8993331,
+    "min_longitude": -13.3024326,
+    "bounds": {
+      "northeast": {
+        "lat": 9.999973599999999,
+        "lng": -10.2716831
+      },
+      "southwest": {
+        "lat": 6.8993331,
+        "lng": -13.3024326
+      }
+    }
+  },
+  "currency_code": "SLL",
+  "postal_address_data": {
+    "id": "data/SL",
+    "key": "SL",
+    "name": "SIERRA LEONE"
+  },
+  "translations": {
+    "af": {
+      "official": "Siërra Leone",
+      "common": "Siërra Leone"
+    },
+    "sq": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "am": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "ar": {
+      "official": "سيراليون",
+      "common": "سيراليون"
+    },
+    "hy": {
+      "official": "Սյերա-Լեոնե",
+      "common": "Սյերա-Լեոնե"
+    },
+    "as": {
+      "official": "চিয়েৰা লিওন",
+      "common": "চিয়েৰা লিওন"
+    },
+    "az": {
+      "official": "Siera Lione",
+      "common": "Siera Lione"
+    },
+    "eu": {
+      "official": "Sierra Leona",
+      "common": "Sierra Leona"
+    },
+    "be": {
+      "official": "Сьера-Леоне",
+      "common": "Сьера-Леоне"
+    },
+    "bn": {
+      "official": "সিয়েরা লিওন",
+      "common": "সিয়েরা লিওন"
+    },
+    "bs": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "br": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "bg": {
+      "official": "Сиера Леоне",
+      "common": "Сиера Леоне"
+    },
+    "ca": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "zh": {
+      "official": "塞拉利昂",
+      "common": "塞拉利昂"
+    },
+    "cs": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "da": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "nl": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "dz": {
+      "official": "སི་ར་ ལིའོ་ནི།",
+      "common": "སི་ར་ ལིའོ་ནི།"
+    },
+    "en": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "eo": {
+      "official": "Siera-Leono",
+      "common": "Siera-Leono"
+    },
+    "et": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "fo": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "fi": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "fr": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "ka": {
+      "official": "სიერა-ლეონე",
+      "common": "სიერა-ლეონე"
+    },
+    "de": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "ga": {
+      "official": "Siarra Leon",
+      "common": "Siarra Leon"
+    },
+    "gl": {
+      "official": "Serra Leoa",
+      "common": "Serra Leoa"
+    },
+    "el": {
+      "official": "Σιέρρα Λεόνε",
+      "common": "Σιέρρα Λεόνε"
+    },
+    "gu": {
+      "official": "સિએરા લીઓન",
+      "common": "સિએરા લીઓન"
+    },
+    "he": {
+      "official": "סיירה ליאון",
+      "common": "סיירה ליאון"
+    },
+    "hi": {
+      "official": "सियेरा लियोन",
+      "common": "सियेरा लियोन"
+    },
+    "hr": {
+      "official": "Sijera Leone",
+      "common": "Sijera Leone"
+    },
+    "hu": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "is": {
+      "official": "Síerra Leóne",
+      "common": "Síerra Leóne"
+    },
+    "ia": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "id": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "it": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "ja": {
+      "official": "シエラレオネ",
+      "common": "シエラレオネ"
+    },
+    "kn": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "kk": {
+      "official": "Сьерра-Леоне",
+      "common": "Сьерра-Леоне"
+    },
+    "km": {
+      "official": "សេរ៉ាឡេអូន",
+      "common": "សេរ៉ាឡេអូន"
+    },
+    "rw": {
+      "official": "Siyera Lewone",
+      "common": "Siyera Lewone"
+    },
+    "ko": {
+      "official": "시에라리온",
+      "common": "시에라리온"
+    },
+    "ku": {
+      "official": "Sîera Leone",
+      "common": "Sîera Leone"
+    },
+    "lv": {
+      "official": "Sjerraleone",
+      "common": "Sjerraleone"
+    },
+    "lt": {
+      "official": "Siera Leonė",
+      "common": "Siera Leonė"
+    },
+    "mk": {
+      "official": "Сиера Леоне",
+      "common": "Сиера Леоне"
+    },
+    "ml": {
+      "official": "സിയേറ ലിയോണ്‍",
+      "common": "സിയേറ ലിയോണ്‍"
+    },
+    "mi": {
+      "official": "Te Araone",
+      "common": "Te Araone"
+    },
+    "mr": {
+      "official": "सियेरा लेओन",
+      "common": "सियेरा लेओन"
+    },
+    "ms": {
+      "official": "Siera Leon",
+      "common": "Siera Leon"
+    },
+    "mt": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "mn": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "ne": {
+      "official": "साइरा लिओनरा",
+      "common": "साइरा लिओनरा"
+    },
+    "nn": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "nb": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "oc": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "or": {
+      "official": "ସିୟେରା ଲିୟୋନ",
+      "common": "ସିୟେରା ଲିୟୋନ"
+    },
+    "pa": {
+      "official": "ਸੀਈਰਆ ਲਿਏਨ",
+      "common": "ਸੀਈਰਆ ਲਿਏਨ"
+    },
+    "fa": {
+      "official": "سیرالئون",
+      "common": "سیرالئون"
+    },
+    "pl": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "pt": {
+      "official": "Serra Leoa",
+      "common": "Serra Leoa"
+    },
+    "ps": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "ro": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "ru": {
+      "official": "Сьерра-Леоне",
+      "common": "Сьерра-Леоне"
+    },
+    "si": {
+      "official": "සියෙරා ලියොන්",
+      "common": "සියෙරා ලියොන්"
+    },
+    "sk": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "sl": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "so": {
+      "official": "Siraaliyoon",
+      "common": "Siraaliyoon"
+    },
+    "es": {
+      "official": "Sierra Leona",
+      "common": "Sierra Leona"
+    },
+    "sr": {
+      "official": "Сијера Леоне",
+      "common": "Сијера Леоне"
+    },
+    "sw": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "sv": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "ta": {
+      "official": "சியராலியோன்",
+      "common": "சியராலியோன்"
+    },
+    "tt": {
+      "official": "Сиерра Леоне",
+      "common": "Сиерра Леоне"
+    },
+    "te": {
+      "official": "సియేరా లేఓన",
+      "common": "సియేరా లేఓన"
+    },
+    "tl": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "th": {
+      "official": "เซียร์ราลีโอน",
+      "common": "เซียร์ราลีโอน"
+    },
+    "ti": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "tk": {
+      "official": "Serra-Leone",
+      "common": "Serra-Leone"
+    },
+    "tr": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "ug": {
+      "official": "سېررالېئون",
+      "common": "سېررالېئون"
+    },
+    "uk": {
+      "official": "Сьєрра-Леоне",
+      "common": "Сьєрра-Леоне"
+    },
+    "ve": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "vi": {
+      "official": "Xi-ê-ra Lê-ô-nê",
+      "common": "Xi-ê-ra Lê-ô-nê"
+    },
+    "cy": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "wa": {
+      "official": "Siera Leyone",
+      "common": "Siera Leyone"
+    },
+    "wo": {
+      "official": "Siraa Leyoon",
+      "common": "Siraa Leyoon"
+    },
+    "xh": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "zu": {
+      "official": "Sierra Leone",
+      "common": "Sierra Leone"
+    }
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "continent": "Asia",
+  "alpha2": "KG",
+  "alpha3": "KGZ",
+  "country_code": "996",
+  "international_prefix": "00",
+  "ioc": "KGZ",
+  "gec": "KG",
+  "name": "Kyrgyzstan",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    9
+  ],
+  "national_prefix": "0",
+  "number": "417",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "world_region": "EMEA",
+  "un_locode": "KG",
+  "nationality": "Kirghiz",
+  "postal_code": true,
+  "unofficial_names": [
+    "Kyrgyzstan",
+    "Kirgisistan",
+    "Kirghizistan",
+    "Kirguizistán",
+    "キルギス",
+    "Kirgizië",
+    "Kyrgzstan"
+  ],
+  "languages_official": [
+    "ky",
+    "ru"
+  ],
+  "languages_spoken": [
+    "ky",
+    "ru"
+  ],
+  "geo": {
+    "latitude": 41.20438,
+    "latitude_dec": "41.46435546875",
+    "longitude": 74.766098,
+    "longitude_dec": "74.55522155761719",
+    "max_latitude": 43.2653569,
+    "max_longitude": 80.22655929999999,
+    "min_latitude": 39.180254,
+    "min_longitude": 69.250998,
+    "bounds": {
+      "northeast": {
+        "lat": 43.2653569,
+        "lng": 80.22655929999999
+      },
+      "southwest": {
+        "lat": 39.180254,
+        "lng": 69.250998
+      }
+    }
+  },
+  "currency_code": "KGS",
+  "postal_address_data": {
+    "zipex": "720001",
+    "name": "KYRGYZSTAN",
+    "zip": "\\d{6}",
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "key": "KG",
+    "id": "data/KG"
+  },
+  "translations": {
+    "af": {
+      "official": "Kirgisië",
+      "common": "Kirgisië"
+    },
+    "sq": {
+      "official": "Kirgistani",
+      "common": "Kirgistani"
+    },
+    "am": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "ar": {
+      "official": "قيرغزستان",
+      "common": "قيرغزستان"
+    },
+    "hy": {
+      "official": "Կիրգիզստան",
+      "common": "Կիրգիզստան"
+    },
+    "as": {
+      "official": "কিৰ্গিজস্তান",
+      "common": "কিৰ্গিজস্তান"
+    },
+    "az": {
+      "official": "Qırğızıstan",
+      "common": "Qırğızıstan"
+    },
+    "eu": {
+      "official": "Kirgizistan",
+      "common": "Kirgizistan"
+    },
+    "be": {
+      "official": "Кыргызстан",
+      "common": "Кыргызстан"
+    },
+    "bn": {
+      "official": "কির্গিজস্তান",
+      "common": "কির্গিজস্তান"
+    },
+    "bs": {
+      "official": "Kirgistan",
+      "common": "Kirgistan"
+    },
+    "br": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "bg": {
+      "official": "Киргизстан",
+      "common": "Киргизстан"
+    },
+    "ca": {
+      "official": "Kirguizistan",
+      "common": "Kirguizistan"
+    },
+    "zh": {
+      "official": "吉尔吉斯坦",
+      "common": "吉尔吉斯坦"
+    },
+    "cs": {
+      "official": "Kyrgyzstán",
+      "common": "Kyrgyzstán"
+    },
+    "da": {
+      "official": "Kirgisistan",
+      "common": "Kirgisistan"
+    },
+    "nl": {
+      "official": "Kirgizië",
+      "common": "Kirgizië"
+    },
+    "dz": {
+      "official": "ཀར་གིཛི་ཏཱན།",
+      "common": "ཀར་གིཛི་ཏཱན།"
+    },
+    "en": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "eo": {
+      "official": "Kirgizio",
+      "common": "Kirgizio"
+    },
+    "et": {
+      "official": "Kõrgõzstan",
+      "common": "Kõrgõzstan"
+    },
+    "fo": {
+      "official": "Kirgisia",
+      "common": "Kirgisia"
+    },
+    "fi": {
+      "official": "Kirgisia",
+      "common": "Kirgisia"
+    },
+    "fr": {
+      "official": "Kirghizistan",
+      "common": "Kirghizistan"
+    },
+    "ka": {
+      "official": "ყირგიზეთი",
+      "common": "ყირგიზეთი"
+    },
+    "de": {
+      "official": "Kirgisistan",
+      "common": "Kirgisistan"
+    },
+    "ga": {
+      "official": "An Chirgeastáin",
+      "common": "An Chirgeastáin"
+    },
+    "gl": {
+      "official": "Quirgizistán",
+      "common": "Quirgizistán"
+    },
+    "el": {
+      "official": "Κιργιζία",
+      "common": "Κιργιζία"
+    },
+    "gu": {
+      "official": "કિર્ગિસ્તાન",
+      "common": "કિર્ગિસ્તાન"
+    },
+    "he": {
+      "official": "קירגיסטאן",
+      "common": "קירגיסטאן"
+    },
+    "hi": {
+      "official": "किरगिज़तान",
+      "common": "किरगिज़तान"
+    },
+    "hr": {
+      "official": "Kirgistan",
+      "common": "Kirgistan"
+    },
+    "hu": {
+      "official": "Kirgizisztán",
+      "common": "Kirgizisztán"
+    },
+    "is": {
+      "official": "Kirgisistan",
+      "common": "Kirgisistan"
+    },
+    "ia": {
+      "official": "Kirghizistan",
+      "common": "Kirghizistan"
+    },
+    "id": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "it": {
+      "official": "Kirghizistan",
+      "common": "Kirghizistan"
+    },
+    "ja": {
+      "official": "キルギスタン",
+      "common": "キルギスタン"
+    },
+    "kn": {
+      "official": "ಕಿರ್ಗಿಝ್‍ಸ್ತಾನ್",
+      "common": "ಕಿರ್ಗಿಝ್‍ಸ್ತಾನ್"
+    },
+    "kk": {
+      "official": "Қырғызстан",
+      "common": "Қырғызстан"
+    },
+    "km": {
+      "official": "គៀរហ្គីស្តង់",
+      "common": "គៀរហ្គីស្តង់"
+    },
+    "rw": {
+      "official": "Kirigizasitani",
+      "common": "Kirigizasitani"
+    },
+    "ko": {
+      "official": "키르기즈스탄",
+      "common": "키르기즈스탄"
+    },
+    "ku": {
+      "official": "Kirgîsistan",
+      "common": "Kirgîsistan"
+    },
+    "lv": {
+      "official": "Kirgizstāna",
+      "common": "Kirgizstāna"
+    },
+    "lt": {
+      "official": "Kirgizija",
+      "common": "Kirgizija"
+    },
+    "mk": {
+      "official": "Киргистан",
+      "common": "Киргистан"
+    },
+    "ml": {
+      "official": "കിര്‍ഗിസ്താന്‍",
+      "common": "കിര്‍ഗിസ്താന്‍"
+    },
+    "mi": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "mr": {
+      "official": "किर्गिझस्तान",
+      "common": "किर्गिझस्तान"
+    },
+    "ms": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "mt": {
+      "official": "Kirgistan",
+      "common": "Kirgistan"
+    },
+    "mn": {
+      "official": "Киргиз",
+      "common": "Киргиз"
+    },
+    "ne": {
+      "official": "किर्जिस्तान",
+      "common": "किर्जिस्तान"
+    },
+    "nn": {
+      "official": "Kirgisistan",
+      "common": "Kirgisistan"
+    },
+    "nb": {
+      "official": "Kirgisistan",
+      "common": "Kirgisistan"
+    },
+    "oc": {
+      "official": "Kirguizistan",
+      "common": "Kirguizistan"
+    },
+    "or": {
+      "official": "କିର୍ଗିଜସ୍ତାନ",
+      "common": "କିର୍ଗିଜସ୍ତାନ"
+    },
+    "pa": {
+      "official": "ਕਿਰਗਸਤਾਨ",
+      "common": "ਕਿਰਗਸਤਾਨ"
+    },
+    "fa": {
+      "official": "قرقیزستان",
+      "common": "قرقیزستان"
+    },
+    "pl": {
+      "official": "Kirgistan",
+      "common": "Kirgistan"
+    },
+    "pt": {
+      "official": "Quirgistão",
+      "common": "Quirgistão"
+    },
+    "ps": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "ro": {
+      "official": "Kârgâzstan",
+      "common": "Kârgâzstan"
+    },
+    "ru": {
+      "official": "Кыргызстан",
+      "common": "Кыргызстан"
+    },
+    "si": {
+      "official": "කිර්ගිස්තානය",
+      "common": "කිර්ගිස්තානය"
+    },
+    "sk": {
+      "official": "Kirgizsko",
+      "common": "Kirgizsko"
+    },
+    "sl": {
+      "official": "Kirgizistan",
+      "common": "Kirgizistan"
+    },
+    "so": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "es": {
+      "official": "Kirgizstán",
+      "common": "Kirgizstán"
+    },
+    "sr": {
+      "official": "Киргистан",
+      "common": "Киргистан"
+    },
+    "sw": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "sv": {
+      "official": "Kirgisistan",
+      "common": "Kirgisistan"
+    },
+    "ta": {
+      "official": "கிரைகிசுத்தான்",
+      "common": "கிரைகிசுத்தான்"
+    },
+    "tt": {
+      "official": "Кыргызстан",
+      "common": "Кыргызстан"
+    },
+    "te": {
+      "official": "కిర్గిఝస్తాన",
+      "common": "కిర్గిఝస్తాన"
+    },
+    "tl": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "th": {
+      "official": "คีร์กีซสถาน",
+      "common": "คีร์กีซสถาน"
+    },
+    "ti": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "tk": {
+      "official": "Gyrgyzystan",
+      "common": "Gyrgyzystan"
+    },
+    "tr": {
+      "official": "Kırgızistan",
+      "common": "Kırgızistan"
+    },
+    "ug": {
+      "official": "قىرغىزىستان",
+      "common": "قىرغىزىستان"
+    },
+    "uk": {
+      "official": "Киргизстан",
+      "common": "Киргизстан"
+    },
+    "ve": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "vi": {
+      "official": "Khư-rơ-gư-xtanh",
+      "common": "Khư-rơ-gư-xtanh"
+    },
+    "cy": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "wa": {
+      "official": "Kirguiztan",
+      "common": "Kirguiztan"
+    },
+    "wo": {
+      "official": "Kirgistaan",
+      "common": "Kirgistaan"
+    },
+    "xh": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "zu": {
+      "official": "Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    }
+  }
+}

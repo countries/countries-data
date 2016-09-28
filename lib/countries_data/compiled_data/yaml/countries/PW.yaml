@@ -1,0 +1,334 @@
+---
+continent: Australia
+alpha2: PW
+alpha3: PLW
+country_code: '680'
+international_prefix: '00'
+ioc: PLW
+gec: PS
+name: Palau
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+national_prefix: None
+number: '585'
+region: Oceania
+subregion: Micronesia
+world_region: APAC
+un_locode: PW
+nationality: Palauan
+postal_code: true
+unofficial_names:
+- Palau
+- パラオ
+languages_official:
+- en
+languages_spoken:
+- en
+geo:
+  latitude: 7.514979999999999
+  latitude_dec: '7.441900730133057'
+  longitude: 134.58252
+  longitude_dec: '134.54205322265625'
+  max_latitude: 8.0940234
+  max_longitude: 134.7210985
+  min_latitude: 2.8127427
+  min_longitude: 131.1201096
+  bounds:
+    northeast:
+      lat: 8.0940234
+      lng: 134.7210985
+    southwest:
+      lat: 2.8127427
+      lng: 131.1201096
+currency_code: USD
+postal_address_data:
+  key: PW
+  upper: ACNOS
+  zipex: '96940'
+  name: PALAU
+  zip: "(969(?:39|40))(?:[ \\-](\\d{4}))?"
+  zip_name_type: zip
+  require: ACSZ
+  state_name_type: state
+  id: data/PW
+  posturl: http://zip4.usps.com/zip4/welcome.jsp
+  fmt: "%N%n%O%n%A%n%C %S %Z"
+translations:
+  af:
+    official: Palau
+    common: Palau
+  sq:
+    official: Palau
+    common: Palau
+  am:
+    official: Palau
+    common: Palau
+  ar:
+    official: بالاو
+    common: بالاو
+  hy:
+    official: Պալաու
+    common: Պալաու
+  as:
+    official: পালাউ
+    common: পালাউ
+  az:
+    official: Palau
+    common: Palau
+  eu:
+    official: Palau
+    common: Palau
+  be:
+    official: Палау
+    common: Палау
+  bn:
+    official: পালাউ
+    common: পালাউ
+  bs:
+    official: Palau
+    common: Palau
+  br:
+    official: Palau
+    common: Palau
+  bg:
+    official: Палау
+    common: Палау
+  ca:
+    official: Palau
+    common: Palau
+  zh:
+    official: 帕劳
+    common: 帕劳
+  cs:
+    official: Palau
+    common: Palau
+  da:
+    official: Palau
+    common: Palau
+  nl:
+    official: Palau
+    common: Palau
+  dz:
+    official: པ་ལའུ།
+    common: པ་ལའུ།
+  en:
+    official: Palau
+    common: Palau
+  eo:
+    official: Palaŭo
+    common: Palaŭo
+  et:
+    official: Belau
+    common: Belau
+  fo:
+    official: Palau
+    common: Palau
+  fi:
+    official: Palau
+    common: Palau
+  fr:
+    official: Palaos
+    common: Palaos
+  ka:
+    official: პალაუ
+    common: პალაუ
+  de:
+    official: Palau
+    common: Palau
+  ga:
+    official: Palau
+    common: Palau
+  gl:
+    official: Palau
+    common: Palau
+  el:
+    official: Παλάου
+    common: Παλάου
+  gu:
+    official: પાલાઉ
+    common: પાલાઉ
+  he:
+    official: פלאו
+    common: פלאו
+  hi:
+    official: पलाऊ
+    common: पलाऊ
+  hr:
+    official: Palau
+    common: Palau
+  hu:
+    official: Palau
+    common: Palau
+  is:
+    official: Palá
+    common: Palá
+  ia:
+    official: Palau
+    common: Palau
+  id:
+    official: Palau
+    common: Palau
+  it:
+    official: Palau
+    common: Palau
+  ja:
+    official: パラオ
+    common: パラオ
+  kn:
+    official: ಪಲಾಉ
+    common: ಪಲಾಉ
+  kk:
+    official: Палау
+    common: Палау
+  km:
+    official: ប៉ាឡូ
+    common: ប៉ាឡូ
+  rw:
+    official: Palawu
+    common: Palawu
+  ko:
+    official: 팔라우
+    common: 팔라우
+  ku:
+    official: Palawu
+    common: Palawu
+  lv:
+    official: Palau
+    common: Palau
+  lt:
+    official: Palau
+    common: Palau
+  mk:
+    official: Палау
+    common: Палау
+  ml:
+    official: പലാവു
+    common: പലാവു
+  mi:
+    official: Palau
+    common: Palau
+  mr:
+    official: पालाउ
+    common: पालाउ
+  ms:
+    official: Palau
+    common: Palau
+  mt:
+    official: Paragwaj
+    common: Paragwaj
+  mn:
+    official: Палау
+    common: Палау
+  ne:
+    official: पालाउ
+    common: पालाउ
+  nn:
+    official: Palau
+    common: Palau
+  nb:
+    official: Palau
+    common: Palau
+  oc:
+    official: Palau
+    common: Palau
+  or:
+    official: ପଲାଊ
+    common: ପଲାଊ
+  pa:
+    official: ਪਲਾਊ
+    common: ਪਲਾਊ
+  fa:
+    official: پالائو
+    common: پالائو
+  pl:
+    official: Palau
+    common: Palau
+  pt:
+    official: Palau
+    common: Palau
+  ps:
+    official: Palau
+    common: Palau
+  ro:
+    official: Palau
+    common: Palau
+  ru:
+    official: Палау
+    common: Палау
+  si:
+    official: පාලාව්
+    common: පාලාව්
+  sk:
+    official: Palau
+    common: Palau
+  sl:
+    official: Palau
+    common: Palau
+  so:
+    official: Palau
+    common: Palau
+  es:
+    official: Palau
+    common: Palau
+  sr:
+    official: Палау
+    common: Палау
+  sw:
+    official: Palau
+    common: Palau
+  sv:
+    official: Palau
+    common: Palau
+  ta:
+    official: பலாவு
+    common: பலாவு
+  tt:
+    official: Палау
+    common: Палау
+  te:
+    official: పలౌ
+    common: పలౌ
+  tl:
+    official: Palau
+    common: Palau
+  th:
+    official: ปาเลา
+    common: ปาเลา
+  ti:
+    official: Palau
+    common: Palau
+  tk:
+    official: Palau
+    common: Palau
+  tr:
+    official: Palau
+    common: Palau
+  ug:
+    official: پالاۋ
+    common: پالاۋ
+  uk:
+    official: Палау
+    common: Палау
+  ve:
+    official: Palau
+    common: Palau
+  vi:
+    official: Pa-lau
+    common: Pa-lau
+  cy:
+    official: Palau
+    common: Palau
+  wa:
+    official: Palawou
+    common: Palawou
+  wo:
+    official: Palau
+    common: Palau
+  xh:
+    official: Paraguay
+    common: Paraguay
+  zu:
+    official: I-Paraguwayi
+    common: I-Paraguwayi

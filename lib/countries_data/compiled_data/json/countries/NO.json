@@ -1,0 +1,444 @@
+{
+  "continent": "Europe",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}}\n{{country}}",
+  "alpha2": "NO",
+  "alpha3": "NOR",
+  "country_code": "47",
+  "international_prefix": "00",
+  "ioc": "NOR",
+  "gec": "NO",
+  "name": "Norway",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    8
+  ],
+  "national_prefix": "None",
+  "number": "578",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "world_region": "EMEA",
+  "un_locode": false,
+  "nationality": "Norwegian",
+  "eea_member": true,
+  "postal_code": true,
+  "unofficial_names": [
+    "Norway",
+    "Norwegen",
+    "Norvège",
+    "Noruega",
+    "ノルウェー",
+    "Noorwegen"
+  ],
+  "languages_official": [
+    "nb",
+    "nn"
+  ],
+  "languages_spoken": [
+    "nb",
+    "nn"
+  ],
+  "geo": {
+    "latitude": 60.47202399999999,
+    "latitude_dec": "66.76667022705078",
+    "longitude": 8.468945999999999,
+    "longitude_dec": "14.899925231933594",
+    "max_latitude": 71.1854262,
+    "max_longitude": 31.1682683,
+    "min_latitude": 57.959595,
+    "min_longitude": 4.5000962,
+    "bounds": {
+      "northeast": {
+        "lat": 71.1854262,
+        "lng": 31.1682683
+      },
+      "southwest": {
+        "lat": 57.959595,
+        "lng": 4.5000962
+      }
+    }
+  },
+  "currency_code": "NOK",
+  "postal_address_data": {
+    "key": "NO",
+    "zipex": "0025,0107,6631",
+    "name": "NORWAY",
+    "zip": "\\d{4}",
+    "require": "ACZ",
+    "id": "data/NO",
+    "posturl": "http://adressesok.posten.no/nb/postal_codes/search",
+    "locality_name_type": "post_town",
+    "fmt": "%N%n%O%n%A%n%Z %C"
+  },
+  "translations": {
+    "af": {
+      "official": "Noorweë",
+      "common": "Noorweë"
+    },
+    "sq": {
+      "official": "Norvegjia",
+      "common": "Norvegjia"
+    },
+    "am": {
+      "official": "ኖሴፃ",
+      "common": "ኖሴፃ"
+    },
+    "ar": {
+      "official": "النّرويج",
+      "common": "النّرويج"
+    },
+    "hy": {
+      "official": "Նորվեգիա",
+      "common": "Նորվեգիա"
+    },
+    "as": {
+      "official": "নৰৱে",
+      "common": "নৰৱে"
+    },
+    "az": {
+      "official": "Norveç",
+      "common": "Norveç"
+    },
+    "eu": {
+      "official": "Norvegia",
+      "common": "Norvegia"
+    },
+    "be": {
+      "official": "Нарвегія",
+      "common": "Нарвегія"
+    },
+    "bn": {
+      "official": "নরওয়ে",
+      "common": "নরওয়ে"
+    },
+    "bs": {
+      "official": "Norveška",
+      "common": "Norveška"
+    },
+    "br": {
+      "official": "Norvegia",
+      "common": "Norvegia"
+    },
+    "bg": {
+      "official": "Норвегия",
+      "common": "Норвегия"
+    },
+    "ca": {
+      "official": "Noruega",
+      "common": "Noruega"
+    },
+    "zh": {
+      "official": "挪威",
+      "common": "挪威"
+    },
+    "cs": {
+      "official": "Norsko",
+      "common": "Norsko"
+    },
+    "da": {
+      "official": "Norge",
+      "common": "Norge"
+    },
+    "nl": {
+      "official": "Noorwegen",
+      "common": "Noorwegen"
+    },
+    "dz": {
+      "official": "ནོར་ཝེ།",
+      "common": "ནོར་ཝེ།"
+    },
+    "en": {
+      "official": "Norway",
+      "common": "Norway"
+    },
+    "eo": {
+      "official": "Norvegio",
+      "common": "Norvegio"
+    },
+    "et": {
+      "official": "Norra",
+      "common": "Norra"
+    },
+    "fo": {
+      "official": "Noreg",
+      "common": "Noreg"
+    },
+    "fi": {
+      "official": "Norja",
+      "common": "Norja"
+    },
+    "fr": {
+      "official": "Norvège",
+      "common": "Norvège"
+    },
+    "ka": {
+      "official": "ნორვეგია",
+      "common": "ნორვეგია"
+    },
+    "de": {
+      "official": "Norwegen",
+      "common": "Norwegen"
+    },
+    "ga": {
+      "official": "An Iorua",
+      "common": "An Iorua"
+    },
+    "gl": {
+      "official": "Noruega",
+      "common": "Noruega"
+    },
+    "el": {
+      "official": "Νορβηγία",
+      "common": "Νορβηγία"
+    },
+    "gu": {
+      "official": "નોર્વે",
+      "common": "નોર્વે"
+    },
+    "he": {
+      "official": "נורבגיה",
+      "common": "נורבגיה"
+    },
+    "hi": {
+      "official": "नॉर्वे",
+      "common": "नॉर्वे"
+    },
+    "hr": {
+      "official": "Norveška",
+      "common": "Norveška"
+    },
+    "hu": {
+      "official": "Norvégia",
+      "common": "Norvégia"
+    },
+    "is": {
+      "official": "Noregur",
+      "common": "Noregur"
+    },
+    "ia": {
+      "official": "Norvegia",
+      "common": "Norvegia"
+    },
+    "id": {
+      "official": "Norwegia",
+      "common": "Norwegia"
+    },
+    "it": {
+      "official": "Norvegia",
+      "common": "Norvegia"
+    },
+    "ja": {
+      "official": "ノルウェー",
+      "common": "ノルウェー"
+    },
+    "kn": {
+      "official": "ನಾರ್ವೇ",
+      "common": "ನಾರ್ವೇ"
+    },
+    "kk": {
+      "official": "Норвегия",
+      "common": "Норвегия"
+    },
+    "km": {
+      "official": "ន័រវែស",
+      "common": "ន័រវែស"
+    },
+    "rw": {
+      "official": "Noruveje",
+      "common": "Noruveje"
+    },
+    "ko": {
+      "official": "노르웨이",
+      "common": "노르웨이"
+    },
+    "ku": {
+      "official": "Norweç",
+      "common": "Norweç"
+    },
+    "lv": {
+      "official": "Norvēģija",
+      "common": "Norvēģija"
+    },
+    "lt": {
+      "official": "Norvegija",
+      "common": "Norvegija"
+    },
+    "mk": {
+      "official": "Норвешка",
+      "common": "Норвешка"
+    },
+    "ml": {
+      "official": "നോര്‍വേ",
+      "common": "നോര്‍വേ"
+    },
+    "mi": {
+      "official": "Nōwei",
+      "common": "Nōwei"
+    },
+    "mr": {
+      "official": "नॉर्वे",
+      "common": "नॉर्वे"
+    },
+    "ms": {
+      "official": "Norway",
+      "common": "Norway"
+    },
+    "mt": {
+      "official": "Norveġja",
+      "common": "Norveġja"
+    },
+    "mn": {
+      "official": "Норвеги",
+      "common": "Норвеги"
+    },
+    "ne": {
+      "official": "नर्वे",
+      "common": "नर्वे"
+    },
+    "nn": {
+      "official": "Noreg",
+      "common": "Noreg"
+    },
+    "nb": {
+      "official": "Norge",
+      "common": "Norge"
+    },
+    "oc": {
+      "official": "Norvègia",
+      "common": "Norvègia"
+    },
+    "or": {
+      "official": "ନରୱେ",
+      "common": "ନରୱେ"
+    },
+    "pa": {
+      "official": "ਨਾਰਵੇ",
+      "common": "ਨਾਰਵੇ"
+    },
+    "fa": {
+      "official": "نروژ",
+      "common": "نروژ"
+    },
+    "pl": {
+      "official": "Norwegia",
+      "common": "Norwegia"
+    },
+    "pt": {
+      "official": "Noruega",
+      "common": "Noruega"
+    },
+    "ps": {
+      "official": "ناروې",
+      "common": "ناروې"
+    },
+    "ro": {
+      "official": "Norvegia",
+      "common": "Norvegia"
+    },
+    "ru": {
+      "official": "Норвегия",
+      "common": "Норвегия"
+    },
+    "si": {
+      "official": "නෝර්වේ",
+      "common": "නෝර්වේ"
+    },
+    "sk": {
+      "official": "Nórsko",
+      "common": "Nórsko"
+    },
+    "sl": {
+      "official": "Norveška",
+      "common": "Norveška"
+    },
+    "so": {
+      "official": "Noorweey",
+      "common": "Noorweey"
+    },
+    "es": {
+      "official": "Noruega",
+      "common": "Noruega"
+    },
+    "sr": {
+      "official": "Норвешка",
+      "common": "Норвешка"
+    },
+    "sw": {
+      "official": "Norway",
+      "common": "Norway"
+    },
+    "sv": {
+      "official": "Norge",
+      "common": "Norge"
+    },
+    "ta": {
+      "official": "நார்வே",
+      "common": "நார்வே"
+    },
+    "tt": {
+      "official": "Норвай",
+      "common": "Норвай"
+    },
+    "te": {
+      "official": "నార్వే",
+      "common": "నార్వే"
+    },
+    "tl": {
+      "official": "Norway",
+      "common": "Norway"
+    },
+    "th": {
+      "official": "นอร์เวย์",
+      "common": "นอร์เวย์"
+    },
+    "ti": {
+      "official": "ኖርዌ",
+      "common": "ኖርዌ"
+    },
+    "tk": {
+      "official": "Norwegiýa",
+      "common": "Norwegiýa"
+    },
+    "tr": {
+      "official": "Norveç",
+      "common": "Norveç"
+    },
+    "ug": {
+      "official": "نورۋېگىيە",
+      "common": "نورۋېگىيە"
+    },
+    "uk": {
+      "official": "Норвегія",
+      "common": "Норвегія"
+    },
+    "ve": {
+      "official": "Norway",
+      "common": "Norway"
+    },
+    "vi": {
+      "official": "Na Uy",
+      "common": "Na Uy"
+    },
+    "cy": {
+      "official": "Norwy",
+      "common": "Norwy"
+    },
+    "wa": {
+      "official": "Norvedje",
+      "common": "Norvedje"
+    },
+    "wo": {
+      "official": "Norweej",
+      "common": "Norweej"
+    },
+    "xh": {
+      "official": "Norway",
+      "common": "Norway"
+    },
+    "zu": {
+      "official": "I-Noweyi",
+      "common": "I-Noweyi"
+    }
+  }
+}

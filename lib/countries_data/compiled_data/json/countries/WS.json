@@ -1,0 +1,433 @@
+{
+  "continent": "Australia",
+  "alpha2": "WS",
+  "alpha3": "WSM",
+  "country_code": "685",
+  "international_prefix": "00",
+  "ioc": "SAM",
+  "gec": "WS",
+  "name": "Samoa",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    6,
+    7
+  ],
+  "national_prefix": "None",
+  "number": "882",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "world_region": "APAC",
+  "un_locode": "WS",
+  "nationality": "Samoan",
+  "postal_code": true,
+  "unofficial_names": [
+    "Samoa",
+    "サモア"
+  ],
+  "languages_official": [
+    "sm",
+    "en"
+  ],
+  "languages_spoken": [
+    "sm",
+    "en"
+  ],
+  "geo": {
+    "latitude": -13.759029,
+    "latitude_dec": "-13.668972969055176",
+    "longitude": -172.104629,
+    "longitude_dec": "-172.322021484375",
+    "max_latitude": -13.4396822,
+    "max_longitude": -171.3980055,
+    "min_latitude": -14.0765884,
+    "min_longitude": -172.8036765,
+    "bounds": {
+      "northeast": {
+        "lat": -13.4396822,
+        "lng": -171.3980055
+      },
+      "southwest": {
+        "lat": -14.0765884,
+        "lng": -172.8036765
+      }
+    }
+  },
+  "currency_code": "USD",
+  "postal_address_data": {
+    "id": "data/WS",
+    "key": "WS",
+    "name": "SAMOA"
+  },
+  "translations": {
+    "af": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "sq": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "am": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "ar": {
+      "official": "صاموا",
+      "common": "صاموا"
+    },
+    "hy": {
+      "official": "Սամոա",
+      "common": "Սամոա"
+    },
+    "as": {
+      "official": "ছামোৱা",
+      "common": "ছামোৱা"
+    },
+    "az": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "eu": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "be": {
+      "official": "Самоа",
+      "common": "Самоа"
+    },
+    "bn": {
+      "official": "সামোয়া",
+      "common": "সামোয়া"
+    },
+    "bs": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "br": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "bg": {
+      "official": "Самоа",
+      "common": "Самоа"
+    },
+    "ca": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "zh": {
+      "official": "萨摩亚",
+      "common": "萨摩亚"
+    },
+    "cs": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "da": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "nl": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "dz": {
+      "official": "ས་མོའ།",
+      "common": "ས་མོའ།"
+    },
+    "en": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "eo": {
+      "official": "Samoo",
+      "common": "Samoo"
+    },
+    "et": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "fo": {
+      "official": "Sámoa",
+      "common": "Sámoa"
+    },
+    "fi": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "fr": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "ka": {
+      "official": "სამოა",
+      "common": "სამოა"
+    },
+    "de": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "ga": {
+      "official": "Samó",
+      "common": "Samó"
+    },
+    "gl": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "el": {
+      "official": "Σαμόα",
+      "common": "Σαμόα"
+    },
+    "gu": {
+      "official": "સામોઆ",
+      "common": "સામોઆ"
+    },
+    "he": {
+      "official": "סמואה",
+      "common": "סמואה"
+    },
+    "hi": {
+      "official": "समोआ",
+      "common": "समोआ"
+    },
+    "hr": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "hu": {
+      "official": "Szamoa",
+      "common": "Szamoa"
+    },
+    "is": {
+      "official": "Samóa",
+      "common": "Samóa"
+    },
+    "ia": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "id": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "it": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "ja": {
+      "official": "サモア",
+      "common": "サモア"
+    },
+    "kn": {
+      "official": "ಸಮೋಆ",
+      "common": "ಸಮೋಆ"
+    },
+    "kk": {
+      "official": "Самоа",
+      "common": "Самоа"
+    },
+    "km": {
+      "official": "សាមូអា",
+      "common": "សាមូអា"
+    },
+    "rw": {
+      "official": "Samowa",
+      "common": "Samowa"
+    },
+    "ko": {
+      "official": "사모아",
+      "common": "사모아"
+    },
+    "ku": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "lv": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "lt": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "mk": {
+      "official": "Самоа",
+      "common": "Самоа"
+    },
+    "ml": {
+      "official": "സമോവ",
+      "common": "സമോവ"
+    },
+    "mi": {
+      "official": "Hāmoa ki te Uru",
+      "common": "Hāmoa ki te Uru"
+    },
+    "mr": {
+      "official": "सामोआ",
+      "common": "सामोआ"
+    },
+    "ms": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "mt": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "mn": {
+      "official": "Самоа",
+      "common": "Самоа"
+    },
+    "ne": {
+      "official": "समाओ",
+      "common": "समाओ"
+    },
+    "nn": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "nb": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "oc": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "or": {
+      "official": "ସାମୋଆ",
+      "common": "ସାମୋଆ"
+    },
+    "pa": {
+      "official": "ਸਾਮੀਆ",
+      "common": "ਸਾਮੀਆ"
+    },
+    "fa": {
+      "official": "ساموا",
+      "common": "ساموا"
+    },
+    "pl": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "pt": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "ps": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "ro": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "ru": {
+      "official": "Самоа",
+      "common": "Самоа"
+    },
+    "si": {
+      "official": "සැමෝවා",
+      "common": "සැමෝවා"
+    },
+    "sk": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "sl": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "so": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "es": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "sr": {
+      "official": "Самоа",
+      "common": "Самоа"
+    },
+    "sw": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "sv": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "ta": {
+      "official": "சமோவா",
+      "common": "சமோவா"
+    },
+    "tt": {
+      "official": "Самоа",
+      "common": "Самоа"
+    },
+    "te": {
+      "official": "సామోఆ",
+      "common": "సామోఆ"
+    },
+    "tl": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "th": {
+      "official": "ซามัว",
+      "common": "ซามัว"
+    },
+    "ti": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "tk": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "tr": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "ug": {
+      "official": "غەربىي ساموئا",
+      "common": "غەربىي ساموئا"
+    },
+    "uk": {
+      "official": "Самоа",
+      "common": "Самоа"
+    },
+    "ve": {
+      "official": "Cambodia",
+      "common": "Cambodia"
+    },
+    "vi": {
+      "official": "Xa-mô-a",
+      "common": "Xa-mô-a"
+    },
+    "cy": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "wa": {
+      "official": "Samowa",
+      "common": "Samowa"
+    },
+    "wo": {
+      "official": "Saamowa",
+      "common": "Saamowa"
+    },
+    "xh": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "zu": {
+      "official": "Samoa",
+      "common": "Samoa"
+    }
+  }
+}

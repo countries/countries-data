@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: Afghanistan
+    common: Afghanistan
+  AX:
+    official: Ålandseilanden
+    common: Ålandseilanden
+  AL:
+    official: Albanië
+    common: Albanië
+  DZ:
+    official: Algerije
+    common: Algerije
+  AS:
+    official: Amerikaans-Samoa
+    common: Amerikaans-Samoa
+  AD:
+    official: Andorra
+    common: Andorra
+  AO:
+    official: Angola
+    common: Angola
+  AI:
+    official: Anguilla
+    common: Anguilla
+  AQ:
+    official: Antarctica
+    common: Antarctica
+  AG:
+    official: Antigua en Barbuda
+    common: Antigua en Barbuda
+  AR:
+    official: Argentinië
+    common: Argentinië
+  AM:
+    official: Armenië
+    common: Armenië
+  AW:
+    official: Aruba
+    common: Aruba
+  AU:
+    official: Australië
+    common: Australië
+  AT:
+    official: Oostenrijk
+    common: Oostenrijk
+  AZ:
+    official: Azerbeidzjan
+    common: Azerbeidzjan
+  BS:
+    official: Bahama's
+    common: Bahama's
+  BH:
+    official: Bahrein
+    common: Bahrein
+  BD:
+    official: Bangladesh
+    common: Bangladesh
+  BB:
+    official: Barbados
+    common: Barbados
+  BY:
+    official: Wit-Rusland
+    common: Wit-Rusland
+  BE:
+    official: België
+    common: België
+  BZ:
+    official: Belize
+    common: Belize
+  BJ:
+    official: Benin
+    common: Benin
+  BM:
+    official: Bermuda
+    common: Bermuda
+  BT:
+    official: Bhutan
+    common: Bhutan
+  BO:
+    official: Bolivia, Multinationale Staat
+    common: Bolivia, Multinationale Staat
+  BQ:
+    official: Bonaire, Sint Eustatius en Saba
+    common: Bonaire, Sint Eustatius en Saba
+  BA:
+    official: Bosnië en Herzegovina
+    common: Bosnië en Herzegovina
+  BW:
+    official: Botswana
+    common: Botswana
+  BV:
+    official: Bouvet eiland
+    common: Bouvet eiland
+  BR:
+    official: Brazilië
+    common: Brazilië
+  IO:
+    official: Brits Territorium in de Indische Oceaan
+    common: Brits Territorium in de Indische Oceaan
+  BN:
+    official: Brunei
+    common: Brunei
+  BG:
+    official: Bulgarije
+    common: Bulgarije
+  BF:
+    official: Burkina Faso
+    common: Burkina Faso
+  BI:
+    official: Burundi
+    common: Burundi
+  KH:
+    official: Cambodja
+    common: Cambodja
+  CM:
+    official: Kameroen
+    common: Kameroen
+  CA:
+    official: Canada
+    common: Canada
+  CV:
+    official: Kaapverdië
+    common: Kaapverdië
+  KY:
+    official: Caymaneilanden
+    common: Caymaneilanden
+  CF:
+    official: Centraal-Afrikaanse Republiek
+    common: Centraal-Afrikaanse Republiek
+  TD:
+    official: Tsjaad
+    common: Tsjaad
+  CL:
+    official: Chili
+    common: Chili
+  CN:
+    official: China
+    common: China
+  CX:
+    official: Christmaseiland
+    common: Christmaseiland
+  CC:
+    official: Cocoseilanden
+    common: Cocoseilanden
+  CO:
+    official: Colombia
+    common: Colombia
+  KM:
+    official: Comoren
+    common: Comoren
+  CG:
+    official: Congo
+    common: Congo
+  CD:
+    official: Congo, Democratische Republiek
+    common: Congo, Democratische Republiek
+  CK:
+    official: Cookeilanden
+    common: Cookeilanden
+  CR:
+    official: Costa Rica
+    common: Costa Rica
+  CI:
+    official: Ivoorkust
+    common: Ivoorkust
+  HR:
+    official: Kroatië
+    common: Kroatië
+  CU:
+    official: Cuba
+    common: Cuba
+  CW:
+    official: Curaçao
+    common: Curaçao
+  CY:
+    official: Cyprus
+    common: Cyprus
+  CZ:
+    official: Tsjechië
+    common: Tsjechië
+  DK:
+    official: Denemarken
+    common: Denemarken
+  DJ:
+    official: Djibouti
+    common: Djibouti
+  DM:
+    official: Dominica
+    common: Dominica
+  DO:
+    official: Dominicaanse Republiek
+    common: Dominicaanse Republiek
+  EC:
+    official: Ecuador
+    common: Ecuador
+  EG:
+    official: Egypte
+    common: Egypte
+  SV:
+    official: El Salvador
+    common: El Salvador
+  GQ:
+    official: Equatoriaal-Guinea
+    common: Equatoriaal-Guinea
+  ER:
+    official: Eritrea
+    common: Eritrea
+  EE:
+    official: Estland
+    common: Estland
+  ET:
+    official: Ethiopië
+    common: Ethiopië
+  FK:
+    official: Falklandeilanden
+    common: Falklandeilanden
+  FO:
+    official: Faeröer
+    common: Faeröer
+  FJ:
+    official: Fiji
+    common: Fiji
+  FI:
+    official: Finland
+    common: Finland
+  FR:
+    official: Frankrijk
+    common: Frankrijk
+  GF:
+    official: Frans-Guyana
+    common: Frans-Guyana
+  PF:
+    official: Frans-Polynesië
+    common: Frans-Polynesië
+  TF:
+    official: Franse Zuidelijke Gebieden
+    common: Franse Zuidelijke Gebieden
+  GA:
+    official: Gabon
+    common: Gabon
+  GM:
+    official: Gambia
+    common: Gambia
+  GE:
+    official: Georgië
+    common: Georgië
+  DE:
+    official: Duitsland
+    common: Duitsland
+  GH:
+    official: Ghana
+    common: Ghana
+  GI:
+    official: Gibraltar
+    common: Gibraltar
+  GR:
+    official: Griekenland
+    common: Griekenland
+  GL:
+    official: Groenland
+    common: Groenland
+  GD:
+    official: Grenada
+    common: Grenada
+  GP:
+    official: Guadeloupe
+    common: Guadeloupe
+  GU:
+    official: Guam
+    common: Guam
+  GT:
+    official: Guatemala
+    common: Guatemala
+  GG:
+    official: Guernsey
+    common: Guernsey
+  GN:
+    official: Guinee
+    common: Guinee
+  GW:
+    official: Guinee-Bissau
+    common: Guinee-Bissau
+  GY:
+    official: Guyana
+    common: Guyana
+  HT:
+    official: Haïti
+    common: Haïti
+  HM:
+    official: Heardeiland en McDonaldeilanden
+    common: Heardeiland en McDonaldeilanden
+  VA:
+    official: Vaticaanstad
+    common: Vaticaanstad
+  HN:
+    official: Honduras
+    common: Honduras
+  HK:
+    official: Hongkong
+    common: Hongkong
+  HU:
+    official: Hongarije
+    common: Hongarije
+  IS:
+    official: IJsland
+    common: IJsland
+  IN:
+    official: India
+    common: India
+  ID:
+    official: Indonesië
+    common: Indonesië
+  IR:
+    official: Iran
+    common: Iran
+  IQ:
+    official: Irak
+    common: Irak
+  IE:
+    official: Ierland
+    common: Ierland
+  IM:
+    official: Eiland Man
+    common: Eiland Man
+  IL:
+    official: Israël
+    common: Israël
+  IT:
+    official: Italië
+    common: Italië
+  JM:
+    official: Jamaica
+    common: Jamaica
+  JP:
+    official: Japan
+    common: Japan
+  JE:
+    official: Jersey
+    common: Jersey
+  JO:
+    official: Jordanië
+    common: Jordanië
+  KZ:
+    official: Kazachstan
+    common: Kazachstan
+  KE:
+    official: Kenia
+    common: Kenia
+  KI:
+    official: Kiribati
+    common: Kiribati
+  KP:
+    official: Noord-Korea
+    common: Noord-Korea
+  KR:
+    official: Zuid-Korea
+    common: Zuid-Korea
+  KW:
+    official: Koeweit
+    common: Koeweit
+  KG:
+    official: Kirgizië
+    common: Kirgizië
+  LA:
+    official: Laos Democratische Volksrepubliek
+    common: Laos Democratische Volksrepubliek
+  LV:
+    official: Letland
+    common: Letland
+  LB:
+    official: Libanon
+    common: Libanon
+  LS:
+    official: Lesotho
+    common: Lesotho
+  LR:
+    official: Liberia
+    common: Liberia
+  LY:
+    official: Libië
+    common: Libië
+  LI:
+    official: Liechtenstein
+    common: Liechtenstein
+  LT:
+    official: Litouwen
+    common: Litouwen
+  LU:
+    official: Luxemburg
+    common: Luxemburg
+  MO:
+    official: Macau
+    common: Macau
+  MK:
+    official: Macedonië
+    common: Macedonië
+  MG:
+    official: Madagaskar
+    common: Madagaskar
+  MW:
+    official: Malawi
+    common: Malawi
+  MY:
+    official: Maleisië
+    common: Maleisië
+  MV:
+    official: Maldiven
+    common: Maldiven
+  ML:
+    official: Mali
+    common: Mali
+  MT:
+    official: Malta
+    common: Malta
+  MH:
+    official: Marshalleilanden
+    common: Marshalleilanden
+  MQ:
+    official: Martinique
+    common: Martinique
+  MR:
+    official: Mauritanië
+    common: Mauritanië
+  MU:
+    official: Mauritius
+    common: Mauritius
+  YT:
+    official: Mayotte
+    common: Mayotte
+  MX:
+    official: Mexico
+    common: Mexico
+  FM:
+    official: Micronesia
+    common: Micronesia
+  MD:
+    official: Moldavië, Republiek
+    common: Moldavië, Republiek
+  MC:
+    official: Monaco
+    common: Monaco
+  MN:
+    official: Mongolië
+    common: Mongolië
+  ME:
+    official: Montenegro
+    common: Montenegro
+  MS:
+    official: Montserrat
+    common: Montserrat
+  MA:
+    official: Marokko
+    common: Marokko
+  MZ:
+    official: Mozambique
+    common: Mozambique
+  MM:
+    official: Myanmar
+    common: Myanmar
+  NA:
+    official: Namibië
+    common: Namibië
+  NR:
+    official: Nauru
+    common: Nauru
+  NP:
+    official: Nepal
+    common: Nepal
+  NL:
+    official: Nederland
+    common: Nederland
+  NC:
+    official: Nieuw-Caledonië
+    common: Nieuw-Caledonië
+  NZ:
+    official: Nieuw-Zeeland
+    common: Nieuw-Zeeland
+  NI:
+    official: Nicaragua
+    common: Nicaragua
+  NE:
+    official: Niger
+    common: Niger
+  NG:
+    official: Nigeria
+    common: Nigeria
+  NU:
+    official: Niue
+    common: Niue
+  NF:
+    official: Norfolk
+    common: Norfolk
+  MP:
+    official: Noordelijke Marianen
+    common: Noordelijke Marianen
+  'NO':
+    official: Noorwegen
+    common: Noorwegen
+  OM:
+    official: Oman
+    common: Oman
+  PK:
+    official: Pakistan
+    common: Pakistan
+  PW:
+    official: Palau
+    common: Palau
+  PS:
+    official: Palestina
+    common: Palestina
+  PA:
+    official: Panama
+    common: Panama
+  PG:
+    official: Papoea-Nieuw-Guinea
+    common: Papoea-Nieuw-Guinea
+  PY:
+    official: Paraguay
+    common: Paraguay
+  PE:
+    official: Peru
+    common: Peru
+  PH:
+    official: Filipijnen
+    common: Filipijnen
+  PN:
+    official: Pitcairneilanden
+    common: Pitcairneilanden
+  PL:
+    official: Polen
+    common: Polen
+  PT:
+    official: Portugal
+    common: Portugal
+  PR:
+    official: Puerto Rico
+    common: Puerto Rico
+  QA:
+    official: Qatar
+    common: Qatar
+  RE:
+    official: Réunion
+    common: Réunion
+  RO:
+    official: Roemenië
+    common: Roemenië
+  RU:
+    official: Rusland
+    common: Rusland
+  RW:
+    official: Rwanda
+    common: Rwanda
+  BL:
+    official: Saint-Barthélemy
+    common: Saint-Barthélemy
+  SH:
+    official: Sint-Helena, Ascension en Tristan da Cunha
+    common: Sint-Helena, Ascension en Tristan da Cunha
+  KN:
+    official: Saint Kitts en Nevis
+    common: Saint Kitts en Nevis
+  LC:
+    official: Saint Lucia
+    common: Saint Lucia
+  MF:
+    official: Sint-Maarten
+    common: Sint-Maarten
+  PM:
+    official: Saint-Pierre en Miquelon
+    common: Saint-Pierre en Miquelon
+  VC:
+    official: Saint Vincent en de Grenadines
+    common: Saint Vincent en de Grenadines
+  WS:
+    official: Samoa
+    common: Samoa
+  SM:
+    official: San Marino
+    common: San Marino
+  ST:
+    official: Sao Tomé en Principe
+    common: Sao Tomé en Principe
+  SA:
+    official: Saoedi-Arabië
+    common: Saoedi-Arabië
+  SN:
+    official: Senegal
+    common: Senegal
+  RS:
+    official: Servië
+    common: Servië
+  SC:
+    official: Seychellen
+    common: Seychellen
+  SL:
+    official: Sierra Leone
+    common: Sierra Leone
+  SG:
+    official: Singapore
+    common: Singapore
+  SX:
+    official: Sint Maarten (Nederlands deel)
+    common: Sint Maarten (Nederlands deel)
+  SK:
+    official: Slowakije, Slovakije
+    common: Slowakije, Slovakije
+  SI:
+    official: Slovenië
+    common: Slovenië
+  SB:
+    official: Salomonseilanden
+    common: Salomonseilanden
+  SO:
+    official: Somalië
+    common: Somalië
+  ZA:
+    official: Zuid-Afrika
+    common: Zuid-Afrika
+  GS:
+    official: Zuid-Georgië en de Zuidelijke Sandwicheilanden
+    common: Zuid-Georgië en de Zuidelijke Sandwicheilanden
+  ES:
+    official: Spanje
+    common: Spanje
+  LK:
+    official: Sri Lanka
+    common: Sri Lanka
+  SD:
+    official: Soedan
+    common: Soedan
+  SR:
+    official: Suriname
+    common: Suriname
+  SS:
+    official: Zuid-Soedan
+    common: Zuid-Soedan
+  SJ:
+    official: Spitsbergen en Jan Mayen
+    common: Spitsbergen en Jan Mayen
+  SZ:
+    official: Swaziland
+    common: Swaziland
+  SE:
+    official: Zweden
+    common: Zweden
+  CH:
+    official: Zwitserland
+    common: Zwitserland
+  SY:
+    official: Syrië
+    common: Syrië
+  TW:
+    official: Taiwan
+    common: Taiwan
+  TJ:
+    official: Tadzjikistan
+    common: Tadzjikistan
+  TZ:
+    official: Tanzania
+    common: Tanzania
+  TH:
+    official: Thailand
+    common: Thailand
+  TL:
+    official: Oost-Timor
+    common: Oost-Timor
+  TG:
+    official: Togo
+    common: Togo
+  TK:
+    official: Tokelau-eilanden
+    common: Tokelau-eilanden
+  TO:
+    official: Tonga
+    common: Tonga
+  TT:
+    official: Trinidad en Tobago
+    common: Trinidad en Tobago
+  TN:
+    official: Tunesië
+    common: Tunesië
+  TR:
+    official: Turkije
+    common: Turkije
+  TM:
+    official: Turkmenistan
+    common: Turkmenistan
+  TC:
+    official: Turks- en Caicoseilanden
+    common: Turks- en Caicoseilanden
+  TV:
+    official: Tuvalu
+    common: Tuvalu
+  UG:
+    official: Oeganda
+    common: Oeganda
+  UA:
+    official: Oekraïne
+    common: Oekraïne
+  AE:
+    official: Verenigde Arabische Emiraten
+    common: Verenigde Arabische Emiraten
+  GB:
+    official: Verenigd Koninkrijk
+    common: Verenigd Koninkrijk
+  US:
+    official: Verenigde Staten
+    common: Verenigde Staten
+  UM:
+    official: Kleine Pacifische eilanden van de Verenigde Staten
+    common: Kleine Pacifische eilanden van de Verenigde Staten
+  UY:
+    official: Uruguay
+    common: Uruguay
+  UZ:
+    official: Oezbekistan
+    common: Oezbekistan
+  VU:
+    official: Vanuatu
+    common: Vanuatu
+  VE:
+    official: Venezuela, Bolivariaanse Republiek
+    common: Venezuela, Bolivariaanse Republiek
+  VN:
+    official: Vietnam
+    common: Vietnam
+  VG:
+    official: Maagdeneilanden, Britse
+    common: Maagdeneilanden, Britse
+  VI:
+    official: Amerikaanse Maagdeneilanden
+    common: Amerikaanse Maagdeneilanden
+  WF:
+    official: Wallis en Futuna
+    common: Wallis en Futuna
+  EH:
+    official: Westelijke Sahara
+    common: Westelijke Sahara
+  YE:
+    official: Jemen
+    common: Jemen
+  ZM:
+    official: Zambia
+    common: Zambia
+  ZW:
+    official: Zimbabwe
+    common: Zimbabwe

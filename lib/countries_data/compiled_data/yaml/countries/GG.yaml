@@ -1,0 +1,336 @@
+---
+continent: Europe
+alpha2: GG
+alpha3: GGY
+country_code: '44'
+international_prefix: ''
+ioc: 
+gec: GK
+name: Guernsey
+national_destination_code_lengths: []
+national_number_lengths: []
+national_prefix: ''
+number: '831'
+region: Europe
+subregion: Northern Europe
+world_region: EMEA
+un_locode: 
+nationality: Channel Islander
+postal_code: true
+unofficial_names:
+- Guernsey and Alderney
+- Guernsey und Alderney
+- Guernsey et Alderney
+- Guernsey y Alderney
+- ガーンジー
+- Guernsey
+languages_official:
+- en
+- fr
+languages_spoken:
+- en
+- fr
+geo:
+  latitude: 49.465691
+  latitude_dec: '49.72008514404297'
+  longitude: -2.585278
+  longitude_dec: "-2.1999685764312744"
+  max_latitude: 49.7327825
+  max_longitude: -2.1584972
+  min_latitude: 49.4002032
+  min_longitude: -2.6745361
+  bounds:
+    northeast:
+      lat: 49.7327825
+      lng: -2.1584972
+    southwest:
+      lat: 49.4002032
+      lng: -2.6745361
+currency_code: GBP
+postal_address_data:
+  key: GG
+  upper: CZ
+  zipex: GY1 1AA,GY2 2BT
+  name: CHANNEL ISLANDS
+  zip: GY\d[\dA-Z]? ?\d[ABD-HJLN-UW-Z]{2}
+  require: ACZ
+  id: data/GG
+  posturl: http://www.guernseypost.com/postcode_finder/
+  fmt: "%N%n%O%n%A%n%C%nGUERNSEY%n%Z"
+translations:
+  af:
+    official: Guernsey
+    common: Guernsey
+  sq:
+    official: Guernsey
+    common: Guernsey
+  am:
+    official: Guernsey
+    common: Guernsey
+  ar:
+    official: جزيرة جويرزني
+    common: جزيرة جويرزني
+  hy:
+    official: Գերնսի
+    common: Գերնսի
+  as:
+    official: গুয়েৰ্ন্সে
+    common: গুয়েৰ্ন্সে
+  az:
+    official: Guernsey
+    common: Guernsey
+  eu:
+    official: Guernsey
+    common: Guernsey
+  be:
+    official: Гернсі
+    common: Гернсі
+  bn:
+    official: গুয়ের্নসে
+    common: গুয়ের্নসে
+  bs:
+    official: Gernzi
+    common: Gernzi
+  br:
+    official: Guernsey
+    common: Guernsey
+  bg:
+    official: Гърнсей
+    common: Гърнсей
+  ca:
+    official: Guernsey
+    common: Guernsey
+  zh:
+    official: 根西岛
+    common: 根西岛
+  cs:
+    official: Guernsey
+    common: Guernsey
+  da:
+    official: Guernsey
+    common: Guernsey
+  nl:
+    official: Guernsey
+    common: Guernsey
+  dz:
+    official: གུ་རེན་སེ།
+    common: གུ་རེན་སེ།
+  en:
+    official: Guernsey
+    common: Guernsey
+  eo:
+    official: Gernezejo
+    common: Gernezejo
+  et:
+    official: Guernsey
+    common: Guernsey
+  fo:
+    official: Guernsey
+    common: Guernsey
+  fi:
+    official: Guernsey
+    common: Guernsey
+  fr:
+    official: Guernesey
+    common: Guernesey
+  ka:
+    official: გუერნსი
+    common: გუერნსი
+  de:
+    official: Guernsey
+    common: Guernsey
+  ga:
+    official: Geansaí
+    common: Geansaí
+  gl:
+    official: Guernsey
+    common: Guernsey
+  el:
+    official: Γκέρνσεϋ
+    common: Γκέρνσεϋ
+  gu:
+    official: ગુર્નસે
+    common: ગુર્નસે
+  he:
+    official: גאורנסי
+    common: גאורנסי
+  hi:
+    official: ग्वेर्नसी
+    common: ग्वेर्नसी
+  hr:
+    official: Guernsey
+    common: Guernsey
+  hu:
+    official: Guernsey
+    common: Guernsey
+  is:
+    official: Guernsey
+    common: Guernsey
+  ia:
+    official: Guernsey
+    common: Guernsey
+  id:
+    official: Guersey
+    common: Guersey
+  it:
+    official: Guernsey
+    common: Guernsey
+  ja:
+    official: ガーンジー
+    common: ガーンジー
+  kn:
+    official: Guernsey
+    common: Guernsey
+  kk:
+    official: Гернси
+    common: Гернси
+  km:
+    official: Guernsey
+    common: Guernsey
+  rw:
+    official: Ubudage
+    common: Ubudage
+  ko:
+    official: 건지섬
+    common: 건지섬
+  ku:
+    official: Guernsey
+    common: Guernsey
+  lv:
+    official: Gērnsija
+    common: Gērnsija
+  lt:
+    official: Gernsis
+    common: Gernsis
+  mk:
+    official: Гурнези
+    common: Гурнези
+  ml:
+    official: ജേണ്‍സി
+    common: ജേണ്‍സി
+  mi:
+    official: Kōnihi
+    common: Kōnihi
+  mr:
+    official: ग्विर्नसे
+    common: ग्विर्नसे
+  ms:
+    official: Guernsey
+    common: Guernsey
+  mt:
+    official: Guernsey
+    common: Guernsey
+  mn:
+    official: Герман
+    common: Герман
+  ne:
+    official: गुइन्सी
+    common: गुइन्सी
+  nn:
+    official: Guernsey
+    common: Guernsey
+  nb:
+    official: Guernsey
+    common: Guernsey
+  oc:
+    official: Alemanya
+    common: Alemanya
+  or:
+    official: ଗୁୟେର୍ନସୀ
+    common: ଗୁୟେର୍ନସୀ
+  pa:
+    official: ਗੁਰੀਨਸੇ
+    common: ਗੁਰੀਨਸੇ
+  fa:
+    official: گرنزی
+    common: گرنزی
+  pl:
+    official: Guernsey
+    common: Guernsey
+  pt:
+    official: Guernsey
+    common: Guernsey
+  ps:
+    official: Guernsey
+    common: Guernsey
+  ro:
+    official: Guernsey
+    common: Guernsey
+  ru:
+    official: Гернси
+    common: Гернси
+  si:
+    official: ගුවන්සි
+    common: ගුවන්සි
+  sk:
+    official: Guernsey
+    common: Guernsey
+  sl:
+    official: Guernsey
+    common: Guernsey
+  so:
+    official: Guernsey
+    common: Guernsey
+  es:
+    official: Guernsey
+    common: Guernsey
+  sr:
+    official: Гернси
+    common: Гернси
+  sw:
+    official: Guernsey
+    common: Guernsey
+  sv:
+    official: Guernsey
+    common: Guernsey
+  ta:
+    official: க்ரென்சி
+    common: க்ரென்சி
+  tt:
+    official: Guernsey
+    common: Guernsey
+  te:
+    official: గ్విర్నసే
+    common: గ్విర్నసే
+  tl:
+    official: Guernsey
+    common: Guernsey
+  th:
+    official: เกิร์นซีย์
+    common: เกิร์นซีย์
+  ti:
+    official: Guernsey
+    common: Guernsey
+  tk:
+    official: Guernsey
+    common: Guernsey
+  tr:
+    official: Guernsey
+    common: Guernsey
+  ug:
+    official: گېرىنسى
+    common: گېرىنسى
+  uk:
+    official: Острів Гернсі
+    common: Острів Гернсі
+  ve:
+    official: Guernsey
+    common: Guernsey
+  vi:
+    official: Gơnh-xị
+    common: Gơnh-xị
+  cy:
+    official: Guernsey
+    common: Guernsey
+  wa:
+    official: Guernsey
+    common: Guernsey
+  wo:
+    official: Guernsey
+    common: Guernsey
+  xh:
+    official: Guernsey
+    common: Guernsey
+  zu:
+    official: Guernsey
+    common: Guernsey

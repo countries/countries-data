@@ -1,0 +1,453 @@
+{
+  "continent": "Europe",
+  "address_format": "{{recipient}}\n{{street}}\n{{postalcode}} {{city}}\n{{country}}",
+  "alpha2": "SE",
+  "alpha3": "SWE",
+  "country_code": "46",
+  "international_prefix": "00",
+  "ioc": "SWE",
+  "gec": "SW",
+  "name": "Sweden",
+  "national_destination_code_lengths": [
+    2
+  ],
+  "national_number_lengths": [
+    9
+  ],
+  "national_prefix": "0",
+  "number": "752",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "world_region": "EMEA",
+  "un_locode": "SE",
+  "nationality": "Swedish",
+  "eu_member": true,
+  "eea_member": true,
+  "vat_rates": {
+    "standard": 25,
+    "reduced": [
+      6,
+      12
+    ],
+    "super_reduced": null,
+    "parking": null
+  },
+  "postal_code": true,
+  "unofficial_names": [
+    "Sweden",
+    "Schweden",
+    "Suède",
+    "Suecia",
+    "スウェーデン",
+    "Zweden"
+  ],
+  "languages_official": [
+    "sv"
+  ],
+  "languages_spoken": [
+    "sv"
+  ],
+  "geo": {
+    "latitude": 60.12816100000001,
+    "latitude_dec": "62.67497253417969",
+    "longitude": 18.643501,
+    "longitude_dec": "16.798059463500977",
+    "max_latitude": 69.0599709,
+    "max_longitude": 24.1773102,
+    "min_latitude": 55.0059799,
+    "min_longitude": 10.5798,
+    "bounds": {
+      "northeast": {
+        "lat": 69.0599709,
+        "lng": 24.1773102
+      },
+      "southwest": {
+        "lat": 55.0059799,
+        "lng": 10.5798
+      }
+    }
+  },
+  "currency_code": "SEK",
+  "postal_address_data": {
+    "postprefix": "SE-",
+    "zipex": "11455,12345,10500",
+    "name": "SWEDEN",
+    "zip": "\\d{3} ?\\d{2}",
+    "require": "ACZ",
+    "id": "data/SE",
+    "key": "SE",
+    "posturl": "http://www.posten.se/sv/Kundservice/Sidor/Sok-postnummer-resultat.aspx",
+    "locality_name_type": "post_town",
+    "fmt": "%O%n%N%n%A%nSE-%Z %C"
+  },
+  "translations": {
+    "af": {
+      "official": "Swede",
+      "common": "Swede"
+    },
+    "sq": {
+      "official": "Suedia",
+      "common": "Suedia"
+    },
+    "am": {
+      "official": "ስፁ፥ን",
+      "common": "ስፁ፥ን"
+    },
+    "ar": {
+      "official": "السّويد",
+      "common": "السّويد"
+    },
+    "hy": {
+      "official": "Շվեդիա",
+      "common": "Շվեդիա"
+    },
+    "as": {
+      "official": "ছুইডেন",
+      "common": "ছুইডেন"
+    },
+    "az": {
+      "official": "İsveç",
+      "common": "İsveç"
+    },
+    "eu": {
+      "official": "Suedia",
+      "common": "Suedia"
+    },
+    "be": {
+      "official": "Швецыя",
+      "common": "Швецыя"
+    },
+    "bn": {
+      "official": "সুইডেন",
+      "common": "সুইডেন"
+    },
+    "bs": {
+      "official": "Švedska",
+      "common": "Švedska"
+    },
+    "br": {
+      "official": "Sveden",
+      "common": "Sveden"
+    },
+    "bg": {
+      "official": "Швеция",
+      "common": "Швеция"
+    },
+    "ca": {
+      "official": "Suècia",
+      "common": "Suècia"
+    },
+    "zh": {
+      "official": "瑞典",
+      "common": "瑞典"
+    },
+    "cs": {
+      "official": "Švédsko",
+      "common": "Švédsko"
+    },
+    "da": {
+      "official": "Sverige",
+      "common": "Sverige"
+    },
+    "nl": {
+      "official": "Zweden",
+      "common": "Zweden"
+    },
+    "dz": {
+      "official": "སུའི་ཌེན།",
+      "common": "སུའི་ཌེན།"
+    },
+    "en": {
+      "official": "Sweden",
+      "common": "Sweden"
+    },
+    "eo": {
+      "official": "Svedio",
+      "common": "Svedio"
+    },
+    "et": {
+      "official": "Rootsi",
+      "common": "Rootsi"
+    },
+    "fo": {
+      "official": "Svøríki",
+      "common": "Svøríki"
+    },
+    "fi": {
+      "official": "Ruotsi",
+      "common": "Ruotsi"
+    },
+    "fr": {
+      "official": "Suède",
+      "common": "Suède"
+    },
+    "ka": {
+      "official": "შვეცია",
+      "common": "შვეცია"
+    },
+    "de": {
+      "official": "Schweden",
+      "common": "Schweden"
+    },
+    "ga": {
+      "official": "An tSualainn",
+      "common": "An tSualainn"
+    },
+    "gl": {
+      "official": "Suecia",
+      "common": "Suecia"
+    },
+    "el": {
+      "official": "Σουηδία",
+      "common": "Σουηδία"
+    },
+    "gu": {
+      "official": "સ્વિડન",
+      "common": "સ્વિડન"
+    },
+    "he": {
+      "official": "שבדיה",
+      "common": "שבדיה"
+    },
+    "hi": {
+      "official": "स्वीडेन",
+      "common": "स्वीडेन"
+    },
+    "hr": {
+      "official": "Švedska",
+      "common": "Švedska"
+    },
+    "hu": {
+      "official": "Svédország",
+      "common": "Svédország"
+    },
+    "is": {
+      "official": "Svíþjóð",
+      "common": "Svíþjóð"
+    },
+    "ia": {
+      "official": "Svedia",
+      "common": "Svedia"
+    },
+    "id": {
+      "official": "Swedia",
+      "common": "Swedia"
+    },
+    "it": {
+      "official": "Svezia",
+      "common": "Svezia"
+    },
+    "ja": {
+      "official": "スウェーデン",
+      "common": "スウェーデン"
+    },
+    "kn": {
+      "official": "ಸ್ವೀಡನ್",
+      "common": "ಸ್ವೀಡನ್"
+    },
+    "kk": {
+      "official": "Швеция",
+      "common": "Швеция"
+    },
+    "km": {
+      "official": "ស៊ុយអែត",
+      "common": "ស៊ុយអែត"
+    },
+    "rw": {
+      "official": "Suwede",
+      "common": "Suwede"
+    },
+    "ko": {
+      "official": "스웨덴",
+      "common": "스웨덴"
+    },
+    "ku": {
+      "official": "Swêd",
+      "common": "Swêd"
+    },
+    "lv": {
+      "official": "Zviedrija",
+      "common": "Zviedrija"
+    },
+    "lt": {
+      "official": "Švedija",
+      "common": "Švedija"
+    },
+    "mk": {
+      "official": "Шведска",
+      "common": "Шведска"
+    },
+    "ml": {
+      "official": "സ്വീഡന്‍",
+      "common": "സ്വീഡന്‍"
+    },
+    "mi": {
+      "official": "Huitene",
+      "common": "Huitene"
+    },
+    "mr": {
+      "official": "स्वीडन",
+      "common": "स्वीडन"
+    },
+    "ms": {
+      "official": "Sweden",
+      "common": "Sweden"
+    },
+    "mt": {
+      "official": "Svezja",
+      "common": "Svezja"
+    },
+    "mn": {
+      "official": "Швед",
+      "common": "Швед"
+    },
+    "ne": {
+      "official": "स्विडेन",
+      "common": "स्विडेन"
+    },
+    "nn": {
+      "official": "Sverige",
+      "common": "Sverige"
+    },
+    "nb": {
+      "official": "Sverige",
+      "common": "Sverige"
+    },
+    "oc": {
+      "official": "Suècia",
+      "common": "Suècia"
+    },
+    "or": {
+      "official": "ସ୍ବୀଡେନ",
+      "common": "ସ୍ବୀଡେନ"
+    },
+    "pa": {
+      "official": "ਸਵੀਡਨ",
+      "common": "ਸਵੀਡਨ"
+    },
+    "fa": {
+      "official": "سوئد",
+      "common": "سوئد"
+    },
+    "pl": {
+      "official": "Szwecja",
+      "common": "Szwecja"
+    },
+    "pt": {
+      "official": "Suécia",
+      "common": "Suécia"
+    },
+    "ps": {
+      "official": "سویډن",
+      "common": "سویډن"
+    },
+    "ro": {
+      "official": "Suedia",
+      "common": "Suedia"
+    },
+    "ru": {
+      "official": "Швеция",
+      "common": "Швеция"
+    },
+    "si": {
+      "official": "ස්වීඩනය",
+      "common": "ස්වීඩනය"
+    },
+    "sk": {
+      "official": "Švédsko",
+      "common": "Švédsko"
+    },
+    "sl": {
+      "official": "Švedska",
+      "common": "Švedska"
+    },
+    "so": {
+      "official": "Iswidhan",
+      "common": "Iswidhan"
+    },
+    "es": {
+      "official": "Suecia",
+      "common": "Suecia"
+    },
+    "sr": {
+      "official": "Шведска",
+      "common": "Шведска"
+    },
+    "sw": {
+      "official": "Sweden",
+      "common": "Sweden"
+    },
+    "sv": {
+      "official": "Sverige",
+      "common": "Sverige"
+    },
+    "ta": {
+      "official": "சுவீடன்",
+      "common": "சுவீடன்"
+    },
+    "tt": {
+      "official": "İсвәҗ, Шведсиа",
+      "common": "İсвәҗ, Шведсиа"
+    },
+    "te": {
+      "official": "స్వీడన్",
+      "common": "స్వీడన్"
+    },
+    "tl": {
+      "official": "Sweden",
+      "common": "Sweden"
+    },
+    "th": {
+      "official": "สวีเดน",
+      "common": "สวีเดน"
+    },
+    "ti": {
+      "official": "ስዊድን",
+      "common": "ስዊድን"
+    },
+    "tk": {
+      "official": "Şwesiýa",
+      "common": "Şwesiýa"
+    },
+    "tr": {
+      "official": "İsveç",
+      "common": "İsveç"
+    },
+    "ug": {
+      "official": "شىۋېتسىيە",
+      "common": "شىۋېتسىيە"
+    },
+    "uk": {
+      "official": "Швеція",
+      "common": "Швеція"
+    },
+    "ve": {
+      "official": "Sweden",
+      "common": "Sweden"
+    },
+    "vi": {
+      "official": "Thuỵ Điển",
+      "common": "Thuỵ Điển"
+    },
+    "cy": {
+      "official": "Sweden",
+      "common": "Sweden"
+    },
+    "wa": {
+      "official": "Suwede",
+      "common": "Suwede"
+    },
+    "wo": {
+      "official": "Suweed",
+      "common": "Suweed"
+    },
+    "xh": {
+      "official": "Sweden",
+      "common": "Sweden"
+    },
+    "zu": {
+      "official": "Isi-Swideni",
+      "common": "Isi-Swideni"
+    }
+  }
+}

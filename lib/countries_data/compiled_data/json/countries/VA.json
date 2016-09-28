@@ -1,0 +1,430 @@
+{
+  "continent": "Europe",
+  "alpha2": "VA",
+  "alpha3": "VAT",
+  "country_code": "39",
+  "international_prefix": "00",
+  "ioc": null,
+  "gec": "VT",
+  "name": "Holy See (Vatican City State)",
+  "national_destination_code_lengths": [
+    3
+  ],
+  "national_number_lengths": [
+    9
+  ],
+  "national_prefix": "None",
+  "number": "336",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "world_region": "EMEA",
+  "un_locode": "VA",
+  "nationality": "Italian",
+  "postal_code": true,
+  "unofficial_names": [
+    "Vatican City",
+    "Vatikan",
+    "Cité du Vatican",
+    "Ciudad del Vaticano",
+    "バチカン市国",
+    "Vaticaanstad",
+    "Vatican City State (Holy See)"
+  ],
+  "languages_official": [
+    "it",
+    "la"
+  ],
+  "languages_spoken": [
+    "it",
+    "la"
+  ],
+  "geo": {
+    "latitude": 37.4315734,
+    "latitude_dec": "41.90308380126953",
+    "longitude": -78.6568942,
+    "longitude_dec": "12.452852249145508",
+    "max_latitude": 39.466012,
+    "max_longitude": -75.2421573,
+    "min_latitude": 36.540759,
+    "min_longitude": -83.6754151
+  },
+  "currency_code": "EUR",
+  "postal_address_data": {
+    "zipex": "00120",
+    "name": "VATICAN",
+    "zip": "00120",
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "key": "VA",
+    "id": "data/VA"
+  },
+  "translations": {
+    "af": {
+      "official": "Vatikaan",
+      "common": "Vatikaan"
+    },
+    "sq": {
+      "official": "Papati (Shtet-qyteti i Vatikanit)",
+      "common": "Papati (Shtet-qyteti i Vatikanit)"
+    },
+    "am": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    },
+    "ar": {
+      "official": "المقعد المقدّس (ولاية مدينة الفاتيكان)",
+      "common": "المقعد المقدّس (ولاية مدينة الفاتيكان)"
+    },
+    "hy": {
+      "official": "Սուրբ Քաղաք (Վատիկան)",
+      "common": "Սուրբ Քաղաք (Վատիկան)"
+    },
+    "as": {
+      "official": "হোলি ছি (ভেটিকান)",
+      "common": "হোলি ছি (ভেটিকান)"
+    },
+    "az": {
+      "official": "Holy See (Vatikan Şəhər Dövləti)",
+      "common": "Holy See (Vatikan Şəhər Dövləti)"
+    },
+    "eu": {
+      "official": "Egoitza Santua (Vatikano Hiria)",
+      "common": "Egoitza Santua (Vatikano Hiria)"
+    },
+    "be": {
+      "official": "Святы Прастол (Ватыкан)",
+      "common": "Святы Прастол (Ватыкан)"
+    },
+    "bn": {
+      "official": "হোলি সি (ভ্যাটিকান)",
+      "common": "হোলি সি (ভ্যাটিকান)"
+    },
+    "bs": {
+      "official": "Vatikan",
+      "common": "Vatikan"
+    },
+    "br": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    },
+    "bg": {
+      "official": "Ватикана",
+      "common": "Ватикана"
+    },
+    "ca": {
+      "official": "Santa Seu (Estat del Vaticà)",
+      "common": "Santa Seu (Estat del Vaticà)"
+    },
+    "zh": {
+      "official": "梵地冈",
+      "common": "梵地冈"
+    },
+    "cs": {
+      "official": "Svatý stolec (Vatikánský městský stát)",
+      "common": "Svatý stolec (Vatikánský městský stát)"
+    },
+    "da": {
+      "official": "Vatikanstaten",
+      "common": "Vatikanstaten"
+    },
+    "nl": {
+      "official": "Vaticaanstad",
+      "common": "Vaticaanstad"
+    },
+    "dz": {
+      "official": "ཧོ་ལི་སཱི་ (བཱ་ཊི་ཀན་ སི་ཊི་ སི་ཊེཊི།)",
+      "common": "ཧོ་ལི་སཱི་ (བཱ་ཊི་ཀན་ སི་ཊི་ སི་ཊེཊི།)"
+    },
+    "en": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    },
+    "eo": {
+      "official": "Sankta Seĝo (Vatikano)",
+      "common": "Sankta Seĝo (Vatikano)"
+    },
+    "et": {
+      "official": "Püha Tool (Vatikani Linnriik)",
+      "common": "Püha Tool (Vatikani Linnriik)"
+    },
+    "fo": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    },
+    "fi": {
+      "official": "Pyhä istuin (Vatikaanivaltio)",
+      "common": "Pyhä istuin (Vatikaanivaltio)"
+    },
+    "fr": {
+      "official": "Saint-Siège (état de la cité du Vatican)",
+      "common": "Saint-Siège (état de la cité du Vatican)"
+    },
+    "ka": {
+      "official": "წმიდა საყდარი (ქალაქი-სახელმწიფო ვატიკანი)",
+      "common": "წმიდა საყდარი (ქალაქი-სახელმწიფო ვატიკანი)"
+    },
+    "de": {
+      "official": "Heiliger Stuhl (Staat Vatikanstadt)",
+      "common": "Heiliger Stuhl (Staat Vatikanstadt)"
+    },
+    "ga": {
+      "official": "Suí Naofa (Stát Chathair na Vatacáine)",
+      "common": "Suí Naofa (Stát Chathair na Vatacáine)"
+    },
+    "gl": {
+      "official": "Santa Sé (Cidade Estado do Vaticano)",
+      "common": "Santa Sé (Cidade Estado do Vaticano)"
+    },
+    "el": {
+      "official": "Αγία Έδρα (το Κράτος της Πόλεως του Βατικανού)",
+      "common": "Αγία Έδρα (το Κράτος της Πόλεως του Βατικανού)"
+    },
+    "gu": {
+      "official": "હોલી સી (વેટિકન સીટી સ્ટેટ)",
+      "common": "હોલી સી (વેટિકન સીટી સ્ટેટ)"
+    },
+    "he": {
+      "official": "וותיקן",
+      "common": "וותיקן"
+    },
+    "hi": {
+      "official": "होली सी (वैटिकन सिटी स्टेट)",
+      "common": "होली सी (वैटिकन सिटी स्टेट)"
+    },
+    "hr": {
+      "official": "Vatikan (Sveta Stolica)",
+      "common": "Vatikan (Sveta Stolica)"
+    },
+    "hu": {
+      "official": "Szentszék (Vatikánvárosi Állam)",
+      "common": "Szentszék (Vatikánvárosi Állam)"
+    },
+    "is": {
+      "official": "Borgríkið Vatíkanið",
+      "common": "Borgríkið Vatíkanið"
+    },
+    "ia": {
+      "official": "Sancte Sede (Stato del Citate Vatican)",
+      "common": "Sancte Sede (Stato del Citate Vatican)"
+    },
+    "id": {
+      "official": "Takhta Suci Vatican (Negara Kota)",
+      "common": "Takhta Suci Vatican (Negara Kota)"
+    },
+    "it": {
+      "official": "Santa Sede (Stato della Città del Vaticano)",
+      "common": "Santa Sede (Stato della Città del Vaticano)"
+    },
+    "ja": {
+      "official": "聖庁 (バチカン市国)",
+      "common": "聖庁 (バチカン市国)"
+    },
+    "kn": {
+      "official": "ಪವಿತ್ರ See,ವ್ಯಾಟಿಕನ್ ನಗರ ರಾಜ್ಯ",
+      "common": "ಪವಿತ್ರ See,ವ್ಯಾಟಿಕನ್ ನಗರ ರಾಜ್ಯ"
+    },
+    "kk": {
+      "official": "Ватикан",
+      "common": "Ватикан"
+    },
+    "km": {
+      "official": "ហូលីស៊ី (រដ្ឋ​របស់បូរី​វ៉ាទីកង់)",
+      "common": "ហូលីស៊ី (រដ្ឋ​របស់បូរី​វ៉ាទីកង់)"
+    },
+    "rw": {
+      "official": "Inyanja Ntagatifu(Leta y'Umujyi wa Vatikani)",
+      "common": "Inyanja Ntagatifu(Leta y'Umujyi wa Vatikani)"
+    },
+    "ko": {
+      "official": "바티칸 시티 (Holy See)",
+      "common": "바티칸 시티 (Holy See)"
+    },
+    "ku": {
+      "official": "Texta Pîroz (Dewleta Bajarî ya Vatîkan)",
+      "common": "Texta Pîroz (Dewleta Bajarî ya Vatîkan)"
+    },
+    "lv": {
+      "official": "Vatikāna Pilsētvalsts",
+      "common": "Vatikāna Pilsētvalsts"
+    },
+    "lt": {
+      "official": "Šventasis Sostas (Vatikano Miesto Valstybė)",
+      "common": "Šventasis Sostas (Vatikano Miesto Valstybė)"
+    },
+    "mk": {
+      "official": "Држава град Ватикан",
+      "common": "Држава град Ватикан"
+    },
+    "ml": {
+      "official": "ഹോളി സീ (വത്തിക്കാന്‍ സിറ്റി സ്റ്റേറ്റ്)",
+      "common": "ഹോളി സീ (വത്തിക്കാന്‍ സിറ്റി സ്റ്റേറ്റ്)"
+    },
+    "mi": {
+      "official": "Poho o Pita",
+      "common": "Poho o Pita"
+    },
+    "mr": {
+      "official": "होली सी (व्हॅटिकन सिटी स्टेट)",
+      "common": "होली सी (व्हॅटिकन सिटी स्टेट)"
+    },
+    "ms": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    },
+    "mt": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    },
+    "mn": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    },
+    "ne": {
+      "official": "होली सि (भ्याटिकन सिटि राज्य)",
+      "common": "होली सि (भ्याटिकन सिटि राज्य)"
+    },
+    "nn": {
+      "official": "Vatikanstaten",
+      "common": "Vatikanstaten"
+    },
+    "nb": {
+      "official": "Vatikanstaten",
+      "common": "Vatikanstaten"
+    },
+    "oc": {
+      "official": "Santa Ses (Estat de la Ciutat de Vatican)",
+      "common": "Santa Ses (Estat de la Ciutat de Vatican)"
+    },
+    "or": {
+      "official": "ହୋଲି ସମୁଦ୍ର (ଭାଟିକାନ ନଗର ରାଜ୍ୟ)",
+      "common": "ହୋଲି ସମୁଦ୍ର (ଭାଟିକାନ ନଗର ରାଜ୍ୟ)"
+    },
+    "pa": {
+      "official": "ਹੋਲੀ ਸੀ (ਵੇਟੀਕੈਨ ਸਿਟੀ ਪ੍ਰਾਂਤ)",
+      "common": "ਹੋਲੀ ਸੀ (ਵੇਟੀਕੈਨ ਸਿਟੀ ਪ੍ਰਾਂਤ)"
+    },
+    "fa": {
+      "official": "دولت شهر واتیکان",
+      "common": "دولت شهر واتیکان"
+    },
+    "pl": {
+      "official": "Watykan",
+      "common": "Watykan"
+    },
+    "pt": {
+      "official": "Santa Sé (Estado Cidade do Vaticano)",
+      "common": "Santa Sé (Estado Cidade do Vaticano)"
+    },
+    "ps": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    },
+    "ro": {
+      "official": "Vatican",
+      "common": "Vatican"
+    },
+    "ru": {
+      "official": "Государство-город Ватикан",
+      "common": "Государство-город Ватикан"
+    },
+    "si": {
+      "official": "ශුද්ධ දැක්ම (වතිකානු නගර රාජ්‍යය)",
+      "common": "ශුද්ධ දැක්ම (වතිකානු නගර රාජ්‍යය)"
+    },
+    "sk": {
+      "official": "Svätá stolica (Vatikánsky mestský štát)",
+      "common": "Svätá stolica (Vatikánsky mestský štát)"
+    },
+    "sl": {
+      "official": "Sveti sedež (Vatikanska mestna država)",
+      "common": "Sveti sedež (Vatikanska mestna država)"
+    },
+    "so": {
+      "official": "Faatikaan",
+      "common": "Faatikaan"
+    },
+    "es": {
+      "official": "Santa Sede (Ciudad Estado del Vaticano)",
+      "common": "Santa Sede (Ciudad Estado del Vaticano)"
+    },
+    "sr": {
+      "official": "Света Столица (Држава града Ватикана)",
+      "common": "Света Столица (Држава града Ватикана)"
+    },
+    "sw": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    },
+    "sv": {
+      "official": "Vatikanstaten",
+      "common": "Vatikanstaten"
+    },
+    "ta": {
+      "official": "ஹொலி சி (வாடிகன் நகர நாடு)",
+      "common": "ஹொலி சி (வாடிகன் நகர நாடு)"
+    },
+    "tt": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    },
+    "te": {
+      "official": "హోలీ సీ (వాటికన్ సిటీ స్టేట్)",
+      "common": "హోలీ సీ (వాటికన్ సిటీ స్టేట్)"
+    },
+    "tl": {
+      "official": "Holy See (Estado ng Siyudad Vatican)",
+      "common": "Holy See (Estado ng Siyudad Vatican)"
+    },
+    "th": {
+      "official": "นครรัฐวาติกัน",
+      "common": "นครรัฐวาติกัน"
+    },
+    "ti": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    },
+    "tk": {
+      "official": "Watikan Dölet-şaheri",
+      "common": "Watikan Dölet-şaheri"
+    },
+    "tr": {
+      "official": "Vatikan",
+      "common": "Vatikan"
+    },
+    "ug": {
+      "official": "ۋاتىكان",
+      "common": "ۋاتىكان"
+    },
+    "uk": {
+      "official": "Святий Престол (Ватикан, Місто-Держава)",
+      "common": "Святий Престол (Ватикан, Місто-Держава)"
+    },
+    "ve": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    },
+    "vi": {
+      "official": "Toà Thánh (Bang Thành Phố Va-ti-canh)",
+      "common": "Toà Thánh (Bang Thành Phố Va-ti-canh)"
+    },
+    "cy": {
+      "official": "Yr Esgobaeth Sanctaidd (Talaith Dinas y Fatican)",
+      "common": "Yr Esgobaeth Sanctaidd (Talaith Dinas y Fatican)"
+    },
+    "wa": {
+      "official": "Vatican",
+      "common": "Vatican"
+    },
+    "wo": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    },
+    "xh": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    },
+    "zu": {
+      "official": "Holy See (Vatican City State)",
+      "common": "Holy See (Vatican City State)"
+    }
+  }
+}

@@ -1,0 +1,749 @@
+---
+names:
+  AF:
+    official: A Phú Hãn
+    common: A Phú Hãn
+  AX:
+    official: Quần đảo A-lanh
+    common: Quần đảo A-lanh
+  AL:
+    official: An-ba-ni
+    common: An-ba-ni
+  DZ:
+    official: An-giê-ri
+    common: An-giê-ri
+  AS:
+    official: Xa-mô-a Mỹ
+    common: Xa-mô-a Mỹ
+  AD:
+    official: Ăn-đoa-râ
+    common: Ăn-đoa-râ
+  AO:
+    official: Ăng-gô-la
+    common: Ăng-gô-la
+  AI:
+    official: Ăng-ouí-la
+    common: Ăng-ouí-la
+  AQ:
+    official: Nam Cực
+    common: Nam Cực
+  AG:
+    official: Ănh-thí-gua và Ba-bu-đa
+    common: Ănh-thí-gua và Ba-bu-đa
+  AR:
+    official: Á-căn-đình
+    common: Á-căn-đình
+  AM:
+    official: Ac-mê-ni
+    common: Ac-mê-ni
+  AW:
+    official: Ă-ru-ba
+    common: Ă-ru-ba
+  AU:
+    official: Úc
+    common: Úc
+  AT:
+    official: Ao
+    common: Ao
+  AZ:
+    official: Ai-xợ-bai-gianh
+    common: Ai-xợ-bai-gianh
+  BS:
+    official: Ba-ha-ma
+    common: Ba-ha-ma
+  BH:
+    official: Ba-rainh
+    common: Ba-rainh
+  BD:
+    official: Bang-la-đesợ
+    common: Bang-la-đesợ
+  BB:
+    official: Bă-ba-đôxợ
+    common: Bă-ba-đôxợ
+  BY:
+    official: Be-la-ruxợ
+    common: Be-la-ruxợ
+  BE:
+    official: Bỉ
+    common: Bỉ
+  BZ:
+    official: Bê-li-xê
+    common: Bê-li-xê
+  BJ:
+    official: Bê-ninh
+    common: Bê-ninh
+  BM:
+    official: Be-mu-đa
+    common: Be-mu-đa
+  BT:
+    official: Bu-thănh
+    common: Bu-thănh
+  BO:
+    official: Bô-li-vi-a, Quốc gia Đa Dân tộc
+    common: Bô-li-vi-a, Quốc gia Đa Dân tộc
+  BQ:
+    official: Bông-Ne, Xin E-u-xờ-ta-ti-tút và Xa-ba
+    common: Bông-Ne, Xin E-u-xờ-ta-ti-tút và Xa-ba
+  BA:
+    official: Bô-xni-a và Hẻ-xê-gô-vi-na
+    common: Bô-xni-a và Hẻ-xê-gô-vi-na
+  BW:
+    official: Bốt-xoă-na
+    common: Bốt-xoă-na
+  BV:
+    official: Quần đảo Bu-vê
+    common: Quần đảo Bu-vê
+  BR:
+    official: Bra-xin
+    common: Bra-xin
+  IO:
+    official: Miền Đại Dương Ấn-độ Anh
+    common: Miền Đại Dương Ấn-độ Anh
+  BN:
+    official: Bợru-này Đa-ru-xa-làm
+    common: Bợru-này Đa-ru-xa-làm
+  BG:
+    official: Bua-ga-ri
+    common: Bua-ga-ri
+  BF:
+    official: Buốc-khi-na Pha-xô
+    common: Buốc-khi-na Pha-xô
+  BI:
+    official: Bu-run-đi
+    common: Bu-run-đi
+  KH:
+    official: Căm Bốt
+    common: Căm Bốt
+  CM:
+    official: Ca-mơ-runh
+    common: Ca-mơ-runh
+  CA:
+    official: Ca-na-đa
+    common: Ca-na-đa
+  CV:
+    official: Cáp-ve-đẹ
+    common: Cáp-ve-đẹ
+  KY:
+    official: Quần đảo Cay-man
+    common: Quần đảo Cay-man
+  CF:
+    official: Nước Cộng Hoà Trung Phi
+    common: Nước Cộng Hoà Trung Phi
+  TD:
+    official: Chê-đ
+    common: Chê-đ
+  CL:
+    official: Chi-lê
+    common: Chi-lê
+  CN:
+    official: Trung Quốc
+    common: Trung Quốc
+  CX:
+    official: Đảo Kh-ri-xợ-mà-xợ
+    common: Đảo Kh-ri-xợ-mà-xợ
+  CC:
+    official: Quần đảo Co-co-xợ (Khi-lịng)
+    common: Quần đảo Co-co-xợ (Khi-lịng)
+  CO:
+    official: Cô-lôm-bi-a
+    common: Cô-lôm-bi-a
+  KM:
+    official: Cô-mô-rô-xợ
+    common: Cô-mô-rô-xợ
+  CG:
+    official: Công-gô
+    common: Công-gô
+  CD:
+    official: Cộng hoà Dân chủ Công-gô
+    common: Cộng hoà Dân chủ Công-gô
+  CK:
+    official: Quần đảo Khu-khợ
+    common: Quần đảo Khu-khợ
+  CR:
+    official: Cốt-x-tha Ri-ca
+    common: Cốt-x-tha Ri-ca
+  CI:
+    official: Cốt đi-vouă
+    common: Cốt đi-vouă
+  HR:
+    official: Cợ-rô-a-ti-a
+    common: Cợ-rô-a-ti-a
+  CU:
+    official: Cu-ba
+    common: Cu-ba
+  CW:
+    official: Cu-ra-cao
+    common: Cu-ra-cao
+  CY:
+    official: Síp
+    common: Síp
+  CZ:
+    official: Cộng hoà Séc
+    common: Cộng hoà Séc
+  DK:
+    official: Đan Mạch
+    common: Đan Mạch
+  DJ:
+    official: Gi-bu-ti
+    common: Gi-bu-ti
+  DM:
+    official: Đô-mi-ni-cạ
+    common: Đô-mi-ni-cạ
+  DO:
+    official: Cộng hoà Đô-mi-ni-cạ
+    common: Cộng hoà Đô-mi-ni-cạ
+  EC:
+    official: Ê-cu-a-đoa
+    common: Ê-cu-a-đoa
+  EG:
+    official: Ai Cập
+    common: Ai Cập
+  SV:
+    official: En-xan-va-đoa
+    common: En-xan-va-đoa
+  GQ:
+    official: Ghi-nê Xích Đạo
+    common: Ghi-nê Xích Đạo
+  ER:
+    official: Ê-ri-tơ-rê-a
+    common: Ê-ri-tơ-rê-a
+  EE:
+    official: E-xợ-tô-ni-a
+    common: E-xợ-tô-ni-a
+  ET:
+    official: Ê-ti-ô-pi-a
+    common: Ê-ti-ô-pi-a
+  FK:
+    official: Quần Đảo Phoa-kh-lận-đợ (Man-vi-na)
+    common: Quần Đảo Phoa-kh-lận-đợ (Man-vi-na)
+  FO:
+    official: Quần đảo Pha-rô
+    common: Quần đảo Pha-rô
+  FJ:
+    official: Phi-gi
+    common: Phi-gi
+  FI:
+    official: Phần Lan
+    common: Phần Lan
+  FR:
+    official: Pháp
+    common: Pháp
+  GF:
+    official: Ghi-a-na Pháp
+    common: Ghi-a-na Pháp
+  PF:
+    official: Pô-li-nê-xi Pháp
+    common: Pô-li-nê-xi Pháp
+  TF:
+    official: Miền Nam Pháp
+    common: Miền Nam Pháp
+  GA:
+    official: Ga-bon
+    common: Ga-bon
+  GM:
+    official: Găm-bi-a
+    common: Găm-bi-a
+  GE:
+    official: Gi-oa-gi-a
+    common: Gi-oa-gi-a
+  DE:
+    official: Đức
+    common: Đức
+  GH:
+    official: Ga-na
+    common: Ga-na
+  GI:
+    official: Gi-boa-tha
+    common: Gi-boa-tha
+  GR:
+    official: Hy Lạp
+    common: Hy Lạp
+  GL:
+    official: Đảo Băng
+    common: Đảo Băng
+  GD:
+    official: Gợ-rê-na-đa
+    common: Gợ-rê-na-đa
+  GP:
+    official: Gu-a-đe-lup
+    common: Gu-a-đe-lup
+  GU:
+    official: Gu-ăm
+    common: Gu-ăm
+  GT:
+    official: Gua-tê-ma-la
+    common: Gua-tê-ma-la
+  GG:
+    official: Gơnh-xị
+    common: Gơnh-xị
+  GN:
+    official: Ghi-nê
+    common: Ghi-nê
+  GW:
+    official: Ghi-nê Bi-xau
+    common: Ghi-nê Bi-xau
+  GY:
+    official: Guy-a-na
+    common: Guy-a-na
+  HT:
+    official: Ha-i-ti
+    common: Ha-i-ti
+  HM:
+    official: Đảo He-ợ-đợ và Quần Đảo Mợc-đo-nậ-đợ
+    common: Đảo He-ợ-đợ và Quần Đảo Mợc-đo-nậ-đợ
+  VA:
+    official: Toà Thánh (Bang Thành Phố Va-ti-canh)
+    common: Toà Thánh (Bang Thành Phố Va-ti-canh)
+  HN:
+    official: Hôn-đu-ra-xợ
+    common: Hôn-đu-ra-xợ
+  HK:
+    official: Hông Kông
+    common: Hông Kông
+  HU:
+    official: Hun-ga-ri
+    common: Hun-ga-ri
+  IS:
+    official: Băng Đảo
+    common: Băng Đảo
+  IN:
+    official: Ấn-độ
+    common: Ấn-độ
+  ID:
+    official: Nam Dương
+    common: Nam Dương
+  IR:
+    official: Ba Tư, Cộng hoà Hồi giáo
+    common: Ba Tư, Cộng hoà Hồi giáo
+  IQ:
+    official: I-rắc
+    common: I-rắc
+  IE:
+    official: Ái Nhĩ Lan
+    common: Ái Nhĩ Lan
+  IM:
+    official: Đảo Man
+    common: Đảo Man
+  IL:
+    official: Do Thái
+    common: Do Thái
+  IT:
+    official: Ý
+    common: Ý
+  JM:
+    official: Gia-mê-ca
+    common: Gia-mê-ca
+  JP:
+    official: Nhật
+    common: Nhật
+  JE:
+    official: Giơ-xị
+    common: Giơ-xị
+  JO:
+    official: Gi-oa-đanh
+    common: Gi-oa-đanh
+  KZ:
+    official: Kha-xa-kh-x-thanh
+    common: Kha-xa-kh-x-thanh
+  KE:
+    official: Khi-ni-a
+    common: Khi-ni-a
+  KI:
+    official: Ki-ri-ba-ti
+    common: Ki-ri-ba-ti
+  KP:
+    official: Bắc Hàn, Cộng hoà Nhân dân Dân chủ
+    common: Bắc Hàn, Cộng hoà Nhân dân Dân chủ
+  KR:
+    official: Cộng hoà Nam Hàn
+    common: Cộng hoà Nam Hàn
+  KW:
+    official: Cu-ouai-thợ
+    common: Cu-ouai-thợ
+  KG:
+    official: Khư-rơ-gư-xtanh
+    common: Khư-rơ-gư-xtanh
+  LA:
+    official: Cộng hoà Nhân dân Dân chủ Lào
+    common: Cộng hoà Nhân dân Dân chủ Lào
+  LV:
+    official: Lát-vi-a
+    common: Lát-vi-a
+  LB:
+    official: Le-ba-non
+    common: Le-ba-non
+  LS:
+    official: Lê-xô-thô
+    common: Lê-xô-thô
+  LR:
+    official: Li-bê-ri-a
+    common: Li-bê-ri-a
+  LY:
+    official: Li-bi
+    common: Li-bi
+  LI:
+    official: Likh-ten-xtainh
+    common: Likh-ten-xtainh
+  LT:
+    official: Li-tu-a-ni-a
+    common: Li-tu-a-ni-a
+  LU:
+    official: Lục Xâm Bảo
+    common: Lục Xâm Bảo
+  MO:
+    official: Ma-cao
+    common: Ma-cao
+  MK:
+    official: Nước Cộng Hoà Ma-xê-đô-ni
+    common: Nước Cộng Hoà Ma-xê-đô-ni
+  MG:
+    official: Ma-đa-ga-xợ-ca
+    common: Ma-đa-ga-xợ-ca
+  MW:
+    official: Ma-la-uy
+    common: Ma-la-uy
+  MY:
+    official: Ma-lai-xi-a
+    common: Ma-lai-xi-a
+  MV:
+    official: Mal-đi-vợx
+    common: Mal-đi-vợx
+  ML:
+    official: Ma-li
+    common: Ma-li
+  MT:
+    official: Moa-ta
+    common: Moa-ta
+  MH:
+    official: Quần Đảo Ma-san
+    common: Quần Đảo Ma-san
+  MQ:
+    official: Ma-thi-ni-khợ
+    common: Ma-thi-ni-khợ
+  MR:
+    official: Mô-ri-ta-ni-a
+    common: Mô-ri-ta-ni-a
+  MU:
+    official: Mô-ri-sơ-xợ
+    common: Mô-ri-sơ-xợ
+  YT:
+    official: May-o-thợ
+    common: May-o-thợ
+  MX:
+    official: Mê-hi-cô
+    common: Mê-hi-cô
+  FM:
+    official: Mi-khợ-rô-nê-xi-a, Liên Bang
+    common: Mi-khợ-rô-nê-xi-a, Liên Bang
+  MD:
+    official: Nước Cộng Hoà Mổ-đô-vạ
+    common: Nước Cộng Hoà Mổ-đô-vạ
+  MC:
+    official: Mo-na-cô
+    common: Mo-na-cô
+  MN:
+    official: Mông Cổ
+    common: Mông Cổ
+  ME:
+    official: Mon-te-nê-gợ-rô
+    common: Mon-te-nê-gợ-rô
+  MS:
+    official: Mon-xe-rạc
+    common: Mon-xe-rạc
+  MA:
+    official: Mo-ro-cô
+    common: Mo-ro-cô
+  MZ:
+    official: Mô-xam-bí-khợ
+    common: Mô-xam-bí-khợ
+  MM:
+    official: Miến Điện
+    common: Miến Điện
+  NA:
+    official: Na-mi-bi-a
+    common: Na-mi-bi-a
+  NR:
+    official: Nau-ru
+    common: Nau-ru
+  NP:
+    official: Nê-pan
+    common: Nê-pan
+  NL:
+    official: Hoà Lan
+    common: Hoà Lan
+  NC:
+    official: Niu Ca-lê-đô-ni-a
+    common: Niu Ca-lê-đô-ni-a
+  NZ:
+    official: Niu Xi-lân
+    common: Niu Xi-lân
+  NI:
+    official: Ni-ca-ra-gua
+    common: Ni-ca-ra-gua
+  NE:
+    official: Ni-gie
+    common: Ni-gie
+  NG:
+    official: Ni-giê-ri-a
+    common: Ni-giê-ri-a
+  NU:
+    official: Ni-u-e
+    common: Ni-u-e
+  NF:
+    official: Đảo Noa-phọ-khợ
+    common: Đảo Noa-phọ-khợ
+  MP:
+    official: Bắc Quần Đảo Ma-ri-a-na
+    common: Bắc Quần Đảo Ma-ri-a-na
+  'NO':
+    official: Na Uy
+    common: Na Uy
+  OM:
+    official: Ô-man
+    common: Ô-man
+  PK:
+    official: Pa-ki-xợ-thănh
+    common: Pa-ki-xợ-thănh
+  PW:
+    official: Pa-lau
+    common: Pa-lau
+  PS:
+    official: Palestine, quốc gia
+    common: Palestine, quốc gia
+  PA:
+    official: Pa-na-ma
+    common: Pa-na-ma
+  PG:
+    official: Pa-pu-a Niu Ghi-nê
+    common: Pa-pu-a Niu Ghi-nê
+  PY:
+    official: Pa-ra-guay
+    common: Pa-ra-guay
+  PE:
+    official: Pê-ru
+    common: Pê-ru
+  PH:
+    official: Phi-li-pi-nợ
+    common: Phi-li-pi-nợ
+  PN:
+    official: Pi-thợ-khenh
+    common: Pi-thợ-khenh
+  PL:
+    official: Ba Lan
+    common: Ba Lan
+  PT:
+    official: Bồ Đào Nha
+    common: Bồ Đào Nha
+  PR:
+    official: Pu-éc-thô Ri-cô
+    common: Pu-éc-thô Ri-cô
+  QA:
+    official: Ca-tă
+    common: Ca-tă
+  RE:
+    official: Rê-u-ni-ợnh
+    common: Rê-u-ni-ợnh
+  RO:
+    official: Rô-ma-ni
+    common: Rô-ma-ni
+  RU:
+    official: Liên Bang Nga
+    common: Liên Bang Nga
+  RW:
+    official: Ru-oanh-đa
+    common: Ru-oanh-đa
+  BL:
+    official: Saint Barthélemy
+    common: Saint Barthélemy
+  SH:
+    official: Xan He-lê-na, A-xen-siónh và Tợ-rí-x-tan đa Cun-ha
+    common: Xan He-lê-na, A-xen-siónh và Tợ-rí-x-tan đa Cun-ha
+  KN:
+    official: Xan-kít và Nê-vi
+    common: Xan-kít và Nê-vi
+  LC:
+    official: Xan Lu-xi
+    common: Xan Lu-xi
+  MF:
+    official: Saint Martin (vùng Pháp)
+    common: Saint Martin (vùng Pháp)
+  PM:
+    official: Xan Pi-e và Mi-quê-lon
+    common: Xan Pi-e và Mi-quê-lon
+  VC:
+    official: Xan Vinh-xen và Gou-en-a-đinh
+    common: Xan Vinh-xen và Gou-en-a-đinh
+  WS:
+    official: Xa-mô-a
+    common: Xa-mô-a
+  SM:
+    official: Xan Ma-ri-nô
+    common: Xan Ma-ri-nô
+  ST:
+    official: Xao Tô-mê và Pợ-rin-xi-pê
+    common: Xao Tô-mê và Pợ-rin-xi-pê
+  SA:
+    official: A-rập Xau-đi
+    common: A-rập Xau-đi
+  SN:
+    official: Xê-nê-gan
+    common: Xê-nê-gan
+  RS:
+    official: Xéc-bi
+    common: Xéc-bi
+  SC:
+    official: Xây-sen
+    common: Xây-sen
+  SL:
+    official: Xi-ê-ra Lê-ô-nê
+    common: Xi-ê-ra Lê-ô-nê
+  SG:
+    official: Xin-ga-po
+    common: Xin-ga-po
+  SX:
+    official: Xin Mác-Ten (vùng Hà Lan)
+    common: Xin Mác-Ten (vùng Hà Lan)
+  SK:
+    official: Xlô-vác
+    common: Xlô-vác
+  SI:
+    official: Xlô-ven
+    common: Xlô-ven
+  SB:
+    official: Quần đảo Xô-lô-mông
+    common: Quần đảo Xô-lô-mông
+  SO:
+    official: Xo-ma-li
+    common: Xo-ma-li
+  ZA:
+    official: Nam Phi
+    common: Nam Phi
+  GS:
+    official: Nam Gi-oa-gi-a va Nam Quần Đảo Xan-oui-chợ
+    common: Nam Gi-oa-gi-a va Nam Quần Đảo Xan-oui-chợ
+  ES:
+    official: Tây Ban Nha
+    common: Tây Ban Nha
+  LK:
+    official: Tích Lan
+    common: Tích Lan
+  SD:
+    official: Xu-đanh
+    common: Xu-đanh
+  SR:
+    official: Xu-ri-na-me
+    common: Xu-ri-na-me
+  SS:
+    official: Nam Xu-đăng
+    common: Nam Xu-đăng
+  SJ:
+    official: Xợ-van-bat và Ian-may-en
+    common: Xợ-van-bat và Ian-may-en
+  SZ:
+    official: Xouă-xi-lan
+    common: Xouă-xi-lan
+  SE:
+    official: Thuỵ Điển
+    common: Thuỵ Điển
+  CH:
+    official: Thụy Sĩ
+    common: Thụy Sĩ
+  SY:
+    official: Cộng hoà A-rập Xi-ri-a
+    common: Cộng hoà A-rập Xi-ri-a
+  TW:
+    official: Đài Loan
+    common: Đài Loan
+  TJ:
+    official: Tha-gi-ki-xthanh
+    common: Tha-gi-ki-xthanh
+  TZ:
+    official: Nước Cộng Hoà Thống Nhất Than-xa-ni-a
+    common: Nước Cộng Hoà Thống Nhất Than-xa-ni-a
+  TH:
+    official: Thái Lan
+    common: Thái Lan
+  TL:
+    official: Thi-moa Le-xợ-te
+    common: Thi-moa Le-xợ-te
+  TG:
+    official: Tô-gô
+    common: Tô-gô
+  TK:
+    official: To-ke-lau
+    common: To-ke-lau
+  TO:
+    official: Tông-ga
+    common: Tông-ga
+  TT:
+    official: Trinh-i-đat và To-ba-gô
+    common: Trinh-i-đat và To-ba-gô
+  TN:
+    official: Tu-ni-xi-a
+    common: Tu-ni-xi-a
+  TR:
+    official: Thổ Nhĩ Kỳ
+    common: Thổ Nhĩ Kỳ
+  TM:
+    official: Tuốc-mê-ni-xtanh
+    common: Tuốc-mê-ni-xtanh
+  TC:
+    official: Quần Đảo Tuốc và Cai-cox
+    common: Quần Đảo Tuốc và Cai-cox
+  TV:
+    official: Tu-va-lu
+    common: Tu-va-lu
+  UG:
+    official: U-gan-đa
+    common: U-gan-đa
+  UA:
+    official: U-cờ-rai-na
+    common: U-cờ-rai-na
+  AE:
+    official: Các Tiểu Vương Quốc A-rập Thống Nhất
+    common: Các Tiểu Vương Quốc A-rập Thống Nhất
+  GB:
+    official: Vương Quốc Anh Thống Nhất
+    common: Vương Quốc Anh Thống Nhất
+  US:
+    official: Mỹ
+    common: Mỹ
+  UM:
+    official: Quần Đảo ở xa nhỏ Mỹ
+    common: Quần Đảo ở xa nhỏ Mỹ
+  UY:
+    official: U-ru-guay
+    common: U-ru-guay
+  UZ:
+    official: U-xợ-bê-khi-xtanh
+    common: U-xợ-bê-khi-xtanh
+  VU:
+    official: Va-nu-a-tu
+    common: Va-nu-a-tu
+  VE:
+    official: Nước Cộng Hoà Bo-li-va-ri Vê-nê-xu-ê-la
+    common: Nước Cộng Hoà Bo-li-va-ri Vê-nê-xu-ê-la
+  VN:
+    official: Việt Nam
+    common: Việt Nam
+  VG:
+    official: Quần Đảo Vơ-chin Anh
+    common: Quần Đảo Vơ-chin Anh
+  VI:
+    official: Quần Đảo Vơ-chin Mỹ
+    common: Quần Đảo Vơ-chin Mỹ
+  WF:
+    official: Oua-li-xợ va Phu-tu-na
+    common: Oua-li-xợ va Phu-tu-na
+  EH:
+    official: Tây Sa-ha-ra
+    common: Tây Sa-ha-ra
+  YE:
+    official: Y-ê-men
+    common: Y-ê-men
+  ZM:
+    official: Xam-bi-a
+    common: Xam-bi-a
+  ZW:
+    official: Xim-ba-bu-ê
+    common: Xim-ba-bu-ê

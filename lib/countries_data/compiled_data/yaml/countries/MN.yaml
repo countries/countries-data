@@ -1,0 +1,336 @@
+---
+continent: Asia
+alpha2: MN
+alpha3: MNG
+country_code: '976'
+international_prefix: '001'
+ioc: MGL
+gec: MG
+name: Mongolia
+national_destination_code_lengths:
+- 2
+national_number_lengths:
+- 7
+- 8
+- 9
+- 10
+national_prefix: '0'
+number: '496'
+region: Asia
+subregion: Eastern Asia
+world_region: APAC
+un_locode: MN
+nationality: Mongolian
+postal_code: true
+unofficial_names:
+- Mongolia
+- Mongolei
+- Mongolie
+- モンゴル
+- Mongolië
+languages_official:
+- mn
+languages_spoken:
+- mn
+geo:
+  latitude: 46.862496
+  latitude_dec: '46.83647918701172'
+  longitude: 103.846656
+  longitude_dec: '103.06689453125'
+  max_latitude: 52.1486964
+  max_longitude: 119.9319488
+  min_latitude: 41.58152
+  min_longitude: 87.73761999999999
+  bounds:
+    northeast:
+      lat: 52.1486964
+      lng: 119.9319488
+    southwest:
+      lat: 41.58152
+      lng: 87.73761999999999
+currency_code: MNT
+postal_address_data:
+  key: MN
+  zipex: '65030,65270'
+  name: MONGOLIA
+  zip: "\\d{5}"
+  fmt: "%N%n%O%n%A%n%C%n%S %Z"
+  posturl: http://www.zipcode.mn/
+  id: data/MN
+translations:
+  af:
+    official: Mongolië
+    common: Mongolië
+  sq:
+    official: Mongolia
+    common: Mongolia
+  am:
+    official: ሥንጕሑ።
+    common: ሥንጕሑ።
+  ar:
+    official: منغوليا
+    common: منغوليا
+  hy:
+    official: Մոնղոլիա
+    common: Մոնղոլիա
+  as:
+    official: মঙ্গোলিয়া
+    common: মঙ্গোলিয়া
+  az:
+    official: Monqolustan
+    common: Monqolustan
+  eu:
+    official: Mongolia
+    common: Mongolia
+  be:
+    official: Манголія
+    common: Манголія
+  bn:
+    official: মঙ্গোলিয়া
+    common: মঙ্গোলিয়া
+  bs:
+    official: Mongolija
+    common: Mongolija
+  br:
+    official: Mongolia
+    common: Mongolia
+  bg:
+    official: Монголия
+    common: Монголия
+  ca:
+    official: Mongòlia
+    common: Mongòlia
+  zh:
+    official: 蒙古
+    common: 蒙古
+  cs:
+    official: Mongolsko
+    common: Mongolsko
+  da:
+    official: Mongoliet
+    common: Mongoliet
+  nl:
+    official: Mongolië
+    common: Mongolië
+  dz:
+    official: མོང་གོ་ལི་ཡ།
+    common: མོང་གོ་ལི་ཡ།
+  en:
+    official: Mongolia
+    common: Mongolia
+  eo:
+    official: Mongolio
+    common: Mongolio
+  et:
+    official: Mongoolia
+    common: Mongoolia
+  fo:
+    official: Mongolia
+    common: Mongolia
+  fi:
+    official: Mongolia
+    common: Mongolia
+  fr:
+    official: Mongolie
+    common: Mongolie
+  ka:
+    official: მონღოლეთი
+    common: მონღოლეთი
+  de:
+    official: Mongolei
+    common: Mongolei
+  ga:
+    official: An Mhongóil
+    common: An Mhongóil
+  gl:
+    official: Mongolia
+    common: Mongolia
+  el:
+    official: Μογγολία
+    common: Μογγολία
+  gu:
+    official: મોંગોલિયા
+    common: મોંગોલિયા
+  he:
+    official: מונגוליה
+    common: מונגוליה
+  hi:
+    official: मंगोलिया
+    common: मंगोलिया
+  hr:
+    official: Mongolija
+    common: Mongolija
+  hu:
+    official: Mongólia
+    common: Mongólia
+  is:
+    official: Mongólía
+    common: Mongólía
+  ia:
+    official: Mongolia
+    common: Mongolia
+  id:
+    official: Mongolia
+    common: Mongolia
+  it:
+    official: Mongolia
+    common: Mongolia
+  ja:
+    official: モンゴル国
+    common: モンゴル国
+  kn:
+    official: ಮಂಗೋಲಿಯಾ
+    common: ಮಂಗೋಲಿಯಾ
+  kk:
+    official: Монғолия
+    common: Монғолия
+  km:
+    official: ម៉ុងហ្គោលី
+    common: ម៉ុងហ្គោលី
+  rw:
+    official: Mongoliya
+    common: Mongoliya
+  ko:
+    official: 몽골라
+    common: 몽골라
+  ku:
+    official: Mongolya
+    common: Mongolya
+  lv:
+    official: Mongolija
+    common: Mongolija
+  lt:
+    official: Mongolija
+    common: Mongolija
+  mk:
+    official: Монголија
+    common: Монголија
+  ml:
+    official: മംഗോളിയ
+    common: മംഗോളിയ
+  mi:
+    official: Mongōria
+    common: Mongōria
+  mr:
+    official: मंगोलिया
+    common: मंगोलिया
+  ms:
+    official: Mongolia
+    common: Mongolia
+  mt:
+    official: Mongolja
+    common: Mongolja
+  mn:
+    official: Монгол
+    common: Монгол
+  ne:
+    official: मङ्गोलिया
+    common: मङ्गोलिया
+  nn:
+    official: Mongolia
+    common: Mongolia
+  nb:
+    official: Mongolia
+    common: Mongolia
+  oc:
+    official: Mongolia
+    common: Mongolia
+  or:
+    official: ମଙ୍ଗୋଲିୟା
+    common: ମଙ୍ଗୋଲିୟା
+  pa:
+    official: ਮੰਗੋਲੀਆ
+    common: ਮੰਗੋਲੀਆ
+  fa:
+    official: مغولستان
+    common: مغولستان
+  pl:
+    official: Mongolia
+    common: Mongolia
+  pt:
+    official: Mongólia
+    common: Mongólia
+  ps:
+    official: مغولستان
+    common: مغولستان
+  ro:
+    official: Mongolia
+    common: Mongolia
+  ru:
+    official: Монголия
+    common: Монголия
+  si:
+    official: මොංගෝලියාව
+    common: මොංගෝලියාව
+  sk:
+    official: Mongolsko
+    common: Mongolsko
+  sl:
+    official: Mongolija
+    common: Mongolija
+  so:
+    official: Mongolia
+    common: Mongolia
+  es:
+    official: Mongolia
+    common: Mongolia
+  sr:
+    official: Монголија
+    common: Монголија
+  sw:
+    official: Mongolia
+    common: Mongolia
+  sv:
+    official: Mongoliet
+    common: Mongoliet
+  ta:
+    official: மங்கோலியா
+    common: மங்கோலியா
+  tt:
+    official: Моголстан
+    common: Моголстан
+  te:
+    official: మంగోలియా
+    common: మంగోలియా
+  tl:
+    official: Mongolia
+    common: Mongolia
+  th:
+    official: มองโกเลีย
+    common: มองโกเลีย
+  ti:
+    official: ሞንጎሊያ
+    common: ሞንጎሊያ
+  tk:
+    official: Mongoliýa
+    common: Mongoliýa
+  tr:
+    official: Moğolistan
+    common: Moğolistan
+  ug:
+    official: موڭغۇلىيە
+    common: موڭغۇلىيە
+  uk:
+    official: Монголія
+    common: Монголія
+  ve:
+    official: Mongolia
+    common: Mongolia
+  vi:
+    official: Mông Cổ
+    common: Mông Cổ
+  cy:
+    official: Mongolia
+    common: Mongolia
+  wa:
+    official: Mongoleye
+    common: Mongoleye
+  wo:
+    official: Moŋgooli
+    common: Moŋgooli
+  xh:
+    official: Mongolia
+    common: Mongolia
+  zu:
+    official: Mongolia
+    common: Mongolia
